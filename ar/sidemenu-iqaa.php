@@ -1,0 +1,42 @@
+<?php defined('_DEFVAR') or exit('Restricted Access'); ?>
+<ul class="sub-menu">
+    <li class="d-block d-sm-none"><a href="#" class="hide-side-menu"><i class="fa fa-fw fa-times"></i></a></li>
+    <li><a href="/ar/iqaa/aqsaq.php">اقصاق ٩/٨</a></li>
+    <li><a href="/ar/iqaa/ayyub.php">ايّوب ٢/٤</a></li>
+    <li><a href="/ar/iqaa/baladi.php">بلدي ٤/٤</a></li>
+    <li><a href="/ar/iqaa/bambi.php">بَمبي ٨/٤</a></li>
+    <li><a href="/ar/iqaa/thurayya.php">ثريا ٥/٨</a></li>
+    <li><a href="/ar/iqaa/jurjina.php">جورجينا ١٠/٨</a></li>
+    <li><a href="/ar/iqaa/khosh_rang.php">خوش رانك ١٧/٨</a></li>
+    <li><a href="/ar/iqaa/dawr_hindi.php">دور هندي ٧/٨</a></li>
+    <li><a href="/ar/iqaa/rumba.php">رومبا ٤/٤</a></li>
+    <li><a href="/ar/iqaa/zaffa.php">زفّة ٤/٤</a></li>
+    <li><a href="/ar/iqaa/sittatu_ashar.php">ستة عشر مصري ٣٢/٤</a></li>
+    <li><a href="/ar/iqaa/sudasi.php">سداسي ٦/٤</a></li>
+    <li><a href="/ar/iqaa/samai_thaqil.php">سماعي ثقيل ١٠/٨</a></li>
+    <li><a href="/ar/iqaa/samai_darij.php">سماعي دارج ٣/٤</a></li>
+    <li><a href="/ar/iqaa/samai_saraband.php">سماعي سَرَبند ٣/٨</a></li>
+    <li><a href="/ar/iqaa/ciftetelli.php">شفتتلّي ٨/٤</a></li>
+    <li><a href="/ar/iqaa/saidi.php">صعيدي ٤/٤</a></li>
+    <li><a href="/ar/iqaa/dharafat.php">ظرافات ١٣/٨</a></li>
+    <li><a href="/ar/iqaa/awis.php">عويص ١١/٨</a></li>
+    <li><a href="/ar/iqaa/fakhit.php">فاخت ٢٠/٤</a></li>
+    <li><a href="/ar/iqaa/fallahi.php">فلّاحي ٢/٤</a></li>
+    <li><a href="/ar/iqaa/fox.php">فوكس ٢/٤</a></li>
+    <li><a href="/ar/iqaa/katakufti.php">كتاكفتي ٤/٤</a></li>
+    <li><a href="/ar/iqaa/karachi.php">كراتشي ٢/٤</a></li>
+    <li><a href="/ar/iqaa/muhajjar.php">محجّر ١٤/٤</a></li>
+    <li><a href="/ar/iqaa/mukhammas.php">مخمّس ١٦/٤</a></li>
+    <li><a href="/ar/iqaa/mudawwar.php">مدوَّر  ١٢/٤</a></li>
+    <li><a href="/ar/iqaa/murabbaa.php">مربّع ١٣:٤</a></li>
+    <li><a href="/ar/iqaa/masmudi_kabir.php">مصمودي كبير ٨/٤</a></li>
+    <li><a href="/ar/iqaa/maqsum.php">مقسوم ٤/٤</a></li>
+    <li><a href="/ar/iqaa/malfuf.php">ملفوف ٢/٤</a></li>
+    <li><a href="/ar/iqaa/nawakht.php">نَواخْت ٧/٤</a></li>
+    <li><a href="/ar/iqaa/hachaa.php">هجع ٤/٤</a></li>
+    <li><a href="/ar/iqaa/wahda.php">واحدة ٤/٤</a></li>
+    <li><a href="/ar/iqaa/wahda_saghira.php">واحدة صغيرة ٢/٤</a></li>
+    <li><a href="/ar/iqaa/wahda_tawila.php">واحدة طويلة ٨/٤</a></li>
+    <li><a href="/ar/iqaa/wahda_w_nuss.php">واحدة ونصّ ٤/٤</a></li>
+    <li><a href="/ar/iqaa/yuruk_semai.php">يورك سماعي ٦/٨</a></li>
+</ul>

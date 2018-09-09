@@ -1,0 +1,45 @@
+<?php defined('_DEFVAR') or exit('Restricted Access'); ?>
+<ul class="sub-menu">
+    <li class="d-block d-sm-none"><a href="#" class="hide-side-menu"><i class="fa fa-fw fa-times"></i></a></li>
+    <li><a href="/ar/maqam/athar_kurd.php">أثر كُرد</a></li>
+    <li><a href="/ar/maqam/awj_iraq.php">أوج عراق</a></li>
+    <li><a href="/ar/maqam/bayati.php">بياتي</a></li>
+    <li><a href="/ar/maqam/bayati_shuri.php">بياتي شُوري</a></li>
+    <li><a href="/ar/maqam/bastanikar.php">بَسته نِكار</a></li>
+    <li><a href="/ar/maqam/jiharkah.php">جهاركاه</a></li>
+    <li><a href="/ar/maqam/hijaz.php">حجاز</a></li>
+    <li><a href="/ar/maqam/hijazkar.php">حجازكار</a></li>
+    <li><a href="/ar/maqam/hijazkar_kurd.php">حجازكار كُرد</a></li>
+    <li><a href="/ar/maqam/husayni.php">حُسيني</a></li>
+    <li><a href="/ar/maqam/dalanshin.php">دَلَنشين</a></li>
+    <li><a href="/ar/maqam/huzam.php">راحة الارواح</a></li>
+    <li><a href="/ar/maqam/rast.php">راسْت</a></li>
+    <li><a href="/ar/maqam/zanjaran.php">زَنجَران</a></li>
+    <li><a href="/ar/maqam/kirdan.php">سازكار</a></li>
+    <li><a href="/ar/maqam/suzdalara.php">سوزدلارا</a></li>
+    <li><a href="/ar/maqam/hijazkar.php">سوزدِل</a></li>
+    <li><a href="/ar/maqam/suznak.php">سوزناك</a></li>
+    <li><a href="/ar/maqam/sikah.php">سيكاه</a></li>
+    <li><a href="/ar/maqam/sikah_baladi.php">سيكاه بلدي</a></li>
+    <li><a href="/ar/maqam/hijazkar.php">شاه ناز</a></li>
+    <li><a href="/ar/maqam/shawq_afza.php">شوق افزا</a></li>
+    <li><a href="/ar/maqam/hijazkar.php">شَدّ عَرَبان</a></li>
+    <li><a href="/ar/maqam/saba.php">صَبا</a></li>
+    <li><a href="/ar/maqam/saba_zamzam.php">صَبا زمزم</a></li>
+    <li><a href="/ar/maqam/ajam.php">عجم</a></li>
+    <li><a href="/ar/maqam/ajam_ushayran.php">عجم عُشَيران</a></li>
+    <li><a href="/ar/maqam/iraq.php">عراق</a></li>
+    <li><a href="/ar/maqam/ushaq_masri.php">عُشّاق مصري</a></li>
+    <li><a href="/ar/maqam/kurd.php">كُرد</a></li>
+    <li><a href="/ar/maqam/kirdan.php">كِردان</a></li>
+    <li><a href="/ar/maqam/lami.php">لامي</a></li>
+    <li><a href="/ar/maqam/mahur.php">ماهور</a></li>
+    <li><a href="/ar/maqam/mustaar.php">مُستعار</a></li>
+    <li><a href="/ar/maqam/nahawand.php">نهاوند</a></li>
+    <li><a href="/ar/maqam/nahawand_murassaa.php">نهاوند مرصّع</a></li>
+    <li><a href="/ar/maqam/nairuz.php">نيروز</a></li>
+    <li><a href="/ar/maqam/nawa_athar.php">نَو أثر</a></li>
+    <li><a href="/ar/maqam/nikriz.php">نِكريز</a></li>
+    <li><a href="/ar/maqam/huzam.php">هُزام</a></li>
+    <li><a href="/ar/maqam/nairuz.php">يَكاه</a></li>
+</ul>
