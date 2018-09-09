@@ -8,3 +8,13 @@
 <script src="/js/plyr.polyfilled.min.js"></script>
 <script src="/js/owl.carousel.min.js"></script>
 <script src="/js/custom.js?v=1.1"></script>
+<script>
+    $(document).ready(function() {
+        var currentPage = "<?php echo $page; ?>";
+        if(currentPage) {
+            if($("a:regex(href, .*" + currentPage + "$)").parents(".sub-menu")) {
+                $("a:regex(href, .*" + currentPage + "$)").parents("li").addClass("active");
+            }
+        }
+    })
+</script>
