@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "جنس حجاز كار";
 $page_description = "جنس حجاز كار";
-$page_keywords = "arabic, music, arab, world, maqam, jins, hijazkar, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "جنس, عود ,موسيقى عربية ,قانون, ناي, مقام, آلات, طرب, عالم المقامات";
 $page_language = "ar";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>جنس حجاز كار <span class="badge badge-custom">جديد</span></h1>
-                        <h3>جنس دون غمّاز يتمحور حول القرار</h3>
+                        <h3>جنس دون غمّاز يتمحور حول درجة القرار</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الاجناس</a>
                     <div class="clearfix"></div>
@@ -50,7 +50,11 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="457,26,13" href="#" alt="فا" class="playNote" data-frequency="695.3" data-parent="#notation1">
 					</map>
 
-                    <h5>جنس حجاز كار has no <em>ghammaz</em>, and therefore no defined size. Its melody is centered around its tonic, notated here on C. جنس حجاز كار occurs on the octave of <a href="../maqam/hijazkar.php">Maqam Hijazkar</a>.
+                    <h5>
+جنس حجاز كار has no <em>ghammaz</em>, and therefore no defined size. 
+Its melody is centered around its tonic, notated here on C. جنس حجاز كار occurs 
+on the octave of <a href="../maqam/hijazkar.php">Maqam Hijazkar</a>.
+
                     </h5>
 
                     <div class="player-area">

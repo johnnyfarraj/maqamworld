@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "جنس جهاركاه";
 $page_description = "جنس جهاركاه";
-$page_keywords = "arabic, music, arab, world, maqam, jins, ‘ajam, ajam, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "جنس, عود ,موسيقى عربية ,قانون, ناي, مقام, آلات, طرب, عالم المقامات";
 $page_language = "ar";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>جنس جهاركاه</h1>
-                        <h3>الجنس الاول في 
+                        <h3>الجنس الاول في
                             <a href="../maqam/jiharkah.php">مقام الجهاركاه</a>
                         </h3>
                     </div>
@@ -53,8 +53,11 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="496,42,14" href="#" alt="دو" class="playNote" data-frequency="521.48" data-parent="#notation1">
 					</map>
 
-                    <h5>جنس جهاركاه is a 5-note <em>jins</em>. It is notated here with its tonic on F and its <em>ghammaz</em> on C. The 3<sup>rd</sup> and 4<sup>th</sup> degrees are usually played lower than notated. جنس جهاركاه is the first <em>jins</em> in <a href="../maqam/jiharkah.php">Maqam Jiharkah</a>.
+                    <h5>جنس الجهاركاه هو الجنس الاول في
+		<a href="../maqam/jiharkah.php">مقام الجهاركاه</a>
+		 ، حجمه ٥ درجات. يقع قراره في هذا السلّم النموذجي على علامة الفا وغمّازه على علامة الدو. وعادةً ما تُعزف الدرجتين الثالثة والرابعة ادنى قليلاً مما هو منوّط.  
                     </h5>
+		<br>
 
                     <div class="player-area">
                         <audio id="player" controls>

@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "جنس حجاز Murassa";
 $page_description = "جنس حجاز Murassa";
-$page_keywords = "arabic, music, arab, world, maqam, jins, hijaz murassa‘, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "جنس, عود ,موسيقى عربية ,قانون, ناي, مقام, آلات, طرب, عالم المقامات";
 $page_language = "ar";
 
 include($ROOT . 'inc/head.php');
@@ -32,7 +32,7 @@ include($ROOT . 'inc/head.php');
                         <h1>جنس حجاز مُرصّع <span class="badge badge-custom">جديد</span></h1>
                         <h3>صنف من
                             <a href="hijaz.php">جنس الحجاز</a>
-                            تُخفّض درجته الرابعة
+                            تُخفّض درجته الخامسة
                         </h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الاجناس</a>
@@ -53,9 +53,17 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="373,73,14" href="#" alt="صول" class="playNote" data-frequency="391.11" data-parent="#notation1">
 					  <area shape="circle" coords="450,65,12" href="#" alt="لا♭" class="playNote" data-frequency="422" data-parent="#notation1">
                     </map>
-                    
-                    <h5>جنس حجاز مرصّع is a 4-note <em>jins</em>. It is notated here with its tonic on D and its <em>ghammaz</em> on G. جنس حجاز مرصّع is not part of any <em>maqam</em> scale and usually occurs as a modulation from <a href="hijaz.php">جنس حجاز</a>, most in <a href="../maqam/hijazkar.php">Maqam Hijazkar</a>.
+
+                    <h5>جنس حجاز مرصّع هو صنف من
+                            <a href="hijaz.php">جنس الحجاز</a>
+                            تُخفّض درجته الخامسة بنصف صوت ،وحجمه ٤ درجات.
+ يقع قراره في هذا السلّم النموذجي على علامة الري وغمّازه على علامة الصول.
+هذا الجنس ليس جزءاَ من سلّم اي مقام, بل يأتي عادةَ كأنتقال نغميّ من 
+<a href="hijaz.php">جنس الحجاز</a>
+في سياق سير 
+<a href="../maqam/hijazkar.php">مقام الحجاز كار</a>.
                     </h5>
+                    <br>
 
                     <div class="player-area">
                         <audio id="player" controls>

@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "جنس عجم اعلى";
 $page_description = "جنس عجم اعلى";
-$page_keywords = "arabic, music, arab, world, maqam, jins, ‘ajam, ajam, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "جنس, عود ,موسيقى عربية ,قانون, ناي, مقام, آلات, طرب, عالم المقامات";
 $page_language = "ar";
 
 include($ROOT . 'inc/head.php');
@@ -18,7 +18,7 @@ include($ROOT . 'inc/head.php');
       $page = "ar/jins/upper_ajam.php";
       include($ROOT . 'inc/menu.php');
     ?>
-    
+
     <div class="page">
         <div class="container">
             <div class="row">
@@ -27,17 +27,17 @@ include($ROOT . 'inc/head.php');
                     <?php include('../sidemenu-jins.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
-                    
+
                     <div class="heading jins text-center">
                         <h1>جنس عجم اعلى <span class="badge badge-custom">جديد</span></h1>
-                        <h3>صنف من 
+                        <h3>صنف من
                             <a href="ajam.php">جنس العجم </a>
                             (ذو اربع درجات) يقع قراره في الأعلى
                         </h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الاجناس</a>
                     <div class="clearfix"></div>
-                    
+
                      <div class="notation" id="notation1">
                         <img src="/note/jins/upper_ajam.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
@@ -52,16 +52,16 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="383,49,14" href="#" alt="دو" class="playNote" data-frequency="521.48" data-parent="#notation1">
 					  <area shape="circle" coords="455,40,12" href="#" alt="ري" class="playNote" data-frequency="586.66" data-parent="#notation1">
 					</map>
-                    
+
                     <h5>جنس عجم اعلى is a 4-note version of <a href="ajam.php">جنس عجم</a>, with the unusual feature (shared by <a href="upper_rast.php">جنس راست اعلى</a>) that its tonic is the last degree in the scale instead of the first. It is notated here with its <em>ghammaz</em> on G and its tonic on C. جنس عجم اعلى is the second jins in <a href="../maqam/ajam.php">Maqam ‘Ajam</a> and also occurs on the 3<sup>rd</sup> degree of <a href="../maqam/bayati.php">Maqam Bayati</a>.
                     </h5>
-                    
+
                     <div class="player-area">
                         <audio id="player" controls>
                             <source src="/audio/jins/upper_ajam/zayy_el_hawa.mp3" type="audio/mp3">
                         </audio>
                     </div>
-                    
+
                     <div class="track " data-song="/audio/jins/upper_ajam/zayy_el_hawa.mp3">
                         <div class="radio">
                             <label>
@@ -75,7 +75,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/jins/upper_ajam/lissa_fakir.mp3">
                         <div class="radio">
                             <label>
@@ -136,9 +136,9 @@ include($ROOT . 'inc/head.php');
             </div>
         </div>
     </div>
-    
+
     <?php include($ROOT . 'ar/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
-    
+
   </body>
 </html>

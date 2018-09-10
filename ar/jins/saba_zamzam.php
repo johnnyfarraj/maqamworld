@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "جنس صَبا زَمزَم";
 $page_description = "جنس صَبا زَمزَم";
-$page_keywords = "arabic, music, arab, world, maqam, jins, ‘ajam, ajam, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "جنس, عود ,موسيقى عربية ,قانون, ناي, مقام, آلات, طرب, عالم المقامات";
 $page_language = "ar";
 
 include($ROOT . 'inc/head.php');
@@ -30,8 +30,8 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>جنس صَبا زَمزَم</h1>
-                        <h3>الجنس الاول في 
-                            <a href="../maqam/saba_zamzam.php">مقام الصَبا زمزم</a>
+                        <h3>الجنس الاول في
+                            <a href="../maqam/saba_zamzam.php">مقام صَبا زمزم</a>
                         </h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الاجناس</a>
@@ -53,8 +53,12 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="504,52,13" href="#" alt="سي♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					</map>
 
-                    <h5>جنس صَبا زَمزَم (like جنس صَبا) has an ambiguous size. It is notated here with its tonic on D and two <em>ghammaz</em> possibilities: the 3<sup>rd</sup> degree (notated on F) or the 6<sup>th</sup> degree (notated on B&#x266d;). جنس صَبا زَمزَم is the first <em>jins</em> in <a href="../maqam/saba_zamzam.php">Maqam Saba Zamzam</a>.
+                    <h5>جنس جنس صَبا زَمزَم هو الجنس الاول في
+		<a href="../maqam/saba_zamzam.php">مقام صَبا زَمزَم</a>
+. يقع قراره في هذا السلّم النموذجي على علامة الري، اما غمّازه فيمكن ان يقع على الدرجة الثالثة (علامة الفا) او السادسة (علامة السي بيمول).  
+لذلك فحجم هذا الجنس غير واضح.
                     </h5>
+		<br>
 
                     <div class="player-area">
                         <audio id="player" controls>

@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "جنس مخالف شرقي";
 $page_description = "جنس مخالف شرقي";
-$page_keywords = "arabic, music, arab, world, maqam, jins, mustaar, musta‘ar, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "جنس, عود ,موسيقى عربية ,قانون, ناي, مقام, آلات, طرب, عالم المقامات";
 $page_language = "ar";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>جنس مخالف شرقي <span class="badge badge-custom">جديد</span></h1>
-                        <h3>صنف من 
+                        <h3>صنف من
                            <a href="sikah.php">جنس السيكاه</a>
                             تُخفّض درجته الثالثة
                         </h3>

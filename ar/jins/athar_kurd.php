@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "جنس أثر كُرد";
 $page_description = "جنس أثر كُرد";
-$page_keywords = "arabic, music, arab, world, maqam, jins, athar kurd, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "جنس, عود ,موسيقى عربية ,قانون, ناي, مقام, آلات, طرب, عالم المقامات";
 $page_language = "ar";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>جنس أثر كُرد</h1>
-                        <h3>مزيج بين 
+                        <h3>مزيج بين
                             <a href="kurd.php">جنس الكُرد</a>
                             و
                             <a href="nikriz.php">جنس النكريز</a>
@@ -46,18 +46,21 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="59,118,12" href="#" alt="لا♭" class="playNote" data-frequency="211" data-parent="#notation1"><!-- octave below A4b -->
-					  <area shape="circle" coords="136,110,12" href="#" alt="سي♮" class="playNote" data-frequency="247.5" data-parent="#notation1">
-					  <area shape="circle" coords="218,102,14" href="#" alt="دو" class="playNote" data-frequency="260.74" data-parent="#notation1">
-					  <area shape="circle" coords="293,94,13" href="#" alt="ري♭" class="playNote" data-frequency="274" data-parent="#notation1"> <!-- fine tune minor 2nd (see Kurd)-->
-					  <area shape="circle" coords="370,86,13" href="#" alt="مي♭" class="playNote" data-frequency="309" data-parent="#notation1"><!-- minor 3rd -->
-					  <area shape="circle" coords="447,77,13" href="#" alt="فا♯" class="playNote" data-frequency="375" data-parent="#notation1">
-					  <area shape="circle" coords="526,69,14" href="#" alt="صول" class="playNote" data-frequency="391.11" data-parent="#notation1"><!-- hijazkar tonic -->
-					  <area shape="circle" coords="599,61,12" href="#" alt="لا♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- variable: Hijaz 2nd -->
-					</map>
+		  <area shape="circle" coords="59,118,12" href="#" alt="لا♭" class="playNote" data-frequency="211" data-parent="#notation1"><!-- octave below A4b -->
+		  <area shape="circle" coords="136,110,12" href="#" alt="سي♮" class="playNote" data-frequency="247.5" data-parent="#notation1">
+		  <area shape="circle" coords="218,102,14" href="#" alt="دو" class="playNote" data-frequency="260.74" data-parent="#notation1">
+		  <area shape="circle" coords="293,94,13" href="#" alt="ري♭" class="playNote" data-frequency="274" data-parent="#notation1"> <!-- fine tune minor 2nd (see Kurd)-->
+		  <area shape="circle" coords="370,86,13" href="#" alt="مي♭" class="playNote" data-frequency="309" data-parent="#notation1"><!-- minor 3rd -->
+		  <area shape="circle" coords="447,77,13" href="#" alt="فا♯" class="playNote" data-frequency="375" data-parent="#notation1">
+		  <area shape="circle" coords="526,69,14" href="#" alt="صول" class="playNote" data-frequency="391.11" data-parent="#notation1"><!-- hijazkar tonic -->
+		  <area shape="circle" coords="599,61,12" href="#" alt="لا♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- variable: Hijaz 2nd -->
+		</map>
 
-                    <h5>جنس أثر كُرد is a 5-note <em>jins</em>. It is notated here with its tonic on C and its <em>ghammaz</em> on G. جنس أثر كُرد is the first <em>jins</em> in <a href="../maqam/athar_kurd.php">Maqam Athar Kurd</a>.
+                    <h5>جنس أثر كُرد هو الجنس الاول في
+		<a href="../maqam/athar_kurd.php">مقام أثر كُرد</a>
+		 ، حجمه ٥ درجات. يقع قراره في هذا السلّم النموذجي على علامة الدو وغمّازه على علامة الصول.  
                     </h5>
+		<br>
 
                     <div class="player-area">
                         <audio id="player" controls>

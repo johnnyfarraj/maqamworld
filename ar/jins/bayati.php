@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "جنس بياتي";
 $page_description = "جنس بياتي";
-$page_keywords = "arabic, music, arab, world, maqam, jins, bayati, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "جنس, عود ,موسيقى عربية ,قانون, ناي, مقام, آلات, طرب, عالم المقامات";
 $page_language = "ar";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>جنس بياتي</h1>
-                        <h3>جنس الجذر في 
+                        <h3>جنس الجذر في
                             <a href="../maqam/f_bayati.php">عائلة مقام البياتي</a>
                         </h3>
                     </div>

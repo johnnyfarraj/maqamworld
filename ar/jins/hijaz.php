@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "جنس حجاز";
 $page_description = "جنس حجاز";
-$page_keywords = "arabic, music, arab, world, maqam, jins, hijaz, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "جنس, عود ,موسيقى عربية ,قانون, ناي, مقام, آلات, طرب, عالم المقامات";
 $page_language = "ar";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>جنس حجاز</h1>
-                        <h3>جنس الجذر في 
+                        <h3>جنس الجذر في
                             <a href="../maqam/f_hijaz.php">عائلة مقام الحجاز</a>
                         </h3>
                     </div>
@@ -54,8 +54,16 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="636,46,12" href="#" alt="سي♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					</map>
 
-                    <h5>جنس حجاز is a 4-note <em>jins</em>. It is notated here with its tonic on D and its <em>ghammaz</em> on G. The interval between the 2<sup>nd</sup> and 3<sup>rd</sup> degrees is usually played smaller than notated by raising the 2<sup>nd</sup> a little and lowering the 3<sup>rd</sup> a little. جنس حجاز is the first <em>jins</em> in <a href="../maqam/hijaz.php">Maqam Hijaz</a>, <a href="../maqam/hijazkar.php">Maqam Hijazkar</a>, and <a href="../maqam/zanjaran.php">Maqam Zanjaran</a>.
+                    <h5>جنس الحجاز هو جنس الجذر في 
+		<a href="../maqam/hijaz.php">عائلة مقام الحجاز</a>
+، حجمه ٤ درجات. يقع قراره في هذا السلّم النموذجي على علامة الري وغمّازه على علامة الصول.
+وعادةً ما تُرفع الدرجة الثالثة وتُخفّض الدرجة الثالثة قليلاً بالنسبة لما هو منوّط بحيث يصبح البعد بين تلك الدرجتين اقلّ من الصوت ونصف الصوت في السّلم المعدّل.
+ وجنس النكريز هو الجنس الاول في مقامات
+		<a href="../maqam/hijaz.php">حجاز</a> ،
+		<a href="../maqam/hijazkar.php">حجاز كار</a> و
+		<a href="../maqam/zanjaran.php">زنجران</a>.
                     </h5>
+		<br>
 
                     <div class="player-area">
                         <audio id="player" controls>

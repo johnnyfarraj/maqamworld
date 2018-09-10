@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "جنس صَبا";
 $page_description = "جنس صَبا";
-$page_keywords = "arabic, music, arab, world, maqam, jins, ‘ajam, ajam, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "جنس, عود ,موسيقى عربية ,قانون, ناي, مقام, آلات, طرب, عالم المقامات";
 $page_language = "ar";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>جنس صَبا</h1>
-                        <h3>الجنس الاول في 
+                        <h3>الجنس الاول في
                             <a href="../maqam/saba.php">مقام الصَبا</a>
                         </h3>
                     </div>
@@ -53,7 +53,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="532,53,13" href="#" alt="لا♮" class="playNote" data-frequency="437" data-parent="#notation1"><!-- Hijaz 3rd tuned down from 440-->
 					  <area shape="circle" coords="609,45,13" href="#" alt="سي♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					</map>
-                    
+
                     <h5>جنس صَبا has an ambiguous size. It is notated here with its tonic on D and two <em>ghammaz</em> possibilities: the 3<sup>rd</sup> degree (notated on F) or the 6<sup>th</sup> degree (notated on B&#x266d;). جنس صَبا is the first jins in <a href="../maqam/saba.php">Maqam Saba</a>.
                     </h5>
 

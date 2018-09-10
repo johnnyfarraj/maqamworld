@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "جنس نهاوند Murassa";
 $page_description = "جنس نهاوند Murassa";
-$page_keywords = "arabic, music, arab, world, maqam, jins, nahawand murassa‘, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "جنس, عود ,موسيقى عربية ,قانون, ناي, مقام, آلات, طرب, عالم المقامات";
 $page_language = "ar";
 
 include($ROOT . 'inc/head.php');
@@ -54,8 +54,11 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="509,62,12" href="#" alt="لا♮" class="playNote" data-frequency="444" data-parent="#notation1"><!--var-->
 					</map>
 
-                    <h5>جنس نهاوند مرصّع has no <em>ghammaz</em>, and therefore no defined size. It is notated here with its tonic on C. جنس نهاوند مرصّع is the first <em>jins</em> in <a href="../maqam/nahawand_murassaa.php">Maqam Nahawand Murassa‘</a>.
+                    <h5>جنس نهاوند مرصّع هو الجنس الاول في
+		<a href="../maqam/nahawand_murassaa.php">مقام نهاوند مرصّع</a>
+		 .يقع قراره في هذا السلّم النموذجي على علامة الدو، اما غمّازه فهو غير محدد (لذلك حجمه غير محدد ايضاً).  
                     </h5>
+		<br>
 
                     <div class="player-area">
                         <audio id="player" controls>
