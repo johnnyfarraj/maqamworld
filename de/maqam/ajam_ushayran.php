@@ -61,8 +61,8 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="272,155,390,184" href="../jins/kurd.php" class="mapLink" data-parent="#notation1"
 		</ map>
 
-                    <p>Maqam ‘Ajam ‘Ushayran ist eine archaische Version von <a href="ajam.php">Maqam ‘Ajam</a> mit einem anderen Sayr. Er hat auch einen völlig anderen tonalen Schwerpunkt. Er macht nicht seine fünfte Stufe zur nächsten Tonika, sondern stattdesen die dritte und sechste Stufe.</p>
-                        
+                    <p>Maqam ‘Ajam ‘Ushayran ist eine archaische Version von <a href="ajam.php">Maqam ‘Ajam</a> mit einem anderen Sayr. Er hat auch einen völlig anderen tonalen Schwerpunkt. Er macht nicht seine fünfte Stufe zur nächsten Tonika, sondern stattdessen die dritte und sechste Stufe.</p>
+
                     <p>Die Leiter von Maqam ‘Ajam ‘Ushayran beginnt mit Wurzel-<a href="../jins/ajam.php">Jins ‘Ajam</a> auf der Tonika. Danach folgen <a href="../jins/kurd.php">Jins Kurd</a> auf der dritten Stufe und <a href="../jins/nahawand.php">Jins Nahawand</a> auf der sechsten Stufe.</p>
 
                     <p>Erkunden Sie andere Maqamat der <a href="f_ajam.php">Maqam-‘Ajam-Familie</a>.</p>

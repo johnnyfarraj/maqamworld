@@ -67,7 +67,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="710,6,835,31" href="../jins/nikriz.php" class="mapLink" data-parent="#notation1">
 	      </map>
 
-                    <p>Maqam Bastanikar ist <a href="../jins/sikah.php">Jins Sikah</a>, gefolgt von <a href="saba.php">Maqam Saba</a>. Seine Leiter beginnt mit <a href="../jins/sikah.php">Jins Sikah</a> auf der Tonika, gefolgt von <a href="../jins/saba.php">Jins Saba</a> auf der dritten Stufe, einem überlappenden <a href="../jins/hijaz.php">Jins Hijaz</a> auf der fünften Stufe. Die Leiter endet mit <a href="../jins/nikriz.php">Jins Nikriz</a> in der Oktave.</p>
+                    <p>Maqam Bastanikar ist <a href="../jins/sikah.php">Jins Sikah</a>, gefolgt von <a href="saba.php">Maqam Saba</a>. Seine Leiter beginnt mit <a href="../jins/sikah.php">Jins Sikah</a> auf der Tonika, gefolgt von <a href="../jins/saba.php">Jins Saba</a> auf der dritten Stufe sowie einem überlappenden <a href="../jins/hijaz.php">Jins Hijaz</a> auf der fünften Stufe. Die Leiter endet mit <a href="../jins/nikriz.php">Jins Nikriz</a> in der Oktave.</p>
 
                     <p>Erkunden Sie andere Maqamat der <a href="f_sikah.php">Maqam-Sikah-Familie</a>.</p>
 

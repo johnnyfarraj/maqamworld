@@ -133,8 +133,9 @@ include($ROOT . 'inc/head.php');
 
                     <!-- Start Rahat al-Arwah section -->
                     <div class="heading jins text-center">
-                        <h3>Remaining examples are in Maqam Rahat al-Arwah</h3>
+                        <h3>Maqam Rahat al-Arwah examples</h3>
                     </div>
+                    <div class="clearfix"></div>
 
                     <div class="track" data-song="/audio/maqam/rahat-el-arwah/el_wardi_gamil.mp3">
                         <div class="radio">

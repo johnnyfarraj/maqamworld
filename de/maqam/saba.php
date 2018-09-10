@@ -67,8 +67,8 @@ include($ROOT . 'inc/head.php');
 
                     <p>Maqam Saba ist ein ziemlich häufiger und beliebter Maqam im arabischen Repertoire. Seine Leiter beginnt mit <a href="../jins/saba.php">Jins Saba</a> auf der Tonika, überlappt von <a href="../jins/hijaz.php">Jins Hijaz</a> auf der dritten Stufe, gefolgt von entweder <a href="../jins/ajam.php">Jins ‘Ajam</a> oder <a href="../jins/nikriz.php">Jins Nikriz</a> auf der sechsten Stufe.
                     </p>
-                    
-                    <p>Maqam Saba ist nicht Teil einer Familie</p>
+
+                    <p>Maqam Saba ist nicht Teil einer Familie.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

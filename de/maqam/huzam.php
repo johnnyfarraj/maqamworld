@@ -65,9 +65,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="484,7,591,35" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <p>Maqam Huzam ist mit Abstand der gebräuchlichste Maqam der Sikah-Familie und fängt entsprechend mit einem um einem um einen Viertelton erniedrigten E (also einem Sikah) an. Transponiert man ihn zu dem Viertelton zwischen H und B, so hat er einen eigenen Namen: Maqam Rahat al-Arwah. Beide Maqamat haben exakt das gleiche Sayr. Seine Leiter beginnt mit dem Wurzel-<a href="../jins/sikah.php">Jins Sikah</a> auf der Tonika. Es folgen <a href="../jins/hijaz.php">Jins Hijaz</a> auf der vierten Stufe sowie <a href="../jins/rast.php">Jins Rast</a> auf der sechsten Stufe.</p>
-
-                    <p>The transposition of Maqam Huzam to B<i class="icon-halfflat"></i> has its own name: <strong>Maqam Rahat al-Arwah</strong>. Both maqamat have exactly the same sayr.</p>
+                    <p>Maqam Huzam ist mit Abstand der gebräuchlichste Maqam der Sikah-Familie und fängt entsprechend mit einem um einem um einen Viertelton erniedrigten E (also einem Sikah) an. Transponiert man ihn zu dem Viertelton zwischen H und B, so hat er einen eigenen Namen: <strong>Maqam Rahat al-Arwah</strong>. Beide Maqamat haben exakt das gleiche Sayr. Seine Leiter beginnt mit dem Wurzel-<a href="../jins/sikah.php">Jins Sikah</a> auf der Tonika. Es folgen <a href="../jins/hijaz.php">Jins Hijaz</a> auf der vierten Stufe sowie <a href="../jins/rast.php">Jins Rast</a> auf der sechsten Stufe.</p>
 
                     <p>Erkunden Sie andere Maqamat der <a href="f_sikah.php">Maqam-Sikah-Familie</a>.</p>
 
@@ -132,8 +130,9 @@ include($ROOT . 'inc/head.php');
 
                     <!-- Start Rahat al-Arwah section -->
                     <div class="heading jins text-center">
-                        <h3>Remaining examples are in Maqam Rahat al-Arwah</h3>
+                        <h3>Maqam Rahat al-Arwah examples</h3>
                     </div>
+                    <div class="clearfix"></div>
 
                     <div class="track" data-song="/audio/maqam/rahat-el-arwah/el_wardi_gamil.mp3">
                         <div class="radio">

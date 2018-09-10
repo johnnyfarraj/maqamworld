@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="573,4,682,34" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <p>Maqam Dalanshin beginnt mit <a href="../jins/saba_dalanshin.php">Jins Saba Dalanshin</a> auf der Oktave von <a href="rast.php">Maqam Rast</a> und geht dann in die <a href="../jins/upper_rast.php">Jins-Rast-Leiter über</a>. In diesem Maqam gibt es nicht all zu viele Stücke. Er ist eher gebräuchlich als Modulation von <a href="rast.php">Maqam Rast</a> aus.</p>                    
+                    <p>Maqam Dalanshin beginnt mit <a href="../jins/saba_dalanshin.php">Jins Saba Dalanshin</a> auf der Oktave von <a href="rast.php">Maqam Rast</a> und geht dann in die <a href="../jins/upper_rast.php">Jins-Rast-Leiter</a> über. In diesem Maqam gibt es nicht all zu viele Stücke. Er ist eher gebräuchlich als Modulation von <a href="rast.php">Maqam Rast</a> aus.</p>
                     <p>Es gibt nicht allzu viele Stücke in diesem Maqam. Er wird eher als Modulation von <a href="rast.php">Maqam Rast</a> benutzt.</p>
 
                     <p>Erkunden Sie andere Maqamat der <a href="f_rast.php">Maqam-Rast-Familie</a>.</p>

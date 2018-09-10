@@ -20,7 +20,7 @@
                 <ul class="menu">
                     <li><a href="#"><i class="fa fa-fw fa-phone"></i>Rufen Sie uns an</a></li>
                     <li><a href="#"><i class="fa fa-fw fa-map-marker"></i>Besuchen Sie uns</a></li>
-                    <li><a href="/de/contact.php"><i class="fa fa-fw fa-envelope"></i>Senden Sie uns eine Nachricht</a></li>
+                    <li><a href="/de/contact.php"><i class="fa fa-fw fa-envelope"></i>Schreiben Sie uns</a></li>
                 </ul>
             </div>
             <div class="col-sm-5 text-right">

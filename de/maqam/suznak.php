@@ -61,7 +61,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="422,8,546,35" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <p>Maqam Suznak ist die populärste Modulation von <a href="rast.php">Maqam Rast</a>, wobei die Modulation zu <a href="../jins/hjaz.php">Jins Hijaz</a> auf der fünften Stufe geradezu obligatorisch in jedwedem <a href="../form/improv.php">Taqsim oder Mawwal</a> ist, der auf <a href="jns/rast.php">Jins Rast</a> beginnt.</p>
+                    <p>Maqam Suznak ist die populärste Modulation von <a href="rast.php">Maqam Rast</a>, wobei die Modulation zu <a href="../jins/hjaz.php">Jins Hijaz</a> auf der fünften Stufe geradezu obligatorisch in jedwedem <a href="../form/improv.php#taqsim">Taqsim</a> oder <a href="../form/improv.php#mawwal">Mawwal</a> ist, der auf <a href="jns/rast.php">Jins Rast</a> beginnt.</p>
 
                     <p>Erkunden Sie andere Maqamat der <a href="f_rast.php">Maqam-Rast-Familie</a>.</p>
 

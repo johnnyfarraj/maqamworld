@@ -60,8 +60,8 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="337,144,483,175" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
 	     </map>
 
-                    <p>Maqam Athar Kurd ist ein sehr seltener Maqam, der vermutlich erst im zwanzigsten Jahrhundert entstanden ist. Die Skala ist ein Hybrid von <a href="nawa_athar.php">Maqam Nawa Athar</a> (mit angehobener vierten und siebten Stufe) und <a href="kurd.php">Maqam Kurd</a> (mit erniedrigter zweiter Stufe), daher der Name.</p>
-                    
+                    <p>Maqam Athar Kurd ist ein sehr seltener Maqam, der vermutlich erst im zwanzigsten Jahrhundert entstanden ist. Die Skala ist ein Hybrid von <a href="nawa_athar.php">Maqam Nawa Athar</a> (mit angehobener vierter und siebter Stufe) und <a href="kurd.php">Maqam Kurd</a> (mit erniedrigter zweiter Stufe), daher der Name.</p>
+
                     <p>Die Skala beginnt mit <a href="../jins/athar_kurd.php">Jins Athar Kurd</a> auf der Tonika, gefolgt von <a href="../jins/hijazkar.php">Jins Hijazkar</a>, das sich um die fünfte Stufe gruppiert. </p>
 
                     <p>Erkunden Sie andere Maqamat der <a href="f_nikriz.php">Maqam-Nikriz-Familie</a>.</p>
