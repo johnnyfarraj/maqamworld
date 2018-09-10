@@ -56,8 +56,14 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="590,62,12" href="#" alt="لا" class="playNote" data-frequency="440" data-parent="#notation1">
 					</map>
 
-                    <h5>جنس عجم is a 5-note <em>jins</em>. It is notated here with its tonic on C and its <em>ghammaz</em> on G. جنس عجم is the first <em>jins</em> in <a href="../maqam/ajam.php">Maqam ‘Ajam</a> and <a href="../maqam/shawq_afza.php">Maqam Shawq Afza</a>.
+                    <h5>جنس العجم هو جنس الجذر في 
+		<a href="../maqam/f_ajam.php">عائلة مقام العجم</a>
+، حجمه ٥ درجات. يقع قراره في هذا السلّم النموذجي على علامة الدو وغمّازه على علامة الصول.
+ وجنس العجم هو الجنس الاول في مقامات
+		<a href="../maqam/ajam.php">العجم</a> و
+		<a href="../maqam/shawq_afza.php">شوق افزا</a>.
                     </h5>
+		          <br>
 
                     <div class="player-area">
                         <audio id="player" controls>

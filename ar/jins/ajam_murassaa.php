@@ -54,7 +54,16 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="518,37,12" href="#" alt="ري" class="playNote" data-frequency="586.66" data-parent="#notation1">
 					</map>
 
-                    <h5>جنس عجم مرصّع is a 5-note jins. It is notated here with its tonic on F and its <em>ghammaz</em> on C. جنس عجم مرصّع is not part of any maqam scale and usually occurs as a modulation from <a href="ajam.php">جنس عجم</a>.</h5>
+                    <h5>جنس عجم مُرصّع هو صنف من
+                            <a href="ajam.php">جنس العجم</a>
+                            تُرفع درجته الرابعة بنصف صوت ،وحجمه ٥ درجات.
+ يقع قراره في هذا السلّم النموذجي على علامة الفا وغمّازه على علامة الدو.
+هذا الجنس ليس جزءاَ من سلّم اي مقام، بل يأتي عادةَ كأنتقال نغميّ من 
+<a href="hijaz.php">جنس العجم</a>
+في سياق سير 
+<a href="../maqam/ajam.php">مقام العجم</a>.
+                    </h5>
+                    <br>
 
                     <div class="player-area">
                         <audio id="player" controls>
