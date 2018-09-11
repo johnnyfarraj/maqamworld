@@ -41,7 +41,7 @@ include($ROOT . 'inc/head.php');
                         <span>Der libanesische Pianist Ziad Rahbani auf einem Konzert-Poster in den 1980er-Jahren</span>
                     </div>
 
-                    <p>Obwohl das Klavier in der arabischen Musik seit dem frühen zwanzigsten Jahrhundert präsent ist, wurde es vornehmlich als westliches Instrument benutzt, um ein wenig klassisches Flair in die arabischen Kompositionen zu bringen, etwa im Falle von "Al-Siba wal-Gamal" von Muhammad Abdel Wahab, 1939). Die Bezeichnung arabisches Klavier hingegen bezieht sich auf ein Klavier, das melodisch, also ohne Akkordbegleitung im <a href="../maqam.php">Maqam</a>-Zusammenhang gespielt wird.
+                    <p>Obwohl das Klavier in der arabischen Musik seit dem frühen zwanzigsten Jahrhundert präsent ist, wurde es vornehmlich als westliches Instrument benutzt, um ein wenig klassisches Flair in die arabischen Kompositionen zu bringen, etwa im Falle von "Al-Siba wal-Gamal" von Muhammad Abdel Wahab (1939). Die Bezeichnung arabisches Klavier hingegen bezieht sich auf ein Klavier, das melodisch, also ohne Akkordbegleitung im <a href="../maqam.php">Maqam</a>-Zusammenhang gespielt wird.
                     </p>
                     <p>
                     Der erste Pionier des arabischen Klaviers war der Libenese Wadih Sabra, der ein Klavier mit Zusatztönen (Vierteltönen) während des Musikkongresses in Kairo 1932 spielte. Später baute der Libanese Abdallah Chahine ebenfalls ein Klavier so um, dass es Vierteltöne spielen konnte. Er nahm ein Album mit dem Titel "al-Nagham al-Khalid" mit <a href="../form/improv.php#taqsim">Taqasim</a> in den geläufigsten <a href="../maqam.php">Maqamat</a> auf.

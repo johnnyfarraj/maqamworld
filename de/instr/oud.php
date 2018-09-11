@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Simon Shaheen</b>
-                                    <span>Der palästinensische Oud-Spieler Simon Shaheen spielt einen Oud-Taqsim im Maqam Hijaz, aufgenommen im Metropolitain Museum in New York, 1987.</span>
+                                    <span>Der palästinensische Oud-Spieler Simon Shaheen spielt einen Oud-Taqsim im Maqam Hijaz, aufgenommen im Metropolitan Museum in New York, 1987.</span>
                                 </div>
                             </label>
                         </div>

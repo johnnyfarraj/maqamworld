@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Faruq Salama Interview</b>
+                                    <b>Faruq Salama im Interview</b>
                                     <span>Faruq Salama im Interview über seine Erfahrungen im Orchester von Umm Kulthum</span>
                                 </div>
                             </label>

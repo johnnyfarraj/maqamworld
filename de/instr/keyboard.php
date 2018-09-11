@@ -76,7 +76,7 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Shamstep by 47Soul</b>
+                                    <b>Shamstep von 47Soul</b>
                                 <span>Die panpalästinensische Gruppe 47Soul hat das orientalische Keyboard um Soundeffekte erweitert, um das neue Genre Techno-Dabke zu generieren, wie in ihrem Hit Shamstep.</span>
                                 </div>
                             </label>

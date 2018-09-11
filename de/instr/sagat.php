@@ -51,11 +51,6 @@ include($ROOT . 'inc/head.php');
                     <p>Die Sagat (außerhalb Ägyptens Sajat genannt) sind Messingzimbeln mit einem Durchmesser von vier bis fünf Zentimetern (es gibt auch welche, die bis zu doppelt so groß sind; diese heißen <em>Tura</em>). Sie hängen an einem elastischen Band zusammen und dieses wird um den Daumen und den Mittelfinger genommen. Sagat sind sehr beliebt bei Raqs-Sharqi-Profis (also professionellen Bauchtänzerinnen), da sie hübsche Akzente setzen und Farbe in die Rhythmusbegleitung bringen. Daher gibt es auch massenhaft Youtube-Videos, die erklären, wie man mit den Zimbeln umgeht und wie genau man sie einsetzt. Gelegentlich werden Sagat im arabischen Raum auch mit ihrem türkischen Namen als Zills bezeichnet.
                     </p>
 
-                    <p>Sagat sind sehr beliebt bei Raqs-Sharqi-Profis (Bauchtänzerinnen),
-                    da diese Instrumente farbige Akzente im Zusammenspiel mit den anderen Perkussionsinstrumenten setzen.
-                    Daher gibt es auch massenhaft Youtube-Videos zur Spieltechnik und Aufführungspraxis der Fingerzimbeln.
-                    </p>
-
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=UpG__9CAiVE&t=0s">
                         <div class="radio">
                             <label>

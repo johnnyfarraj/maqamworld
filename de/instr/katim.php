@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Der Katim</h1>
-                        <h3>Eine stumpfe Rahmentrommel, die zur Unterstützung eingesetzt wird</h3>
+                        <h3>Eine dumpfe Rahmentrommel, die zur Unterstützung eingesetzt wird</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Instrumenten verzeichnis</a>
@@ -45,7 +45,7 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/katim.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Katim</a>
                     </div>
 
-                    <p> Der Katim (vom Verb "katama", dämpfen, stumm machen) ist eine schwere Rahmentrommel mit einem dumpfen Klang. Er wird gewöhnlich zwischen die Knie geklemmt und mit den Händen gespielt, nicht mit den Fingern. Die meisten Katims haben heutzutage ein stimmbares Plastikfell. Aufgabe des Katims ist es die Dums und Take der Rhythmusgruppe zu verstärken.
+                    <p> Der Katim (vom Verb "katama", dämpfen, stumm machen) ist eine schwere Rahmentrommel mit einem dumpfen Klang. Er wird gewöhnlich zwischen die Knie geklemmt und mit den Händen gespielt, nicht mit den Fingern. Die meisten Katims haben heutzutage ein stimmbares Plastikfell. Aufgabe des Katims ist es die Dums und Taks der Rhythmusgruppe zu verstärken.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=cU1uHX74qkE&t=0s">
@@ -58,7 +58,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Zaffa (Wedding Party)</b>
-                                    <span>Eine ägyptische Hochzeitsgesellschaft (Zaffa) mit einer großen Perkussionsgruppe, die wie Kombination aus Katims, <a href="mazhar.php">Mazhars</a> und <a href="tabla.php">Tablas</a> verwendet, allesamt mit Plastikfellen ausgestattet
+                                    <span>Eine ägyptische Hochzeitsgesellschaft (Zaffa) mit einer großen Perkussionsgruppe, die eine Kombination aus Katims, <a href="mazhar.php">Mazhars</a> und <a href="tabla.php">Tablas</a> verwendet, allesamt mit Plastikfellen ausgestattet
                                     </span>
                                 </div>
                             </label>

@@ -78,7 +78,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ahmad al-Hifnawi</b>
-                                    <span>Der ägyptische Geiger Ahmed al-Hifnawi (der erster Geiger im Orchester von Umm Kulthum war) spielt die traditionelle Instrumentalkomposition Tahmila Rast (Suznak), welche einen hohen Improvisationsanteil enthält. Zum Ensemble gehören George Michel auf der Oud, Mahmud ‘Effat auf der Nay und Hassan Anwar auf dem Riqq.</span>
+                                    <span>Der ägyptische Geiger Ahmed al-Hifnawi (der erster Geiger im Orchester von Umm Kulthum war) spielt die traditionelle Instrumentalkomposition Tahmila Rast (Suznak), welche einen hohen Improvisationsanteil enthält. Zum Ensemble gehören George Michel auf der Oud, Mahmud ‘Effat auf der Nay und Hassan Anwar auf dem Riq.</span>
                                 </div>
                             </label>
                         </div>
@@ -126,7 +126,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Simon Shaheen</b>
-                                    <span>Der palästinensische Geiger Simon Shaheen spielt ein Violin-Taqsim im Maqam Rast begleitet von Iqa‘ Rumba, das mit der zweiten Hälfte von Riyat al-Sunbatis Instrumentalkomposition Longa Farahfaza endet.</span>
+                                    <span>Der palästinensische Geiger Simon Shaheen spielt einen Violin-Taqsim im Maqam Rast begleitet von Iqa‘ Rumba, das mit der zweiten Hälfte von Riyat al-Sunbatis Instrumentalkomposition Longa Farahfaza endet.</span>
                                 </div>
                             </label>
                         </div>
