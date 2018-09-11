@@ -46,7 +46,7 @@ function searchDirectoryIterator($path, $string){
             if($file->getBasename() == "results.php" || $file->getBasename() == "search.php") {
                 continue;
             }
-            $content2 = curl_get_contents(str_replace('./', 'http://maqamworld.com/en/', $file->getPathname()));
+            $content2 = curl_get_contents(str_replace('./', 'http://maqamworld.com/de/', $file->getPathname()));
             $content = strtolower($content2);
             if (strpos($content, strtolower($string)) !== false) {
                 $res = preg_match("/<title>(.*)<\/title>/siU", $content2, $title_matches);
