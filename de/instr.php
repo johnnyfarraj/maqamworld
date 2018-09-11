@@ -62,7 +62,7 @@ include($ROOT . 'inc/head.php');
                     <p>Schlagzeug und elektronische Perkussion sind inzwischen auch sehr verbreitet in der arabischen Pop- und Tanzmusik. Flöte, <a href="instr/saxophone.php">Saxofon</a>, Klarinette und <a href="instr/trumpet.php">Trompete</a> sind nicht gleichtemperierte Instrumente und erlauben größere Kontrolle über die Tonhöhe als die oben genannten Instrumente. Sie werden unterschiedlich intensiv in der arabischen Musik genutzt, besonders aber kommen sie in modernen arabischen Jazz-Fusion-Stilen vor.
                     </p>
 
-                    <p>Die <a href="instr/violin.php">Violine</a>, die Viola, das Violoncello und der Kontrabass werden in der arabischen Musik viel benutzt, insbesondere in großen Ensembles wie dem Orchester von Umm Kulthum und dem Diamond Orchestra in Ägypten. Da sie alle bundlose sind, könne diese Instrumente die arabischen Maqamskalen gut reproduzieren.
+                    <p>Die <a href="instr/violin.php">Violine</a>, die Viola, das Violoncello und der Kontrabass werden in der arabischen Musik viel benutzt, insbesondere in großen Ensembles wie dem Orchester von Umm Kulthum und dem Diamond Orchestra in Ägypten. Da sie alle bundlos sind, könne diese Instrumente die arabischen Maqamskalen gut reproduzieren.
                     </p>
 
                     <div class="row">
@@ -74,7 +74,7 @@ include($ROOT . 'inc/head.php');
                                     <p class="card-text"><a href="instr/oud.php">Die Oud (‘Ud)</a></p>
                                     <p class="card-text"><a href="instr/qanun.php">Das Kanun</a></p>
                                     <p class="card-text"><a href="instr/nay.php">Die Nay</a></p>
-                                    <p class="card-text"><a href="instr/violin.php">Die Arabische Violine</a></p>
+                                    <p class="card-text"><a href="instr/violin.php">Die arabische Violine</a></p>
                                     <p class="card-text"><a href="instr/buzuq.php">Der Buzuk</a></p>
                                 </div>
                             </div>
@@ -98,7 +98,7 @@ include($ROOT . 'inc/head.php');
                             <div class="card">
                                 <img class="card-img-top" src="/img/vergara.png" alt="Oud Rosette Vergara">
                                 <div class="card-body">
-                                    <h5 class="card-title">Perkussionsinstrumenten</h5>
+                                    <h5 class="card-title">Perkussionsinstrumente</h5>
                                     <p class="card-text"><a href="instr/riqq.php">Das Riq</a></p>
                                     <p class="card-text"><a href="instr/tabla.php">Die Tabla</a></p>
                                     <p class="card-text"><a href="instr/tabl_baladi.php">Das Tabl Baladi</a></p>
