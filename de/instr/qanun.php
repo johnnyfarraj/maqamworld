@@ -126,7 +126,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Abraham Salman</b>
-                                    <span>Abraham Salman (Irak) in einem Kanun-Taqsim im Maqam Rast von seiner CD "Saltanah"</span>
+                                    <span>Abraham Salman (Irak) in einem Kanun-Taqsim im Maqam Rast von seiner CD <strong>Saltanah</strong></span>
                                 </div>
                             </label>
                         </div>

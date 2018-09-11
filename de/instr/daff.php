@@ -88,7 +88,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Duqqu el-Mazahir</b>
-                                    <span>Farid al-Atrashs Hochzeitslied Duqqu el-Mazahir ("Spielt die Rahmentrommeln", 1952) präsentiert eine Reihe von Rahmentrommeln.
+                                    <span>Farid al-Atrashs Hochzeitslied Duqqu el-Mazahir (<strong>Spielt die Rahmentrommeln</strong>, 1952) präsentiert eine Reihe von Rahmentrommeln.
                                     </span>
                                 </div>
                             </label>

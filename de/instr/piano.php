@@ -41,10 +41,10 @@ include($ROOT . 'inc/head.php');
                         <span>Der libanesische Pianist Ziad Rahbani auf einem Konzert-Poster in den 1980er-Jahren</span>
                     </div>
 
-                    <p>Obwohl das Klavier in der arabischen Musik seit dem frühen zwanzigsten Jahrhundert präsent ist, wurde es vornehmlich als westliches Instrument benutzt, um ein wenig klassisches Flair in die arabischen Kompositionen zu bringen, etwa im Falle von "Al-Siba wal-Gamal" von Muhammad Abdel Wahab (1939). Die Bezeichnung arabisches Klavier hingegen bezieht sich auf ein Klavier, das melodisch, also ohne Akkordbegleitung im <a href="../maqam.php">Maqam</a>-Zusammenhang gespielt wird.
+                    <p>Obwohl das Klavier in der arabischen Musik seit dem frühen zwanzigsten Jahrhundert präsent ist, wurde es vornehmlich als westliches Instrument benutzt, um ein wenig klassisches Flair in die arabischen Kompositionen zu bringen, etwa im Falle von <strong>Al-Siba wal-Gamal</strong> von Muhammad Abdel Wahab (1939). Die Bezeichnung arabisches Klavier hingegen bezieht sich auf ein Klavier, das melodisch, also ohne Akkordbegleitung im <a href="../maqam.php">Maqam</a>-Zusammenhang gespielt wird.
                     </p>
                     <p>
-                    Der erste Pionier des arabischen Klaviers war der Libenese Wadih Sabra, der ein Klavier mit Zusatztönen (Vierteltönen) während des Musikkongresses in Kairo 1932 spielte. Später baute der Libanese Abdallah Chahine ebenfalls ein Klavier so um, dass es Vierteltöne spielen konnte. Er nahm ein Album mit dem Titel "al-Nagham al-Khalid" mit <a href="../form/improv.php#taqsim">Taqasim</a> in den geläufigsten <a href="../maqam.php">Maqamat</a> auf.
+                    Der erste Pionier des arabischen Klaviers war der Libenese Wadih Sabra, der ein Klavier mit Zusatztönen (Vierteltönen) während des Musikkongresses in Kairo 1932 spielte. Später baute der Libanese Abdallah Chahine ebenfalls ein Klavier so um, dass es Vierteltöne spielen konnte. Er nahm ein Album mit dem Titel <strong>al-Nagham al-Khalid</strong> mit <a href="../form/improv.php#taqsim">Taqasim</a> in den geläufigsten <a href="../maqam.php">Maqamat</a> auf.
                     </p>
                     <p>Am Ende des zwanzigsten Jahrhunderts nahm der libanesische Musiker und Dramatiker Ziad Rahbani viele Lieder und Instrumentalkompositionen im Jazz-Fusion-Bereich auf, bei denen er ein akustisches oder elektronisches (Fender Rhodes) Klavier spielte, mit dem er Maqamleitern oder Harmonien spielte.
                     </p>
@@ -59,7 +59,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Abdallah Chahine</b>
-                                <span>Abdallah Chahine spielt einen Klavier-Taqsim im Maqam Saba, gefolgt von der Komposition Batit ‘Uyuni von seinem Album "Angham Min al-Sharq"</span>
+                                <span>Abdallah Chahine spielt einen Klavier-Taqsim im Maqam Saba, gefolgt von der Komposition Batit ‘Uyuni von seinem Album <strong>Angham Min al-Sharq</strong></span>
                                 </div>
                             </label>
                         </div>

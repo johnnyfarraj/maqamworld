@@ -45,14 +45,14 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/oud.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Oud</a>
                     </div>
 
-                    <p>Die Oud (bisweilen auch ‘Ud geschrieben; das grammatikalische Geschlecht im Arabischen ist maskulin) ist eines der populärsten Instrumente in der arabischen Musik. Der Name bedeutet "kleiner Holzstreifen" auf Arabisch. Dies bezieht sich auf die Holzstreifen, die benutzt werden, um den birnenförmige Korpus des Instruments herzustellen. Der Hals des Instruments ist im Verhältnis zum Korpus ziemlich kurz. Er hat keine Bünde. Dies erlaubt dem Musiker, eine exakte Intonation zu erreichen, und macht das Instrument ideal für das Spiel arabischer <a href="../maqam.php">Maqamat</a>.
+                    <p>Die Oud (bisweilen auch ‘Ud geschrieben; das grammatikalische Geschlecht im Arabischen ist maskulin) ist eines der populärsten Instrumente in der arabischen Musik. Der Name bedeutet “kleiner Holzstreifen” auf Arabisch. Dies bezieht sich auf die Holzstreifen, die benutzt werden, um den birnenförmige Korpus des Instruments herzustellen. Der Hals des Instruments ist im Verhältnis zum Korpus ziemlich kurz. Er hat keine Bünde. Dies erlaubt dem Musiker, eine exakte Intonation zu erreichen, und macht das Instrument ideal für das Spiel arabischer <a href="../maqam.php">Maqamat</a>.
                     </p>
-                    <p>Die Oud hat fünf unisono gestimmte Saitenpaare und eine Bassseite. Allerdings haben einige Ouds noch ein extra Saitenpaar. Die häufigste Stimmung (von tief nach hoch) ist C, F, A, D, G, C, was bedeutet, dass die Saiten im Wesentlichen in Quartabständen gestimmt sind. Die Saiten wurden früher zumeist aus Tierdarm hergestellt und mit einem Plektrum namens Risha (Arabisch für "Feder") gespielt. Die modernen Saiten sind aus Nylon, der mit Stahl umwickelt ist, und moderne Rishas sind aus Plastik, Schildkrötenpanzer, Tierhorn oder Bambus gefertigt.
+                    <p>Die Oud hat fünf unisono gestimmte Saitenpaare und eine Bassseite. Allerdings haben einige Ouds noch ein extra Saitenpaar. Die häufigste Stimmung (von tief nach hoch) ist C, F, A, D, G, C, was bedeutet, dass die Saiten im Wesentlichen in Quartabständen gestimmt sind. Die Saiten wurden früher zumeist aus Tierdarm hergestellt und mit einem Plektrum namens Risha (Arabisch für “Feder”) gespielt. Die modernen Saiten sind aus Nylon, der mit Stahl umwickelt ist, und moderne Rishas sind aus Plastik, Schildkrötenpanzer, Tierhorn oder Bambus gefertigt.
                     </p>
                     <p>
                     Das Instrument hat ein warmes Timbre und einen großen Tonumfang (mehr als drei Oktaven). Es transportiert sowohl die melodischen als auch die rhythmischen Aspekte der Musik hervorragend, weil es recht perkussiv ist. Das macht es sehr geeignet für Gesangsbegleitung. Die Oud ist außerdem ein Instrument, auf dem Musiker gerne Stücke komponieren. Oud-<a href="../form/improv.php#taqsim">Taqasim</a> sind sehr beliebt bei Livekonzerten und Musik-Aufnahmen.
                     </p>
-                    <p>Die arabische Oud wird auch in anderen Ländern der Region gespielt, etwa in der Türkei, in Griechenland und dem Iran, wennauch mit minimalen Unterschieden in den Dimensionen, im Stil und im Timbre. Die europäische Laute stammt von der Oud ab. Das gilt auch für die Bezeichnung (al-oud).
+                    <p>Die arabische Oud wird auch in anderen Ländern der Region gespielt, etwa in der Türkei, in Griechenland und dem Iran, wenn auch mit minimalen Unterschieden in den Dimensionen, im Stil und im Timbre. Die europäische Laute stammt von der Oud ab. Das gilt auch für die Bezeichnung (al-oud).
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=dDrVYyoMi-4&t=0s">
@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Farid al-Atrash</b>
-                                    <span>Der syrische Oud-Virtuose Farid al-Atrash (auch bekannt als der König der Oud) spielt einen berühmten Oud-Taqsim im Maqam Bayati vor seiner Komposition "al-Rabi‘" (1949).</span>
+                                    <span>Der syrische Oud-Virtuose Farid al-Atrash (auch bekannt als der König der Oud) spielt einen berühmten Oud-Taqsim im Maqam Bayati vor seiner Komposition <strong>al-Rabi‘</strong> (1949).</span>
                                 </div>
                             </label>
                         </div>

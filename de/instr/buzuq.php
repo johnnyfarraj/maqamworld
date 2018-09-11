@@ -45,7 +45,7 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/buzuq.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Buzuk</a>
                     </div>
 
-                    <p>Der Buzuk (im Kontext arabischer Musik auch oft Buzuq geschrieben, arabisches Geschlecht: Maskulinum) ist ein Saiteninstrument aus der <a href="oud.php">Oud</a>-Familie. Er hat einen längeren Hals und einen kleineren Korpus als die Oud. Der Name stammt aus dem Türkischen. Bozuk heißt dort soviel wie "kaputt", "zerbrochen" oder "unterbrochen". Die Bezeichnung rührt höchstwahrscheinlich daher, dass im Gegensatz zur Oud Bünde ins Griffbrett eingelassen sind und somit das Griffbrett von diesen Bünden unterbrochen ist.
+                    <p>Der Buzuk (im Kontext arabischer Musik auch oft Buzuq geschrieben, arabisches Geschlecht: Maskulinum) ist ein Saiteninstrument aus der <a href="oud.php">Oud</a>-Familie. Er hat einen längeren Hals und einen kleineren Korpus als die Oud. Der Name stammt aus dem Türkischen. Bozuk heißt dort soviel wie “kaputt”, “zerbrochen” oder “unterbrochen”. Die Bezeichnung rührt höchstwahrscheinlich daher, dass im Gegensatz zur Oud Bünde ins Griffbrett eingelassen sind und somit das Griffbrett von diesen Bünden unterbrochen ist.
                     </p>
                     <p>Der Buzuk hat optisch mehr Ähnlichkeit mit der griechischen <em>Bouzouki</em> und der türkischen <em>Bağlama</em> (ihrerseits auch als <em>Saz</em> bekannt, was aber eigentlich nur Musikinstrument bedeutet). Der Buzuk ist ursprünglich ein Volksmusikinstrument aus dem Mittleren Osten (Palästina, Jordanien, Libanon und Syrien), das gewöhnlich unisono gespielt wurde. Er wird in dieser Rubrik besprochen, weil er Mitte des zwanzigsten Jahrhunderts in den Mainsteam der arabischen Popmusik gewechselt ist. Seitdem kommt er bei vielen Aufnahmen und Liveauftritten vor, da er allmählich zu einer festen Größe im arabischen Musikensemble geworden ist.
                     </p>
@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Muhyiddin Ba‘yun</b>
-                                    <span>Der libanesische Buzuk-Spieler und Sänger Muhyiddin Ba‘yun in einem Buzuk-Taksim im Maqam Bayati</span>
+                                    <span>Der libanesische Buzuk-Spieler und Sänger Muhyiddin Ba‘yun in einem Buzuk-Taqsim im Maqam Bayati</span>
                                 </div>
                             </label>
                         </div>

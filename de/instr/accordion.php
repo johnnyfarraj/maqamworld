@@ -38,11 +38,11 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/accordion.jpg" alt="Das arabische Akkordeon">
-                        <span>Faruq Salama spielt Akkordeon auf Umm Kulthums "Ya Masahharni", Kairo, 1971</span>
+                        <span>Faruq Salama spielt Akkordeon auf Umm Kulthums “Ya Masahharni”, Kairo, 1971</span>
                     </div>
 
                     <p>
-                        Das Akkordeon kam über Ägypten in die arabische Musikszene. Es wurde zunächst ohne Veränderungen übernommen, um der Musik ein ausländisches Flair zu geben (beispielsweise 1935 bei "Sahirtu" von Muhammad Abdel Wahab). Später wurde es modifiziert, sodass es die sogenannten Vierteltöne spielen konnte und eine halbwegs authentische Wiedergabe der Maqam-Skalen ermöglichte. </p>
+                        Das Akkordeon kam über Ägypten in die arabische Musikszene. Es wurde zunächst ohne Veränderungen übernommen, um der Musik ein ausländisches Flair zu geben (beispielsweise 1935 bei <strong>Sahirtu</strong> von Muhammad Abdel Wahab). Später wurde es modifiziert, sodass es die sogenannten Vierteltöne spielen konnte und eine halbwegs authentische Wiedergabe der Maqam-Skalen ermöglichte. </p>
                     <p>
                         Das Akkordeon ist sehr beliebt beim <em>Raqs Sharqi</em> (Bauchtanz) und beim <em>Sha‘bi</em>-Genre.
                     </p>
