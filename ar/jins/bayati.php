@@ -56,8 +56,17 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="626,45,12" href="#" alt="سي♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					</map>
 
-                    <h5>جنس بياتي is a 4-note <em>jins</em>. It is notated here with its tonic on D and its <em>ghammaz</em> on G. جنس بياتي is the first <em>jins</em> in <a href="../maqam/bayati.php">Maqam Bayati</a>.
+                    <h5>جنس البياتي هو جنس الجذر في
+					<a href="../maqam/f_bayati.php">عائلة مقام البياتي</a>
+					، حجمه ٤ درجات.
+					يقع قراره في هذا السلّم النموذجي على علامة الري وغمّازه على علامة الصول.
+					</h5><h5>
+					جنس البياتي من اكثر الاجناس استعمالاً في الموسقى العربية، وهو الجنس الاول في مقامات
+					<a href="../maqam/bayati.php">بياتي</a>،
+					<a href="../maqam/bayati_shuri.php">بياتي شوري</a> و
+					<a href="../maqam/husayni.php">حُسيني</a>.
                     </h5>
+		          <br>
 
                     <div class="player-area">
                         <audio id="player" controls>

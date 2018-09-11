@@ -51,11 +51,15 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <h5>
-جنس حجاز كار has no <em>ghammaz</em>, and therefore no defined size. 
-Its melody is centered around its tonic, notated here on C. جنس حجاز كار occurs 
-on the octave of <a href="../maqam/hijazkar.php">Maqam Hijazkar</a>.
-
+                    جنس الحجاز كار  لا غمّاز له، لذلك فحجمه غير محدد.
+					يتمحور سيره حول درجة القرار التي تقع في هذا السلّم النموذجي على علامة الدو.
+					</h5><h5>
+					يقع جنس الحجاز كار في معظم الاحيان على جواب (الدرجة الثامنة)
+					<a href="../maqam/hijazkar.php">مقام الحجاز كار</a>
+					او الدرجة الخامسة من
+					<a href="../maqam/nawa_athar.php">مقام نو اثر</a>.
                     </h5>
+                    <br>
 
                     <div class="player-area">
                         <audio id="player" controls>

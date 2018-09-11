@@ -50,7 +50,10 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="473,51,13" href="#" alt="دو↓" class="playNote" data-frequency="515" data-parent="#notation1"><!-- variable -->
 					</map>
 
-                    <h5>جنس سيكاه بلدي has no <em>ghammaz</em>, and therefore no defined size. Its melody is centered around its tonic, notated here on G. جنس سيكاه بلدي is very difficult to accurately notate; instead its intervals and intonation are best learned by ear. جنس سيكاه بلدي occurs on the octave of <a href="../maqam/sikah_baladi.php">Maqam Sikah Baladi</a>.
+                    <h5>جنس سيكاه بلدي has no <em>ghammaz</em>, and therefore no defined size.
+                    Its melody is centered around its tonic, notated here on G.
+                    جنس سيكاه بلدي is very difficult to accurately notate; instead its intervals and intonation are best learned by ear.
+                    جنس سيكاه بلدي occurs on the octave of <a href="../maqam/sikah_baladi.php">Maqam Sikah Baladi</a>.
                     </h5>
 
                     <div class="player-area">

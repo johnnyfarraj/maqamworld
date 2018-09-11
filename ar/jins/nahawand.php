@@ -55,8 +55,17 @@ include($ROOT . 'inc/head.php');
 				      <area shape="circle" coords="611,60,12" href="#" alt="لا♭" class="playNote" data-frequency="411" data-parent="#notation1">
 					</map>
 
-                    <h5>جنس نهاوند is a 5-note <em>jins</em>. It is notated here with its tonic on C and its <em>ghammaz</em> on G. جنس نهاوند is the first <em>jins</em> in <a href="../maqam/nahawand.php">Maqam Nahawand</a>.
+                    <h5>جنس النهاوند هو جنس الجذر في
+					<a href="../maqam/f_nahawand.php">عائلة مقام النهاوند</a>
+					، حجمه ٥ درجات.
+					يقع قراره في هذا السلّم النموذجي على علامة الدو وغمّازه على علامة الصول.
+					</h5><h5>
+					جنس النهاوند هو الجنس الاول في مقامات
+					<a href="../maqam/nahawand.php">نهاوند</a>،
+					<a href="../maqam/nahawand_murassaa.php">نهاوند مُرصّع</a> و
+					<a href="../maqam/ushaq_masri.php">عُشّاق مصري</a>.
                     </h5>
+		          <br>
 
                     <div class="player-area">
                         <audio id="player" controls>

@@ -53,8 +53,16 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="488,49,12" href="#" alt="سي♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					</map>
 
-                    <h5>جنس كُرد is a 4-note <em>jins</em>. It is notated here with its tonic on D and its <em>ghammaz</em> on G. جنس كُرد is the first <em>jins</em> in <a href="../maqam/kurd.php">Maqam Kurd</a>.
+                    <h5>جنس الكُرد هو جنس الجذر في
+					<a href="../maqam/f_kurd.php">عائلة مقام الكُرد</a>
+					، حجمه ٤ درجات.
+					يقع قراره في هذا السلّم النموذجي على علامة الري وغمّازه على علامة الصول.
+					</h5><h5>
+					جنس الكُرد هو الجنس الاول في مقامات
+					<a href="../maqam/kurd.php">كُرد</a> و
+					<a href="../maqam/huijazkar_kurd.php">حجاز كار كُرد</a>.
                     </h5>
+		          	<br>
 
                     <div class="player-area">
                         <audio id="player" controls>

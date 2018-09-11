@@ -53,8 +53,13 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="449,52,13" href="#" alt="سي♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					</map>
 
-                    <h5>جنس مُستعار is a 3-note <em>jins</em>. It is notated here with its tonic on E<i class="icon-halfflat"></i> and its <em>ghammaz</em> on G. جنس مُستعار is the first <em>jins</em> in <a href="../maqam/mustaar.php">Maqam Musta‘ar</a>.
+                    <h5>جنس مُستعار هو الجنس الاول في
+					<a href="../maqam/lami.php">مقام المُستعار</a>
+					 ، حجمه ٣ درجات.
+					 </h5><h5>
+					 يقع قراره في هذا السلّم النموذجي على علامة المي نصف بيمول وغمّازه على علامة الصول.
                     </h5>
+					<br>
 
                     <div class="player-area">
                         <audio id="player" controls>

@@ -54,8 +54,19 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="519,57,12" href="#" alt="لا♮" class="playNote" data-frequency="440" data-parent="#notation1">
 					</map>
 
-                    <h5>جنس سازكار is a 5-note jins. It is notated here with its tonic on C and its <em>ghammaz</em> on G. جنس سازكار is the first jins in <a href="../maqam/kirdan.php">Maqam Sazkar</a>.
+                    <h5>
+                    جنس سازكار هو الجنس الاول في
+					<a href="../maqam/kirdan.php">مقام سازكار</a>
+					 ، حجمه ٥ درجات.
+					 يقع قراره في هذا السلّم النموذجي على علامة الدو وغمّازه على علامة الصول.
+					 </h5><h5>
+					وجنس سازكار هو صنف من
+                   <a href="rast.php">جنس الراست</a>
+                    تُرفع درجته الثانية بنصف صوت تقريباً حتى تشبه درجة الحسّاس في
+                    <a href="sikah.php">جنس السيكاه</a>
+                    على قرار المي نصف بيمول.
                     </h5>
+					<br>
 
                     <div class="player-area">
                         <audio id="player" controls>

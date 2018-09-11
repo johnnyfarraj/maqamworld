@@ -55,8 +55,18 @@ include($ROOT . 'inc/head.php');
 				      <area shape="circle" coords="630,52,12" href="#" alt="لا" class="playNote" data-frequency="440" data-parent="#notation1">
 					</map>
 
-                    <h5>جنس راست is a widely popular 5-note <em>jins</em>. It is notated here with its tonic on C and its <em>ghammaz</em> on G. جنس راست is the first <em>jins</em> in <a href="../maqam/rast.php">Maqam Rast</a>, <a href="../maqam/suznak.php">Maqam Suznak</a>, and other <em>maqamat</em> in the <a href="../maqam/f_rast.php">Maqam Rast Family</a>.
+                    <h5>جنس الراست هو جنس الجذر في
+					<a href="../maqam/f_rast.php">عائلة مقام الراست</a>
+					، حجمه ٥ درجات.
+					 يقع قراره في هذا السلّم النموذجي على علامة الدو وغمّازه على علامة الصول.
+					</h5><h5>
+					جنس الراست من اهمّ الاجناس في الموسقى العربية، وهو الجنس الاول في مقامات
+					<a href="../maqam/sikah.php">راست</a>،
+					<a href="../maqam/huzam.php">سوزناك</a>
+					ومقامات اخرى في
+					<a href="../maqam/f_rast.php">عائلة مقام الراست</a>.
                     </h5>
+		          <br>
 
                     <div class="player-area">
                         <audio id="player" controls>

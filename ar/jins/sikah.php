@@ -53,8 +53,20 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="425,56,12" href="#" alt="لا♭" class="playNote" data-frequency="422" data-parent="#notation1"><!-- fine tuned up from 411-->
 					</map>
 
-                    <h5>جنس سيكاه is a 3-note jins. It is notated here with its tonic on E<i class='icon-halfflat'></i> and its <em>ghammaz</em> on G. جنس سيكاه is the first jins in <a href="../maqam/sikah.php">Maqam Sikah</a>, <a href="../maqam/huzam.php">Maqam Huzam</a>, <a href="../maqam/iraq.php">Maqam ‘Iraq</a>, and <a href="../maqam/bastanikar.php">Maqam Bastanikar</a>.
+                    <h5>جنس السيكاه هو جنس الجذر في
+					<a href="../maqam/f_sikah.php">عائلة مقام السيكاه</a>
+					، حجمه ٣ درجات.
+					 يقع قراره في هذا السلّم النموذجي على علامة المي نصف بيمول وغمّازه على علامة الصول.
+					</h5><h5>
+					جنس السيكاه من اكثر الاجناس استعمالاً في الموسقى العربية، وهو الجنس الاول في مقامات
+					<a href="../maqam/sikah.php">سيكاه</a>،
+					<a href="../maqam/huzam.php">هُزام</a>،
+					<a href="../maqam/mustaar.php">مُستعار</a>،
+					<a href="../maqam/iraq.php">عراق</a>،
+					<a href="../maqam/awj_iraq.php">اوج عراق</a> و
+					<a href="../maqam/bastanikar.php">بَسته نِكار</a>.
                     </h5>
+		          <br>
 
                     <div class="player-area">
                         <audio id="player" controls>

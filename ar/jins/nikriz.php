@@ -56,13 +56,14 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="678,50,12" href="#" alt="سي♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					</map>
 
-                    <h5>جنس النكريز هو جنس الجذر في 
-		<a href="../maqam/f_nikriz.php">عائلة مقام النكريز</a>
-، حجمه ٥ درجات. يقع قراره في هذا السلّم النموذجي على علامة الدو وغمّازه على علامة الصول. وجنس النكريز هو الجنس الاول في مقامي
-		<a href="../maqam/nikriz.php">نكريز</a> و
-		<a href="../maqam/nawa_athar.php">نو أثر</a>.
+                    <h5>جنس النكريز هو جنس الجذر في
+					<a href="../maqam/f_nikriz.php">عائلة مقام النكريز</a>
+					، حجمه ٥ درجات. يقع قراره في هذا السلّم النموذجي على علامة الدو وغمّازه على علامة الصول.
+					وجنس النكريز هو الجنس الاول في مقامي
+					<a href="../maqam/nikriz.php">نكريز</a> و
+					<a href="../maqam/nawa_athar.php">نو أثر</a>.
                     </h5>
-		<br>
+					<br>
 
                     <div class="player-area">
                         <audio id="player" controls>

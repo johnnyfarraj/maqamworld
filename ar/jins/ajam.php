@@ -56,12 +56,13 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="590,62,12" href="#" alt="لا" class="playNote" data-frequency="440" data-parent="#notation1">
 					</map>
 
-                    <h5>جنس العجم هو جنس الجذر في 
-		<a href="../maqam/f_ajam.php">عائلة مقام العجم</a>
-، حجمه ٥ درجات. يقع قراره في هذا السلّم النموذجي على علامة الدو وغمّازه على علامة الصول.
- وجنس العجم هو الجنس الاول في مقامات
-		<a href="../maqam/ajam.php">العجم</a> و
-		<a href="../maqam/shawq_afza.php">شوق افزا</a>.
+                    <h5>جنس العجم هو جنس الجذر في
+					<a href="../maqam/f_ajam.php">عائلة مقام العجم</a>
+				، حجمه ٥ درجات. يقع قراره في هذا السلّم النموذجي على علامة الدو وغمّازه على علامة الصول.
+ 					 </h5><h5>
+					وجنس العجم هو الجنس الاول في مقامات
+					<a href="../maqam/ajam.php">العجم</a> و
+					<a href="../maqam/shawq_afza.php">شوق افزا</a>.
                     </h5>
 		          <br>
 

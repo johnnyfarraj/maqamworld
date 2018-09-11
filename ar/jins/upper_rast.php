@@ -53,7 +53,12 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="448,42,12" href="#" alt="ري" class="playNote" data-frequency="586.66" data-parent="#notation1">
 					  </map>
 
-                    <h5>جنس راست اعلى is a 4-note version of <a href="rast.php">جنس راست</a>, with the unusual feature (shared by <a href="upper_ajam.php">جنس عجم اعلى</a>) that its tonic is the last degree in the scale instead of the first. It is notated here with its <em>ghammaz</em> on G and its tonic on C. جنس راست اعلى is the second jins in <a href="../maqam/rast.php">Maqam Rast</a> and also occurs on the 5<sup>th</sup> degree of <a href="../maqam/jiharkah.php">Maqam Jiharkah</a>.
+                    <h5>جنس راست اعلى is a 4-note version of <a href="rast.php">جنس راست</a>,
+                    with the unusual feature (shared by <a href="upper_ajam.php">جنس عجم اعلى</a>)
+                    that its tonic is the last degree in the scale instead of the first.
+                    It is notated here with its <em>ghammaz</em> on G and its tonic on C.
+                    جنس راست اعلى is the second jins in <a href="../maqam/rast.php">Maqam Rast</a>
+                    and also occurs on the 5<sup>th</sup> degree of <a href="../maqam/jiharkah.php">Maqam Jiharkah</a>.
                     </h5>
 
                     <div class="player-area">

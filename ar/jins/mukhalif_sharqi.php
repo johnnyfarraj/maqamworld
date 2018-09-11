@@ -50,7 +50,14 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="233,70,13" href="#" alt="صول♭" class="playNote" data-frequency="365.32" data-parent="#notation1">
 					</map>
 
-                    <h5>جنس مخالف شرقي has no <em>ghammaz</em>, and therefore no defined size. It is notated here with its tonic on E<i class="icon-halfflat"></i>. جنس مخالف شرقي is not part of any <em>maqam</em> scale and usually occurs as a modulation from <a href="sikah.php">جنس سيكاه</a>.
+                    <h5>
+                   جنس مخالف شرقي لا غمّاز له، لذلك فحجمه غير محدد.
+                    يقع قراره في هذا السلّم النموذجي على علامة المي نصف بيمول.
+                    </h5><h5>
+					هذا الجنس ليس جزءاَ من سلّم اي مقام، بل يأتي عادةَ كأنتقال نغميّ من
+					<a href="sikah.php">جنس السيكاه</a>
+					في سياق سير
+					<a href="../maqam/f_sikah.php">مقامات عائلة السيكاه</a>.
                     </h5>
 
                     <div class="player-area">
@@ -64,7 +71,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Dawr Emta el-Hawa (1936)</b>
+                                    <b>دور امتى الهوى (١٩٣٦)</b>
                                     <span>ام كلثوم (مصر)</span>
                                     <span>تلحين زكريّا احمد (مصر)</span>
                                 </div>
