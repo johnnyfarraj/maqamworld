@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <p>Erkunden Sie andere Arabischen Perkussionsinstrumente:</p>
+                    <p>Erkunden Sie andere arabische Perkussionsinstrumente:</p>
                     <ul>
                         <li><a href="riqq.php">Das Riq</a></li>
                         <li><a href="tabla.php">Die Tabla</a></li>
