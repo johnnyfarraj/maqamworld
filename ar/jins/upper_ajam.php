@@ -53,7 +53,16 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="455,40,12" href="#" alt="ري" class="playNote" data-frequency="586.66" data-parent="#notation1">
 					</map>
 
-                    <h5>جنس عجم اعلى is a 4-note version of <a href="ajam.php">جنس عجم</a>, with the unusual feature (shared by <a href="upper_rast.php">جنس راست اعلى</a>) that its tonic is the last degree in the scale instead of the first. It is notated here with its <em>ghammaz</em> on G and its tonic on C. جنس عجم اعلى is the second jins in <a href="../maqam/ajam.php">Maqam ‘Ajam</a> and also occurs on the 3<sup>rd</sup> degree of <a href="../maqam/bayati.php">Maqam Bayati</a>.
+                    <h5>جنس العجم الاعلى هو صنف من
+                    <a href="ajam.php">جنس العجم</a>
+                    ذو اربع درجات، يقع قراره في الأعلى (اي على الدرجة الرابعة بدلاً من الدرجة الاولى).
+                    وهذه ميزة مشتركة مع
+                    <a href="rast.php">جنس الراست الاعلى</a>.
+                   </h5><h5>
+                 	 جنس العجم الاعلى هو الجنس الثاني في
+                 	 <a href="../maqam/ajam.php">مقام العجم</a>،
+                 	 ويقع ايضاً على الدرجة الثالثة من <a href="../maqam/bayati.php">مقام البياتي</a>.
+					يقع قراره في هذا السلّم النموذجي على علامة الدو في الاعلى وغمّازه على علامة الصول في الاسفل.
                     </h5>
 
                     <div class="player-area">

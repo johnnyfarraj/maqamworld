@@ -54,10 +54,12 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="609,45,13" href="#" alt="سي♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					</map>
 
-                    <h5>جنس صَبا has an ambiguous size. It is notated here with its tonic on D and two <em>ghammaz</em> possibilities:
-                    the 3<sup>rd</sup> degree (notated on F) or the 6<sup>th</sup> degree (notated on B&#x266d;).
-                    جنس صَبا is the first jins in <a href="../maqam/saba.php">Maqam Saba</a>.
+                    <h5>جنس صَبا هو الجنس الاول في
+                    <a href="../maqam/saba.php">مقام الصَبا</a>.
+					يقع قراره في هذا السلّم النموذجي على علامة الري.
+					اما غمّازه، وهو نقطة انطلاق الجنس التالي، فله احتمالان: الدرجة الثالثة (على الفا) او الدرجة السادسة (على السي بيمول)، ولذلك فحجم هذا الجنس غير محدد.
                     </h5>
+                    <br>
 
                     <div class="player-area">
                         <audio id="player" controls>
