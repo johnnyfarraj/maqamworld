@@ -55,9 +55,25 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="509,21,13" href="#" alt="فا" class="playNote" data-frequency="695.3" data-parent="#notation1">
 					</map>
 
-                    <h5>جنس صَبا دَلَنشين is a special case of <a href="saba.php">جنس صَبا</a> which has no <em>ghammaz</em>, and therefore no defined size. Its melody is centered around its tonic, notated here on C. The intervals above the tonic are more or less identical to <a href="hijaz.php">جنس حجاز</a>. The note that is 2 degrees below the tonic (in this case A) is a secondary tonic.</h5>
-
-                    <p>جنس صَبا دَلَنشين occurs on the octave of <a href="../maqam/rast.php">Maqam Rast</a>, which in this case becomes known as <a href="../maqam/dalanshin.php">Maqam Dalanshin</a>. It also occurs on the 5<sup>th</sup> degree of <a href="../maqam/shawq_afza.php">Maqam Shawq Afza</a>.</p>
+                    <h5>
+                    جنس صَبا دَلَنشين حالة خاصّة من
+                    <a href="saba.php">جنس الصَبا</a>
+                    يتمركز سيره النغمي حول قراره على الدرجة الثالثة (علامة الدو في هذا السلّم النموذجي).
+                    جنس صَبا دَلَنشين لا غمّاز له، لذلك فحجمه غير محدد.
+                    والدرجات الاربع ابتداءً من القرار أبعادها شبه مطابقة لأبعاد
+                    <a href="hijaz.php">جنس الحجاز</a>.
+                    اما الدرجة الثانية تحت القرار (على علامة اللا) فتلعب دور قرار ثانوي.
+                    </h5>
+                    <h5>
+                    يقع جنس صبا دَلَنشين على جواب
+                    <a href="../maqam/rast.php">مقام الراست</a>
+                    (الدرجة الثامنة) حيث يتحول هذا المقام الى
+                    <a href="../maqam/dalanshin.php">مقام دلنشين</a>.
+                    و يقع جنس دَلَنشين ايضاً على غماز
+                    <a href="../maqam/shawq_afza.php">مقام شوق افزا</a>
+                    (الدرجة الخامسة) في سياق سيره المعتاد.
+                    </h5>
+                    <br>
 
                     <div class="player-area">
                         <audio id="player" controls>
