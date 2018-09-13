@@ -54,8 +54,8 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <h5>جنس السيكاه هو جنس الجذر في
-					<a href="../maqam/f_sikah.php">عائلة مقام السيكاه</a>
-					، حجمه ٣ درجات.
+					<a href="../maqam/f_sikah.php">عائلة مقام السيكاه</a>،
+                    حجمه ٣ درجات.
 					 يقع قراره في هذا السلّم النموذجي على علامة المي نصف بيمول وغمّازه على علامة الصول.
 					</h5><h5>
 					جنس السيكاه من اكثر الاجناس استعمالاً في الموسقى العربية، وهو الجنس الاول في مقامات
@@ -63,8 +63,8 @@ include($ROOT . 'inc/head.php');
 					<a href="../maqam/huzam.php">هُزام</a>،
 					<a href="../maqam/mustaar.php">مُستعار</a>،
 					<a href="../maqam/iraq.php">عراق</a>،
-					<a href="../maqam/awj_iraq.php">اوج عراق</a> و
-					<a href="../maqam/bastanikar.php">بَسته نِكار</a>.
+					<a href="../maqam/awj_iraq.php">اوج عراق</a>
+                    و<a href="../maqam/bastanikar.php">بَسته نِكار</a>.
                     </h5>
 		          <br>
 
