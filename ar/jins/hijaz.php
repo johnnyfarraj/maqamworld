@@ -29,7 +29,7 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>جنس حجاز</h1>
+                        <h1>جنس حِجاز</h1>
                         <h3>جنس الجذر في
                             <a href="../maqam/f_hijaz.php">عائلة مقام الحجاز</a>
                         </h3>

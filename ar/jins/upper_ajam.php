@@ -29,7 +29,7 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>جنس عجم اعلى <span class="badge badge-custom">جديد</span></h1>
+                        <h1>جنس عَجَم اعلى <span class="badge badge-custom">جديد</span></h1>
                         <h3>صنف من
                             <a href="ajam.php">جنس العجم </a>
                             (ذو اربع درجات) يقع قراره في الأعلى

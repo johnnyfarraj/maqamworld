@@ -29,7 +29,7 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>جنس حجاز مُرصّع <span class="badge badge-custom">جديد</span></h1>
+                        <h1>جنس حِجاز مُرصّع <span class="badge badge-custom">جديد</span></h1>
                         <h3>صنف من
                             <a href="hijaz.php">جنس الحجاز</a>
                             تُخفّض درجته الخامسة

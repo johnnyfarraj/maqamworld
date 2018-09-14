@@ -29,7 +29,7 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>جنس أثر كُرد</h1>
+                        <h1>جنس اثَر كُرد</h1>
                         <h3>مزيج بين
                             <a href="kurd.php">جنس الكُرد</a>
                             و
