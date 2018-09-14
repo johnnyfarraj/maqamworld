@@ -63,6 +63,7 @@ include($ROOT . 'inc/head.php');
 					<a href="../maqam/rast.php">راست</a> و <a href="../maqam/jiharkah.php">جهاركاه</a>.
 					يقع قراره في هذا السلّم النموذجي على علامة الدو في الاعلى وغمّازه على علامة الصول في الاسفل.
                     </h5>
+                    <br>
 
                     <div class="player-area">
                         <audio id="player" controls>

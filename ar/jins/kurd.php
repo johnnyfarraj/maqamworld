@@ -54,13 +54,13 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <h5>جنس الكُرد هو جنس الجذر في
-					<a href="../maqam/f_kurd.php">عائلة مقام الكُرد</a>
-					، حجمه ٤ درجات.
+					<a href="../maqam/f_kurd.php">عائلة مقام الكُرد</a>،
+                        حجمه ٤ درجات.
 					يقع قراره في هذا السلّم النموذجي على علامة الري وغمّازه على علامة الصول.
 					</h5><h5>
 					جنس الكُرد هو الجنس الاول في مقامات
-					<a href="../maqam/kurd.php">كُرد</a> و
-					<a href="../maqam/huijazkar_kurd.php">حجاز كار كُرد</a>.
+					<a href="../maqam/kurd.php">كُرد</a>
+                    و<a href="../maqam/huijazkar_kurd.php">حجاز كار كُرد</a>.
                     </h5>
 		          	<br>
 

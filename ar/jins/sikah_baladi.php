@@ -51,13 +51,15 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <h5>
-                    Jins Sikah Baladi has no ghammaz, and therefore no defined size. Its melody is centered around its tonic, notated here on G. Jins Sikah Baladi is very difficult to accurately notate; instead its intervals and intonation are best learned by ear. Jins Sikah Baladi occurs on the octave of Maqam Sikah Baladi.
-
-                    جنس سيكاه بلدي has no <em>ghammaz</em>, and therefore no defined size.
-                    Its melody is centered around its tonic, notated here on G.
-                    جنس سيكاه بلدي is very difficult to accurately notate; instead its intervals and intonation are best learned by ear.
-                    جنس سيكاه بلدي occurs on the octave of <a href="../maqam/sikah_baladi.php">Maqam Sikah Baladi</a>.
+                    جنس سيكاه بلدي لا غمّاز له، لذلك فحجمه غير محدد. يتمحور سيره حول درجة القرار التي تقع في هذا السلّم النموذجي على علامة الصول.
+                    </h5><h5>
+                    يقع جنس سيكاه بلدي على جواب <a href="../maqam/sikah_baladi.php">مقام السيكاه بلدي</a> (الدرجة الثامنة).
+                    ويُستعمل ايضاً في انتقال نغمي معهود على جواب 
+                    <a href="../maqam/rast.php">مقام الراست</a> (الدرجة الثامنة). 
+                    </h5><h5>
+                  يصعب تدوين هذا الجنس بدقّة حتى مع استعمال إشاراتي السهم الصاعد والهابط ، لذلك يُستحسن ان يتعلمه العازف سمعياً.                       
                     </h5>
+                    <br>
 
                     <div class="player-area">
                         <audio id="player" controls>

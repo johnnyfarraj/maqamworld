@@ -64,6 +64,7 @@ include($ROOT . 'inc/head.php');
                  	 ويقع ايضاً على الدرجة الثالثة من <a href="../maqam/bayati.php">مقام البياتي</a>.
 					يقع قراره في هذا السلّم النموذجي على علامة الدو في الاعلى وغمّازه على علامة الصول في الاسفل.
                     </h5>
+                    <br>
 
                     <div class="player-area">
                         <audio id="player" controls>

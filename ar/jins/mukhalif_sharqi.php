@@ -59,6 +59,7 @@ include($ROOT . 'inc/head.php');
 					في سياق سير
 					<a href="../maqam/f_sikah.php">مقامات عائلة السيكاه</a>.
                     </h5>
+                    <br>
 
                     <div class="player-area">
                         <audio id="player" controls>
