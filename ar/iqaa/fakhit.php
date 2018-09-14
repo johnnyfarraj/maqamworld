@@ -7,30 +7,29 @@ include('../../inc/config.php');
 $page_title = "Iqa‘ Fakhit";
 $page_description = "Iqa‘ Fakhit";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, fakhit, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "ar"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "en"; // en / ar <!-- YOU MUST PUT THIS
 
 include($ROOT . 'inc/head.php');
 ?>
 
-  <body class="rtl iqaas-page">
+  <body class="iqaas-page">
 
     <?php
-      $page = "ar/iqaa/fakhit.php";
+      $page = "en/iqaa/fakhit.php";
       include($ROOT . 'inc/menu.php');
     ?>
     
     <div class="page">
         <div class="container">
             <div class="row">
-                <div class="col-md-3 order-sm-2">
+                <div class="col-md-3">
                     <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
-                    <?php include($ROOT . 'inc/sidemenu-iqaa.php'); ?>
+                    <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
-                <div class="col-md-9 col-sm-9 order-sm-1">
+                <div class="col-md-9 col-sm-9">
                     
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Fakhit 20/4</h1>
-                        <h3>Smaller Text Here</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
                     <div class="clearfix"></div>
@@ -43,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/fakhit.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Fakhit is a relatively long iqa‘ that spans 5 measures of 4/4, resulting in a 20/4 time signature. This iqa‘ is rare outside the Muwashah genre.</p>
+                    <p>Iqa‘ Fakhit is a relatively long <em>iqa‘</em> that spans 5 measures of 4/4, resulting in a 20/4 time signature. This <em>iqa‘</em> is rare outside the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> genre.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -91,7 +90,7 @@ include($ROOT . 'inc/head.php');
                     </div>
                 
                  </div>
-                <div class="col-sm-12 order-sm-3">
+                <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
                 </div>
             </div>

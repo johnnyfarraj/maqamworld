@@ -7,30 +7,29 @@ include('../../inc/config.php');
 $page_title = "Iqa‘ Karachi";
 $page_description = "Iqa‘ Karachi";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, karachi, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "ar"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "en"; // en / ar <!-- YOU MUST PUT THIS
 
 include($ROOT . 'inc/head.php');
 ?>
 
-  <body class="rtl iqaas-page">
+  <body class="iqaas-page">
 
     <?php
-      $page = "ar/iqaa/karachi.php";
+      $page = "en/iqaa/karachi.php";
       include($ROOT . 'inc/menu.php');
     ?>
     
     <div class="page">
         <div class="container">
             <div class="row">
-                <div class="col-md-3 order-sm-2">
+                <div class="col-md-3">
                     <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
-                    <?php include($ROOT . 'inc/sidemenu-iqaa.php'); ?>
+                    <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
-                <div class="col-md-9 col-sm-9 order-sm-1">
+                <div class="col-md-9 col-sm-9">
                     
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Karachi 2/4</h1>
-                        <h3>Smaller Text Here</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
                     <div class="clearfix"></div>
@@ -43,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/karachi.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Karachi is another member of the 2/4 iqa‘at family, and as such modulates frequently to and from <a href="malfuf.php">Malfuf</a>. Although short and cyclical, Karachi does not have the rapidity and urgency of <a href="malfuf.php">Malfuf</a> and <a href="ayyub.php">Ayyub</a>; instead it feels lazy and can be played at much slower tempos.</p>
+                    <p>Iqa‘ Karachi is another member of the 2/4 <em>iqa‘at</em> family, and as such modulates frequently to and from <a href="malfuf.php">Malfuf</a>. Although short and cyclical, Karachi does not have the rapidity and urgency of <a href="malfuf.php">Malfuf</a> and <a href="ayyub.php">Ayyub</a>; instead it feels lazy and can be played at much slower tempos.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -104,7 +103,7 @@ include($ROOT . 'inc/head.php');
                     </div>
                     
                 </div>
-                <div class="col-sm-12 order-sm-3">
+                <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
                 </div>
             </div>

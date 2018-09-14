@@ -7,30 +7,29 @@ include('../../inc/config.php');
 $page_title = "Iqa‘ Fox";
 $page_description = "Iqa‘ Fox";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, fox, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "ar"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "en"; // en / ar <!-- YOU MUST PUT THIS
 
 include($ROOT . 'inc/head.php');
 ?>
 
-  <body class="rtl iqaas-page">
+  <body class="iqaas-page">
 
     <?php
-      $page = "ar/iqaa/fox.php";
+      $page = "en/iqaa/fox.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
     <div class="page">
         <div class="container">
             <div class="row">
-                <div class="col-md-3 order-sm-2">
+                <div class="col-md-3">
                     <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
-                    <?php include($ROOT . 'inc/sidemenu-iqaa.php'); ?>
+                    <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
-                <div class="col-md-9 col-sm-9 order-sm-1">
+                <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Fox 2/4</h1>
-                        <h3>Smaller Text Here</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
                     <div class="clearfix"></div>
@@ -43,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/fox.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Fox (probably derived from "Foxtrot") is a simple 2/4 iqa‘ that is usually played without too much ornamentation over instrumental sections. This, and the fact it is often played at very fast tempos, gives it a swift and urgent feel. It is the main iqa‘ used in the Turkish/Eastern European <a href="#">Longa</a> instrumental form. Fox can readily modulate to <a href="malfuf.php">Malfuf</a> and back. A very slow version of Fox (see the last 2 examples) could be notated as 4/4.</p>
+                    <p>Iqa‘ Fox (probably derived from "Foxtrot") is a simple 2/4 <em>iqa‘</em> that is usually played without too much ornamentation over instrumental sections. This, and the fact it is often played at very fast tempos, gives it a swift and urgent feel. It is the main <em>iqa‘</em> used in the Turkish/Eastern European <a href="../form/ottoman.php#longa">Longa</a> Ottoman instrumental form. Fox can readily modulate to <a href="malfuf.php">Malfuf</a> and back. A very slow version of Fox (see the last 2 examples) could be notated as 4/4.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -83,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Al-Fann 1945</b>
-                                    <span>Insrumental Conposition</span>
+                                    <span>Insrumental Composition</span>
                                     <span>Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -130,7 +129,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                 </div>
-                <div class="col-sm-12 order-sm-3">
+                <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
                 </div>
             </div>

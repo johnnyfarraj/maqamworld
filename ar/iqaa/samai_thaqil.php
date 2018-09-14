@@ -7,30 +7,29 @@ include('../../inc/config.php');
 $page_title = "Iqa‘ Sama‘i Thaqil";
 $page_description = "Iqa‘ Sama‘i Thaqil";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, sama‘i, samai thaqil, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "ar"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "en"; // en / ar <!-- YOU MUST PUT THIS
 
 include($ROOT . 'inc/head.php');
 ?>
 
-  <body class="rtl iqaas-page">
+  <body class="iqaas-page">
 
     <?php
-      $page = "ar/iqaa/samai_thaqil.php";
+      $page = "en/iqaa/samai_thaqil.php";
       include($ROOT . 'inc/menu.php');
     ?>
     
     <div class="page">
         <div class="container">
             <div class="row">
-                <div class="col-md-3 order-sm-2">
+                <div class="col-md-3">
                     <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
-                    <?php include($ROOT . 'inc/sidemenu-iqaa.php'); ?>
+                    <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
-                <div class="col-md-9 col-sm-9 order-sm-1">
+                <div class="col-md-9 col-sm-9">
                     
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Sama‘i Thaqil 10/8</h1>
-                        <h3>Smaller Text Here</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
                     <div class="clearfix"></div>
@@ -43,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/samai_thaqil.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Sama‘i Thaqil (also called Sama‘i, for short) is a very popular iqa‘ in the Muwashah vocal genre, as well as the principal iqa‘ used in the <a href="#">Sama‘i</a> Turkish/Ottoman instrumental form. </p>
+                    <p>Iqa‘ Sama‘i Thaqil (also called Sama‘i, for short) is a very popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre, as well as the principal iqa‘ used in the <a href="../form/ottoman.php#samai">Sama‘i</a> Turkish/Ottoman instrumental form. </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -154,7 +153,7 @@ include($ROOT . 'inc/head.php');
                     </div>
                     
                 </div>
-                <div class="col-sm-12 order-sm-3">
+                <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
                 </div>
             </div>
