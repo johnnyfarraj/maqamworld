@@ -98,7 +98,7 @@ include($ROOT . 'inc/head.php');
                         </div>
                         <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3">
                             <div class="card">
-                                <img class="card-img-top" src="/img/nahat_yakah.png" alt="The Arabic Oud">
+                                <img class="card-img-top" src="/img/vladimir_tamari.png" alt="The Arabic Oud">
                                 <div class="card-body">
                                     <h5 class="card-title">Buch</h5>
                                     <p class="card-text">Hinweis auf INSIDE ARABIC MUSIC, eine Einführung in die arabische Musiktheorie und Aufführungspraxis (Veröffentlichung voraussichtlich Februar 2019)</p>

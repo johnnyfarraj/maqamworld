@@ -102,7 +102,7 @@ include($ROOT . 'inc/head.php');
                         </div>
                         <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3">
                             <div class="card">
-                                <img class="card-img-top" src="/img/nahat_yakah.png" alt="العود العربي">
+                                <img class="card-img-top" src="/img/vladimir_tamari.png" alt="العود العربي">
                                 <div class="card-body">
                                     <h5 class="card-title">الكتاب</h5>
                                     <p class="card-text">اقرأ عن كتاب في الموسيقى العربية (تأليف مشترك مع سامي أبو شميس) الذي سيتم إصداره في بداية سنة ٢٠١٩</p>
