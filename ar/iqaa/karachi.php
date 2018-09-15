@@ -4,18 +4,18 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Karachi";
-$page_description = "Iqa‘ Karachi";
+$page_title = "إيقاع كراتشي ٢/٤";
+$page_description = "إيقاع كراتشي ٢/٤";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, karachi, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "en"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "ar";
 
 include($ROOT . 'inc/head.php');
 ?>
 
-  <body class="iqaas-page">
+  <body class="rtl iqaas-page">
 
     <?php
-      $page = "en/iqaa/karachi.php";
+      $page = "ar/iqaa/karachi.php";
       include($ROOT . 'inc/menu.php');
     ?>
     
@@ -23,23 +23,19 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i>دليل الايقاعات</a>
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
                     
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Karachi 2/4</h1>
+                        <h1>إيقاع كَراتشي ٢/٤</h1>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الايقاعات</a>
                     <div class="clearfix"></div>
                     
-                    <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/karachi.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Karachi</a>
-                    </div>
-                    
                     <div class="notation">
-                        <img src="/note/iqaa/karachi.png" class="img-fluid">
+                        <img src="../note/iqaa/karachi.png" class="img-fluid">
                     </div>
                     
                     <p>Iqa‘ Karachi is another member of the 2/4 <em>iqa‘at</em> family, and as such modulates frequently to and from <a href="malfuf.php">Malfuf</a>. Although short and cyclical, Karachi does not have the rapidity and urgency of <a href="malfuf.php">Malfuf</a> and <a href="ayyub.php">Ayyub</a>; instead it feels lazy and can be played at much slower tempos.</p>
@@ -110,7 +106,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
     
-    <?php include($ROOT . 'inc/footer.php'); ?>
+    <?php include($ROOT . 'ar/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
     
   </body>

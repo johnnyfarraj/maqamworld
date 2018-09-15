@@ -4,18 +4,18 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Maqsum";
-$page_description = "Iqa‘ Maqsum";
+$page_title = "إيقاع مقسوم ٤/٤";
+$page_description = "إيقاع مقسوم ٤/٤";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, maqsum, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "en"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "ar";
 
 include($ROOT . 'inc/head.php');
 ?>
 
-  <body class="iqaas-page">
+  <body class="rtl iqaas-page">
 
     <?php
-      $page = "en/iqaa/maqsum.php";
+      $page = "ar/iqaa/maqsum.php";
       include($ROOT . 'inc/menu.php');
     ?>
     
@@ -23,23 +23,19 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i>دليل الايقاعات</a>
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
                     
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Maqsum 4/4</h1>
+                        <h1>إيقاع مَقسوم ٤/٤</h1>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الايقاعات</a>
                     <div class="clearfix"></div>
                     
-                    <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/maqsum.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Maqsum</a>
-                    </div>
-                    
                     <div class="notation">
-                        <img src="/note/iqaa/maqsum.png" class="img-fluid">
+                        <img src="../note/iqaa/maqsum.png" class="img-fluid">
                     </div>
                     
                     <p>Iqa‘ Maqsum is by far the most widely used <em>iqa‘</em> in Arabic music. It modulates to other 4/4 <em>iqa‘at</em> like <a href="baladi.php">Baladi</a> and <a href="wahda.php">Wahda</a>.</p>
@@ -134,7 +130,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
     
-    <?php include($ROOT . 'inc/footer.php'); ?>
+    <?php include($ROOT . 'ar/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
     
   </body>
