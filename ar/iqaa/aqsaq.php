@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "إيقاع اقصاق ٩/٨";
 $page_description = "إيقاع اقصاق ٩/٨";
-$page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, aqsaq, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
+$page_keywords = "عود,موسيقى عربية,قانون,ناي,مقام,جنس,آلات,طرب,ايقاع,رقّ,طبلة,طبل البلدي,دفّ,كاتم,صاجات";
 $page_language = "ar";
 
 include($ROOT . 'inc/head.php');
@@ -52,9 +52,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Ma-htiyali</b>
-                                    <span>Louis Hage &amp; Aida Chalhoub</span>
-                                    <span><img src="/img/cd.png"> Mouwashah - Chants Arabo-andalous</span>
+                                    <b>موشح ما احتيالي</b>
+                                    <span>الاب لويس الحاج وعايدة شلهوب</span>
+                                    <span><img src="/img/cd.png">Mouwashah - Chants Arabo-andalous</span>
                                 </div>
                             </label>
                         </div>
@@ -65,9 +65,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ana Min Wajdi Ana</b>
-                                    <span>Aicha Redouane</span>
-                                    <span><img src="/img/cd.png"> Egypte</span>
+                                    <b>موشح انا من وجدي انا</b>
+                                    <span>عائشة رضوان</span>
+                                    <span><img src="/img/cd.png">Egypte</span>
                                 </div>
                             </label>
                         </div>
@@ -78,9 +78,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Jalla Man Bil Husni Sawwar</b>
-                                    <span>Abdel Halim Noueirah Ensemble</span>
-                                    <span>Music by Kamel al-Khula‘i</span>
+                                    <b>موشح جلّ من بالحسن صوّر</b>
+                                    <span>فرقة عبد الحليم نويرة (مصر)</span>
+                                    <span>الحان كامل الخلعي</span>
                                 </div>
                             </label>
                         </div>
@@ -91,14 +91,16 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Bashraf Bulbul al-Afrah</b>
-                                    <span>Ensemble Morkos</span>
+                                    <b>بشرف بلبل الافراح</b>
+                                    <span>فرقة مرقص (لبنان)</span>
+                                    <span><img src="/img/cd.png">Cèdre</span>
                                 </div>
                             </label>
                         </div>
                     </div>
                     
                     <!-- Need some kind of divider here to start the Form 2  examples -->
+                    <div class="clearfix"></div>
                     <div class="heading jins text-center">
                         <h3>Examples of the second form of Iqa‘ Aqsaq</h3>
                     </div>

@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "إيقاع هچع ٤/٤";
 $page_description = "إيقاع هچع ٤/٤";
-$page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, hachaa, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
+$page_keywords = "عود,موسيقى عربية,قانون,ناي,مقام,جنس,آلات,طرب,ايقاع,رقّ,طبلة,طبل البلدي,دفّ,كاتم,صاجات";
 $page_language = "ar";
 
 include($ROOT . 'inc/head.php');
@@ -31,8 +31,9 @@ include($ROOT . 'inc/head.php');
                     <div class="heading jins text-center">
                         <h1>إيقاع هَچَع ٤/٤</h1>
                         <h3>(يُلفظ هَتشَع او هَجَع)</h3>
-                        <h3>(also in 2/4 and 6/4)</h3>
+                        <h3>يأتي ايضاً على وزن ٤/٤ و٦/٤</h3>
                     </div>
+                    
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الايقاعات</a>
                     <div class="clearfix"></div>
 
