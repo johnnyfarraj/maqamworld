@@ -53,9 +53,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Hibbi Da‘ani Lil-Wisal</b>
-                                    <span>Sabah Fakhri</span>
-                                    <span><img src="/img/cd.png"> Nagham Al-Ams Vol.2 - Bayati Shuri</span>
+                                    <b>موشّح حبّي دعاني للوصال</b>
+                                    <span>صباح فخري</span>
+                                    <span>الحان درويش الحريري</span>
+                                    <span><img src="/img/cd.png"> نغم الامس - الجزء الثاني (مقام بياتي شوري)</span>
                                 </div>
                             </label>
                         </div>
@@ -66,9 +67,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Hibbi Da‘ani Lil-Wisal</b>
-                                    <span>Orientalia</span>
-                                    <span>Music by Darwish al-Hariri</span>
+                                    <b>موشّح حبّي دعاني للوصال</b>
+                                    <span>اوريانتاليا</span>
+                                    <span>الحان درويش الحريري</span>
                                 </div>
                             </label>
                         </div>
@@ -79,10 +80,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Munyati Man Rumtu Qurbuh</b>
-                                    <span>Sabah Fakhri</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
-                                    <span><img src="/img/cd.png"> Nagham Al-Ams Vol.9 - Rast</span>
+                                    <b>موشّح مُنيتي من رُمتُ قُربه</b>
+                                    <span>صباح فخري</span>
+                                    <span>الحان عمر البطش (حلب)</span>
+                                    <span><img src="/img/cd.png"> نغم الامس - الجزء التاسع (مقام راست)</span>
                                 </div>
                             </label>
                         </div>

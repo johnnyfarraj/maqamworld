@@ -54,7 +54,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشح ما احتيالي</b>
                                     <span>الاب لويس الحاج وعايدة شلهوب</span>
-                                    <span><img src="/img/cd.png">Mouwashah - Chants Arabo-andalous</span>
+                                    <span><img src="/img/cd.png"> Mouwashah - Chants Arabo-andalous</span>
                                 </div>
                             </label>
                         </div>
@@ -67,7 +67,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشح انا من وجدي انا</b>
                                     <span>عائشة رضوان</span>
-                                    <span><img src="/img/cd.png">Egypte</span>
+                                    <span><img src="/img/cd.png"> Egypte</span>
                                 </div>
                             </label>
                         </div>
@@ -92,18 +92,20 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>بشرف بلبل الافراح</b>
-                                    <span>فرقة مرقص (لبنان)</span>
-                                    <span><img src="/img/cd.png">Cèdre</span>
+                                    <span>فرقة مُرقص (لبنان)</span>
+                                    <span><img src="/img/cd.png"> Cèdre</span>
                                 </div>
                             </label>
                         </div>
                     </div>
                     
                     <!-- Need some kind of divider here to start the Form 2  examples -->
-                    <div class="clearfix"></div>
+                    <br>
                     <div class="heading jins text-center">
-                        <h3>Examples of the second form of Iqa‘ Aqsaq</h3>
+                        <h3>امثلة من الشكل الثاني لايقاع اقصاق</h3>
                     </div>
+                    <div class="clearfix"></div>
+                    <br>
 
                     <div class="notation">
                         <img src="../note/iqaa/aqsaq_f2.png" class="img-fluid">
@@ -114,9 +116,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ma-htiyali</b>
-                                    <span>Al-Turath Ensemble</span>
-                                    <span><img src="/img/cd.png"> The Music In Spanish Al Andalus - Hijaz</span>
+                                    <b>موشّح ماحتيالي</b>
+                                    <span>فرقة التراث (حلب)</span>
+                                    <span><img src="/img/cd.png"> The Music in Spanish Al Andalus - Hijaz</span>
                                 </div>
                             </label>
                         </div>
@@ -127,10 +129,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ayyua al-Saqi</b>
-                                    <span>Sabah Fakhri</span>
-                                    <span><img src="/img/cd.png"> Beiteddine Festival Vol. 1</span>
-                                    <span>Music by Majdi al-‘Aqili</span>
+                                    <b>موشّح ايهالساقي</b>
+                                    <span>صباح فخري (حلب)</span>
+                                    <span>الحان مجدي العقيلي (سوريا)</span>
                                 </div>
                             </label>
                         </div>
@@ -141,10 +142,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah ‘Adhibuni</b>
-                                    <span>Ensemble Al-Kindi</span>
+                                    <b>موشّح عذّبوني</b>
+                                    <span>فرقة الكندي</span>
+                                    <span>الحان عمر البطش (حلب)</span>
                                     <span><img src="/img/cd.png"> The Aleppian Music Room Vol. 1 - Hijazkar Kurd &amp; Saba</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
                                 </div>
                             </label>
                         </div>

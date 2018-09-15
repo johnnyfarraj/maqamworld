@@ -53,8 +53,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Taqasim on the Beat</b>
-                                    <span>Simon Shaheen</span>
+                                    <b>تقسيم موزون على العود</b>
+                                    <span>سيمون شاهين (فلسطين)</span>
                                     <span><img src="/img/cd.png"> Turath: Masterworks of the Middle East</span>
                                 </div>
                             </label>
@@ -66,8 +66,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mawwal Ya Man Bunudak Harir</b>
-                                    <span>Muhammad Khayri</span>
+                                    <b>موّال يا مَن بنودك حرير</b>
+                                    <span>المطرب الحلبي محمد خيري</span>
                                 </div>
                             </label>
                         </div>
@@ -78,8 +78,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Gafnuhu ‘Allam al-Ghazal (1933)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab</span>
+                                    <b>قصيدة جفنُهُ علّم الغزل (١٩٣٣)</b>
+                                    <span>غناء والحان محمد عبد الوهاب (مصر)</span>
+                                    <span>كلمات بشاره الخورى (لبنان)</span>
                                 </div>
                             </label>
                         </div>
@@ -87,9 +88,12 @@ include($ROOT . 'inc/head.php');
 
 
                     <!-- Need some kind of divider here to start the Form 2  examples -->
+                    <br>
                     <div class="heading jins text-center">
-                        <h3>Examples of the second form of Iqa‘ Bambi</h3>
+                        <h3>امثلة من الشكل الثاني لإيقاع بمبي</h3>
                     </div>
+                    <div class="clearfix"></div>
+                    <br>
 
                     <div class="notation">
                         <img src="../note/iqaa/bambi_f2.png" class="img-fluid">
@@ -100,9 +104,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Andah ‘Aleik (1982)</b>
-                                    <span>Warda</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <b>اغنية انده عليك (١٩٨٢)</b>
+                                    <span>وردة الجزائرية</span>
+                                    <span>الحان محمد عبد الوهاب</span>
+                                    <span>كلمات محمد حمزة (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -113,9 +118,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Alf Leila w Leila (1969)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <b>اغنية الف ليلة وليلة (١٩٦٩)</b>
+                                    <span>ام كلثوم</span>
+                                    <span>الحان بليغ حمدي (مصر)</span>
+                                    <span>كلمات مرسي جميل عزيز</span>
                                 </div>
                             </label>
                         </div>
@@ -126,9 +132,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Asamina</b>
-                                    <span>Fairouz</span>
-                                    <span>Music by Philemon Wehbe</span>
+                                    <b>اسامينا</b>
+                                    <span>فيروز</span>
+                                    <span>الحان فيلمون وهبي</span>
                                 </div>
                             </label>
                         </div>
@@ -139,9 +145,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Layali Lubnan (1954)</b>
-                                    <span>Instrumental Composition</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <b>مقطوعة ليالي لبنان (١٩٥٤)</b>
+                                    <span>الحان محمد عبد الوهاب</span>
                                 </div>
                             </label>
                         </div>

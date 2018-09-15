@@ -54,9 +54,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>‘Aziza (1955)</b>
-                                    <span>Instrumental Composition</span>
-                                    <span>Music by Muhammad Abdel Wahab (from the movie ‘Aziza, 1955)</span>
+                                    <b>مقطوعة عزيزة (١٩٥٥)</b>
+                                    <span>الحان محمد عبد الوهاب</span>
+                                    <span>من فيلم عزيزة</span>
                                 </div>
                             </label>
                         </div>
@@ -67,8 +67,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Halummu Li</b>
-                                    <span>Hassan al-Haffar</span>
+                                    <b>انشودة هلمّوا لي</b>
+                                    <span>المنشد الحلبي حسن الحفّار</span>
                                 </div>
                             </label>
                         </div>
@@ -79,8 +79,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qadd Malik Ya Hilwa</b>
-                                    <span>Muhammad Khayri</span>
+                                    <b>قدّ مالك يا حلوة</b>
+                                    <span>المطرب الحلبي محمد خيري</span>
                                 </div>
                             </label>
                         </div>
@@ -89,7 +89,7 @@ include($ROOT . 'inc/head.php');
                  </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
-                </div>
+                </div> 
             </div>
         </div>
     </div>
