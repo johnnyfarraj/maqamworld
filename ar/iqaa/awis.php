@@ -37,10 +37,18 @@ include($ROOT . 'inc/head.php');
 
                     <div class="notation">
                         <img src="../note/iqaa/awis.png" class="img-fluid">
-                    </div>
+                    </div>ا
 
-                    <p>Iqa‘ ‘Awis is mostly used with the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> genre. Some ‘Awis pieces start from the 3<sup>rd</sup> beat (the first <em>tak</em>), like for example "Muwashah Munyati Man Rumtu Qurbuhu". Meanwhile "Muwashah Hibbi Da‘ani Lil-Wisal" starts the melody on the 11<sup>th</sup> beat (the last <em>tak</em>).
-                    </p>
+                                        
+                    <h5> إيقاع عَويص غالباً ما يستعمل في<a href="../form/vocal_comp.php#muwashah">قالب الموشح</a>.
+                    </h5>
+                    <h5>
+                    ويمكن ان تبدأ الجملة الغنائية على الضربة الثالثة (التَكّ الاولى) من هذا الإيقاع،
+                        كما في موشح "منيتي من رُمتُ قربُه" مثلاً.
+                    ويمكن ايضاً ان تبدأ الجملة الغنائية على الضربة الحادية عشرة (التَكّ الاخيرة)
+                        كما في موشح "حبّي دعاني للوصال". 
+                    </h5>
+                    <br>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -53,7 +61,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>موشّح حبّي دعاني للوصال</b>
+                                    <b>موشّح حِبّي دعاني للوصال</b>
                                     <span>صباح فخري</span>
                                     <span>الحان درويش الحريري</span>
                                     <span><img src="/img/cd.png"> نغم الامس - الجزء الثاني (مقام بياتي شوري)</span>

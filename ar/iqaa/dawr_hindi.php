@@ -39,7 +39,9 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/iqaa/dawr_hindi.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Dawr Hindi is a very popular <em>iqa‘</em> for the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal composed genre.</p>
+                    <h5>ايقاع دور هندي هو ايقاع شائع جداً في
+                        <a href="../form/vocal_comp.php#muwashah">قالب الموشح</a>.</h5>
+                    <br>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -52,9 +54,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Sihtu Wajdan</b>
-                                    <span>Orientalia</span>
-                                    <span>Music by Sayyed Darwish</span>
+                                    <b>موشّخ صحت وجداً</b>
+                                    <span>اوريانتاليا</span>
+                                    <span>الحان سيد درويش (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -65,10 +67,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Jadaka al-Gaythu</b>
-                                    <span>Sabah Fakhri</span>
-                                    <span>Music by Majdi al-‘Aqili</span>
-                                    <span><img src="/img/cd.png"> Beiteddine Festival Vol I</span>
+                                    <b>موشّح جادك الغيث</b>
+                                    <span>المطرب الحلبي صباح فخري</span>
+                                    <span>تلحين مجدي العقيلي (سوريا)</span>
+                                    <span><img src="/img/cd.png"> تسجيل حي من مهرجان بيت الدين - الجزء الاول</span>
                                 </div>
                             </label>
                         </div>
@@ -79,9 +81,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Jalla Man Qad Sawwarak</b>
-                                    <span>Sheikh Hamza Shakkur</span>
-                                    <span>Ensemble Al Kindi</span>
+                                    <b>موشح جل من قد صورك</b>
+                                    <span>الشيخ حمزة الشكور (سوريا)</span>
+                                    <span>فرقة الكندي</span>
                                 </div>
                             </label>
                         </div>
