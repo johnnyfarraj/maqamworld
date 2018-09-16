@@ -52,9 +52,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Longa Farahfaza (Instrumental)</b>
-                                    <span>Salim Sahhab Orchestra</span>
-                                    <span>Music by Riyad al-Sunbati</span>
+                                    <b>لونجا فرَحفَزا</b>
+                                    <span>فرقة سليم سحّاب</span>
+                                    <span>تلحين رياض السنباطي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -65,9 +65,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ghulubt Asalih Fi Ruhi (1946)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music by Riyad al-Sunbati</span>
+                                    <b>اغنية غلُبت اصالح في روحي (١٩٤٦)</b>
+                                    <span>امّ كلثوم</span>
+                                    <span>كلمات احمد رامى (مصر)</span>
+                                    <span>تلحين رياض السنباطي (مصر)</span>
                                 </div>
                             </label>
                         </div>

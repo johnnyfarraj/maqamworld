@@ -52,10 +52,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Tif Ya Durri Bil Qanani</b>
-                                    <span>Al-Kindi Ensemble</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
-                                    <span><img src="/img/cd.png"> The Aleppian Music Room I - Maqam Hijazkar Kurd</span>
+                                    <b>موشّح طِف يا دُرّي بالقناني</b>
+                                    <span>فرقة الكندي</span>
+                                    <span>الحان عمر البطش (حلب)</span>
+                                    <span><img src="/img/cd.png"> حجرة الموسيقى االحلبية – الجزء الاول (مقام حجازكار كرد)</span>
                                 </div>
                             </label>
                         </div>
@@ -66,9 +66,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Tif Ya Durri Bil Qanani</b>
-                                    <span>Orientalia</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
+                                    <b>موشّح طِف يا دُرّي بالقناني</b>
+                                    <span>اوريانتاليا</span>
+                                    <span>الحان عمر البطش (حلب)</span>
                                 </div>
                             </label>
                         </div>
@@ -79,8 +79,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Wal-ladhi Wallaka Qalbi</b>
-                                    <span>Ensemble Morkos</span>
+                                    <b>موشّح والّذي ولّاك قلبي</b>
+                                    <span>فرقة مّرقس (لبنان)</span>
                                 </div>
                             </label>
                         </div>
@@ -91,9 +91,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>il-Hubbi Kullo (1971)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <b>اغنية الحبّ كلّه (١٩٧١)</b>
+                                    <span>امّ كلثوم</span>
+                                    <span>كلمات احمد شفيق كامل</span>
+                                    <span>تلحين بليغ حمدي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -104,9 +105,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mistanniyak</b>
-                                    <span>‘Aziza Galal</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <b>اغنية مستنّياك</b>
+                                    <span>غناء عزيزة جلال (المغرب)</span>
+                                    <span>تلحين بليغ حمدي (مصر)</span>
                                 </div>
                             </label>
                         </div>

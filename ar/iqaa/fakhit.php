@@ -52,9 +52,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Bi Sifatin Ja‘alatni</b>
-                                    <span>Al-Kindi Ensemble</span>
-                                    <span><img src="/img/cd.png"> The Aleppian Music Room II - Maqam Rast</span>
+                                    <b>موشّح بصفاتٍ جعلتني</b>
+                                    <span>فرقة الكندي</span>
+                                    <span><img src="/img/cd.png"> حجرة الموسيقى االحلبية – الجزء الثاني (مقام راست)</span>
                                 </div>
                             </label>
                         </div>
@@ -65,9 +65,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Idha Da‘ana al-Siba</b>
-                                    <span>Khaled al-Hafez</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
+                                    <b>موشح اذا دعانا الصِبا</b>
+                                    <span>غناء خالد الحافظ</span>
+                                    <span>الحان عمر البطش (حلب)</span>
                                 </div>
                             </label>
                         </div>
@@ -78,9 +78,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Zarani Taht al-Ghayahib</b>
-                                    <span>Firqat Usama Bin Zayd</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
+                                    <b>موشّح زارني تحت الغياهِب</b>
+                                    <span>فرقة اسامة بن زيد</span>
+                                    <span>الحان عمر البطش (حلب)</span>
                                 </div>
                             </label>
                         </div>

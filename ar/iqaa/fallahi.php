@@ -52,8 +52,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>il-Benti Beida</b>
-                                    <span>Vocals and Music by Metqal Qannawi</span>
+                                    <b>اغنية البنت بيضا</b>
+                                    <span>غناء متقال قنّاوي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -64,8 +64,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ahom Ahom</b>
-                                    <span>Vocals and Music by Ahmad Adaweya</span>
+                                    <b>اغنية احمّ احمّ</b>
+                                    <span>غناء احمد عدوية (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -76,8 +76,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Salametha Ummu Hasan</b>
-                                    <span>Vocals and Music by Ahmad Adaweya</span>
+                                    <b>اغنية سلامتها امّ حسن</b>
+                                    <span>غناء احمد عدوية (مصر)</span>
                                 </div>
                             </label>
                         </div>
