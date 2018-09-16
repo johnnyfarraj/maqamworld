@@ -94,7 +94,7 @@ include($ROOT . 'inc/head.php');
                                     <b>اغنية الحبّ كلّه (١٩٧١)</b>
                                     <span>امّ كلثوم</span>
                                     <span>كلمات احمد شفيق كامل</span>
-                                    <span>تلحين بليغ حمدي (مصر)</span>
+                                    <span>الحان بليغ حمدي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية مستنّياك</b>
                                     <span>غناء عزيزة جلال (المغرب)</span>
-                                    <span>تلحين بليغ حمدي (مصر)</span>
+                                    <span>الحان بليغ حمدي (مصر)</span>
                                 </div>
                             </label>
                         </div>

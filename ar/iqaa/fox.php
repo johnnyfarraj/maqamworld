@@ -54,7 +54,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>لونجا فرَحفَزا</b>
                                     <span>فرقة سليم سحّاب</span>
-                                    <span>تلحين رياض السنباطي (مصر)</span>
+                                    <span>الحان رياض السنباطي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -68,7 +68,7 @@ include($ROOT . 'inc/head.php');
                                     <b>اغنية غلُبت اصالح في روحي (١٩٤٦)</b>
                                     <span>امّ كلثوم</span>
                                     <span>كلمات احمد رامى (مصر)</span>
-                                    <span>تلحين رياض السنباطي (مصر)</span>
+                                    <span>الحان رياض السنباطي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -79,9 +79,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Al-Fann 1945</b>
-                                    <span>Insrumental Composition</span>
-                                    <span>Muhammad Abdel Wahab</span>
+                                    <b>اغنية الفنّ (١٩٤٥)</b>
+                                    <span>كلمات صالح جودت</span>
+                                    <span>غناء والحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -92,9 +92,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Tuta</b>
-                                    <span>Instrumental Composition</span>
-                                    <span>Music by Farid al-Atrash</span>
+                                    <b>مقطوعة توتة</b>
+                                    <span>الحان فريد الاطرش (سوريا-مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -105,9 +104,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Dunya Ya Gharami (1938)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab</span>
-                                    <span><em>(could be notated as 4/4)</em></span>
+                                    <b>اغنية يا دنيا يا غرامي (١٩٣٨)</b>
+                                    <span>كلمات احمد رامى</span>
+                                    <span>غناء والحان محمد عبد الوهاب (مصر)</span>
+                                    <span><em>(يمكن ان تدوّن على وزن ٤/٤)</em></span>
                                 </div>
                             </label>
                         </div>
@@ -118,9 +118,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Kulli Da Kan Leh (1954)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab</span>
-                                    <span><em>(could be notated as 4/4)</em></span>
+                                    <b>اغنية كلّ ده كان ليه (١٩٥٤)</b>
+                                    <span>كلمات مأمون الشناوي</span>
+                                    <span>غناء والحان محمد عبد الوهاب (مصر)</span>
+                                    <span><em>(يمكن ان تدوّن على وزن ٤/٤)</em></span>
                                 </div>
                             </label>
                         </div>

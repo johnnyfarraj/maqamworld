@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشّح جادك الغيث</b>
                                     <span>المطرب الحلبي صباح فخري</span>
-                                    <span>تلحين مجدي العقيلي (سوريا)</span>
+                                    <span>الحان مجدي العقيلي (سوريا)</span>
                                     <span><img src="/img/cd.png"> تسجيل حي من مهرجان بيت الدين - الجزء الاول</span>
                                 </div>
                             </label>
@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>موشح جل من قد صورك</b>
-                                    <span>الشيخ حمزة الشكور (سوريا)</span>
+                                    <span>إنشاد الشيخ حمزة شكّور (سوريا)</span>
                                     <span>فرقة الكندي</span>
                                 </div>
                             </label>

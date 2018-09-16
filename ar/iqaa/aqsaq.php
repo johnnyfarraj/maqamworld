@@ -102,7 +102,7 @@ include($ROOT . 'inc/head.php');
                     <!-- Need some kind of divider here to start the Form 2  examples -->
                     <br>
                     <div class="heading jins text-center">
-                        <h3>امثلة من الشكل الثاني لايقاع اقصاق</h3>
+                        <h3>الشكل الثاني لايقاع اقصاق</h3>
                     </div>
                     <div class="clearfix"></div>
                     <br>
