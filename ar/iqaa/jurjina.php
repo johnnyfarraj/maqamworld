@@ -53,8 +53,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Ya Umm il-'Uyun il-Sud</b>
-                                    <span>Nazem al-Ghazali</span>
+                                    <b>اغنية يامّ العيون السود</b>
+                                    <span>غناء ناظم الغزالي (عراق)</span>
                                 </div>
                             </label>
                         </div>
@@ -65,8 +65,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ya Hulu al-Lama</b>
-                                    <span>Lutfi Bshnaq</span>
+                                    <b>موشح يا حلو اللمى</b>
+                                    <span>غناء لطفي بوشناق (تونس)</span>
                                 </div>
                             </label>
                         </div>
@@ -77,9 +77,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Tal Intizari (1937)</b>
-                                    <span>Muhammad Abdel Wahab and Laila Murad</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <b>اغنية طال انتظاري (١٩٣٧)</b>
+                                    <span>غناء ليلى مُراد ومحمد عبد الوهاب (مصر)</span>
+                                    <span>الحان محمد عبد الوهاب</span>
                                 </div>
                             </label>
                         </div>

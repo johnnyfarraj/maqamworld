@@ -52,9 +52,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Qadd Dhatul-Jamal Ukhtul-Hilal</b>
-                                    <span>Al-Turath Ensemble</span>
-                                    <span><img src="/img/cd.png"> Hermana de la Luna - Rast</span>
+                                    <b>قدّ ذات الجمال اخت الهلال</b>
+                                    <span>فرقة التراث (حلب)</span>
+                                    <span><img src="/img/cd.png"> أسطوانة اخت الهلال – مقام الراست</span>
                                 </div>
                             </label>
                         </div>
@@ -65,9 +65,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Siret il-Hubb (1964)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <b>اغنية سيرة الحبّ (١٩٦٤)</b>
+                                    <span>امّ كلثوم</span>
+                                    <span>كلمات مرسى جميل عزيز</span>
+                                    <span>الحان بليغ حمدي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -78,9 +79,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Darit il-Ayyam (1970) - Example 1</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <b>اغنية دارت الايام (١٩٧٠) – المثل الاول</b>
+                                    <span>امّ كلثوم</span>
+                                    <span>كلمات مأمون الشناوي</span>
+                                    <span>الحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -91,9 +93,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Darit il-Ayyam (1970) - Example 2</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <b>اغنية دارت الايام (١٩٧٠) – المثل الثاني</b>
+                                    <span>امّ كلثوم</span>
+                                    <span>كلمات مأمون الشناوي</span>
+                                    <span>الحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>
