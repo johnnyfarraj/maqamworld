@@ -57,8 +57,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Ishta'tillak (1962)</b>
-                                    <span>Vocals and Music by Farid al-Atrash</span>
+                                    <b>اغنية اشتقتلّك (١٩٦٢)</b>
+                                    <span>غناء والحان فريد الأطرش</span>
                                 </div>
                             </label>
                         </div>
@@ -69,9 +69,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qasidat Ja'at Mu‘adhibati</b>
-                                    <span>Fatima Serhan</span>
-                                    <span><img src="/img/cd.png"> The Queen of Balady</span>
+                                    <b>قصيدة جاءت معذبتي</b>
+                                    <span>فاطمة سرحان </span>
                                 </div>
                             </label>
                         </div>
@@ -82,8 +81,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Layali Rast (from ‘Addini ya M‘addawi)</b>
-                                    <span>‘Abbas al-Bleidi</span>
+                                    <b>ليالي مقام راست</b>
+                                    <span>من اغنية عديني يا معدّاوي</span>
+                                    <span>غناء عباس البليدي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -94,8 +94,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mawwal Khullin Sagani Kasat al-Sabr</b>
-                                    <span>Muhammad Khayri</span>
+                                    <b>موّال خلٍ سقاني كاسات الصبر</b>
+                                    <span>المطرب الحلبي محمد خيري</span>
                                 </div>
                             </label>
                         </div>
@@ -106,9 +106,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Dala‘ Dalla‘ (1974)</b>
-                                    <span>Sabah</span>
-                                    <span>Music by Farid al-Atrash</span>
+                                    <b>يا دلع دلّع (١٩٧٤)</b>
+                                    <span>غناء صباح (لبنان)</span>
+                                    <span>الحان فريد الأطرش</span>
                                 </div>
                             </label>
                         </div>
@@ -119,8 +119,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qasida ‘Ayni Li Ghayri Jamalikum</b>
-                                    <span>Al-Turath Ensemble</span>
+                                    <b>قصيدة عيني لغير جمالكم</b>
+                                    <span>فرقة التراث (حلب)</span>
                                 </div>
                             </label>
                         </div>
@@ -131,9 +131,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Tile‘ Li el-Biki</b>
-                                    <span>Fairouz</span>
-                                    <span>Music by Philemon Wehbe</span>
+                                    <b>اغنية طلع لي البكي</b>
+                                    <span>غناء فيروز (لبنان)</span>
+                                    <span>الحان فيلمون وهبي (لبنان)</span>
                                 </div>
                             </label>
                         </div>
@@ -142,18 +142,19 @@ include($ROOT . 'inc/head.php');
                     <!-- Need some kind of divider here -->
                     <br>
                     <div class="heading jins text-center">
-                        <h3>Fast Ciftetelli examples in 4/4</h3>
+                        <h3>امثلة من إيقاع شفتتلّي السريع على وزن ٤/٤</h3>
                     </div>
                     <div class="clearfix"></div>
+                    <br>
 
                     <div class="track" data-song="/audio/iqaa/ciftetelli_4_4/aziza.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>‘Aziza (1955)</b>
-                                    <span>Instrumental Composition</span>
-                                    <span>Music by Muhammad Abdel Wahab (from the movie <strong>‘Aziza</strong>)</span>
+                                    <b>مقطوعة عزيزة (١٩٥٥)</b>
+                                    <span>الحان محمد عبد الوهاب</span>
+                                    <span>من فيلم عزيزة</span>
                                 </div>
                             </label>
                         </div>
@@ -164,8 +165,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mawwal Ya Man Bunudak Harir</b>
-                                    <span>Muhammad Khayri</span>
+                                    <b>موال يا من بنودك حرير</b>
+                                    <span>المطرب الحلبي محمد خيري</span>
                                 </div>
                             </label>
                         </div>
@@ -176,8 +177,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Nura Nura (1953)</b>
-                                    <span>Vocals and Music by Farid al-Atrash</span>
+                                    <b>اغنية نورا نورا (١٩٥٣)</b>
+                                    <span>غناء والحان فريد الأطرش</span>
                                 </div>
                             </label>
                         </div>
@@ -188,8 +189,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Nay Bayati</b>
-                                    <span>Muhammad Khayri</span>
+                                    <b>تقسيم ناي على مقام بياتي</b>
+                                    <span>من وصلة للمطرب محمد خيري</span>
                                 </div>
                             </label>
                         </div>
@@ -200,9 +201,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Tuta</b>
-                                    <span>Instrumental Composition</span>
-                                    <span>Music by Farid al-Atrash</span>
+                                    <b>مقطوعة توتة</b>
+                                    <span>الحان فريد الأطرش</span>
                                 </div>
                             </label>
                         </div>
@@ -213,9 +213,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Dara Duri Fina</b>
-                                    <span>Fairouz</span>
-                                    <span>Music by Philemon Wehbe</span>
+                                    <b>اغنية يا دارة دوري فينا</b>
+                                    <span>غناء فيروز (لبنان)</span>
+                                    <span>الحان فيلمون وهبي (لبنان)</span>
                                 </div>
                             </label>
                         </div>
