@@ -65,9 +65,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Amal Hayati (1965)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <b>اغنية امل حياتي (١٩٦٥) </b>
+                                    <span>امّ كلثوم</span>
+                                    <span>كلمات احمد شفيق كامل</span>
+                                    <span>الحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -78,9 +79,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ansak Da Kalam (1961)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <b>اغنية انساك ده كلام (١٩٦١)</b>
+                                    <span>امّ كلثوم</span>
+                                    <span>كلمات مأمون الشناوى</span>
+                                    <span>الحان بليغ حمدي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -91,9 +93,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ba‘id ‘Annak (1965)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <b>اغنية بعيد عنّك (١٩٦٥)</b>
+                                    <span>امّ كلثوم</span>
+                                    <span>كلمات الشاعر مأمون الشناوي</span>
+                                    <span>الحان بليغ حمدي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -104,9 +107,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Darit el-Ayyam (1970)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <b>اغنية دارت الايام (١٩٧٠)</b>
+                                    <span>امّ كلثوم</span>
+                                    <span>كلمات مأمون الشناوي</span>
+                                    <span>الحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -117,9 +121,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qari’at al-Fingan (1976)</b>
-                                    <span>Abdel Halim Hafez</span>
-                                    <span>Music by Muhammad al-Mugi</span>
+                                    <b>اغنية قارئة الفنجان (١٩٧٦)</b>
+                                    <span>غناء عبد الحليم حافظ (مصر)</span>
+                                    <span>كلمات نزار قبّاني (سوريا)</span>
+                                    <span>الحان محمد الموجي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -130,9 +135,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Shu‘uri Nahiyetak (1981)</b>
-                                    <span>Warda</span>
-                                    <span>Music by Sayyed Makkawi</span>
+                                    <b>اغنية شعوري ناحيتَك (١٩٨١)</b>
+                                    <span>غناء وردة الجزائرية</span>
+                                    <span>الحان سيّد مكّاوي (مصر)</span>
                                 </div>
                             </label>
                         </div>

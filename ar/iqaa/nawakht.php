@@ -65,7 +65,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Badru Timmin Haza Husnan</b>
+                                    <b>موشّح بدر تمٍّ حاز حسناَ</b>
                                     <span>فرقة الموسيقى العربية (مصر)</span>
                                     <span>بقيادة عبد الحليم نويرة</span>
                                 </div>

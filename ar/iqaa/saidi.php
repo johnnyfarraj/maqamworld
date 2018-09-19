@@ -52,9 +52,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Sawwah (1966)</b>
-                                    <span>Abdel Halim Hafez</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <b>اغنية سوّاح (١٩٦٦)</b>
+                                    <span>غناء عبد الحليم حافظ (مصر)</span>
+                                    <span>كلمات الشاعر محمد حمزة</span>
+                                    <span>الحان بليغ حمدي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -65,9 +66,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Zayy el-Hawa (1970)</b>
-                                    <span>Abdel Halim Hafez</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <b>اغنية زيّ الهوى (١٩٧٠)</b>
+                                    <span>غناء عبد الحليم حافظ (مصر)</span>
+                                    <span>كلمات الشاعر محمد حمزة</span>
+                                    <span>الحان بليغ حمدي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -78,9 +80,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>‘Ala Hisb Widad Galbi (1953)</b>
-                                    <span>Hossam Ramzi</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <b>اغنية على حسب وداد قلبي (١٩٥٣)</b>
+                                    <span>عازف الايقاع حسام رمزي (مصر)</span>
+                                    <span>الحان بليغ حمدي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -91,9 +93,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Bahibbak Saddaqni</b>
-                                    <span>Warda</span>
-                                    <span>Music by Sayyed Makkawi</span>
+                                    <b>اغنية بحبك صدّقني</b>
+                                    <span>غناء وردة الجزائرية</span>
+                                    <span>الحان سيّد مكّاوي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -104,8 +106,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Habba Fouq We Habba Taht</b>
-                                    <span>Vocals and Music by Ahmad Adaweya</span>
+                                    <b>اغنية حبة فوق وحبة تحت</b>
+                                    <span>غناء احمد عدوية (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -116,8 +118,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Adik Ti'ul Makhadtesh</b>
-                                    <span>Vocals and Music by Ahmad Adaweya</span>
+                                    <b>اغنية اديك تقول ماخدتش</b>
+                                    <span>غناء احمد عدوية (مصر)</span>
                                 </div>
                             </label>
                         </div>

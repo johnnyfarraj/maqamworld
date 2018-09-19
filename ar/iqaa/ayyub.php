@@ -54,7 +54,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>موشّح اتاني زماني بما ارتضيه</b>
-                                    <span>نور الدين خورشيد ودراويش دمشق </span>
+                                    <span>نور الدين خورشيد ودراويش دمشق</span>
                                 </div>
                             </label>
                         </div>
