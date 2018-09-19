@@ -52,8 +52,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Badat Min al-Khidri</b>
-                                    <span>Ensemble Al-Kindi</span>
+                                    <b>موشّح بدت من الخدر</b>
+                                    <span>فرقة الكندي</span>
                                 </div>
                             </label>
                         </div>
@@ -64,8 +64,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Hajarni Habibi</b>
-                                    <span>Al-Turath Ensemble</span>
+                                    <b>موشّح هجرني حبيبي</b>
+                                    <span>فرقة التراث (سوريا)</span>
+                                    <span>بقيادة محمد حمّادية</span>
                                 </div>
                             </label>
                         </div>
@@ -76,8 +77,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Hal ‘Ala al-Astar</b>
-                                    <span>Ensemble Morkos</span>
+                                    <b>موشح عل على الاستار</b>
+                                    <span>فرقة مُرقس (لبنان)</span>
+                                    <span><img src="/img/cd.png"> Cèdre</span>
                                 </div>
                             </label>
                         </div>
@@ -88,9 +90,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Muyati ‘Azza Istibari</b>
-                                    <span>Orientalia</span>
-                                    <span>Music by Sayyed Darwish</span>
+                                    <b>موشح منيتي عزّ اصطباري</b>
+                                    <span>اوريانتاليا</span>
+                                    <span>تلحين سيّد درويش (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -101,8 +103,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ya Tura Ba‘da al-Bi‘adi</b>
-                                    <span>Ensemble Al-Kindi</span>
+                                    <b>موشح يا تُرى بعد البِعاد</b>
+                                    <span>فرقة الكندي</span>
                                 </div>
                             </label>
                         </div>

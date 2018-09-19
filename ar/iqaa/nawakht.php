@@ -53,7 +53,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Ya Hilalan</b>
-                                    <span>Abdel Halim Noueirah Ensemble</span>
+                                    <span>فرقة الموسيقى العربية (مصر)</span>
+                                    <span>بقيادة عبد الحليم نويرة</span>
                                 </div>
                             </label>
                         </div>
@@ -65,7 +66,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Badru Timmin Haza Husnan</b>
-                                    <span>Abdel Halim Noueirah Ensemble</span>
+                                    <span>فرقة الموسيقى العربية (مصر)</span>
+                                    <span>بقيادة عبد الحليم نويرة</span>
                                 </div>
                             </label>
                         </div>
@@ -76,8 +78,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Qultu Lamma Ghaba ‘Anni</b>
-                                    <span>Hasan al-Haffar</span>
+                                    <b>موشّح قلتُ لما غاب عنّي</b>
+                                    <span>المنشد الحلبي حسن الحفّار</span>
+                                    <span>الحان عمر البطش (حلب)</span>
                                 </div>
                             </label>
                         </div>
@@ -88,8 +91,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Hati Ya Habibi</b>
-                                    <span>Abdel Halim Noueirah Ensemble</span>
+                                    <b>موشح هاتِ يا حبيبي</b>
+                                    <span>فرقة الموسيقى العربية (مصر)</span>
+                                    <span>بقيادة عبد الحليم نويرة</span>
                                 </div>
                             </label>
                         </div>
@@ -100,8 +104,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ijma‘u bil-Qurbi Shamli</b>
-                                    <span>Sabah Fakhri</span>
+                                    <b>موشح إجمعوا بالقرب شملي</b>
+                                    <span>غناء صباح فخري (حلب)</span>
                                 </div>
                             </label>
                         </div>
@@ -112,8 +116,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Jalla Man Qad Sagha Badran</b>
-                                    <span>Ensemble Morkos</span>
+                                    <b>موشح جلَّ من صاغ بدراً</b>
+                                    <span>فرقة مُرقس (لبنان)</span>
+                                    <span><img src="/img/cd.png"> Cèdre</span>
                                 </div>
                             </label>
                         </div>
@@ -124,8 +129,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Khala al-‘Idhar</b>
-                                    <span>Vocals and Music by ‘Umar al-Batsh</span>
+                                    <b>موشّح خلا العِذار من وجنتيه</b>
+                                    <span>غناء والحان عمر البطش (حلب)</span>
                                 </div>
                             </label>
                         </div>

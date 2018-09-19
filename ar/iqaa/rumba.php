@@ -52,9 +52,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Al-Fann (1945)</b>
-                                    <span>Instrumental Composition </span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <b>اغنية الفنّ (١٩٤٥)</b>
+                                    <span>كلمات صالح جودت</span>
+                                    <span>غناء والحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>

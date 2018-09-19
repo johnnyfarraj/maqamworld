@@ -121,6 +121,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>قصيدة عيني لغير جمالكم</b>
                                     <span>فرقة التراث (حلب)</span>
+                                    <span>بقيادة محمد حمّادية</span>
                                 </div>
                             </label>
                         </div>

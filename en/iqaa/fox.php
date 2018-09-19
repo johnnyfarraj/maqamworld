@@ -82,8 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Al-Fann 1945</b>
-                                    <span>Insrumental Composition</span>
-                                    <span>Muhammad Abdel Wahab</span>
+                                    <span>Vocals and Music by Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>

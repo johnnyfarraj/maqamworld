@@ -93,6 +93,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشح يا فاتن الغزلان</b>
                                     <span>فرقة التراث</span>
+                                    <span>بقيادة محمد حمّادية</span>
                                     <span>الحان عمر البطش (حلب)</span>
                                 </div>
                             </label>
@@ -118,7 +119,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Zarani al-Mahbub</b>
-                                    <span>Sabah Fakhri</span>
+                                    <span>غناء صباح فخري (حلب)</span>
                                 </div>
                             </label>
                         </div>

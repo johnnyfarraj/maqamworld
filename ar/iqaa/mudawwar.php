@@ -54,7 +54,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشّح اذكر الحبّ</b>
                                     <span>فرقة الموسيقى العربية (مصر)</span>
-                                    <span>بإدارة عبد الحليم نويرة</span>
+                                    <span>بقيادة عبد الحليم نويرة</span>
                                     <span>الحان داوود حسني (مصر)</span>
                                 </div>
                             </label>
@@ -68,7 +68,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشّح فيك كل ما أرى حسن</b>
                                     <span>فرقة الموسيقى العربية (مصر)</span>
-                                    <span>بإدارة عبد الحليم نويرة</span>
+                                    <span>بقيادة عبد الحليم نويرة</span>
                                 </div>
                             </label>
                         </div>

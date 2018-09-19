@@ -79,7 +79,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>موشح جلّ من بالحسن صوّر</b>
-                                    <span>فرقة عبد الحليم نويرة (مصر)</span>
+                                    <span>فرقة الموسيقى العربية (مصر)</span>
+                                    <span>بقيادة عبد الحليم نويرة</span>
                                     <span>الحان كامل الخلعي</span>
                                 </div>
                             </label>
@@ -92,7 +93,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>بشرف بلبل الافراح</b>
-                                    <span>فرقة مُرقص (لبنان)</span>
+                                    <span>فرقة مُرقس (لبنان)</span>
                                     <span><img src="/img/cd.png"> Cèdre</span>
                                 </div>
                             </label>
@@ -118,6 +119,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشّح ماحتيالي</b>
                                     <span>فرقة التراث (حلب)</span>
+                                    <span>بقيادة محمد حمّادية</span>
                                     <span><img src="/img/cd.png"> The Music in Spanish Al Andalus - Hijaz</span>
                                 </div>
                             </label>

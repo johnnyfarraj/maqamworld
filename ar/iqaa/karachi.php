@@ -54,6 +54,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>قدّ ذات الجمال اخت الهلال</b>
                                     <span>فرقة التراث (حلب)</span>
+                                    <span>بقيادة محمد حمّادية</span>
                                     <span><img src="/img/cd.png"> أسطوانة اخت الهلال – مقام الراست</span>
                                 </div>
                             </label>
