@@ -52,8 +52,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Ahwa al-Ghazal al-Rabrabi</b>
-                                    <span>Al-Kindi Ensemble</span>
+                                    <b>موشّح اهوى الغزال الربربي</b>
+                                    <span>فرقة الكندي</span>
                                 </div>
                             </label>
                         </div>
@@ -64,8 +64,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah ‘Unq al-Malih al-Ghali</b>
-                                    <span>Sabri al-Mudallal</span>
+                                    <b>موشح عنق المليح الغالي</b>
+                                    <span>غناء صبري المدلل (حلب)</span>
                                 </div>
                             </label>
                         </div>
@@ -76,8 +76,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Bil-Ladhi Askara</b>
-                                    <span>Louis Hage and Aida Chalhoub</span>
+                                    <b>موشح بالّذي اسكر من عذب اللمى</b>
+                                    <span>غناء عايدة شلهوب (لبنان)</span>
+                                    <span>اعداد وتوزيع الاب لويس الحاج</span>
                                 </div>
                             </label>
                         </div>
@@ -88,8 +89,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ila Kam Dha al-Tamadi</b>
-                                    <span>Ensemble Morkos</span>
+                                    <b>موشح الى كم ذا التمادي</b>
+                                    <span>فرقة مُرقس (لبنان)</span>
                                     <span><img src="/img/cd.png"> Cèdre</span>
                                 </div>
                             </label>
@@ -101,8 +102,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Qad Hala Shurb al-Mudam</b>
-                                    <span>Al-Turath Ensemble</span>
+                                    <b>موشّح قد حلا شرب المدام</b>
+                                    <span>فرقة التراث (حلب)</span>
+                                    <span>بقيادة محمد حمّادية</span>
                                 </div>
                             </label>
                         </div>
@@ -113,9 +115,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Qum Ya Nadim</b>
-                                    <span>Sabah Fakhri</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
+                                    <b>موشّح قم يا نديم</b>
+                                    <span>صباح فخري (حلب)</span>
+                                    <span>الحان عمر البطش (حلب)</span>
                                 </div>
                             </label>
                         </div>
@@ -126,8 +128,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ya Bahjet el-Rouh</b>
-                                    <span>Sabah Fakhri</span>
+                                    <b>موشّح يا بهجة الروح</b>
+                                    <span>صباح فخري (حلب)</span>
+                                    <span>الحان سيّد درويش (مصر)</span>
                                 </div>
                             </label>
                         </div>

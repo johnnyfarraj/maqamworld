@@ -52,8 +52,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Duqqu il-Mazahir (1952)</b>
-                                    <span>Vocals and Music by Farid al-Atrash</span>
+                                    <b>اغنية دقّوا المزاهر (١٩٥٢)</b>
+                                    <span>غناء والحان فريد الأطرش</span>
                                 </div>
                             </label>
                         </div>
@@ -64,8 +64,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qadd Ah Ya Hilu</b>
-                                    <span>Muhammad Khayri</span>
+                                    <b>قدّ آه يا حلو</b>
+                                    <span>غناء المطرب محمد خيري (حلب)</span>
                                 </div>
                             </label>
                         </div>
@@ -76,9 +76,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qadd Ya Mal il-Sham</b>
-                                    <span>Sabah Fakhri</span>
-                                    <span>Music by Ahmad Abu Khalil al-Qabbani</span>
+                                    <b>قدّ يا مال الشام</b>
+                                    <span>غناء صباح فخري (حلب)</span>
+                                    <span>الحان احمد أبو خليل القباني (سوريا)</span>
                                 </div>
                             </label>
                         </div>
@@ -89,10 +89,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Hann el-Hadid (1974)</b>
-                                    <span>Joseph Saqr</span>
-                                    <span>Music by Ziad Rahbani</span>
-                                    <span>From the musical Nazl el-Surur</span>
+                                    <b>اغنية حنّ الحديد (١٩٧٤)</b>
+                                    <span>غناء جوزيف صقر (لبنان)</span>
+                                    <span>الحان زياد الرحباني (لبنان)</span>
+                                    <span>من المسرحية الغنائية "نزل السرور"</span>
                                 </div>
                             </label>
                         </div>

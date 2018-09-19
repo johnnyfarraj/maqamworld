@@ -131,6 +131,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Ya Bahjet el-Rouh</b>
                                     <span>Sabah Fakhri</span>
+                                    <span>Music by Sayyed Darwish</span>
                                 </div>
                             </label>
                         </div>
