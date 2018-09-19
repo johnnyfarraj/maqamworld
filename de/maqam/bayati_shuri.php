@@ -101,6 +101,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Hibbi Da‘ani Lil-Wisal</b>
                                     <span>Sabah Fakhri</span>
+                                    <span>Musik von Sayyed Darwish</span>
                                     <span>Nagham al-Ams Vol. 2 (Bayati Shuri)</span>
                                 </div>
                             </label>

@@ -52,9 +52,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Bint el-Balad (1951)</b>
-                                    <span>Instrumental Composition</span>
-                                    <span>Muhammad Abdel Wahab</span>
+                                    <b>مقطوعة بنت البلد (١٩٥١) </b>
+                                    <span>الحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -65,8 +64,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Khayyi Khayyi (1958)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab</span>
+                                    <b>اغنية خيّ خيّ (١٩٥٨)</b>
+                                    <span>غناء والحان محمد عبد الوهاب (مصر)</span>
+                                    <span>كلمات حسين السيد</span>
                                 </div>
                             </label>
                         </div>
@@ -77,9 +77,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ruba‘iyyat al-Khayam (1950)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music by Riyad al-Sunbati</span>
+                                    <b>اغنية رباعيات الخيام (١٩٥٠) </b>
+                                    <span>امّ كلثوم</span>
+                                    <span>كلمات أحمد رامي (مصر)</span>
+                                    <span>الحان رياض السنباطي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -90,9 +91,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ya Fatin al-Ghuzlan</b>
-                                    <span>Al-Turath Ensemble</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
+                                    <b>موشح يا فاتن الغزلان</b>
+                                    <span>فرقة التراث</span>
+                                    <span>الحان عمر البطش (حلب)</span>
                                 </div>
                             </label>
                         </div>
@@ -103,9 +104,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ya Shadi al-Alhan</b>
-                                    <span>Sabah Fakhri</span>
-                                    <span>Music by Sayyed Darwish</span>
+                                    <b>موشح يا شادي الالحان</b>
+                                    <span>غناء صباح فخري (حلب)</span>
+                                    <span>الحان سيّد درويش (مصر)</span>
                                 </div>
                             </label>
                         </div>

@@ -58,6 +58,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Hibbi Da‘ani Lil-Wisal</b>
                                     <span>Sabah Fakhri</span>
+                                    <span>Musik von Sayyed Darwish</span>
                                     <span><img src="/img/cd.png"> Nagham Al-Ams Vol.2 - Bayati Shuri</span>
                                 </div>
                             </label>
@@ -71,7 +72,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Hibbi Da‘ani Lil-Wisal</b>
                                     <span>Orientalia</span>
-                                    <span>Musik von Darwish al-Hariri</span>
+                                    <span>Musik von Sayyed Darwish</span>
                                 </div>
                             </label>
                         </div>

@@ -55,7 +55,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>تقسيم موزون على العود</b>
                                     <span>سيمون شاهين (فلسطين)</span>
-                                    <span><img src="/img/cd.png"> Turath: Masterworks of the Middle East</span>
+                                    <span><img src="/img/cd.png"> إسطوانة تراث</span>
                                 </div>
                             </label>
                         </div>

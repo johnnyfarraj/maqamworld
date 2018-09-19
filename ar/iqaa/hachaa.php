@@ -156,7 +156,7 @@ include($ROOT . 'inc/head.php');
                     <!-- Need some kind of divider here -->
                     <br>
                     <div class="heading jins text-center">
-                        <h3>الشكل الثاني لإيقاع هچع على وزن ٦/٤</h3>
+                        <h3>الشكل الثالث لإيقاع هچع على وزن ٦/٤</h3>
                     </div>
                     <div class="clearfix"></div>
                     <br>

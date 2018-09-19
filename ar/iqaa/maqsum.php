@@ -52,9 +52,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>il-Alb Yi‘shaq Kulli Gamil (1961)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music by Riyad al-Sunbati</span>
+                                    <b>اغنية القلب يعشق كلّ جميل (١٩٦١)</b>
+                                    <span>امّ كلثوم</span>
+                                    <span>كلمات بيرم التونسي</span>
+                                    <span>الحان رياض السنباطي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -65,9 +66,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Darit el-Ayyam (1970)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <b>اغنية دارت الايام (١٩٧٠)</b>
+                                    <span>امّ كلثوم</span>
+                                    <span>كلمات مأمون الشناوي</span>
+                                    <span>الحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -78,9 +80,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qari'at al-Fingan (1976)</b>
-                                    <span>Abdel Halim Hafez</span>
-                                    <span>Music by Muhammad al-Mugi</span>
+                                    <b>اغنية قارئة الفنجان (١٩٧٦)</b>
+                                    <span>غناء عبد الحليم حافظ (مصر)</span>
+                                    <span>كلمات نزار قبّاني (سوريا)</span>
+                                    <span>الحان محمد الموجي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -91,9 +94,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Waraqu al-Asfar</b>
-                                    <span>Fairouz</span>
-                                    <span>Music by Philemon Wehbe</span>
+                                    <b>اغنية ورقو الأصفر شهر ايلول</b>
+                                    <span>غناء فيروز (لبنان)</span>
+                                    <span>الحان فيلمون وهبي (لبنان)</span>
                                 </div>
                             </label>
                         </div>
@@ -104,8 +107,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Libnan Dakhl Trabak</b>
-                                    <span>Sabah</span>
+                                    <b>اغنية يا لبنان دخل ترابك</b>
+                                    <span>غناء صباح (لبنان)</span>
                                 </div>
                             </label>
                         </div>
@@ -116,8 +119,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ana Bahibb el-Gedid</b>
-                                    <span>Vocals and Music by Ahmad Adaweya</span>
+                                    <b>اغنية انا بحبّ الجديد</b>
+                                    <span>غناء احمد عدوية (مصر) </span>
                                 </div>
                             </label>
                         </div>

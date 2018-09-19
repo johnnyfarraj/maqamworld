@@ -53,9 +53,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Salla Fina al-Lahdha Hindiyya</b>
-                                    <span>Ensemble Al-Kindi</span>
-                                    <span><img src="/img/cd.png"> Les Croisades Sous Le Regard De l'Orient - Hijaz</span>
+                                    <b>موشح سلّ فينا اللحظ هنديا</b>
+                                    <span>فرقة الكندي</span>
+                                    <span></span>
+                                    <span><img src="/img/cd.png"> أسطوانة الحروب الصليبية من منظار الشرق (مقام حجاز)</span>
                                 </div>
                             </label>
                         </div>
@@ -66,9 +67,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Salla Fina al-Lahdha Hindiyya</b>
-                                    <span>Sabah Fakhri</span>
-                                    <span><img src="/img/cd.png"> Nagham Al Ams Vol 08 - Hijaz</span>
+                                    <b>موشح سلّ فينا اللحظ هنديا</b>
+                                    <span>صباح فخري (حلب)</span>
+                                    <span><img src="/img/cd.png">نغم الامس - الجزء الثامن (مقام حجاز)</span>
                                 </div>
                             </label>
                         </div>
@@ -79,9 +80,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Khush-Rank (Oud and Riqq)</b>
-                                    <span>Tarek Abdallah, Adel Shams El-Din</span>
-                                    <span><img src="/img/cd.png"> Wasla (Suites musicales égyptiennes)</span>
+                                    <b>مقطوعة خوش رانك</b>
+                                    <span>طارق عبد الله على العود (مصر)</span>
+                                    <span>عادل شمس الدين على الرقّ (مصر)</span>
+                                    <span><img src="/img/cd.png"> أسطوانة وصلة (وصلات مصرية)</span>
                                 </div>
                             </label>
                         </div>

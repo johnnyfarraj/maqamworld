@@ -53,8 +53,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Ya ‘Ein Mulatyyitein</b>
-                                    <span>Samira Tawfiq</span>
+                                    <b>ياعين موليتين</b>
+                                    <span>غناء سميرة توفيق (لبنان)</span>
                                 </div>
                             </label>
                         </div>
@@ -65,8 +65,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dal‘ona (traditional)</b>
-                                    <span>(performer unknown)</span>
+                                    <b>دلعونا</b>
+                                    <span>(من التراث الشعبي)</span>
+                                    <span>(مجهولة المغنّي)</span>
                                 </div>
                             </label>
                         </div>
@@ -77,9 +78,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Initiation Of Ecstasy</b>
-                                    <span>El-Funoun Ensemble</span>
-                                    <span><img src="/img/cd.png"> Zaghareed: Music From The Palestinian Holy Land</span>
+                                    <b>مقطوعة موسيقية</b>
+                                    <span>فرقة الفنون للتراث الشعبي الفلسطيني</span>
+                                    <span><img src="/img/cd.png"> زغاريد</span>
                                 </div>
                             </label>
                         </div>

@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشّح حِبّي دعاني للوصال</b>
                                     <span>صباح فخري</span>
-                                    <span>الحان درويش الحريري</span>
+                                    <span>الحان سيّد درويش</span>
                                     <span><img src="/img/cd.png"> نغم الامس - الجزء الثاني (مقام بياتي شوري)</span>
                                 </div>
                             </label>
@@ -77,7 +77,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشّح حبّي دعاني للوصال</b>
                                     <span>اوريانتاليا</span>
-                                    <span>الحان درويش الحريري</span>
+                                    <span>الحان سيّد درويش</span>
                                 </div>
                             </label>
                         </div>

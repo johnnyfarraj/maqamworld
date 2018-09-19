@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>ليالي مقام راست</b>
+                                    <b>ليالي من مقام راست</b>
                                     <span>من اغنية عديني يا معدّاوي</span>
                                     <span>غناء عباس البليدي (مصر)</span>
                                 </div>
