@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Iqa‘ Sudasi";
 $page_description = "Iqa‘ Sudasi";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, sudasi, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "en"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "en";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -68,9 +68,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Mahla Layali el-Hawa</b>
+                                    <b>Ya Mahla Layali el-Hawa (1963)</b>
                                     <span>Fairouz</span>
-                                    <span>Music by Rahbani Brothers ?</span>
+                                    <span>Music and lyrics by the Rahbani Brothers</span>
                                 </div>
                             </label>
                         </div>

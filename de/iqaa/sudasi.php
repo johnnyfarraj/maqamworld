@@ -68,7 +68,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Mahla Layali el-Hawa</b>
+                                    <b>Ya Mahla Layali el-Hawa (1963)</b>
                                     <span>Fairouz</span>
                                     <span>Musik von den Rahbani-Brüdern</span>
                                 </div>

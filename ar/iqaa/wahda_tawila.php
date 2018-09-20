@@ -18,7 +18,7 @@ include($ROOT . 'inc/head.php');
       $page = "ar/iqaa/wahda_tawila.php";
       include($ROOT . 'inc/menu.php');
     ?>
-    
+
     <div class="page">
         <div class="container">
             <div class="row">
@@ -27,78 +27,79 @@ include($ROOT . 'inc/head.php');
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
-                    
+
                     <div class="heading jins text-center">
                         <h1>إيقاع واحْدة طويلة ٨/٤</h1>
                         <h1>يُسمّى ايضاً "واحْدة سنباطي"</h1>
                     </div>
-                    
+
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الايقاعات</a>
                     <div class="clearfix"></div>
-                    
+
                     <div class="notation">
                         <img src="../note/iqaa/wahda_tawila.png" class="img-fluid">
                     </div>
-                    
+
                     <p>Iqa‘ Wahda Tawila ("tawila" is Arabic for long), also known as <strong>Wahda Sunbati</strong>, is a stretched out version of <a href="wahda.php">Iqa‘ Wahda</a> over two measures. It is very popular in the vocal and instrumental music of the mid-twentieth century.</p>
-                    
+
                     <div class="player-area">
                         <audio id="player" controls>
                             <source src="/audio/iqaa/wahda_tawila/khatwit_habibi.mp3" type="audio/mp3">
                         </audio>
                     </div>
-                    
+
                     <div class="track " data-song="/audio/iqaa/wahda_tawila/khatwit_habibi.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Khatwit Habibi (1953)</b>
-                                    <span>Instrumental by Muhammad Abdel Wahab</span>
+                                    <b>مقطوعة خطوة حبيبي  (١٩٥٣)</b>
+                                    <span>الحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/wahda_tawila/habibi_yis3ed.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Habibi Yis‘id Awqatu (1943)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music by Zakariyya Ahmad</span>
+                                    <b>اغنية حبيبي يسعد اوقاته (١٩٤٣)</b>
+                                    <span>امّ كلثوم</span>
+                                    <span>كلمات بيرم التونسي</span>
+                                    <span>الحان الشيخ زكريا احمد (مصر)</span>
                                 </div>
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/wahda_tawila/il_albi_yi3shaq.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>il-Albi Yi‘shaq Kulli Gamil (1961)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music by Riyad al-Sunbati</span>
+                                    <b>اغنية القلب يعشق كلّ جميل (١٩٦١)</b>
+                                    <span>امّ كلثوم</span>
+                                    <span>كلمات بيرم التونسي</span>
+                                    <span>الحان رياض السنباطي (مصر)</span>
                                 </div>
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/wahda_tawila/tuta.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Tuta</b>
-                                    <span>Instrumental Composition</span>
-                                    <span>Music by Farid al-Atrash</span>
+                                    <b>مقطوعة توتة</b>
+                                    <span>الحان فريد الاطرش (سوريا-مصر)</span>
                                 </div>
                             </label>
                         </div>
                     </div>
-                    
+
                 </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
@@ -106,9 +107,9 @@ include($ROOT . 'inc/head.php');
             </div>
         </div>
     </div>
-    
+
     <?php include($ROOT . 'ar/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
-    
+
   </body>
 </html>

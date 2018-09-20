@@ -32,7 +32,7 @@ include($ROOT . 'inc/head.php');
                         <h1>إيقاع شَفتَتَلّي ٨/٤</h1>
                         <h3>يأتي ايضاً على وزن ٤/٤</h3>
                     </div>
-                    
+
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الايقاعات</a>
                     <div class="clearfix"></div>
 
@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>Iqa‘ Ciftetelli is a Turkish usul that became popular in Arabic music.
                     It is rarely used for composed melodies; instead, its primary use is to support <a href="../form/improv.php">improvisations</a> (both vocal and instrumental).</p>
-                    
+
                     <p>Ciftetelli is usually slow paced and stretched out over two 4/4 measures (see notation), and can share the same tempo and pace as <a href="masmudi_kabir.php">Masmudi Kabir</a>. Alternatively, it can be performed faster and lighter,
                     in which case it can be notated in 4/4 and becomes very similar to <a href="wahda_w_nuss.php">Wahda w-Nuss</a> (plus or minus some ornamentation).</p>
 
@@ -139,7 +139,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                                       
+
                     <!-- Need some kind of divider here -->
                     <br>
                     <div class="heading jins text-center">
@@ -180,6 +180,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية نورا نورا (١٩٥٣)</b>
                                     <span>غناء والحان فريد الأطرش</span>
+                                    <span>كلمات محمود فهمى ابراهيم</span>
                                 </div>
                             </label>
                         </div>
@@ -229,9 +230,9 @@ include($ROOT . 'inc/head.php');
             </div>
         </div>
     </div>
-    
+
     <?php include($ROOT . 'ar/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
-    
+
   </body>
 </html>

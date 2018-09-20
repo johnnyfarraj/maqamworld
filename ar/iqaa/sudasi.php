@@ -31,7 +31,7 @@ include($ROOT . 'inc/head.php');
                     <div class="heading jins text-center">
                         <h1>إيقاع سُداسي ٦/٤</h1>
                     </div>
-                    
+
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الايقاعات</a>
                     <div class="clearfix"></div>
 
@@ -65,9 +65,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Mahla Layali el-Hawa</b>
-                                    <span>Fairouz</span>
-                                    <span>Music by Rahbani Brothers ?</span>
+                                    <b>اغنية يا محلا ليالي الهوى (١٩٦٣)</b>
+                                    <span>غناء فيروز (لبنان)</span>
+                                    <span>كلمات  وألحان الأخوين رحباني</span>
                                 </div>
                             </label>
                         </div>
