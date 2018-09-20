@@ -31,7 +31,7 @@ include($ROOT . 'inc/head.php');
                     <div class="heading jins text-center">
                         <h1>إيقاع ستّة عَشَر مَصري ٣٢/٤</h1>
                     </div>
-                    
+
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الايقاعات</a>
                     <div class="clearfix"></div>
 
@@ -52,9 +52,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Badat Min al-Khidri (khana)</b>
-                                    <span>Ghada Shbeir</span>
-                                    <span><img src="/img/cd.png"> Muwashahat</span>
+                                    <b>موشّح بدت من الخدر (خانة)</b>
+                                    <span>غناء غادة شبير (لبنان)</span>
+                                    <span><img src="/img/cd.png"> اسطوانة "موشّحات"</span>
                                 </div>
                             </label>
                         </div>
@@ -65,8 +65,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Badat Min al-Khidri (khana)</b>
-                                    <span>Louis Hage and Aida Chalhoub</span>
+                                    <b>موشّح بدت من الخدر (خانة)</b>
+                                    <span>غناء عايدة شلهوب (لبنان)</span>
+                                    <span>اعداد وتوزيع الاب لويس الحاج</span>
                                 </div>
                             </label>
                         </div>

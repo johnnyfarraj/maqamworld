@@ -18,7 +18,7 @@ include($ROOT . 'inc/head.php');
       $page = "ar/iqaa/samai_thaqil.php";
       include($ROOT . 'inc/menu.php');
     ?>
-    
+
     <div class="page">
         <div class="container">
             <div class="row">
@@ -27,71 +27,73 @@ include($ROOT . 'inc/head.php');
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
-                    
+
                     <div class="heading jins text-center">
                         <h1>إيقاع سماعي ثَقيل ١٠/٨</h1>
                     </div>
-                    
+
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الايقاعات</a>
                     <div class="clearfix"></div>
-                    
+
                     <div class="notation">
                         <img src="../note/iqaa/samai_thaqil.png" class="img-fluid">
                     </div>
-                    
+
                     <p>Iqa‘ Sama‘i Thaqil (also called Sama‘i, for short) is a very popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre, as well as the principal iqa‘ used in the <a href="../form/ottoman.php#samai">Sama‘i</a> Turkish/Ottoman instrumental form. </p>
-                    
+
                     <div class="player-area">
                         <audio id="player" controls>
                             <source src="/audio/iqaa/samai_thaqil/samai_bayati_aryan.mp3" type="audio/mp3">
                         </audio>
                     </div>
-                    
+
                     <div class="track " data-song="/audio/iqaa/samai_thaqil/samai_bayati_aryan.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Sama‘i Bayati Ibrahim al-‘Aryan</b>
-                                    <span>The Takht Ensemble of Cairo</span>
-                                    <span><img src="/img/cd.png"> Music Of Islam Vol. 1: AL-Qahirah</span>
+                                    <b>سماعي بياتي ابراهيم العريان</b>
+                                    <span>فرقة تخت القاهرة</span>
+                                    <span><img src="/img/cd.png"> موسيقى الاسلام - الجزء الاول (القاهرة)</span>
                                 </div>
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/samai_thaqil/3atini_bikra_al_dinan.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah ‘Atini Bikra al-Dinan</b>
-                                    <span>Salim Sahhab Orchestra</span>
+                                    <b>موشّح عاطني بِكر الدنان</b>
+                                    <span>فرقة سليم سحّاب (مصر)</span>
                                 </div>
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/samai_thaqil/imlali_al_aqdah.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Imlali al-Aqdaha Sirfan</b>
-                                    <span>Sheikh Hamza Shakkur and Ensemble Al Kindi</span>
+                                    <b>موشّح املا لي الاقداح صرفاً</b>
+                                    <span>غناء الشيخ حمزة شكّور</span>
+                                    <span>فرقة الكندي</span>
                                 </div>
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/samai_thaqil/laha_badru_ttim.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Laha Badru al-Timm</b>
-                                    <span>Abdel Halim Noueirah Ensemble</span>
-                                    <span>Music by Sheikh Mahmud Subh</span>
+                                    <b>موشح لاح بدرُ التِمّ</b>
+                                    <span>فرقة الموسيقى العربية (مصر)</span>
+                                    <span>بقيادة عبد الحليم نويرة</span>
+                                    <span>الحان الشيخ محمود صُبح (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -102,53 +104,53 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Mala al-Kasat</b>
-                                    <span>Ensemble Al-Kindi</span>
-                                    <span>Music by Muhammad ‘Uthman</span>
+                                    <b>موشّح ملا الكاسات</b>
+                                    <span>فرقة الكندي</span>
+                                    <span>الحان محمد عثمان (مصر)</span>
                                 </div>
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/samai_thaqil/rashiq_al_qadd.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Rashiq al-Qadd</b>
-                                    <span>Ensemble Morkos</span>
+                                    <b>موشّح رشيق القدّ</b>
+                                    <span>فرقة مُرقس (لبنان)</span>
                                     <span><img src="/img/cd.png"> Cèdre</span>
                                 </div>
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/samai_thaqil/talaffata_al_dhabiyu.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Talaffata al-Dhabiyu</b>
-                                    <span>Ensemble Al-Kindi</span>
-                                    <span>Music by Sheikh Mahmud Subh</span>
+                                    <b>موشّح تلفّت الظبيُ</b>
+                                    <span>فرقة الكندي</span>
+                                    <span>الحان الشيخ محمود صُبح (مصر)</span>
                                 </div>
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/samai_thaqil/tarraza_al_rayhan.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Tarraza al-Rayhan</b>
-                                    <span>Ensemble Morkos</span>
+                                    <b>موشّح طرّز الريحان حلّة الورد</b>
+                                    <span>فرقة مُرقس (لبنان)</span>
                                     <span><img src="/img/cd.png"> Cèdre</span>
                                 </div>
                             </label>
                         </div>
                     </div>
-                    
+
                 </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
@@ -156,9 +158,9 @@ include($ROOT . 'inc/head.php');
             </div>
         </div>
     </div>
-    
+
     <?php include($ROOT . 'ar/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
-    
+
   </body>
 </html>

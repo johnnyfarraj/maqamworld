@@ -52,9 +52,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Dal‘ona</b>
-                                    <span>Fairouz</span>
-                                    <span>(traditional Lebanese folk song)</span>
+                                    <b>اغنية دلعونا</b>
+                                    <span>غناء فيروز (لبنان)</span>
+                                    <span>(من التراث الشعبي اللبناني)</span>
                                 </div>
                             </label>
                         </div>
