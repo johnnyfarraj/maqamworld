@@ -59,6 +59,20 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/iqaa/zaffa/alf_leila_w_leila.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>اغنية الف ليلة وليلة (١٩٦٩)</b>
+                                    <span>ام كلثوم (مصر)</span>
+                                    <span>كلمات مرسي جميل عزيز</span>
+                                    <span>الحان بليغ حمدي</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                     <div class="track" data-song="/audio/iqaa/zaffa/ah_ya_hilu.mp3">
                         <div class="radio">
                             <label>
