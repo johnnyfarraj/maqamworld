@@ -30,9 +30,9 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>إيقاع بَلدي ٤/٤</h1>
-                        <h3>يُسمّى ايضاً "مَصمودي صغير"</h3>
+                        <h3>يُسمّى ايضاً "<em>مَصمودي صغير</em>"</h3>
                     </div>
-                    
+
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الايقاعات</a>
                     <div class="clearfix"></div>
 
@@ -40,8 +40,13 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/iqaa/baladi.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Baladi is a very common <em>iqa‘</em> in the Near Eastern Arabic vocal repertoire. It is also called <strong>Masmudi Saghir</strong>, "saghir" meaning little in Arabic, to distinguish it from <a href="masmudi_kabir.php">Masmudi Kabir</a>, which spans two 4/4 measures instead of one. Baladi modulates frequently to <a href="maqsum.php">Maqsum</a> and back, as well as to <a href="malfuf.php">Malfuf</a> (using 2 measures of <a href="malfuf.php">Malfuf</a> to 1 measure of Baladi).
-                    </p>
+                    <h5>إيقاع بلدي هو إيقاع شائع جداَ في الموسيقى الغنائية في المشرق العربي.
+                    ويسمّى البلدي ايضاً <strong>مصمودي صغير</strong> نسبةً الى <a href="masmudi_kabir.php">إيقاع المصمودي الكبير</a> الذي تمتد كل دورة منه على مدى مازورتي ٤/٤ بدلاً من مازورة واحدة.
+                    </h5>
+                    <h5>
+					ينتقل إيقاع البلدي في كثير من الاحيان الى <a href="maqsum.php">إيقاع المقسوم</a>،
+					وايضاً الى <a href="malfuf.php">إيقاع الملفوف</a> بحيث تستبدل دورة من إيقاع البلدي بدورتين من إيقاع الملفوف.
+                    </h5>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -89,7 +94,7 @@ include($ROOT . 'inc/head.php');
                  </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
-                </div> 
+                </div>
             </div>
         </div>
     </div>
