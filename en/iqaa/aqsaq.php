@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Iqa‘ Aqsaq";
 $page_description = "Iqa‘ Aqsaq";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, aqsaq, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "en"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "en";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/aqsaq_f1.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Aqsaq is very popular in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre. It is 1 beat short of <a href="samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a> but sometimes it can be played immediately before or after a piece in that iqa‘ without interruption, during a Wasla. An alternate form of Aqsaq replaces the rest on the 6<sup>the</sup> beat with another <em>dum</em>, thereby creating a sequence of 2 consecutive <em>dum</em>-s that evokes <a href="samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a>.
+                    <p>Iqa‘ Aqsaq is very popular in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre. It is 1 beat short of <a href="samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a> but sometimes it can be played immediately before or after a piece in that iqa‘ without interruption, during a Wasla.
 					</p>
 
                     <div class="player-area">
@@ -76,7 +76,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/aqsaq_form1/jalla_man_bil_husni.mp3">
                         <div class="radio">
                             <label>
@@ -89,7 +89,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/aqsaq_form1/bashraf_bulbul_al_afrah.mp3">
                         <div class="radio">
                             <label>
@@ -101,15 +101,19 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
-                    <!-- Need some kind of divider here to start the Form 2  examples -->
-                    <div class="heading jins text-center">
-                        <h3>Examples of the second form of Iqa‘ Aqsaq</h3>
-                    </div>
 
+                    <!-- Need some kind of divider here to start the Form 2  examples -->
+                    <br>
+                    <div class="heading jins text-center">
+                        <h3>The second form of Iqa‘ Aqsaq</h3>
+                    </div>
                     <div class="notation">
                         <img src="/note/iqaa/aqsaq_f2.png" class="img-fluid">
                     </div>
+					<br>
+                    <p>An alternate form of Aqsaq replaces the rest on the 6<sup>the</sup> beat with another <em>dum</em>, thereby creating a sequence of 2 consecutive <em>dum</em>-s that evokes <a href="samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a>.
+					</p>
+					<br>
 
                     <div class="track" data-song="/audio/iqaa/aqsaq_form2/ma_htiyali.mp3">
                         <div class="radio">
@@ -123,7 +127,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/aqsaq_form2/ayyuha_al_saqi.mp3">
                         <div class="radio">
                             <label>
@@ -137,7 +141,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/aqsaq_form2/azzibuni.mp3">
                         <div class="radio">
                             <label>
@@ -151,7 +155,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                 </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
@@ -159,9 +163,9 @@ include($ROOT . 'inc/head.php');
             </div>
         </div>
     </div>
-    
+
     <?php include($ROOT . 'inc/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
-    
+
   </body>
 </html>

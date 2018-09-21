@@ -30,9 +30,9 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>إيقاع ايّوب ٢/٤</h1>
-                        <h3>(يُسمّى ايضاً "الزار")</h3>
+                        <h3>يُسمّى ايضاً "<em>الزار</em>"</h3>
                     </div>
-                    
+
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الايقاعات</a>
                     <div class="clearfix"></div>
 
@@ -40,7 +40,11 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/iqaa/ayyub.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Ayyub (also spelled Ayoub) is primarily used in Sufi music as well as in some folk music and <em>Raqs Sharqi</em> (Belly Dance). Ayyub is sometimes called Zar in Egypt, after a folk healing ceremony led by women who play hand-held percussion instruments. Ayyub’s feel is rapid, short and cyclical.</p>
+                    <h5>غالباً ما يستعمل إيقاع ايّوب في الموسيقى الصوفية، ويستعمل ايضاً في بعض الموسيقى الشعبية وفي موسيقى الرقص الشرقي. احساس هذا الإيقاع سريع وقصير ودائري.
+                    </h5>
+                    <h5>
+                    ويسمّى إيقاع أيّوب ايضاً بالزار، نسبةً الى الطقوس الشعبية في مصر التي تصاحبها ايقاعات صاخبة على الدفوف.
+                    </h5>
 
                     <div class="player-area">
                         <audio id="player" controls>
