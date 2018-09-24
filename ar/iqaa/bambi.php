@@ -39,8 +39,12 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/iqaa/bambi_f1.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Bambi is a stretched-out Egyptian 8/4 <em>iqa‘</em> that beautifully accompanies improvisations and sparse vocal sections. It is customary to start playing Bambi from the 7<sup>th</sup> beat (the <em>dum</em> before last), thereby emphacizing the 3 consecutive <em>dum</em>-s that start each cycle. An alternate form of Bambi actually starts the measure with the 3 consecutive <em>dum</em>-s. 
-					</p>
+                    <h5>
+                    إيقاع بمبي هو إيقاع مصري على وزن ٨/٤ الطويل، يستعمل كثيراً لمرافقة مقاطع الارتجالات الآلية والغنائية. (وكلمة "بمبي" تعني زهري اللون بالعامية المصرية).
+                    </h5>
+                    <h5>
+					عادةَ ما يبدأ عزف هذا الإيقاع من الضربة السابعة (اي الدمّ ما قبل الاخيرة) بحيث تبدأ كل دورة بالتركيز على ثلاث دمّات متتالية. ويأتي إيقاع بمبي ايضاَ على شكل ثان يبدأ تدوين دورته بالدمات الثلاث.
+                    </h5>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -72,7 +76,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/bambi_form1/gafnuhu.mp3">
                         <div class="radio">
                             <label>
@@ -90,7 +94,7 @@ include($ROOT . 'inc/head.php');
                     <!-- Need some kind of divider here to start the Form 2  examples -->
                     <br>
                     <div class="heading jins text-center">
-                        <h3>امثلة من الشكل الثاني لإيقاع بمبي</h3>
+                        <h3>الشكل الثاني لإيقاع بمبي</h3>
                     </div>
                     <div class="clearfix"></div>
                     <br>
@@ -112,7 +116,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/bambi_form2/alf_leila.mp3">
                         <div class="radio">
                             <label>
@@ -126,7 +130,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/bambi_form2/asamina.mp3">
                         <div class="radio">
                             <label>
@@ -139,7 +143,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/bambi_form2/layali_lubnan.mp3">
                         <div class="radio">
                             <label>
@@ -151,7 +155,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                 </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
@@ -159,9 +163,9 @@ include($ROOT . 'inc/head.php');
             </div>
         </div>
     </div>
-    
+
     <?php include($ROOT . 'ar/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
-    
+
   </body>
 </html>
