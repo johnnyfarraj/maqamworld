@@ -85,8 +85,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Tislam Idein Elli-shtara</b>
+                                    <b>Tislam Idein Elli-shtara (c. 1960)</b>
                                     <span>Vocals by Muhammad Abdel Muttalib</span>
+                                    <span>Music by Mahmud Kamel (Egypt)</span>
                                 </div>
                             </label>
                         </div>
