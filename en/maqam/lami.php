@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Maqam Lami";
 $page_description = "Maqam Lami";
 $page_keywords = "arabic, music, arab, world, maqam, jins, ajam, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
-$page_language = "en"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "en";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -39,8 +39,6 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/lami.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Lami</a>
                     </div>
 
-                   
-                    
                     <div class="notation" id="notation1">
                         <img src="/note/maqam/lami.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
@@ -59,9 +57,9 @@ include($ROOT . 'inc/head.php');
                       <!-- Links -->
                       <area shape="rect" coords="100,9,220,37" href="../jins/lami.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="340,140,460,167" href="../jins/kurd.php" class="mapLink" data-parent="#notation1">
-				     
+
 				     </map>
-                    
+
                     <p>Maqam Lami is a rare maqam in the Middle East and was borrowed from the Iraqi repertoire. Its scaled starts with <a href="../jins/lami.php">Jins Lami</a> on the <em>tonic</em>, followed by <a href="../jins/kurd.php">Jins Kurd</a> on the 4<sup>th</sup> degree.</p>
 
                     <div class="player-area">
@@ -82,14 +80,13 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/maqam/lami/gulli_ya_hilu.mp3">
+                    <div class="track" data-song="/audio/maqam/lami/tislam_idein.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Gulli Ya Hilu</b>
-                                    <span>Nazem al-Ghazali</span>
-                                    <span>(Iraqi Traditional)</span>
+                                    <b>Tislam Idein Elli-shtara</b>
+                                    <span>Vocals by Muhammad Abdel Muttalib</span>
                                 </div>
                             </label>
                         </div>
@@ -133,6 +130,19 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/maqam/lami/gulli_ya_hilu.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Gulli Ya Hilu</b>
+                                    <span>Nazem al-Ghazali</span>
+                                    <span>(Iraqi Traditional)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                 </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
@@ -140,10 +150,10 @@ include($ROOT . 'inc/head.php');
             </div>
         </div>
     </div>
-    
+
     <?php include($ROOT . 'inc/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
-    
+
 </body>
 
 </html>

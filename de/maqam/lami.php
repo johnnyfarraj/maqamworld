@@ -58,7 +58,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="100,9,220,37" href="../jins/lami.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="340,140,460,167" href="../jins/kurd.php" class="mapLink" data-parent="#notation1">
 	     </map>
-                    
+
                     <p>Maqam Lami ist ein seltener Maqam im Mittleren Osten und wurde dem irakischen Repertoire entlehnt. Maqam Lami beginnt mit <a href="../jins/lami.php">Jins Lami</a> auf der Tonika, gefolgt von <a href="../jins/kurd.php">Jins Kurd</a> auf der vierten Stufe.
                     </p>
 
@@ -80,14 +80,13 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/maqam/lami/gulli_ya_hilu.mp3">
+                    <div class="track" data-song="/audio/maqam/lami/tislam_idein.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Gulli Ya Hilu</b>
-                                    <span>Nazem al-Ghazali</span>
-                                    <span>(irakisches Volkslied)</span>
+                                    <b>Tislam Idein Elli-shtara</b>
+                                    <span>Gesang von Muhammad Abdel Muttalib</span>
                                 </div>
                             </label>
                         </div>
@@ -131,6 +130,19 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/maqam/lami/gulli_ya_hilu.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Gulli Ya Hilu</b>
+                                    <span>Nazem al-Ghazali</span>
+                                    <span>(irakisches Volkslied)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                 </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
@@ -138,10 +150,10 @@ include($ROOT . 'inc/head.php');
             </div>
         </div>
     </div>
-    
+
     <?php include($ROOT . 'de/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
-    
+
 </body>
 
 </html>
