@@ -33,7 +33,7 @@ include($ROOT . 'inc/head.php');
                         <h3>(يُلفظ هَشَع او هَجَع)</h3>
                         <h3>يأتي ايضاً على وزن ٤/٤ و٦/٤</h3>
                     </div>
-                    
+
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الايقاعات</a>
                     <div class="clearfix"></div>
 
@@ -41,8 +41,15 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/iqaa/hachaa_4_4.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Hacha‘ in 4/4 is very popular in Sufi music, especially in pieces that only use percussion instruments. Although the 4/4 version is by far the most prevalent, it is an adaptation of a more folkloric <em>iqa‘</em> by the same name in 2/4. A rare adaptation is the 6/4 version used by composer Baligh Hamdi in Umm Kulthum's "Alf Leila w Leila".
-					</p>
+                    <h5>
+
+                    Iqa‘ Hacha‘ in 4/4 is very popular in Sufi music, especially in pieces that only use percussion instruments.
+
+                    Although the 4/4 version is by far the most prevalent, it is an adaptation of a more folkloric <em>iqa‘</em> by the same name in 2/4.
+
+                    A rare adaptation is the 6/4 version used by composer Baligh Hamdi in Umm Kulthum's "Alf Leila w Leila".
+
+					</h5>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -75,7 +82,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/hachaa_4_4/il_alb_yi3shaq.mp3">
                         <div class="radio">
                             <label>
@@ -89,7 +96,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/hachaa_4_4/qariat_al_fingan.mp3">
                         <div class="radio">
                             <label>
@@ -103,7 +110,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/hachaa_4_4/qul_lil_maliha_fakhri.mp3">
                         <div class="radio">
                             <label>
@@ -139,6 +146,7 @@ include($ROOT . 'inc/head.php');
                     <div class="notation">
                         <img src="../note/iqaa/hachaa_2_4.png" class="img-fluid">
                     </div>
+                    <br>
 
                     <div class="track" data-song="/audio/iqaa/hachaa_2_4/3al_maya.mp3">
                         <div class="radio">
@@ -152,7 +160,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <!-- Need some kind of divider here -->
                     <br>
                     <div class="heading jins text-center">
@@ -164,6 +172,7 @@ include($ROOT . 'inc/head.php');
                     <div class="notation">
                         <img src="../note/iqaa/hachaa_6_4.png" class="img-fluid">
                     </div>
+                    <br>
 
                     <div class="track" data-song="/audio/iqaa/hachaa_6_4/alf_leila.mp3">
                         <div class="radio">
@@ -178,7 +187,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                 </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
@@ -186,9 +195,9 @@ include($ROOT . 'inc/head.php');
             </div>
         </div>
     </div>
-    
+
     <?php include($ROOT . 'ar/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
-    
+
   </body>
 </html>

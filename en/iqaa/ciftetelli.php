@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Iqa‘ Ciftetelli";
 $page_description = "Iqa‘ Ciftetelli";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, ciftetelli, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "en"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "en";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -45,7 +45,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>Iqa‘ Ciftetelli (pronounced "shaftatalli" in Arabic) is a Turkish usul that became popular in Arabic music.
                     It is rarely used for composed melodies; instead, its primary use is to support <a href="../form/improv.php">improvisations</a> (both vocal and instrumental).</p>
-                    
+
                     <p>Ciftetelli is usually slow paced and stretched out over two 4/4 measures (see notation), and can share the same tempo and pace as <a href="masmudi_kabir.php">Masmudi Kabir</a>. Alternatively, it can be performed faster and lighter,
                     in which case it can be notated in 4/4 and becomes very similar to <a href="wahda_w_nuss.php">Wahda w-Nuss</a> (plus or minus some ornamentation).</p>
 
@@ -141,11 +141,11 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                                       
+
                     <!-- Need some kind of divider here -->
                     <br>
                     <div class="heading jins text-center">
-                        <h3>Fast Ciftetelli examples in 4/4</h3>
+						<h3>Examples of the faster form of Iqa‘ Ciftetelli that can be notated in 4/4</h3>
                     </div>
                     <div class="clearfix"></div>
 
@@ -231,9 +231,9 @@ include($ROOT . 'inc/head.php');
             </div>
         </div>
     </div>
-    
+
     <?php include($ROOT . 'inc/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
-    
+
   </body>
 </html>

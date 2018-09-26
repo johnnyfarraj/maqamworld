@@ -18,7 +18,7 @@ include($ROOT . 'inc/head.php');
       $page = "ar/iqaa/fallahi.php";
       include($ROOT . 'inc/menu.php');
     ?>
-    
+
     <div class="page">
         <div class="container">
             <div class="row">
@@ -27,26 +27,29 @@ include($ROOT . 'inc/head.php');
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
-                    
+
                     <div class="heading jins text-center">
                         <h1>إيقاع فَلّاحي ٢/٤</h1>
                     </div>
-                    
+
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الايقاعات</a>
                     <div class="clearfix"></div>
-                    
+
                     <div class="notation">
                         <img src="../note/iqaa/fallahi.png" class="img-fluid">
                     </div>
-                    
-                    <p>Iqa‘ Fallahi is a fast-paced Egyptian iqa‘ suitable for folk music. Although it might resemble <a href="maqsum.php">Maqsum</a> played at double speed, it has a very different feel as Fallahi flows very smoothly without a big contrast (in accents) between <em>dum</em> and <em>tak</em> beats.</p>
-                    
+
+                    <h5>أيقاع فلّاحي هو إيقاع مصري يستعمل غالباَ في الموسيقى الشعبية.
+                    ورغم ان هذا الإيقاع يشبه <a href="maqsum.php">إيقاع المقسوم</a> ان عُزف بسرعة مضاعفة، فهو يختلف كثيراَ بالاحساس، فالفلّاحي يجري بسلاسة دون تباين ملحوظ بالنبرة بين الدمّات والتكّات.
+                    </h5>
+                    <br>
+
                     <div class="player-area">
                         <audio id="player" controls>
                             <source src="/audio/iqaa/fallahi/el_binti_beida.mp3" type="audio/mp3">
                         </audio>
                     </div>
-                    
+
                     <div class="track " data-song="/audio/iqaa/fallahi/el_binti_beida.mp3">
                         <div class="radio">
                             <label>
@@ -58,7 +61,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/fallahi/ahom_ahom.mp3">
                         <div class="radio">
                             <label>
@@ -70,7 +73,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/fallahi/salametha.mp3">
                         <div class="radio">
                             <label>
@@ -82,7 +85,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                
+
                  </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
@@ -90,9 +93,9 @@ include($ROOT . 'inc/head.php');
             </div>
         </div>
     </div>
-    
+
     <?php include($ROOT . 'ar/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
-    
+
   </body>
 </html>

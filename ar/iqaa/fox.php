@@ -31,7 +31,7 @@ include($ROOT . 'inc/head.php');
                     <div class="heading jins text-center">
                         <h1>إيقاع فُوكْس ٢/٤</h1>
                     </div>
-                    
+
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الايقاعات</a>
                     <div class="clearfix"></div>
 
@@ -39,7 +39,16 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/iqaa/fox.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Fox (probably derived from "Foxtrot") is a simple 2/4 <em>iqa‘</em> that is usually played without too much ornamentation over instrumental sections. This, and the fact it is often played at very fast tempos, gives it a swift and urgent feel. It is the main <em>iqa‘</em> used in the Turkish/Eastern European <a href="../form/ottoman.php#longa">Longa</a> Ottoman instrumental form. Fox can readily modulate to <a href="malfuf.php">Malfuf</a> and back. A very slow version of Fox (see the last 2 examples) could be notated as 4/4.</p>
+                    <h5>
+                    إيقاع فوكس هو إيقاع بسيط جداَ على وزن ٢/٤ يستعمل غالباَ في المقاطع الآلية. ويعزف عادةً بسرعة وخفّة دون كثرة الزخارف، مما يعطيه طابعاَ مستعجلاَ.
+                    </h5>
+                    <h5>
+                    إيقاع فوكس هو الإيقاع الاساسي في <a href="../form/ottoman.php#longa">قالب اللونجا</a> (الآلي العثماني). وينتقل هذا الإيقاع كيثراَ من والى <a href="malfuf.php">إيقاع ملفوف</a>.
+                    </h5>
+                    <h5>
+                    ويمكن ايضا ان يعزف إيقاع فوكس بشكل بطيء جداَ بحيث يدوّن على وزن ٤/٤ (كما في المثلين الاخيرين).
+                    </h5>
+                    <br>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -99,6 +108,14 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <!-- divider -->
+                    <br>
+                    <div class="heading jins text-center">
+                        <h3>الشكل البطيء لإيقاع فوكس المدوّن على وزن ٤/٤</h3>
+                    </div>
+                    <div class="clearfix"></div>
+                    <br>
+
                     <div class="track" data-song="/audio/iqaa/fox/ya_duniya.mp3">
                         <div class="radio">
                             <label>
@@ -107,7 +124,6 @@ include($ROOT . 'inc/head.php');
                                     <b>اغنية يا دنيا يا غرامي (١٩٣٨)</b>
                                     <span>كلمات احمد رامى</span>
                                     <span>غناء والحان محمد عبد الوهاب (مصر)</span>
-                                    <span><em>(يمكن ان تدوّن على وزن ٤/٤)</em></span>
                                 </div>
                             </label>
                         </div>
@@ -121,7 +137,6 @@ include($ROOT . 'inc/head.php');
                                     <b>اغنية كلّ ده كان ليه (١٩٥٤)</b>
                                     <span>كلمات مأمون الشناوي</span>
                                     <span>غناء والحان محمد عبد الوهاب (مصر)</span>
-                                    <span><em>(يمكن ان تدوّن على وزن ٤/٤)</em></span>
                                 </div>
                             </label>
                         </div>
@@ -134,9 +149,9 @@ include($ROOT . 'inc/head.php');
             </div>
         </div>
     </div>
-    
+
     <?php include($ROOT . 'ar/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
-    
+
   </body>
 </html>

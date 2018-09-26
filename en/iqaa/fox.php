@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Iqa‘ Fox";
 $page_description = "Iqa‘ Fox";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, fox, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "en"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "en";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -101,6 +101,14 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+					<!-- divider -->
+					<br>
+					<div class="heading jins text-center">
+						<h3>Examples of the slower form of Iqa‘ Fox that can be notated in 4/4</h3>
+					</div>
+					<div class="clearfix"></div>
+					<br>
+
                     <div class="track" data-song="/audio/iqaa/fox/ya_duniya.mp3">
                         <div class="radio">
                             <label>
@@ -108,7 +116,6 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Dunya Ya Gharami (1938)</b>
                                     <span>Vocals and Music by Muhammad Abdel Wahab</span>
-                                    <span><em>(could be notated as 4/4)</em></span>
                                 </div>
                             </label>
                         </div>
@@ -121,7 +128,6 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Kulli Da Kan Leh (1954)</b>
                                     <span>Vocals and Music by Muhammad Abdel Wahab</span>
-                                    <span><em>(could be notated as 4/4)</em></span>
                                 </div>
                             </label>
                         </div>
@@ -134,9 +140,9 @@ include($ROOT . 'inc/head.php');
             </div>
         </div>
     </div>
-    
+
     <?php include($ROOT . 'inc/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
-    
+
   </body>
 </html>
