@@ -40,11 +40,12 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/iqaa/ciftetelli.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Ciftetelli is a Turkish usul that became popular in Arabic music.
-                    It is rarely used for composed melodies; instead, its primary use is to support <a href="../form/improv.php">improvisations</a> (both vocal and instrumental).</p>
-
-                    <p>Ciftetelli is usually slow paced and stretched out over two 4/4 measures (see notation), and can share the same tempo and pace as <a href="masmudi_kabir.php">Masmudi Kabir</a>. Alternatively, it can be performed faster and lighter,
-                    in which case it can be notated in 4/4 and becomes very similar to <a href="wahda_w_nuss.php">Wahda w-Nuss</a> (plus or minus some ornamentation).</p>
+                    <h5>إيقاع شَفتَتلّي هو إيقاع (اصول) تركي شائع كثيراً في الموسيقى العربية. نادراً ما يستعمل هذا الإيقاع في الموسيقى الغنائية، بل يستعمل في أغلب الاحيان لمرافقة مقاطع <a href="../form/improv.php">الارتجال الغنائي او اللآلي</a>.
+                    </h5>
+                    <h5>
+                    يعزف إيقاع شَفتَتلّي عادةَ بتمهّل وتمتد كل دورة منه على مدى مازورتي ٤/٤ كما هو مدوّن اعلاه بحيث يشبه <a href="masmudi_kabir.php">إيقاع مصمودي كبير</a> من حيث الميزان (٨/٤) والسرعة.
+                    ويمكن ايضا ان يعزف إيقاع شفتتلّي بأسلوب اسرع واخفّ بحيث يدوّن على وزن ٤/٤، ممّا يجعله شديد الشبه <a href="wahda_w_nuss.php">بإيقاع الواحدة ونصّ</a> (مع فرق بسيط في التشكيل والإحساس).
+					</h5>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -140,10 +141,10 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <!-- Need some kind of divider here -->
+                    <!-- Need some kind of divider here to start the Form 2  examples -->
                     <br>
                     <div class="heading jins text-center">
-                        <h3>امثلة من إيقاع شفتتلّي السريع على وزن ٤/٤</h3>
+                        <h3>إيقاع شفتتلّي السريع المدوّن على وزن ٤/٤</h3>
                     </div>
                     <div class="clearfix"></div>
                     <br>
