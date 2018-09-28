@@ -60,7 +60,7 @@ include($ROOT . 'inc/head.php');
 
 				     </map>
 
-                    <p>Maqam Lami is a rare maqam in the Middle East and was borrowed from the Iraqi repertoire. Its scaled starts with <a href="../jins/lami.php">Jins Lami</a> on the <em>tonic</em>, followed by <a href="../jins/kurd.php">Jins Kurd</a> on the 4<sup>th</sup> degree.</p>
+                    <p>Maqam Lami is a rare maqam in the Middle East and was borrowed from the Iraqi repertoire. Its scale starts with <a href="../jins/lami.php">Jins Lami</a> on the <em>tonic</em>, followed by <a href="../jins/kurd.php">Jins Kurd</a> on the 4<sup>th</sup> degree.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -74,7 +74,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>el-Bortoqal (1938)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab</span>
+                                    <span>Vocals by Ra'isa ‘Afifi and Muhammad Abdel Wahab</span>
+                                    <span>Music by Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>

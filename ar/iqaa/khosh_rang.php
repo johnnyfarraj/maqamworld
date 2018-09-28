@@ -18,7 +18,7 @@ include($ROOT . 'inc/head.php');
       $page = "ar/iqaa/khosh_rang.php";
       include($ROOT . 'inc/menu.php');
     ?>
-    
+
     <div class="page">
         <div class="container">
             <div class="row">
@@ -27,27 +27,29 @@ include($ROOT . 'inc/head.php');
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
-                    
+
                     <div class="heading jins text-center">
                         <h1>إيقاع خُوش رانْك ١٧/٨</h1>
                         <h3>(من عبارة فارسية تعني "لون جميل")</h3>
                     </div>
-                    
+
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الايقاعات</a>
                     <div class="clearfix"></div>
-                    
+
                     <div class="notation">
                         <img src="../note/iqaa/khosh_rang.png" class="img-fluid">
                     </div>
-                    
-                    <p>Iqa‘ Khosh Rang (also spelled Khush Rank) is a very rare <em>iqa‘</em> that is only used in one known <a href="../form/vocal_comp.php#muwashah">Muwashah</a> and a few rare modern compositions.</p>
-                    
+
+                    <h5>
+                    إيقاع خُوش رانْك هو إيقاع نادر وقد استُعمل في  <a href="../form/vocal_comp.php#muwashah">موشّح</a> واحد فقط (سلّ فينا اللحظ هنديا) وبضعة مقطوعات حديثة.
+                    </h5>
+
                     <div class="player-area">
                         <audio id="player" controls>
                             <source src="/audio/iqaa/khosh_rang/salla_fina_kindi.mp3" type="audio/mp3">
                         </audio>
                     </div>
-                    
+
                     <div class="track " data-song="/audio/iqaa/khosh_rang/salla_fina_kindi.mp3">
                         <div class="radio">
                             <label>
@@ -61,7 +63,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/khosh_rang/salla_fina_fakhri.mp3">
                         <div class="radio">
                             <label>
@@ -74,7 +76,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/khosh_rang/tareq_abdallah.mp3">
                         <div class="radio">
                             <label>
@@ -88,7 +90,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                 </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
@@ -96,9 +98,9 @@ include($ROOT . 'inc/head.php');
             </div>
         </div>
     </div>
-    
+
     <?php include($ROOT . 'ar/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
-    
+
   </body>
 </html>

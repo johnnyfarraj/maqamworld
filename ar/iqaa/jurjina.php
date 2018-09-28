@@ -18,7 +18,7 @@ include($ROOT . 'inc/head.php');
       $page = "ar/iqaa/jurjina.php";
       include($ROOT . 'inc/menu.php');
     ?>
-    
+
     <div class="page">
         <div class="container">
             <div class="row">
@@ -27,27 +27,27 @@ include($ROOT . 'inc/head.php');
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
-                    
+
                     <div class="heading jins text-center">
                         <h1>إيقاع جُرجِينا ١٠/٨</h1>
                     </div>
-                    
+
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الايقاعات</a>
                     <div class="clearfix"></div>
-                    
+
                     <div class="notation">
                         <img src="../note/iqaa/jurjina.png" class="img-fluid">
                     </div>
-                    
-                    <p>Iqa‘ Jurjina is a widely used <em>iqa‘</em> in Iraq and Iran, as well as in the Turkish and the Kurdish repertoires, both in the folk and classical genres. It is infrequently used in the Near Eastern repertoire.               
-                    </p>
-                    
+
+                    <h5>إيقاع جُرجِينا هو إيقاه شائع جداً في العراق وايران وفي الموسيقى التركية والكردية، سواءً في الالوان الكلاسيكية او الشعبية. اما في الشرق الاوسط فهو نادر الاستعمال.
+                    </h5>
+
                     <div class="player-area">
                         <audio id="player" controls>
                             <source src="/audio/iqaa/jurjina/yammul_3uyun.mp3" type="audio/mp3">
                         </audio>
                     </div>
-                    
+
                     <div class="track " data-song="/audio/iqaa/jurjina/yammul_3uyun.mp3">
                         <div class="radio">
                             <label>
@@ -59,7 +59,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/jurjina/ya_hulu_al_lama.mp3">
                         <div class="radio">
                             <label>
@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/jurjina/tal_intizari.mp3">
                         <div class="radio">
                             <label>
@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                 </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
@@ -92,9 +92,9 @@ include($ROOT . 'inc/head.php');
             </div>
         </div>
     </div>
-    
+
     <?php include($ROOT . 'ar/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
-    
+
   </body>
 </html>
