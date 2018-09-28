@@ -18,7 +18,7 @@ include($ROOT . 'inc/head.php');
       $page = "ar/iqaa/masmudi_kabir.php";
       include($ROOT . 'inc/menu.php');
     ?>
-    
+
     <div class="page">
         <div class="container">
             <div class="row">
@@ -27,26 +27,31 @@ include($ROOT . 'inc/head.php');
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
-                    
+
                     <div class="heading jins text-center">
                         <h1>إيقاع مَصمودي كبير ٨/٤</h1>
                     </div>
-                    
+
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الايقاعات</a>
                     <div class="clearfix"></div>
-                    
+
                     <div class="notation">
                         <img src="../note/iqaa/masmudi_kabir.png" class="img-fluid">
                     </div>
-                    
-                    <p>Iqa‘ Masmudi Kabir (or Masmudi, for short) is one of the most popular rhythms in the Tarab repertoire of the twentieth century. The word "kabir" means great/large in Arabic, to distinguish it from <a href="baladi.php">Masmudi Saghir</a> (small Masmudi, more commonly called Baladi.) </p>
-                    
+
+                    <h5>
+                    إيقاع مَصمودي كبير (او "مصمودي" بإختصار) هو من اهمّ الايقاعات في موسيقى الطرب في القرن العشرين.
+                    </h5>
+                    <h5>
+                    ويتشارك هذا الإيقاع بالاسم مع <a href="baladi.php">إيقاع مصمودي صغير</a> (المسمى ايضاً <strong>بلدي</strong>)، وهو عبارة عن إيقاع مَصمودي كبير بالسرعة المضاعفة (على ميزان ٤/٤).
+                    </h5>
+
                     <div class="player-area">
                         <audio id="player" controls>
                             <source src="/audio/iqaa/masmudi_kabir/bint_il_balad.mp3" type="audio/mp3">
                         </audio>
                     </div>
-                    
+
                     <div class="track " data-song="/audio/iqaa/masmudi_kabir/bint_il_balad.mp3">
                         <div class="radio">
                             <label>
@@ -58,7 +63,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/masmudi_kabir/khayyi.mp3">
                         <div class="radio">
                             <label>
@@ -71,7 +76,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/masmudi_kabir/ruba3iyyat.mp3">
                         <div class="radio">
                             <label>
@@ -85,7 +90,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/masmudi_kabir/ya_fatin_al_ghuzlan.mp3">
                         <div class="radio">
                             <label>
@@ -99,7 +104,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/masmudi_kabir/ya_shadil_alhan.mp3">
                         <div class="radio">
                             <label>
@@ -112,7 +117,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/masmudi_kabir/zarani_al_mahbub.mp3">
                         <div class="radio">
                             <label>
@@ -124,7 +129,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                 </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
@@ -132,9 +137,9 @@ include($ROOT . 'inc/head.php');
             </div>
         </div>
     </div>
-    
+
     <?php include($ROOT . 'ar/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
-    
+
   </body>
 </html>

@@ -18,7 +18,7 @@ include($ROOT . 'inc/head.php');
       $page = "ar/iqaa/maqsum.php";
       include($ROOT . 'inc/menu.php');
     ?>
-    
+
     <div class="page">
         <div class="container">
             <div class="row">
@@ -27,26 +27,31 @@ include($ROOT . 'inc/head.php');
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
-                    
+
                     <div class="heading jins text-center">
                         <h1>إيقاع مَقسوم ٤/٤</h1>
                     </div>
-                    
+
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الايقاعات</a>
                     <div class="clearfix"></div>
-                    
+
                     <div class="notation">
                         <img src="../note/iqaa/maqsum.png" class="img-fluid">
                     </div>
-                    
-                    <p>Iqa‘ Maqsum is by far the most widely used <em>iqa‘</em> in Arabic music. It modulates to other 4/4 <em>iqa‘at</em> like <a href="baladi.php">Baladi</a> and <a href="wahda.php">Wahda</a>.</p>
-                    
+
+                    <h5>
+                    إيقاع مَقسوم هو الإيقاع الاكثر شيوعاً على الاطلاق في موسيقى الشرق الاوسط.
+                    </h5>
+                    <h5>
+                    ينتقل هذا الإيقاع كثيراً الى إيقاعات اخرى على ميزان ٤/٤ مثل <a href="baladi.php">بلدي</a> و <a href="wahda.php">واحدة</a>.
+                    </h5>
+
                     <div class="player-area">
                         <audio id="player" controls>
                             <source src="/audio/iqaa/maqsum/il_albi_yi3shaq.mp3" type="audio/mp3">
                         </audio>
                     </div>
-                    
+
                     <div class="track " data-song="/audio/iqaa/maqsum/il_albi_yi3shaq.mp3">
                         <div class="radio">
                             <label>
@@ -60,7 +65,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/maqsum/darit_il_ayyam.mp3">
                         <div class="radio">
                             <label>
@@ -74,7 +79,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/maqsum/qariat_al_fingan.mp3">
                         <div class="radio">
                             <label>
@@ -88,7 +93,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/maqsum/waraqu_al_asfar.mp3">
                         <div class="radio">
                             <label>
@@ -101,7 +106,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/maqsum/ya_libnan.mp3">
                         <div class="radio">
                             <label>
@@ -113,7 +118,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/maqsum/bahibb_el_gedid.mp3">
                         <div class="radio">
                             <label>
@@ -125,7 +130,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                 </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
@@ -133,9 +138,9 @@ include($ROOT . 'inc/head.php');
             </div>
         </div>
     </div>
-    
+
     <?php include($ROOT . 'ar/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
-    
+
   </body>
 </html>
