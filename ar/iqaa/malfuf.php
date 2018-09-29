@@ -107,10 +107,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Tulbah (Proposition)</b>
                                     <b>مقطوعة الطلبة</b>
                                     <span>فرقة الفنون للتراث الشعبي الفلسطيني</span>
-                                    <span><img src="/img/cd.png"> زغاريد</span>
+                                    <span><img src="/img/cd.png"> اسطوانة زغاريد</span>
                                 </div>
                             </label>
                         </div>

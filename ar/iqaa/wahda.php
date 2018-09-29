@@ -39,7 +39,10 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/iqaa/wahda.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Wahda is the principal <em>iqa‘</em> used in vocal phrases in the Tarab genre of the twentieth century. "Wahda" is Arabic for one, referring to the single <em>dum</em> per measure, which leaves a lot of room for the singer to ornament and gives them some control over speed.</p>
+                    <h5>إيقاع الواحدة هو الايقاع الاساسي لدعم الجمل الغنائية في موسيقى الطرب في القرن العشرين.
+                    </h5>
+                    <h5>وسمّي هذا الايقاع بالواحدة لانه يتضمّن دمّاً واحدة في دورته (مازورته)، مما يترك مجالاً للمطرب لكي يزخرف ويتحكّم بسرعة الايقاع على راحته.                    
+                    </h5>
 
                     <div class="player-area">
                         <audio id="player" controls>
