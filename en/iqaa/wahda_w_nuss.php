@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/wahda_w_nuss.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Wahda w-Nuss (meaning "one and a half" in Arabic) is a syncopated and version of <a href="maqsum.php">Iqa‘ Maqsum</a> with a first <em>tak</em> delayed by an eighth note. It is very popular in the Tarab genre of the mid-twentieth century.</p>
+                    <p>Iqa‘ Wahda w-Nuss (meaning "one and a half" in Arabic) is a syncopated and version of <a href="maqsum.php">Iqa‘ Maqsum</a> with a first <em>tak</em> delayed by half of an an eighth note. It is very popular in the Tarab genre of the mid-twentieth century.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>

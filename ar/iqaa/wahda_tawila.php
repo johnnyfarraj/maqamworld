@@ -40,7 +40,11 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/iqaa/wahda_tawila.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Wahda Tawila ("tawila" is Arabic for long), also known as <strong>Wahda Sunbati</strong>, is a stretched out version of <a href="wahda.php">Iqa‘ Wahda</a> over two measures. It is very popular in the vocal and instrumental music of the mid-twentieth century.</p>
+                    <h5>إيقاع واحْدة طويلة (و يُسمّى ايضاً "واحْدة سنباطي") هو إيقاع مبني على مدّ <a href="wahda.php">إيقاع الواحْدة</a> من وزن ٤/٤ الى وزن ٤/٨.
+                    </h5>
+                    <h5>
+                        يستعمل هذا الايقاع كثيراً في الموسيقى الغنائية والآلية من منتصف القرن العشرين.
+                    </h5>
 
                     <div class="player-area">
                         <audio id="player" controls>

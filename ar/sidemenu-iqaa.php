@@ -5,7 +5,7 @@
     <li><a href="/ar/iqaa/ayyub.php">ايّوب ٢/٤</a></li>
     <li><a href="/ar/iqaa/baladi.php">بلدي ٤/٤</a></li>
     <li><a href="/ar/iqaa/bambi.php">بمبي ٨/٤</a></li>
-    <li><a href="/ar/iqaa/thurayya.php">ثريا ٥/٨</a></li>
+    <li><a href="/ar/iqaa/thurayya.php">ثريّا ٥/٨</a></li>
     <li><a href="/ar/iqaa/jurjina.php">جرجينا ١٠/٨</a></li>
     <li><a href="/ar/iqaa/khosh_rang.php">خوش رانك ١٧/٨</a></li>
     <li><a href="/ar/iqaa/dawr_hindi.php">دور هندي ٧/٨</a></li>

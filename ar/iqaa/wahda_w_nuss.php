@@ -39,7 +39,10 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/iqaa/wahda_w_nuss.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Wahda w-Nuss (meaning "one and a half" in Arabic) is a syncopated and version of <a href="maqsum.php">Iqa‘ Maqsum</a> with a first <em>tak</em> delayed by an eighth note. It is very popular in the Tarab genre of the mid-twentieth century.</p>
+                    <h5>إيقاع واحْدة ونصّ هو صنف متأخّر النبر من <a href="maqsum.php">إيقاع المقسوم</a>، تتأخر تكّه الأولى قليلاً نسبةً الى التكّ الأولى في إيقاع المقسوم.
+                    </h5>
+                    <h5>يستعمل هذا الايقاع كثيراً في موسيقى الطرب من منتصف القرن العشرين.
+                    </h5>
 
                     <div class="player-area">
                         <audio id="player" controls>

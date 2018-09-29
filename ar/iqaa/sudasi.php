@@ -39,7 +39,10 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/iqaa/sudasi.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Sudasi (whose name means based on the number "six") is a very popular <em>iqa‘</em> to accompany folk line dances from Lebanon and Palestine, like the Dabke. It can modulate to 3 back-to-back measures of <a href="malfuf.php">Iqa‘ Malfuf</a>.</p>
+                    <h5>إيقاع سُداسي هو إيقاع شائع في أغاني رقصات الدبكة، خاصّةً في لبنان وفلسطين.
+                    </h5>
+                    <h5>يمكن ان ينتقل هذا الإيقاع من والى إيقاعات من وزن ٤/٢ بحيث تستبدل دورة من إيقاع السُداسي بثلاث دورات من <a href="malfuf.php">إيقاع الملفوف</a> مثلاً. 
+                    </h5>
 
                     <div class="player-area">
                         <audio id="player" controls>

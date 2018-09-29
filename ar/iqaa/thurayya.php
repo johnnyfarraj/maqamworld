@@ -40,7 +40,8 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/iqaa/thurayya.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Thurayya is alternatively called <strong>Aqsaq Turki</strong> (Turkish Aqsaq). It is a very rare <em>iqa‘</em> mostly used in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre.</p>
+                    <h5>إيقاع ثُريّا (و يُسمّى ايضاً "اقصاق تُركي") هو إيقاع نادر، وقد استُعمل في <a href="../form/vocal_comp.php#muwashah">موشّح</a> واحد فقط (في الروض انا شفت الجميل).
+                    </h5>
 
                     <div class="player-area">
                         <audio id="player" controls>

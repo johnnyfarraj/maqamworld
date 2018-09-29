@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/wahda_w_nuss.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Wahda w-Nuss ("wahda w-nuss" bedeutet anderthalb) ist eine synkopierte Version von <a href="maqsum.php">Iqa‘ Maqsum</a>, bei der der erste Tak erst auf der zweiten Achtel kommt. Dieser Rhythmus ist sehr beliebt im Tarab-Genre der Mitte des zwanzigsten Jahrhunderts.</p>
+                    <p>Iqa‘ Wahda w-Nuss ("wahda w-nuss" bedeutet anderthalb) ist eine synkopierte Version von <a href="maqsum.php">Iqa‘ Maqsum</a>, bei der erste Tak erst auf der zweiten Achtel kommt. Dieser Rhythmus ist sehr beliebt im Tarab-Genre der Mitte des zwanzigsten Jahrhunderts.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
