@@ -39,7 +39,8 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/iqaa/samai_darij.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Sama‘i Darij (also called Darij, for short) is a general 3/4 <em>iqa‘</em> used both in vocal and instrumental genre.</p>
+                    <h5>إيقاع سماعي دارِج (او "دارج" باختصار) هو الايقاع الأكثر استعمالاً في ميزان الـ ٣/٤، ويستعمل في الألوان الغنائية والآلية على حد سواء.
+                    </h5>
                     
                     <div class="player-area">
                         <audio id="player" controls>

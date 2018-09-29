@@ -39,7 +39,10 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/iqaa/rumba.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Rumba is an Arabic adaptation of the Latin American dance rhythm by the same name. It became fashionable starting from the 1930s and was used to add a litte foreign flavor to Arabic arrangements.</p>
+                    <h5>إيقاع رومبا مقتبس عن الايقاع الاميركي اللاتيني بالاسم نفسه.
+                    </h5>
+                    <h5>اصبح هذا الإيقاع دارجاً في بداية الثلاثينات من القرن الماضي وقد استُعمل لاضافة نكهة لاتينية الى التوزيع العربي.
+                    </h5>
                     
                     <div class="player-area">
                         <audio id="player" controls>

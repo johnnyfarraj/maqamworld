@@ -39,7 +39,8 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/iqaa/nawakht.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Nawakht is a very popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> repertoire, and tends to be played at mellow speed.</p>
+                    <h5>إيقاع نَواخْت يستعمل كثيراً في <a href="../form/vocal_comp.php#muwashah">قالب الموشّح</a>، ويعزف عادةً بسرعة متوسطة او بطيئة.
+                    </h5>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -52,7 +53,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Ya Hilalan</b>
+                                    <b>موشّح يا هلالاً</b>
                                     <span>فرقة الموسيقى العربية (مصر)</span>
                                     <span>بقيادة عبد الحليم نويرة</span>
                                 </div>

@@ -106,9 +106,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>موشح بدر تِمّ حاز حسناً</b>
-                                    <span>غناء غادة شبير (لبنان)</span>
-                                    <span>تلحين مرسي الحريري</span>
-                                    <span><img src="/img/cd.png">أسطوانة الموشحات</span>
+                                    <span>تلحين وغناء الشيخ  مرسي الحريري</span>
                                 </div>
                             </label>
                         </div>

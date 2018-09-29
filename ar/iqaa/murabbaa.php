@@ -39,8 +39,7 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/iqaa/murabbaa.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Murabba‘ is mostly confined to the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> repertoire. Unrelated to its time signature, the word <em>murabba‘</em> in Arabic means squared or based on the number 4.</p>
-                    
+                    <h5>إيقاع مُربّع يستعمل كثيراً في <a href="../form/vocal_comp.php#muwashah">قالب الموشّح</a>.</h5>                    
                     <div class="player-area">
                         <audio id="player" controls>
                             <source src="/audio/iqaa/murabbaa/hayyara_al_afkar.mp3" type="audio/mp3">

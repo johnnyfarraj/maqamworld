@@ -39,7 +39,10 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/iqaa/saidi.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Sa‘idi is a lively and quintessentially Egyptian <em>iqa‘</em> from the Sa‘id region. It modulates back and forth with other lively 4/4 <em>iqa‘at</em> like <a href="maqsum.php">Maqsum</a> and <a href="baladi.php">Baladi</a>.</p>
+                    <h5>إيقاع صَعِيدي هو إيقاع مصريّ بحت (من منطقة الصعيد)، طابعه حماسيّ وراقص.
+                    </h5>
+                    <h5>ينتقل هذا الإيقاع من والى إيقاعات أخرى في عائلة ميزان الـ ٤/٤ مثل <a href="maqsum.php">المقسوم</a> و<a href="baladi.php">البلدي</a>.
+                    </h5>
                     
                     <div class="player-area">
                         <audio id="player" controls>

@@ -39,7 +39,9 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/iqaa/muhajjar.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Muhajjar is a very popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> repertoire. It is immediately recognizable by the 3 consecutive <em>dum</em>-s that open the measure. The word "muhajjar" in Arabic means made of/turned into stone.</p>
+                    <h5>إيقاع مُحَجّر غالباً ما يستعمل في <a href="../form/vocal_comp.php#muwashah">قالب الموشّح</a>.
+                        ويمكن تمييزه سمعياً بسرعة بسبب الدُمّات الثلاث في بداية دورته.
+                    </h5>
                     
                     <div class="player-area">
                         <audio id="player" controls>

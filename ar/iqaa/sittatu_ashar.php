@@ -29,7 +29,7 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>إيقاع ستّة عَشَر مَصري ٣٢/٤</h1>
+                        <h1>إيقاع ستّة عشر مَصري ٣٢/٤</h1>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الايقاعات</a>
@@ -39,7 +39,10 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/iqaa/sittatu_ashar.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Sittatu ‘Ashar Masri ("sittatu ‘ashar" means sixteen, "masri" means Egyptian) is a rare <em>iqa‘</em> mostly used in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre. It spans 8 measures of 4/4, bringing its time signature to 32/4.</p>
+                    <h5>إيقاع ستّة عشر مَصري هو إيقاع نادر، غالباً ما يستعمل في <a href="../form/vocal_comp.php#muwashah">قالب الموشّح</a> الغنائي.
+                    </h5>
+                    <h5>طول دورة واحدة من هذا الايقاع تساوي ثمان دورات من ايقاعات من ميزان الـ ٤/٤ مثل <a href="maqsum.php">المقسوم</a>.
+                    </h5>
 
                     <div class="player-area">
                         <audio id="player" controls>

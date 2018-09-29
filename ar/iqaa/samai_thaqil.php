@@ -39,7 +39,8 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/iqaa/samai_thaqil.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Sama‘i Thaqil (also called Sama‘i, for short) is a very popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre, as well as the principal iqa‘ used in the <a href="../form/ottoman.php#samai">Sama‘i</a> Turkish/Ottoman instrumental form. </p>
+                    <h5>إيقاع سماعي ثَقيل (ويُسمّى باختصار "سماعي") هو من اهم الإيقاعات المستعملة في <a href="../form/vocal_comp.php#muwashah">قالب الموشّح </a> الغنائي، وهو الايقاع الأساسي في <a href="../form/ottoman.php#samai">قالب السماعي</a> الآلي التركي.
+                    </h5>
 
                     <div class="player-area">
                         <audio id="player" controls>

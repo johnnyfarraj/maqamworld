@@ -39,7 +39,7 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/iqaa/mukhammas.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Mukhammas is mostly confined to the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> repertoire. Unrelated to its time signature, the word "mukhammas" in Arabic means based on the number 5.</p>
+                    <h5>إيقاع مُخَمّس غالباً ما يستعمل في <a href="../form/vocal_comp.php#muwashah">قالب الموشّح</a>.</h5>
                     
                     <div class="player-area">
                         <audio id="player" controls>

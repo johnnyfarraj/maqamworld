@@ -39,7 +39,7 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/iqaa/mudawwar.png" class="img-fluid">
                     </div>
 
-                    <h5>إيقاع مدوّر غالباً ما يستعلم في <a href="../form/vocal_comp.php#muwashah">قالب الموشّح</a>.
+                    <h5>إيقاع مدوّر غالباً ما يستعمل في <a href="../form/vocal_comp.php#muwashah">قالب الموشّح</a>.م
                     </h5>
 
                     <div class="player-area">
