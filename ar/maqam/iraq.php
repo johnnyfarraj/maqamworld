@@ -12,7 +12,7 @@ $page_language = "ar";
 include($ROOT . 'inc/head.php');
 ?>
 
-  <body class="maqams-page">
+  <body class="rtl maqams-page">
 
     <?php
       $page = "ar/maqam/iraq.php";
@@ -130,7 +130,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
 
-    <?php include($ROOT . 'inc/footer.php'); ?>
+    <?php include($ROOT . 'ar/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
 
 </body>
