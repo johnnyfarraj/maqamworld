@@ -39,7 +39,11 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/iqaa/zaffa.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Zaffa is named after a wedding procession involving a loud and diverse group of precussion instruments. Aside from weddings, it is a possible modulation from slowed down versions of 4/4 <em>iqa‘at</em> like <a href="baladi.php">Baladi</a> and <a href="maqsum.php">Maqsum</a>.</p>
+                    <h5>إيقاع زَفّة اكتسب اسمه نسبةً الى زفّة العروس  في حفلات الزفاف (خاصةً في مصر)، حيث يعزف الموسيقيون على العديد من آلات الايقاع الصاخبة.
+                    </h5>
+                    <h5>ويأتي هذا الايقاع ايضاً نتيجة انتقالات من ايقاعات اخرى من وزن ٤/٤
+                       <a href="maqsum.php">كالمقسوم</a> <a href="baladi.php">والبلدي</a> عندما تُعزف بشكل ابطأ.
+                    </h5>
 
                     <div class="player-area">
                         <audio id="player" controls>

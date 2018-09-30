@@ -30,6 +30,7 @@ include($ROOT . 'inc/head.php');
                     
                     <div class="heading jins text-center">
                         <h1>إيقاع يُورُك سَماعي ٦/٨</h1>
+                        <h3>يُسمّى ايضاً "يُقرُق" او "أُقرُق"</h3>
                     </div>
                     
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الايقاعات</a>
@@ -39,7 +40,11 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/iqaa/yuruk_semai.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Yuruk Semai is originally a Turkish usul. It is very popular in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> genre, and is alternatively called <strong>Yugrug</strong>. When it speeds up, it may modulate to <a href="samai_saraband.php">Iqa' Sama‘i Saraband in 3/8</a>.</p>
+                    <h5>إيقاع يُورُك سَماعي (ويُسمّى ايضاً "يُقرُق" او "أُقرُق) هو اصلاً إيقاع (اصول) تركي.
+                        وهو ايقاع شائع جداً في <a href="../form/vocal_comp.php#muwashah">قالب الموشّح</a> الغنائي.
+                    </h5>
+                    <h5>يمكن ان ينتقل هذا الايقاع الى <a href="samai_saraband.php">سماعي سربند</a> عندما تزداد سرعته.
+                    </h5>
                     
                     <div class="player-area">
                         <audio id="player" controls>
