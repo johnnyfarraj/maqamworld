@@ -7,12 +7,12 @@ include('../../inc/config.php');
 $page_title = "Maqam Kirdan/Maqam Sazkar";
 $page_description = "Maqam Kirdan/Maqam Sazkar";
 $page_keywords = "arabic, music, arab, world, maqam kirdan, maqam sazkar, jins, kirdan, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
-$page_language = "ar"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "ar";
 
 include($ROOT . 'inc/head.php');
 ?>
 
-  <body class="rtl maqams-page">
+  <body class="maqams-page">
 
     <?php
       $page = "ar/maqam/kirdan.php";
@@ -22,16 +22,16 @@ include($ROOT . 'inc/head.php');
     <div class="page">
         <div class="container">
             <div class="row">
-                <div class="col-md-3 order-sm-2">
+                <div class="col-md-3">
                     <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Maqam Index</a>
-                    <?php include($ROOT . 'inc/sidemenu-maqam.php'); ?>
+                    <?php include('../sidemenu-maqam.php'); ?>
                 </div>
-                <div class="col-md-9 col-sm-9 order-sm-1">
+                <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
                         <h1>Maqam Kirdan</h1>
                         <h1>Maqam Sazkar</h1>
-                        <h3>Smaller Text Here</h3>
+                        <h3>A member of the <a href="f_rast.php">Maqam Rast Family</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Maqam Index</a>
                     <div class="clearfix"></div>
@@ -43,11 +43,31 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/sazkar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Sazkar</a>
                     </div>
 
-                    <div class="notation">
-                        <img src="/note/maqam/kirdan.png" class="img-fluid">
+
+                     <div class="notation" id="notation1">
+                        <img src="/note/maqam/kirdan.png" class="img-fluid" usemap="#notemap">
+                        <div class="shape"></div>
+                        <a class="linkArea"></a>
+                        <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
                     </div>
 
-                    <p>Maqam Kirdan is really a version of <a href="rast.php">Maqam Rast</a> whose sayr starts on the octave tonic and eventually descends to the root tonic. Maqam Sazkar is nearly identical, except for the prominence of the raised 2<sup>nd</sup> scale degree that occurs in some melodic passages (though not universally).</p>
+                    <map name="notemap">
+	  <area shape="circle" coords="75,81,13" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1"><!--tonic-->
+	  <area shape="circle" coords="148,89,13" href="#" alt="B4<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!--var-->
+	  <area shape="circle" coords="225,97,13" href="#" alt="A4" class="playNote" data-frequency="440" data-parent="#notation1">
+	  <area shape="circle" coords="304,105,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
+	  <area shape="circle" coords="381,113,13" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1">
+	  <area shape="circle" coords="458,123,13" href="#" alt="E4<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
+	  <area shape="circle" coords="537,131,13" href="#" alt="D4♯" class="playNote" data-frequency="310" data-parent="#notation1"><!-- var sikah leading tone-->
+	  <area shape="circle" coords="589,131,13" href="#" alt="D4♮" class="playNote" data-frequency="293.33" data-parent="#notation1">
+                      <area shape="circle" coords="640,139,13" href="#" alt="C4" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
+                       <!-- Links -->
+                      <area shape="rect" coords="95,6,274,38" href="../jins/upper_rast.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="420,9,525,38" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="400,173,528,202" href="../jins/sazkar.php" class="mapLink" data-parent="#notation1">
+
+					</map>
+                    <p>Maqam Kirdan is really a version of <a href="rast.php">Maqam Rast</a> whose sayr starts on the octave tonic and eventually descends to the root tonic. Its scale starts with either the root <a href="../jins/rast.php">Jins Rast</a> or <a href="../jins/sazkar.php">Jins Sazkar</a> on the <em>tonic</em>, followed by <a href="../jins/upper_rast.php">Jins Upper Rast</a> on the 5<sup>th</sup> degree (with its tonic up on the 8<sup>th</sup> degree). As such, Maqam Sazkar is nearly identical to <a href="rast.php">Maqam Rast</a>, except for the prominence of the raised 2<sup>nd</sup> degree that occurs in some melodic passages.</p>
 
                     <p>Explore other maqamat in the <a href="f_rast.php">Maqam Rast Family</a>.</p>
 
@@ -97,16 +117,16 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                 </div>
-                <div class="col-sm-12 order-sm-3">
+                <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
                 </div>
             </div>
         </div>
     </div>
-    
+
     <?php include($ROOT . 'inc/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
-    
+
 </body>
 
 </html>
