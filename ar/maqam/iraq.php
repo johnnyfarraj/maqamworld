@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam ‘Iraq";
-$page_description = "Maqam ‘Iraq";
+$page_title = "مقام عراق";
+$page_description = "مقام عراق";
 $page_keywords = "arabic, music, arab, world, maqam, jins, ajam, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
 $page_language = "ar";
 
@@ -23,25 +23,20 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Maqam Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i>دليل المقامات</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam ‘Iraq</h1>
-                        <h3>A member of the <a href="f_sikah.php">Maqam Sikah Family</a></h3>
+                        <h1>مقام عراق</h1>
+                        <h3>من <a href="f_sikah.php">عائلة مقام السيكاه</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Maqam Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل المقامات</a>
                     <div class="clearfix"></div>
 
-                    <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/iraq.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of ‘Iraq</a>
-                    </div>
-
-
                      <div class="notation" id="notation1">
-                        <img src="/note/maqam/iraq.png" class="img-fluid" usemap="#notemap">
+                        <img src="../note/maqam/iraq.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
                         <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
@@ -62,9 +57,10 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="485,5,592,33" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 	</map>
 
-                    <p>Maqam ‘Iraq is a rare member of the Sikah family, although it is more common as a modulation in the sayr of <a href="huzam.php">Maqam Huzam</a>. Its scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the <em>tonic</em>, followed by <a href="../jins/bayati.php">Jins Bayati</a> on the 3<sup>rd</sup> degree then <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree.
-                    </p>
-                    <p>Explore other maqamat in the <a href="f_sikah.php">Maqam Sikah Family</a>.</p>
+                    <h5>مقام عراق is a rare member of the Sikah family, although it is more common as a modulation in the sayr of <a href="huzam.php">مقام هُزام</a>. Its scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the <em>tonic</em>, followed by <a href="../jins/bayati.php">Jins Bayati</a> on the 3<sup>rd</sup> degree then <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree.
+                    </h5>
+		<br>
+                    <h5>انظر الى مقامات اخرى في <a href="f_sikah.php">عائلة مقام السيكاه</a>.</h5>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -109,7 +105,7 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/maqam/iraq/el_hali_taabani.mp3">
+                    <div class="track" data-song="/audio/maqam/iraq/el_hali_tbani.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">

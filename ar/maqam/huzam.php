@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Huzam/Rahat al-Arwah";
-$page_description = "Maqam Huzam/Rahat al-Arwah";
+$page_title = "مقام هُزام/مقام راحة الارواح";
+$page_description = "مقام هُزام/مقام راحة الارواح";
 $page_keywords = "arabic, music, arab, world, maqam, jins, sikah, huzam, rahat al-arwah, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
 $page_language = "ar";
 
@@ -23,29 +23,21 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Maqam Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i>دليل المقامات</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Huzam</h1>
-                        <h1>Maqam Rahat al-Arwah</h1>
-                        <h3>A member of the <a href="f_sikah.php">Maqam Sikah Family</a></h3>
+                        <h1>مقام هُزام</h1>
+                        <h1>مقام راحة الارواح</h1>
+                        <h3>من <a href="f_sikah.php">عائلة مقام السيكاه</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Maqam Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل المقامات</a>
                     <div class="clearfix"></div>
 
-                    <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/huzam.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Huzam</a>
-                    </div>
-                    <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/rahat_al_arwah`.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Rahat al-Arwah</a>
-                    </div>
-
-
                      <div class="notation" id="notation1">
-                        <img src="/note/maqam/huzam.png" class="img-fluid" usemap="#notemap">
+                        <img src="../note/maqam/huzam.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
                         <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
@@ -60,17 +52,17 @@ include($ROOT . 'inc/head.php');
 		  <area shape="circle" coords="455,84,13" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1">
 		  <area shape="circle" coords="533,76,13" href="#" alt="D5" class="playNote" data-frequency="586.66" data-parent="#notation1">
 		  <area shape="circle" coords="610,68,13" href="#" alt="E4<i class='icon-halfflat'></i>" class="playNote" data-frequency="644" data-parent="#notation1"><!--variable-->
-          <!-- Links -->
+          		<!-- Links -->
                       <area shape="rect" coords="78,13,200,43" href="../jins/sikah.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="277,13,395,43" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="484,7,591,35" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <p>Maqam Huzam is by far the most common maqam in the Sikah family, and starts on E<i class="icon-halfflat"></i>. Its scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the <em>tonic</em>, followed by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 4<sup>th</sup> degree then <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree.</p>
+                    <h5>مقام هُزام is by far the most common maqam in the Sikah family, and starts on E<i class="icon-halfflat"></i>. Its scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the <em>tonic</em>, followed by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 4<sup>th</sup> degree then <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree.</h5>
+                    <h5>The transposition of مقام هُزام to B<i class="icon-halfflat"></i> has its own name: <strong>مقام راحة الارواح</strong>. Both maqamat have exactly the same sayr.</h5>
+		<br>
 
-                    <p>The transposition of Maqam Huzam to B<i class="icon-halfflat"></i> has its own name: <strong>Maqam Rahat al-Arwah</strong>. Both maqamat have exactly the same sayr.</p>
-
-                    <p>Explore other maqamat in the <a href="f_sikah.php">Maqam Sikah Family</a>.</p>
+                    <h5>انظر الى مقامات اخرى في <a href="f_sikah.php">عائلة مقام السيكاه</a>.</h5>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -84,7 +76,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Ya Ghusna Naqa</b>
-                                    <span>(Maqam Huzam)</span>
+                                    <span>(مقام هُزام)</span>
                                     <span>Firqat al-Musiqa al-Arabiyya, Egypt</span>
                                 </div>
                             </label>
@@ -133,7 +125,7 @@ include($ROOT . 'inc/head.php');
 
                     <!-- Start Rahat al-Arwah section -->
                     <div class="heading jins text-center">
-                        <h3>Maqam Rahat al-Arwah examples</h3>
+                        <h3>مقام راحة الارواح examples</h3>
                     </div>
                     <div class="clearfix"></div>
 
@@ -169,7 +161,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr Inta Fahim (19??)</b>
-                                    <span>(Maqam Rahat al-Arwah)</span>
+                                    <span>(مقام راحة الارواح)</span>
                                     <span>Music and Vocals by Zakariyya Ahmad</span>
                                 </div>
                             </label>

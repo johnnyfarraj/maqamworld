@@ -21,7 +21,7 @@
     <li><a href="/ar/maqam/suznak.php">سوزناك</a></li>
     <li><a href="/ar/maqam/sikah.php">سيكاه</a></li>
     <li><a href="/ar/maqam/sikah_baladi.php">سيكاه بلدي</a></li>
-    <li><a href="/ar/maqam/hijazkar.php">شاه ناز</a></li>
+    <li><a href="/ar/maqam/hijazkar.php">شاهناز</a></li>
     <li><a href="/ar/maqam/shawq_afza.php">شوق افزا</a></li>
     <li><a href="/ar/maqam/hijazkar.php">شَدّ عَرَبان</a></li>
     <li><a href="/ar/maqam/saba.php">صَبا</a></li>

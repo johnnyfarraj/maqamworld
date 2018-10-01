@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Kirdan/Maqam Sazkar";
-$page_description = "Maqam Kirdan/Maqam Sazkar";
-$page_keywords = "arabic, music, arab, world, maqam kirdan, maqam sazkar, jins, kirdan, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_title = "مقام كِردان/مقام سازكار";
+$page_description = "مقام كِردان/مقام سازكار";
+$page_keywords = "arabic, music, arab, world, مقام كِردان, مقام سازكار, jins, kirdan, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
 $page_language = "ar";
 
 include($ROOT . 'inc/head.php');
@@ -23,29 +23,21 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Maqam Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i>دليل المقامات</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Kirdan</h1>
-                        <h1>Maqam Sazkar</h1>
-                        <h3>A member of the <a href="f_rast.php">Maqam Rast Family</a></h3>
+                        <h1>مقام كِردان</h1>
+                        <h1>مقام سازكار</h1>
+                        <h3>من <a href="f_rast.php">عائلة مقام الراست</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Maqam Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل المقامات</a>
                     <div class="clearfix"></div>
 
-                    <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/kirdan.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Kirdan</a>
-                    </div>
-                    <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/sazkar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Sazkar</a>
-                    </div>
-
-
                      <div class="notation" id="notation1">
-                        <img src="/note/maqam/kirdan.png" class="img-fluid" usemap="#notemap">
+                        <img src="../note/maqam/kirdan.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
                         <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
@@ -65,11 +57,11 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="95,6,274,38" href="../jins/upper_rast.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="420,9,525,38" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="400,173,528,202" href="../jins/sazkar.php" class="mapLink" data-parent="#notation1">
+		</map>
 
-					</map>
-                    <p>Maqam Kirdan is really a version of <a href="rast.php">Maqam Rast</a> whose sayr starts on the octave tonic and eventually descends to the root tonic. Its scale starts with either the root <a href="../jins/rast.php">Jins Rast</a> or <a href="../jins/sazkar.php">Jins Sazkar</a> on the <em>tonic</em>, followed by <a href="../jins/upper_rast.php">Jins Upper Rast</a> on the 5<sup>th</sup> degree (with its tonic up on the 8<sup>th</sup> degree). As such, Maqam Sazkar is nearly identical to <a href="rast.php">Maqam Rast</a>, except for the prominence of the raised 2<sup>nd</sup> degree that occurs in some melodic passages.</p>
-
-                    <p>Explore other maqamat in the <a href="f_rast.php">Maqam Rast Family</a>.</p>
+                    <h5>مقام كِردان is really a version of <a href="rast.php">مقام راسْت</a> whose sayr starts on the octave tonic and eventually descends to the root tonic. Its scale starts with either the root <a href="../jins/rast.php">Jins Rast</a> or <a href="../jins/sazkar.php">Jins Sazkar</a> on the <em>tonic</em>, followed by <a href="../jins/upper_rast.php">Jins Upper Rast</a> on the 5<sup>th</sup> degree (with its tonic up on the 8<sup>th</sup> degree). As such, مقام سازكار is nearly identical to <a href="rast.php">مقام راسْت</a>, except for the prominence of the raised 2<sup>nd</sup> degree that occurs in some melodic passages.</h5>
+		<br>
+                    <h5>انظر الى مقامات اخرى في <a href="f_rast.php">عائلة مقام الراست</a>.</h5>
 
                     <div class="player-area">
                         <audio id="player" controls>

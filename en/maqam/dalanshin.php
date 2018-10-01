@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 /* Must be relative path */
 include('../../inc/config.php');
@@ -66,6 +66,7 @@ include($ROOT . 'inc/head.php');
                     <p>
                     Maqam Dalanshin starts with <a href="../jins/saba_dalanshin.php">Jins Saba Dalanshin</a> on the octave of <a href="rast.php">Maqam Rast</a> then transitions back to the Maqam Rast scale with <a href="../jins/upper_rast.php">Jins Upper Rast</a> on the 5<sup>th</sup> degree (with its tonic up on the 8<sup>th</sup> degree), and <a href="../jins/rast.php">Jins Rast</a> on the <em>tonic</em>. </p>
                     </p>
+			<p>
                     There are not too many songs in this maqam, instead it is more frequently used as a modulation from <a href="rast.php">Maqam Rast</a>.</p>
 
                     <p>Explore other maqamat in the <a href="f_rast.php">Maqam Rast Family</a>.</p>

@@ -47,26 +47,27 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="68,140,13" href="#" alt="C4" class="playNote" data-frequency="260.74" data-parent="#notation1">
-					  <area shape="circle" coords="144,131,13" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1">
-					  <area shape="circle" coords="221,125,13" href="#" alt="E4" class="playNote" data-frequency="328" data-parent="#notation1"><!-- Ajam 3rd, tuned down from 330 -->
-					  <area shape="circle" coords="298,116,13" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1">
-					  <area shape="circle" coords="377,108,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="453,100,13" href="#" alt="A4" class="playNote" data-frequency="440" data-parent="#notation1">
-					  <area shape="circle" coords="530,92,13" href="#" alt="B4" class="playNote" data-frequency="495" data-parent="#notation1">
-					  <area shape="circle" coords="608,84,13" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1">
-				      <area shape="circle" coords="686,92,13" href="#" alt="B4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
-					  <area shape="circle" coords="762,100,13" href="#" alt="A4" class="playNote" data-frequency="440" data-parent="#notation1">
-					  <area shape="circle" coords="840,108,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
+	  <area shape="circle" coords="68,140,13" href="#" alt="C4" class="playNote" data-frequency="260.74" data-parent="#notation1">
+	  <area shape="circle" coords="144,131,13" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1">
+	  <area shape="circle" coords="221,125,13" href="#" alt="E4" class="playNote" data-frequency="328" data-parent="#notation1"><!-- Ajam 3rd, tuned down from 330 -->
+	  <area shape="circle" coords="298,116,13" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1">
+	  <area shape="circle" coords="377,108,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
+	  <area shape="circle" coords="453,100,13" href="#" alt="A4" class="playNote" data-frequency="440" data-parent="#notation1">
+	  <area shape="circle" coords="530,92,13" href="#" alt="B4" class="playNote" data-frequency="495" data-parent="#notation1">
+	  <area shape="circle" coords="608,84,13" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1">
+	      <area shape="circle" coords="686,92,13" href="#" alt="B4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
+	  <area shape="circle" coords="762,100,13" href="#" alt="A4" class="playNote" data-frequency="440" data-parent="#notation1">
+	  <area shape="circle" coords="840,108,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
                       <!-- Links -->
                       <area shape="rect" coords="150,11,270,40" href="../jins/ajam.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="390,10,590,40" href="../jins/upper_ajam.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="639,14,806,40" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
-					</map>
+		</map>
 
-                    <p>Maqam ‘Ajam (also known as Egyptian ‘Ajam) is the principal maqam in the <a href="f_ajam.php">Maqam ‘Ajam Family</a>, and starts with the root <a href="../jins/ajam.php">Jins ‘Ajam</a> on the <em>tonic</em>, followed by either <a href="../jins/upper_ajam.php">Jins Upper ‘Ajam</a> on the 5<sup>th</sup> degree (with its tonic up on the 8<sup>th</sup> degree) or <a href="../jins/nahawand.php">Jins Nahawand</a> on the 5<sup>th</sup> degree.</p>
-
-                    <p>Explore other maqamat in the <a href="f_ajam.php">Maqam ‘Ajam Family</a>.</p>
+                    <h5>Maqam ‘Ajam (also known as Egyptian ‘Ajam) is the principal maqam in the <a href="f_ajam.php">Maqam ‘Ajam Family</a>, and starts with the root <a href="../jins/ajam.php">Jins ‘Ajam</a> on the <em>tonic</em>, followed by either <a href="../jins/upper_ajam.php">Jins Upper ‘Ajam</a> on the 5<sup>th</sup> degree (with its tonic up on the 8<sup>th</sup> degree) or <a href="../jins/nahawand.php">Jins Nahawand</a> on the 5<sup>th</sup> degree.
+		</h5>
+		<br>
+                    <h5> انظر الى مقامات اخرى في<a href="f_ajam.php">عائلة مقام العجم</a>.</h5>
 
                     <div class="player-area">
                         <audio id="player" controls>

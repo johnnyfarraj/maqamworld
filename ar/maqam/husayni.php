@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Husayni";
-$page_description = "Maqam Husayni";
+$page_title = "مقام حُسيني";
+$page_description = "مقام حُسيني";
 $page_keywords = "arabic, music, arab, world, maqam, jins, ajam, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
 $page_language = "ar";
 
@@ -23,24 +23,20 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Maqam Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i>دليل المقامات</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Husayni</h1>
-                        <h3>A member of the <a href="f_bayati.php">Maqam Bayati Family</a></h3>
+                        <h1>مقام حُسيني</h1>
+                        <h3>من <a href="f_bayati.php">عائلة مقام البياتي</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Maqam Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل المقامات</a>
                     <div class="clearfix"></div>
 
-                    <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/husayni.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Husayni</a>
-                    </div>
-
                      <div class="notation" id="notation1">
-                        <img src="/note/maqam/husayni.png" class="img-fluid" usemap="#notemap">
+                        <img src="../note/maqam/husayni.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
                         <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
@@ -61,11 +57,12 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="116,8,304,39" href="../jins/husayni.php" class="mapLink" data-parent="#notation1">
 		-->
                       <area shape="rect" coords="450,8,580,39" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
+		</map>
 
-					</map>
-                    <p>Maqam Husayni is not very common as an independent maqam in the Arabic tradition, though its sayr (emphasizing the 5<sup>th</sup> scale degree as a note of tension resolving down to the 4<sup>th</sup> degree) is obligatory within <a href="bayati.php">Maqam Bayati</a>. In the folk music of the wider region, this is actually the most common variant of Bayati, with its scale starting with the root <a href="../jins/bayati.php">Jins Bayati</a> on the <em>tonic</em>.
-                    </p>
-                    <p>Explore other maqamat in the <a href="f_bayati.php">Maqam Bayati Family</a>.</p>
+                    <h5>مقام حُسيني is not very common as an independent maqam in the Arabic tradition, though its sayr (emphasizing the 5<sup>th</sup> scale degree as a note of tension resolving down to the 4<sup>th</sup> degree) is obligatory within <a href="bayati.php">مقام بياتي</a>. In the folk music of the wider region, this is actually the most common variant of Bayati, with its scale starting with the root <a href="../jins/bayati.php">Jins Bayati</a> on the <em>tonic</em>.
+                    </h5>
+		<br>
+                    <h5>انظر الى مقامات اخرى في <a href="f_bayati.php">عائلة مقام البياتي</a>.</h5>
 
                     <div class="player-area">
                         <audio id="player" controls>

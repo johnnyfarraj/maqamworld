@@ -7,7 +7,7 @@ include('../inc/config.php');
 $page_title = "الآلات الموسيقية العربية";
 $page_description = "الآلات الموسيقية العربية";
 $page_keywords = "عود ,موسيقى عربية ,قانون, ناي, مقام, جنس, آلات, طرب, عالم المقامات, ايقاع";
-$page_language = "ar"; // en / ar <!-- YOU MUST PUT THIS -->
+$page_language = "ar"; -->
 
 include($ROOT . 'inc/head.php');
 ?>

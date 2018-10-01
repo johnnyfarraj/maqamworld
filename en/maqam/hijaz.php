@@ -215,56 +215,6 @@ include($ROOT . 'inc/head.php');
     <?php include($ROOT . 'inc/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
 
-    <script>
-        $(document).ready(function() {
-            /* pronunciation */
-            const pronunciation = new Plyr('#pronunciation', {
-                controls: []
-            });
-            $(".pronunciation").click(function(e) {
-                e.preventDefault();
-                pronunciation.stop();
-                pronunciation.play();
-            });
-
-            /* Initialisation of the player */
-            const player = new Plyr('#player', {
-                controls: ['play', 'progress', 'current-time', 'mute', 'volume']
-            });
-            player.on('play', function() {
-                pronunciation.pause();
-            })
-            pronunciation.on('play', function() {
-                player.pause();
-            })
-
-            /* On Track change */
-            $("input[name=song]").change(function() {
-                $(".track").removeClass("active");
-                $(this).parents(".track").addClass("active");
-
-                /* We get the Song location from the Data-song attribute */
-                var songLocation = $(this).parents(".track").data("song");
-                /* We get the Song title from our sibling element */
-                var songTitle = $(this).siblings(".info").children("b").text();
-
-                /* We stop the player */
-                player.stop();
-                /* We change the song */
-                player.source = {
-                    type: 'audio',
-                    title: songTitle,
-                    sources: [{
-                        src: songLocation,
-                        type: 'audio/mp3',
-                    }],
-                };
-                /* We start the player */
-                player.play();
-            })
-        })
-
-    </script>
 </body>
 
 </html>
