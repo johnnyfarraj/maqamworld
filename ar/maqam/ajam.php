@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>مقام عجم</h1>
-                        <h3>من <a href="f_ajam.php">عائلة مقام العجم</a></h3>
+                        <h3>المقام الاساسي في  <a href="f_ajam.php">عائلة مقام العجم</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل المقامات</a>
                     <div class="clearfix"></div>
@@ -39,7 +39,7 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/maqam/ajam.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
+                        <p class="clicknotes_ar">إضغط على العلامة الموسيقية بالفأرة حتى تسمع نغمتها.</p>
                     </div>
 
                     <map name="notemap">
@@ -60,12 +60,12 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="639,14,806,40" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <h5>مقام عجم (also known as Egyptian ‘Ajam) is the principal maqam in the <a href="f_ajam.php">عائلة مقام العجم</a>, 
-and starts with the root <a href="../jins/ajam.php">Jins ‘Ajam</a> 
-on the <em>tonic</em>, followed by either <a href="../jins/upper_ajam.php">Jins Upper ‘Ajam</a> on the 5<sup>th</sup> 
+                    <h5>مقام عجم (also known as Egyptian ‘Ajam) is the principal maqam in the <a href="f_ajam.php">عائلة مقام العجم</a>,
+and starts with the root <a href="../jins/ajam.php">Jins ‘Ajam</a>
+on the <em>tonic</em>, followed by either <a href="../jins/upper_ajam.php">Jins Upper ‘Ajam</a> on the 5<sup>th</sup>
 degree (with its tonic up on the 8<sup>th</sup> degree) or <a href="../jins/nahawand.php">Jins Nahawand</a> on the 5<sup>th</sup> degree.</h5>
 
-                    <h5>Explore other maqamat in the <a href="f_ajam.php">عائلة مقام العجم</a>.</h5>
+                    <h5>انظر الى مقامات اخرى في <a href="f_ajam.php">عائلة مقام العجم</a>.</h5>
 
                     <div class="player-area">
                         <audio id="player" controls>

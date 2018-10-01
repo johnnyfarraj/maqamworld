@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam ‘Ajam</h1>
-                        <h3>A member of the <a href="f_ajam.php">Maqam ‘Ajam Family</a></h3>
+                        <h3>The principal maqam in the <a href="f_ajam.php">Maqam ‘Ajam Family</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Maqam Index</a>
                     <div class="clearfix"></div>
@@ -64,10 +64,8 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="639,14,806,40" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <h5>Maqam ‘Ajam (also known as Egyptian ‘Ajam) is the principal maqam in the <a href="f_ajam.php">Maqam ‘Ajam Family</a>, and starts with the root <a href="../jins/ajam.php">Jins ‘Ajam</a> on the <em>tonic</em>, followed by either <a href="../jins/upper_ajam.php">Jins Upper ‘Ajam</a> on the 5<sup>th</sup> degree (with its tonic up on the 8<sup>th</sup> degree) or <a href="../jins/nahawand.php">Jins Nahawand</a> on the 5<sup>th</sup> degree.
-		</h5>
-		<br>
-                    <h5> انظر الى مقامات اخرى في<a href="f_ajam.php">عائلة مقام العجم</a>.</h5>
+	       <p>Maqam ‘Ajam (also known as Egyptian ‘Ajam) is The principal maqam in the <a href="f_ajam.php">Maqam ‘Ajam Family</a>, and starts with the root <a href="../jins/ajam.php">Jins ‘Ajam</a> on the <em>tonic</em>, followed by either <a href="../jins/upper_ajam.php">Jins Upper ‘Ajam</a> on the 5<sup>th</sup> degree (with its tonic up on the 8<sup>th</sup> degree) or <a href="../jins/nahawand.php">Jins Nahawand</a> on the 5<sup>th</sup> degree.</p>
+                    <p>Explore other maqamat in the <a href="f_ajam.php">Maqam ‘Ajam Family</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

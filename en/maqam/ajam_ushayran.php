@@ -61,12 +61,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="272,155,390,184" href="../jins/kurd.php" class="mapLink" data-parent="#notation1"
 		</ map>
 
-                    <h5>Maqam ‘Ajam ‘Ushayran is an archaic version of <a href="ajam.php">Maqam ‘Ajam</a> with a different sayr, and has a completely different tonal emphasis as well. Rather than tonicizing its 5<sup>th</sup> scale degree, it tonicizes its 3<sup>rd</sup> and 6<sup>th</sup> scale degrees instead.
-		</h5>
-                    <h5>The Maqam ‘Ajam ‘Ushayran scale starts with the root <a href="../jins/ajam.php">Jins ‘Ajam</a> on the <em>tonic</em>, followed by <a href="../jins/kurd.php">Jins Kurd</a> on the 3<sup>rd</sup> degree then <a href="../jins/nahawand.php">Jins Nahawand</a> startiing on the 6<sup>th</sup> degree.
-		</h5>
-		<br>
-                    <h5> انظر الى مقامات اخرى في<a href="f_ajam.php">عائلة مقام العجم</a>.</h5>
+                    <p>Maqam ‘Ajam ‘Ushayran is an archaic version of <a href="ajam.php">Maqam ‘Ajam</a> with a different sayr, and has a completely different tonal emphasis as well. Rather than tonicizing its 5<sup>th</sup> scale degree, it tonicizes its 3<sup>rd</sup> and 6<sup>th</sup> scale degrees instead.</p>
+                    <p>The Maqam ‘Ajam ‘Ushayran scale starts with the root <a href="../jins/ajam.php">Jins ‘Ajam</a> on the <em>tonic</em>, followed by <a href="../jins/kurd.php">Jins Kurd</a> on the 3<sup>rd</sup> degree then <a href="../jins/nahawand.php">Jins Nahawand</a> startiing on the 6<sup>th</sup> degree.</p>
+                    <p>Explore other maqamat in the <a href="f_ajam.php">Maqam ‘Ajam Family</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

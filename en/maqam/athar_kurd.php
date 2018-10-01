@@ -61,14 +61,13 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="337,144,483,175" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
 	     </map>
 
-                    <h5>Maqam Athar Kurd is a very rare maqam that seems to be a 20<sup>th</sup> century development. Its scale starts with <a href="../jins/athar_kurd.php">Athar Kurd</a> on the <em>tonic</em> followed by <a href="../jins/hijazkar.php">Jins Hijazkar</a> centered around the 5<sup>th</sup> degree.
-		</h5>
-                    <h5>The Maqam Athar Kurd scale is a hybrid between <a href="nawa_athar.php">Maqam Nawa Athar</a>
+                    <p>Maqam Athar Kurd is a very rare maqam that seems to be a 20<sup>th</sup> century development. Its scale starts with <a href="../jins/athar_kurd.php">Athar Kurd</a> on the <em>tonic</em> followed by <a href="../jins/hijazkar.php">Jins Hijazkar</a> centered around the 5<sup>th</sup> degree.
+		</p>
+                    <p>The Maqam Athar Kurd scale is a hybrid between <a href="nawa_athar.php">Maqam Nawa Athar</a>
                     (with the raised 4<sup>th</sup> and 7<sup>th</sup> degrees) and <a href="kurd.php">Maqam Kurd</a>
-                    (with the lowered 2<sup>nd</sup> degree), hence the name. 
-		</h5>
-		<br>
-                    <h5> انظر الى مقامات اخرى في<a href="f_nikriz.php">عائلة مقام النِكريز</a>.</h5>
+                    (with the lowered 2<sup>nd</sup> degree), hence the name.
+		</p>
+                    <p>Explore other maqamat in the <a href="f_nikriz.php">Maqam Nikriz Family</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

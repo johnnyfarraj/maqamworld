@@ -39,7 +39,7 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/maqam/sikah.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
+                        <p class="clicknotes_ar">إضغط على العلامة الموسيقية بالفأرة حتى تسمع نغمتها.</p>
                     </div>
 
                     <map name="notemap">
