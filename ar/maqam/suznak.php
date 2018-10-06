@@ -72,8 +72,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Qadd Malik Ya Hilwa</b>
-                                    <span>Muhammad Khayri</span>
+                                    <b>قدّ مالك يا حلوة</b>
+                                    <span>غناء المطرب محمد خيري (حلب)</span>
                                 </div>
                             </label>
                         </div>
@@ -84,9 +84,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr Asl il-Gharam</b>
-                                    <span>Nour el-Hoda</span>
-                                    <span>Music by Muhammad ‘Uthman</span>
+                                    <b>دور اصل الغرام نظرة</b>
+                                    <span>غناء نور الهدى (لبنان)</span>
+                                    <span>الحان محمد عثمان (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -97,9 +97,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ghannili Shwayy Shwayy (1945)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music by Zakariyya Ahmad</span>
+                                    <b>غنيلي شوية شوية (١٩٤٥)</b>
+                                    <span>امّ كلثوم</span>
+                                    <span>الحان زكريا احمد (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -110,9 +110,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Tahmila Suznak</b>
-                                    <span>Simon Shaheen</span>
-                                    <span><img src="/img/cd.png"> Turath - Masterworks of the Middle East</span>
+                                    <b>تحميلة سوزناك</b>
+                                    <span>(اللحن من التراث)</span>
+                                    <span>سيمون شاهين (فلسطين)</span>
+                                    <span><img src="/img/cd.png"> اسطوانة تراث</span>
                                 </div>
                             </label>
                         </div>
@@ -123,9 +124,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Qanun in مقام سوزناك</b>
-                                    <span>Abraham Salman</span>
-                                    <span><img src="/img/cd.png"> Saltanah</span>
+                                    <b>تقسام قانون مقام سوزناك</b>
+                                    <span>ابراهام سلمان (العراق)</span>
+                                    <span><img src="/img/cd.png"> سلطنة</span>
                                 </div>
                             </label>
                         </div>

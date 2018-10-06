@@ -115,7 +115,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Zahrit al-Janub (1989)</b>
+                                    <b>Iswarit el-‘Arus (1989)</b>
                                     <span>Fairouz</span>
                                     <span>Musik von Philemon Wehbe</span>
                                 </div>

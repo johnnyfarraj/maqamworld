@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>مقام راسْت</h1>
-                        <h3>من <a href="f_rast.php">عائلة مقام الراست</a></h3>
+                        <h3>المقام الاساسي في <a href="f_rast.php">عائلة مقام الراست</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل المقامات</a>
                     <div class="clearfix"></div>

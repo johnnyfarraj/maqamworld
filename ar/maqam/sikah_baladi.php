@@ -79,8 +79,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Sahirtu Minhu al-Layali (1935)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab</span>
+                                    <b>اغنية سهرت منه الليالي (١٩٣٥)</b>
+                                    <span>غناء والحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -91,9 +91,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Shams el-Asil (1958)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music by Riyad al-Sunbati</span>
+                                    <b>اغنية شمس الاصيل (١٩٥٨)</b>
+                                    <span>ام كلثوم</span>
+                                    <span>الحان رياض السنباطي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -104,9 +104,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Aruh Li Min (1958)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music by Riyad al-Sunbati</span>
+                                    <b>اغنية اروح لمين (١٩٥٨)</b>
+                                    <span>ام كلثوم</span>
+                                    <span>الحان رياض السنباطي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -117,8 +117,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Kulli Da Kan Leh (1954)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab</span>
+                                    <b>اغنية كل ده كان ليه (١٩٥٤)</b>
+                                    <span>غناء والحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -129,8 +129,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>el-Habib el-Majhul(1972)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab</span>
+                                    <b>اغنية الحبيب المجهول (١٩٧٢)</b>
+                                    <span>غناء والحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -141,8 +141,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Buzuq</b>
-                                    <span>Matar Muhammad (Lebanon)</span>
+                                    <b>تقسيم على البزق</b>
+                                    <span>مطر محمد (لبنان)</span>
                                 </div>
                             </label>
                         </div>
@@ -153,9 +153,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Qanun</b>
-                                    <span>Abraham Salman (Iraq)</span>
-                                    <span><img src="/img/cd.png"> Saltanah</span>
+                                    <b>تقسيم على القانون</b>
+                                    <span>ابراهام سلمان (عراق)</span>
+                                    <span><img src="/img/cd.png"> اسطوانة سلطنة</span>
                                 </div>
                             </label>
                         </div>

@@ -72,9 +72,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Yana Yana (1969)</b>
-                                    <span>Sabah</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <b>اغنية يانا يانا (١٩٦٩)</b>
+                                    <span>صباح (لبنان)</span>
+                                    <span>الحان بليغ حمدي</span>
                                 </div>
                             </label>
                         </div>

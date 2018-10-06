@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>مقام سيكاه</h1>
-                        <h3>من <a href="f_sikah.php">عائلة مقام السيكاه</a></h3>
+                        <h3>المقام الاساسي في <a href="f_sikah.php">عائلة مقام السيكاه</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل المقامات</a>
                     <div class="clearfix"></div>
@@ -73,8 +73,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Jadaka al-Ghaithu</b>
-                                    <span>Vocals and Music by Wajdi al-‘Aqili</span>
+                                    <b>موشّح جادكَ الغيث</b>
+                                    <span>غناء والحان مجدي العقيلي (سوريا)</span>
                                 </div>
                             </label>
                         </div>
@@ -85,9 +85,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Inti Fakrani (1938)</b>
-                                    <span>Umm Kuthum</span>
-                                    <span>Music by Muhammad al-Qasabgi</span>
+                                    <b>اغنية انتِ فاكراني (١٩٣٨)</b>
+                                    <span>امّ كلثوم</span>
+                                    <span>الحان محمد القصبجي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -98,9 +98,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>el-Ward Gamil (1947)</b>
-                                    <span>Umm Kuthum</span>
-                                    <span>Music by Zakariyya Ahmad</span>
+                                    <b>اغنية الورد جميل (١٩٤٧)</b>
+                                    <span>امّ كلثوم</span>
+                                    <span>الحان زكريا احمد (مصر)</span>
                                 </div>
                             </label>
                         </div>

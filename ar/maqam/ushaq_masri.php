@@ -72,8 +72,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Dawr Ahibb Ashufak (1930)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab</span>
+                                    <b>دور احبّ اشوفك كل يوم (١٩٣٠)</b>
+                                    <span>غناء والحان محمد  عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -84,8 +84,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ba‘d el-Khisam</b>
-                                    <span>Sheikh Abu el-‘Ila Muhammad</span>
+                                    <b>اغنية بعد الخصام</b>
+                                    <span>غناء والحان الشيخ ابو العلا محمد (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -96,8 +96,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Layali Nahawand</b>
-                                    <span>Sheikh Abu el-‘Ila Muhammad</span>
+                                    <b>ليالي مقام نهاوند</b>
+                                    <span>غناء الشيخ ابو العلا محمد (مصر)</span>
                                 </div>
                             </label>
                         </div>
