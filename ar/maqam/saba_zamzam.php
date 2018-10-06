@@ -115,9 +115,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Bint el-Sultan</b>
-                                    <span>Ahmad ‘Adaweyah</span>
-                                    <span>Music by Hassan Abu al-Su‘ud</span>
+                                    <b>اغنية يا بنت السلطان</b>
+                                    <span>غناء احمدى عدوية</span>
+                                    <span>الحان حسن ابو السعود</span>
                                 </div>
                             </label>
                         </div>

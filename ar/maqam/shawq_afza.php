@@ -72,9 +72,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Lissa Fakir (1963)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music by Riyad al-Sunbati</span>
+                                    <b>اغنية لسّه فاكر (١٩٥٣)</b>
+                                    <span>ام كلثوم</span>
+                                    <span>الحان رياض السنباطي</span>
                                 </div>
                             </label>
                         </div>
@@ -85,9 +85,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>‘Ala Allah T‘ud (1970)</b>
-                                    <span>Wadih al-Safi</span>
-                                    <span>Music by Farid al-Atrash</span>
+                                    <b>على الله تعود (١٩٧٠)</b>
+                                    <span>وديع الصافي (لبنان)</span>
+                                    <span>الحان فريد الاطرش</span>
                                 </div>
                             </label>
                         </div>
@@ -98,9 +98,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Longa ‘Ajam</b>
-                                    <span>Music By Abdu Daghir</span>
-                                    <span><img src="/img/cd.png"> Malik al-Taqasim</span>
+                                    <b>لونجا عجم</b>
+                                    <span>الحان عبده داغر (مصر)</span>
+                                    <span><img src="/img/cd.png"> اسطوانة ملك التقاسيم</span>
                                 </div>
                             </label>
                         </div>
