@@ -77,9 +77,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Ya Shadi al-Alhan</b>
-                                    <span>Sabah Fakhri</span>
-                                    <span>Music by Sayyed Darwish</span>
+                                    <b>موشّح يا شادي الالحان</b>
+                                    <span>غناء صباح فخري (سوريا)</span>
+                                    <span>الحان الشيخ سيّد درويش (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -90,9 +90,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Mala al-Kasat</b>
-                                    <span>Al-Kindi Ensemble</span>
-                                    <span>Music by Muhammad ‘Uthman</span>
+                                    <b>موشّح ملا الكاسات وسقاني</b>
+                                    <span>فرقة الكندي</span>
+                                    <span>الحان محمد عثمان</span>
                                 </div>
                             </label>
                         </div>
@@ -103,9 +103,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ya ‘Udhayb al-Marshaf</b>
-                                    <span>Orientalia</span>
-                                    <span>Music by Sayyed Darwish</span>
+                                    <b>موشّح يا عُذيب المرشف</b>
+                                    <span>اوريانتاليا</span>
+                                    <span>الحان الشيخ سيّد درويش (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -116,9 +116,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Waraqu el-Asfar Shahr Aylul</b>
-                                    <span>Fairouz</span>
-                                    <span>Music by Philemon Wehbe</span>
+                                    <b>ورقو الاصفر شهر ايلول</b>
+                                    <span>فيروز</span>
+                                    <span>الحان فيلمون وهبي (لبنان)</span>
                                 </div>
                             </label>
                         </div>
@@ -129,8 +129,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qasidat Salabat Su‘ad</b>
-                                    <span>Muhammad Khayri</span>
+                                    <b>قصيدة سلبت سعادً</b>
+                                    <span>غناء المطرب محمد خيري (حلب)</span>
                                 </div>
                             </label>
                         </div>
@@ -141,8 +141,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Layali Rast</b>
-                                    <span>‘Abbas al-Bleidi</span>
+                                    <b>ليالي راست</b>
+                                    <span>غناء عباس البليدي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -153,9 +153,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Lah Tilaw‘ini (1938)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad al-Qasabgi</span>
+                                    <b>اغنية ليه تلوعيني (١٩٣٨)</b>
+                                    <span>ام كلثوم</span>
+                                    <span>الحان محمد القصبجي</span>
                                 </div>
                             </label>
                         </div>
@@ -166,9 +166,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dulab Rast</b>
-                                    <span>Sabah Fakhri</span>
-                                    <span><img src="/img/cd.png"> Live Au Palais Des Congres</span>
+                                    <b>دولاب راست</b>
+                                    <span>صباح فخري</span>
+                                    <span><img src="/img/cd.png"> من تسجيل حي في قصر المؤتمرات - باريس</span>
                                 </div>
                             </label>
                         </div>
@@ -179,9 +179,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Rast George Michel (Egypt)</b>
-                                    <span>Al-Kindi Ensemble</span>
-                                    <span><img src="/img/cd.png"> The Aleppian Music Room Vol. 2 (Rast)</span>
+                                    <b>سماعي راست</b>
+                                    <span>فرقة الكندي</span>
+                                    <span>الحان جورج ميشيل (مصر)</span>
+                                    <span><img src="/img/cd.png">حجرة الموسيقى الحلبية - الجزء الثاني (مقام راست)</span>
                                 </div>
                             </label>
                         </div>

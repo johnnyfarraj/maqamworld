@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>مقام صَبا زَمزَم</h1>
-                        <h3>(not part of a maqam family)</h3>
+                        <h3>(لا ينتمي لأي عائلة مقامية)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل المقامات</a>
                     <div class="clearfix"></div>
@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
 
                     <h5>مقام صَبا زَمزَم is a rare maqam in the Arabic repertory. Its scale starts with <a href="../jins/saba_zamzam.php">Jins Saba Zamzam</a> on the <em>tonic</em>, overlapped by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 3<sup>rd</sup> degree, followed by either <a href="../jins/ajam.php">Jins ‘Ajam</a> or <a href="../jins/nikriz.php">Jins Nikriz</a> on the 6<sup>th</sup> degree. 
 		</h5>
-                    <h5>مقام صَبا زَمزَم is not part of a family.</h5>
+                    <h5>مقام صَبا زَمزَم لا ينتمي لأي عائلة.</h5>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -76,9 +76,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sawwah (1966)</b>
-                                    <span>Abdel Halim Hafez</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <b>اغنية سوّاح (١٩٦٦)</b>
+                                    <span>عبد الحليم حافظ</span>
+                                    <span>الحان بليغ حمدي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -89,9 +89,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Amal Hayati (1965)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <b>اغنية امل حياتي (١٩٦٥)</b>
+                                    <span>امّ كلثوم</span>
+                                    <span>الحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -102,9 +102,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>‘Ala Hisb Widad Galbi (1963)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <b>اغنية على حسب وداد قلبي (١٩٦٣)</b>
+                                    <span>عبد الحليم حافظ</span>
+                                    <span>الحان بليغ حمدي (مصر)</span>
                                 </div>
                             </label>
                         </div>

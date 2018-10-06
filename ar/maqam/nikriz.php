@@ -73,9 +73,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" checked>
                                 <div class="info">
-                                    <b>Ya Msahharni (1972)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music by Sayyed Makkawi</span>
+                                    <b>اغنية يا مسهّرني (١٩٧٢)</b>
+                                    <span>ام كلثوم</span>
+                                    <span>الحان سيّد مكّاوي</span>
                                 </div>
                             </label>
                         </div>
@@ -86,9 +86,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ba‘id ‘Annak (1965)</b>
-                                    <span>Umm Kuthum</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <b>اغنية بعيد عنّك (١٩٦٥)</b>
+                                    <span>ام كلثوم</span>
+                                    <span>الحان بليغ حمدي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -99,8 +99,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr il-Alb Yama Intazar (1931)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab</span>
+                                    <b>دور القلب ياما انتظر (١٩٣١)</b>
+                                    <span>غناء والحان محمد عبد الوهاب</span>
                                 </div>
                             </label>
                         </div>
@@ -111,8 +111,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Saga al-Laylu (1939)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab</span>
+                                    <b>اغنية سجى الليل (١٩٣٩)</b>
+                                    <span>غناء والحان محمد عبد الوهاب</span>
                                 </div>
                             </label>
                         </div>
@@ -123,9 +123,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Bayna Qasiyun Wa Rabwa</b>
-                                    <span>Hassan al-Haffar</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
+                                    <b>موشّح بين قاسيون وربوة</b>
+                                    <span>غناء المنشد حسن الحفار (حلب)</span>
+                                    <span>الحان عمر البطش (سوريا)</span>
                                 </div>
                             </label>
                         </div>
@@ -136,9 +136,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Zarani Taht al-Ghayahib</b>
-                                    <span>Muhammad Khayri</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
+                                    <b>موشّح زارني تحت الغياهب</b>
+                                    <span>غناء محمد خيري (حلب)</span>
+                                    <span>الحان عمر البطش (سوريا)</span>
                                 </div>
                             </label>
                         </div>
@@ -149,9 +149,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr Yalli Qawamak Ya‘gibni</b>
-                                    <span>Karem Mahmoud</span>
-                                    <span>Music by Sayyed Darwish</span>
+                                    <b>دور ياللي قوامك يعجبني</b>
+                                    <span>غناء كارم محمود (مصر)</span>
+                                    <span>الحان الشيخ سيد درويش (مصر)</span>
                                 </div>
                             </label>
                         </div>

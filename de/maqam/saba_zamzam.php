@@ -108,7 +108,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>‘Ala Hisb Widad Galbi (1963)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>Abdel Halim Hafez</span>
                                     <span>Musik von Baligh Hamdi</span>
                                 </div>
                             </label>

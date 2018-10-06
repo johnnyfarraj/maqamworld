@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>مقام صَبا</h1>
-                        <h3>(not part of a maqam family)</h3>
+                        <h3>(لا ينتمي لأي عائلة مقامية)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل المقامات</a>
                     <div class="clearfix"></div>
@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
 
                     <h5>مقام صَبا is a very popular and common maqam in the Arabic repertory. Its scale starts with <a href="../jins/saba.php">Jins Saba</a> on the <em>tonic</em>, overlapped by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 3<sup>rd</sup> degree, followed by either <a href="../jins/ajam.php">Jins ‘Ajam</a> or <a href="../jins/nikriz.php">Jins Nikriz</a> on the 6<sup>th</sup> degree. 
 		</h5>
-		<h5>مقام صَبا is not part of a family.</h5>
+		<h5>مقام صَبا  لا ينتمي لأي عائلة.</h5>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -76,8 +76,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dulab, Taqsim Nay &amp; Layai Saba</b>
-                                    <span>Sabri al-Mudallal</span>
+                                    <b>دولاب، تقسيم على الناي وليالي مقام صبا</b>
+                                    <span>غناء صبري المدلل (حلب)</span>
                                 </div>
                             </label>
                         </div>
@@ -88,9 +88,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>al-Atlal (1966)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music by Riyad al-Sunbati</span>
+                                    <b>اغنية الاطلال (١٩٦٦)</b>
+                                    <span>امّ كلثوم</span>
+                                    <span>الحان رياض السنباطي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -101,9 +101,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Huwwa Sahih il-Hawa Ghallab (1960)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music by Zakariyya Ahmad</span>
+                                    <b>اغنية هو صحيح الهوى غلّاب (١٩٦٠(</b>
+                                    <span>امّ كلثوم</span>
+                                    <span>الحان زكريا احمد</span>
                                 </div>
                             </label>
                         </div>
@@ -114,8 +114,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ahwa Qamaran</b>
-                                    <span>Ghada Shbeir</span>
+                                    <b>موشّح اهوى قمراً</b>
+                                    <span>غناء غادة شبير (لبنان)</span>
                                 </div>
                             </label>
                         </div>
@@ -126,8 +126,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ghuddi Jufunik</b>
-                                    <span>Khaled al-Hafez</span>
+                                    <b>موشّح غضّي جفونك</b>
+                                    <span>غناء خالد الحافظ (سوريا)</span>
                                 </div>
                             </label>
                         </div>
@@ -138,9 +138,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qadd Ya m-Asâ€˜adek Sabahiyya</b>
-                                    <span>Sabah Fakhri</span>
-                                    <span>(Traditional Melody)</span>
+                                    <b>قد يا ماسعدك صباحية</b>
+                                    <span>غناء صباح فخري (سوريا)</span>
+                                    <span>(اللحن قديم)</span>
                                 </div>
                             </label>
                         </div>
@@ -151,9 +151,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Tishuf Umuri (1930)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad al-Qasabgi</span>
+                                    <b>اغنية تشوف اموري (١٩٣٠)</b>
+                                    <span>امّ كلثوم</span>
+                                    <span>الحان محمد القصبجي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -164,8 +164,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Samaâ€˜i Saba</b>
-                                    <span>Music by Youssef Kassab</span>
+                                    <b>سماعي صبا</b>
+                                    <span>الحان يوسف كسّاب (سوريا)</span>
                                 </div>
                             </label>
                         </div>

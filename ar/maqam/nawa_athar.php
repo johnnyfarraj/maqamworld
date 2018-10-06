@@ -29,7 +29,7 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>مقام نَو أثر</h1>
+                        <h1>مقام نَو أثَر</h1>
                         <h3>من <a href="f_nikriz.php">عائلة مقام النِكريز</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل المقامات</a>
@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="327,147,480,180" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <h5>مقام نَو أثر is another popular maqam in the Nikriz Family. Its scale starts with the root <a href="../jins/nikriz.php">Jins Nikriz</a> on the <em>tonic</em>, followed by <a href="../jins/hijazkar.php">Jins Hijazkar</a> centered on the 5<sup>th</sup> degree. </h5>
+                    <h5>مقام نَو أثَر is another popular maqam in the Nikriz Family. Its scale starts with the root <a href="../jins/nikriz.php">Jins Nikriz</a> on the <em>tonic</em>, followed by <a href="../jins/hijazkar.php">Jins Hijazkar</a> centered on the 5<sup>th</sup> degree. </h5>
 		<br>
                     <h5>انظر الى مقامات اخرى في <a href="f_nikriz.php">عائلة مقام النِكريز</a>.</h5>
 
@@ -71,9 +71,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Gulubti Asalih Fi Rouhi (1948)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music by Riyad al-Sunbati</span>
+                                    <b>اغنية غًلًبت اصالح في روحي (١٩٤٨)</b>
+                                    <span>ام كلثوم</span>
+                                    <span>الحان رياض السنباطي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -84,8 +84,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" checked>
                                 <div class="info">
-                                    <b>Gamil Gamal (1952)</b>
-                                    <span>Vocals and Music by Farid al-Atrash</span>
+                                    <b>اغنية جميل جمال (١٩٥٢)</b>
+                                    <span>غناء والحان فريد الاطرش (سوريا)</span>
                                 </div>
                             </label>
                         </div>
@@ -96,9 +96,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Fakkaruni (1966)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <b>اغنية فكّروني (١٩٦٦)</b>
+                                    <span>ام كلثوم</span>
+                                    <span>الحان محمد عبد الوهاب</span>
                                 </div>
                             </label>
                         </div>
@@ -109,9 +109,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Adhkuru al-Hubba</b>
-                                    <span>Abdel Halim Noueirah Ensemble</span>
-                                    <span>Music by Dawud Husni</span>
+                                    <b>موشّح اذكًر الحبَّ</b>
+                                    <span>فرقة الموسيقى العربية (مصر)</span>
+                                    <span>بقيادة عبد الحليم نويرة</span>
+                                    <span>الحان داوود حسني (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -122,9 +123,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Nawa Athar</b>
-                                    <span>Syrian Ensemble of Homs</span>
-                                    <span>Music by Jamil ‘Uways (Syria)</span>
+                                    <b>سماعي نو اثر</b>
+                                    <span>فرقة الموسيقى السورية من حمص</span>
+                                    <span>الحان جميل عويس</span>
                                 </div>
                             </label>
                         </div>
@@ -135,9 +136,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dulab Nawa Athar</b>
-                                    <span>George Abyad</span>
-                                    <span><img src="/img/cd.png"> Impovisations Orientales</span>
+                                    <b>دولاب نو اثر</b>
+                                    <span>فرقة جورج ابيض (لبنان)</span>
+                                    <span><img src="/img/cd.png"> اسطوانة تقاسيم شرقية</span>
                                 </div>
                             </label>
                         </div>
