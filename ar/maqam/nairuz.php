@@ -116,7 +116,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ghannili Shwayy Shwayy (1945)</b>
                                     <span>امّ كلثوم</span>
-                                    <span>Music by Zakariyya Ahmad</span>
+                                    <span>الحان الشيخ زكريا احمد (مصر)</span>
                                 </div>
                             </label>
                         </div>

@@ -74,7 +74,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Ya Msafir w Albi Ma‘ak (1950)</b>
+                                    <b>اغنية يا مسافر وقلبي معاك (١٩٥٠)</b>
                                     <span>غناء ليلى مُراد (مصر)</span>
                                     <span>الحان احمد صدقي (مصر)</span>
                                 </div>
@@ -87,9 +87,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>el-Hana wel-Widd (1975)</b>
+                                    <b>اغنية الهنا والوِدّ (١٩٧٥)</b>
                                     <span>غناء ليلى مُراد (مصر)</span>
-                                    <span>Music by Abdel Mun‘im al-Hariri</span>
+                                    <span>الحان عبد المنعم الحريري (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -115,8 +115,8 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>سماعي حجازكار كرد</b>
                                     <span>فرقة الكندي (سوريا\فرنسا)</span>
-                                    <span><img src="/img/cd.png"> The Whirling Dervishes of Damascus Vol. 2</span>
                                     <span>الحان صالح المهدي (تونس)</span>
+                                    <span><img src="/img/cd.png"> أسطوانة دراويش دمشق – الجزء الثاني</span>
                                 </div>
                             </label>
                         </div>
@@ -127,9 +127,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Oud</b>
+                                    <b>تقسيم عود</b>
                                     <span>الحان رياض السنباطي (مصر)</span>
-                                    <span><img src="/img/cd.png"> Taqaseem Oud</span>
+                                    <span><img src="/img/cd.png"> أسطوانة تقاسيم عود</span>
                                 </div>
                             </label>
                         </div>

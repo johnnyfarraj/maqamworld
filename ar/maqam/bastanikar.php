@@ -78,8 +78,8 @@ Its scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Zalamu (1957)</b>
-                                    <span>Abdel Halim Hafez</span>
+                                    <b>اغنية ظلموه (١٩٥٧)</b>
+                                    <span>غناء عبد الحليم حافظ (مصر)</span>
                                     <span>الحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
@@ -91,9 +91,9 @@ Its scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ahl el-Hawa (1958)</b>
+                                    <b>اغنية اهل الهوى (١٩٥٨)</b>
                                     <span>امّ كلثوم</span>
-                                    <span>Music by Zakariyya Ahmad</span>
+                                    <span>الحان الشيخ زكريا احمد (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -104,7 +104,7 @@ Its scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Inti Fakrani (1938)</b>
+                                    <b>اغنية انتِ فاكراني (١٩٣٨)</b>
                                     <span>امّ كلثوم</span>
                                     <span>الحان محمد القصبجي (مصر)</span>
                                 </div>
@@ -131,10 +131,10 @@ Its scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Aqbala al-Subhu Yughanni</b>
+                                    <b>موشّح اقبل الصبح يغنّي</b>
                                     <span>فرقة اورنينا (سوريا)</span>
                                     <span>Director د. محمد قدري دلال  (حلب)</span>
-                                    <span>الحان بكري الكردي (سوريا)/span>
+                                    <span>الحان بكري الكردي (سوريا)</span>
                                 </div>
                             </label>
                         </div>
@@ -145,8 +145,8 @@ Its scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Nuzhatu al-Arwahi Badri</b>
-                                    <span>(performer unknown)</span>
+                                    <b>موشّح نزهة الأرواح بدري</b>
+                                    <span>(المغنّي مجهول)</span>
                                 </div>
                             </label>
                         </div>
@@ -157,7 +157,7 @@ Its scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Oud in مقام بَسته نِكار</b>
+                                    <b>تقاسيم عود مقام بَسته نِكار</b>
                                     <span>د. محمد قدري دلال  (حلب)</span>
                                     <span><img src="/img/cd.png"> أسطوانة المقامات الغريبة</span>
                                 </div>
@@ -170,9 +170,9 @@ Its scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Oud in مقام سيكاه</b>
+                                    <b>تقاسيم عود مقام سيكاه</b>
                                     <span>رياض السنباطي (مصر)</span>
-                                    <span><img src="/img/cd.png"> Taqasim Oud</span>
+                                    <span><img src="/img/cd.png"> أسطوانة تقاسيم عود</span>
                                 </div>
                             </label>
                         </div>

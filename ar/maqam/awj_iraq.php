@@ -78,8 +78,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Ya Samiri Da‘a Sabri</b>
-                                    <span>Muhammad Khayri</span>
+                                    <b>موشّح يا سميري ضاع صبري</b>
+                                    <span>المطرب محمد خيري (حلب)</span>
                                 </div>
                             </label>
                         </div>
@@ -90,8 +90,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Hayya Wa Nadim</b>
-                                    <span>Samer Nashar</span>
+                                    <b>موشّح هيّا وا نديمِ</b>
+                                    <span>فرقة سامر نشّار (سوريا)</span>
                                 </div>
                             </label>
                         </div>

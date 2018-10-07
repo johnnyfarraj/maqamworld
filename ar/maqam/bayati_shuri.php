@@ -75,8 +75,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Sama‘i Bayati Shuri</b>
-                                    <span>Nagham al-Ams Vol. 2 (Bayati Shuri)</span>
+                                    <b>سماعي بياتي شوري</b>
+                                    <span>(الملحّن مجهول)</span>
+                                    <span>نغم الامس - الجزء الثاني (بياتي شوري)</span>
                                 </div>
                             </label>
                         </div>
@@ -87,8 +88,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Violin in مقام بياتي شُوري</b>
-                                    <span>Nagham al-Ams Vol. 2 (Bayati Shuri)</span>
+                                    <b>تقسيم على الكمان - مقام بياتي شُوري</b>
+                                    <span>فرقة صباح فخري (حلب)</span>
+                                    <span>نغم الامس - الجزء الثاني (بياتي شوري)</span>
                                 </div>
                             </label>
                         </div>
@@ -99,10 +101,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Hibbi Da‘ani Lil-Wisal</b>
+                                    <b>موشّح حِبّي دعاني للوصال</b>
                                     <span>المطرب صباح فخري (حلب)</span>
                                     <span>الحان الشيخ سيّد درويش (مصر)</span>
-                                    <span>Nagham al-Ams Vol. 2 (Bayati Shuri)</span>
+                                    <span>نغم الامس - الجزء الثاني (بياتي شوري)</span>
                                 </div>
                             </label>
                         </div>
@@ -113,9 +115,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Talaffata al-Dhabiyu</b>
+                                    <b>موشّح تلفّتَ الظبيُ</b>
                                     <span>المطرب صباح فخري (حلب)</span>
-                                    <span>Nagham al-Ams Vol. 2 (Bayati Shuri)</span>
+                                    <span>نغم الامس - الجزء الثاني (بياتي شوري)</span>
                                 </div>
                             </label>
                         </div>
@@ -126,8 +128,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr Dayya‘ti Mustaqbal Hayati</b>
-                                    <span>Music and Vocals by Sayyed Darwish</span>
+                                    <b>دور ضيّعتِ مستقبل حياتي</b>
+                                    <span>غناء والحان سيّد درويش (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -138,8 +140,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qadd Ah Ya Hilu</b>
-                                    <span>Nay Barghouti</span>
+                                    <b>قدّ آه يا حلو</b>
+                                    <span>(من التراث الشعبي السوري)</span>
+                                    <span>غناء ناي برغوتي (فلسطين)</span>
                                 </div>
                             </label>
                         </div>
@@ -150,8 +153,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qadd Habibi Ghab</b>
-                                    <span>Muhammad Khayri</span>
+                                    <b>قدّ حبيبي غاب</b>
+                                    <span>(من التراث الشعبي السوري)</span>
+                                    <span>المطرب محمد خيري (حلب)</span>
                                 </div>
                             </label>
                         </div>
@@ -162,9 +166,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Qanun in مقام بياتي شُوري</b>
-                                    <span>Maria Jubran</span>
-                                    <span>Wasla in Bayati Shuri</span>
+                                    <b>تقسيم على القانون - مقام بياتي شُوري</b>
+                                    <span>فرقة ماري جبران (سوريا)</span>
+                                    <span>من وصلة في مقام بياتي شُوري</span>
                                 </div>
                             </label>
                         </div>
