@@ -76,8 +76,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Ya Hilalan</b>
-                                    <span>Firqat al-Musiqa al-Arabiyya (Egypt)</span>
+                                    <b>موشّح يا هلالاً</b>
+                                    <span>فرقة الموسيقى العربية (مصر)</span>
+                                    <span>بقيادة عبد الحليم نويرة</span>
                                 </div>
                             </label>
                         </div>
@@ -88,8 +89,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Mubarqa'u al-Jamal</b>
-                                    <span>Hasan al-Haffar</span>
+                                    <b>موشّح مُبرقع الجمال</b>
+                                    <span>المنشد الحلبي حسن الحفّار</span>
                                     <span>الحان عمر البطش (حلب)</span>
                                 </div>
                             </label>
@@ -101,8 +102,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr Asl il-Gharam (1945)</b>
-                                    <span>Nour el-Hoda</span>
+                                    <b>دور اصل الغرام نظرة (١٩٤٥)</b>
+                                    <span>غناء نور الهدى (لبنان)</span>
                                     <span>الحان محمد عثمان (مصر)</span>
                                 </div>
                             </label>
@@ -114,7 +115,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ghannili Shwayy Shwayy (1945)</b>
+                                    <b>اغنية غني لي شوية شوية (١٩٤٥)</b>
                                     <span>امّ كلثوم</span>
                                     <span>الحان الشيخ زكريا احمد (مصر)</span>
                                 </div>

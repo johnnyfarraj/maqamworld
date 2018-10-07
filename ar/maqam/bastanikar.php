@@ -158,7 +158,7 @@ Its scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>تقاسيم عود مقام بَسته نِكار</b>
-                                    <span>د. محمد قدري دلال  (حلب)</span>
+                                    <span>د. محمد قدري دلال (حلب)</span>
                                     <span><img src="/img/cd.png"> أسطوانة المقامات الغريبة</span>
                                 </div>
                             </label>

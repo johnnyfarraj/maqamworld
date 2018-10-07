@@ -92,7 +92,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشّح ملا الكاسات وسقاني</b>
                                     <span>فرقة الكندي</span>
-                                    <span>الحان محمد عثمان</span>
+                                    <span>الحان محمد عثمان (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -129,7 +129,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>قصيدة سلبت سعادً</b>
+                                    <b>قصيدة سلبَت سعادً</b>
                                     <span>غناء المطرب محمد خيري (حلب)</span>
                                 </div>
                             </label>

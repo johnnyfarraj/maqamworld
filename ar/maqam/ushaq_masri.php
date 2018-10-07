@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية بعد الخصام</b>
-                                    <span>غناء والحان الشيخ ابو العلا محمد (مصر)</span>
+                                    <span>غناء والحان الشيخ ابو العِلا محمد (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>ليالي مقام نهاوند</b>
-                                    <span>غناء الشيخ ابو العلا محمد (مصر)</span>
+                                    <span>غناء الشيخ ابو العِلا محمد (مصر)</span>
                                 </div>
                             </label>
                         </div>

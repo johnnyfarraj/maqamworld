@@ -150,7 +150,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>تقسيم بزق زنجران</b>
+                                    <b>تقسيم بُزق زنجران</b>
                                     <span>محمد عبد الكريم (سوريا)</span>
                                 </div>
                             </label>

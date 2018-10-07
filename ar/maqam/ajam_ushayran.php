@@ -73,7 +73,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mموشّح ايقظَ الحبّ فؤادي</b>
+                                    <b>موشّح ايقظَ الحبّ فؤادي</b>
                                     <span>المنشد الحلبي حسن الحفّار</span>
                                     <span>الحان بهجت حسن</span>
                                     <span><img src="/img/cd.png"> أسطوانة وصلات حلبية – الجزء الثاني</span>

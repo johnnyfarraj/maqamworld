@@ -140,8 +140,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Oud Athar Kurd</b>
-                                    <span>د. محمد قدري دلال  (حلب)</span>
+                                    <b>تقسيم على العود - مقام أثر كُرد</b>
+                                    <span>د. محمد قدري دلال (حلب)</span>
                                     <span><img src="/img/cd.png"> أسطوانة المقامات الغريبة</span>
                                 </div>
                             </label>
