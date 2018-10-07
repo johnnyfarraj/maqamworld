@@ -165,7 +165,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Taqsim Qanun in Maqam Bayati Shuri</b>
-                                    <span>Maria Jubran</span>
+                                    <span>Marie Jubran</span>
                                     <span>Wasla in Bayati Shuri</span>
                                 </div>
                             </label>
