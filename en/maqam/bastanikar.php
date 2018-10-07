@@ -125,7 +125,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Muwashah Anshidi Ya Saba</b>
                                     <span>Palestininan National Arabic Orchestra</span>
                                     <span>Director Ramzi Abu Radwan</span>
-                                    <span>Music by Yehiya al-Saâ€˜udi</span>
+                                    <span>Music by Yehiya al-Sa‘udi</span>‘
                                 </div>
                             </label>
                         </div>
