@@ -76,7 +76,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Bil-ladhi Askara</b>
-                                    <span>Sabah Fakhri</span>
+                                    <span>المطرب صباح فخري (حلب)</span>
                                     <span>Nagham al-Ams Vol. 12 (Bayati)</span>
                                 </div>
                             </label>

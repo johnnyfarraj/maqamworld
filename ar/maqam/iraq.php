@@ -86,7 +86,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Jalla Man Ansha Jamalak</b>
-                                    <span>Ensemble Ornina with Muhammad Qadri Dalal</span>
+                                    <span>فرقة اورنينا (سوريا) with د. محمد قدري دلال  (حلب)</span>
                                 </div>
                             </label>
                         </div>

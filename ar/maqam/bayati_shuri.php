@@ -100,8 +100,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Hibbi Da‘ani Lil-Wisal</b>
-                                    <span>Sabah Fakhri</span>
-                                    <span>Music by Sayyed Darwish</span>
+                                    <span>المطرب صباح فخري (حلب)</span>
+                                    <span>الحان الشيخ سيّد درويش (مصر)</span>
                                     <span>Nagham al-Ams Vol. 2 (Bayati Shuri)</span>
                                 </div>
                             </label>
@@ -114,7 +114,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Talaffata al-Dhabiyu</b>
-                                    <span>Sabah Fakhri</span>
+                                    <span>المطرب صباح فخري (حلب)</span>
                                     <span>Nagham al-Ams Vol. 2 (Bayati Shuri)</span>
                                 </div>
                             </label>

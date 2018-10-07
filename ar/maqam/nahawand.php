@@ -78,7 +78,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Balad el-Mahbub (1951)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab</span>
+                                    <span>غناء والحان محمد عبد الوهاب</span>
                                 </div>
                             </label>
                         </div>
@@ -103,7 +103,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dhikrayati (1944)</b>
-                                    <span>Music by Muhammad al-Qasabgi</span>
+                                    <span>الحان محمد القصبجي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -115,7 +115,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Hat Isqiniha</b>
-                                    <span>Hassan al-Haffar</span>
+                                    <span>المنشد الحلبي حسن الحفّار</span>
                                     <span>Music by Yehya al-Sa‘udi</span>
                                     <span><img src="/img/cd.png"> The Aleppo Suites</span>
                                 </div>
@@ -169,7 +169,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Longa Farahfaza</b>
                                     <span>Simon Shaheen Ensemble</span>
-                                    <span>Music by Riyad al-Sunbati</span>
+                                    <span>Music by الحان رياض السنباطي (مصر)</span>
                                 </div>
                             </label>
                         </div>

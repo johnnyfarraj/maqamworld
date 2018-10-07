@@ -73,10 +73,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Ayqadha al-Hubbu Fu'adi</b>
-                                    <span>Hassan al-Haffar</span>
-                                    <span><img src="/img/cd.png"> The Aleppo Suites Vol.2</span>
-                                    <span>Music by Bahjat Hassan</span>
+                                    <b>Mموشّح ايقظَ الحبّ فؤادي</b>
+                                    <span>المنشد الحلبي حسن الحفّار</span>
+                                    <span>الحان بهجت حسن</span>
+                                    <span><img src="/img/cd.png"> أسطوانة وصلات حلبية – الجزء الثاني</span>
                                 </div>
                             </label>
                         </div>
@@ -87,9 +87,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Da‘i al-Hawa Qad Sah</b>
-                                    <span>Sabah Fakhri</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
+                                    <b>موشّح داعي الهوى قد صاح</b>
+                                    <span>المطرب صباح فخري (حلب)</span>
+                                    <span>الحان عمر البطش (حلب)</span>
                                 </div>
                             </label>
                         </div>
@@ -100,9 +100,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>el-Hobbi Fi Albi Amana</b>
-                                    <span>Fathiyya Ahmad</span>
-                                    <span>Music By Muhammad al-Qasabgi</span>
+                                    <b>اغنية الحب في قلبي امانة</b>
+                                    <span>غناء فتحية احمد (مصر)</span>
+                                    <span>الحان محمد القصبجي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -113,8 +113,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ma Li ‘Ayni Absarat</b>
-                                    <span>Sabah Fakhri</span>
+                                    <b>موشّح ما لعيني ابصرَت</b>
+                                    <span>المطرب صباح فخري (حلب)</span>
                                 </div>
                             </label>
                         </div>

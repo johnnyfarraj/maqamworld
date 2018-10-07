@@ -77,7 +77,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Tif Ya Durri</b>
                                     <span>Orientalia</span>
-                                    <span>Music by Sayyed Darwish/‘Umar al-Batsh</span>
+                                    <span>الحان الشيخ سيّد درويش (مصر)/‘Umar al-Batsh</span>
                                 </div>
                             </label>
                         </div>
@@ -102,7 +102,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Ya Dhal-Qawam al-Samhari</b>
-                                    <span>Sabah Fakhri</span>
+                                    <span>المطرب صباح فخري (حلب)</span>
                                     <span><img src="/img/cd.png"> Au Palais Des Congrès</span>
                                 </div>
                             </label>

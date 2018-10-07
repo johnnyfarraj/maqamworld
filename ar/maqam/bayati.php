@@ -81,8 +81,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>‘Ala Balad el-Mahbub Waddini (1935)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music by Riyad al-Sunbati</span>
+                                    <span>امّ كلثوم</span>
+                                    <span>Music by الحان رياض السنباطي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -94,7 +94,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Akun Sa‘id (1932)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>امّ كلثوم</span>
                                     <span>Music by Zakariyya Ahmad</span>
                                 </div>
                             </label>
@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Lamma-nta Nawi (1929)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab</span>
+                                    <span>غناء والحان محمد عبد الوهاب</span>
                                 </div>
                             </label>
                         </div>

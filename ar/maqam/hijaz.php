@@ -108,7 +108,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mudnaka Gafahu Marqaduhu (1938)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab</span>
+                                    <span>غناء والحان محمد عبد الوهاب</span>
                                 </div>
                             </label>
                         </div>
@@ -145,7 +145,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Qasida Mawlaya Ajfani</b>
-                                    <span>Sabah Fakhri</span>
+                                    <span>المطرب صباح فخري (حلب)</span>
                                     <span>From Fasil Isqi al-‘Itash</span>
                                 </div>
                             </label>
@@ -158,7 +158,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Qadduka al-Mayyas</b>
-                                    <span>Sabah Fakhri</span>
+                                    <span>المطرب صباح فخري (حلب)</span>
                                     <span>Nagham al-Ams Vol. 14 Hijaz</span>
                                 </div>
                             </label>
@@ -184,7 +184,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dulab and Nay Taqsim Hijaz</b>
-                                    <span>Sabah Fakhri</span>
+                                    <span>المطرب صباح فخري (حلب)</span>
                                     <span>Nagham al-Ams Vol. 14 Hijaz</span>
                                 </div>
                             </label>
@@ -197,7 +197,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dulab Hijaz</b>
-                                    <span>Sabah Fakhri</span>
+                                    <span>المطرب صباح فخري (حلب)</span>
                                     <span><img src="/img/cd.png"> Mawawil and Mouwashahat</span>
                                 </div>
                             </label>

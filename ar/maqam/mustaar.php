@@ -87,8 +87,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Haramuha Minni</b>
-                                    <span>Fathiyya Ahmad</span>
-                                    <span>Music by Muhammad al-Qasabgi</span>
+                                    <span>غناء فتحية احمد (مصر)</span>
+                                    <span>الحان محمد القصبجي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -100,8 +100,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Raqq el-Habib (1944)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music By Muhammad al-Qasabgi</span>
+                                    <span>امّ كلثوم</span>
+                                    <span>الحان محمد القصبجي (مصر)</span>
                                 </div>
                             </label>
                         </div>

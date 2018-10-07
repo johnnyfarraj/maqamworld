@@ -78,9 +78,9 @@ degree (with its tonic up on the 8<sup>th</sup> degree) or <a href="../jins/naha
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Aghadan Alqak (1971)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <b>اغنية اغداً القاك (١٩٧١)</b>
+                                    <span>امّ كلثوم</span>
+                                    <span>الحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -91,8 +91,8 @@ degree (with its tonic up on the 8<sup>th</sup> degree) or <a href="../jins/naha
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>el-Bahr Biyidhak</b>
-                                    <span>Vocals and Music by Sheikh Imam</span>
+                                    <b>اغنية البحر بيضحك</b>
+                                    <span>غناء والحان الشيخ امام (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -103,9 +103,9 @@ degree (with its tonic up on the 8<sup>th</sup> degree) or <a href="../jins/naha
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Fi Youm Wi Leila (1978)</b>
-                                    <span>Warda</span>
-                                    <span>Music By Muhammad Abdel Wahab</span>
+                                    <b>اغنية في يوم وليلة (١٩٧٨)</b>
+                                    <span>المطربة وردة الجزائرية</span>
+                                    <span>الحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -116,9 +116,9 @@ degree (with its tonic up on the 8<sup>th</sup> degree) or <a href="../jins/naha
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Tal‘a Min Beit Abuha</b>
-                                    <span>Nazem al-Ghazali</span>
-                                    <span>(Iraqi Traditional)</span>
+                                    <b>اغنية طالعة من بيت ابوها</b>
+                                    <span>ناظم الغزالي (عراق)</span>
+                                    <span>(من التراث الشعبي العراقي)</span>
                                 </div>
                             </label>
                         </div>
@@ -129,9 +129,9 @@ degree (with its tonic up on the 8<sup>th</sup> degree) or <a href="../jins/naha
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Zuruni Kulli Sana Marra</b>
-                                    <span>Karem Mahmud</span>
-                                    <span>Music by Sayyed Darwish</span>
+                                    <b>اغنية زوروني كل سنة مرّة</b>
+                                    <span>كارم محمود (مصر)</span>
+                                    <span>الحان الشيخ سيّد درويش (مصر)</span>
                                 </div>
                             </label>
                         </div>

@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Kallili ya Suhbu</b>
                                     <span>Abdel Halim Noueirah Ensemble</span>
-                                    <span>Music by Muhammad ‘Uthman</span>
+                                    <span>الحان محمد عثمان (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -111,7 +111,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>‘al-Rozana</b>
-                                    <span>Sabah Fakhri</span>
+                                    <span>المطرب صباح فخري (حلب)</span>
                                     <span><img src="/img/cd.png"> Live Au Théatre Des Amandiers</span>
                                 </div>
                             </label>

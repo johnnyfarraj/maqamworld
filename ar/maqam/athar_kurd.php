@@ -75,8 +75,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Ya Msafir w Albi Ma‘ak (1950)</b>
-                                    <span>Leila Murad</span>
-                                    <span>Music by Ahmad Sidqi</span>
+                                    <span>غناء ليلى مُراد (مصر)</span>
+                                    <span>الحان احمد صدقي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -88,7 +88,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Hana wel-Widd (1975)</b>
-                                    <span>Leila Murad</span>
+                                    <span>غناء ليلى مُراد (مصر)</span>
                                     <span>Music by Abdel Mun‘im al-Hariri</span>
                                 </div>
                             </label>
@@ -100,9 +100,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Fagr Nurak Hall w Ban (c.1952)</b>
-                                    <span>Vocals by Baligh Hamdi</span>
-                                    <span>Music by Yusef Shawqi</span>
+                                    <b>اغنية يا فجر نورك طلّ وبان</b>
+                                    <span>غناء بليغ حمدي (مصر)</span>
+                                    <span>الحان يوسف شوقي</span>
                                 </div>
                             </label>
                         </div>
@@ -113,10 +113,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Hijazkar Kurd</b>
-                                    <span>Al-Kindi Ensemble</span>
+                                    <b>سماعي حجازكار كرد</b>
+                                    <span>فرقة الكندي (سوريا\فرنسا)</span>
                                     <span><img src="/img/cd.png"> The Whirling Dervishes of Damascus Vol. 2</span>
-                                    <span>Music by Salah al-Mahdi (Tunisia)</span>
+                                    <span>الحان صالح المهدي (تونس)</span>
                                 </div>
                             </label>
                         </div>
@@ -128,7 +128,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Taqsim Oud</b>
-                                    <span>Riyad El Sunbati</span>
+                                    <span>الحان رياض السنباطي (مصر)</span>
                                     <span><img src="/img/cd.png"> Taqaseem Oud</span>
                                 </div>
                             </label>
@@ -141,8 +141,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Taqsim Oud Athar Kurd</b>
-                                    <span>Muhammad Qadri Dalal</span>
-                                    <span><img src="/img/cd.png"> Maqamat Insolites</span>
+                                    <span>د. محمد قدري دلال  (حلب)</span>
+                                    <span><img src="/img/cd.png"> أسطوانة المقامات الغريبة</span>
                                 </div>
                             </label>
                         </div>

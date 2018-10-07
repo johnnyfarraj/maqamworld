@@ -76,7 +76,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Sihtu Wajdan</b>
                                     <span>Orientalia</span>
-                                    <span>Music by Sayyed Darwish</span>
+                                    <span>الحان الشيخ سيّد درويش (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -88,8 +88,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Ya Shadi al-Alhan</b>
-                                    <span>Sabah Fakhri</span>
-                                    <span>Music by Sayyed Darwish</span>
+                                    <span>المطرب صباح فخري (حلب)</span>
+                                    <span>الحان الشيخ سيّد درويش (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -101,7 +101,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Hayrana Leh (1930)</b>
-                                    <span>Leila Murad</span>
+                                    <span>غناء ليلى مُراد (مصر)</span>
                                     <span>Music by Dawud Husni</span>
                                 </div>
                             </label>

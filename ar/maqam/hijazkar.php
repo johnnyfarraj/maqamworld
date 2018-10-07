@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Ana Fi-ntizarak (1943)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>امّ كلثوم</span>
                                     <span>Music by Zakariya Ahmad</span>
                                 </div>
                             </label>
@@ -98,7 +98,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr Yama-nta Wahishni</b>
                                     <span>Abdel Halim Noueirah Ensemble</span>
-                                    <span>Music by Muhammad ‘Uthman</span>
+                                    <span>الحان محمد عثمان (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -110,8 +110,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Nas Ana Mutti Fi Hubbi</b>
-                                    <span>Sabah Fakhri</span>
-                                    <span>Music by Sayyed Darwish</span>
+                                    <span>المطرب صباح فخري (حلب)</span>
+                                    <span>الحان الشيخ سيّد درويش (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -123,7 +123,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Afdihi Dhabiyan Ibtasam</b>
-                                    <span>Sabah Fakhri</span>
+                                    <span>المطرب صباح فخري (حلب)</span>
                                     <span><img src="/img/cd.png"> Au Theatre Des Amandiers</span>
                                 </div>
                             </label>
@@ -137,7 +137,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Ya ‘Uyunan Ramiyat</b>
                                     <span>Sabri al-Mudallal</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
+                                    <span>الحان عمر البطش (حلب)</span>
                                 </div>
                             </label>
                         </div>
@@ -149,8 +149,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Maria</b>
-                                    <span>Sabah Fakhri</span>
-                                    <span>Music by Sayyed Darwish</span>
+                                    <span>المطرب صباح فخري (حلب)</span>
+                                    <span>الحان الشيخ سيّد درويش (مصر)</span>
                                 </div>
                             </label>
                         </div>

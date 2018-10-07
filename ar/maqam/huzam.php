@@ -89,7 +89,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Ayyuha al-Saqi</b>
-                                    <span>Sabah Fakhri</span>
+                                    <span>المطرب صباح فخري (حلب)</span>
                                     <span>Music by Majdi al-‘Aqili</span>
                                     <span>Nagham Al Ams Vol. 13 Huzam</span>
                                 </div>
@@ -103,7 +103,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr Emta el-Hawa (1936)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>امّ كلثوم</span>
                                     <span>Music by Zakariyya Ahmad</span>
                                 </div>
                             </label>
@@ -187,7 +187,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dulab Rahat al-Arwah</b>
-                                    <span>Sabah Fakhri</span>
+                                    <span>المطرب صباح فخري (حلب)</span>
                                     <span><img src="/img/cd.png"> Live at Beiteddine</span>
                                 </div>
                             </label>

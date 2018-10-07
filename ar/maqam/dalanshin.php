@@ -76,9 +76,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Qadd Ya Mal il-Sham</b>
-                                    <span>Sabah Fakhri</span>
-                                    <span>Music by Ahmad Abu Khalil al-Qabbani</span>
+                                    <b>قدّ يا مال الشام</b>
+                                    <span>المطرب صباح فخري (سوريا)</span>
+                                    <span>الحان احمد أبو خليل القباني (سوريا)</span>
                                 </div>
                             </label>
                         </div>
@@ -89,9 +89,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Mala el-Kasat</b>
-                                    <span>Muhammad Khayri</span>
-                                    <span>Music by Muhammad ‘Uthman</span>
+                                    <b>موشّح ملا الكاسات</b>
+                                    <span>المطرب محمد خيري (حلب)</span>
+                                    <span>الحان محمد عثمان (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -103,7 +103,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Kull Illi Habb Itnasaf (1931)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab</span>
+                                    <span>غناء والحان محمد عبد الوهاب</span>
                                 </div>
                             </label>
                         </div>
@@ -116,7 +116,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr ‘Ishna w Shufna</b>
                                     <span>Saleh Abdel Hayy</span>
-                                    <span>Music by Muhammad ‘Uthman</span>
+                                    <span>الحان محمد عثمان (مصر)</span>
                                 </div>
                             </label>
                         </div>
