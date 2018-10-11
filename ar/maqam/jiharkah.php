@@ -78,6 +78,19 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                   <div class="track " data-song="/audio/maqam/jiharkah/3ishna_w_shufna.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1" >
+                                <div class="info">
+                                    <b>Dawr ‘Ishna w Shufna</b>
+                                    <span>Saleh Abdel Hayy</span>
+                                    <span>الحان محمد عثمان (مصر)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                     <div class="track" data-song="/audio/maqam/jiharkah/samai_jiharkah.mp3">
                         <div class="radio">
                             <label>
