@@ -83,9 +83,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Ana Fi-ntizarak (1943)</b>
+                                    <b>اغنية انا في انتظارك (١٩٤٣)</b>
                                     <span>امّ كلثوم</span>
-                                    <span>Music by Zakariya Ahmad</span>
+                                    <span>الحان الشيخ زكريا احمد (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -96,8 +96,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr Yama-nta Wahishni</b>
-                                    <span>Abdel Halim Noueirah Ensemble</span>
+                                    <b>دور ياما انت واحشني</b>
+                                    <span>فرقة الموسيقى العربية (مصر)</span>
+                                    <span> بقيادة عبد الحليم نويرة</span>
                                     <span>الحان محمد عثمان (مصر)</span>
                                 </div>
                             </label>
@@ -109,7 +110,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Nas Ana Mutti Fi Hubbi</b>
+                                    <b>اغنية يا ناس انا مُتّ في حبّي</b>
                                     <span>المطرب صباح فخري (حلب)</span>
                                     <span>الحان الشيخ سيّد درويش (مصر)</span>
                                 </div>
@@ -122,9 +123,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Afdihi Dhabiyan Ibtasam</b>
+                                    <b>اغنية افديه ظبياً ابتسم</b>
                                     <span>المطرب صباح فخري (حلب)</span>
-                                    <span><img src="/img/cd.png"> Au Theatre Des Amandiers</span>
                                 </div>
                             </label>
                         </div>
@@ -135,8 +135,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ya ‘Uyunan Ramiyat</b>
-                                    <span>Sabri al-Mudallal</span>
+                                    <b>موشح يا عيوناً راميات</b>
+                                    <span>غناء صبري المدلل (حلب)</span>
                                     <span>الحان عمر البطش (حلب)</span>
                                 </div>
                             </label>
@@ -203,7 +203,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ba‘attilak Ya Habib el-Rouh</b>
                                     <span>(مقام شَدّ عَرَبان)</span>
-                                    <span>Fairouz</span>
+                                    <span>غناء فيروز (لبنان)</span>
                                     <span>Music by Ziad Rahbani</span>
                                 </div>
                             </label>

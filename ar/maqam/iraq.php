@@ -74,7 +74,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Jayin ya Arz el-Jabal</b>
-                                    <span>Wadih al-Safi</span>
+                                    <span>غناء وديع الصافي (لبنان)</span>
                                 </div>
                             </label>
                         </div>

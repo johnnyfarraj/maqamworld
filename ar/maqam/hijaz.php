@@ -82,9 +82,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Ma-Htiyali</b>
-                                    <span>Al Turath Ensemble</span>
-                                    <span><img src="/img/cd.png"> The Music In Spanish Al Andalus - Hijaz</span>
+                                    <b>موشح ما احتيالي</b>
+                                    <span>فرقة التراث بقيادة محمد حمادية</span>
+                                    <span><img src="/img/cd.png"> موسيقى الاندلس الاسباني - مقام حجاز</span>
                                 </div>
                             </label>
                         </div>
@@ -95,8 +95,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Badri Adir</b>
-                                    <span>Orientalia</span>
+                                    <b>موشح بدري ادِر</b>
+                                    <span>اوريانتاليا</span>
                                 </div>
                             </label>
                         </div>
@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mudnaka Gafahu Marqaduhu (1938)</b>
+                                    <b>اغنية مضناكَ جفاه مرقده (١٩٣٨)</b>
                                     <span>غناء والحان محمد عبد الوهاب</span>
                                 </div>
                             </label>
@@ -119,8 +119,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Hibbina (1975)</b>
-                                    <span>Vocals and Music by Farid al-Atrash</span>
+                                    <b>اغنية حبّينا (١٩٧٥)</b>
+                                    <span>غناء والحان فريد الأطرش</span>
                                 </div>
                             </label>
                         </div>
@@ -131,9 +131,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Foug el-Nakhal</b>
-                                    <span>Munir Bashir and Omar Bashir</span>
-                                    <span>(Traditional Iraqi Folklore)</span>
+                                    <b>اغنية فوق النخل</b>
+                                    <span>عزف منير وعمر بشير (عراق)</span>
+                                    <span>(من التراث الشعبي العراقي)</span>
                                 </div>
                             </label>
                         </div>
@@ -144,9 +144,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qasida Mawlaya Ajfani</b>
+                                    <b>قصيدة مولاي اجفاني جفاهنّ الكرى</b>
                                     <span>المطرب صباح فخري (حلب)</span>
-                                    <span>From Fasil Isqi al-‘Itash</span>
+                                    <span>فاصل اسقِ العطاش</span>
                                 </div>
                             </label>
                         </div>
@@ -157,9 +157,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qadduka al-Mayyas</b>
+                                    <b>اغنية قدّك الميّاس</b>
                                     <span>المطرب صباح فخري (حلب)</span>
-                                    <span>Nagham al-Ams Vol. 14 Hijaz</span>
+                                    <span>نغم الامس - الجزء الرابع عشر (مقام حجاز)</span>
                                 </div>
                             </label>
                         </div>
@@ -170,9 +170,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Hijaz</b>
-                                    <span>Al-Turath Ensemble</span>
-                                    <span>Music by Muhammad ‘Abdu</span>
+                                    <b>سماعي حجاز</b>
+                                    <span>الحان محمد عبده (مصر)</span>
+                                    <span>فرقة التراث بقيادة محمد حمادية</span>
+                                    <span><img src="/img/cd.png"> موسيقى الاندلس الاسباني - مقام حجاز</span>
                                 </div>
                             </label>
                         </div>
@@ -183,9 +184,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dulab and Nay Taqsim Hijaz</b>
+                                    <b>دولاب حجاز وتقسم ناي</b>
                                     <span>المطرب صباح فخري (حلب)</span>
-                                    <span>Nagham al-Ams Vol. 14 Hijaz</span>
+                                    <span>نغم الامس - الجزء الرابع عشر (مقام حجاز)</span>
                                 </div>
                             </label>
                         </div>
@@ -196,9 +197,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dulab Hijaz</b>
+                                    <b>دولاب حجاز</b>
                                     <span>المطرب صباح فخري (حلب)</span>
-                                    <span><img src="/img/cd.png"> Mawawil and Mouwashahat</span>
+                                    <span><img src="/img/cd.png"> أسطوانة مواويل وموشحات</span>
                                 </div>
                             </label>
                         </div>

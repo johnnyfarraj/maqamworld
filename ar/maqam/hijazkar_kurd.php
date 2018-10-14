@@ -75,9 +75,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Tif Ya Durri</b>
-                                    <span>Orientalia</span>
-                                    <span>الحان الشيخ سيّد درويش (مصر)/‘Umar al-Batsh</span>
+                                    <b>موشّح طف يا دُرّي</b>
+                                    <span>اوريانتاليا</span>
+                                    <span>الحان الشيخ سيّد درويش وعمر البطش</span>
                                 </div>
                             </label>
                         </div>
@@ -88,9 +88,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Hibbi Zurni Ma Tayassar</b>
-                                    <span>Orientalia</span>
-                                    <span>Music by Darwish al-Hariri</span>
+                                    <b>موشّح حبي زرني ما تيسّر</b>
+                                    <span>اوريانتاليا</span>
+                                    <span>الحان درويش الحريري (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -101,9 +101,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ya Dhal-Qawam al-Samhari</b>
+                                    <b>موشّح يا ذا القوام السمهري</b>
                                     <span>المطرب صباح فخري (حلب)</span>
-                                    <span><img src="/img/cd.png"> Au Palais Des Congrès</span>
+                                    <span><img src="/img/cd.png"> حفلة حية في قصر المؤتمرات - باريس</span>
                                 </div>
                             </label>
                         </div>
@@ -114,8 +114,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Izzay Tibi‘ni w-Ana Ashterik</b>
-                                    <span>Saleh Abdel Hayy</span>
+                                    <b>اغنية ازّاي تبيعني وانا اشتريك</b>
+                                    <span>غناء صالح عبد الحيّ (مصر)</span>
                                 </div>
                             </label>
                         </div>

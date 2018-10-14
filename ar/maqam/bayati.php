@@ -80,9 +80,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>‘Ala Balad el-Mahbub Waddini (1935)</b>
+                                    <b>اغنية على بلد المحبوب ودّيني (١٩٣٥)</b>
                                     <span>امّ كلثوم</span>
-                                    <span>Music by الحان رياض السنباطي (مصر)</span>
+                                    <span>الحان رياض السنباطي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -93,7 +93,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Akun Sa‘id (1932)</b>
+                                    <b>اغنية أكون سعيد (١٩٣٢)</b>
                                     <span>امّ كلثوم</span>
                                     <span>الحان الشيخ زكريا احمد (مصر)</span>
                                 </div>
@@ -106,7 +106,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Lamma-nta Nawi (1929)</b>
+                                    <b>اغنية لما انت ناوي (١٩٢٩)</b>
                                     <span>غناء والحان محمد عبد الوهاب</span>
                                 </div>
                             </label>
@@ -118,9 +118,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mijana and ‘Ataba</b>
-                                    <span>Wadih Al-Safi</span>
-                                    <span>Music from Lebanese Folklore</span>
+                                    <b>ميجانا وعتابا</b>
+                                    <span>غناء وديع الصافي (لبنان)</span>
+                                    <span>(من التراث الشعبي اللبناني)</span>
                                 </div>
                             </label>
                         </div>
@@ -131,8 +131,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Imlali al-Aqdaha Sirfan</b>
-                                    <span>Sabah Fakhri (Traditional)</span>
+                                    <b>موشح املا لي الاقداح صرفاً</b>
+                                    <span>اللحن قديم</span>
+                                    <span>المطرب صباح فخري (حلب)</span>
                                 </div>
                             </label>
                         </div>
@@ -143,8 +144,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Nura Nura (1953)</b>
-                                    <span>Music and Vocals by Farid al-Atrash</span>
+                                    <b>اغنية نورا نورا (١٩٥٣)</b>
+                                    <span>غناء والحان فريد الاطرش (سوريا)</span>
                                 </div>
                             </label>
                         </div>
@@ -155,9 +156,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Rayt Minnun (Qanun Taqsim)</b>
-                                    <span>Fairouz</span>
-                                    <span>Music by Philemon Wehbe</span>
+                                    <b>اغنية يا ريت مِنُن (تقسيم قانون)</b>
+                                    <span>غناء فيروز (لبنان)</span>
+                                    <span>الحان فيلمون وهبي (لبنان)</span>
                                 </div>
                             </label>
                         </div>
@@ -168,9 +169,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Rayt Minnun</b>
-                                    <span>Fairouz</span>
-                                    <span>Music by Philemon Wehbe</span>
+                                    <b>اغنية يا ريت مِنُن</b>
+                                    <span>غناء فيروز (لبنان)</span>
+                                    <span>الحان فيلمون وهبي (لبنان)</span>
                                 </div>
                             </label>
                         </div>
@@ -181,8 +182,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Bayati Ibrahim al-‘Aryan</b>
-                                    <span>Farhan Sabbagh (Oud solo)</span>
+                                    <b>سماعي بياتي إبراهيم العريان</b>
+                                    <span>أداء فرحان صبّاغ (سوريا)</span>
                                 </div>
                             </label>
                         </div>
@@ -193,8 +194,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Bayati Iskandar Shalfun</b>
-                                    <span>Ensemble Morkos</span>
+                                    <b>سماعي بياتي إسكندر شلفون</b>
+                                    <span>فرقة مُرقس (لبنان)</span>
                                 </div>
                             </label>
                         </div>

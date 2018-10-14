@@ -102,7 +102,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Kull Illi Habb Itnasaf (1931)</b>
+                                    <b>اغنية كل اللي حبّ اتنصف (١٩٣١)</b>
                                     <span>غناء والحان محمد عبد الوهاب</span>
                                 </div>
                             </label>
@@ -114,8 +114,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr ‘Ishna w Shufna</b>
-                                    <span>Saleh Abdel Hayy</span>
+                                    <b>دور عشنا وشفنا </b>
+                                    <span>غناء صالح عبد الحيّ (مصر)</span>
                                     <span>الحان محمد عثمان (مصر)</span>
                                 </div>
                             </label>

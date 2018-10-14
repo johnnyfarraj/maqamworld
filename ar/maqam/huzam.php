@@ -116,7 +116,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Marmar Zamani</b>
-                                    <span>Fairouz</span>
+                                    <span>غناء فيروز (لبنان)</span>
                                     <span>(Traditional melody)</span>
                                 </div>
                             </label>
@@ -148,7 +148,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Ya Wahid al-Ghid</b>
-                                    <span>Fairouz</span>
+                                    <span>غناء فيروز (لبنان)</span>
                                     <span><img src="/img/cd.png"> Andalousiyyat</span>
                                 </div>
                             </label>
