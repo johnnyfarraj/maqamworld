@@ -73,9 +73,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Aktiblak Gawabat</b>
-                                    <span>Leila Mourad</span>
-                                    <span>Music by Muhammad al-Mugi</span>
+                                    <b>اغنية اكتب لك جوابات</b>
+                                    <span>غناء ليلى مراد (مصر)</span>
+                                    <span>ألحان محمد الموجي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -86,7 +86,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Haramuha Minni</b>
+                                    <b>اغنية حرموها مني</b>
                                     <span>غناء فتحية احمد (مصر)</span>
                                     <span>الحان محمد القصبجي (مصر)</span>
                                 </div>
@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Raqq el-Habib (1944)</b>
+                                    <b>مقطوعة رَقّ الحبيب (١٩٤٤)</b>
                                     <span>امّ كلثوم</span>
                                     <span>الحان محمد القصبجي (مصر)</span>
                                 </div>

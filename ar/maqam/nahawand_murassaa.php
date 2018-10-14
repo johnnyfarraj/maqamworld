@@ -72,9 +72,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Ya Gari (1958)</b>
-                                    <span>Horeyya Hasan</span>
-                                    <span>Music by Muhammad al-Mugi</span>
+                                    <b>اغنية يا جاري (١٩٥٨)</b>
+                                    <span>غناء حورية حسن (مصر)</span>
+                                    <span>ألحان محمد الموجي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -85,9 +85,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Khusara (1957)</b>
+                                    <b>اغنية خسارة (١٩٥٧)</b>
                                     <span>غناء عبد الحليم حافظ (مصر)</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <span>الحان بليغ حمدي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -98,8 +98,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taht il-Shibbak</b>
-                                    <span>‘Aziz ‘Uthman</span>
+                                    <b>اغنية تحت الشبّاك</b>
+                                    <span>غناء عزيز عثمان</span>
                                 </div>
                             </label>
                         </div>
@@ -110,9 +110,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Nahawand</b>
-                                    <span>Simon Shaheen</span>
-                                    <span>Music by Mesut Cemil</span>
+                                    <b>سماعي نهاوند</b>
+                                    <span>سيمون شاهين (فلسطين)</span>
+                                    <span>الحان مسعود جميل (تركيا)</span>
                                 </div>
                             </label>
                         </div>
@@ -123,9 +123,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dulab Nahawand</b>
-                                    <span>Aicha Redouane</span>
-                                    <span><img src="/img/cd.png"> Egypte</span>
+                                    <b>دولاب نهاوند</b>
+                                    <span>عائشة رضوان (الجزائر)</span>
+                                    <span><img src="/img/cd.png"> اسطوانة مصر</span>
                                 </div>
                             </label>
                         </div>
@@ -136,9 +136,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dulab Nahawand Murassa‘</b>
-                                    <span>Zikrayat Ensemble</span>
-                                    <span>Music by Sami Abu Shumays</span>
+                                    <b>دولاب نهاوند مرصّع</b>
+                                    <span>فرقة ذكريات</span>
+                                    <span>ألحان سامي أبو شميس (فلسطين)</span>
                                 </div>
                             </label>
                         </div>

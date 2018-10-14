@@ -77,8 +77,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Balad el-Mahbub (1951)</b>
-                                    <span>غناء والحان محمد عبد الوهاب</span>
+                                    <b>مقطوعة بلد المحبوب (١٩٥١)</b>
+                                    <span>الحان محمد عبد الوهاب</span>
                                 </div>
                             </label>
                         </div>
@@ -89,9 +89,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Alf Leila w-Leila (1969)</b>
-                                    <span>Umm Kuthum</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <b>اغنية الف ليلة وليلة (١٩٦٩)</b>
+                                    <span>امّ كلثوم</span>
+                                    <span>الحان بليغ حمدي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -102,7 +102,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dhikrayati (1944)</b>
+                                    <b>مقطوعة ذكرياتي (١٩٤٤)</b>
                                     <span>الحان محمد القصبجي (مصر)</span>
                                 </div>
                             </label>
@@ -114,10 +114,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Hat Isqiniha</b>
+                                    <b>موشح هاتِ اسقنيها</b>
                                     <span>المنشد الحلبي حسن الحفّار</span>
                                     <span>Music by Yehya al-Sa‘udi</span>
-                                    <span><img src="/img/cd.png"> The Aleppo Suites</span>
+                                    <span><img src="/img/cd.png"> أسطوانة وصلات حلب</span>
                                 </div>
                             </label>
                         </div>
@@ -128,9 +128,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ramani Bi Sahmi Hawahu</b>
-                                    <span>Khaled al-Hafez</span>
-                                    <span>Music by Dawud Husni</span>
+                                    <b>موشح رماني بسهم هواه</b>
+                                    <span>غناء خالد الحافظ (سوريا)</span>
+                                    <span>الحان داوود حسني (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -141,9 +141,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Nahawand</b>
-                                    <span>Simon Shaheen Ensemble</span>
-                                    <span>Music by Mesut Cemil (Turkey)</span>
+                                    <b>سماعي نهاوند</b>
+                                    <span>سيمون شاهين (فلسطين)</span>
+                                    <span>الحان مسعود جميل (تركيا)</span>
                                 </div>
                             </label>
                         </div>
@@ -154,9 +154,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Nahawand</b>
-                                    <span>Abdel Halim Noueirah Ensemble</span>
-                                    <span>Music by Safar ‘Ali</span>
+                                    <b>سماعي نهاوند</b>
+                                    <span>فرقة الموسيقى العربية (مصر)</span>
+                                    <span>بقيادة عبد الحليم نويرة</span>
+                                    <span>الحان صَفَر علي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -167,9 +168,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Longa Farahfaza</b>
-                                    <span>Simon Shaheen Ensemble</span>
-                                    <span>Music by الحان رياض السنباطي (مصر)</span>
+                                    <b>لونجا فرحفزا</b>
+                                    <span>سيمون شاهين (فلسطين)</span>
+                                    <span>الحان رياض السنباطي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -180,9 +181,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Longa Nahawand</b>
-                                    <span>Anouar Brahem</span>
-                                    <span>Music by Tanburi Cemil Bey</span>
+                                    <b>لونجا نهاوند</b>
+                                    <span>عزف أنور ابراهم (تونس)</span>
+                                    <span>الحان طنبوري جميل بك (تركيا)</span>
                                 </div>
                             </label>
                         </div>
@@ -193,9 +194,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Longa Nahawand</b>
-                                    <span>Abdel Halim Nuwayra Ensemble</span>
-                                    <span>Music by Yorgo Baganos</span>
+                                    <b>لونجا نهاوند</b>
+                                    <span>فرقة الموسيقى العربية (مصر)</span>
+                                    <span>بقيادة عبد الحليم نويرة</span>
+                                    <span>الحان يورغو باغانوس</span>
                                 </div>
                             </label>
                         </div>
@@ -206,8 +208,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dulab Nahawand</b>
-                                    <span>Sheikh Abu el-‘Ila Muhammad</span>
+                                    <b>دولاب نهاوند</b>
+                                    <span>الشيخ أبو العلا محمد (مصر)</span>
                                 </div>
                             </label>
                         </div>

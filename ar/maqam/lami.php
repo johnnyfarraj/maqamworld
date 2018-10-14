@@ -68,8 +68,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>el-Bortoqal (1938)</b>
-                                    <span>Vocals by Ra'isa ‘Afifi and Muhammad Abdel Wahab</span>
+                                    <b>اغنية البرتقال (١٩٣٨)</b>
+                                    <span>غناء رئيسة عفيفي ومحمد عبد الوهاب</span>
                                     <span>الحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
@@ -81,9 +81,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Tislam Idein Elli-shtara (c. 1960)</b>
-                                    <span>Vocals by Muhammad Abdel Muttalib</span>
-                                    <span>Music by Mahmud Kamel (Egypt)</span>
+                                    <b>اغنية تسلم ايدين اللي اشترى (حوالي ١٩٦٠)</b>
+                                    <span>غناء محمد عبد المطّلب (مصر)</span>
+                                    <span>الحان محمود كامل (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -94,7 +94,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Albi Bi Ulli Kalam (c.1954)</b>
+                                    <b>اغنية قلبي بيقول لي كلام (حوالي ١٩٥٤)</b>
                                     <span>غناء والحان محمد عبد الوهاب</span>
                                 </div>
                             </label>
@@ -106,9 +106,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ahmad Ya Habibi</b>
-                                    <span>Vocals and Music by Sabri al-Mudallal</span>
-                                    <span><img src="/img/cd.png"> Songs from Aleppo</span>
+                                    <b>انشودة احمد يا حبيبي</b>
+                                    <span>غناء والحان صبري المدلل (حلب)</span>
+                                    <span><img src="/img/cd.png"> أسطوانة أغاني من حلب</span>
                                 </div>
                             </label>
                         </div>
@@ -119,9 +119,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>el-Najmat Saru Yis'alu (1964)</b>
-                                    <span>Wadih al-Safi</span>
-                                    <span>Music by Muhammad Muhsin</span>
+                                    <b>اغنية النجمات صاروا يسألوا (١٩٦٤)</b>
+                                    <span>غناء وديع الصافي (لبنان)</span>
+                                    <span>الحان محمد محسن</span>
                                 </div>
                             </label>
                         </div>
@@ -132,8 +132,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Gulli Ya Hilu</b>
-                                    <span>Nazem al-Ghazali</span>
+                                    <b>اغنية قل لي يا حلو</b>
+                                    <span>غناء ناظم الغزالي (عراق)</span>
                                     <span>(من التراث الشعبي العراقي)</span>
                                 </div>
                             </label>
