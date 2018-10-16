@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Ya Dhal-Qawam al-Samhari</b>
                                     <span>Sabah Fakhri</span>
-                                    <span><img src="/img/cd.png"> Au Palais Des Congrès</span>
+                                    <span><img src="/img/cd.png"> Au Palais Des Congrès (1995)</span>
                                 </div>
                             </label>
                         </div>

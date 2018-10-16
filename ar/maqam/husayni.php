@@ -75,9 +75,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Bil-ladhi Askara</b>
+                                    <b>موشّح بالذي اسكر</b>
                                     <span>المطرب صباح فخري (حلب)</span>
-                                    <span>Nagham al-Ams Vol. 12 (Bayati)</span>
+                                    <span>نغم الامس - الجزء الثاني عشر (مقام بياتي)</span>
                                 </div>
                             </label>
                         </div>
@@ -88,9 +88,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Hal ‘Ala al-Astar</b>
-                                    <span>Ghada Shbeir</span>
-                                    <span><img src="/img/cd.png"> Al Muwashahat</span>
+                                    <b>موشّح هل على الاستار</b>
+                                    <span>غناء غادة شبير (لبنان)</span>
+                                    <span><img src="/img/cd.png"> أسطوانة الموشحات</span>
                                 </div>
                             </label>
                         </div>
@@ -101,8 +101,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Khala al-‘Idhar</b>
-                                    <span>Khaled al-Hafez</span>
+                                    <b>موشّح خلا العِذار</b>
+                                    <span>غناء خالد الحافظ (سوريا)</span>
                                 </div>
                             </label>
                         </div>
@@ -113,8 +113,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Nura Nura (1953)</b>
-                                    <span>Music and Vocals by Farid al-Atrash</span>
+                                    <b>اغنية نورا نورا (١٩٥٣)</b>
+                                    <span>غناء والحان فريد الأطرش</span>
                                 </div>
                             </label>
                         </div>
@@ -125,8 +125,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Bayati Ibrahim al-‘Aryan (Khana 2)</b>
-                                    <span>Salah ‘Arram Ensemble (Egypt)</span>
+                                    <b>سماعي بياتي إبراهيم العريان (خانة ٢)</b>
+                                    <span>فرقة صلاح عرّام (مصر)</span>
                                 </div>
                             </label>
                         </div>

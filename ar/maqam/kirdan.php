@@ -74,7 +74,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Sihtu Wajdan</b>
+                                    <b>موشّح صحتُ وجداً</b>
                                     <span>اوريانتاليا</span>
                                     <span>الحان الشيخ سيّد درويش (مصر)</span>
                                 </div>
@@ -87,7 +87,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ya Shadi al-Alhan</b>
+                                    <b>موشّح يا شادي الالحان</b>
                                     <span>المطرب صباح فخري (حلب)</span>
                                     <span>الحان الشيخ سيّد درويش (مصر)</span>
                                 </div>
@@ -100,9 +100,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Hayrana Leh (1930)</b>
+                                    <b>اغنية حيرانة ليه (١٩٣٠)</b>
                                     <span>غناء ليلى مُراد (مصر)</span>
-                                    <span>Music by Dawud Husni</span>
+                                    <span>الحان داوود حسني (مصر)</span>
                                 </div>
                             </label>
                         </div>

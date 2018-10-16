@@ -70,9 +70,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>‘Awwedti ‘Ayni (1958)</b>
+                                    <b>اغنية عوّدت عيني (١٩٥٨)</b>
                                     <span>امّ كلثوم</span>
-                                    <span>Music by الحان رياض السنباطي (مصر)</span>
+                                    <span>الحان رياض السنباطي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -83,9 +83,22 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Zalimni (1951)</b>
+                                    <b>اغنية يا ظالمني (١٩٥١)</b>
                                     <span>امّ كلثوم</span>
-                                    <span>Music by الحان رياض السنباطي (مصر)</span>
+                                    <span>الحان رياض السنباطي (مصر)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="track" data-song="/audio/maqam/kurd/dulab_kurd_fakhri.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>دولاب كرد</b>
+                                    <span>فرقة صباح فخري (سوريا)</span>
+                                    <span>من حفلة قصر المؤتمرات – باريس (١٩٩٥)</span>
                                 </div>
                             </label>
                         </div>
@@ -96,7 +109,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Yamurru ‘Ujuban</b>
+                                    <b>موشّح يمرّ عُجباً</b>
                                     <span>المطرب صباح فخري (حلب)</span>
                                     <span>الحان عمر البطش (حلب)</span>
                                 </div>
@@ -109,9 +122,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ya Bahjet el-Rouh</b>
+                                    <b>موشّح يا بهجة الرّوح</b>
                                     <span>المطرب صباح فخري (حلب)</span>
-                                    <span><img src="/img/cd.png"> Au Palais Des Congrès</span>
+                                    <span>الحان سيّد درويش (مصر)</span>
+                                    <span>من حفلة قصر المؤتمرات – باريس (١٩٩٥)</span>
                                 </div>
                             </label>
                         </div>
@@ -122,8 +136,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mashghul ‘Aleik</b>
-                                    <span>Karem Mahmud</span>
+                                    <b>اغنية مشغول عليك</b>
+                                    <span>غناء كارم محمود (مصر)</span>
                                     <span>الحان احمد صدقي (مصر)</span>
                                 </div>
                             </label>
@@ -135,9 +149,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sanatein</b>
-                                    <span>Leila Mourad</span>
-                                    <span>Music by Ra'uf Dhihni</span>
+                                    <b>اغنية سنتين وانا احايل فيه</b>
+                                    <span>غناء ليلى مُراد (مصر)</span>
+                                    <span>الحان رؤوف الذهني (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -148,8 +162,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Kurd</b>
-                                    <span>Abdu Daghir</span>
+                                    <b>سماعي كرد</b>
+                                    <span>الحان عبده داغر (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -160,8 +174,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Kurd</b>
-                                    <span>Abraham Salman</span>
+                                    <b>سماعي كرد</b>
+                                    <span>ابراهام سلمان (عراق)</span>
+                                    <span><img src="/img/cd.png"> اسطوانة سلطنة</span>
                                 </div>
                             </label>
                         </div>
@@ -172,20 +187,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr ‘Ishiqti Ruhak (1930)</b>
-                                    <span>الحان محمد عبد الوهاب (مصر)</span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-
-                    <div class="track" data-song="/audio/maqam/kurd/dulab_kurd_fakhri.mp3">
-                        <div class="radio">
-                            <label>
-                                <input type="radio" name="song" value="1">
-                                <div class="info">
-                                    <b>Dulab Kurd</b>
-                                    <span>Sabah Fakhri Ensemble</span>
+                                    <b>دور عشقت روحك (١٩٣٠)</b>
+                                    <span>غناء والحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>

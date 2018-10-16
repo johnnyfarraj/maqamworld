@@ -75,9 +75,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Ya Ghusna Naqa</b>
-                                    <span>(مقام هُزام)</span>
-                                    <span>Firqat al-Musiqa al-Arabiyya, Egypt</span>
+                                    <b>موشّح يا غصن نقا</b>
+                                    <span>فرقة الموسيقى العربية (مصر)</span>
+                                    <span>بقيادة عبد الحليم نويرة</span>
                                 </div>
                             </label>
                         </div>
@@ -88,10 +88,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ayyuha al-Saqi</b>
+                                    <b>موشّح أيّها الساقي</b>
                                     <span>المطرب صباح فخري (حلب)</span>
-                                    <span>Music by Majdi al-‘Aqili</span>
-                                    <span>Nagham Al Ams Vol. 13 Huzam</span>
+                                    <span>الحان مجدي العقيلي (سوريا)</span>
+                                    <span>نغم الامس - الجزء الثالث عشر (مقام هزام)</span>
                                 </div>
                             </label>
                         </div>
@@ -102,7 +102,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr Emta el-Hawa (1936)</b>
+                                    <b>دور امتى الهوى (١٩٣٦)</b>
                                     <span>امّ كلثوم</span>
                                     <span>الحان الشيخ زكريا احمد (مصر)</span>
                                 </div>
@@ -115,9 +115,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Marmar Zamani</b>
+                                    <b>اغنية مرمر زماني</b>
                                     <span>غناء فيروز (لبنان)</span>
-                                    <span>(Traditional melody)</span>
+                                    <span>(اللحن قديم)</span>
                                 </div>
                             </label>
                         </div>

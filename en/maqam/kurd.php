@@ -97,6 +97,19 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/maqam/kurd/dulab_kurd_fakhri.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Dulab Kurd</b>
+                                    <span>Sabah Fakhri Ensemble</span>
+                                    <span><img src="/img/cd.png"> Au Palais Des Congrès (1995)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                     <div class="track" data-song="/audio/maqam/kurd/yamurru_3ujuban.mp3">
                         <div class="radio">
                             <label>
@@ -105,6 +118,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Muwashah Yamurru ‘Ujuban</b>
                                     <span>Sabah Fakhri</span>
                                     <span>Music by ‘Umar al-Batsh</span>
+                                    <span><img src="/img/cd.png"> Au Palais Des Congrès (1995)</span>
                                 </div>
                             </label>
                         </div>
@@ -117,7 +131,8 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Ya Bahjet el-Rouh</b>
                                     <span>Sabah Fakhri</span>
-                                    <span><img src="/img/cd.png"> Au Palais Des Congrès</span>
+                                    <span>Music by Sayyed Darwish</span>
+                                    <span><img src="/img/cd.png"> Au Palais Des Congrès (1995)</span>
                                 </div>
                             </label>
                         </div>
@@ -168,6 +183,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Sama‘i Kurd</b>
                                     <span>Abraham Salman</span>
+                                    <span><img src="/img/cd.png"> Saltanah</span>
                                 </div>
                             </label>
                         </div>
@@ -180,18 +196,6 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr ‘Ishiqti Ruhak (1930)</b>
                                     <span>Music by Muhammad Abdel Wahab</span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-
-                    <div class="track" data-song="/audio/maqam/kurd/dulab_kurd_fakhri.mp3">
-                        <div class="radio">
-                            <label>
-                                <input type="radio" name="song" value="1">
-                                <div class="info">
-                                    <b>Dulab Kurd</b>
-                                    <span>Sabah Fakhri Ensemble</span>
                                 </div>
                             </label>
                         </div>

@@ -73,7 +73,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Jayin ya Arz el-Jabal</b>
+                                    <b>اغنية جايين يا ارز الجبل</b>
                                     <span>غناء وديع الصافي (لبنان)</span>
                                 </div>
                             </label>
@@ -85,8 +85,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Jalla Man Ansha Jamalak</b>
-                                    <span>فرقة اورنينا (سوريا) with د. محمد قدري دلال  (حلب)</span>
+                                    <b>موشح جلَّ من انشا جمالك</b>
+                                    <span>فرقة اورنينا (سوريا)</span>
+                                    <span>بقيادة د. محمد قدري دلال (حلب)</span>
                                 </div>
                             </label>
                         </div>
@@ -97,9 +98,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i ‘Iraq</b>
-                                    <span>Tunisian Radio Orchestra</span>
-                                    <span>Music by Yusuf Basha</span>
+                                    <b>سماعي عِراق</b>
+                                    <span>الحان يوسف باشا</span>
+                                    <span>فرقة الاذاعة التونسية</span>
                                 </div>
                             </label>
                         </div>
@@ -110,9 +111,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>el-Hali Ta‘bani Ya Layla</b>
-                                    <span>Joseph Saqr</span>
-                                    <span>Music By Ziad Rahbani</span>
+                                    <b>اغنية الحالة تعبانة يا ليلى</b>
+                                    <span>غناء جوزيف صقر (لبنان)</span>
+                                    <span>الحان وكلمات زياد الرحباني (لبنان)</span>
                                 </div>
                             </label>
                         </div>

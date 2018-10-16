@@ -137,8 +137,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Aqbala al-Subhu Yughanni</b>
-                                    <span>Ensemble Ornina</span>
-                                    <span>Director Muhammad Qadri Dalal</span>
+                                    <span>Ensemble Ornina (Syria)</span>
+                                    <span>Conductor Dr. Muhammad Qadri Dalal</span>
                                     <span>Music by Bakri al-Kurdi</span>
                                 </div>
                             </label>

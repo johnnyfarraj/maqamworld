@@ -70,8 +70,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Kallili ya Suhbu</b>
-                                    <span>Abdel Halim Noueirah Ensemble</span>
+                                    <b>موشّح كللي يا سحب</b>
+                                    <span>فرقة الموسيقى العربية (مصر)</span>
+                                    <span>بقيادة عبد الحليم نويرة</span>
                                     <span>الحان محمد عثمان (مصر)</span>
                                 </div>
                             </label>
@@ -83,7 +84,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Dawr ‘Ishna w Shufna</b>
+                                    <b>دور عِشنا وشفنا</b>
                                     <span>غناء صالح عبد الحيّ (مصر)</span>
                                     <span>الحان محمد عثمان (مصر)</span>
                                 </div>
@@ -96,10 +97,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Jiharkah</b>
-                                    <span>Sabah Fakhri Orchestra</span>
-                                    <span><img src="/img/cd.png"> Live Au Théatre Des Amandiers</span>
-                                    <span>Music by ???</span>
+                                    <b>سماعي جهاركاه</b>
+                                    <span>فرقة صباح فخري (سوريا)</span>
+                                    <span><img src="/img/cd.png">من حفلة مسرح الامانديية (فرنسا)</span>
                                 </div>
                             </label>
                         </div>
@@ -110,9 +110,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dulab Jiharkah</b>
-                                    <span>Sabah Fakhri Orchestra</span>
-                                    <span><img src="/img/cd.png"> Live Au Théatre Des Amandiers</span>
+                                    <b>دولاب جهاركاه</b>
+                                    <span>فرقة صباح فخري (سوريا)</span>
+                                    <span><img src="/img/cd.png">من حفلة مسرح الامانديية (فرنسا)</span>
                                 </div>
                             </label>
                         </div>
@@ -123,9 +123,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>‘al-Rozana</b>
+                                    <b>اغنية عالروزانا</b>
+                                    <span>اللحن قديم</span>
                                     <span>المطرب صباح فخري (حلب)</span>
-                                    <span><img src="/img/cd.png"> Live Au Théatre Des Amandiers</span>
+                                    <span><img src="/img/cd.png">من حفلة مسرح الامانديية (فرنسا)</span>
                                 </div>
                             </label>
                         </div>
