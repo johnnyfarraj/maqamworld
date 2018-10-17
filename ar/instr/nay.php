@@ -127,7 +127,7 @@ include($ROOT . 'inc/head.php');
                         <li><h5><a href="nay.php">الناي</a></h5></li>
                         -->
                         <li><h5><a href="qanun.php">القانون</a></h5></li>
-                        <li><h5><a href="violin.php">الكمنجة</a></h5></li>
+                        <li><h5><a href="violin.php">الكمان</a></h5></li>
                         <li><h5><a href="buzuq.php">البُزُق</a></h5></li>
                    </ul>
 

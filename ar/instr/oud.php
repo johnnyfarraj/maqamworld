@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "العود";
 $page_description = "الآلات الموسيقية العربية العود";
 $page_keywords = "عود ,موسيقى عربية ,قانون, ناي, مقام, جنس, آلات, طرب, عالم المقامات, ايقاع";
-$page_language = "ar"; // en / ar <!-- YOU MUST PUT THIS -->
+$page_language = "ar";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>العود</h1>
-                        <h3>A Fretless Lute</h3>
+                        <h3>ملك الآلات الموسيقية العربية</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الآلات</a>
@@ -45,29 +45,32 @@ include($ROOT . 'inc/head.php');
                     </div>
  		<br>
 
-                    <h5>The Oud (also spelled ‘Ud) is one of the most popular instruments in Arabic music. 
-		Its name means "a thin strip of wood" in Arabic, and this refers to the strips of wood used 
-		in making its pear-shaped body. The neck of the oud is short in comparison to its body and has no frets. 
-		This allows the oud to achieve excellent intonation and makes it ideal for 
-		performing the Arabic <a href="../maqam.php">maqamat</a>.
-                    </h5>
-                    <h5>The oud usually has 5 pairs of strings tuned in unison and a single bass string, 
-		although some ouds have one extra pair. The most common tuning (low to high) is C, F, A, D, D, C, 
-		which makes all intervals (except F to A) perfect forths . 
-		Strings were historically made of animal gut, and were plucked with a plectrum known as <em>risha</em> 
-		(Arabic for feather). Modern strings are made of steel wound over nylon, and modern <em>risha</em>-s 
-		are made of plastic, tortoise shell, animal horn or even bamboo.
+                    <h5>
+يعتبر العود من أكثر الآلات الموسيقية شيوعاً في الموسيقى العربية.
+ يأتي اسم الآلة من عود الخشب أي قطعة خشب
+ وذلك لأن الآلة مكوّنة من قطع خشبية متخلفة ترتّب بشكل معين لتنتج الصندوق المصوّت (اي الطاسة) ذو الشكل الفريد.
+ وللعود زند أقصر من طاسة العود طولاً وهو خالِ من الحبسات،
+ مما يسمح للعازف بإخراج العلامات الموسيقية بدقة وبالتالي تعزف على العود كل 
+<a href="../maqam.php">مقامات</a>
+ الموسيقى العربية.  
                     </h5>
                     <h5>
-                    The oud has a warm timbre and a wide tonal range (about 3 octaves), and can convey the melody 
-		and rhythm equally well because it is percussive. This makes is perfectly suited to accompany a singer. 
-		It is also the composers' favorite instrument for writing a new melody. Oud <a href="../form/improv.php#taqsim">taqasim</a> 
-		are also very popular in live concerts as well as recordings.
+وللعود عادةً ستة أوتار, خمسة منها مزدوجة والوتر السادس مفرد، وفي بعض الأحيان يضاف إليه وتر سابع مزدوج.
+ الدوزان الأكثر شيوعاً هو دو-فا-لا-ري-صول-دو، وهي مبني على فاصلة رباعية بين كل وترين (باستثناء وتري فا ولا).
+ كانت تصنع الأوتار قديماً من أحشاء الحيوانات ويعزف عليها بريشة نسر،
+ أما حديثاً فصارت الأوتار تصنع من مواد معدنية بتراكيز معينة وتستخدم ريش مصنوعة من البلاستيك أو من قرون الأبقار أو من الخيزران في بعض الأحيان.
                     </h5>
-                    <h5>The Arabic oud is broadly the same instrument that exists in many other countries in the region 
-		(e.g. Turkey, Greece, Iran) with minor differences in dimensions, style and timbre. 
-		The European "lute" is a descendant of the oud, from which it takes its name (al-oud).
+                    <h5>
+وللعود صوت رخيم دافئ ومساحة صوتية واسعة (تصل تقريباً لثلاثة دواوين موسيقية)،
+ ولكون العود يعزف عليه بالريشة فهو آلة تنتج النغم والإيقاع معاً.
+ وهذا ما جعلها تحتل صدارة الآلات المرافقة للغناء من جهة،
+ والآلة الأكثر استخداماً بين الملحنين من جهة أخرى.
+ كما أن تقاسيم العود شائعة جداً في التسجيلات الحية وغير الحية على حد سواء.
                     </h5>
+                    <h5>
+والعود العربي نفسه العود في إيران وتركيا واليونان مع بعض الاختلافات في الأبعاد و طبيعة الصوت.
+ من الجدير بالذكر أن العود يعتبر أب لآلة اللوت الأوروبية والتي نُحِت اسمها من كلمة العود نفسها: العود = لوت. 
+                   </h5>
 		<br>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=dDrVYyoMi-4&t=0s">
@@ -158,7 +161,7 @@ include($ROOT . 'inc/head.php');
                         -->
                         <li><h5><a href="nay.php">الناي</a></h5></li>
                         <li><h5><a href="qanun.php">القانون</a></h5></li>
-                        <li><h5><a href="violin.php">الكمنجة</a></h5></li>
+                        <li><h5><a href="violin.php">الكمان</a></h5></li>
                         <li><h5><a href="buzuq.php">البُزُق</a></h5></li>
                    </ul>
 

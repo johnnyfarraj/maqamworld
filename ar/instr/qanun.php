@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "القانون";
 $page_description = "الآلات الموسيقية العربية";
 $page_keywords = "عود ,موسيقى عربية ,قانون, ناي, مقام, جنس, آلات, طرب, عالم المقامات, ايقاع";
-$page_language = "ar"; // en / ar <!-- YOU MUST PUT THIS -->
+$page_language = "ar";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>القانون</h1>
-                        <h3>A Plucked Zither</h3>
+                        <h3>من اهمّ الآلات العربية</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الآلات</a>
@@ -44,23 +44,24 @@ include($ROOT . 'inc/head.php');
                     </div>
 		<br>
 
-                    <p> The Qanun is a descendent of the old Egyptian harp. It has played an integral part in Arabic music since the 10<sup>th</sup> century. 
-The word <em>qanun</em> means "law" in Arabic, and the word exists in English in the form of "canon". 
-This name was probably given to the qanun because it's the instrument that lays down the law of pitch for other instruments and singers.
-                    </p>
-                    <p>The body of the qanun consists of a trapezoid-shaped flat wooden board over which 81 strings are 
-stretched in groups of three, with 24 treble strings consisting of three strings to each note. 
-The instrument is placed flat on the knees of the musician or on a small table. 
-Qanun strings are plucked with two plectra, one plectrum attached to the forefinger of each hand. 
-A long bridge on the right-hand side of the instrument rests on goat (or fish) skin covered windows that carry the resonnance to the box. 
-On the left hand side, each course of strings passes over a series of small brass levers that are used to make microtonal changes in pitch.
-                    </p>
-                    <p>Since the qanun only includes 8 notes per octave, the player initially sets the levers to create the scale of 
-the starting <a href="../maqam.php">maqam</a>. When the player needs to modulate to another <a href="../maqam.php">maqam</a>, 
-they need to switch some levers back and forth with the left hand while playing with the right hand. 
-Quick modulation can also be achieved by using the fingernail of the left thumb to temporarily raise the tuning of some strings.
-                    </p>
-                    
+                    <h5>
+يعتبر القانون من الآلات التي تطورت عن آلة القيثارة المصرية القديمة،
+ وقد لعبت دورا محورياً في الموسيقى العربية منذ القرن العاشر الميلادي وحتى يومنا هذا.
+ ويعد اسم الآلة مشعراً لأهميتها فهي قانون (أي دستور) الموسيقى العربية،
+ ويذكر أن لفظة قانون توجد في اللغة الانكليزية أيضا ”كانون“.
+                    </h5>
+                    <h5>
+وللصندوق المصوّت للآلة شكلها الهندسي شبه منحرف وعليه ٨١ وتراً مرتّبة في مجموعات من الاوتار، منها ٢٤ مجموعة مثلثة الاوتار، وبقية الاوتار مزدوجة او مفردة.
+ يوضع القانون في حضن العازف أو على طاولة أمامه ويعزف عليه باستخدام ريشتين مثبتتين بسبابة كل يد من خلال حسبة معدنية.
+ ويحمل الأوتار فرس مثبّت على وجه القانون وهو قطعة من جلد الماعز أو جلد الأسماك.
+ والفرس طويل يمتد على طول الآلة في جزئها الأيمن.
+ أما في جزئها الأيسر فللآلة عُرَب (جمع مفرده عُربَة) تتحكم بارتفاع كل مجموعة أوتار وبالتالي بالنغمات الصادرة من كل منها.
+                    </h5>
+                    <h5>
+يتم تثبيت (دوزان) العُرب حسب المقام الاساسي للقطعة، وحين يُراد الانتقال الى مقام آخر يقوم العازف بمتابعة العزف بيده اليمنى أما بيده اليسرى فيقوم بتغيير العُرَب.
+ وفي بعض الأحيان يمكن تغيير النغمة من خلال ضغط العازف بظفر إبهامه الأيسر (يسمّى بالعَفق) وهو ما يستخدم لأداء بعض الانتقالات المقامية العابرة.
+                    </h5>
+		<br>                    
                      <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=fZPY3or3D-Y&t=0s">
                         <div class="radio">
                             <label>
@@ -148,7 +149,7 @@ Quick modulation can also be achieved by using the fingernail of the left thumb 
                         <li><h5><a href="qanun.php">القانون</a></h5></li>
                         -->
                         <li><h5><a href="nay.php">الناي</a></h5></li>
-                        <li><h5><a href="violin.php">الكمنجة</a></h5></li>
+                        <li><h5><a href="violin.php">الكمان</a></h5></li>
                         <li><h5><a href="buzuq.php">البُزُق</a></h5></li>
                    </ul>
                     
