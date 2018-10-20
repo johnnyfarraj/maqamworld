@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Lami</h1>
-                        <h3>(not part of a maqam family)</h3>
+                        <h3>(nicht Teil einer Maqam-Familie)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Maqam-Verzeichnis</a>
                     <div class="clearfix"></div>
@@ -62,6 +62,7 @@ include($ROOT . 'inc/head.php');
                     <p>Maqam Lami ist ein seltener Maqam im Mittleren Osten und wurde dem irakischen Repertoire entlehnt. Maqam Lami beginnt mit <a href="../jins/lami.php">Jins Lami</a> auf der Tonika, gefolgt von <a href="../jins/kurd.php">Jins Kurd</a> auf der vierten Stufe.
                     </p>
 
+                    
                     <div class="player-area">
                         <audio id="player" controls>
                             <source src="/audio/maqam/lami/el_bortoqal.mp3" type="audio/mp3">

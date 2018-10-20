@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Saba Zamzam</h1>
-                        <h3>(not part of a maqam family)</h3>
+                        <h3>(nicht Teil einer Maqam-Familie)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Maqam-Verzeichnis</a>
                     <div class="clearfix"></div>

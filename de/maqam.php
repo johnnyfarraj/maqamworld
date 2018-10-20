@@ -30,17 +30,18 @@ include($ROOT . 'inc/head.php');
 
           <div class="heading text-center jins">
             <h1>Der arabische Maqam</h1>
-            <h3>System von Skalen, gebräuchlichen melodischen Phrasen, Modulationsmöglichkeiten, </h3>
-            <h3>Ornamentierungsvorgaben und ästhetischen Konventionen</h3>
+            <h3>System von Skalen, gebräuchlichen melodischen Phrasen,</h3>
+            <h3>Modulationsmöglichkeiten, Ornamentierungsvorgaben</h3>
+            <h3>und ästhetischen Konventionen</h3>
           </div>
           <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Maqam-Verzeichnis</a>
           <div class="clearfix"></div>
 
           <div class="text-center mt-2 mb-3">
-            <a href="#" class="pronunciation btn btn-default" data-audio="/name/maqam.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache der Maqam/Maqamat</a>
+            <a href="#" class="pronunciation btn btn-default" data-audio="/name/maqam.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Maqam/Maqamat</a>
           </div>
 
-          <p>Der arabische Maqam (im Arabischen maskulin, im Deutschen auch im Neutrum gebräuchlich; Plural: Maqamat) ist ein System von Skalen, gebräuchlichen melodischen Phrasen, Modulationsmöglichkeiten, Ornamentierungsvorgaben und ästhetischen Vorgaben, die gemeinsam einen reichhaltigen melodischen Rahmen und Kunsttradition ausmachen. Der Melodieverlauf eines Maqams heißt arabischen Sayr. Das gilt sowohl für komponierte als auch für improvisierte Musik. </p>
+          <p>Der arabische Maqam (im Arabischen maskulin, im Deutschen auch im Neutrum gebräuchlich; Plural: Maqamat) ist ein System von Skalen, gebräuchlichen melodischen Phrasen, Modulationsmöglichkeiten, Ornamentierungsvorgaben und ästhetischen Vorgaben, die gemeinsam einen reichhaltigen melodischen Rahmen und eine Kunsttradition ausmachen. Der Melodieverlauf eines Maqams heißt im Arabischen Sayr. Das gilt sowohl für komponierte als auch für improvisierte Musik. </p>
 
           <p>Jede Maqamskala lässt sich bilden, indem man zwei oder manchmal auch drei Skalenfragmente namens <a href="jins.php">Jins</a> (Plural: Ajnas) aneinanderhängt. Diesen konstituierenden Ajnas verdankt der Maqam seine Intervalle, sein Melodieverhalten und Stimmung. Das erste <em>Jins</em> beginnt die Leiter auf seinem eigenen Grundton als erster Stufe. Das zweite <em>Jins</em> beginnt am <em>Ghammaz</em> (Modulationspunkt) des ersten <em>Jins</em>. Das ist gewöhnlich die Schlussnote des ersten <em>Jins</em>. Falls ein drittes <em>Jins</em> benutzt wird, entspricht sein Grundton dem <em>Ghammaz</em> des zweiten <em>Jins</em> und so fort. Der Ton unter dem Grundton wird Leitton genannt.</p>
 

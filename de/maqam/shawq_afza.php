@@ -60,7 +60,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="425,5,544,36" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <p>Maqam Shawq Afza ist die häufigste Variante von <a href="ajam.php">Maqam ‘Ajam</a>, wobei Jins auf der fünften Stufe als Charakteristikum herausragt, aber auch <a href="../jins/saba_dalanshin.php">Jins Saba Dalanshin</a> auf der dritten/fünften Stufe. Seine Leiter beginnt mit dem Wurzel-<a href="../jins/ajam.php">Jins ‘Ajam</a> auf der Tonika. <a href="../jins/hijaz.php">Jins Hijaz</a> auf der fünften Stufe ist sein Hauptcharakteristikum ebenso wie eine häufige Modulation auf der dritten/fünften Stufe.
+                    <p>Maqam Shawq Afza ist die häufigste Variante von <a href="ajam.php">Maqam ‘Ajam</a>, wobei Jins Hijaz auf der fünften Stufe als Charakteristikum herausragt, aber auch <a href="../jins/saba_dalanshin.php">Jins Saba Dalanshin</a> auf der dritten/fünften Stufe. Seine Leiter beginnt mit dem Wurzel-<a href="../jins/ajam.php">Jins ‘Ajam</a> auf der Tonika. <a href="../jins/hijaz.php">Jins Hijaz</a> auf der fünften Stufe ist sein Hauptcharakteristikum ebenso wie eine häufige Modulation auf der dritten/fünften Stufe.
                     </p>
 
                     <p>Erkunden Sie andere Maqamat der <a href="f_ajam.php">Maqam-‘Ajam-Familie</a>.</p>

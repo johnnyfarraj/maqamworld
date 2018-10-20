@@ -130,7 +130,7 @@ include($ROOT . 'inc/head.php');
 
                     <!-- Start Rahat al-Arwah section -->
                     <div class="heading jins text-center">
-                        <h3>Maqam Rahat al-Arwah examples</h3>
+                        <h3>Beispiele für Maqam Rahat al-Arwah</h3>
                     </div>
                     <div class="clearfix"></div>
 
@@ -180,7 +180,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dulab Rahat al-Arwah</b>
                                     <span>Aicha Redouane</span>
-                                    <span><img src="/img/cd.png"> Ägyptene</span>
+                                    <span><img src="/img/cd.png"> Egypt</span>
                                 </div>
                             </label>
                         </div>

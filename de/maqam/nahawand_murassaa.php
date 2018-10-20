@@ -128,7 +128,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dulab Nahawand</b>
                                     <span>Aicha Redouane</span>
-                                    <span><img src="/img/cd.png"> Ägyptene</span>
+                                    <span><img src="/img/cd.png"> Egypt</span>
                                 </div>
                             </label>
                         </div>

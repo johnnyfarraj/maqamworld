@@ -36,7 +36,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/ajam.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of ‘Ajam</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/ajam.mp3"><i class="fa fa-fw fa-volume-up"></i>Aussprache von ‘Ajam</a>
                     </div>
 
                     <p>Die Maqam-‘Ajam-Familie besteht aus Maqamat, die mit <a href="../jins/ajam.php">Jins ‘Ajam</a> beginnen.</p>

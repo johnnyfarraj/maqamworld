@@ -122,7 +122,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mijana and ‘Ataba</b>
                                     <span>Wadih Al-Safi</span>
-                                    <span>(Traditionelle libanesische Folklore)</span>
+                                    <span>(traditionelle libanesische Folklore)</span>
                                 </div>
                             </label>
                         </div>

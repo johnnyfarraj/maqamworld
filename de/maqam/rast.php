@@ -122,7 +122,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Waraqu el-Asfar Shahr Aylul</b>
                                     <span>Fairouz</span>
-                                    <span>Music von Philemon Wehbe</span>
+                                    <span>Musik von Philemon Wehbe</span>
                                 </div>
                             </label>
                         </div>
