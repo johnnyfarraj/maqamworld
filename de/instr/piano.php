@@ -75,7 +75,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ziad Rahbani</b>
-                                    <span>Ziad Rahbanis Hsu Hal-islam (1985) mit ihm selbst am arabischen Klavier</span>
+                                    <span>Ziad Rahbanis <strong>Hsu Hal-iyyam</strong> (1985) mit ihm selbst am arabischen Klavier</span>
                                 </div>
                             </label>
                         </div>
@@ -91,7 +91,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                 <b>W'Qamh</b>
-                                <span>Ziad Rahbanis Instrumentalkomposition W'Qamh im Maqam Hijaz mit Fusion-Arrangement von 1987</span>
+                                <span>Ziad Rahbanis Instrumentalkomposition <strong>W'Qamh</strong> im Maqam Hijaz mit Fusion-Arrangement von 1987</span>
                                 </div>
                             </label>
                         </div>

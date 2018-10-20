@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Tabl Baladi with Mizmar</b>
-                                    <span>Samira Tawfiqs Lied ‘Al-‘Ein Mulayyitein enthält ein Tabl Baladi, der vor allem den Iqa‘ Katakufti spielt. Außerdem zu sehen ist der armenisch-libanesische Perkussionist Setrak Sarkissian auf der Tabla.
+                                    <span>Samira Tawfiqs Lied <strong>‘Al-‘Ein Mulayyitein</strong> enthält ein Tabl Baladi, der vor allem den Iqa‘ Katakufti spielt. Außerdem zu sehen ist der armenisch-libanesische Perkussionist Setrak Sarkissian auf der Tabla.
                                     </span>
                                 </div>
                             </label>

@@ -65,7 +65,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Hassan Anwar</b>
-                                <span>Der Riq-Spieler Hassan Anwar, offizieller Dabet al-Iqa‘ des Diamond Orchestra in Ägypten, wechselt sich beim Solieren ab mit dem Org-Spieler Abdel Halim Hafez beim Stück Qari'at al-Fingan (1976, Musik von Muhammad al-Mugi).
+                                <span>Der Riq-Spieler Hassan Anwar, offizieller Dabet al-Iqa‘ des Diamond Orchestra in Ägypten, wechselt sich beim Solieren ab mit dem Org-Spieler Abdel Halim Hafez beim Stück <strong>Qari'at al-Fingan</strong> (1976, Musik von Muhammad al-Mugi).
                                 </span>
                                 </div>
                             </label>

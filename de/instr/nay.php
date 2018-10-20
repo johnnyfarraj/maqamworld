@@ -60,7 +60,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sayyed Salem</b>
-                                    <span>Sayyed Salem (Ägypten), der lange im Orchester von Umm Kulthum mitgespielt hat, spielt ein Nay-Solo während ihres Stückes Ba‘id ‘Annak (1965, Musik von Baligh Hamdi).</span>
+                                    <span>Sayyed Salem (Ägypten), der lange im Orchester von Umm Kulthum mitgespielt hat, spielt ein Nay-Solo während ihres Stückes <strong>Ba‘id ‘Annak</strong> (1965, Musik von Baligh Hamdi).</span>
                                 </div>
                             </label>
                         </div>
@@ -92,7 +92,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Reda Bdeir</b>
-                                    <span>Reda Bdeir (Ägypten) spielt Kulli Da Kan leh (1954, Musik von Muhammad Abdel Wahab).</span>
+                                    <span>Reda Bdeir (Ägypten) spielt <strong>Kulli Da Kan Leh</strong> (1954, Musik von Muhammad Abdel Wahab).</span>
                                 </div>
                             </label>
                         </div>

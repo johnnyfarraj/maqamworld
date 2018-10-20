@@ -78,7 +78,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ahmad al-Hifnawi</b>
-                                    <span>Egyptian violinist Ahmad al-Hifnawi (who played first violin in the Umm Kulthum orchestra) playing the traditional instrumental composition Tahmila Rast (Suznak), which includes a lot of improvisations. The ensemble also features George Michel on Oud, Mahmud ‘Effat on Nay and Hassan Anwar on Riqq</span>
+                                    <span>Egyptian violinist Ahmad al-Hifnawi (who played first violin in the Umm Kulthum orchestra) playing the traditional instrumental composition <strong>Tahmila Rast (Suznak)</strong>, which includes a lot of improvisations. The ensemble also features George Michel on Oud, Mahmud ‘Effat on Nay and Hassan Anwar on Riqq</span>
                                 </div>
                             </label>
                         </div>

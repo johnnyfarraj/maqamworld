@@ -126,7 +126,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Simon Shaheen</b>
-                                    <span>Der palästinensische Geiger Simon Shaheen spielt einen Violin-Taqsim im Maqam Rast begleitet von Iqa‘ Rumba, das mit der zweiten Hälfte von Riyat al-Sunbatis Instrumentalkomposition Longa Farahfaza endet.</span>
+                                    <span>Der palästinensische Geiger Simon Shaheen spielt einen Violin-Taqsim im Maqam Rast begleitet von Iqa‘ Rumba, das mit der zweiten Hälfte von Riyat al-Sunbatis Instrumentalkomposition <strong>Longa Farahfaza</strong> endet.</span>
                                 </div>
                             </label>
                         </div>

@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                 <b>Hawil Tiftikirni (1973)</b>
-                                <span>Abdel Halim Hafezs Hawil Tiftikirni (1973, Musik von Baligh Hamdi) beginnt mit einer arabischen elektrischen Orgel, dann kommen eine elektrische Gitarre und ein Solo von Samir Suour auf dem Saxofon.
+                                <span>Abdel Halim Hafezs <ßstrong>Hawil Tiftikirni</strong> (1973, Musik von Baligh Hamdi) beginnt mit einer arabischen elektrischen Orgel, dann kommen eine elektrische Gitarre und ein Solo von Samir Suour auf dem Saxofon.
                                 </span>
                                 </div>
                             </label>
@@ -73,7 +73,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Fat el-Ma‘ad (1967)</b>
-                                <span>Im Arrangement von Umm Kulthums Fat el-Ma‘ad (1967, Musik von Baligh Hamdi) sind Faruq Salama auf dem arabischen Akkordeon, Abdel Fattah Khayri an der elektrischen Gitarre sowie Samir Suour am Saxofon dabei.</span>
+                                <span>Im Arrangement von Umm Kulthums <strong>Fat el-Ma‘ad</strong> (1967, Musik von Baligh Hamdi) sind Faruq Salama auf dem arabischen Akkordeon, Abdel Fattah Khayri an der elektrischen Gitarre sowie Samir Suour am Saxofon dabei.</span>
                                 </div>
                             </label>
                         </div>

@@ -61,7 +61,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sayyed Salem</b>
-                                    <span>Sayyed Salem (Egypt), a longtime member of the Umm Kulthum Orchestra (Egypt) in a Nay solo during her song Ba‘id ‘Annak (1965, music by Baligh Hamdi)</span>
+                                    <span>Sayyed Salem (Egypt), a longtime member of the Umm Kulthum Orchestra (Egypt) in a Nay solo during her song <strong>Ba‘id ‘Annak</strong> (1965, music by Baligh Hamdi)</span>
                                 </div>
                             </label>
                         </div>

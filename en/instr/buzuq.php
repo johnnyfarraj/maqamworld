@@ -109,7 +109,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Zoro Yussef</b>
-                                    <span>Lebanese-Kurdish Buzuq player Zoro Yussef (Zoro Seîd Yûsiv) plays a Buzuq Taqism in <a href="../maqam/rast.php">Maqam Rast</a>, recorede live on Lebanese Television</span>
+                                    <span>Lebanese-Kurdish Buzuq player Zoro Yussef (Zoro Seîd Yûsiv) plays a Buzuq Taqism in <a href="../maqam/rast.php">Maqam Rast</a>, recorded live on Lebanese Television</span>
                                 </div>
                             </label>
                         </div>
@@ -125,7 +125,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Marhabtayn</b>
-                                    <span>Lebanese diva Sabah in her song Mahabtayn (recorded live in Kuweit) featuring the buzuq in her orchestra (conducted by violinist Abbud Abdel ‘Al)</span>
+                                    <span>Lebanese diva Sabah in her song <strong>Mahabtayn</strong> (recorded live in Kuweit) featuring the buzuq in her orchestra (conducted by violinist Abbud Abdel ‘Al)</span>
                                 </div>
                             </label>
                         </div>

@@ -61,7 +61,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Aw‘idak</b>
-                                    <span>Das National Arab Orchestra (USA) spielt Su‘ad Muhammads Stück Aw‘idak in einem Arrangement mit orientalischem Keyboard, elektrischer Gitarre und arabischen Instrumenten.</span>
+                                    <span>Das National Arab Orchestra (USA) spielt Su‘ad Muhammads Stück <strong>Aw‘idak</strong> in einem Arrangement mit orientalischem Keyboard, elektrischer Gitarre und arabischen Instrumenten.</span>
                                 </div>
                             </label>
                         </div>
@@ -77,7 +77,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Shamstep von 47Soul</b>
-                                <span>Die panpalästinensische Gruppe 47Soul hat das orientalische Keyboard um Soundeffekte erweitert, um das neue Genre Techno-Dabke zu generieren, wie in ihrem Hit Shamstep.</span>
+                                <span>Die panpalästinensische Gruppe 47Soul hat das orientalische Keyboard um Soundeffekte erweitert, um das neue Genre Techno-Dabke zu generieren, wie in ihrem Hit <strong>Shamstep</strong>.</span>
                                 </div>
                             </label>
                         </div>

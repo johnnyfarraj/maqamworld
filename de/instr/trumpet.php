@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ibrahim Maalouf</b>
-                                <span>Der libanesisch-französische Trompeter Ibrahim Maalouf covert Umm Kulthums Alf Leila w Leila (1969, Musik von Baligh Hamdi) in einem Jazz-Arrangement, das Raum lässt für Maqam-Skalen.</span>
+                                <span>Der libanesisch-französische Trompeter Ibrahim Maalouf covert Umm Kulthums <strong>Alf Leila w Leila</strong> (1969, Musik von Baligh Hamdi) in einem Jazz-Arrangement, das Raum lässt für Maqam-Skalen.</span>
                                 </div>
                             </label>
                         </div>

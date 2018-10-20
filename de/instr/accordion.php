@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ya Msahharni</b>
-                                    <span>Umm Kulthums Ya Msahharni (1972, Musik von Sayyed Makkawi) mit Faruq Salama (Äpypten) am arabischen Akkordeon</span>
+                                    <span>Umm Kulthums <strong>Ya Msahharni</strong> (1972, Musik von Sayyed Makkawi) mit Faruq Salama (Äpypten) am arabischen Akkordeon</span>
                                 </div>
                             </label>
                         </div>
