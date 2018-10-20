@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="609,45,13" href="#" alt="B4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					</map>
 
-                    <p>Jins Saba hat einen unklaren Umfang. Es ist hier notiert mit D als Tonika und zwei Möglichkeiten für den Ghammaz: der dritten Stufe (F) oder sechsten Stufe (B♭). Jins Saba ist das erste Jins im <a href="../maqam/saba.php">Maqam Saba</a>.
+                    <p>Jins Saba hat einen unklaren Umfang. Es ist hier notiert mit D als Tonika und zwei Möglichkeiten für den Ghammaz: der dritten Stufe (F) oder sechsten Stufe (B). Jins Saba ist das erste Jins im <a href="../maqam/saba.php">Maqam Saba</a>.
                     </p>
 
                     <div class="player-area">

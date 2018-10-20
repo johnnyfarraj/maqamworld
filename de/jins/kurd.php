@@ -123,7 +123,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mashghul ‘Aleik</b>
-                                    <span>Vocals and Musik by Karem Mahmoud</span>
+                                    <span>Gesang und Musik von Karem Mahmoud</span>
                                 </div>
                             </label>
                         </div>

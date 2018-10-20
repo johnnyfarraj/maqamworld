@@ -54,7 +54,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="449,52,13" href="#" alt="B4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					</map>
 
-                    <p>Jins Musta’ar ist ein Dreiton-Jins. Es ist hier notiert mit dem um einen Viertelton abgesenkten E<i class="icon-halfflat"></i> (dieser Ton wird auch Sikah genannt) als Grundton und G als Ghammaz. Jins Musta’ar ist das erste Jins in <a href="../maqam/mustaar.php">Maqam Musta‘ar</a>.
+                    <p>Jins Musta’ar ist ein Dreiton-Jins. Es ist hier notiert mit dem um einen Viertelton abgesenkten E (dieser Ton wird auch Sikah genannt) als Grundton und G als Ghammaz. Jins Musta’ar ist das erste Jins in <a href="../maqam/mustaar.php">Maqam Musta‘ar</a>.
                     </p>
 
                     <div class="player-area">

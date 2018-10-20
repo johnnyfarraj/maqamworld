@@ -30,23 +30,22 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading text-center jins">
                         <h1>Das Jins</h1>
-                        <h3>Fragment von drei, vier oder fünf Tönen,</h3>
-                        <h3>aus denen Maqamat sich zusammensetzen</h3>
+                        <h3>Fragment von drei, vier oder fünf Tönen, aus denen Maqamat sich zusammensetzen</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Jins-Verzeichnis</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/jins.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache der Jins/Ajnas</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/jins.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Jins/Ajnas</a>
                     </div>
 
                     <p>Ein <em>Jins</em> (im Arabischen maskulin; Plural: Ajnas) ist ein Maqamfragment von drei, vier oder fünf Tönen. Das <em>Jins</em> ist die kleinste melodische Einheit in der arabischen Musik. Anders gesagt, ist ein <a href="maqam.php">Maqam</a> ein Pfad, der über mehrere Ajnas hinwegführt. Jedes <em>Jins</em> ist durch seine Intervalle definiert. Diese verändern sich nicht, wenn es transponiert wird. Sie geben dem <em>Jins</em> seinen eindeutigen und wiedererkennbaren Charakter.
                     </p>
 
-                    <p>Die Tonika eines <em>Jins</em> ist die Note der melodischen Hauptbetonung, also der Ton, dem die Melodie zur Auflösung zustrebt. Zumeist ist dies der erste Ton der <em>Jins</em>-Skala. Der führende Ton ist der Ton unmittelbar unter der Tonika des <em>Jins</em>. Der <em>Ghammaz</em> ist neben der Tonika die wichtigste Note der melodischen Betonung. Außerdem ist er meist auch der Startpunkt eines neuen <em>Jins</em>. Zu einem neuen <em>Jins</em> oder <em>Maqam</em> zu wechseln, wird als Modulation bezeichnet.
+                    <p>Die Tonika eines <em>Jins</em> ist der melodische Hauptschwerpunkt, also der Ton, dem die Melodie zur Auflösung zustrebt. Zumeist ist dies der erste Ton der <em>Jins</em>-Skala. Der führende Ton ist der Ton unmittelbar unter der Tonika des <em>Jins</em>. Der <em>Ghammaz</em> ist neben der Tonika ein weiterer wichtiger Schwerpunkt innerhalb der Melodie. Außerdem ist er meist auch der Startpunkt eines neuen <em>Jins</em>. Zu einem neuen <em>Jins</em> oder <em>Maqam</em> zu wechseln, wird als Modulation bezeichnet.
                     </p>
 
-                    <p>Der Umfang eines <em>Jins</em> ist die Anzahl von Tönen zwischen Tonika und <em>Ghammaz</em>. Diese Töne heißen <em>Jins</em>-Grundskala (oder einfach nur <em>Jins</em>-Skala). Außerhalb der Grundskala gibt es auf tiefere und höhere Töne, die implizit zum melodischen Vokabular des <em>Jins</em> gehören. Diese Töne werden als Jinsgepäck (englisch: Jins baggage) bezeichnet. Die Grundkala plus das Jinsgepäck ergeben die erweiterte <em>Jins</em>-Skala.
+                    <p>Der Umfang eines <em>Jins</em> ist die Anzahl von Tönen zwischen Tonika und <em>Ghammaz</em>. Diese Töne heißen <em>Jins</em>-Grundskala (oder einfach nur <em>Jins</em>-Skala). Außerhalb der Grundskala gibt es auch tiefere und höhere Töne, die implizit zum melodischen Vokabular des <em>Jins</em> gehören. Diese Töne werden als Jinsgepäck (englisch: Jins baggage) bezeichnet. Die Grundkala plus das Jinsgepäck ergeben die erweiterte <em>Jins</em>-Skala.
                     </p>
 
                     <p>Jedes Jins zeigt die Grundkala. Deren Töne werden groß dargestellt. Die Tonika und der <em>Ghammaz</em> sind als ganze Noten geschrieben. Die Jinsgepäck-Töne werden kleiner dargestellt. Manchmal gibt es auch mehrere Optionen für einige Töne im Jinsgepäck.</p>
@@ -72,8 +71,8 @@ include($ROOT . 'inc/head.php');
                                    <li><a href="jins/hijaz_murassaa.php">Jins Hijaz Murassa‘</a></li>
                                    <li><a href="jins/kurd.php">Jins Kurd</a></li>
                                    <li><a href="jins/lami.php">Jins Lami</a></li>
-                                   <li><a href="jins/upper_ajam.php">Jins Upper ‘Ajam</a></li>
-                                   <li><a href="jins/upper_rast.php">Jins Upper Rast</a></li>
+                                   <li><a href="jins/upper_ajam.php">Jins Ober-‘Ajam</a></li>
+                                   <li><a href="jins/upper_rast.php">Jins Ober-Rast</a></li>
                                 </ul>
                             </div>
                             <div class="col-sm-3">

@@ -54,7 +54,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="455,40,12" href="#" alt="D5" class="playNote" data-frequency="586.66" data-parent="#notation1">
 					</map>
 
-                    <p>Jins Ober-’Ajam ist eine Vierton-Version von <a href="ajam.php">Jins ‘Ajam</a>, mit der mit Jins <a href="upper_rast.php">Ober-Rast</a> geteilten Besonderheit, dass die Tonika die letzte Tonstufe und nicht etwa die erste ist. Es ist hier notiert mit G als ghammaz und C als Tonika. Jins Ober-’Ajam ist das zweite Jins im <a href="../maqam/ajam.php">Maqam ‘Ajam</a> und kommt auch auf der dritten Stufe von <a href="../maqam/bayati.php">Maqam Bayati</a> vor.</p>
+                    <p>Jins Ober-’Ajam ist eine Vierton-Version von <a href="ajam.php">Jins ‘Ajam</a>, mit der mit Jins <a href="upper_rast.php">Ober-Rast</a> geteilten Besonderheit, dass die Tonika die letzte Tonstufe und nicht etwa die erste ist. Es ist hier notiert mit G als Ghammaz und C als Tonika. Jins Ober-’Ajam ist das zweite Jins im <a href="../maqam/ajam.php">Maqam ‘Ajam</a> und kommt auch auf der dritten Stufe von <a href="../maqam/bayati.php">Maqam Bayati</a> vor.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

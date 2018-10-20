@@ -55,7 +55,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="504,52,13" href="#" alt="B4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 
 					</map>
-                    <p>Jins Saba Zamzam hat ebenso wie Jins Saba keinen fest definierten Umfang. Es ist hier mit D als Tonika und zwei Möglichkeiten für den Ghammaz notiert: der dritten Stufe (notiert als F) und der sechsten Stufe (notiert als B♭). Jins Saba Zamzam ist das erste Jins im Maqam <a href="../maqam/saba_zamzam.php">Maqam Saba Zamzam</a>.</p>
+                    <p>Jins Saba Zamzam hat ebenso wie Jins Saba keinen fest definierten Umfang. Es ist hier mit D als Tonika und zwei Möglichkeiten für den Ghammaz notiert: der dritten Stufe (notiert als F) und der sechsten Stufe (notiert als B). Jins Saba Zamzam ist das erste Jins im Maqam <a href="../maqam/saba_zamzam.php">Maqam Saba Zamzam</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

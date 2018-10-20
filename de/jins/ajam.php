@@ -145,10 +145,6 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-
-                    <a href="http://maqamlessons.com" class="btn btn-primary read-more" target="_blank"><b>Read More</b>Erfahren Sie mehr über XX
- Jins ‘Ajam auf MaqamLessons.com</a>
-
                 </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
