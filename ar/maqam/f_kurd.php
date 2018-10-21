@@ -30,28 +30,33 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading text-center jins">
                         <h1>عائلة مقام الكُرد</h1>
-                        <h3>Maqamat that start with <a href="../jins/kurd.php">Jins Kurd</a></h3>
+                        <h3>عائلة المقامات التي تبدأ 
+                            <a href="../jins/kurd.php">بجنس الكُرد</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل المقامات</a>
                     <div class="clearfix"></div>
 
-                    <p>عائلة مقام الكُرد is made of <em>maqamat</em> that start with <a href="../jins/kurd.php">Jins Kurd</a>.</h5>
+                    <h5>تتألف عائلة الكُرد من المقامات التي يبدأ سلّمها
+                        <a href="../jins/kurd.php">بجنس الكُرد</a>
+                        (وهو جنس الجذر في هذه العائلة).
+                        وتوصف هذه االمقامات بأنها تتفرّع من مقام الكُرد، وهو المقام الاساسي في هذه العائلة.
+                    </h5>
 
                     <!-- TODO we need to format this list in a nice way -->
                     <ul>
-                        <li><a href="kurd.php">مقام كُرد</a></li>
-                        <li><a href="hijazkar_kurd.php">مقام حجازكار كُرد</a></li>
+                        <li><h5><a href="kurd.php">مقام كُرد</a></h5></li>
+                        <li><h5><a href="hijazkar_kurd.php">مقام حجازكار كُرد</a></h5></li>
                     </ul>
 
                     <h5>عائلات المقامات الاخرى:</h5>
                     <ul>
-                        <li><a href="f_ajam.php">عائلة مقام العجم</a></li>
-                        <li><a href="f_bayati.php">عائلة مقام البياتي</a></li>
-                        <li><a href="f_hijaz.php">عائلة مقام الحجاز</a></li>
-                        <li><a href="f_nahawand.php">عائلة مقام النهاوند</a></li>
-                        <li><a href="f_nikriz.php">عائلة مقام النِكريز</a></li>
-                        <li><a href="f_rast.php">عائلة مقام الراست</a></li>
-                        <li><a href="f_sikah.php">عائلة مقام السيكاه</a></li>
+                        <li><h5><a href="f_ajam.php">عائلة مقام العجم</a></h5></li>
+                        <li><h5><a href="f_bayati.php">عائلة مقام البياتي</a></h5></li>
+                        <li><h5><a href="f_hijaz.php">عائلة مقام الحجاز</a></h5></li>
+                        <li><h5><a href="f_nahawand.php">عائلة مقام النهاوند</a></h5></li>
+                        <li><h5><a href="f_nikriz.php">عائلة مقام النِكريز</a></h5></li>
+                        <li><h5><a href="f_rast.php">عائلة مقام الراست</a></h5></li>
+                        <li><h5><a href="f_sikah.php">عائلة مقام السيكاه</a></h5></li>
                     </ul>
 
                 </div>

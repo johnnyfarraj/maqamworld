@@ -30,32 +30,38 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading text-center jins">
                         <h1>عائلة مقام الحجاز</h1>
-                        <h3>Maqamat that start with <a href="../jins/hijaz.php">Jins Hijaz</a></h3>
+                        <h3>عائلة المقامات التي تبدأ 
+                            <a href="../jins/hijaz.php">بجنس الحجاز</a></h3>
                     </div>
+                    
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل المقامات</a>
                     <div class="clearfix"></div>
 
-                    <p>عائلة مقام الحجاز is made of <em>maqamat</em> that start with <a href="../jins/hijaz.php">Jins Hijaz</a>.</h5>
+                    <h5>تتألف عائلة الحجاز من المقامات التي يبدأ سلّمها
+                        <a href="../jins/hijaz.php">بجنس الحجاز</a>
+                        (وهو جنس الجذر في هذه العائلة).
+                        وتوصف هذه االمقامات بأنها تتفرّع من مقام الحجاز، وهو المقام الاساسي في هذه العائلة.
+                    </h5>
 
                     <!-- TODO we need to format this list in a nice way -->
                     <ul>
-                        <li><a href="hijaz.php">مقام حجاز</a></li>
-                        <li><a href="hijazkar.php">مقام حجازكار</a></li>
-                        <li><a href="hijazkar.php">مقام شَدّ عَرَبان</a></li>
-                        <li><a href="hijazkar.php">مقام شاهناز</a></li>
-                        <li><a href="hijazkar.php">مقام سوزدِل</a></li>
-                        <li><a href="zanjaran.php">مقام زَنجَران</a></li>
+                        <li><h5><a href="hijaz.php">مقام حجاز</a></h5></li>
+                        <li><h5><a href="hijazkar.php">مقام حجازكار</a></h5></li>
+                        <li><h5><a href="hijazkar.php">مقام شَدّ عَرَبان</a></h5></li>
+                        <li><h5><a href="hijazkar.php">مقام شاهناز</a></h5></li>
+                        <li><h5><a href="hijazkar.php">مقام سوزدِل</a></h5></li>
+                        <li><h5><a href="zanjaran.php">مقام زَنجَران</a></h5></li>
                     </ul>
 
                     <h5>عائلات المقامات الاخرى:</h5>
                     <ul>
-                        <li><a href="f_ajam.php">عائلة مقام العجم</a></li>
-                        <li><a href="f_bayati.php">عائلة مقام البياتي</a></li>
-                        <li><a href="f_kurd.php">عائلة مقام الكُرد</a></li>
-                        <li><a href="f_nahawand.php">عائلة مقام النهاوند</a></li>
-                        <li><a href="f_nikriz.php">عائلة مقام النِكريز</a></li>
-                        <li><a href="f_rast.php">عائلة مقام الراست</a></li>
-                        <li><a href="f_sikah.php">عائلة مقام السيكاه</a></li>
+                        <li><h5><a href="f_ajam.php">عائلة مقام العجم</a></h5></li>
+                        <li><h5><a href="f_bayati.php">عائلة مقام البياتي</a></h5></li>
+                        <li><h5><a href="f_kurd.php">عائلة مقام الكُرد</a></h5></li>
+                        <li><h5><a href="f_nahawand.php">عائلة مقام النهاوند</a></h5></li>
+                        <li><h5><a href="f_nikriz.php">عائلة مقام النِكريز</a></h5></li>
+                        <li><h5><a href="f_rast.php">عائلة مقام الراست</a></h5></li>
+                        <li><h5><a href="f_sikah.php">عائلة مقام السيكاه</a></h5></li>
                     </ul>
 
                 </div>

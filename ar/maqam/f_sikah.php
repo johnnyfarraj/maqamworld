@@ -30,33 +30,38 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading text-center jins">
                         <h1>عائلة مقام السيكاه</h1>
-                        <h3>Maqamat that start with <a href="../jins/sikah.php">Jins Sikah</a></h3>
+                        <h3>عائلة المقامات التي تبدأ 
+                            <a href="../jins/sikah.php">بجنس السيكاه</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل المقامات</a>
                     <div class="clearfix"></div>
 
-                    <p>عائلة مقام السيكاه is made of <em>maqamat</em> that start with <a href="../jins/sikah.php">Jins Sikah</a>.</h5>
+                    <h5>تتألف عائلة السيكاه من المقامات التي يبدأ سلّمها
+                        <a href="../jins/sikah.php">بجنس السيكاه</a>
+                        (وهو جنس الجذر في هذه العائلة).
+                        وتوصف هذه االمقامات بأنها تتفرّع من مقام السيكاه، وهو المقام الاساسي في هذه العائلة.
+                    </h5>
 
                     <!-- TODO we need to format this list in a nice way -->
                     <ul>
-                        <li><a href="sikah.php">مقام سيكاه</a></li>
-                        <li><a href="huzam.php">مقام هُزام</a></li>
-                        <li><a href="huzam.php">مقام راحة الارواح</a></li>
-                        <li><a href="iraq.php">مقام عراق</a></li>
-                        <li><a href="awj_iraq.php">مقام أوج عراق</a></li>
-                        <li><a href="bastanikar.php">مقام بَسته نِكار</a></li>
-                        <li><a href="mustr.php">مقام مُستعار</a></li>
+                        <li><h5><a href="sikah.php">مقام سيكاه</a></h5></li>
+                        <li><h5><a href="huzam.php">مقام هُزام</a></h5></li>
+                        <li><h5><a href="huzam.php">مقام راحة الارواح</a></h5></li>
+                        <li><h5><a href="iraq.php">مقام عراق</a></h5></li>
+                        <li><h5><a href="awj_iraq.php">مقام أوج عراق</a></h5></li>
+                        <li><h5><a href="bastanikar.php">مقام بَسته نِكار</a></h5></li>
+                        <li><h5><a href="mustr.php">مقام مُستعار</a></h5></li>
                     </ul>
 
                     <h5>عائلات المقامات الاخرى:</h5>
                     <ul>
-                        <li><a href="f_ajam.php">عائلة مقام العجم</a></li>
-                        <li><a href="f_bayati.php">عائلة مقام البياتي</a></li>
-                        <li><a href="f_hijaz.php">عائلة مقام الحجاز</a></li>
-                        <li><a href="f_kurd.php">عائلة مقام الكُرد</a></li>
-                        <li><a href="f_nahawand.php">عائلة مقام النهاوند</a></li>
-                        <li><a href="f_nikriz.php">عائلة مقام النِكريز</a></li>
-                        <li><a href="f_rast.php">عائلة مقام الراست</a></li>
+                        <li><h5><a href="f_ajam.php">عائلة مقام العجم</a></h5></li>
+                        <li><h5><a href="f_bayati.php">عائلة مقام البياتي</a></h5></li>
+                        <li><h5><a href="f_hijaz.php">عائلة مقام الحجاز</a></h5></li>
+                        <li><h5><a href="f_kurd.php">عائلة مقام الكُرد</a></h5></li>
+                        <li><h5><a href="f_nahawand.php">عائلة مقام النهاوند</a></h5></li>
+                        <li><h5><a href="f_nikriz.php">عائلة مقام النِكريز</a></h5></li>
+                        <li><h5><a href="f_rast.php">عائلة مقام الراست</a></h5></li>
                     </ul>
 
                 </div>
