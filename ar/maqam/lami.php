@@ -42,14 +42,14 @@ include($ROOT . 'inc/head.php');
                         <p class="clicknotes_ar">إضغط على العلامة الموسيقية بالفأرة حتى تسمع نغمتها.</p>
                     </div>
                      <map name="notemap">
-		  <area shape="circle" coords="53,130,13" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1">
-		  <area shape="circle" coords="130,122,13" href="#" alt="E4♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
-		  <area shape="circle" coords="208,113,13" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1">
-		  <area shape="circle" coords="286,105,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-		  <area shape="circle" coords="364,97,13" href="#" alt="A4♭" class="playNote" data-frequency="420" data-parent="#notation1">
-		  <area shape="circle" coords="440,88,13" href="#" alt="B4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
-		  <area shape="circle" coords="517,80,13" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1">
-		  <area shape="circle" coords="594,72,13" href="#" alt="D5" class="playNote" data-frequency="586.66" data-parent="#notation1">
+		  <area shape="circle" coords="53,130,13" href="#" alt="ري" class="playNote" data-frequency="293.33" data-parent="#notation1">
+		  <area shape="circle" coords="130,122,13" href="#" alt="مي♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
+		  <area shape="circle" coords="208,113,13" href="#" alt="فا" class="playNote" data-frequency="347.65" data-parent="#notation1">
+		  <area shape="circle" coords="286,105,13" href="#" alt="صول" class="playNote" data-frequency="391.11" data-parent="#notation1">
+		  <area shape="circle" coords="364,97,13" href="#" alt="لا♭" class="playNote" data-frequency="420" data-parent="#notation1">
+		  <area shape="circle" coords="440,88,13" href="#" alt="سي♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
+		  <area shape="circle" coords="517,80,13" href="#" alt="دو" class="playNote" data-frequency="521.48" data-parent="#notation1">
+		  <area shape="circle" coords="594,72,13" href="#" alt="ري" class="playNote" data-frequency="586.66" data-parent="#notation1">
                       <!-- Links -->
                       <area shape="rect" coords="100,9,220,37" href="../jins/lami.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="340,140,460,167" href="../jins/kurd.php" class="mapLink" data-parent="#notation1">

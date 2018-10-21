@@ -43,14 +43,14 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-	  <area shape="circle" coords="60,136,13" href="#" alt="C4" class="playNote" data-frequency=" 260.74" data-parent="#notation1"><!-- tonic -->
-	  <area shape="circle" coords="136,128,13" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1">
-	  <area shape="circle" coords="213,120,13" href="#" alt="E4♭" class="playNote" data-frequency="315" data-parent="#notation1"><!-- Nikriz 3rd -->
-	  <area shape="circle" coords="291,112,13" href="#" alt="F4♯" class="playNote" data-frequency="375" data-parent="#notation1"><!-- Nikriz 4th -->
-	  <area shape="circle" coords="368,104,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-	  <area shape="circle" coords="445,94,13" href="#" alt="A4♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- Hijaz 2 tuned up from 420 -->
-	  <area shape="circle" coords="522,86,13" href="#" alt="B4♮" class="playNote" data-frequency="492" data-parent="#notation1"><!-- Hijaz 3 tuned down from 495 -->
-	  <area shape="circle" coords="599,78,13" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1"><!-- octave -->
+	  <area shape="circle" coords="60,136,13" href="#" alt="دو" class="playNote" data-frequency=" 260.74" data-parent="#notation1"><!-- tonic -->
+	  <area shape="circle" coords="136,128,13" href="#" alt="ري" class="playNote" data-frequency="293.33" data-parent="#notation1">
+	  <area shape="circle" coords="213,120,13" href="#" alt="مي♭" class="playNote" data-frequency="315" data-parent="#notation1"><!-- Nikriz 3rd -->
+	  <area shape="circle" coords="291,112,13" href="#" alt="قا♯" class="playNote" data-frequency="375" data-parent="#notation1"><!-- Nikriz 4th -->
+	  <area shape="circle" coords="368,104,13" href="#" alt="صول" class="playNote" data-frequency="391.11" data-parent="#notation1">
+	  <area shape="circle" coords="445,94,13" href="#" alt="لا♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- Hijaz 2 tuned up from 420 -->
+	  <area shape="circle" coords="522,86,13" href="#" alt="سي♮" class="playNote" data-frequency="492" data-parent="#notation1"><!-- Hijaz 3 tuned down from 495 -->
+	  <area shape="circle" coords="599,78,13" href="#" alt="دو" class="playNote" data-frequency="521.48" data-parent="#notation1"><!-- octave -->
                       <!-- Links -->
                       <area shape="rect" coords="129,6,260,36" href="../jins/nikriz.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="327,147,480,180" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">

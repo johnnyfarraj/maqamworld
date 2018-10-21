@@ -43,14 +43,14 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-	  <area shape="circle" coords="73,140,13" href="#" alt="B3<i class='icon-halfflat'></i>" class="playNote" data-frequency="241" data-parent="#notation1"><!-- Sikah tonic variable-->
-	  <area shape="circle" coords="150,132,13" href="#" alt="C4" class="playNote" data-frequency="260.74" data-parent="#notation1">
-	  <area shape="circle" coords="227,124,13" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1">
-	  <area shape="circle" coords="304,116,13" href="#" alt="E4<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!-- Bayati 2 variable -->
-	  <area shape="circle" coords="381,108,13" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1">
-	  <area shape="circle" coords="459,100,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-	  <area shape="circle" coords="536,90,13" href="#" alt="A4" class="playNote" data-frequency="440" data-parent="#notation1">
-	  <area shape="circle" coords="614,83,13" href="#" alt="B4<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!--var-->
+	  <area shape="circle" coords="73,140,13" href="#" alt="سي<i class='icon-halfflat'></i>" class="playNote" data-frequency="241" data-parent="#notation1"><!-- Sikah tonic variable-->
+	  <area shape="circle" coords="150,132,13" href="#" alt="دو" class="playNote" data-frequency="260.74" data-parent="#notation1">
+	  <area shape="circle" coords="227,124,13" href="#" alt="ري" class="playNote" data-frequency="293.33" data-parent="#notation1">
+	  <area shape="circle" coords="304,116,13" href="#" alt="مي<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!-- Bayati 2 variable -->
+	  <area shape="circle" coords="381,108,13" href="#" alt="فا" class="playNote" data-frequency="347.65" data-parent="#notation1">
+	  <area shape="circle" coords="459,100,13" href="#" alt="صول" class="playNote" data-frequency="391.11" data-parent="#notation1">
+	  <area shape="circle" coords="536,90,13" href="#" alt="لا" class="playNote" data-frequency="440" data-parent="#notation1">
+	  <area shape="circle" coords="614,83,13" href="#" alt="سي<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!--var-->
                         <!-- Links -->
                       <area shape="rect" coords="83,4,204,32" href="../jins/sikah.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="276,5,403,33" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">

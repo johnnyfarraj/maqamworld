@@ -43,19 +43,19 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="68,128,13" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1">
-					  <area shape="circle" coords="145,120,13" href="#" alt="E4<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!-- variable -->
-					  <area shape="circle" coords="222,112,13" href="#" alt="F4" class="playNote" data-frequency="345" data-parent="#notation1"><!-- fine tune down from 347.65 -->
-					  <area shape="circle" coords="300,104,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="377,96,13" href="#" alt="A4" class="playNote" data-frequency="440" data-parent="#notation1">
-					  <area shape="circle" coords="454,88,13" href="#" alt="B4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
-					  <area shape="circle" coords="531,80,13" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1">
-					  <area shape="circle" coords="609,72,13" href="#" alt="D5" class="playNote" data-frequency="586.66" data-parent="#notation1">
-				      <area shape="circle" coords="684,104,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="762,96,13" href="#" alt="A4" class="playNote" data-frequency="440" data-parent="#notation1">
-					  <area shape="circle" coords="841,88,13" href="#" alt="B4<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!--var-->
-                      <area shape="circle" coords="917,80,13" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1">
-                      <area shape="circle" coords="995,72,13" href="#" alt="D5" class="playNote" data-frequency="586.66" data-parent="#notation1">
+					  <area shape="circle" coords="68,128,13" href="#" alt="ري" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="145,120,13" href="#" alt="مي<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!-- variable -->
+					  <area shape="circle" coords="222,112,13" href="#" alt="فا" class="playNote" data-frequency="345" data-parent="#notation1"><!-- fine tune down from 347.65 -->
+					  <area shape="circle" coords="300,104,13" href="#" alt="صول" class="playNote" data-frequency="391.11" data-parent="#notation1">
+					  <area shape="circle" coords="377,96,13" href="#" alt="لا" class="playNote" data-frequency="440" data-parent="#notation1">
+					  <area shape="circle" coords="454,88,13" href="#" alt="سي♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
+					  <area shape="circle" coords="531,80,13" href="#" alt="دو" class="playNote" data-frequency="521.48" data-parent="#notation1">
+					  <area shape="circle" coords="609,72,13" href="#" alt="ري" class="playNote" data-frequency="586.66" data-parent="#notation1">
+				      <area shape="circle" coords="684,104,13" href="#" alt="صول" class="playNote" data-frequency="391.11" data-parent="#notation1">
+					  <area shape="circle" coords="762,96,13" href="#" alt="لا" class="playNote" data-frequency="440" data-parent="#notation1">
+					  <area shape="circle" coords="841,88,13" href="#" alt="سي<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!--var-->
+                      <area shape="circle" coords="917,80,13" href="#" alt="دو" class="playNote" data-frequency="521.48" data-parent="#notation1">
+                      <area shape="circle" coords="995,72,13" href="#" alt="ري" class="playNote" data-frequency="586.66" data-parent="#notation1">
                        <!-- Links -->
                       <area shape="rect" coords="111,7,242,36" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="370,8,549,37" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">

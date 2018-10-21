@@ -43,15 +43,15 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-                      <area shape="circle" coords="79,128,12" href="#" alt="E4<i class='icon-halfflat'></i>" class="playNote" data-frequency="321.33" data-parent="#notation1"><!--variable-->
-                      <area shape="circle" coords="145,120,13" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1">
-                      <area shape="circle" coords="225,112,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-                      <area shape="circle" coords="301,102,13" href="#" alt="A4♮↓" class="playNote" data-frequency="433" data-parent="#notation1"><!--variable down from 440 -->
-                      <area shape="circle" coords="378,94,13" href="#" alt="B4♭↓" class="playNote" data-frequency="454" data-parent="#notation1"><!--variable down from 463.53 -->
-                      <area shape="circle" coords="456,86,13" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1"><!-- Jins Upper Rast -->
-                      <area shape="circle" coords="533,78,13" href="#" alt="D5" class="playNote" data-frequency="586.66" data-parent="#notation1">
-                      <area shape="circle" coords="610,69,13" href="#" alt="E5<i class='icon-halfflat'></i>" class="playNote" data-frequency="642.66" data-parent="#notation1"><!-- identical yo Jins Upper Rast 3rd -->
-                      <area shape="circle" coords="688,61,13" href="#" alt="F5" class="playNote" data-frequency="695.3" data-parent="#notation1">
+                      <area shape="circle" coords="79,128,12" href="#" alt="مي<i class='icon-halfflat'></i>" class="playNote" data-frequency="321.33" data-parent="#notation1"><!--variable-->
+                      <area shape="circle" coords="145,120,13" href="#" alt="فا" class="playNote" data-frequency="347.65" data-parent="#notation1">
+                      <area shape="circle" coords="225,112,13" href="#" alt="صول" class="playNote" data-frequency="391.11" data-parent="#notation1">
+                      <area shape="circle" coords="301,102,13" href="#" alt="لا♮↓" class="playNote" data-frequency="433" data-parent="#notation1"><!--variable down from 440 -->
+                      <area shape="circle" coords="378,94,13" href="#" alt="سي♭↓" class="playNote" data-frequency="454" data-parent="#notation1"><!--variable down from 463.53 -->
+                      <area shape="circle" coords="456,86,13" href="#" alt="دو" class="playNote" data-frequency="521.48" data-parent="#notation1"><!-- Jins Upper Rast -->
+                      <area shape="circle" coords="533,78,13" href="#" alt="ري" class="playNote" data-frequency="586.66" data-parent="#notation1">
+                      <area shape="circle" coords="610,69,13" href="#" alt="مي<i class='icon-halfflat'></i>" class="playNote" data-frequency="642.66" data-parent="#notation1"><!-- identical yo Jins Upper Rast 3rd -->
+                      <area shape="circle" coords="688,61,13" href="#" alt="فا" class="playNote" data-frequency="695.3" data-parent="#notation1">
                        <!-- Links -->
                       <area shape="rect" coords="180,14,330,43" href="../jins/jiharkah.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="490,149,672,182" href="../jins/upper_rast.php" class="mapLink" data-parent="#notation1">

@@ -43,15 +43,15 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-	  <area shape="circle" coords="55,95,13" href="#" alt="A4" class="playNote" data-frequency="440" data-parent="#notation1">
-	  <area shape="circle" coords="131,87,13" href="#" alt="B4<i class='icon-halfflat'></i>" class="playNote" data-frequency="480" data-parent="#notation1"><!--Bayati LA 2nd, variable -->
-	  <area shape="circle" coords="183,87,13" href="#" alt="B4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
-	  <area shape="circle" coords="233,79,13" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1">
-	  <area shape="circle" coords="313,71,13" href="#" alt="D5" class="playNote" data-frequency="586.66" data-parent="#notation1">
-	  <area shape="circle" coords="391,103,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-	  <area shape="circle" coords="470,111,13" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1">
-	  <area shape="circle" coords="551,121,13" href="#" alt="E4<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!-- Bayati RE 2nd, variable -->
-	  <area shape="circle" coords="630,129,13" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1">
+	  <area shape="circle" coords="55,95,13" href="#" alt="لا" class="playNote" data-frequency="440" data-parent="#notation1">
+	  <area shape="circle" coords="131,87,13" href="#" alt="سي<i class='icon-halfflat'></i>" class="playNote" data-frequency="480" data-parent="#notation1"><!--Bayati LA 2nd, variable -->
+	  <area shape="circle" coords="183,87,13" href="#" alt="سي♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
+	  <area shape="circle" coords="233,79,13" href="#" alt="دو" class="playNote" data-frequency="521.48" data-parent="#notation1">
+	  <area shape="circle" coords="313,71,13" href="#" alt="ري" class="playNote" data-frequency="586.66" data-parent="#notation1">
+	  <area shape="circle" coords="391,103,13" href="#" alt="صول" class="playNote" data-frequency="391.11" data-parent="#notation1">
+	  <area shape="circle" coords="470,111,13" href="#" alt="فا" class="playNote" data-frequency="347.65" data-parent="#notation1">
+	  <area shape="circle" coords="551,121,13" href="#" alt="مي<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!-- Bayati RE 2nd, variable -->
+	  <area shape="circle" coords="630,129,13" href="#" alt="ري" class="playNote" data-frequency="293.33" data-parent="#notation1">
                        <!-- Links -->
 		<!-- Husayni is not a Jins, it's a special case (documented in IAM)
                       <area shape="rect" coords="116,8,304,39" href="../jins/husayni.php" class="mapLink" data-parent="#notation1">

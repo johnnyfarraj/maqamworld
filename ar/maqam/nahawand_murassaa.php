@@ -43,14 +43,14 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-	  <area shape="circle" coords="44,137,13" href="#" alt="C4" class="playNote" data-frequency="260.74" data-parent="#notation1">
-	  <area shape="circle" coords="120,128,13" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1">
-	  <area shape="circle" coords="197,121,13" href="#" alt="E4♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
-	  <area shape="circle" coords="275,112,13" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1"><!-- Hijaz tonic-->
-	  <area shape="circle" coords="352,104,13" href="#" alt="G4♭" class="playNote" data-frequency="368" data-parent="#notation1"><!-- Hijaz 2nd tuned up from 365.32 -->
-	  <area shape="circle" coords="429,96,13" href="#" alt="A4♮" class="playNote" data-frequency="437" data-parent="#notation1"><!-- Hijaz 3rd tuned down from 440-->
-	  <area shape="circle" coords="506,88,13" href="#" alt="B4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
-	  <area shape="circle" coords="585,79,13" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1">
+	  <area shape="circle" coords="44,137,13" href="#" alt="دو" class="playNote" data-frequency="260.74" data-parent="#notation1">
+	  <area shape="circle" coords="120,128,13" href="#" alt="ري" class="playNote" data-frequency="293.33" data-parent="#notation1">
+	  <area shape="circle" coords="197,121,13" href="#" alt="مي♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
+	  <area shape="circle" coords="275,112,13" href="#" alt="فا" class="playNote" data-frequency="347.65" data-parent="#notation1"><!-- Hijaz tonic-->
+	  <area shape="circle" coords="352,104,13" href="#" alt="صول♭" class="playNote" data-frequency="368" data-parent="#notation1"><!-- Hijaz 2nd tuned up from 365.32 -->
+	  <area shape="circle" coords="429,96,13" href="#" alt="لا♮" class="playNote" data-frequency="437" data-parent="#notation1"><!-- Hijaz 3rd tuned down from 440-->
+	  <area shape="circle" coords="506,88,13" href="#" alt="سي♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
+	  <area shape="circle" coords="585,79,13" href="#" alt="دو" class="playNote" data-frequency="521.48" data-parent="#notation1">
                        <!-- Links -->
                       <area shape="rect" coords="53,7,331,36" href="../jins/nahawand_murass.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="337,141,454,174" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">

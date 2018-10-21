@@ -43,14 +43,14 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-	  <area shape="circle" coords="78,125,13" href="#" alt="E4<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable 318~324-->
-	  <area shape="circle" coords="155,117,13" href="#" alt="F4♯" class="playNote" data-frequency="375" data-parent="#notation1">
-	  <area shape="circle" coords="233,108,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-	  <area shape="circle" coords="309,100,13" href="#" alt="A4♮" class="playNote" data-frequency="440" data-parent="#notation1">
-	  <area shape="circle" coords="388,92,13" href="#" alt="B4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
-	  <area shape="circle" coords="465,84,13" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1">
-	  <area shape="circle" coords="543,76,13" href="#" alt="D5" class="playNote" data-frequency="586.66" data-parent="#notation1">
-	  <area shape="circle" coords="619,67,13" href="#" alt="E5<i class='icon-halfflat'></i>" class="playNote" data-frequency="640" data-parent="#notation1"><!-- var -->
+	  <area shape="circle" coords="78,125,13" href="#" alt="مي<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable 318~324-->
+	  <area shape="circle" coords="155,117,13" href="#" alt="قا♯" class="playNote" data-frequency="375" data-parent="#notation1">
+	  <area shape="circle" coords="233,108,13" href="#" alt="صول" class="playNote" data-frequency="391.11" data-parent="#notation1">
+	  <area shape="circle" coords="309,100,13" href="#" alt="لا♮" class="playNote" data-frequency="440" data-parent="#notation1">
+	  <area shape="circle" coords="388,92,13" href="#" alt="سي♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
+	  <area shape="circle" coords="465,84,13" href="#" alt="دو" class="playNote" data-frequency="521.48" data-parent="#notation1">
+	  <area shape="circle" coords="543,76,13" href="#" alt="ري" class="playNote" data-frequency="586.66" data-parent="#notation1">
+	  <area shape="circle" coords="619,67,13" href="#" alt="مي<i class='icon-halfflat'></i>" class="playNote" data-frequency="640" data-parent="#notation1"><!-- var -->
                         <!-- Links -->
                       <area shape="rect" coords="73,13,226,41" href="../jins/mustr.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="258,13,433,41" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
