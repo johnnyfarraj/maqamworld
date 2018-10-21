@@ -46,7 +46,7 @@ include($ROOT . 'inc/head.php');
 	  <area shape="circle" coords="63,131,13" href="#" alt="دو" class="playNote" data-frequency="260.74" data-parent="#notation1">
 	  <area shape="circle" coords="141,123,13" href="#" alt="ري♭" class="playNote" data-frequency="274" data-parent="#notation1">
 	  <area shape="circle" coords="218,115,13" href="#" alt="مي♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
-	  <area shape="circle" coords="296,107,13" href="#" alt="قا♯" class="playNote" data-frequency="375" data-parent="#notation1">
+	  <area shape="circle" coords="296,107,13" href="#" alt="فا♯" class="playNote" data-frequency="375" data-parent="#notation1">
 	  <area shape="circle" coords="373,99,13" href="#" alt="صول" class="playNote" data-frequency="391.11" data-parent="#notation1">
 	  <area shape="circle" coords="450,91,13" href="#" alt="لا♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- Hijaz 2 tuned up from 420 -->
 	  <area shape="circle" coords="528,83,13" href="#" alt="سي♮" class="playNote" data-frequency="492" data-parent="#notation1"><!-- Hijaz 3 tuned down from 495 -->

@@ -48,7 +48,7 @@ include($ROOT . 'inc/head.php');
 	  <area shape="circle" coords="212,85,13" href="#" alt="سي<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!--var-->
 	  <area shape="circle" coords="289,93,13" href="#" alt="لا♯" class="playNote" data-frequency="463.54" data-parent="#notation1"><!-- B4♭ -->
 	  <area shape="circle" coords="367,102,13" href="#" alt="صول" class="playNote" data-frequency="391.11" data-parent="#notation1">
-	  <area shape="circle" coords="444,110,13" href="#" alt="قا♯" class="playNote" data-frequency="372" data-parent="#notation1"><!-- Hijaz 3 down from 375 -->
+	  <area shape="circle" coords="444,110,13" href="#" alt="فا♯" class="playNote" data-frequency="372" data-parent="#notation1"><!-- Hijaz 3 down from 375 -->
 	  <area shape="circle" coords="521,117,13" href="#" alt="مي♭" class="playNote" data-frequency="312" data-parent="#notation1"><!-- Hijaz 2 up from 308.25 -->
 	  <area shape="circle" coords="599,126,13" href="#" alt="ري" class="playNote" data-frequency="293.33" data-parent="#notation1">
 	  <area shape="circle" coords="676,134,13" href="#" alt="دو" class="playNote" data-frequency="260.74" data-parent="#notation1">

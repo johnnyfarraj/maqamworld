@@ -44,7 +44,7 @@ include($ROOT . 'inc/head.php');
 
                     <map name="notemap">
 	  <area shape="circle" coords="78,125,13" href="#" alt="مي<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable 318~324-->
-	  <area shape="circle" coords="155,117,13" href="#" alt="قا♯" class="playNote" data-frequency="375" data-parent="#notation1">
+	  <area shape="circle" coords="155,117,13" href="#" alt="فا♯" class="playNote" data-frequency="375" data-parent="#notation1">
 	  <area shape="circle" coords="233,108,13" href="#" alt="صول" class="playNote" data-frequency="391.11" data-parent="#notation1">
 	  <area shape="circle" coords="309,100,13" href="#" alt="لا♮" class="playNote" data-frequency="440" data-parent="#notation1">
 	  <area shape="circle" coords="388,92,13" href="#" alt="سي♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
