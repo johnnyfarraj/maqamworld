@@ -5,7 +5,7 @@ include('../inc/config.php');
 
 /* SEO settings for this page */
 $page_title = "عالم المقامات";
-$page_description = "Arabic Music Maqam World";
+$page_description = "عالم المقامات";
 $page_keywords = "جنس, عود ,موسيقى عربية ,قانون, ناي, مقام, آلات, طرب, عالم المقامات";
 $page_language = "ar"; // en / ar <!-- YOU MUST PUT THIS -->
 
