@@ -43,25 +43,26 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="68,128,13" href="#" alt="ري" class="playNote" data-frequency="293.33" data-parent="#notation1">
-					  <area shape="circle" coords="145,120,13" href="#" alt="مي<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!-- variable -->
-					  <area shape="circle" coords="222,112,13" href="#" alt="فا" class="playNote" data-frequency="345" data-parent="#notation1"><!-- fine tune down from 347.65 -->
-					  <area shape="circle" coords="300,104,13" href="#" alt="صول" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="377,96,13" href="#" alt="لا" class="playNote" data-frequency="440" data-parent="#notation1">
-					  <area shape="circle" coords="454,88,13" href="#" alt="سي♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
-					  <area shape="circle" coords="531,80,13" href="#" alt="دو" class="playNote" data-frequency="521.48" data-parent="#notation1">
-					  <area shape="circle" coords="609,72,13" href="#" alt="ري" class="playNote" data-frequency="586.66" data-parent="#notation1">
-				      <area shape="circle" coords="684,104,13" href="#" alt="صول" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="762,96,13" href="#" alt="لا" class="playNote" data-frequency="440" data-parent="#notation1">
-					  <area shape="circle" coords="841,88,13" href="#" alt="سي<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!--var-->
+		  <area shape="circle" coords="68,128,13" href="#" alt="ري" class="playNote" data-frequency="293.33" data-parent="#notation1">
+		  <area shape="circle" coords="145,120,13" href="#" alt="مي<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!-- variable -->
+		  <area shape="circle" coords="222,112,13" href="#" alt="فا" class="playNote" data-frequency="345" data-parent="#notation1"><!-- fine tune down from 347.65 -->
+		  <area shape="circle" coords="300,104,13" href="#" alt="صول" class="playNote" data-frequency="391.11" data-parent="#notation1">
+		  <area shape="circle" coords="377,96,13" href="#" alt="لا" class="playNote" data-frequency="440" data-parent="#notation1">
+		  <area shape="circle" coords="454,88,13" href="#" alt="سي♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
+		  <area shape="circle" coords="531,80,13" href="#" alt="دو" class="playNote" data-frequency="521.48" data-parent="#notation1">
+		  <area shape="circle" coords="609,72,13" href="#" alt="ري" class="playNote" data-frequency="586.66" data-parent="#notation1">
+	      <area shape="circle" coords="684,104,13" href="#" alt="صول" class="playNote" data-frequency="391.11" data-parent="#notation1">
+	  <area shape="circle" coords="762,96,13" href="#" alt="لا" class="playNote" data-frequency="440" data-parent="#notation1">
+	  <area shape="circle" coords="841,88,13" href="#" alt="سي<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!--var-->
                       <area shape="circle" coords="917,80,13" href="#" alt="دو" class="playNote" data-frequency="521.48" data-parent="#notation1">
                       <area shape="circle" coords="995,72,13" href="#" alt="ري" class="playNote" data-frequency="586.66" data-parent="#notation1">
                        <!-- Links -->
                       <area shape="rect" coords="111,7,242,36" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="370,8,549,37" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="783,8,890,37" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
+	     </map>
+		<br>
 
-				     </map>
                     <h5>مقام بياتي is by far one of the most popular and common maqamat in the Arabic repertory. It is also the main maqam in the Bayati Family. 
 		</h5>
                     <h5>Its scale starts with <a href="../jins/bayati.php">Jins Bayati</a> on the <em>tonic</em> followed by either <a href="../jins/nahawand.php">Jins Nahawand</a> or <a href="../jins/rast.php">Jins Rast</a> on the 4<sup>th</sup> degree.

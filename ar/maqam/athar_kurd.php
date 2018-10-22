@@ -55,6 +55,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="115,5,294,34" href="../jins/athar_kurd.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="337,144,483,175" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
 		</map>
+		<br>
 
                     <h5>Maqam Athar Kurd is a very rare maqam that seems to be a 20<sup>th</sup> century development. Its scale starts with <a href="../jins/athar_kurd.php">Athar Kurd</a> on the <em>tonic</em> followed by <a href="../jins/hijazkar.php">Jins Hijazkar</a> centered around the 5<sup>th</sup> degree.</h5>
                     <h5>The Maqam Athar Kurd scale is a hybrid between <a href="nawa_athar.php">مقام نَو أثر</a>

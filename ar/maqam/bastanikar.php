@@ -61,6 +61,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="445,149,565,175" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="710,6,835,31" href="../jins/nikriz.php" class="mapLink" data-parent="#notation1">
 	</map>
+	<br>
 
                     <h5>مقام بَسته نِكار is effectively <a href="../jins/sikah.php">Jins Sikah</a> followed by <a href="saba.php">مقام صَبا</a>. 
 Its scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the <em>tonic</em>, then <a href="../jins/saba.php">Jins Saba</a> on the 3<sup>rd</sup> degree, an overlapping <a href="../jins/hijaz.php">Jins Hijaz</a> on the 5<sup>th</sup> degree, and finally <a href="../jins/nikriz.php">Jins Nikriz</a> on the octave.</h5>

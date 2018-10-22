@@ -58,6 +58,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="425,7,540,37" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="615,7,745,37" href="../jins/sikah.php" class="mapLink" data-parent="#notation1">
 	</map>
+		<br>
 
                     <h5>مقام أوج عراق is a version of <a href="huzam.php">مقام راحة الارواح/مقام هُزام</a> and <a href="iraq.php">مقام عراق</a> whose sayr starts at the octave tonic and descends to the tonic – though it shares most of the same ajnas as <a href="huzam.php">مقام هُزام</a>.
 		</h5>

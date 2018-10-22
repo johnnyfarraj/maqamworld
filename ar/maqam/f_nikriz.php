@@ -39,14 +39,14 @@ include($ROOT . 'inc/head.php');
                     <h5>تتألف عائلة النِكريز من المقامات التي يبدأ سلّمها
                         <a href="../jins/nikriz.php">بجنس النِكريز</a>
                         (وهو جنس الجذر في هذه العائلة).
-                        وتتفرّع هذه االمقامات من مقام النِكريز، وهو المقام الاساسي في هذه العائلة.
+                        وتتفرّع هذه االمقامات من <a href="nikriz.php">مقام نِكريز</a>، وهو المقام الاساسي في هذه العائلة.
                     </h5>
 
                     <!-- TODO we need to format this list in a nice way -->
                     <ul>
                         <li><h5><a href="nikriz.php">مقام نِكريز</a></h5></li>
                         <li><h5><a href="nawa_athar.php">مقام نَو أثر</a></h5></li>
-                        <li><h5><a href="athar_kurd.php">Maqam Athar Kurd</a></h5></li>
+                        <li><h5><a href="athar_kurd.php">مقام أثر كُرد</a></h5></li>
                     </ul>
 
                     <h5>عائلات المقامات الاخرى:</h5>

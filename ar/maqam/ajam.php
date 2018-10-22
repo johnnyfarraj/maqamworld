@@ -59,13 +59,16 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="390,10,590,40" href="../jins/upper_ajam.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="639,14,806,40" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
 		</map>
+		<br>
 
-                    <h5>مقام عجم (also known as Egyptian ‘Ajam) is the principal maqam in the <a href="f_ajam.php">عائلة مقام العجم</a>,
-and starts with the root <a href="../jins/ajam.php">Jins ‘Ajam</a>
-on the <em>tonic</em>, followed by either <a href="../jins/upper_ajam.php">Jins Upper ‘Ajam</a> on the 5<sup>th</sup>
-degree (with its tonic up on the 8<sup>th</sup> degree) or <a href="../jins/nahawand.php">Jins Nahawand</a> on the 5<sup>th</sup> degree.</h5>
+                    <h5>مقام العَجَم (ويعرف ايضاً بالعجم المصريّ) هو المقام الاساسي في <a href="f_ajam.php">عائلة مقام العجم</a>.
+		جنسه الاول (جنس الجذر) هو <a href="../jins/ajam.php">جنس العجم</a> على الدرجة الاولى،
+		يتبعه <a href="../jins/upper_ajam.php">جنس العجم الاعلى</a> على الدرجة الخامسة (وقرار هذا الجنس على الدرجة الثامنة اي جواب السلّم)
+		او <a href="../jins/nahawand.php">جنس النهاوند</a> على الدرجة الخامسة ايضاّ.
+		</h5>
 
                     <h5>انظر الى مقامات اخرى في <a href="f_ajam.php">عائلة مقام العجم</a>.</h5>
+		<br>
 
                     <div class="player-area">
                         <audio id="player" controls>
