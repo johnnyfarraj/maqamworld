@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "مقام بَسته نِكار";
 $page_description = "مقام بَسته نِكار";
-$page_keywords = "arabic, music, arab, world, maqam, jins, sikah, bastanikar, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "عود,مقام بَسته نِكار ,موسيقى عربية ,قانون, ناي, مقام, جنس, آلات, طرب, عالم المقامات, ايقاع";
 $page_language = "ar";
 
 include($ROOT . 'inc/head.php');

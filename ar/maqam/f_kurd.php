@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "عائلة مقام الكُرد";
 $page_description = "عائلة مقام الكُرد";
-$page_keywords = "arabic, music, arab, world, maqam, kurd, family, jins, iqa‘, iq, rhythm, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
+$page_keywords = "عود,عائلة مقام الكُرد ,موسيقى عربية ,قانون, ناي, مقام, جنس, آلات, طرب, عالم المقامات, ايقاع";
 $page_language = "ar"; // en / ar <!-- YOU MUST PUT THIS
 
 include($ROOT . 'inc/head.php');
@@ -39,7 +39,7 @@ include($ROOT . 'inc/head.php');
                     <h5>تتألف عائلة الكُرد من المقامات التي يبدأ سلّمها
                         <a href="../jins/kurd.php">بجنس الكُرد</a>
                         (وهو جنس الجذر في هذه العائلة).
-                        وتوصف هذه االمقامات بأنها تتفرّع من مقام الكُرد، وهو المقام الاساسي في هذه العائلة.
+                        وتتفرّع هذه االمقامات من مقام الكُرد، وهو المقام الاساسي في هذه العائلة.
                     </h5>
 
                     <!-- TODO we need to format this list in a nice way -->

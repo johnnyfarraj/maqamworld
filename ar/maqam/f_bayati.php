@@ -6,8 +6,8 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "عائلة مقام البياتي";
 $page_description = "عائلة مقام البياتي";
-$page_keywords = "arabic, music, arab, world, maqam, bayati, family, jins, iqa‘, iq, rhythm, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "ar"; // en / ar <!-- YOU MUST PUT THIS
+$page_keywords = "عود,عائلة مقام البياتي ,موسيقى عربية ,قانون, ناي, مقام, جنس, آلات, طرب, عالم المقامات, ايقاع";
+$page_language = "ar";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -40,7 +40,7 @@ include($ROOT . 'inc/head.php');
                     <h5>تتألف عائلة البياتي من المقامات التي يبدأ سلّمها
                         <a href="../jins/bayati.php">بجنس البياتي</a>
                         (وهو جنس الجذر في هذه العائلة).
-                        وتوصف هذه االمقامات بأنها تتفرّع من مقام البياتي، وهو المقام الاساسي في هذه العائلة.
+                        وتتفرّع هذه االمقامات من مقام البياتي، وهو المقام الاساسي في هذه العائلة.
                     </h5>
 
                     <!-- TODO we need to format this list in a nice way -->

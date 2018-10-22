@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "مقام نَو أثر";
 $page_description = "مقام نَو أثر";
-$page_keywords = "arabic, music, arab, world, maqam, jins, nawa_athar, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "عود,مقام نَو أثر ,موسيقى عربية ,قانون, ناي, مقام, جنس, آلات, طرب, عالم المقامات, ايقاع";
 $page_language = "ar";
 
 include($ROOT . 'inc/head.php');

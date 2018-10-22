@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "عائلة مقام الراست";
 $page_description = "عائلة مقام الراست";
-$page_keywords = "arabic, music, arab, world, maqam, rast, family, jins, iqa‘, iq, rhythm, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
+$page_keywords = "عود ,عائلة مقام الراست,موسيقى عربية ,قانون, ناي, مقام, جنس, آلات, طرب, عالم المقامات, ايقاع";
 $page_language = "ar";
 
 include($ROOT . 'inc/head.php');
@@ -40,7 +40,7 @@ include($ROOT . 'inc/head.php');
                     <h5>تتألف عائلة الراست من المقامات التي يبدأ سلّمها
                         <a href="../jins/rast.php">بجنس الراست</a>
                         (وهو جنس الجذر في هذه العائلة).
-                        وتوصف هذه االمقامات بأنها تتفرّع من مقام الراست، وهو المقام الاساسي في هذه العائلة.
+                        وتتفرّع هذه االمقامات من مقام الراست، وهو المقام الاساسي في هذه العائلة.
                     </h5>
 
                     <!-- TODO we need to format this list in a nice way -->

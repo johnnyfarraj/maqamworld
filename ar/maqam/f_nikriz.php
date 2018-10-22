@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "عائلة مقام النِكريز";
 $page_description = "عائلة مقام النِكريز";
-$page_keywords = "arabic, music, arab, world, maqam, nahawand, family, jins, iqa‘, iq, rhythm, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
+$page_keywords = "عود ,موسيقى عربية,عائلة مقام النِكريز ,قانون, ناي, مقام, جنس, آلات, طرب, عالم المقامات, ايقاع";
 $page_language = "ar";
 
 include($ROOT . 'inc/head.php');
@@ -39,7 +39,7 @@ include($ROOT . 'inc/head.php');
                     <h5>تتألف عائلة النِكريز من المقامات التي يبدأ سلّمها
                         <a href="../jins/nikriz.php">بجنس النِكريز</a>
                         (وهو جنس الجذر في هذه العائلة).
-                        وتوصف هذه االمقامات بأنها تتفرّع من مقام النِكريز، وهو المقام الاساسي في هذه العائلة.
+                        وتتفرّع هذه االمقامات من مقام النِكريز، وهو المقام الاساسي في هذه العائلة.
                     </h5>
 
                     <!-- TODO we need to format this list in a nice way -->

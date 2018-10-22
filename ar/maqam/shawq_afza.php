@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "مقام شوق افزا";
-$page_description = "مقام شوق افزا";
-$page_keywords = "arabic, music, arab, world, maqam, jins, shawq afza, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_title = "مقام شوق أفزا";
+$page_description = "مقام شوق أفزا";
+$page_keywords = "عود,مقام شوق أفزا ,موسيقى عربية ,قانون, ناي, مقام, جنس, آلات, طرب, عالم المقامات, ايقاع";
 $page_language = "ar";
 
 include($ROOT . 'inc/head.php');
