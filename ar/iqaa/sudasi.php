@@ -41,7 +41,7 @@ include($ROOT . 'inc/head.php');
 
                     <h5>إيقاع سُداسي هو إيقاع شائع في أغاني رقصات الدبكة، خاصّةً في لبنان وفلسطين.
                     </h5>
-                    <h5>يمكن ان ينتقل هذا الإيقاع من والى إيقاعات من وزن ٤/٢ بحيث تستبدل دورة من إيقاع السُداسي بثلاث دورات من <a href="malfuf.php">إيقاع الملفوف</a> مثلاً. 
+                    <h5>يمكن ان ينتقل هذا الإيقاع من والى إيقاعات من وزن ٤/٢ بحيث تستبدل دورة من إيقاع السُداسي بثلاث دورات من <a href="malfuf.php">إيقاع الملفوف</a> مثلاً.
                     </h5>
 
                     <div class="player-area">
@@ -71,6 +71,20 @@ include($ROOT . 'inc/head.php');
                                     <b>اغنية يا محلا ليالي الهوى (١٩٦٣)</b>
                                     <span>غناء فيروز (لبنان)</span>
                                     <span>كلمات  وألحان الأخوين رحباني</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="track" data-song="/audio/iqaa/sudasi/ya_7ajal_sannin.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>أغنية يا حجل صنّين (١٩٦٥)</b>
+                                    <span>غناء فيروز (لبنان)</span>
+                                    <span>كلمات  وألحان الأخوين رحباني</span>
+                                    <span>من فيلم <strong>بيّاع الخواتم</strong></span>
                                 </div>
                             </label>
                         </div>

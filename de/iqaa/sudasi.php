@@ -76,6 +76,20 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/iqaa/sudasi/ya_7ajal_sannin.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Ya Hajal Sannin (1965)</b>
+                                    <span>Fairouz</span>
+                                    <span>Musik von den Rahbani-Brüdern</span>
+                                    <span>aus dem Film <strong>Bayya‘ el-Khawatim</strong></span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                 </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
