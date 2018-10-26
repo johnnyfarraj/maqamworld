@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="rtl maqams-page">
 
     <?php
-      $page = "ar/maqam/mustr.php";
+      $page = "ar/maqam/mustaar.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -36,7 +36,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
                     
                      <div class="notation" id="notation1">
-                        <img src="../note/maqam/mustr.png" class="img-fluid" usemap="#notemap">
+                        <img src="../note/maqam/mustaar.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
                         <p class="clicknotes_ar">إضغط على العلامة الموسيقية بالفأرة حتى تسمع نغمتها.</p>
@@ -52,23 +52,23 @@ include($ROOT . 'inc/head.php');
 	  <area shape="circle" coords="543,76,13" href="#" alt="ري" class="playNote" data-frequency="586.66" data-parent="#notation1">
 	  <area shape="circle" coords="619,67,13" href="#" alt="مي<i class='icon-halfflat'></i>" class="playNote" data-frequency="640" data-parent="#notation1"><!-- var -->
                         <!-- Links -->
-                      <area shape="rect" coords="73,13,226,41" href="../jins/mustr.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="73,13,226,41" href="../jins/mustaar.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="258,13,433,41" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="488,5,597,34" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <h5>مقام مُستعار is extremely rare as an independent maqam, but more common as a jins, or as a partial sayr within <a href="huzam.php">مقام هُزام</a> and <a href="sikah.php">مقام سيكاه</a>. Its scale starts with <a href="../jins/mustr.php">Jins Musta‘ar</a> on the <em>tonic</em>, followed by <a href="../jins/nahawand.php">Jins Nahawand</a> on the 3<sup>rd</sup> degree, and <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree.
+                    <h5>مقام مُستعار is extremely rare as an independent maqam, but more common as a jins, or as a partial sayr within <a href="huzam.php">مقام هُزام</a> and <a href="sikah.php">مقام سيكاه</a>. Its scale starts with <a href="../jins/mustaar.php">Jins Musta‘ar</a> on the <em>tonic</em>, followed by <a href="../jins/nahawand.php">Jins Nahawand</a> on the 3<sup>rd</sup> degree, and <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree.
                     </h5>
 		<br>
                     <h5>انظر الى مقامات اخرى في <a href="f_sikah.php">عائلة مقام السيكاه</a>.</h5>
 
                     <div class="player-area">
                         <audio id="player" controls>
-                            <source src="/audio/maqam/mustr/aktiblak_gawabat.mp3" type="audio/mp3">
+                            <source src="/audio/maqam/mustaar/aktiblak_gawabat.mp3" type="audio/mp3">
                         </audio>
                     </div>
 
-                    <div class="track " data-song="/audio/maqam/mustr/aktiblak_gawabat.mp3">
+                    <div class="track " data-song="/audio/maqam/mustaar/aktiblak_gawabat.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1" >
@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/maqam/mustr/haramuha_minni.mp3">
+                    <div class="track" data-song="/audio/maqam/mustaar/haramuha_minni.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
@@ -94,7 +94,7 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/maqam/mustr/raqq_el_habib.mp3">
+                    <div class="track" data-song="/audio/maqam/mustaar/raqq_el_habib.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
