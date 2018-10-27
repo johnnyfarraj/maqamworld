@@ -1,5 +1,5 @@
 <?php
-
+include('../inc/functions.php');
 function endsWith($haystack, $needle)
 {
     $length = strlen($needle);
@@ -48,6 +48,7 @@ function searchDirectoryIterator($path, $string){
             }
             $content2 = curl_get_contents(str_replace('./', 'http://maqamworld.com/es/', $file->getPathname()));
             $content = strtolower($content2);
+            $content = normalizeChars($content);
             if (strpos($content, strtolower($string)) !== false) {
                 $res = preg_match("/<title>(.*)<\/title>/siU", $content2, $title_matches);
                 $title = preg_replace('/\s+/', ' ', $title_matches[1]);

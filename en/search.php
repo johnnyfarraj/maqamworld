@@ -1,20 +1,20 @@
 <?php
-
+include('../inc/functions.php');
 function endsWith($haystack, $needle)
 {
     $length = strlen($needle);
 
-    return $length === 0 || 
+    return $length === 0 ||
     (substr($haystack, -$length) === $needle);
 }
 function page_title($url) {
         $fp = file_get_contents($url);
-        if (!$fp) 
+        if (!$fp)
             return null;
 
         $res = preg_match("/<title>(.*)<\/title>/siU", $fp, $title_matches);
-        if (!$res) 
-            return null; 
+        if (!$res)
+            return null;
 
         // Clean up title: remove EOL's and excessive whitespace.
         $title = preg_replace('/\s+/', ' ', $title_matches[1]);
@@ -48,13 +48,14 @@ function searchDirectoryIterator($path, $string){
             }
             $content2 = curl_get_contents(str_replace('./', 'http://maqamworld.com/en/', $file->getPathname()));
             $content = strtolower($content2);
+            $content = normalizeChars($content);
             if (strpos($content, strtolower($string)) !== false) {
                 $res = preg_match("/<title>(.*)<\/title>/siU", $content2, $title_matches);
                 $title = preg_replace('/\s+/', ' ', $title_matches[1]);
                 $title = trim($title);
-                
+
                 $appeardTotal = substr_count($content, strtolower($string));
-                
+
                 array_push($files, array("title" => $title, "link" => str_replace('./', 'http://maqamworld.com/en/', $file->getPathname()), "appereances" => $appeardTotal));
                 $cont++;
             }

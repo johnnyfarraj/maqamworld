@@ -11,7 +11,8 @@ $page_language = "es";
 include($ROOT . 'inc/head.php');
 
 /* Security for searching */
-$search_string = preg_replace('/[^A-Za-z0-9 "\']/', '', strip_tags(addslashes($_GET['search'])));
+include('../inc/functions.php');
+$search_string = preg_replace('/[^A-Za-z0-9 "\']/', '', strip_tags(normalizeChars(addslashes($_GET['search']))));
 ?>
 
   <body>
