@@ -43,29 +43,33 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-	  <area shape="circle" coords="84,58,13" href="#" alt="مي♮" class="playNote" data-frequency="660" data-parent="#notation1"><!--Hijaz 3-->
-	  <area shape="circle" coords="161,66,13" href="#" alt="ري♭" class="playNote" data-frequency="560  " data-parent="#notation1"><!--Hijaz 2-->
-	  <area shape="circle" coords="240,74,13" href="#" alt="دو" class="playNote" data-frequency="521.48" data-parent="#notation1"><!-- Hijaz Tonic-->
-	  <area shape="circle" coords="317,83,13" href="#" alt="سي<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!-- var -->
-	  <area shape="circle" coords="393,90,13" href="#" alt="لا" class="playNote" data-frequency="440" data-parent="#notation1">
-	  <area shape="circle" coords="471,99,13" href="#" alt="صول" class="playNote" data-frequency="391.11" data-parent="#notation1">
-	  <area shape="circle" coords="548,107,13" href="#" alt="فا" class="playNote" data-frequency="347.65" data-parent="#notation1">
-	  <area shape="circle" coords="626,115,13" href="#" alt="مي<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
-                       <area shape="circle" coords="704,123,13" href="#" alt="ري♮" class="playNote" data-frequency="293.33" data-parent="#notation1">
-	  <area shape="circle" coords="780,133,13" href="#" alt="دو" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
+                      <area shape="circle" coords="84,64,13" href="#" alt="مي♮" class="playNote" data-frequency="660" data-parent="#notation1"><!--Hijaz 3-->
+                      <area shape="circle" coords="161,72,13" href="#" alt="ري♭" class="playNote" data-frequency="560  " data-parent="#notation1"><!--Hijaz 2-->
+                      <area shape="circle" coords="240,80,13" href="#" alt="دو" class="playNote" data-frequency="521.48" data-parent="#notation1"><!-- Hijaz Tonic-->
+                      <area shape="circle" coords="317,88,13" href="#" alt="سي<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!-- var -->
+                      <area shape="circle" coords="393,96,13" href="#" alt="لا" class="playNote" data-frequency="440" data-parent="#notation1">
+                      <area shape="circle" coords="471,105,13" href="#" alt="صول" class="playNote" data-frequency="391.11" data-parent="#notation1">
+                      <area shape="circle" coords="548,113,13" href="#" alt="فا" class="playNote" data-frequency="347.65" data-parent="#notation1">
+                      <area shape="circle" coords="626,121,13" href="#" alt="مي<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
+                       <area shape="circle" coords="704,129,13" href="#" alt="ري♮" class="playNote" data-frequency="293.33" data-parent="#notation1">
+                      <area shape="circle" coords="780,137,13" href="#" alt="دو" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
                        <!-- Links -->
-                      <area shape="rect" coords="132,5,362,34" href="../jins/saba_dalanshin.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="260,142,443,171" href="../jins/upper_rast.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="573,4,682,34" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="140,5,340,37" href="../jins/saba_dalanshin.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="260,142,446,174" href="../jins/upper_rast.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="573,5,694,37" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 		</map>
 		<br>
 
-                    <h5>مقام دَلَنشين starts with <a href="../jins/saba_dalanshin.php">Jins Saba Dalanshin</a> on the octave of <a href="rast.php">مقام راسْت</a> then transitions back to the مقام راسْت scale with <a href="../jins/upper_rast.php">Jins Upper Rast</a> on the 5<sup>th</sup> degree (with its tonic up on the 8<sup>th</sup> degree), and <a href="../jins/rast.php">Jins Rast</a> on the <em>tonic</em>. </h5>
+                    <h5>
+                        يبدأ سير مقام دَلَنشين  <a href="../jins/saba_dalanshin.php">بجنس صبا دَلَنشين</a> على جواب <a href="rast.php">مقام الراسْت</a> (الدرجة الثامنة)
+                        ثم ينتقل الى سلّم مقام الراست نزولاً ابتداءً من <a href="../jins/upper_rast.php">جنس الراست الاعلى</a> بين الدرجتين الثامنة والخامسة، 
+                        ويستقرّ  على <a href="../jins/rast.php">جنس الراست</a> على القرار (الدرجة الاولى).
                     </h5>
-		<h5>There are not too many songs in this maqam, instead it is more frequently used as a modulation from <a href="rast.php">مقام راسْت</a>.
-		</h5>
-		<br>
+                    <h5>لا توجد مؤلفات كثيرة في هذا المقام، فهو غالباً ما يحصل على اثر انتقال من <a href="rast.php">مقام الراسْت</a>.
+		  </h5>
+		  <br>
                     <h5>انظر الى مقامات اخرى في <a href="f_rast.php">عائلة مقام الراست</a>.</h5>
+		  <br>
 
                     <div class="player-area">
                         <audio id="player" controls>

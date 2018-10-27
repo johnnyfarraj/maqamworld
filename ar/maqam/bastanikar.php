@@ -58,16 +58,24 @@ include($ROOT . 'inc/head.php');
                        <!-- Links -->
                       <area shape="rect" coords="95,11,213,40" href="../jins/sikah.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="333,12,446,40" href="../jins/saba.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="445,149,565,175" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="445,149,570,180" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="710,6,835,31" href="../jins/nikriz.php" class="mapLink" data-parent="#notation1">
 	</map>
 	<br>
 
-                    <h5>مقام بَسته نِكار is effectively <a href="../jins/sikah.php">Jins Sikah</a> followed by <a href="saba.php">مقام صَبا</a>. 
-Its scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the <em>tonic</em>, then <a href="../jins/saba.php">Jins Saba</a> on the 3<sup>rd</sup> degree, an overlapping <a href="../jins/hijaz.php">Jins Hijaz</a> on the 5<sup>th</sup> degree, and finally <a href="../jins/nikriz.php">Jins Nikriz</a> on the octave.</h5>
-
+                    <h5>مقام بَسته نِكار عبارة عن  
+                        <a href="../jins/sikah.php">جنس سيكاه</a>
+                        يتبعه سلّم <a href="saba.php">مقام الصَبا</a>.
+                    </h5>
+                    <h5>
+                        يبدأ سلّم هذا المقام <a href="../jins/sikah.php">بجنس السيكاه</a> على القرار (الدرجة الاولى)
+                        ثم يليه <a href="../jins/saba.php">جنس الصَبا</a> على الغماز (الدرجة الثالثة)،
+                        ويتداخل الصبا مع <a href="../jins/hijaz.php">جنس الحجاز</a> على الدرجة الخامسة،
+                        واخيراَ <a href="../jins/nikriz.php">جنس النكريز</a> على الجواب (الدرجة الثامنة).
+                    </h5>
+                    <br>
                     <h5>انظر الى مقامات اخرى في <a href="f_sikah.php">عائلة مقام السيكاه</a>.</h5>
-
+                    <br>
                     <div class="player-area">
                         <audio id="player" controls>
                             <source src="/audio/maqam/bastanikar/zalamu.mp3" type="audio/mp3">

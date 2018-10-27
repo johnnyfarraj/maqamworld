@@ -57,12 +57,20 @@ include($ROOT . 'inc/head.php');
 	</map>
 	<br>
 
-                    <h5>مقام بياتي شُوري is a variation of <a href="bayati.php">مقام بياتي</a> with a raised 5<sup>th</sup> degree. It starts with the root <a href="../jins/bayati.php">Jins Bayati</a> on the <em>tonic</em> followed by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 4<sup>th</sup> degree.</h5>
-                    <h5>It is a very popular maqam in its own right, especially in the Muwashahat and Adwar vocal compositions.
-		</h5>
-		<br>
+                    <h5>مقام بياتي شُوري فرع من
+                        <a href="bayati.php">مقام البياتي</a>  
+                        رُفعت درجته الخامسة بنصف صوت.
+                    </h5>
+                    <h5>
+                        يبدأ سلّم البياتي شوري <a href="../jins/bayati.php">بجنس البياتي</a> على القرار (الدرجة الاولى)
+                       يتبعه <a href="../jins/hijaz.php">جنس الحجاز</a> على الغمّاز (الدرجة الرابعة).
+                    </h5>
 
+                    <h5>مقام بياتي شُوري شائع كثيراً، خاصةً في قوالب الموشحات والادوار.
+                    </h5>
+                    <br>
                     <h5>انظر الى مقامات اخرى في <a href="f_bayati.php">عائلة مقام البياتي</a>.</h5>
+		          <br>
 
                     <div class="player-area">
                         <audio id="player" controls>
