@@ -18,9 +18,9 @@ if(isset($firstname) && $firstname != "" && isset($lastname) && $lastname != "" 
 
     mail($to, $subject, $message, $headers);
 
-    echo json_encode(array("status" => "success", "message" => "Danke, dass sie uns kontaktiert haben. Wir werden Ihre Nachricht überprüfen und innerhalb von 24 - 48 Stunden antworten."));
+    echo json_encode(array("status" => "success", "message" => "Gracias por contactarnos. Revisaremos su mensaje y responderemos dentro de las 24-48 horas."));
 } else {
-    echo json_encode(array("status" => "error", "message" => "Bitte füllen Sie alle Felder aus, bevor Sie das Formular absenden."));
+    echo json_encode(array("status" => "error", "message" => "Por favor complete todos los campos antes de enviar el formulario."));
 }
 
 ?>

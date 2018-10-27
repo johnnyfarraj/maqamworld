@@ -50,9 +50,9 @@ include($ROOT . 'inc/head.php');
                             <div class="card">
                                 <img class="card-img-top" src="/img/taoufiq_oud.png" alt="The Arabic Oud">
                                 <div class="card-body">
-                                    <h5 class="card-title">Maqam</h5>
+                                    <h5 class="card-title">El Maqam</h5>
                                     <p class="card-text">Informationen über das modale arabische Maqamsystem mit notierten Skalen und Tonbeispielen</p>
-                                    <a href="maqam.php" class="btn btn-primary">Maqam<i class="fa fa-fw fa-angle-right"></i></a>
+                                    <a href="maqam.php" class="btn btn-primary">El Maqam<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -60,9 +60,9 @@ include($ROOT . 'inc/head.php');
                             <div class="card">
                                 <img class="card-img-top" src="/img/nahat_star.png" alt="The Arabic Oud">
                                 <div class="card-body">
-                                    <h5 class="card-title">Jins</h5>
+                                    <h5 class="card-title">El Jins</h5>
                                     <p class="card-text">Informationen über das Jins, das Skalenfragment, das die Grundlage jedes Maqams bildet</p>
-                                    <a href="jins.php" class="btn btn-primary">Jins<i class="fa fa-fw fa-angle-right"></i></a>
+                                    <a href="jins.php" class="btn btn-primary">El Jins<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -70,9 +70,9 @@ include($ROOT . 'inc/head.php');
                             <div class="card">
                                 <img class="card-img-top" src="/img/nahat_round.png" alt="The Arabic Oud">
                                 <div class="card-body">
-                                    <h5 class="card-title">Rhythmus</h5>
+                                    <h5 class="card-title">Los Ritmos</h5>
                                     <p class="card-text">Informationen über die arabischen Rhythmusbausteine Iqa‘at, die aus den Grundschlägen <em>Dum</em> und <em>Tak</em> bestehen</p>
-                                    <a href="iqaa.php" class="btn btn-primary">Iqa‘<i class="fa fa-fw fa-angle-right"></i></a>
+                                    <a href="iqaa.php" class="btn btn-primary">Los Ritmos<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -80,9 +80,9 @@ include($ROOT . 'inc/head.php');
                             <div class="card">
                                 <img class="card-img-top" src="/img/nahat_etching.png" alt="The Arabic Oud">
                                 <div class="card-body">
-                                    <h5 class="card-title">Formen</h5>
+                                    <h5 class="card-title">Las Formas</h5>
                                     <p class="card-text">Informationen über die Qawalib genannten arabischen Musikformen, die in vokaler, instrumentaler, komponierter und improvisierter Musik Verwendung finden</p>
-                                    <a href="forms.php" class="btn btn-primary">Formen<i class="fa fa-fw fa-angle-right"></i></a>
+                                    <a href="forms.php" class="btn btn-primary">Las Formas<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -90,9 +90,9 @@ include($ROOT . 'inc/head.php');
                             <div class="card">
                                 <img class="card-img-top" src="/img/nahat_names.png" alt="The Arabic Oud">
                                 <div class="card-body">
-                                    <h5 class="card-title">Instrumente</h5>
+                                    <h5 class="card-title">Los Instrumentos</h5>
                                     <p class="card-text">Informationen über die traditionellen arabischen Melodie- und Perkussions-Instrumente sowie über arabisierte westliche Instrument</p>
-                                    <a href="instr.php" class="btn btn-primary">Instrumente<i class="fa fa-fw fa-angle-right"></i></a>
+                                    <a href="instr.php" class="btn btn-primary">Los Instrumentos<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -100,9 +100,9 @@ include($ROOT . 'inc/head.php');
                             <div class="card">
                                 <img class="card-img-top" src="/img/vladimir_tamari.png" alt="The Arabic Oud">
                                 <div class="card-body">
-                                    <h5 class="card-title">Buch</h5>
+                                    <h5 class="card-title">El Libro</h5>
                                     <p class="card-text">Hinweis auf INSIDE ARABIC MUSIC, eine Einführung in die arabische Musiktheorie und Aufführungspraxis (Veröffentlichung voraussichtlich Februar 2019)</p>
-                                    <a href="book.php" class="btn btn-primary">Buch<i class="fa fa-fw fa-angle-right"></i></a>
+                                    <a href="book.php" class="btn btn-primary">El Libro<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>

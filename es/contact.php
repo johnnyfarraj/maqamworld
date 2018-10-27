@@ -4,9 +4,9 @@
 include('../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Kontakt Maqam-Welt";
-$page_description = "Kontakt Maqam-Welt";
-$page_keywords = "Maqam-Welt";
+$page_title = "contactar al mundo del maqam";
+$page_description = "contactar al mundo del maqam";
+$page_keywords = "El Mundo Del Maqam";
 $page_language = "es";
 
 include($ROOT . 'inc/head.php');
@@ -24,26 +24,26 @@ include($ROOT . 'inc/head.php');
             <div class="row align-items-center">
                 <div class="col-sm-4 ml-auto mr-auto">
                     <div class="heading text-center">
-                        <h1>Senden Sie uns eine Nachricht</h1>
-                        <h3>Maqam-Welt nimmt Ihre Ansichten ernst und wird Ihre Kommentare so schnell wie möglich beantworten.</h3>
+                        <h1>Escribenos</h1>
+                        <h3>El Mundo Del Maqam toma en serio tu opinión y responderá a tus comentarios lo antes posible.</h3>
                     </div>
                     <form action="contact.php" method="post" class="contact-form">
                         <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Vorname" autocomplete="off" name="firstname" required>
+                            <input type="text" class="form-control" placeholder="Nombre" autocomplete="off" name="firstname" required>
                         </div>
                         <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Nachname" autocomplete="off" name="lastname" required>
+                            <input type="text" class="form-control" placeholder="Apellido" autocomplete="off" name="lastname" required>
                         </div>
                         <div class="form-group">
-                            <input type="email" class="form-control" placeholder="E-Mail" autocomplete="off" name="email" required>
+                            <input type="email" class="form-control" placeholder="Correo Electrónico" autocomplete="off" name="email" required>
                         </div>
                         <div class="form-group">
-                            <textarea class="form-control" placeholder="Nachricht" autocomplete="off" id="message-area" maxlength="500" name="message" style="min-height: 100px;" required></textarea>
+                            <textarea class="form-control" placeholder="Mensaje" autocomplete="off" id="message-area" maxlength="500" name="message" style="min-height: 100px;" required></textarea>
                             <p class="text-right characters-used"><span id="used">0</span>/500</p>
                         </div>
                         <div id="recaptcha"></div>
                         <div class="form-group text-right">
-                            <button type="submit" class="btn btn-primary">Nachricht senden</button>
+                            <button type="submit" class="btn btn-primary">Enviar el mensaje</button>
                         </div>
                     </form>
                 </div>
@@ -62,7 +62,7 @@ include($ROOT . 'inc/head.php');
             })
             $(".contact-form").submit(function(e) {
                 e.preventDefault();
-                $(".contact-form .btn-primary").html("<i class='fa fa-fw fa-circle-o-notch fa-spin'></i>Senden der Nachricht").prop("disabled", true);
+                $(".contact-form .btn-primary").html("<i class='fa fa-fw fa-circle-o-notch fa-spin'></i>Enviar el mensaje").prop("disabled", true);
                 $.ajax({
                     url: 'email.php',
                     data: $(".contact-form").serialize(),
@@ -72,10 +72,10 @@ include($ROOT . 'inc/head.php');
                         result = JSON.parse(result);
                         if(result.status == "success") {
                             $("form").hide();
-                            $(".heading h1").text("Nachricht wurde gesendet");
+                            $(".heading h1").text("Tu mensaje fue enviado");
                             $(".heading h3").text(result.message)
                         } else {
-                            $(".contact-form .btn-primary").html("Senden der Nachricht").prop("disabled", false);
+                            $(".contact-form .btn-primary").html("Enviar el mensaje").prop("disabled", false);
                         }
                     }
                 })

@@ -63,12 +63,14 @@ include($ROOT . 'inc/head.php');
 	     </map>
 		<br>
 
-                    <h5>مقام بياتي is by far one of the most popular and common maqamat in the Arabic repertory. It is also the main maqam in the Bayati Family. 
+        <h5>
+        مقام البياتي هو المقام الاساسي في عائلة البياتي ومن اهم المقامات استعمالاً في الموسيقى العربية.
 		</h5>
-                    <h5>Its scale starts with <a href="../jins/bayati.php">Jins Bayati</a> on the <em>tonic</em> followed by either <a href="../jins/nahawand.php">Jins Nahawand</a> or <a href="../jins/rast.php">Jins Rast</a> on the 4<sup>th</sup> degree.
-                    </h5>
+        <h5>يبدأ سلّم هذا المقام <a href="../jins/bayati.php">بجنس البياتي</a> على القرار (الدرجة الاولى) ثمّ يليه <a href="../jins/rast.php">جنس الراست</a> او <a href="../jins/nahawand.php">جنس النهاوند</a> على الغمّاز (الدرجة الرابعة).
+		</h5>
 		<br>
-                    <h5>انظر الى مقامات اخرى في <a href="f_bayati.php">عائلة مقام البياتي</a>.</h5>
+        <h5>انظر الى مقامات اخرى في <a href="f_bayati.php">عائلة مقام البياتي</a>.</h5>
+		<br>
 
                     <div class="player-area">
                         <audio id="player" controls>
