@@ -35,12 +35,7 @@ include($ROOT . 'inc/head.php');
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل المقامات</a>
                     <div class="clearfix"></div>
 
-                    <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/hijaz.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Hijaz</a>
-                    </div>
-
-
-                     <div class="notation" id="notation1">
+                    <div class="notation" id="notation1">
                         <img src="../note/maqam/hijaz.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
@@ -70,7 +65,7 @@ include($ROOT . 'inc/head.php');
                     <h5>مقام حجاز هو المقام الاساسي في <a href="f_hijaz.php">عائلة مقام الحجاز</a>.
                         
                         
-                        is the main maqam in the Hijaz Family. Its scale starts with the root <a href="../jins/hijaz.php">Jins Hijaz</a> on the <em>tonic</em> followed by either <a href="../jins/nahawand.php">Jins Nahawand</a> or <a href="../jins/rast.php">Jins Rast</a> on the 4<sup>th</sup> degree.</h5>
+                       Its scale starts with the root <a href="../jins/hijaz.php">Jins Hijaz</a> on the <em>tonic</em> followed by either <a href="../jins/nahawand.php">Jins Nahawand</a> or <a href="../jins/rast.php">Jins Rast</a> on the 4<sup>th</sup> degree.</h5>
 		<br>
                     <h5>انظر الى مقامات اخرى في <a href="f_hijaz.php">عائلة مقام الحجاز</a>.</h5>
 
