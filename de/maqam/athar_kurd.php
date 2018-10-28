@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="maqams-page">
 
     <?php
-      $page = "de/maqam/ajam_kurd.php";
+      $page = "de/maqam/athar_kurd.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -60,7 +60,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="337,144,483,175" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
 	     </map>
 
-                    <p>Maqam Athar Kurd ist ein sehr seltener Maqam, der vermutlich erst im zwanzigsten Jahrhundert entstanden ist. Die Skala ist ein Hybrid von <a href="nawa_athar.php">Maqam Nawa Athar</a> (mit angehobener vierter und siebter Stufe) und <a href="kurd.php">Maqam Kurd</a> (mit erniedrigter zweiter Stufe), daher der Name.</p>
+                    <p>Maqam Athar Kurd ist ein sehr seltener Maqam, der vermutlich erst im zwanzigsten Jahrhundert entstanden ist. Die Skala ist ein Hybrid von <a href="nawa_athar.php">Maqam Nawa Athar</a> und <a href="kurd.php">Maqam Kurd</a>, daher der Name.</p>
 
                     <p>Die Skala beginnt mit <a href="../jins/athar_kurd.php">Jins Athar Kurd</a> auf der Tonika, gefolgt von <a href="../jins/hijazkar.php">Jins Hijazkar</a>, das sich um die fünfte Stufe gruppiert. </p>
 

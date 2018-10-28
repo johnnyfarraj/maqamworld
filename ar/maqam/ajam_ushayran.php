@@ -43,30 +43,34 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-	  <area shape="circle" coords="66,85,13" href="#" alt="سي♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
-	  <area shape="circle" coords="144,93,13" href="#" alt="لا" class="playNote" data-frequency="440" data-parent="#notation1">
-	  <area shape="circle" coords="221,101,13" href="#" alt="صول" class="playNote" data-frequency="391.11" data-parent="#notation1">
-	  <area shape="circle" coords="298,109,13" href="#" alt="فا" class="playNote" data-frequency="347.65" data-parent="#notation1">
-	  <area shape="circle" coords="376,118,13" href="#" alt="مي♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
-	  <area shape="circle" coords="453,126,13" href="#" alt="ري" class="playNote" data-frequency="293.33" data-parent="#notation1">
-	  <area shape="circle" coords="530,134,13" href="#" alt="دو" class="playNote" data-frequency="260.74" data-parent="#notation1">
-	  <area shape="circle" coords="608,142,13" href="#" alt="سي♭" class="playNote" data-frequency="231.77" data-parent="#notation1">
+                  <area shape="circle" coords="66,85,13" href="#" alt="سي♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
+                  <area shape="circle" coords="144,93,13" href="#" alt="لا" class="playNote" data-frequency="440" data-parent="#notation1">
+                  <area shape="circle" coords="221,101,13" href="#" alt="صول" class="playNote" data-frequency="391.11" data-parent="#notation1">
+                  <area shape="circle" coords="298,109,13" href="#" alt="فا" class="playNote" data-frequency="347.65" data-parent="#notation1">
+                  <area shape="circle" coords="376,118,13" href="#" alt="مي♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
+                  <area shape="circle" coords="453,126,13" href="#" alt="ري" class="playNote" data-frequency="293.33" data-parent="#notation1">
+                  <area shape="circle" coords="530,134,13" href="#" alt="دو" class="playNote" data-frequency="260.74" data-parent="#notation1">
+                  <area shape="circle" coords="608,142,13" href="#" alt="سي♭" class="playNote" data-frequency="231.77" data-parent="#notation1">
                       <!-- Links -->
                       <area shape="rect" coords="60,7,232,36" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="470,6,595,35" href="../jins/ajam.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="272,155,390,184" href="../jins/kurd.php" class="mapLink" data-parent="#notation1"
-		</ map>
+                      <area shape="rect" coords="272,155,390,184" href="../jins/kurd.php" class="mapLink" data-parent="#notation1">
+                    </map>
+
+                    <br>
+		<h5>
+            مقام عجم عُشَيران هو صنف قديم من <a href="ajam.php">مقام العجم</a> يختلف سيره
+            ويحصل فيه التشديد النغميّ على درجات مختلفة.
+            فبدلاً من اعتماد الغمّاز غلى الدرجة الخامسة (كما في مقام العجم) 
+             يعتمد هذا المقام غمازاً على الدرجة الثالثة وغمازاً آخر على الدرجة السادسة.
+ 		</h5>
+        <h5>
+            يبدأ سلّم هذا المقام <a href="../jins/ajam.php">بجنس العجم</a> على القرار (الدرجة الاولى)
+            ويليه <a href="../jins/kurd.php">جنس الكرد</a> على الدرجة الثالثة
+            ثمّ <a href="../jins/nahawand.php">جنس النهاوند</a> على الدرجة السادسة.
+        </h5>
 		<br>
-		<h5>مقام عجم عُشَيران is an archaic version of <a href="ajam.php">Maqam ‘Ajam</a> with a different sayr,
-		and has a completely different tonal emphasis as well.
-		Rather than tonicizing its 5<sup>th</sup> scale degree,
-		it tonicizes its 3<sup>rd</sup> and 6<sup>th</sup> scale degrees instead.
-		</h5>
-        <h5>The مقام عجم عُشَيران scale starts with the root <a href="../jins/ajam.php">Jins ‘Ajam</a>
-        on the <em>tonic</em>, followed by <a href="../jins/kurd.php">Jins Kurd</a> on the 3<sup>rd</sup>
-        degree then <a href="../jins/nahawand.php">Jins Nahawand</a> startiing on the 6<sup>th</sup> degree.</h5>
-		<br>
-        <h5>انظر الى مقامات اخرى في <a href="f_ajam.php">عائلة مقام العجم</a>.</h5>
+                    <h5>انظر الى مقامات اخرى في <a href="f_ajam.php">عائلة مقام العجم</a>.</h5>
 
                     <div class="player-area">
                         <audio id="player" controls>

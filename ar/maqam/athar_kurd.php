@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="rtl maqams-page">
 
     <?php
-      $page = "ar/maqam/ajam_kurd.php";
+      $page = "ar/maqam/athar_kurd.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>مقام أثر كُرد</h1>
-                        <h3>من <a href="f_nikriz.php">مقام نِكريز Family</a></h3>
+                        <h3>من <a href="f_nikriz.php">عائلة مقام نِكريز</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل المقامات</a>
                     <div class="clearfix"></div>
@@ -57,12 +57,20 @@ include($ROOT . 'inc/head.php');
 		</map>
 		<br>
 
-                    <h5>Maqam Athar Kurd is a very rare maqam that seems to be a 20<sup>th</sup> century development. Its scale starts with <a href="../jins/athar_kurd.php">Athar Kurd</a> on the <em>tonic</em> followed by <a href="../jins/hijazkar.php">Jins Hijazkar</a> centered around the 5<sup>th</sup> degree.</h5>
-                    <h5>The Maqam Athar Kurd scale is a hybrid between <a href="nawa_athar.php">مقام نَو أثر</a>
-                    (with the raised 4<sup>th</sup> and 7<sup>th</sup> degrees) and <a href="kurd.php">مقام كُرد</a>
-                    (with the lowered 2<sup>nd</sup> degree), hence the name. </h5>
-		<br>
-                    <h5>انظر الى مقامات اخرى في <a href="f_nikriz.php">مقام نِكريز Family</a>.</h5>
+                    <h5>
+                        مقام اثر كرد مقام نادر جداً يبدو انه بدأ استعماله في القرن العشرين فقط.
+                        وسلّم هذا المقام هو مزيج بين سلميّ <a href="nawa_athar.php">مقام نَو أثر</a>
+                        <a href="kurd.php">ومقام كُرد</a>
+                        مما نتج عن تسميته أثر - كرد.
+                    </h5>
+                    <h5>
+                        يبدأ سلّم هذا المقام <a href="../jins/athar_kurd.php">بجنس أثر كُرد</a> على القرار (الدرجة الاولى)
+                        يليه <a href="../jins/hijazkar.php">جنس حجاز كار</a> متمركزاَ على الغمّاز (الدرجة الخامسة).
+                    </h5>
+
+		          <br>
+                    <h5>انظر الى مقامات اخرى في <a href="f_nikriz.php">عائلة مقام نِكريز</a>.</h5>
+                    <br>
 
                     <div class="player-area">
                         <audio id="player" controls>
