@@ -67,7 +67,10 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="775,5,886,36" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 	     </map>
 
-                    <h5>مقام حجاز is the main maqam in the Hijaz Family. Its scale starts with the root <a href="../jins/hijaz.php">Jins Hijaz</a> on the <em>tonic</em> followed by either <a href="../jins/nahawand.php">Jins Nahawand</a> or <a href="../jins/rast.php">Jins Rast</a> on the 4<sup>th</sup> degree.</h5>
+                    <h5>مقام حجاز هو المقام الاساسي في <a href="f_hijaz.php">عائلة مقام الحجاز</a>.
+                        
+                        
+                        is the main maqam in the Hijaz Family. Its scale starts with the root <a href="../jins/hijaz.php">Jins Hijaz</a> on the <em>tonic</em> followed by either <a href="../jins/nahawand.php">Jins Nahawand</a> or <a href="../jins/rast.php">Jins Rast</a> on the 4<sup>th</sup> degree.</h5>
 		<br>
                     <h5>انظر الى مقامات اخرى في <a href="f_hijaz.php">عائلة مقام الحجاز</a>.</h5>
 

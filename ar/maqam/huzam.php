@@ -58,11 +58,22 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="484,7,591,35" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <h5>مقام هُزام is by far the most common maqam in the Sikah family, and starts on E<i class="icon-halfflat"></i>. Its scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the <em>tonic</em>, followed by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 4<sup>th</sup> degree then <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree.</h5>
-                    <h5>The transposition of مقام هُزام to B<i class="icon-halfflat"></i> has its own name: <strong>مقام راحة الارواح</strong>. Both maqamat have exactly the same sayr.</h5>
-		<br>
+                    <h5>
+                         مقام هُزام هو المقام الاكثر شيوعاً في <a href="f_sikah.php">عائلة مقام السيكاه</a>،
+                        ويأتي قراره على درجة المي<i class="icon-halfflat"></i>.
+                        يبدأ سلّم هذا المقام <a href="../jins/sikah.php">بجنس السيكاه</a> على القرار 
+                        ثم يليه <a href="../jins/hijaz.php">جنس الحجاز</a> على الغمّاز (وهو الدرجة الرابعة)،
+                        ومن بعده <a href="../jins/rast.php">جنس الراست</a> 
+                        على الدرجة السادسة
+                        (وهي غمّاز ثانوي).
+                        </h5>
+                    <h5>
+                        امّا <strong>مقام راحة الارواح</strong> فهو الاسم المستعمل لمقام الهزام المصوّر على درجة السي<i class="icon-halfflat"></i>. وسير هذين المقامين نفسه.
+                        </h5>
+		              <br>
 
                     <h5>انظر الى مقامات اخرى في <a href="f_sikah.php">عائلة مقام السيكاه</a>.</h5>
+                    <br>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -125,7 +136,7 @@ include($ROOT . 'inc/head.php');
 
                     <!-- Start Rahat al-Arwah section -->
                     <div class="heading jins text-center">
-                        <h3>مقام راحة الارواح examples</h3>
+                        <h3>امثلة من مقام راحة الارواح</h3>
                     </div>
                     <div class="clearfix"></div>
 
@@ -134,7 +145,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>el-Ward Gamil (1947)</b>
+                                    <b>اغنية الورد جميل (١٩٤٧)</b>
                                     <span>امّ كلثوم</span>
                                     <span>الحان الشيخ زكريا احمد (مصر)</span>
                                 </div>
@@ -147,9 +158,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ya Wahid al-Ghid</b>
+                                    <b>موشّح يا وحيد الغيد</b>
                                     <span>غناء فيروز (لبنان)</span>
-                                    <span><img src="/img/cd.png"> Andalousiyyat</span>
+                                    <span><img src="/img/cd.png"> اسطوانة اندلسيات</span>
                                 </div>
                             </label>
                         </div>
@@ -160,9 +171,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr Inta Fahim (19??)</b>
+                                    <b>دور انت فاهم</b>
                                     <span>(مقام راحة الارواح)</span>
-                                    <span>Music and Vocals by Zakariyya Ahmad</span>
+                                    <span>غناء والحان الشيخ زكريا احمد</span>
                                 </div>
                             </label>
                         </div>
@@ -173,9 +184,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dulab Rahat al-Arwah</b>
-                                    <span>Aicha Redouane</span>
-                                    <span><img src="/img/cd.png"> Egypte</span>
+                                    <b>دولاب راحة الارواج</b>
+                                    <span>عائشة رضوان (الجزائر)</span>
+                                    <span><img src="/img/cd.png"> اسطوانة مصر</span>
                                 </div>
                             </label>
                         </div>
@@ -186,9 +197,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dulab Rahat al-Arwah</b>
+                                    <b>دولاب راحة الارواج</b>
                                     <span>المطرب صباح فخري (حلب)</span>
-                                    <span><img src="/img/cd.png"> Live at Beiteddine</span>
+                                    <span><img src="/img/cd.png"> من حفلة في قصر بيت الدين</span>
                                 </div>
                             </label>
                         </div>
