@@ -63,11 +63,14 @@ include($ROOT . 'inc/head.php');
 	     </map>
 
                     <h5>مقام حجاز هو المقام الاساسي في <a href="f_hijaz.php">عائلة مقام الحجاز</a>.
-                        
-                        
-                       Its scale starts with the root <a href="../jins/hijaz.php">Jins Hijaz</a> on the <em>tonic</em> followed by either <a href="../jins/nahawand.php">Jins Nahawand</a> or <a href="../jins/rast.php">Jins Rast</a> on the 4<sup>th</sup> degree.</h5>
+                        يبدأ سلّم مقام الحجاز <a href="../jins/hijaz.php">بجنس الحجاز</a> (وهو جنس الجذر في هذه العائلة)
+			على القرار (الدرجة الاولى)، 
+		 يتبعه <a href="../jins/nahawand.php">جنس النهاوند</a> او
+		 <a href="../jins/rast.php">جنس الراست</a> على الغمّاز (الدرجة الرابعة).
+ 		</h5>
 		<br>
                     <h5>انظر الى مقامات اخرى في <a href="f_hijaz.php">عائلة مقام الحجاز</a>.</h5>
+		<br>
 
                     <div class="player-area">
                         <audio id="player" controls>

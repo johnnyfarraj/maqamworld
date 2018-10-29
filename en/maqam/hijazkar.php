@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 /* Must be relative path */
 include('../../inc/config.php');
@@ -78,9 +78,10 @@ include($ROOT . 'inc/head.php');
                     <p>Maqam Hijazkar is the most common variant of <a href="hijaz.php">Maqam Hijaz</a>. Its scale starts with the root <a href="../jins/hijaz.php">Jins Hijaz</a> on the <em>tonic</em>, followed by <a href="../jins/nikriz.php">Jins Nikriz</a> on the 4<sup>th</sup> degree then <a href="../jins/hijazkar.php">Jins Hijazkar</a> on the octave.</p>
 					<p>For historic reasons, 3 of this maqam's transpositions have different names (and used to have a different sayr a long time ago):
 					</p>
-					<p><strong>Maqam Shadd ‘Araban</strong> (Hijazkar on low G)<br>
-					<strong>Maqam Suzidil</strong> (Hijazkar on low A)<br>
-					<strong>Maqam Shahnaz</strong> (Hijazkar on D).
+					<p>
+					<li><strong>Maqam Shadd ‘Araban</strong> (Hijazkar on low G)</li>
+					<li><strong>Maqam Suzidil</strong> (Hijazkar on low A)</li>
+					<li><strong>Maqam Shahnaz</strong> (Hijazkar on D)</li>
 					</p>
 
                     <p>Explore other maqamat in the <a href="f_hijaz.php">Maqam Hijaz Family</a>.</p>

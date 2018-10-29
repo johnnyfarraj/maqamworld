@@ -62,15 +62,23 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="604,7,720,37" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <h5>مقام حجازكار is the most common variant of <a href="hijaz.php">مقام حجاز</a>. Its scale starts with the root <a href="../jins/hijaz.php">Jins Hijaz</a> on the <em>tonic</em>, followed by <a href="../jins/nikriz.php">Jins Nikriz</a> on the 4<sup>th</sup> degree then <a href="../jins/hijazkar.php">Jins Hijazkar</a> on the octave.</h5>
-	<h5>For historic reasons, 3 of this maqam's transpositions have different names (and used to have a different sayr a long time ago):
+                    <h5>
+			مقام حجازكار هو المقام الاكثر انتقالاً من <a href="hijaz.php">مقام الحجاز</a>.
+			يبدأ مقام الحجاز كار <a href="../jins/hijaz.php">بجنس الحجاز</a> على القرار،
+			ثمّ <a href="../jins/nikriz.php">جنس النكريز</a> على الغماز (الدرجة الرابعة) 
+			ويليه <a href="../jins/hijazkar.php">جنس الحجاز كار</a> على الجواب (الدرجة الثامنة).
 		</h5>
-		<h5><strong>مقام شَدّ عَرَبان</strong> (Hijazkar on low G)<br>
-		<strong>مقام سوزدِل</strong> (Hijazkar on low A)<br>
-		<strong>مقام شاهناز</strong> (Hijazkar on D).
+		<h5>
+			عند تصوير هذا المقام  من علامة الدو الى علامات اخرى، يتغير اسمه لاسباب تاريخية (وفي القديم كان سير هذه المقامات قد يختلف ايضاً):
 		</h5>
-
+		<h5>
+		<li><strong>مقام شَدّ عَرَبان</strong> (قراره على درجة الصول)</li>
+		<li><strong>مقام سوزدِل</strong> (قراره على درجة اللا)</li>
+		<li><strong>مقام شاهناز</strong> (قراره على درجة الري)</li>
+		</h5>
+		<br>
                     <h5>انظر الى مقامات اخرى في <a href="f_hijaz.php">عائلة مقام الحجاز</a>.</h5>
+		<br>
 
                     <div class="player-area">
                         <audio id="player" controls>
