@@ -58,13 +58,18 @@ include($ROOT . 'inc/head.php');
 		-->
                       <area shape="rect" coords="450,8,580,39" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
 		</map>
+		<br>
 
                     <h5>
-		مقام حُسيني is not very common as an independent maqam in the Arabic tradition, 
-		though its sayr (emphasizing the 5<sup>th</sup> scale degree as a note of tension 
-		resolving down to the 4<sup>th</sup> degree) is obligatory within <a href="bayati.php">مقام بياتي</a>. 
-		In the folk music of the wider region, this is actually the most common variant of Bayati, 
-		with its scale starting with the root <a href="../jins/bayati.php">Jins Bayati</a> on the <em>tonic</em>.
+		مقام حُسيني هو مقام نادر الاستعمال في الموسيقى العربية  كمقام مستقلّ.
+		وسلّم مقام الحسيني مبني على سلّم <a href="bayati.php">مقام البياتي</a>،
+		 فهو يبدأ <a href="../jins/bayati.php">بجنس البياتي</a> على القرار (الدرجة الاولى) 
+		ويليه شبه جنس الحسيني الذي ينتقل بين <a href="../jins/rast.php">جنس الراست</a> و<a href="../jins/nahawand.php">جنس النهاوند</a> على الدرجة الرابعة.  
+		الا أن سيره يشدّد على الدرجة الخامسة كدرجة توتّر ثم يعود ويستقرّ على الدرجة الرابعة،
+		وهو جزء معتاد وشائع كثيراً في سير <a href="bayati.php">مقام البياتي</a>.
+                    </h5>
+                    <h5>
+		في الواقع، مقام الحسيني هو الفرع الاكثر شيوعاً في <a href="f_bayati.php">عائلة مقام البياتي</a> في موسيقى شرقي آسيا (مما يشمل الشرق العربي).
                     </h5>
 
 		<br>

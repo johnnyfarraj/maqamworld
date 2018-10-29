@@ -60,14 +60,13 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="323,146,495,172" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <h5>مقام حجازكار كُرد
-			 is an archaic version of <a href="kurd.php">مقام كُرد</a> 
-			with <a href="../jins/hijazkar.php">Jins Hijazkar</a> on the octave. 
+                    <h5>
+		مقام حجازكار كُرد صنف قديم من <a href="kurd.php">مقام الكُرد</a> يبدأ سيره
+		 <a href="../jins/hijazkar.php">بجنس الحجاز كار</a> على الجواب (الدرجة الثامنة). 
 		</h5>
 		<h5>
-			Its scale starts with the root <a href="../jins/kurd.php">Jins Kurd</a> on the <em>tonic</em> 
-			followed by <a href="../jins/nahawand.php">Jins Nahawand</a> 
-			on the 4<sup>th</sup> degree.
+		يبدأ سلّم هذا المقام <a href="../jins/kurd.php">بجنس الكرد</a> على القرار (الدرجة الاولى) 
+		ثم <a href="../jins/nahawand.php">جنس النهاوند</a> على الغمّاز (الدرجة الرابعة). 
 		</h5>
 		<br>
 
