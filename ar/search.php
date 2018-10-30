@@ -38,7 +38,7 @@ $files = array();
 $cont = 0;
 function searchDirectoryIterator($path, $string){
     global $files, $cont;
-    $string = preg_replace('/[^A-Za-z0-9 "\']/', '', strip_tags(addslashes($string)));
+    $string = strip_tags(addslashes($string));
     $dir = new DirectoryIterator($path);
     $totalFiles = 0;
     foreach ($dir as $file){
