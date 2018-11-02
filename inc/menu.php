@@ -118,17 +118,16 @@
                             <a class="nav-link" href="/ar/forms.php">القوالب</a>
                         </li>
                         <li class="nav-item <?php if($page == "ar/jins.php") { echo "active"; } ?>">
-                            <a class="nav-link" href="/ar/jins.php">الجنس</a>
+                            <a class="nav-link" href="/ar/jins.php">الاجناس</a>
                         </li>
                         <li class="nav-item <?php if($page == "ar/maqam.php") { echo "active"; } ?>">
-                            <a class="nav-link" href="/ar/maqam.php">المقام</a>
+                            <a class="nav-link" href="/ar/maqam.php">المقامات</a>
                         </li>
                         <li class="nav-item <?php if($page == "ar/iqaa.php") { echo "active"; } ?>">
-                            <a class="nav-link" href="/ar/iqaa.php">الايقاع</a>
+                            <a class="nav-link" href="/ar/iqaa.php">الايقاعات</a>
                         </li>
-
                         <li class="nav-item <?php if($page == "ar/book.php") { echo "active"; } ?>">
-                            <a class="nav-link" href="/ar/book.php">الكتاب</a>
+                            <a class="nav-link" href="/ar/book.php">الإصدارات</a>
                         </li>
                     </ul>
                 </div>

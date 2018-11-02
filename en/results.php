@@ -47,7 +47,7 @@ $search_string = preg_replace('/[^A-Za-z0-9 "\']/', '', strip_tags(normalizeChar
         </div>
     </div>
     
-    <?php include($ROOT . 'inc/footer.php'); ?>
+    <?php include($ROOT . 'en/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
     <script>
         $(document).ready(function() {

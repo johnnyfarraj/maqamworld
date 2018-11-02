@@ -11,19 +11,23 @@
                     <br>ساهم في الترجمة الى العربية الدكتور 
 		<a href="http://samerali.com" target="_blank">سامر علي</a>.
                 </p>
+                <!--
                 <ul class="socials">
                     <li><a href="#"><i class="fa fa-fw fa-facebook"></i></a></li>
                     <li><a href="#"><i class="fa fa-fw fa-twitter"></i></a></li>
                     <li><a href="#"><i class="fa fa-fw fa-instagram"></i></a></li>
                     <li><a href="#"><i class="fa fa-fw fa-youtube"></i></a></li>
                 </ul>
+                -->
             </div>
             <div class="col-sm-3">
                 <h3>اتصلوا بنا</h3>
                 <ul class="menu">
+                    <!--
                     <li><a href="#"><i class="fa fa-fw fa-phone"></i>الهاتف</a></li>
                     <li><a href="#"><i class="fa fa-fw fa-map-marker"></i>العنوان</a></li>
-                    <li><a href="/ar/contact.php"><i class="fa fa-fw fa-envelope"></i>اتصلوا بنا</a></li>
+                    -->
+                    <li><a href="/ar/contact.php"><i class="fa fa-fw fa-envelope"></i>للإتصال بنا</a></li>
                 </ul>
             </div>
             <div class="col-sm-5 text-right">

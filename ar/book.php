@@ -4,8 +4,8 @@
 include('../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "كتاب في الموسيقى العربية";
-$page_description = "كتاب في الموسيقى العربية";
+$page_title = "المنشورات";
+$page_description = "المنشورات";
 $page_keywords = "جنس, عود ,موسيقى عربية ,قانون, ناي, مقام, آلات, طرب, عالم المقامات";
 $page_language = "ar"; // en / ar <!-- YOU MUST PUT THIS -->
 
@@ -24,16 +24,17 @@ include($ROOT . 'inc/head.php');
             <div class="row">
                 <div class="col-md-9 col-sm-9 ml-auto mr-auto">
                     <div class="heading text-center jins">
-                        <h1>كتاب "في الموسيقى العربية"</h1>
+                        <h1>الإصدارات</h1>
+                        <br>
+                        <h3>كتاب "في الموسيقى العربية"</h3>
                         <h3>جوني فرّاج وسامي ابو شميس</h3>
                         <h3>دار جامعة اوكسفورد للنشر</h3>
                     </div>
                     <div class="clearfix"></div>
 
                     <h5>
-يسعدني ان اعلن عن قُرب صدور كتابي بعنوان "في الموسيقى العربية" (تأليف مشترك مع سامي ابو شميس من موقع 
-<a href="http://maqamlessons.com" target="_blank">دروس المقامات</a>
-الصديق).
+يسعدنا ان نعلن عن قُرب صدور كتاب بعنوان "في الموسيقى العربية" (تأليف مشترك مع الصديق سامي ابو شميس من موقع 
+<a href="http://maqamlessons.com" target="_blank">دروس المقامات</a>).
 سيتم إصدار الكتاب في بداية سنة ٢٠١٩ من
 <a href="http://oup.com" target="_blank">دار جامعة اوكسفورد للنشر</a>
  في نيو يورك باللغة الانكليزية.

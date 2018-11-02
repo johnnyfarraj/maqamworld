@@ -51,7 +51,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
 
-    <?php include($ROOT . 'inc/footer.php'); ?>
+    <?php include($ROOT . 'en/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
     
     <script>

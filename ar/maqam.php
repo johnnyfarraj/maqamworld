@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9 order-sm-1 ml-auto">
                     
                     <div class="heading text-center jins">
-                        <h1>المقام</h1>
-                        <h3>نظام من سلالم وجُمل موسيقية معتادة وانتقالات مألوفة وزخارف تقليدية وجماليات مُتّبعة</h3>
+                        <h1>المقامات</h1>
+                        <h3>انظمة من سلالم وجُمل موسيقية معتادة وانتقالات مألوفة وزخارف تقليدية وجماليات مُتّبعة</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل المقامات</a>
                     <div class="clearfix"></div>

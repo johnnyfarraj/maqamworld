@@ -55,7 +55,7 @@ include($ROOT . 'inc/head.php');
                                 <img class="card-img-top" src="/img/taoufiq_oud.png" alt="العود العربي">
                                 <div class="card-body">
                                     <h5 class="card-title">المقامات</h5>
-                                    <p class="card-text">اقرأ عن المقامات.وهي اساس الوسيقى العربية، وتتضمن هذه الصفحات سلالم موسيقية وامثلة صوتية</p>
+                                    <p class="card-text">اقرأ عن المقامات، وهي اساس الموسيقى العربية، وتتضمن هذه الصفحات سلالم موسيقية وامثلة صوتية</p>
                                     <a href="maqam.php" class="btn btn-primary">المقامات<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>

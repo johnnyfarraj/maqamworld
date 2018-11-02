@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                                 <img class="card-img-top" src="/img/vladimir_tamari.png" alt="The Arabic Oud">
                                 <div class="card-body">
                                     <h5 class="card-title">Book</h5>
-                                    <p class="card-text">Learn about my upcoming book "Inside Arabic Music" (co-authored with Sami Abu Shumays) scheduled for release in February 2019.</p>
+                                    <p class="card-text">Learn about the upcoming book "Inside Arabic Music" (co-authored with Sami Abu Shumays) scheduled for release in February 2019.</p>
                                     <a href="/en/book.php" class="btn btn-primary">Book<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
@@ -117,7 +117,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
 
-    <?php include($ROOT . 'inc/footer.php'); ?>
+    <?php include($ROOT . 'en/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
 
   </body>
