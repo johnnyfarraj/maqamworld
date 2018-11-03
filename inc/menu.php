@@ -2,7 +2,7 @@
         <!-- Logo and Search bar -->
         <div class="container">
             <!-- Logo -->
-            <a href="<?php if($page_language != "en") { echo '/'.$page_language; } ?>/index.php" class="logo"><img src="/img/logo.jpg"></a>
+            <a href="<?php echo '/'.$page_language; ?>/index.php" class="logo"><img src="/img/logo.jpg"></a>
 
             <!-- Mobile Toggler -->
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarDefault" aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
@@ -53,18 +53,7 @@
                             if($short == $page_language) {
                                 $link = "#";
                             } else {
-                                if(strpos($page, "index.php") !== false) {
-                                    if($page_language != "en") {
-                                        $link = "/".$short."/".str_replace($page_language."/", "", $page);
-                                        if($link == "/en/index.php") {
-                                            $link = "/index.php";
-                                        }
-                                    } else {
-                                        $link = "/".$short."/".str_replace("en/", "", $page);
-                                    }
-                                } else {
-                                    $link = "/".$short."/".str_replace($page_language."/", "", $page);
-                                }
+                                $link = "/".$short."/".str_replace($page_language."/", "", $page);
                             }
                             echo '<a class="dropdown-item" href="'.$link.'">'.$long.'</a>';
                         }
@@ -84,8 +73,8 @@
                 <!-- Navbar -->
                 <div class="collapse navbar-collapse" id="navbarDefault">
                     <ul class="navbar-nav mr-auto">
-                        <li class="nav-item <?php if($page == "index.php") { echo "active"; } ?>">
-                            <a class="nav-link" href="/index.php"><i class="fa fa-fw fa-home"></i></a>
+                        <li class="nav-item <?php if($page == "en/index.php") { echo "active"; } ?>">
+                            <a class="nav-link" href="/en/index.php"><i class="fa fa-fw fa-home"></i></a>
                         </li>
                         <li class="nav-item <?php if($page == "en/instr.php") { echo "active"; } ?>">
                             <a class="nav-link" href="/en/instr.php">Instruments</a>
