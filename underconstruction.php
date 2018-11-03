@@ -23,6 +23,17 @@ include($ROOT . 'inc/head.php');
                         <h3>We are still working on this page, please come back later.</h3>
                     </div>
                     <a href="index.php">Go back to the home page</a>
+                    <?php
+                    $array = array();
+                    if($_SERVER["REQUEST_URI"]) {
+                        $array["missing_page"] = $_SERVER["REQUEST_URI"];
+                    }
+                    if($_SERVER['HTTP_REFERER']) {
+                        $array["referer"] = $_SERVER["HTTP_REFERER"];
+                    }
+                    $txt = json_encode($array);
+                    $myfile = file_put_contents('404pages.txt', $txt.PHP_EOL , FILE_APPEND | LOCK_EX);
+                    ?>
                 </div>
                 <!--<div class="col-sm-3">
                     <div class="text-center">

@@ -1,2 +1,2 @@
 RewriteEngine on
-ErrorDocument 404   http://maqamworld.com/underconstruction.php
+ErrorDocument 404   /underconstruction.php
