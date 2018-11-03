@@ -104,7 +104,7 @@ include($ROOT . 'inc/head.php');
                             <div class="card">
                                 <img class="card-img-top" src="/img/vladimir_tamari.png" alt="العود العربي">
                                 <div class="card-body">
-                                    <h5 class="card-title">الكتاب</h5>
+                                    <h5 class="card-title">الاصدارات</h5>
                                     <p class="card-text">اقرأ عن كتاب في الموسيقى العربية (تأليف مشترك مع سامي أبو شميس) الذي سيتم إصداره في بداية سنة ٢٠١٩</p>
                                     <a href="book.php" class="btn btn-primary">الكتاب<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
