@@ -106,7 +106,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="card-body">
                                     <h5 class="card-title">الاصدارات</h5>
                                     <p class="card-text">اقرأ عن كتاب في الموسيقى العربية (تأليف مشترك مع سامي أبو شميس) الذي سيتم إصداره في بداية سنة ٢٠١٩</p>
-                                    <a href="book.php" class="btn btn-primary">الكتاب<i class="fa fa-fw fa-angle-right"></i></a>
+                                    <a href="book.php" class="btn btn-primary">الاصدارات<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
