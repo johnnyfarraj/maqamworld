@@ -55,7 +55,10 @@
                             } else {
                                 if(strpos($page, "index.php") !== false) {
                                     if($page_language != "en") {
-                                        $link = "/".str_replace($page_language."/", "", $page);
+                                        $link = "/".$short."/".str_replace($page_language."/", "", $page);
+                                        if($link == "/en/index.php") {
+                                            $link = "/index.php";
+                                        }
                                     } else {
                                         $link = "/".$short."/".str_replace("en/", "", $page);
                                     }
