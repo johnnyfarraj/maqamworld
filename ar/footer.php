@@ -6,10 +6,9 @@
                 <p>&copy;
                     عالم المقامات  ٢٠٠١ - ٢٠١٨
                     <br>جميع الحقوق محفوظة
-                    <br>تصميم وبناء 
-		<a href="http://filiptodorov.com" target="_blank">Filip Todorov</a>
-                    <br>ساهم في الترجمة الى العربية الدكتور 
-		<a href="http://samerali.com" target="_blank">سامر علي</a>.
+                    <br>تصميم وبناء <a href="http://filiptodorov.com" target="_blank">Filip Todorov</a>
+                    <br>ساهم في الترجمة الى العربية الدكتور <a href="http://samerali.com" target="_blank">سامر علي</a>.
+                    <br>مراجعة وتدقيق: سامر ابو طه
                 </p>
                 <!--
                 <ul class="socials">
