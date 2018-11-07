@@ -36,11 +36,11 @@ include($ROOT . 'inc/head.php');
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الآلات</a>
                     <div class="clearfix"></div>
 
- 
+
                     <div class="image-with-caption">
                         <img src="/instr/oud.jpg" alt="The Oud">
                         <span>عود سوري من صنع الاخوان نحّات (اليمين) وعود عراقي من صنع محمد فاضل (اليسار).
-			&copy; 
+			&copy;
 			عالم المقامات.</span>
                     </div>
  		<br>
@@ -50,10 +50,10 @@ include($ROOT . 'inc/head.php');
  يأتي اسم الآلة من عود الخشب أي قطعة خشب
  وذلك لأن الآلة مكوّنة من قطع خشبية ترتّب بشكل معين لتنتج الصندوق المصوّت (اي الطاسة، وتسمّى ايضاً القصعة) ذو الشكل الفريد.
  وللعود زند أقصر من طاسة العود طولاً وهو خالِ من الحبسات
-                        (وهي الاجراء المعدنية البارزة)،
- مما يسمح للعازف بإخراج العلامات الموسيقية بدقة وبالتالي تعزف على العود كل 
+                        (وهي الاجزاء المعدنية البارزة)،
+ مما يسمح للعازف بإخراج العلامات الموسيقية بدقة وبالتالي تعزف على العود كل
 <a href="../maqam.php">مقامات</a>
- الموسيقى العربية.  
+ الموسيقى العربية.
                     </h5>
                     <h5>
 وللعود عادةً ستة أوتار, خمسة منها مزدوجة والوتر السادس مفرد، وفي بعض الأحيان يضاف إليه وتر سابع مزدوج.
@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                     </h5>
                     <h5>
 والعود العربي نفسه العود في إيران وتركيا واليونان مع بعض الاختلافات في الأبعاد و طبيعة الصوت.
- من الجدير بالذكر أن العود يعتبر أب لآلة اللوت الأوروبية والتي اتخذت اسمها من كلمة العود نفسها: (ا)لعود = لوت. 
+ من الجدير بالذكر أن العود يعتبر أب لآلة اللوت الأوروبية والتي اتخذت اسمها من كلمة العود نفسها: (ا)لعود = لوت.
                    </h5>
 		<br>
 
@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
 		<div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=OCmheJ929fo&t=0s">
                         <div class="radio">
                             <label>
@@ -122,8 +122,8 @@ include($ROOT . 'inc/head.php');
                                 </div>
                             </label>
                         </div>
-                    </div>		
-                
+                    </div>
+
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=Jf3WeItCpXA&t=0s">
                         <div class="radio">
                             <label>
@@ -139,7 +139,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=7iB4JFYArFg&t=0">
                         <div class="radio">
                             <label>
@@ -155,7 +155,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <br><h5>إستطلاع الآلات التقليدية الاخرى:</h5>
                     <ul>
                         <!--
