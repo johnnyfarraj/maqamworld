@@ -56,10 +56,17 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="425,5,544,36" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <h5>مقام شوق افزا is the most common variant of <a href="ajam.php">مقام عجم</a>. Its scale starts with the root <a href="../jins/ajam.php">Jins ‘Ajam</a> on the <em>tonic</em>, while <a href="../jins/hijaz.php">Jins Hijaz</a> on the 5<sup>th</sup> degree is its distinguishing characteristic, as well as a frequent <a href="../jins/saba_dalanshin.php">Jins Saba Dalanshin</a> modulation on the 3<sup>rd</sup>/5<sup>th</sup> degrees.
-		</h5>
+                    <h5>مقام شوق افزا هو الفرع الاكثر استعمالاً في <a href="f_ajam.php">عائلة مقام العجم</a>.
+			يبدأ سلّم هذا المقام <a href="../jins/ajam.php">بجنس العجم</a> (وهو جنس الجذر) على القرار (الدرجة الاولى)
+			يليه <a href="../jins/hijaz.php">جنس الحجاز</a> على الغمّاز (الدرجة الخامسة).
+ 		</h5>
+ 		<h5>
+			امّا ميزة هذا المقام فهي انتقال معتاد الى <a href="../jins/saba_dalanshin.php">جنس الصبا دلنشين</a>
+			 يقع قراره ومحوره النغمي على الدرجة الخامسة (ويبدأ سلمه على الدرجة الثالثة).
+ 		</h5>
 		<br>
                     <h5>انظر الى مقامات اخرى في <a href="f_ajam.php">عائلة مقام العجم</a>.</h5>
+		<br>
 
                     <div class="player-area">
                         <audio id="player" controls>

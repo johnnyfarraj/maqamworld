@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 /* Must be relative path */
 include('../../inc/config.php');
@@ -62,7 +62,8 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="494,7,600,35" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <p>Maqam Sikah ist ein seltenes Mitglied der Sikah-Familie. Seine Leiter beginnt mit dem Wurzel-<a href="../jins/sikah.php">Jins Sikah</a> auf der Tonika, gefolgt von <a href="../jins/upper_rast.php">Jins Ober-Rast</a> auf der vierten Stufe und <a href="../jins/rast.php">Jins Rast</a> auf der sechsten Stufe.
+                    <p>Maqam Sikah ist ein seltenes Mitglied der Sikah-Familie. Seine Leiter beginnt mit dem Wurzel-<a href="../jins/sikah.php">Jins Sikah</a> auf der Tonika, gefolgt von <a href="../jins/upper_rast.php">Jins Ober-Rast</a> auf der dritte
+Stufe und <a href="../jins/rast.php">Jins Rast</a> auf der sechsten Stufe.
                     </p>
                     <p>Erkunden Sie andere Maqamat der <a href="f_sikah.php">Maqam-Sikah-Familie</a>.</p>
 
