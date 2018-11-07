@@ -60,11 +60,16 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="670,11,786,39" href="../jins/kurd.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <h5>مقام نهاوند is the main maqam in the Nahawand Family. Its scale starts with the root <a href="../jins/nahawand.php">Jins Nahawand</a> on the <em>tonic</em>, followed by either <a href="../jins/hijaz.php">Jins Hijaz</a> or <a href="../jins/kurd.php">Jins Kurd</a> on the 4<sup>th</sup> degree.</p>
+                    <h5>مقام نهاوند هو المقام الاساسي في <a href="f_nahawand.php">عائلة مقام النهاوند</a>.
+		يبدأ سلّم هذا المقام <a href="../jins/nahawand.php">بجنس النهاوند</a> (وهو جنس الجذر) على الدرجةا الاولى (القرار)،
+		يليه اي من <a href="../jins/hijaz.php">جنس الحجاز</a> او <a href="../jins/kurd.php">جنس الكُرد</a> على الغمّاز (الدرجة الخامسة).
                     </h5>
-                    <h5><strong>Maqam Farahfaza</strong> is مقام نهاوند transposed to a tonic of G. </h5>
+                    <h5>
+		<strong>مقام فَرحفَزا</strong> هو الاسم القديم لمقام نهاوند المصوّر على علامة الصول.
+		</h5>
 		<br>
                     <h5>انظر الى مقامات اخرى في <a href="f_nahawand.php">عائلة مقام النهاوند</a>.</h5>
+		<br>
 
                     <div class="player-area">
                         <audio id="player" controls>

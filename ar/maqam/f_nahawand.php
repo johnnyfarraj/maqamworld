@@ -46,7 +46,7 @@ include($ROOT . 'inc/head.php');
                     <!-- TODO we need to format this list in a nice way -->
                     <ul>
                         <li><h5><a href="nahawand.php">مقام نهاوند</a></h5></li>
-                        <li><h5><a href="nahawand.php">Maqam Farahfaza</a></h5></li>
+                        <li><h5><a href="nahawand.php">مقام فَرحفَزا</a></h5></li>
                         <li><h5><a href="nahawand_murass.php">مقام نهاوند مرصّع</a></h5></li>
                         <li><h5><a href="ushaq_masri.php">مقام عُشّاق مصري</a></h5></li>
                     </ul>

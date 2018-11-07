@@ -60,8 +60,11 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="637,11,820,39" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <h5>مقام راسْت is the main maqam in the Rast Family, and by far one of the most popular and common maqamat in the Arabic repertory.
-                    Its scale starts with the root <a href="../jins/rast.php">Jins Rast</a> on the <em>tonic</em>, followed on the 5<sup>th</sup> degree by either <a href="../jins/upper_rast.php">Jins Upper Rast</a> (with its tonic up on the 8<sup>th</sup> degree) or <a href="../jins/nahawand.php">Jins Nahawand</a>.
+                    <h5>مقام راست هو المقام الاساسي في <a href="f_rast.php">عائلة مقام الراست</a>.
+		يبدأ سلّم هذا المقام <a href="../jins/rast.php">بجنس الراست</a> (وهو جنس الجذر) على الدرجةا الاولى (القرار)،
+		يليه اي من <a href="../jins/nahawand.php">جنس النهاوند</a> او <a href="../jins/upper_rast.php">جنس الراست الاعلى</a> على الغمّاز اي الدرجة الخامسة
+		(وقرار جنس الراست الاعلى يقع على درجته الاخيرة اي جواب الساّم)
+                    </h5>
                     </h5>
 		<br>
                     <h5>انظر الى مقامات اخرى في <a href="f_rast.php">عائلة مقام الراست</a>.</h5>

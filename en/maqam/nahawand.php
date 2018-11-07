@@ -68,7 +68,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="670,11,786,39" href="../jins/kurd.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Maqam Nahawand is the main maqam in the Nahawand Family. Its scale starts with the root <a href="../jins/nahawand.php">Jins Nahawand</a> on the <em>tonic</em>, followed by either <a href="../jins/hijaz.php">Jins Hijaz</a> or <a href="../jins/kurd.php">Jins Kurd</a> on the 4<sup>th</sup> degree.</p>
+                    <p>Maqam Nahawand is the main maqam in the Nahawand Family. Its scale starts with the root <a href="../jins/nahawand.php">Jins Nahawand</a> on the <em>tonic</em>, followed by either <a href="../jins/hijaz.php">Jins Hijaz</a> or <a href="../jins/kurd.php">Jins Kurd</a> on the 5<sup>th</sup> degree.</p>
                     </p>
                     <p><strong>Maqam Farahfaza</strong> is Maqam Nahawand transposed to a tonic of G. </p>
 

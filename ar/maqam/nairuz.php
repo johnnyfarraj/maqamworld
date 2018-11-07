@@ -57,13 +57,19 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="438,5,570,34" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <h5>مقام نيروز starts with the root <a href="../jins/rast.php">Jins Rast</a> on the <em>tonic</em>, followed by <a href="../jins/bayati.php">Jins Bayati</a> on the 5<sup>th</sup> degree. 
+                    <h5>مقام نيروز starts with the root <a href="../jins/rast.php">Jins Rast</a> on the <em>tonic</em>, 
+		followed by <a href="../jins/bayati.php">Jins Bayati</a> on the 5<sup>th</sup> degree. 
 		</h5>
-                    <h5>مقام نيروز is quite rare by itself, but it is prominent as a sayr within <a href="suznak.php">مقام سوزناك</a>/<a href="rast.php">مقام راسْت</a> – because of the affinity between <a href="../jins/bayati.php">Jins Bayati</a> and <a href="../jins/hijaz.php">Jins Hijaz</a> on the 5<sup>th</sup> scale degree. Its scale
+                    <h5>مقام نيروز is quite rare by itself, but it is prominent as a sayr within <a href="suznak.php">مقام سوزناك</a>/<a href="rast.php">مقام راسْت</a> – 
+		because of the affinity between <a href="../jins/bayati.php">Jins Bayati</a> and <a href="../jins/hijaz.php">Jins Hijaz</a> 
+		on the 5<sup>th</sup> scale degree. Its scale
                     </h5>
-                    <h5>مقام يَكاه is an archaic version of مقام نيروز, based on note G3 in the Arabic archaic 24-tone scale (named “Yakah”) rather than note C4.</h5>
+                    <h5><strong>مقام يكاه</strong> هو اسم قديم لمقام نيروز عندما يُصوّر على علامة الصول (المسمّاة يكاه في السلّم العربي القديم).
+		</h5>
 		<br>
-                    <h5>انظر الى مقامات اخرى في <a href="f_rast.php">عائلة مقام الراست</a>.</h5>
+            
+	        <h5>انظر الى مقامات اخرى في <a href="f_rast.php">عائلة مقام الراست</a>.</h5>
+		<br>
 
                     <div class="player-area">
                         <audio id="player" controls>

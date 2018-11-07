@@ -68,7 +68,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="670,11,786,39" href="../jins/kurd.php" class="mapLink" data-parent="#notation1">
 		          </map>
 
-                            <p>Maqam Nahawand ist der Hauptmaqam der Nahawand-Familie. Seine Leiter beginnt mit Wurzel-<a href="../jins/nahawand.php">Jins Nahawand</a> auf der Tonika. Es folgt entweder <a href="../jins/hijaz.php">Jins Hijaz</a> oder <a href="../jins/kurd.php">Jins Kurd</a> auf der vierten Stufe.
+                            <p>Maqam Nahawand ist der Hauptmaqam der Nahawand-Familie. Seine Leiter beginnt mit Wurzel-<a href="../jins/nahawand.php">Jins Nahawand</a> auf der Tonika. Es folgt entweder <a href="../jins/hijaz.php">Jins Hijaz</a> oder <a href="../jins/kurd.php">Jins Kurd</a> auf der fünften  Stufe.
                             </p>
 
                             <p><strong>Maqam Farahfaza</strong> ist Maqam Nahawand, zur Tonika G transponiert.</p>

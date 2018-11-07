@@ -55,9 +55,13 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="364,7,545,35" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
 	     </map>
 
-                    <h5>مقام كُرد is the main maqam in the Kurd Family. Its scale starts with the root <a href="../jins/kurd.php">Jins Kurd</a> on the <em>tonic</em>, followed by <a href="../jins/nahawand.php">Jins Nahawand</a> on the 4<sup>th</sup> degree.</h5>
+                    <h5>مقام الكُرد هو المقام الاساسي في <a href="f_nikriz.php">عائلة مقام الكُرد</a>.
+			يبدأ سلم هذا المقام <a href="../jins/kurd.php">بجنس الكُرد</a> على القرار (الدرجة الاولى)
+		 ثم يليه <a href="../jins/nahawand.php">جنس النهاوند</a> على الغمّاز (الدرجة الرابعة).
+                    </h5>
 		<br>
                     <h5>انظر الى مقامات اخرى في <a href="f_kurd.php">عائلة مقام الكُرد</a>.</h5>
+		<br>
 
                     <div class="player-area">
                         <audio id="player" controls>

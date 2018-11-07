@@ -57,10 +57,13 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="454,6,584,34" href="../jins/nikriz.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <h5>مقام نِكريز is the main maqam in the Nikriz Family. Its scale starts with the root <a href="../jins/nikriz.php">Jins Nikriz</a> on the <em>tonic</em>, followed by <a href="../jins/nahawand.php">Jins Nahawand</a> on the 5<sup>th</sup> degree.
+                    <h5>مقام نِكريز هو المقام الاساسي في <a href="f_nikriz.php">عائلة مقام النِكريز</a>.
+			يبدأ سلم هذا المقام <a href="../jins/nikriz.php">بجنس النكريز</a> على القرار (الدرجة الاولى)
+		 ثم يليه <a href="../jins/nahawand.php">جنس النهاوند</a> على الغمّاز (الدرجة الخامسة).
                     </h5>
 		<br>
                     <h5>انظر الى مقامات اخرى في <a href="f_nikriz.php">عائلة مقام النِكريز</a>.</h5>
+		<br>
 
                     <div class="player-area">
                         <audio id="player" controls>
