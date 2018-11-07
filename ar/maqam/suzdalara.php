@@ -56,10 +56,16 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="392,7,504,35" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
                     </map>
 
-                    <h5>مقام سوزدلارا is quite archaic and almost non-existent as an independent maqam, although its sayr is obligatory within nearly every performance and song in every branch of <a href="rast.php">مقام راسْت</a>: the <a href="../jins/nahawand.php">Jins Nahawand</a> on the 5<sup>th</sup> degree of مقام راسْت is a universal transition device from other modulations, signaling the return to the root <a href="../jins/rast.php">Jins Rast</a> on the <em>tonic</em>.
+                    <h5>
+		مقام سوزدلارا قديم ونادراً ما يستعمل كمقام مستقل،
+		الا انه شائع كثيراً كأنتقال مقامي ضمن سير كافة فروع <a href="f_rast.php">عائلة مقام الراست</a>.
+		عندما يأتي <a href="../jins/nahawand.php">جنس النهاوند</a> على الغماز (الدرجة الخامسة) 
+		  يكون ذلك بمثابة انهاء للانتقالات الاخرى
+		 مما يمهّد للعودة الى جنس الجذر (<a href="../jins/rast.php">جنس الراست</a>) في العائلة ومنه العودة الى القرار (الدرجة الاولى).
 		</h5>
 		<br>
                     <h5>انظر الى مقامات اخرى في <a href="f_rast.php">عائلة مقام الراست</a>.</h5>
+		<br>
 
                     <div class="player-area">
                         <audio id="player" controls>

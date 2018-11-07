@@ -58,7 +58,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="425,7,540,37" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="615,7,745,37" href="../jins/sikah.php" class="mapLink" data-parent="#notation1">
 	           </map>
-		      <br>
+		<br>
 
                     <h5>
                         مقام أوج عراق هو صنف من <a href="huzam.php">مقام راحة الارواح/مقام هُزام</a> او <a href="iraq.php">مقام عراق</a>
@@ -73,6 +73,7 @@ include($ROOT . 'inc/head.php');
                     <br>
                     <h5>انظر الى مقامات اخرى في <a href="f_sikah.php">عائلة مقام السيكاه</a>.</h5>
                     <br>
+
                     <div class="player-area">
                         <audio id="player" controls>
                             <source src="/audio/maqam/awj_iraq/ya_samiri_da3a_sabri.mp3" type="audio/mp3">

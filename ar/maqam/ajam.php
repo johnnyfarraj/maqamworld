@@ -67,7 +67,7 @@ include($ROOT . 'inc/head.php');
 		او <a href="../jins/nahawand.php">جنس النهاوند</a> على الدرجة الخامسة ايضاّ.
 		</h5>
 		<br>
-        <h5>انظر الى مقامات اخرى في <a href="f_ajam.php">عائلة مقام العجم</a>.</h5>
+        		<h5>انظر الى مقامات اخرى في <a href="f_ajam.php">عائلة مقام العجم</a>.</h5>
 		<br>
 
                     <div class="player-area">

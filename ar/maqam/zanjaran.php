@@ -55,11 +55,15 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="135,9,263,40" href="../jins/ajam.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="415,9,538,40" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
 		</map>
+		<br>
 
-                    <h5>مقام زَنجَران is a variant of <a href="hijaz.php">مقام حجاز</a> with <a href="../jins/ajam.php">Jins ‘Ajam</a> as the second jins (on the 4<sup>th</sup> degree) and the root <a href="../jins/hijaz.php">Jins Hijaz</a> on the <em>tonic</em>. 
+                    <h5>مقام زَنجَران هو فرع من <a href="f_hijaz.php">عائلة مقام الحجاز</a>
+		 يبدأ <a href="../jins/hijaz.php">بجنس الحجاز</a> على الدرجة الاولي 
+		ثم <a href="../jins/ajam.php">جنس العجم</a> على الغماز (الدرجة الرابعة).
 		</h5>
 		<br>
                     <h5>انظر الى مقامات اخرى في <a href="f_hijaz.php">عائلة مقام الحجاز</a>.</h5>
+		<br>
 
                     <div class="player-area">
                         <audio id="player" controls>

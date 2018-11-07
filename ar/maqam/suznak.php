@@ -56,10 +56,13 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="422,8,546,35" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <h5>مقام سوزناك is the most popular modulation of <a href="rast.php">مقام راسْت</a>, where the modulation to <a href="../jins/hjaz.php">Jins Hijaz</a> on the 5<sup>th</sup> scale degree is practically obligatory in any taqsim or mawwal starting on the root <a href="jns/rast.php">Jins Rast</a>.
+                    <h5>مقام سوزناك هو الانتقال المقامي الاكثر شيوعاً من <a href="rast.php">مقام الراسْت</a>.
+ 		ويتم هذا الانتقال بتبديل الجنس الثاني في مقام الراست <a href="../jins/hjaz.php">بجنس الحجاز</a> على الغمّاز (الدرجة الخامسة).
+وهذا الانتقال الجنسي معتاد وشبه الزامي ضمن سير مقام الراست (مثلاً في التقاسيم والمواويل).
 		</h5>
 		<br>
                     <h5>انظر الى مقامات اخرى في <a href="f_rast.php">عائلة مقام الراست</a>.</h5>
+		<br>
 
                     <div class="player-area">
                         <audio id="player" controls>

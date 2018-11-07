@@ -56,10 +56,13 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="414,9,548,40" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <h5>مقام عُشّاق مصري is a variation of <a href="nahawand.php">مقام نهاوند</a> with <a href="../jins/bayati.php">Jins Bayati</a> on the 5<sup>th</sup> degree, above the root <a href="../jins/nahawand.php">Jins Nahawand</a> on the 1<sup>st</sup> degree.
+                    <h5> مقام عُشّاق مصري هو مقام فرعي في <a href="f_nahawand.php">عائلة مقام النهاوند</a> 
+		يبدأ <a href="../jins/nahawand.php">بجنس النهاوند</a> على الدرجة الاولى (القرار) ثم
+	 <a href="../jins/bayati.php">جنس البياتي</a> على الغمّاز (الدرجة الخامسة).
 		</h5>
 		<br>
                     <h5>انظر الى مقامات اخرى في <a href="f_nahawand.php">عائلة مقام النهاوند</a>.</h5>
+		<br>
 
                     <div class="player-area">
                         <audio id="player" controls>
