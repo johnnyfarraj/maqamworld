@@ -36,7 +36,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="notation" id="notation1">
-                        <img src="../note/maqam/nahawand_murass.png" class="img-fluid" usemap="#notemap">
+                        <img src="../note/maqam/nahawand_murassaa.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
                         <p class="clicknotes_ar">إضغط على العلامة الموسيقية بالفأرة حتى تسمع نغمتها.</p>
@@ -52,14 +52,17 @@ include($ROOT . 'inc/head.php');
 	  <area shape="circle" coords="506,88,13" href="#" alt="سي♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 	  <area shape="circle" coords="585,79,13" href="#" alt="دو" class="playNote" data-frequency="521.48" data-parent="#notation1">
                        <!-- Links -->
-                      <area shape="rect" coords="53,7,331,36" href="../jins/nahawand_murass.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="53,7,331,36" href="../jins/nahawand_murassaa.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="337,141,454,174" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <h5>مقام نهاوند مرصّع is is basically <a href="nahawand.php">مقام نهاوند</a> with a lowered 5<sup>th</sup> scale degree. Its scale starts with <a href="../jins/nahawand_murass.php">Jins Nahawand Murassa‘</a> on the <em>tonic</em>, overlapped by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 4<sup>th</sup> degree.
+                    <h5>مقام نهاوند مرصّع هو فرع من <a href="nahawand.php">مقام نهاوند</a> تُخفّض درجته الخامسة.
+                         يبدأ سلّم هذا المقام <a href="../jins/nahawand_murassaa.php">بجنس نهاوند مرصّع</a> 
+                        على الدرجة الاولى (القرار) ويتداخل هذا الجنس مع <a href="../jins/hijaz.php">جنس الحجاز</a> الذي يبدأ على الدرجة الرابعة. 
                     </h5>
-		<br>
+                    <br>
                     <h5>انظر الى مقامات اخرى في <a href="f_nahawand.php">عائلة مقام النهاوند</a>.</h5>
+                    <br>
 
                     <div class="player-area">
                         <audio id="player" controls>
