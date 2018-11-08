@@ -67,7 +67,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="400,173,528,202" href="../jins/sazkar.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Maqam Kirdan is really a version of <a href="rast.php">Maqam Rast</a> whose sayr starts on the octave tonic and eventually descends to the root tonic. Its scale starts with either the root <a href="../jins/rast.php">Jins Rast</a> or <a href="../jins/sazkar.php">Jins Sazkar</a> on the <em>tonic</em>, followed by <a href="../jins/upper_rast.php">Jins Upper Rast</a> on the 5<sup>th</sup> degree (with its tonic up on the 8<sup>th</sup> degree). As such, Maqam Sazkar is nearly identical to <a href="rast.php">Maqam Rast</a>, except for the prominence of the raised 2<sup>nd</sup> degree that occurs in some melodic passages.</p>
+                    <p>Maqam Kirdan is a version of <a href="rast.php">Maqam Rast</a> whose sayr starts on the octave and eventually descends to the tonic. Its scale starts at the bottom with the root <a href="../jins/rast.php">Jins Rast</a> on the tonic, followed by <a href="../jins/upper_rast.php">Jins Upper Rast</a> on the 5<sup>th</sup> degree (with its tonic up on the 8<sup>th</sup> degree).
+                    </p>
+                    <p><strong>Maqam Sazkar</strong> is nearly identical to Maqam Kirdan, except for the prominence of the raised 2<sup>nd</sup> degree that occurs in some melodic passages, which results in <a href="../jins/sazkar.php">Jins Sazkar</a> on the tonic.</p>
 
                     <p>Explore other maqamat in the <a href="f_rast.php">Maqam Rast Family</a>.</p>
 

@@ -59,19 +59,19 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="400,173,528,202" href="../jins/sazkar.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <h5>مقام كِردان هو عبارة عن <a href="rast.php">مقام راسْت</a> يبدأ سيره نزولاً من جواب السلّم (الدرجة الثامنة) وينتهي على القرار (الدرجة اللاولى).
-
- 
-
-
-
-Its scale starts with either the root <a href="../jins/rast.php">Jins Rast</a> or <a href="../jins/sazkar.php">Jins Sazkar</a> 
-on the <em>tonic</em>, followed by <a href="../jins/upper_rast.php">Jins Upper Rast</a> 
-on the 5<sup>th</sup> degree (with its tonic up on the 8<sup>th</sup> degree). 
-As such, مقام سازكار is nearly identical to <a href="rast.php">مقام راسْت</a>, 
-except for the prominence of the raised 2<sup>nd</sup> degree that occurs in some melodic passages.
+                    <h5>
+		<strong>مقام كِردان</strong> هو فرع من <a href="rast.php">مقام الراسْت</a> يبدأ سيره نزولاً من جواب السلّم (الدرجة الثامنة) وينتهي على القرار (الدرجة اللاولى).
+ 		يبدأ سلّم مقام كردان <a href="../jins/rast.php">بجنس الراست</a> (وهو جنس الجذر) على الدرجةا الاولى (القرار)،
+		يليه <a href="../jins/upper_rast.php">جنس الراست الاعلى</a> على الغمّاز اي الدرجة الخامسة
+		(وقرار جنس الراست الاعلى يقع على درجته الاخيرة اي جواب الساّم).
+		</h5>
+                    <h5>
+		 اما <strong>مقام سازكار</strong> فهو مشابه لمقام كِردان،
+		لكن درجة السلّم الثانية تُرفع في بعض المقاطع النغمية بحيث يتحوّل الجنس الاول الى <a href="../jins/sazkar.php">جنس سازكار</a> على القرار. 
 		</h5>
 		<br>
+
+
 
                     <h5>انظر الى مقامات اخرى في <a href="f_rast.php">عائلة مقام الراست</a>.</h5>
 		<br>
