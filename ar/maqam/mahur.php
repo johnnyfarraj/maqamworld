@@ -55,10 +55,18 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="75,5,277,35" href="../jins/upper_ajam.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="394,5,500,35" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 		</map>
-
-                    <h5>مقام ماهور starts with the root <a href="../jins/rast.php">Jins Rast</a> on the <em>tonic</em>, followed by <a href="../jins/upper_ajam.php">Jins Upper ‘Ajam</a> on the 5<sup>th</sup> degree (with its tonic up on the 8<sup>th</sup> degree).</h5>
 		<br>
+		
+                    <h5>
+		مقام ماهور فرع من <a href="f_rast.php">عائلة مقام الراست</a>. 
+		يبدأ سلّم هذا المقام <a href="../jins/rast.php">بجنس الراست</a> (وهو جنس الجذر) على القرار (الدرجة الاولى)
+		ويليه <a href="../jins/upper_ajam.php">جنس العجم الاعلى</a> 
+		(ويبدأ سلم هذا الجنس على الغماز اي الدرجة الخامسة، ويقع قراره على الدرجة الثامنة من سلم المقام).
+		</h5>
+		<br>
+
                     <h5>انظر الى مقامات اخرى في <a href="f_rast.php">عائلة مقام الراست</a>.</h5>
+		<br>
 
                     <div class="player-area">
                         <audio id="player" controls>

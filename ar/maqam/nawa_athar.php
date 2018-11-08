@@ -56,9 +56,15 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="327,147,480,180" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <h5>مقام نَو أثَر is another popular maqam in the Nikriz Family. Its scale starts with the root <a href="../jins/nikriz.php">Jins Nikriz</a> on the <em>tonic</em>, followed by <a href="../jins/hijazkar.php">Jins Hijazkar</a> centered on the 5<sup>th</sup> degree. </h5>
+                    <h5>
+		مقام نَو أثَر هو فرع شائع من <a href="f_nikriz.php">عائلة مقام النِكريز</a>.
+		يبدأ سلّم هذا المقام <a href="../jins/nikriz.php">بجنس النكريز</a> على القرار (الدرجة الاولى) 
+		يليه <a href="../jins/hijazkar.php">جنس الحجاز كار</a> متمركزاَ على الغمّاز (الدرجة الخامسة).
+		</h5>
 		<br>
+
                     <h5>انظر الى مقامات اخرى في <a href="f_nikriz.php">عائلة مقام النِكريز</a>.</h5>
+		<br>
 
                     <div class="player-area">
                         <audio id="player" controls>

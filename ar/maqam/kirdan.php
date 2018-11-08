@@ -59,9 +59,22 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="400,173,528,202" href="../jins/sazkar.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <h5>مقام كِردان is really a version of <a href="rast.php">مقام راسْت</a> whose sayr starts on the octave tonic and eventually descends to the root tonic. Its scale starts with either the root <a href="../jins/rast.php">Jins Rast</a> or <a href="../jins/sazkar.php">Jins Sazkar</a> on the <em>tonic</em>, followed by <a href="../jins/upper_rast.php">Jins Upper Rast</a> on the 5<sup>th</sup> degree (with its tonic up on the 8<sup>th</sup> degree). As such, مقام سازكار is nearly identical to <a href="rast.php">مقام راسْت</a>, except for the prominence of the raised 2<sup>nd</sup> degree that occurs in some melodic passages.</h5>
+                    <h5>مقام كِردان هو عبارة عن <a href="rast.php">مقام راسْت</a> يبدأ سيره نزولاً من جواب السلّم (الدرجة الثامنة) وينتهي على القرار (الدرجة اللاولى).
+
+ 
+
+
+
+Its scale starts with either the root <a href="../jins/rast.php">Jins Rast</a> or <a href="../jins/sazkar.php">Jins Sazkar</a> 
+on the <em>tonic</em>, followed by <a href="../jins/upper_rast.php">Jins Upper Rast</a> 
+on the 5<sup>th</sup> degree (with its tonic up on the 8<sup>th</sup> degree). 
+As such, مقام سازكار is nearly identical to <a href="rast.php">مقام راسْت</a>, 
+except for the prominence of the raised 2<sup>nd</sup> degree that occurs in some melodic passages.
+		</h5>
 		<br>
+
                     <h5>انظر الى مقامات اخرى في <a href="f_rast.php">عائلة مقام الراست</a>.</h5>
+		<br>
 
                     <div class="player-area">
                         <audio id="player" controls>

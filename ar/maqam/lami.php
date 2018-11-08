@@ -54,8 +54,13 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="100,9,220,37" href="../jins/lami.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="340,140,460,167" href="../jins/kurd.php" class="mapLink" data-parent="#notation1">
 	     </map>
+		<br>
 
-                    <h5>مقام لامي is a rare maqam in the Middle East and was borrowed from the Iraqi repertoire. Its scale starts with <a href="../jins/lami.php">Jins Lami</a> on the <em>tonic</em>, followed by <a href="../jins/kurd.php">Jins Kurd</a> on the 4<sup>th</sup> degree.</h5>
+                    <h5>مقام لامي هو مقام نادر في تراث المشرق العربي (شرقي المتوسط) وهو مقام شائع في العراق.
+		يبدأ سلم هذا المقام <a href="../jins/lami.php">بجنس اللامي</a> على القرار (الدرجة الاولى)
+		 ويليه <a href="../jins/kurd.php">جنس الكُرد</a> على الغمّاز (الدرجة الرابعة).
+		</h5>
+		<br>
 
                     <div class="player-area">
                         <audio id="player" controls>
