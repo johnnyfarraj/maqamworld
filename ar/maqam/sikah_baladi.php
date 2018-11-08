@@ -60,13 +60,17 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="692,16,856,46" href="../jins/sikah_baladi.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="272,184,636,213" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
                       </map>
+		<br>
 
-                    <h5>مقام سيكاه بلدي is arguably the most challenging Arabic maqam.
-                    Its scale (and sayr) is something of a hybrid between a transposition of <a href="huzam.php">مقام هُزام</a>
-                    to an ordinary non-Sikah note, and <a href="hijazkar.php">مقام حجازكار</a> – the intervals
-                    are not quite the same as either, but it sounds a bit like both.
-                    None of its intervals match either just or equal-tempered intonation, making it impossible to reproduce
-                    on anything but the voice and fretless instruments.</h5>
+                     <h5>
+		مقام سيكاه بلدي هو من اصعب المقامات العربية عزفاً.
+		سلّم هذا المقام وسيره مزيج بين <a href="huzam.php">مقام هُزام</a> (المصوّر الى علامة غير علامة السيكاه)
+		ومقام <a href="hijazkar.php">مقام حجازكار</a> (مع تعديل بعض المسافات)،
+		والنتيجة هي مقام يشبه هذين المقامين.
+		اما المسافات في سلّم مقام سيكاه بلدي فأي منها لا يطابق مسافات الصوت او نصف الصوت كما في السلّم الغربي المتساوي الابعاد،
+		لذلك لا يمكن ان يُعزف هذا المقام بدقة واخلاص على اية آلات غربية او مشرّقة.
+		</h5>
+		<br>
 
                     <div class="player-area">
                         <audio id="player" controls>

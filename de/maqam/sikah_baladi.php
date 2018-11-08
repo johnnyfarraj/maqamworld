@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 /* Must be relative path */
 include('../../inc/config.php');
@@ -68,7 +68,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>Maqam Sikah Baladi ist vermutlich die stärkste Herausforderung unter den arabischen Maqamat. Seine Leiter und sein Sayr sind ein Hybrid aus einer Transposition von <a href="huzam.php">Maqam Huzam</a> zu einem einfachen Nicht-Sikah-Ton und <a href="hijazkar.php">Maqam Hijazkar</a>. </p>
                     
-                    <p>Die Intervalle sind mit beiden nicht vollständig identisch, aber Maqam Sikah Baladi klingt ein bisschen wie beide. Keines seiner Intervalle lässt sich wohltemperiert spielen, weswegen er nur auf bundlosen Instrumenten und mit der Stimme richtig wiedergegeben werden kann.</p>
+                    <p>Die Intervalle sind mit beiden nicht vollständig identisch, aber Maqam Sikah Baladi klingt ein bisschen wie beide. Keines seiner Intervalle lässt sich wohltemperiert spielen, weswegen er nur auf <a href="../instr.php">Traditionelle Arabische Instrumenten</a> und mit der Stimme richtig wiedergegeben werden kann.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
