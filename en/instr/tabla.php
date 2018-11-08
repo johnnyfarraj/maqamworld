@@ -71,17 +71,17 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=zWD3fZjesBQ">
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=KmnkOfE6G58">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/zWD3fZjesBQ/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/KmnkOfE6G58/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">
                                     <b>Sa‘id al-Artist</b>
-                                    <span>Egyptian tabla master and teacher Sa‘id al-Artist with his percussion ensemble in an television interview</span>
+                                    <span>Egyptian tabla master and teacher Sa‘id al-Artist with his percussion ensemble.</span>
                                 </div>
                             </label>
                         </div>
