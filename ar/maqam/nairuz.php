@@ -58,20 +58,17 @@ include($ROOT . 'inc/head.php');
 		</map>
 		<br>
 
-                    <h5>مقام نيروز starts with the root <a href="../jins/rast.php">Jins Rast</a> on the <em>tonic</em>, 
-		followed by <a href="../jins/bayati.php">Jins Bayati</a> on the 5<sup>th</sup> degree. 
-		</h5>
-                    <h5>مقام نيروز 
+        <h5>مقام نَيروز نادراً ما يستعمل كمقام مستقل، الا انه شائع كثيراً كأنتقال مقامي ضمن سير 
+             <a href="suznak.php">مقام سوزناك</a> او <a href="rast.php">مقام راسْت</a>،
+            بسبب التقارب بين جنسي <a href="../jins/bayati.php">البياتي</a> و<a href="../jins/hijaz.php">الحجاز</a>
+            على غمّاز المقام (الدرجة الخامسة).
 
-is quite rare by itself, but it is prominent as a sayr within <a href="suznak.php">مقام سوزناك</a>/<a href="rast.php">مقام راسْت</a> – 
-		because of the affinity between <a href="../jins/bayati.php">Jins Bayati</a> and <a href="../jins/hijaz.php">Jins Hijaz</a> 
-		on the 5<sup>th</sup> scale degree. Its scale
-                    </h5>
-                    <h5><strong>مقام يكاه</strong> هو اسم قديم لمقام نيروز عندما يُصوّر على علامة الصول (المسمّاة يكاه في السلّم العربي القديم).
+		</h5>
+        <h5><strong>مقام يكاه</strong> هو اسم قديم لمقام نيروز عندما يُصوّر على علامة الصول (المسمّاة يكاه في السلّم العربي القديم).
 		</h5>
 		<br>
             
-	        <h5>انظر الى مقامات اخرى في <a href="f_rast.php">عائلة مقام الراست</a>.</h5>
+	    <h5>انظر الى مقامات اخرى في <a href="f_rast.php">عائلة مقام الراست</a>.</h5>
 		<br>
 
                     <div class="player-area">
