@@ -56,11 +56,19 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="276,5,403,33" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="485,5,592,33" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 	</map>
+	<br>
 
-                    <h5>مقام عراق is a rare member of the Sikah family, although it is more common as a modulation in the sayr of <a href="huzam.php">مقام هُزام</a>. Its scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the <em>tonic</em>, followed by <a href="../jins/bayati.php">Jins Bayati</a> on the 3<sup>rd</sup> degree then <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree.
+                    <h5>مقام عراق هو فرع نادر من <a href="f_sikah.php">عائلة مقام السيكاه</a>،
+		 غالباً ما يحصل نتيجة لانتقال نغمي خلال سير <a href="huzam.php">مقام الهُزام</a>.  
+                    </h5>
+                    <h5>
+		يبدأ سلّم هذا المقام <a href="../jins/sikah.php">بجنس السيكاه</a> (وهو جنس الجذر) على القرار،
+		 ثم <a href="../jins/bayati.php">جنس البياتي</a> على الغمّاز (الدرجة الثالثة)
+                        ومن بعده <a href="../jins/rast.php">جنس الراست</a> على الدرجة السادسة (وهي غمّاز ثانوي).
                     </h5>
 		<br>
                     <h5>انظر الى مقامات اخرى في <a href="f_sikah.php">عائلة مقام السيكاه</a>.</h5>
+		<br>
 
                     <div class="player-area">
                         <audio id="player" controls>

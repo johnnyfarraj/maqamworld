@@ -56,8 +56,8 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="414,9,548,40" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <h5> مقام عُشّاق مصري هو مقام فرعي في <a href="f_nahawand.php">عائلة مقام النهاوند</a> 
-		يبدأ <a href="../jins/nahawand.php">بجنس النهاوند</a> على الدرجة الاولى (القرار) ثم
+                    <h5> مقام عُشّاق مصري هو مقام فرعي في <a href="f_nahawand.php">عائلة مقام النهاوند</a>
+		يبدأ <a href="../jins/nahawand.php">بجنس النهاوند</a> على القرار ثم
 	 <a href="../jins/bayati.php">جنس البياتي</a> على الغمّاز (الدرجة الخامسة).
 		</h5>
 		<br>

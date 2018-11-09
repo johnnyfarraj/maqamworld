@@ -60,10 +60,15 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="265,143,382,173" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="548,143,680,173" href="../jins/nikriz.php" class="mapLink" data-parent="#notation1">
 		</map>
+		<br>
 
-                    <h5>مقام صَبا is a very popular and common maqam in the Arabic repertory. Its scale starts with <a href="../jins/saba.php">Jins Saba</a> on the <em>tonic</em>, overlapped by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 3<sup>rd</sup> degree, followed by either <a href="../jins/ajam.php">Jins ‘Ajam</a> or <a href="../jins/nikriz.php">Jins Nikriz</a> on the 6<sup>th</sup> degree. 
+                    <h5>مقام صَبا هو مقام شائع جداً في الموسيقى العربية. 
+		يبدأ سلّم هذا المقام <a href="../jins/saba.php">بجنس الصبا</a> على القرار،
+		يتداخل معه <a href="../jins/hijaz.php">جنس الحجاز</a> على الدرجة الثالثة،
+		ويليه <a href="../jins/ajam.php">جنس العجم</a> او <a href="../jins/nikriz.php">جنس النكريز</a> على الدرجة السادسة (وهو غمّاز ثانوي).
+		لا ينتمي مقام صَبا لأي عائلة مقامية.
 		</h5>
-		<h5>مقام صَبا  لا ينتمي لأي عائلة.</h5>
+		<br>
 
                     <div class="player-area">
                         <audio id="player" controls>

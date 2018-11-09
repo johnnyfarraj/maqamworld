@@ -56,11 +56,11 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="394,5,500,35" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 		</map>
 		<br>
-		
+
                     <h5>
-		مقام ماهور فرع من <a href="f_rast.php">عائلة مقام الراست</a>. 
-		يبدأ سلّم هذا المقام <a href="../jins/rast.php">بجنس الراست</a> (وهو جنس الجذر) على القرار (الدرجة الاولى)
-		ويليه <a href="../jins/upper_ajam.php">جنس العجم الاعلى</a> 
+		مقام ماهور فرع من <a href="f_rast.php">عائلة مقام الراست</a>.
+		يبدأ سلّم هذا المقام <a href="../jins/rast.php">بجنس الراست</a> (وهو جنس الجذر) على القرار
+		ويليه <a href="../jins/upper_ajam.php">جنس العجم الاعلى</a>
 		(ويبدأ سلم هذا الجنس على الغماز اي الدرجة الخامسة، ويقع قراره على الدرجة الثامنة من سلم المقام).
 		</h5>
 		<br>

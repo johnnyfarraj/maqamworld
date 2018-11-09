@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>مقام جهاركاه</h1>
-                        <h3>(not a member of a maqam family)</h3>
+                        <h3>(لا ينتمي لأي عائلة مقامية)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل المقامات</a>
                     <div class="clearfix"></div>
@@ -57,8 +57,12 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="490,149,672,182" href="../jins/upper_rast.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <h5>مقام جهاركاه is a somewhat rare maqam that starts with <a href="../jins/jiharkah.php">Jins Jiharkah</a> on the <em>tonic</em>, then <a href="../jins/upper_rast.php">Jins Upper Rast</a> on the 5<sup>th</sup> degree (with its tonic up on the 8<sup>th</sup> degree).</h5>
-
+                    <h5>مقام جهاركاه is a somewhat rare maqam that starts with <a href="../jins/jiharkah.php">Jins Jiharkah</a> 
+on the <em>tonic</em>, then <a href="../jins/upper_rast.php">Jins Upper Rast</a> on the 5<sup>th</sup> 
+degree (with its tonic up on the 8<sup>th</sup> degree).
+		لا ينتمي مقام جهاركاه لأي عائلة مقامية.
+		</h5>
+		
                     <div class="player-area">
                         <audio id="player" controls>
                             <source src="/audio/maqam/jiharkah/kallili_ya_suhbu.mp3" type="audio/mp3">
