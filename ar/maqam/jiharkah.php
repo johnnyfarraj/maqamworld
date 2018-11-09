@@ -57,12 +57,14 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="490,149,672,182" href="../jins/upper_rast.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <h5>مقام جهاركاه is a somewhat rare maqam that starts with <a href="../jins/jiharkah.php">Jins Jiharkah</a> 
-on the <em>tonic</em>, then <a href="../jins/upper_rast.php">Jins Upper Rast</a> on the 5<sup>th</sup> 
-degree (with its tonic up on the 8<sup>th</sup> degree).
+                    <h5>مقام جهاركاه هو مقام قليل الاستعمال في الموسيقى العربية.
+		يبدأ سلّمه <a href="../jins/jiharkah.php">بجنس الجهاركاه</a> (شبيه بجنس العجم) على القرار،
+ 		يليه <a href="../jins/upper_rast.php">جنس الراست الاعلى</a> على الغمّاز (الدرجة الخامسة)،
+		(وقرار جنس الراست الاعلى يقع على درجته الاخيرة اي جواب السلّم).
+		</h5><h5>
 		لا ينتمي مقام جهاركاه لأي عائلة مقامية.
 		</h5>
-		
+
                     <div class="player-area">
                         <audio id="player" controls>
                             <source src="/audio/maqam/jiharkah/kallili_ya_suhbu.mp3" type="audio/mp3">

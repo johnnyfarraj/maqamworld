@@ -61,13 +61,12 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="548,145,680,174" href="../jins/nikriz.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <h5>مقام صَبا زَمزَم 
-is a rare maqam in the Arabic repertory. 
-			Its scale starts with <a href="../jins/saba_zamzam.php">Jins Saba Zamzam</a> on the <em>tonic</em>, 
-			overlapped by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 3<sup>rd</sup> degree, 
-			followed by either <a href="../jins/ajam.php">Jins ‘Ajam</a> 
-			or <a href="../jins/nikriz.php">Jins Nikriz</a> on the 6<sup>th</sup> degree. 
-		لا ينتمي مقام جهاركاه لأي عائلة مقامية.
+                    <h5>مقام صَبا زَمزَم هو مقام نادر في الموسيقى العربية.
+		يبدأ سلّم هذا المقام <a href="../jins/saba_zamzam.php">بجنس صَبا زَمزَم</a> على القرار،
+ 		يتداخل مع <a href="../jins/hijaz.php">جنس الحجاز</a> على الدرجة الثالثة،
+		يليه أي من <a href="../jins/ajam.php">جنس العجم</a> او <a href="../jins/nikriz.php">جنس النكريز</a> على الغمّاز (الدرجة السادسة).
+		</h5><h5>
+		لا ينتمي مقام صَبا زَمزَم لأي عائلة مقامية.
 		</h5>
                     <br>
 
