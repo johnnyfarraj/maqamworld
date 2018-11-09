@@ -56,11 +56,20 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="258,13,433,41" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="488,5,597,34" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 		</map>
+		<br>
 
-                    <h5>مقام مُستعار is extremely rare as an independent maqam, but more common as a jins, or as a partial sayr within <a href="huzam.php">مقام هُزام</a> and <a href="sikah.php">مقام سيكاه</a>. Its scale starts with <a href="../jins/mustaar.php">Jins Musta‘ar</a> on the <em>tonic</em>, followed by <a href="../jins/nahawand.php">Jins Nahawand</a> on the 3<sup>rd</sup> degree, and <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree.
+                    <h5>
+		مقام مُستعار نادر في الموسيقى العربية كمقام مستقل، لكنه غالباً ما يأتي كمجرد <a href="../jins/mustaar.php">جنس مستعار</a>
+		 ضمن سير <a href="huzam.php">مقام الهُزام</a> او <a href="sikah.php">مقام السيكاه</a>.
                     </h5>
+                    <h5>
+		يبدأ سلّم هذا المقام <a href="../jins/mustaar.php">بجنس المُستعار</a> على القرار،
+		 يليه <a href="../jins/nahawand.php">جنس النهاوند</a> على الغمّاز (الدرجة الثالثة)،
+		ثم <a href="../jins/rast.php">جنس الراست</a> على الدرجة السادسة (وهي غمّاز ثانوي).
+                     </h5>
 		<br>
                     <h5>انظر الى مقامات اخرى في <a href="f_sikah.php">عائلة مقام السيكاه</a>.</h5>
+		<br>
 
                     <div class="player-area">
                         <audio id="player" controls>
