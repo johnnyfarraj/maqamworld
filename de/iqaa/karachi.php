@@ -88,7 +88,20 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
+                    <div class="track" data-song="/audio/iqaa/karachi/amal_hayati.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Amal Hayati (1965)</b>
+                                    <span>Umm Kulthum</span>
+                                    <span>Musik von Muhammad Abdel Wahab</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                     <div class="track" data-song="/audio/iqaa/karachi/darit_il_ayyam_1.mp3">
                         <div class="radio">
                             <label>

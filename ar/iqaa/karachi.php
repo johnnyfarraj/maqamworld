@@ -93,6 +93,20 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/iqaa/karachi/amal_hayati.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>اغنية امل حياتي (١٩٦٥)</b>
+                                    <span>امّ كلثوم</span>
+                                    <span>كلمات احمد شفيق كامل</span>
+                                    <span>الحان محمد عبد الوهاب (مصر)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                     <div class="track" data-song="/audio/iqaa/karachi/darit_il_ayyam_1.mp3">
                         <div class="radio">
                             <label>
