@@ -93,6 +93,19 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/iqaa/karachi/fakkaruni.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>اغنية فكّروني (١٩٦٦)</b>
+                                    <span>ام كلثوم</span>
+                                    <span>الحان محمد عبد الوهاب</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                     <div class="track" data-song="/audio/iqaa/karachi/amal_hayati.mp3">
                         <div class="radio">
                             <label>
