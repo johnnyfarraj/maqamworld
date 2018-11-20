@@ -116,25 +116,12 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/karachi/darit_il_ayyam_1.mp3">
+                    <div class="track" data-song="/audio/iqaa/karachi/darit_il_ayyam.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Darit il-Ayyam (1970) - Example 1</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-
-                    <div class="track" data-song="/audio/iqaa/karachi/darit_il_ayyam_2.mp3">
-                        <div class="radio">
-                            <label>
-                                <input type="radio" name="song" value="1">
-                                <div class="info">
-                                    <b>Darit il-Ayyam (1970) - Example 2</b>
+                                    <b>Darit il-Ayyam (1970)</b>
                                     <span>Umm Kulthum</span>
                                     <span>Music by Muhammad Abdel Wahab</span>
                                 </div>
