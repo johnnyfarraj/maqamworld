@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 /* Must be relative path */
 include('../../inc/config.php');
@@ -60,7 +60,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="336,11,455,40" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
 	</map>
 
-                    <p>Maqam Bayati Shuri ist eine Variante von <a href="bayati.php">Maqam Bayati</a> mit erhöhter fünfter Stufe. Er ist selbst ein sehr populärer Maqam, insbesondere in Muwashahat- und Adwar-Vokalkompositionen. Er beginnt mit Wurzel-<a href="../jins/bayati.php">Jins Bayati</a> auf der Tonika, gefolgt von <a href="../jins/hijaz.php">Jins Hijaz</a> auf der vierten Stufe.</p>
+                    <p>Maqam Bayati Shuri ist eine Variante von <a href="bayati.php">Maqam Bayati</a> mit erniedrigten fünfter Stufe. Er ist selbst ein sehr populärer Maqam, insbesondere in Muwashahat- und Adwar-Vokalkompositionen. Er beginnt mit Wurzel-<a href="../jins/bayati.php">Jins Bayati</a> auf der Tonika, gefolgt von <a href="../jins/hijaz.php">Jins Hijaz</a> auf der vierten Stufe.</p>
 
                     <p>Erkunden Sie andere Maqamat der <a href="f_bayati.php">Maqam-Bayati-Familie</a>.</p>
 
