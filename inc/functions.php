@@ -19,9 +19,6 @@ function generateSideMenu($sidemenu_items, $page, $page_language) {
     } else if($page_language == "de") {
         /* sort by 4th column */
         uasort($sidemenu_items,"sort_by_name_de");
-    } else if($page_language == "es") {
-        /* sort by 5th column */
-        uasort($sidemenu_items,"sort_by_name_es");
     }
 
     echo '<ul class="sub-menu">';
@@ -37,8 +34,6 @@ function generateSideMenu($sidemenu_items, $page, $page_language) {
                     echo $item[2];
                 } else if($page_language == "de") {
                     echo $item[3];
-                } else if($page_language == "es") {
-                    echo $item[4];
                 }
                 echo '</a>';
             echo '</li>';

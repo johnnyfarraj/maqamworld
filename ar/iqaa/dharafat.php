@@ -55,9 +55,10 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>موشّح طِف يا دُرّي بالقناني</b>
-                                    <span>فرقة الكندي</span>
+                                    <span>فرقة الكندي (سوريا - فرنسا)</span>
+                                    <span>بقيادة جوليان جلال الدين وايس (فرنسا)</span>
                                     <span>الحان عمر البطش (حلب)</span>
-                                    <span><img src="/img/cd.png"> حجرة الموسيقى االحلبية – الجزء الاول (مقام حجازكار كرد)</span>
+                                    <span><img src="/img/cd.png"> حجرة الموسيقى االحلبية – الجزء الاول (<a href="../maqam/hijazkar_kurd.php">مقام حجازكار كرد</a>)</span>
                                 </div>
                             </label>
                         </div>
@@ -83,6 +84,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشّح والّذي ولّاك قلبي</b>
                                     <span>فرقة مّرقس (لبنان)</span>
+                                    <span><img src="/img/cd.png"> Cèdre</span>
                                 </div>
                             </label>
                         </div>
@@ -95,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية الحبّ كلّه (١٩٧١)</b>
                                     <span>امّ كلثوم</span>
-                                    <span>كلمات احمد شفيق كامل</span>
+                                    <span>كلمات احمد شفيق كامل (مصر)</span>
                                     <span>الحان بليغ حمدي (مصر)</span>
                                 </div>
                             </label>

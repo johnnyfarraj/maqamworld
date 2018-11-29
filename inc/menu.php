@@ -27,11 +27,6 @@
                 <input type="search" placeholder="Suche" class="form-control" name="search" autocomplete="off" name="q">
                 <button type="submit"><i class="fa fa-fw fa-search"></i></button>
             </form>
-            <?php } else if($page_language == "es") { ?>
-            <form class="search-bar" action="/es/results.php" method="get">
-                <input type="search" placeholder="Buscar" class="form-control" name="search" autocomplete="off" name="q">
-                <button type="submit"><i class="fa fa-fw fa-search"></i></button>
-            </form>
             <?php } ?>
 
             <!-- Language Selector -->
@@ -39,7 +34,6 @@
             $languages_array = [
                 "en" => "English",
                 "de" => "Deutsch",
-                "es" => "Español",
                 "ar" => "العربية"
             ];
             ?>
@@ -120,34 +114,6 @@
                         </li>
                         <li class="nav-item <?php if($page == "ar/book.php") { echo "active"; } ?>">
                             <a class="nav-link" href="/ar/book.php">الإصدارات</a>
-                        </li>
-                    </ul>
-                </div>
-                <?php } else if($page_language == "es") { ?>
-                <!-- Navbar -->
-                <div class="collapse navbar-collapse" id="navbarDefault">
-                    <ul class="navbar-nav mr-auto">
-                        <li class="nav-item <?php if($page == "es/index.php") { echo "active"; } ?>">
-                            <a class="nav-link" href="/ar/index.php"><i class="fa fa-fw fa-home"></i></a>
-                        </li>
-                        <li class="nav-item <?php if($page == "es/instr.php") { echo "active"; } ?>">
-                            <a class="nav-link" href="/ar/instr.php">Instrumentos</a>
-                        </li>
-                        <li class="nav-item <?php if($page == "es/forms.php") { echo "active"; } ?>">
-                            <a class="nav-link" href="/ar/forms.php">Formas</a>
-                        </li>
-                        <li class="nav-item <?php if($page == "es/jins.php") { echo "active"; } ?>">
-                            <a class="nav-link" href="/ar/jins.php">Jins</a>
-                        </li>
-                        <li class="nav-item <?php if($page == "es/maqam.php") { echo "active"; } ?>">
-                            <a class="nav-link" href="/ar/maqam.php">Maqam</a>
-                        </li>
-                        <li class="nav-item <?php if($page == "es/iqaa.php") { echo "active"; } ?>">
-                            <a class="nav-link" href="/ar/iqaa.php">Ritmos</a>
-                        </li>
-
-                        <li class="nav-item <?php if($page == "es/book.php") { echo "active"; } ?>">
-                            <a class="nav-link" href="/ar/book.php">Libro</a>
                         </li>
                     </ul>
                 </div>

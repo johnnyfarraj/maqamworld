@@ -40,7 +40,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <h5>
-                    إيقاع كراتشي احد الإيقاعات من وزن ٢/٤، احساسه عادةًس بليد ومتمهّل.
+                    إيقاع كراتشي هو احد الإيقاعات من وزن ٢/٤، احساسه عادةً بليد ومتمهّل.
                     بالرغم انه ينتقل كثيراّ من والى <a href="malfuf.php">إيقاع الملفوف</a>،
                     فهو لا يتمتع بنفس إحساس الاستعجال.
                     </h5>
@@ -58,8 +58,8 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>قدّ ذات الجمال اخت الهلال</b>
                                     <span>فرقة التراث (حلب)</span>
-                                    <span>بقيادة محمد حمّادية</span>
-                                    <span><img src="/img/cd.png"> أسطوانة اخت الهلال – مقام الراست</span>
+                                    <span>بقيادة محمد حمّادية (سوريا)</span>
+                                    <span><img src="/img/cd.png"> أسطوانة اخت الهلال – <a href="../maqam/rast.php">مقام راست</a></span>
                                 </div>
                             </label>
                         </div>
@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية بعيد عنّك (١٩٦٥)</b>
                                     <span>امّ كلثوم</span>
-                                    <span>كلمات الشاعر مأمون الشناوي</span>
+                                    <span>كلمات الشاعر مأمون الشناوي (مصر)</span>
                                     <span>الحان بليغ حمدي (مصر)</span>
                                 </div>
                             </label>
@@ -86,7 +86,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية سيرة الحبّ (١٩٦٤)</b>
                                     <span>امّ كلثوم</span>
-                                    <span>كلمات مرسى جميل عزيز</span>
+                                    <span>كلمات مرسى جميل عزيز (مصر)</span>
                                     <span>الحان بليغ حمدي (مصر)</span>
                                 </div>
                             </label>
@@ -100,7 +100,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية فكّروني (١٩٦٦)</b>
                                     <span>ام كلثوم</span>
-                                    <span>الحان محمد عبد الوهاب</span>
+                                    <span>الحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -127,7 +127,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية دارت الايام (١٩٧٠)</b>
                                     <span>امّ كلثوم</span>
-                                    <span>كلمات مأمون الشناوي</span>
+                                    <span>كلمات مأمون الشناوي (مصر)</span>
                                     <span>الحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>

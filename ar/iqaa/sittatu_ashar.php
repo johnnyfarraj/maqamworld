@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشّح بدت من الخدر (خانة)</b>
                                     <span>غناء عايدة شلهوب (لبنان)</span>
-                                    <span>اعداد وتوزيع الاب لويس الحاج</span>
+                                    <span>اعداد وتوزيع الاب لويس الحاج (لبنان)</span>
                                 </div>
                             </label>
                         </div>

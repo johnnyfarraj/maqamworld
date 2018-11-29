@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشح يا من لعبت به شمول</b>
                                     <span>فرقة التراث (حلب)</span>
-                                    <span>بقيادة محمد حمّادية</span>
+                                    <span>بقيادة محمد حمّادية (سوريا)</span>
                                 </div>
                             </label>
                         </div>

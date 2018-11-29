@@ -53,7 +53,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>سماعي بياتي ابراهيم العريان</b>
+                                    <b>سماعي بياتي ابراهيم العريان (مصر)</b>
                                     <span>فرقة تخت القاهرة</span>
                                     <span><img src="/img/cd.png"> موسيقى الاسلام - الجزء الاول (القاهرة)</span>
                                 </div>
@@ -67,7 +67,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>موشّح عاطني بِكر الدنان</b>
-                                    <span>فرقة سليم سحّاب (مصر)</span>
+                                    <span>فرقة سليم سحّاب (لبنان - مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -79,8 +79,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>موشّح املا لي الاقداح صرفاً</b>
-                                    <span>غناء الشيخ حمزة شكّور</span>
-                                    <span>فرقة الكندي</span>
+                                    <span>غناء الشيخ حمزة شكّور (دمشق)</span>
+                                    <span>فرقة الكندي (سوريا - فرنسا)</span>
+                                    <span>بقيادة جوليان جلال الدين وايس (فرنسا)</span>
                                 </div>
                             </label>
                         </div>
@@ -106,7 +107,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>موشّح ملا الكاسات</b>
-                                    <span>فرقة الكندي</span>
+                                    <span>فرقة الكندي (سوريا - فرنسا)</span>
+                                    <span>بقيادة جوليان جلال الدين وايس (فرنسا)</span>
                                     <span>الحان محمد عثمان (مصر)</span>
                                 </div>
                             </label>
@@ -132,7 +134,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>موشّح تلفّت الظبيُ</b>
-                                    <span>فرقة الكندي</span>
+                                    <span>فرقة الكندي (سوريا - فرنسا)</span>
+                                    <span>بقيادة جوليان جلال الدين وايس (فرنسا)</span>
                                     <span>الحان الشيخ محمود صُبح (مصر)</span>
                                 </div>
                             </label>

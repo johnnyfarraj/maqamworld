@@ -53,7 +53,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>اغنية يامّ العيون السود</b>
+                                    <b>اغنية يا امّ العيون السود</b>
                                     <span>غناء ناظم الغزالي (عراق)</span>
                                 </div>
                             </label>
@@ -65,7 +65,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>موشح يا حلو اللمى</b>
+                                    <b>موشح يا حلوَ اللمى</b>
                                     <span>غناء لطفي بوشناق (تونس)</span>
                                 </div>
                             </label>

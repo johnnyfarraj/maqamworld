@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>دلعونا</b>
                                     <span>(من التراث الشعبي)</span>
-                                    <span>(مجهولة المغنّي)</span>
+                                    <span>غناء فارس كرم (لبنان)</span>
                                 </div>
                             </label>
                         </div>

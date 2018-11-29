@@ -56,8 +56,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>موشّح بصفاتٍ جعلتني</b>
-                                    <span>فرقة الكندي</span>
-                                    <span><img src="/img/cd.png"> حجرة الموسيقى االحلبية – الجزء الثاني (مقام راست)</span>
+                                    <span>فرقة الكندي (سوريا - فرنسا)</span>
+                                    <span>بقيادة جوليان جلال الدين وايس (فرنسا)</span>
+                                    <span><img src="/img/cd.png"> حجرة الموسيقى االحلبية – الجزء الثاني (<a href="../maqam/rast.php">مقام راست</a>)</span>
                                 </div>
                             </label>
                         </div>
@@ -69,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>موشح اذا دعانا الصِبا</b>
-                                    <span>غناء خالد الحافظ</span>
+                                    <span>غناء خالد الحافظ (سوريا)</span>
                                     <span>الحان عمر البطش (حلب)</span>
                                 </div>
                             </label>

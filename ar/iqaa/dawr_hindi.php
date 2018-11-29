@@ -83,7 +83,8 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشح جل من قد صورك</b>
                                     <span>إنشاد الشيخ حمزة شكّور (سوريا)</span>
-                                    <span>فرقة الكندي</span>
+                                    <span>فرقة الكندي (سوريا-فرنسا)</span>
+                                    <span>بقيادة جوليان جلال الدين وايس (فرنسا)</span>
                                 </div>
                             </label>
                         </div>

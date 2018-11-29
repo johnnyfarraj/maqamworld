@@ -56,8 +56,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>موشح سلّ فينا اللحظ هنديا</b>
-                                    <span>فرقة الكندي</span>
-                                    <span></span>
+                                    <span>فرقة الكندي (سوريا-فرنسا)</span>
+                                    <span>بقيادة جوليان جلال الدين وايس (فرنسا)</span>
                                     <span><img src="/img/cd.png"> أسطوانة الحروب الصليبية من منظار الشرق (مقام حجاز)</span>
                                 </div>
                             </label>
@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشح سلّ فينا اللحظ هنديا</b>
                                     <span>صباح فخري (حلب)</span>
-                                    <span><img src="/img/cd.png">نغم الامس - الجزء الثامن (مقام حجاز)</span>
+                                    <span><img src="/img/cd.png"> سلسلة نغم الامس - الجزء الثامن (<a href="../maqam/hijaz.php">مقام الحجاز</a>)</span>
                                 </div>
                             </label>
                         </div>

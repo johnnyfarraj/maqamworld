@@ -39,8 +39,8 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <h5>
-                    إيقاع اقصاق يُسنعمل كثيراَ في قالب <a href="../form/vocal_comp.php#muwashah">الموشح</a> الغنائي.
-                    وهو يشبه <a href="samai_thaqil.php">إيقاع سماعي ثقيل</a> لكن ينقصه ضربة واحدة من اصل عشرة، ولذا كثيراَ ما يأتي هذا الإيقاع من قبل او بعد قطعة من إيقاع سماعي ثقيل بلا توقف العزف، ضمن قالب الوصلة.
+                    إيقاع اقصاق يُستعمل كثيراً في قالب <a href="../form/vocal_comp.php#muwashah">الموشح</a> الغنائي.
+                    وهو يشبه <a href="samai_thaqil.php">إيقاع سماعي ثقيل</a> لكن ينقصه ضربة واحدة من اصل عشرة، ولذا كثيراً ما يأتي هذا الإيقاع من قبل او بعد قطعة من إيقاع سماعي ثقيل بلا توقف العزف، ضمن قالب الوصلة.
 					</h5>
 					<br>
 
@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>موشح ما احتيالي</b>
-                                    <span>الاب لويس الحاج وعايدة شلهوب</span>
+                                    <span>الاب لويس الحاج وعايدة شلهوب (لبنان)</span>
                                     <span><img src="/img/cd.png"> اسطوانة الموشّح - الاغاني العربية الاندلسية</span>
                                 </div>
                             </label>
@@ -69,8 +69,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>موشح انا من وجدي انا</b>
-                                    <span>عائشة رضوان</span>
-                                    <span><img src="/img/cd.png"> Egypte</span>
+                                    <span>عائشة رضوان (المغرب - فرنسا)</span>
+                                    <span><img src="/img/cd.png"> اسطوانة مصر</span>
                                 </div>
                             </label>
                         </div>
@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                     <b>موشح جلّ من بالحسن صوّر</b>
                                     <span>فرقة الموسيقى العربية (مصر)</span>
                                     <span>بقيادة عبد الحليم نويرة</span>
-                                    <span>الحان كامل الخلعي</span>
+                                    <span>الحان كامل الخلعي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -126,8 +126,8 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشّح ماحتيالي</b>
                                     <span>فرقة التراث (حلب)</span>
-                                    <span>بقيادة محمد حمّادية</span>
-                                    <span><img src="/img/cd.png"> اسطوانة موسيقى الاندلس الاسبانية - مقام الحجاز</span>
+                                    <span>بقيادة محمد حمّادية (سوريا)</span>
+                                    <span><img src="/img/cd.png"> اسطوانة موسيقى الاندلس الاسبانية - <a href="../maqam/hijaz.php">مقام الحجاز</a></span>
                                 </div>
                             </label>
                         </div>
@@ -152,7 +152,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>موشّح عذّبوني</b>
-                                    <span>فرقة الكندي</span>
+                                    <span>فرقة الكندي (سوريا-فرنسا)</span>
+                                    <span>بقيادة جوليان جلال الدين وايس (فرنسا)</span>
                                     <span>الحان عمر البطش (حلب)</span>
                                     <span><img src="/img/cd.png"> حجرة الموسيقى االحلبية – الجزء الاول (<a href="../maqam/hijazkar_kurd.php">مقام حجازكار كرد</a>)</span>
                                 </div>

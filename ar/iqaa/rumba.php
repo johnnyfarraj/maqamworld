@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>اغنية الفنّ (١٩٤٥)</b>
-                                    <span>كلمات صالح جودت</span>
+                                    <span>كلمات صالح جودت (مصر)</span>
                                     <span>غناء والحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية امل حياتي (١٩٦٥) </b>
                                     <span>امّ كلثوم</span>
-                                    <span>كلمات احمد شفيق كامل</span>
+                                    <span>كلمات احمد شفيق كامل (مصر)</span>
                                     <span>الحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية انساك ده كلام (١٩٦١)</b>
                                     <span>امّ كلثوم</span>
-                                    <span>كلمات مأمون الشناوى</span>
+                                    <span>كلمات مأمون الشناوى (مصر)</span>
                                     <span>الحان بليغ حمدي (مصر)</span>
                                 </div>
                             </label>
@@ -98,7 +98,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية بعيد عنّك (١٩٦٥)</b>
                                     <span>امّ كلثوم</span>
-                                    <span>كلمات الشاعر مأمون الشناوي</span>
+                                    <span>كلمات الشاعر مأمون الشناوي (مصر)</span>
                                     <span>الحان بليغ حمدي (مصر)</span>
                                 </div>
                             </label>
@@ -112,7 +112,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية دارت الايام (١٩٧٠)</b>
                                     <span>امّ كلثوم</span>
-                                    <span>كلمات مأمون الشناوي</span>
+                                    <span>كلمات مأمون الشناوي (مصر)</span>
                                     <span>الحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>

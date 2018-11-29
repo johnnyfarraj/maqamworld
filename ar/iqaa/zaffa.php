@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>اغنية دقّوا المزاهر (١٩٥٢)</b>
-                                    <span>غناء والحان فريد الأطرش</span>
+                                    <span>غناء والحان فريد الأطرش (سوريا / مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -70,8 +70,8 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية الف ليلة وليلة (١٩٦٩)</b>
                                     <span>ام كلثوم (مصر)</span>
-                                    <span>كلمات مرسي جميل عزيز</span>
-                                    <span>الحان بليغ حمدي</span>
+                                    <span>كلمات مرسي جميل عزيز (مصر)</span>
+                                    <span>الحان بليغ حمدي (مصر)</span>
                                 </div>
                             </label>
                         </div>

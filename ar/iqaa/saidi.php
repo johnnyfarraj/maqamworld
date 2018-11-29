@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية سوّاح (١٩٦٦)</b>
                                     <span>غناء عبد الحليم حافظ (مصر)</span>
-                                    <span>كلمات الشاعر محمد حمزة</span>
+                                    <span>كلمات الشاعر محمد حمزة (مصر)</span>
                                     <span>الحان بليغ حمدي (مصر)</span>
                                 </div>
                             </label>
@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية زيّ الهوى (١٩٧٠)</b>
                                     <span>غناء عبد الحليم حافظ (مصر)</span>
-                                    <span>كلمات الشاعر محمد حمزة</span>
+                                    <span>كلمات الشاعر محمد حمزة (مصر)</span>
                                     <span>الحان بليغ حمدي (مصر)</span>
                                 </div>
                             </label>
