@@ -39,7 +39,7 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/iqaa/mudawwar.png" class="img-fluid">
                     </div>
 
-                    <h5>إيقاع مدوّر غالباً ما يستعمل في <a href="../form/vocal_comp.php#muwashah">قالب الموشّح</a>.م
+                    <h5>إيقاع مدوّر غالباً ما يستعمل في <a href="../form/vocal_comp.php#muwashah">قالب الموشّح</a>.
                     </h5>
 
                     <div class="player-area">
@@ -55,7 +55,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشّح اذكر الحبّ</b>
                                     <span>فرقة الموسيقى العربية (مصر)</span>
-                                    <span>بقيادة عبد الحليم نويرة</span>
+                                    <span>بقيادة عبد الحليم نويرة (مصر)</span>
                                     <span>الحان داوود حسني (مصر)</span>
                                 </div>
                             </label>
@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشّح فيك كل ما أرى حسن</b>
                                     <span>فرقة الموسيقى العربية (مصر)</span>
-                                    <span>بقيادة عبد الحليم نويرة</span>
+                                    <span>بقيادة عبد الحليم نويرة (مصر)</span>
                                 </div>
                             </label>
                         </div>

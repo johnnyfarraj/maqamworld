@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية حبيبي يسعد اوقاته (١٩٤٣)</b>
                                     <span>امّ كلثوم</span>
-                                    <span>كلمات بيرم التونسي</span>
+                                    <span>كلمات بيرم التونسي (مصر)</span>
                                     <span>الحان الشيخ زكريا احمد (مصر)</span>
                                 </div>
                             </label>
@@ -86,7 +86,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية القلب يعشق كلّ جميل (١٩٦١)</b>
                                     <span>امّ كلثوم</span>
-                                    <span>كلمات بيرم التونسي</span>
+                                    <span>كلمات بيرم التونسي (مصر)</span>
                                     <span>الحان رياض السنباطي (مصر)</span>
                                 </div>
                             </label>

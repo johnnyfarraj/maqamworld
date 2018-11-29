@@ -18,7 +18,7 @@ include($ROOT . 'inc/head.php');
       $page = "ar/iqaa/nawakht.php";
       include($ROOT . 'inc/menu.php');
     ?>
-    
+
     <div class="page">
         <div class="container">
             <div class="row">
@@ -27,27 +27,27 @@ include($ROOT . 'inc/head.php');
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
-                    
+
                     <div class="heading jins text-center">
                         <h1>إيقاع نَواخْت ٧/٤</h1>
                     </div>
-                    
+
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الايقاعات</a>
                     <div class="clearfix"></div>
-                    
+
                     <div class="notation">
                         <img src="../note/iqaa/nawakht.png" class="img-fluid">
                     </div>
-                    
+
                     <h5>إيقاع نَواخْت يستعمل كثيراً في <a href="../form/vocal_comp.php#muwashah">قالب الموشّح</a>، ويعزف عادةً بسرعة متوسطة او بطيئة.
                     </h5>
-                    
+
                     <div class="player-area">
                         <audio id="player" controls>
                             <source src="/audio/iqaa/nawakht/ya_hilalan.mp3" type="audio/mp3">
                         </audio>
                     </div>
-                    
+
                     <div class="track " data-song="/audio/iqaa/nawakht/ya_hilalan.mp3">
                         <div class="radio">
                             <label>
@@ -55,12 +55,12 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشّح يا هلالاً</b>
                                     <span>فرقة الموسيقى العربية (مصر)</span>
-                                    <span>بقيادة عبد الحليم نويرة</span>
+                                    <span>بقيادة عبد الحليم نويرة (مصر)</span>
                                 </div>
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/nawakht/badru_timmin.mp3">
                         <div class="radio">
                             <label>
@@ -68,12 +68,12 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشّح بدر تمٍّ حاز حسناَ</b>
                                     <span>فرقة الموسيقى العربية (مصر)</span>
-                                    <span>بقيادة عبد الحليم نويرة</span>
+                                    <span>بقيادة عبد الحليم نويرة (مصر)</span>
                                 </div>
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/nawakht/qultu_lamma.mp3">
                         <div class="radio">
                             <label>
@@ -86,7 +86,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/nawakht/hati_ya_habibi.mp3">
                         <div class="radio">
                             <label>
@@ -94,12 +94,12 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشح هاتِ يا حبيبي</b>
                                     <span>فرقة الموسيقى العربية (مصر)</span>
-                                    <span>بقيادة عبد الحليم نويرة</span>
+                                    <span>بقيادة عبد الحليم نويرة (مصر)</span>
                                 </div>
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/nawakht/ijma3u_bil_qurbi.mp3">
                         <div class="radio">
                             <label>
@@ -111,7 +111,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/nawakht/jalla_man_qad_sagha.mp3">
                         <div class="radio">
                             <label>
@@ -124,7 +124,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/nawakht/khala_al_idhar.mp3">
                         <div class="radio">
                             <label>
@@ -136,7 +136,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                 </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
@@ -144,9 +144,9 @@ include($ROOT . 'inc/head.php');
             </div>
         </div>
     </div>
-    
+
     <?php include($ROOT . 'ar/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
-    
+
   </body>
 </html>

@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية دارت الايام (١٩٧٠)</b>
                                     <span>امّ كلثوم</span>
-                                    <span>كلمات مأمون الشناوي</span>
+                                    <span>كلمات مأمون الشناوي (مصر)</span>
                                     <span>الحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
@@ -95,8 +95,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>موشح يا صاحِ الصبر وهى مني</b>
-                                    <span>الشيخ حمزة شكّور</span>
-                                    <span>فرقة الكندي</span>
+                                    <span>الشيخ حمزة شكّور (دمشق)</span>
+                                    <span>فرقة الكندي (سوريا - فرنسا)</span>
+                                    <span>بقيادة جوليان جلال الدين فايس (فرنسا)</span>
                                 </div>
                             </label>
                         </div>

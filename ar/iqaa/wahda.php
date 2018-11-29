@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية بعيد عنّك (١٩٦٥)</b>
                                     <span>امّ كلثوم</span>
-                                    <span>كلمات الشاعر مأمون الشناوي</span>
+                                    <span>كلمات مأمون الشناوي (مصر)</span>
                                     <span>الحان بليغ حمدي (مصر)</span>
                                 </div>
                             </label>
@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية دارت الايام (١٩٧٠)</b>
                                     <span>امّ كلثوم</span>
-                                    <span>كلمات مأمون الشناوي</span>
+                                    <span>كلمات مأمون الشناوي (مصر)</span>
                                     <span>الحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>قصيدة سلوا قلبي (١٩٤٦)</b>
                                     <span>امّ كلثوم</span>
-                                    <span>كلمات احمد شوقى</span>
+                                    <span>كلمات احمد شوقى (مصر)</span>
                                     <span>الحان رياض السنباطي (مصر)</span>
                                 </div>
                             </label>

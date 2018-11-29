@@ -18,7 +18,7 @@ include($ROOT . 'inc/head.php');
       $page = "ar/iqaa/mukhammas.php";
       include($ROOT . 'inc/menu.php');
     ?>
-    
+
     <div class="page">
         <div class="container">
             <div class="row">
@@ -27,26 +27,26 @@ include($ROOT . 'inc/head.php');
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
-                    
+
                     <div class="heading jins text-center">
                         <h1>إيقاع مُخَمّس ١٦/٤</h1>
                     </div>
-                    
+
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الايقاعات</a>
                     <div class="clearfix"></div>
-                    
+
                     <div class="notation">
                         <img src="../note/iqaa/mukhammas.png" class="img-fluid">
                     </div>
-                    
+
                     <h5>إيقاع مُخَمّس غالباً ما يستعمل في <a href="../form/vocal_comp.php#muwashah">قالب الموشّح</a>.</h5>
-                    
+
                     <div class="player-area">
                         <audio id="player" controls>
                             <source src="/audio/iqaa/mukhammas/badri_adir.mp3" type="audio/mp3">
                         </audio>
                     </div>
-                    
+
                     <div class="track " data-song="/audio/iqaa/mukhammas/badri_adir.mp3">
                         <div class="radio">
                             <label>
@@ -54,12 +54,12 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشّح بدري ادِر كاس الطلا</b>
                                     <span>فرقة الموسيقى العربية (مصر)</span>
-                                    <span>بقيادة عبد الحليم نويرة</span>
+                                    <span>بقيادة عبد الحليم نويرة (مصر)</span>
                                 </div>
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/mukhammas/wajhak_mushriq.mp3">
                         <div class="radio">
                             <label>
@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                 </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
@@ -80,9 +80,9 @@ include($ROOT . 'inc/head.php');
             </div>
         </div>
     </div>
-    
+
     <?php include($ROOT . 'ar/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
-    
+
   </body>
 </html>

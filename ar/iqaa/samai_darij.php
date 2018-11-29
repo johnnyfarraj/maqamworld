@@ -18,7 +18,7 @@ include($ROOT . 'inc/head.php');
       $page = "ar/iqaa/samai_darij.php";
       include($ROOT . 'inc/menu.php');
     ?>
-    
+
     <div class="page">
         <div class="container">
             <div class="row">
@@ -27,27 +27,27 @@ include($ROOT . 'inc/head.php');
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
-                    
+
                     <div class="heading jins text-center">
                         <h1>إيقاع سماعي دارِج ٣/٤</h1>
                     </div>
-                    
+
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الايقاعات</a>
                     <div class="clearfix"></div>
-                    
+
                     <div class="notation">
                         <img src="../note/iqaa/samai_darij.png" class="img-fluid">
                     </div>
-                    
+
                     <h5>إيقاع سماعي دارِج (او "دارج" باختصار) هو الايقاع الأكثر استعمالاً في وزن الـ ٣/٤، ويستعمل في الألوان الغنائية والآلية على حد سواء.
                     </h5>
-                    
+
                     <div class="player-area">
                         <audio id="player" controls>
                             <source src="/audio/iqaa/samai_darij/kallili_ya_suhbu.mp3" type="audio/mp3">
                         </audio>
                     </div>
-                    
+
                     <div class="track " data-song="/audio/iqaa/samai_darij/kallili_ya_suhbu.mp3">
                         <div class="radio">
                             <label>
@@ -55,7 +55,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشح كلّلي يا سحب</b>
                                     <span>فرقة الموسيقى العربية (مصر)</span>
-                                    <span>بقيادة عبد الحليم نويرة</span>
+                                    <span>بقيادة عبد الحليم نويرة (مصر)</span>
                                     <span>الحان محمد عثمان (مصر)</span>
                                 </div>
                             </label>
@@ -73,7 +73,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/samai_darij/ya_man_la3ibat.mp3">
                         <div class="radio">
                             <label>
@@ -86,7 +86,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
 
                 </div>
                 <div class="col-sm-12">
@@ -95,9 +95,9 @@ include($ROOT . 'inc/head.php');
             </div>
         </div>
     </div>
-    
+
     <?php include($ROOT . 'ar/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
-    
+
   </body>
 </html>

@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشح جلّ من بالحسن صوّر</b>
                                     <span>فرقة الموسيقى العربية (مصر)</span>
-                                    <span>بقيادة عبد الحليم نويرة</span>
+                                    <span>بقيادة عبد الحليم نويرة (مصر)</span>
                                     <span>الحان كامل الخلعي (مصر)</span>
                                 </div>
                             </label>
@@ -153,7 +153,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشّح عذّبوني</b>
                                     <span>فرقة الكندي (سوريا-فرنسا)</span>
-                                    <span>بقيادة جوليان جلال الدين وايس (فرنسا)</span>
+                                    <span>بقيادة جوليان جلال الدين فايس (فرنسا)</span>
                                     <span>الحان عمر البطش (حلب)</span>
                                     <span><img src="/img/cd.png"> حجرة الموسيقى االحلبية – الجزء الاول (<a href="../maqam/hijazkar_kurd.php">مقام حجازكار كرد</a>)</span>
                                 </div>

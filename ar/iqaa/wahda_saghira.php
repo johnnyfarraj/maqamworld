@@ -40,7 +40,7 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/iqaa/wahda_saghira.png" class="img-fluid">
                     </div>
 
-                    <h5>إيقاع واحْدة صغيرة (و يُسمّى ايضاً "واحْدة بسيطة") هو إيقاع بسيط على وزن ٤/٢، سُمّي كذلك لأنه صنف مبسّط من <a href="wahda.php">إيقاع الواحْدة</a> (من وزن ٤/٤).
+                    <h5>إيقاع واحْدة صغيرة (و يُسمّى ايضاً "واحْدة بسيطة") هو إيقاع بسيط على وزن ٢/٤، سُمّي كذلك لأنه صنف مبسّط من <a href="wahda.php">إيقاع الواحْدة</a> (من وزن ٤/٤).
                     </h5>
 
                     <div class="player-area">
@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية دارت الايام (١٩٧٠)</b>
                                     <span>امّ كلثوم</span>
-                                    <span>كلمات مأمون الشناوي</span>
+                                    <span>كلمات مأمون الشناوي (مصر)</span>
                                     <span>الحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية على حسب وداد قلبي (١٩٥٣)</b>
                                     <span>غناء عبد الحليم حافظ (مصر)</span>
-                                    <span>كلمات عبد الرحمن الأبنودى</span>
+                                    <span>كلمات عبد الرحمن الأبنودى (مصر)</span>
                                     <span>الحان بليغ حمدي (مصر)</span>
                                 </div>
                             </label>
@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>قصيدة مضناك جفاهُ مرقده (١٩٣٨)</b>
-                                    <span>كلمات الشاعر احمد شوقى</span>
+                                    <span>كلمات الشاعر احمد شوقي (مصر)</span>
                                     <span>غناء والحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية نبتدي منين الحكاية (١٩٧٥)</b>
                                     <span>غناء عبد الحليم حافظ (مصر)</span>
-                                    <span>كلمات محمد حمزه</span>
+                                    <span>كلمات محمد حمزه (مصر)</span>
                                     <span>الحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>

@@ -55,7 +55,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>موشّح بدت من الخدر</b>
-                                    <span>فرقة الكندي</span>
+                                    <span>فرقة الكندي (سوريا - فرنسا)</span>
+                                    <span>بقيادة جوليان جلال الدين فايس (فرنسا)</span>
                                 </div>
                             </label>
                         </div>
@@ -68,7 +69,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشّح هجرني حبيبي</b>
                                     <span>فرقة التراث (سوريا)</span>
-                                    <span>بقيادة محمد حمّادية</span>
+                                    <span>بقيادة محمد حمّادية (سوريا)</span>
                                 </div>
                             </label>
                         </div>
@@ -79,7 +80,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>موشح عل على الاستار</b>
+                                    <b>موشح هل على الاستار</b>
                                     <span>فرقة مُرقس (لبنان)</span>
                                     <span><img src="/img/cd.png"> Cèdre</span>
                                 </div>
@@ -94,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشح منيتي عزّ اصطباري</b>
                                     <span>اوريانتاليا</span>
-                                    <span>تلحين سيّد درويش (مصر)</span>
+                                    <span>الحان سيّد درويش (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -106,7 +107,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>موشح يا تُرى بعد البِعاد</b>
-                                    <span>فرقة الكندي</span>
+                                    <span>فرقة الكندي (سوريا - فرنسا)</span>
+                                    <span>بقيادة جوليان جلال الدين فايس (فرنسا)</span>
                                 </div>
                             </label>
                         </div>

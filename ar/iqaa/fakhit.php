@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشّح بصفاتٍ جعلتني</b>
                                     <span>فرقة الكندي (سوريا - فرنسا)</span>
-                                    <span>بقيادة جوليان جلال الدين وايس (فرنسا)</span>
+                                    <span>بقيادة جوليان جلال الدين فايس (فرنسا)</span>
                                     <span><img src="/img/cd.png"> حجرة الموسيقى االحلبية – الجزء الثاني (<a href="../maqam/rast.php">مقام راست</a>)</span>
                                 </div>
                             </label>

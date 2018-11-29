@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية خيّ خيّ (١٩٥٨)</b>
                                     <span>غناء والحان محمد عبد الوهاب (مصر)</span>
-                                    <span>كلمات حسين السيد</span>
+                                    <span>كلمات حسين السيد (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -98,7 +98,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشح يا فاتن الغزلان</b>
                                     <span>فرقة التراث</span>
-                                    <span>بقيادة محمد حمّادية</span>
+                                    <span>بقيادة محمد حمّادية (سوريا)</span>
                                     <span>الحان عمر البطش (حلب)</span>
                                 </div>
                             </label>

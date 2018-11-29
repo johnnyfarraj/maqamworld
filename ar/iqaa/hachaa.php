@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "إيقاع هچع ٤/٤";
-$page_description = "إيقاع هچع ٤/٤";
+$page_title = "إيقاع هَجَع ٤/٤";
+$page_description = "إيقاع هَجَع ٤/٤";
 $page_keywords = "عود,موسيقى عربية,قانون,ناي,مقام,جنس,آلات,طرب,ايقاع,رقّ,طبلة,طبل البلدي,دفّ,كاتم,صاجات";
 $page_language = "ar";
 
@@ -29,7 +29,7 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>إيقاع هَچَع ٤/٤</h1>
+                        <h1>إيقاع هَجَع ٤/٤</h1>
                         <h3>(يُلفظ هَشَع او هَجَع)</h3>
                         <h3>يأتي ايضاً على وزن ٤/٤ و٦/٤</h3>
                     </div>
@@ -42,14 +42,10 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <h5>
-
-                    Iqa‘ Hacha‘ in 4/4 is very popular in Sufi music, especially in pieces that only use percussion instruments.
-
-                    Although the 4/4 version is by far the most prevalent, it is an adaptation of a more folkloric <em>iqa‘</em> by the same name in 2/4.
-
-                    A rare adaptation is the 6/4 version used by composer Baligh Hamdi in Umm Kulthum's "Alf Leila w Leila".
-
-					</h5>
+	ايقاع هجع ٤/٤ شائع جدا في الموسيقى الصوفية وخصوصا المقطوعات التي تستخدم فيها فقط الآلات الإيقاعية.
+	 وبالرغم من ان الشكل ٤/٤ من ايقاع الهجع هو السائد،
+	 فإنه يُستخدم ايضا الشكل ٢/٤ ذا الطابع الفلكلوري، بالإضافة الى استخدام شكل نادر على وزن ٦/٤.
+	</h5>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -64,7 +60,8 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>بحمدك يا الهي</b>
                                     <span>إنشاد الشيخ حمزة شكّور (سوريا)</span>
-                                    <span>فرقة الكندي</span>
+                                    <span>فرقة الكندي (سوريا - فرنسا)</span>
+                                    <span>بقيادة جوليان جلال الدين فايس (فرنسا)</span>
                                 </div>
                             </label>
                         </div>
@@ -77,7 +74,8 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>سبحان</b>
                                     <span>إنشاد الشيخ حمزة شكّور (سوريا)</span>
-                                    <span>فرقة الكندي</span>
+                                    <span>فرقة الكندي (سوريا - فرنسا)</span>
+                                    <span>بقيادة جوليان جلال الدين فايس (فرنسا)</span>
                                 </div>
                             </label>
                         </div>
@@ -90,7 +88,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية القلب يعشق كلّ جميل (١٩٦١)</b>
                                     <span>امّ كلثوم</span>
-                                    <span>كلمات بيرم التونسي</span>
+                                    <span>كلمات بيرم التونسي (مصر)</span>
                                     <span>الحان رياض السنباطي (مصر)</span>
                                 </div>
                             </label>
@@ -138,7 +136,7 @@ include($ROOT . 'inc/head.php');
                     <!-- Need some kind of divider here -->
                     <br>
                     <div class="heading jins text-center">
-                        <h3>الشكل الثاني لإيقاع هچع على وزن ٢/٤</h3>
+                        <h3>الشكل الثاني لإيقاع هجع على وزن ٢/٤</h3>
                     </div>
                     <div class="clearfix"></div>
                     <br>
@@ -164,7 +162,7 @@ include($ROOT . 'inc/head.php');
                     <!-- Need some kind of divider here -->
                     <br>
                     <div class="heading jins text-center">
-                        <h3>الشكل الثالث لإيقاع هچع على وزن ٦/٤</h3>
+                        <h3>الشكل الثالث لإيقاع هجع على وزن ٦/٤</h3>
                     </div>
                     <div class="clearfix"></div>
                     <br>
@@ -182,7 +180,7 @@ include($ROOT . 'inc/head.php');
                                     <b>اغنية الف ليلة وليلة (١٩٦٩)</b>
                                     <span>ام كلثوم</span>
                                     <span>الحان بليغ حمدي (مصر)</span>
-                                    <span>كلمات مرسي جميل عزيز</span>
+                                    <span>كلمات مرسي جميل عزيز (مصر)</span>
                                 </div>
                             </label>
                         </div>
