@@ -30,6 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>إيقاع جُرجِينا ١٠/٨</h1>
+                        <h3>(من كلمة تركية تعني "الصخب")</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الايقاعات</a>
