@@ -56,12 +56,12 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="425,5,544,36" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <h5>مقام شوق افزا هو الفرع الاكثر استعمالاً في <a href="f_ajam.php">عائلة مقام العجم</a>.
+                    <h5>مقام شوق افزا هو المقام الفرعي الاكثر استعمالاً في <a href="f_ajam.php">عائلة مقام العجم</a>.
 			يبدأ سلّم هذا المقام <a href="../jins/ajam.php">بجنس العجم</a> (وهو جنس الجذر) على القرار
 			يليه <a href="../jins/hijaz.php">جنس الحجاز</a> على الغمّاز (الدرجة الخامسة).
  		</h5>
  		<h5>
-			امّا ميزة هذا المقام فهي انتقال معتاد الى <a href="../jins/saba_dalanshin.php">جنس الصبا دلنشين</a>
+			امّا ميزة هذا المقام فهي انتقال معتاد الى <a href="../jins/saba_dalanshin.php">جنس صبا دلنشين</a>
 			 يقع قراره ومحوره النغمي على الدرجة الخامسة (ويبدأ سلمه على الدرجة الثالثة).
  		</h5>
 		<br>
@@ -79,9 +79,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>اغنية لسّه فاكر (١٩٥٣)</b>
+                                    <b>اغنية لسّه فاكر (١٩٦٠)</b>
                                     <span>ام كلثوم</span>
-                                    <span>الحان رياض السنباطي</span>
+                                    <span>الحان رياض السنباطي (مصر)</span>
+                                    <span>كلمات عبد الفتاح مصطفى (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -94,7 +95,8 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>على الله تعود (١٩٧٠)</b>
                                     <span>وديع الصافي (لبنان)</span>
-                                    <span>الحان فريد الاطرش</span>
+                                    <span>الحان فريد الاطرش (سوريا / مصر)</span>
+                                    <span>كلمات ميشيل طعمة (لبنان)</span>
                                 </div>
                             </label>
                         </div>

@@ -78,7 +78,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشّح كللي يا سحب</b>
                                     <span>فرقة الموسيقى العربية (مصر)</span>
-                                    <span>بقيادة عبد الحليم نويرة</span>
+                                    <span>بقيادة عبد الحليم نويرة (مصر)</span>
                                     <span>الحان محمد عثمان (مصر)</span>
                                 </div>
                             </label>
@@ -105,7 +105,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>سماعي جهاركاه</b>
                                     <span>فرقة صباح فخري (سوريا)</span>
-                                    <span><img src="/img/cd.png">من حفلة مسرح الامانديية (فرنسا)</span>
+                                    <span><img src="/img/cd.png">من حفلة مسرح الاماندييه (فرنسا)</span>
                                 </div>
                             </label>
                         </div>
@@ -118,7 +118,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>دولاب جهاركاه</b>
                                     <span>فرقة صباح فخري (سوريا)</span>
-                                    <span><img src="/img/cd.png">من حفلة مسرح الامانديية (فرنسا)</span>
+                                    <span><img src="/img/cd.png">من حفلة مسرح الاماندييه (فرنسا)</span>
                                 </div>
                             </label>
                         </div>
@@ -132,7 +132,7 @@ include($ROOT . 'inc/head.php');
                                     <b>اغنية عالروزانا</b>
                                     <span>اللحن قديم</span>
                                     <span>المطرب صباح فخري (حلب)</span>
-                                    <span><img src="/img/cd.png">من حفلة مسرح الامانديية (فرنسا)</span>
+                                    <span><img src="/img/cd.png">من حفلة مسرح الاماندييه (فرنسا)</span>
                                 </div>
                             </label>
                         </div>

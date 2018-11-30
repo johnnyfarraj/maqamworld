@@ -51,7 +51,7 @@ include($ROOT . 'inc/head.php');
 	  <area shape="circle" coords="462,131,13" href="#" alt="مي<i class='icon-halfflat'></i>↓" class="playNote" data-frequency="xxx" data-parent="#notation1">
 	  <area shape="circle" coords="533,139,13" href="#" alt="ري" class="playNote" data-frequency="xxx" data-parent="#notation1">
 	  <area shape="circle" coords="605,147,13" href="#" alt="دو♯" class="playNote" data-frequency="xxx" data-parent="#notation1">
- 		<area shape="circle" coords="672,147,13" href="#" alt="فا↓" class="playNote" data-frequency="xxx" data-parent="#notation1">
+ 	<area shape="circle" coords="672,147,13" href="#" alt="دو↓" class="playNote" data-frequency="xxx" data-parent="#notation1">
 	  <area shape="circle" coords="737,155,13" href="#" alt="سي<i class='icon-halfflat'></i>↑" class="playNote" data-frequency="xxx" data-parent="#notation1">
 	  <area shape="circle" coords="817,164,13" href="#" alt="لا<i class='icon-halfflat'></i>↓" class="playNote" data-frequency="xxx" data-parent="#notation1">
 	  <area shape="circle" coords="893,173,13" href="#" alt="صول" class="playNote" data-frequency="xxx" data-parent="#notation1">
@@ -64,11 +64,11 @@ include($ROOT . 'inc/head.php');
 
                      <h5>
 		مقام سيكاه بلدي هو من اصعب المقامات العربية عزفاً.
-		سلّم هذا المقام وسيره مزيج بين <a href="huzam.php">مقام هُزام</a> (المصوّر الى علامة غير علامة السيكاه)
-		ومقام <a href="hijazkar.php">مقام حجازكار</a> (مع تعديل بعض المسافات)،
+		سلّم هذا المقام وسيره مزيج بين <a href="huzam.php">مقام هُزام</a> (المصوّر على علامة غير علامة السيكاه)
+		و<a href="hijazkar.php">مقام حجازكار</a> (مع تعديل بعض المسافات)،
 		والنتيجة هي مقام يشبه هذين المقامين.
 		اما المسافات في سلّم مقام سيكاه بلدي فأي منها لا يطابق مسافات الصوت او نصف الصوت كما في السلّم الغربي المتساوي الابعاد،
-		لذلك لا يمكن ان يُعزف هذا المقام بدقة واخلاص على اية آلات غربية او مشرّقة.
+		لذلك لا يمكن ان يُعزف هذا المقام بدقة وإحكام على اية آلات غربية او مشرّقة.
 		</h5>
 		<br>
 
@@ -158,7 +158,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>تقسيم على القانون</b>
-                                    <span>ابراهام سلمان (عراق)</span>
+                                    <span>ابراهام سلمان (العراق)</span>
                                     <span><img src="/img/cd.png"> اسطوانة سلطنة</span>
                                 </div>
                             </label>

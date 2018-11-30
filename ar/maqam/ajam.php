@@ -84,6 +84,7 @@ include($ROOT . 'inc/head.php');
                                     <b>اغنية اغداً القاك (١٩٧١)</b>
                                     <span>امّ كلثوم</span>
                                     <span>الحان محمد عبد الوهاب (مصر)</span>
+                                    <span>كلمات الهادي آدم (السودان)</span>
                                 </div>
                             </label>
                         </div>
@@ -96,6 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية البحر بيضحك</b>
                                     <span>غناء والحان الشيخ امام (مصر)</span>
+                                    <span>كلمات نجيب سرور</span>
                                 </div>
                             </label>
                         </div>
@@ -107,8 +109,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية في يوم وليلة (١٩٧٨)</b>
-                                    <span>المطربة وردة الجزائرية</span>
+                                    <span>وردة الجزائرية</span>
                                     <span>الحان محمد عبد الوهاب (مصر)</span>
+                                    <span>كلمات حسين السيد (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -120,7 +123,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية طالعة من بيت ابوها</b>
-                                    <span>ناظم الغزالي (عراق)</span>
+                                    <span>ناظم الغزالي (العراق)</span>
                                     <span>(من التراث الشعبي العراقي)</span>
                                 </div>
                             </label>

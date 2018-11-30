@@ -86,7 +86,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشّح طف يا دُرّي</b>
                                     <span>اوريانتاليا</span>
-                                    <span>الحان الشيخ سيّد درويش وعمر البطش</span>
+                                    <span>الحان الشيخ سيّد درويش (مصر) وعمر البطش (سوريا)</span>
                                 </div>
                             </label>
                         </div>

@@ -129,7 +129,7 @@ include($ROOT . 'inc/head.php');
                                     <b>موشّح انشدي يا صَبا</b>
                                     <span>الفرقة الوطنية للموسيقى العربية</span>
                                     <span>بقيادة رمزي أبو رضوان (فلسطين)</span>
-                                    <span>الحان يحيى السعودي</span>
+                                    <span>الحان يحيى السعودي (فلسطين)</span>
                                 </div>
                             </label>
                         </div>
@@ -142,7 +142,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشّح اقبل الصبح يغنّي</b>
                                     <span>فرقة اورنينا (سوريا)</span>
-                                    <span>Director د. محمد قدري دلال  (حلب)</span>
+                                    <span>بقيادة د. محمد قدري دلال (حلب)</span>
                                     <span>الحان بكري الكردي (سوريا)</span>
                                 </div>
                             </label>
@@ -155,7 +155,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>موشّح نزهة الأرواح بدري</b>
-                                    <span>(المغنّي مجهول)</span>
+                                    <span>فرقة المالوف والموشحات والألحان العربية (ليبيا)</span>
+                                    <span>بقيادة حسن عريبي (ليبيا)</span>
                                 </div>
                             </label>
                         </div>

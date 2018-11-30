@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
 			ويليه <a href="../jins/hijazkar.php">جنس الحجاز كار</a> على الجواب (الدرجة الثامنة).
 		</h5>
 		<h5>
-			عند تصوير هذا المقام  من علامة الدو الى علامات اخرى، يتغير اسمه لاسباب تاريخية (وفي القديم كان سير هذه المقامات قد يختلف ايضاً):
+			عند تصوير هذا المقام  من علامة الدو الى علامات اخرى، يتغير اسمه لاسباب تاريخية (وربما كان سير هذه المقامات مختلفاً فيما مضى):
 		</h5>
 		<h5>
 		<li><strong>مقام شَدّ عَرَبان</strong> (قراره على درجة الصول)</li>
@@ -156,7 +156,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Maria</b>
+                                    <b>اغنية يا ماريا</b>
                                     <span>المطرب صباح فخري (حلب)</span>
                                     <span>الحان الشيخ سيّد درويش (مصر)</span>
                                 </div>
@@ -169,9 +169,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Qanun in مقام حجاز</b>
-                                    <span>Sabri al-Mudallal Ensemble</span>
-                                    <span><img src="/img/cd.png"> Songs from Aleppo</span>
+                                    <b>تقسيم قانون من مقام حجاز</b>
+                                    <span>فرقة صبري المدلل (سوريا)</span>
+                                    <span><img src="/img/cd.png"> اسطوانة اغاني من حلب</span>
                                 </div>
                             </label>
                         </div>
@@ -182,9 +182,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dulab Hijazkar</b>
-                                    <span>Sabah Fakhri Ensemble</span>
-                                    <span>Nagham Al-Ams Vol. 04 Hijazkar</span>
+                                    <b>دولاب حجازكار</b>
+                                    <span>فرقة صباح فخري (حلب)</span>
+                                    <span>سلسلة نغم الامس - الجزء الرابع (مقام حجاز كار)</span>
                                 </div>
                             </label>
                         </div>
@@ -195,10 +195,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Laha Badru-t-Timm</b>
+                                    <b>موشح لاح بدرُ التِمّ</b>
                                     <span>(مقام سوزدِل)</span>
-                                    <span>Firqat al-Musiqa al-Arabiyya</span>
-                                    <span>Music by Mahmud Subh</span>
+                                    <span>فرقة الموسيقى العربية (مصر)</span>
+                                    <span>الحان الشيخ محمود صُبح (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -209,10 +209,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ba‘attilak Ya Habib el-Rouh</b>
+                                    <b>اغنية بعتّلك يا حبيب الروح</b>
                                     <span>(مقام شَدّ عَرَبان)</span>
                                     <span>غناء فيروز (لبنان)</span>
-                                    <span>Music by Ziad Rahbani</span>
+                                    <span>الحان زياد الرحباني (لبنان)</span>
                                 </div>
                             </label>
                         </div>
@@ -223,9 +223,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Shadd ‘Araban</b>
-                                    <span>‘Umar Sarmini Ensemble</span>
-                                    <span>Music by Tanburi Cemil Bey</span>
+                                    <b>سماعي شَدّ عَرَبان</b>
+                                    <span>فرقة عمر سرميني (حلب)</span>
+                                    <span>الحان طنبورى جميل بك (الدولة العثمانية)</span>
                                 </div>
                             </label>
                         </div>

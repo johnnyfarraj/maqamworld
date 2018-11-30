@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="rtl maqams-page">
 
     <?php
-      $page = "ar/maqam/nahawand_murass.php";
+      $page = "ar/maqam/nahawand_murassaa.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -127,7 +127,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>دولاب نهاوند</b>
-                                    <span>عائشة رضوان (الجزائر)</span>
+                                    <span>عائشة رضوان (المغرب - فرنسا)</span>
                                     <span><img src="/img/cd.png"> اسطوانة مصر</span>
                                 </div>
                             </label>

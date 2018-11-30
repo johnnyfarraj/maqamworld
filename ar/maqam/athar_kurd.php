@@ -108,9 +108,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>اغنية يا فجر نورك طلّ وبان</b>
+                                    <b>اغنية يا فجر نورك هلّ وبان</b>
                                     <span>غناء بليغ حمدي (مصر)</span>
-                                    <span>الحان يوسف شوقي</span>
+                                    <span>الحان يوسف شوقي (مصر)</span>
                                 </div>
                             </label>
                         </div>

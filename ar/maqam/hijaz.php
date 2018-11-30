@@ -84,8 +84,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>موشح ما احتيالي</b>
-                                    <span>فرقة التراث بقيادة محمد حمادية</span>
-                                    <span><img src="/img/cd.png"> موسيقى الاندلس الاسباني - مقام حجاز</span>
+                                    <span>فرقة التراث بقيادة محمد حمادية (سوريا)</span>
+                                    <span><img src="/img/cd.png">موسيقى الاندلس الاسباني - <a href"hijaz.php">مقام حجاز</a></span>
                                 </div>
                             </label>
                         </div>
@@ -109,7 +109,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية مضناكَ جفاه مرقده (١٩٣٨)</b>
-                                    <span>غناء والحان محمد عبد الوهاب</span>
+                                    <span>غناء والحان محمد عبد الوهاب (مصر)</span>
+                                    <span>كلمات: احمد شوقي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -120,8 +121,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>اغنية حبّينا (١٩٧٥)</b>
-                                    <span>غناء والحان فريد الأطرش</span>
+                                    <b>اغنية حِبّينا (١٩٧٥)</b>
+                                    <span>غناء والحان فريد الأطرش (سوريا-مصر)</span>
+                                    <span>كلمات : توفيق بركات (لبنان)</span>
                                 </div>
                             </label>
                         </div>
@@ -133,7 +135,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية فوق النخل</b>
-                                    <span>عزف منير وعمر بشير (عراق)</span>
+                                    <span>عزف منير وعمر بشير (العراق)</span>
                                     <span>(من التراث الشعبي العراقي)</span>
                                 </div>
                             </label>
@@ -146,8 +148,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>قصيدة مولاي اجفاني جفاهنّ الكرى</b>
+                                    <span>من فاصل اسقِ العطاش</span>
                                     <span>المطرب صباح فخري (حلب)</span>
-                                    <span>فاصل اسقِ العطاش</span>
                                 </div>
                             </label>
                         </div>
@@ -160,7 +162,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية قدّك الميّاس</b>
                                     <span>المطرب صباح فخري (حلب)</span>
-                                    <span>نغم الامس - الجزء الرابع عشر (مقام حجاز)</span>
+                                    <span>سلسلة نغم الامس - الجزء الرابع عشر (<a href"hijaz.php">مقام حجاز</a>)</span>
                                 </div>
                             </label>
                         </div>
@@ -174,7 +176,7 @@ include($ROOT . 'inc/head.php');
                                     <b>سماعي حجاز</b>
                                     <span>الحان محمد عبده (مصر)</span>
                                     <span>فرقة التراث بقيادة محمد حمادية</span>
-                                    <span><img src="/img/cd.png"> موسيقى الاندلس الاسباني - مقام حجاز</span>
+                                    <span><img src="/img/cd.png"> موسيقى الاندلس الاسباني - <a href"hijaz.php">مقام حجاز</a></span>
                                 </div>
                             </label>
                         </div>
@@ -187,7 +189,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>دولاب حجاز وتقسم ناي</b>
                                     <span>المطرب صباح فخري (حلب)</span>
-                                    <span>نغم الامس - الجزء الرابع عشر (مقام حجاز)</span>
+                                    <span>سلسلة نغم الامس - الجزء الرابع عشر (<a href"hijaz.php">مقام حجاز</a>)</span>
                                 </div>
                             </label>
                         </div>

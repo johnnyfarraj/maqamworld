@@ -97,6 +97,7 @@ include($ROOT . 'inc/head.php');
                                     <b>اغنية الاطلال (١٩٦٦)</b>
                                     <span>امّ كلثوم</span>
                                     <span>الحان رياض السنباطي (مصر)</span>
+                                    <span>كلمات ابراهيم ناجى (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -107,9 +108,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>اغنية هو صحيح الهوى غلّاب (١٩٦٠(</b>
+                                    <b>اغنية هو صحيح الهوى غلّاب (١٩٦٠)</b>
                                     <span>امّ كلثوم</span>
-                                    <span>الحان زكريا احمد</span>
+                                    <span>الحان زكريا احمد (مصر)</span>
+                                    <span>كلمات محمود بيرم التونسي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -160,6 +162,7 @@ include($ROOT . 'inc/head.php');
                                     <b>اغنية تشوف اموري (١٩٣٠)</b>
                                     <span>امّ كلثوم</span>
                                     <span>الحان محمد القصبجي (مصر)</span>
+                                    <span>كلمات احمد رامي (مصر)</span>
                                 </div>
                             </label>
                         </div>

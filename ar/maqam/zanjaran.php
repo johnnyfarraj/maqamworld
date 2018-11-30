@@ -57,8 +57,8 @@ include($ROOT . 'inc/head.php');
 		</map>
 		<br>
 
-                    <h5>مقام زَنجَران هو فرع من <a href="f_hijaz.php">عائلة مقام الحجاز</a>
-		 يبدأ <a href="../jins/hijaz.php">بجنس الحجاز</a> على الدرجة الاولي 
+                    <h5>مقام زَنجَران هو فرع من <a href="hijaz.php">مقام الحجاز</a>
+		 حيث يبدأ <a href="../jins/hijaz.php">بجنس الحجاز</a> على الدرجة الاولى 
 		ثم <a href="../jins/ajam.php">جنس العجم</a> على الغماز (الدرجة الرابعة).
 		</h5>
 		<br>
@@ -102,8 +102,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>موّال امانة يا ليل (١٩٣٩)</b>
-                                    <span>غناء والحان محمد عبد الوهاب</span>
+                                    <b>موّال امانة يا ليل (١٩٣١)</b>
+                                    <span>غناء والحان محمد عبد الوهاب (مصر)</span>
+                                    <span>كلمات سعيد عبده (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -115,9 +116,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>ليالي مقام زنجران</b>
-                                    <span>احمد خبّاري</span>
-                                    <span>فرقة التراث بقيادة محمد حمادية</span>
-                                    <span><img src="/img/cd.png"> موسيقى الاندلس الاسباني - مقام حجاز</span>
+                                    <span>احمد خبّاري (سوريا)</span>
+                                    <span>فرقة التراث بقيادة محمد حمادية (سوريا)</span>
+                                    <span><img src="/img/cd.png"> موسيقى الاندلس الاسباني - <a href="hijaz.php">مقام حجاز</a></span>
                                 </div>
                             </label>
                         </div>
@@ -143,7 +144,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>تقاسيم قانون زنجران</b>
                                     <span>ابراهام سلمان (العراق)</span>
-                                    <span><img src="/img/cd.png"> سلطنة</span>
+                                    <span><img src="/img/cd.png"> اسطوانة سلطنة</span>
                                 </div>
                             </label>
                         </div>

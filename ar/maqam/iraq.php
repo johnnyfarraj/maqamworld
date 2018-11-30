@@ -58,7 +58,7 @@ include($ROOT . 'inc/head.php');
 	</map>
 	<br>
 
-                    <h5>مقام عراق هو فرع نادر من <a href="f_sikah.php">عائلة مقام السيكاه</a>،
+                    <h5>مقام عراق هو مقام فرعي نادر من <a href="f_sikah.php">عائلة مقام السيكاه</a>،
 		 غالباً ما يحصل نتيجة لانتقال نغمي خلال سير <a href="huzam.php">مقام الهُزام</a>.  
                     </h5>
                     <h5>
@@ -93,7 +93,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>موشح جلَّ من انشا جمالك</b>
+                                    <b>موشح جلَّ من انشأ جمالك</b>
                                     <span>فرقة اورنينا (سوريا)</span>
                                     <span>بقيادة د. محمد قدري دلال (حلب)</span>
                                 </div>
@@ -114,7 +114,7 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/maqam/iraq/el_hali_tbani.mp3">
+                    <div class="track" data-song="/audio/maqam/iraq/el_hali_taabani.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">

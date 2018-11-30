@@ -97,6 +97,7 @@ include($ROOT . 'inc/head.php');
                                     <b>اغنية الف ليلة وليلة (١٩٦٩)</b>
                                     <span>امّ كلثوم</span>
                                     <span>الحان بليغ حمدي (مصر)</span>
+                                    <span>كلمات مرسى جميل عزيز (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -121,7 +122,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشح هاتِ اسقنيها</b>
                                     <span>المنشد الحلبي حسن الحفّار</span>
-                                    <span>Music by Yehya al-Sa‘udi</span>
+                                    <span>الحان يحيى السعودي (فلسطين)</span>
                                     <span><img src="/img/cd.png"> أسطوانة وصلات حلب</span>
                                 </div>
                             </label>
@@ -161,7 +162,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>سماعي نهاوند</b>
                                     <span>فرقة الموسيقى العربية (مصر)</span>
-                                    <span>بقيادة عبد الحليم نويرة</span>
+                                    <span>بقيادة عبد الحليم نويرة (مصر)</span>
                                     <span>الحان صَفَر علي (مصر)</span>
                                 </div>
                             </label>
@@ -201,8 +202,8 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>لونجا نهاوند</b>
                                     <span>فرقة الموسيقى العربية (مصر)</span>
-                                    <span>بقيادة عبد الحليم نويرة</span>
-                                    <span>الحان يورغو باغانوس</span>
+                                    <span>بقيادة عبد الحليم نويرة (مصر)</span>
+                                    <span>الحان يورغو باغانوس (اليونان - تركيا) </span>
                                 </div>
                             </label>
                         </div>

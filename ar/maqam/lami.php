@@ -78,6 +78,7 @@ include($ROOT . 'inc/head.php');
                                     <b>اغنية البرتقال (١٩٣٨)</b>
                                     <span>غناء رئيسة عفيفي ومحمد عبد الوهاب</span>
                                     <span>الحان محمد عبد الوهاب (مصر)</span>
+                                    <span>كلمات بيرم التونسى (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -102,7 +103,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية قلبي بيقول لي كلام (حوالي ١٩٥٤)</b>
-                                    <span>غناء والحان محمد عبد الوهاب</span>
+                                    <span>غناء والحان محمد عبد الوهاب (مصر)</span>
+                                    <span>كلمات حسين السيد (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -128,7 +130,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية النجمات صاروا يسألوا (١٩٦٤)</b>
                                     <span>غناء وديع الصافي (لبنان)</span>
-                                    <span>الحان محمد محسن</span>
+                                    <span>الحان محمد محسن (سوريا)</span>
                                 </div>
                             </label>
                         </div>

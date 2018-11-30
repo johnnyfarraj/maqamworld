@@ -89,7 +89,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشّح بالذي اسكر</b>
                                     <span>المطرب صباح فخري (حلب)</span>
-                                    <span>نغم الامس - الجزء الثاني عشر (مقام بياتي)</span>
+                                    <span>سلسلة نغم الامس - الجزء الثاني عشر (<a href="bayati.php">مقام بياتي</a>)</span>
                                 </div>
                             </label>
                         </div>
@@ -126,8 +126,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية نورا نورا (١٩٥٣)</b>
-                                    <span>غناء والحان فريد الأطرش</span>
-                                </div>
+                                    <span>غناء والحان فريد الأطرش (سوريا-مصر)</span>
+                                    <span>كلمات محمود فهمى ابراهيم</span>
                             </label>
                         </div>
                     </div>
@@ -137,8 +137,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>سماعي بياتي إبراهيم العريان (خانة ٢)</b>
+                                    <b>سماعي بياتي (خانة ٢)</b>
                                     <span>فرقة صلاح عرّام (مصر)</span>
+                                    <span>الحان إبراهيم العريان (مصر)</span>
                                 </div>
                             </label>
                         </div>

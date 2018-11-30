@@ -78,7 +78,8 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية يا مسهّرني (١٩٧٢)</b>
                                     <span>ام كلثوم</span>
-                                    <span>الحان سيّد مكّاوي</span>
+                                    <span>الحان سيّد مكّاوي (مصر)</span>
+                                    <span>كلمات احمد رامى (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -92,6 +93,7 @@ include($ROOT . 'inc/head.php');
                                     <b>اغنية بعيد عنّك (١٩٦٥)</b>
                                     <span>ام كلثوم</span>
                                     <span>الحان بليغ حمدي (مصر)</span>
+                                    <span>كلمات مأمون الشناوي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -104,6 +106,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>دور القلب ياما انتظر (١٩٣١)</b>
                                     <span>غناء والحان محمد عبد الوهاب</span>
+                                    <span>كلمات احمد عبد المجيد (مصر)</span>
                                 </div>
                             </label>
                         </div>

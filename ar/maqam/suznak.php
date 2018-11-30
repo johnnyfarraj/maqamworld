@@ -103,6 +103,7 @@ include($ROOT . 'inc/head.php');
                                     <b>غنيلي شوية شوية (١٩٤٥)</b>
                                     <span>امّ كلثوم</span>
                                     <span>الحان زكريا احمد (مصر)</span>
+		<span>كلمات محمود بيرم التونسي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -129,7 +130,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>تقسام قانون مقام سوزناك</b>
                                     <span>ابراهام سلمان (العراق)</span>
-                                    <span><img src="/img/cd.png"> سلطنة</span>
+                                    <span><img src="/img/cd.png"> اسطوانة سلطنة</span>
                                 </div>
                             </label>
                         </div>

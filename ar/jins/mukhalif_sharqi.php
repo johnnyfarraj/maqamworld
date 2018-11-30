@@ -125,7 +125,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>موشح ما احتيالي (خانة)</b>
-                                    <span>غناء عائشة رضوان (الجزائر)</span>
+                                    <span>غناء عائشة رضوان (المغرب)</span>
                                     <span><img src="/img/cd.png">Arabesques Vocales &copy; 2000</span>
                                 </div>
                             </label>
@@ -150,7 +150,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>تحميلة راست (سوزناك)</b>
-                                    <span>عائشة رضوان (الجزائر)</span>
+                                    <span>غناء عائشة رضوان (المغرب)</span>
                                     <span><img src="/img/cd.png"> Arabesques Vocales &copy; 2000</span>
                                 </div>
                             </label>

@@ -84,6 +84,7 @@ include($ROOT . 'inc/head.php');
                                     <b>اغنية سوّاح (١٩٦٦)</b>
                                     <span>عبد الحليم حافظ</span>
                                     <span>الحان بليغ حمدي (مصر)</span>
+                                    <span>كلمات محمد حمزة (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -97,6 +98,7 @@ include($ROOT . 'inc/head.php');
                                     <b>اغنية امل حياتي (١٩٦٥)</b>
                                     <span>امّ كلثوم</span>
                                     <span>الحان محمد عبد الوهاب (مصر)</span>
+                                    <span>كلمات احمد شفيق كامل (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -110,6 +112,7 @@ include($ROOT . 'inc/head.php');
                                     <b>اغنية على حسب وداد قلبي (١٩٦٣)</b>
                                     <span>عبد الحليم حافظ</span>
                                     <span>الحان بليغ حمدي (مصر)</span>
+                                    <span>كلمات صلاح أبو سالم (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -120,9 +123,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>اغنية يا بنت السلطان</b>
-                                    <span>غناء احمدى عدوية</span>
-                                    <span>الحان حسن ابو السعود</span>
+                                    <b> (١٩٦٩) اغنية يا بنت السلطان</b>
+                                    <span>غناء احمد عدوية (مصر)</span>
+                                    <span>الحان حسن ابو السعود (مصر)</span>
                                 </div>
                             </label>
                         </div>

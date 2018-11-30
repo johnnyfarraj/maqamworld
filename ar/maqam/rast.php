@@ -61,12 +61,12 @@ include($ROOT . 'inc/head.php');
 		</map>
 
                     <h5>مقام راست هو المقام الاساسي في <a href="f_rast.php">عائلة مقام الراست</a>.
-		يبدأ سلّم هذا المقام <a href="../jins/rast.php">بجنس الراست</a> (وهو جنس الجذر) على الدرجةا الاولى (القرار)،
+		يبدأ سلّم هذا المقام <a href="../jins/rast.php">بجنس الراست</a> (وهو جنس الجذر) على الدرجة الاولى (القرار)،
 		يليه اي من <a href="../jins/nahawand.php">جنس النهاوند</a> او <a href="../jins/upper_rast.php">جنس الراست الاعلى</a> على الغمّاز اي الدرجة الخامسة
 		(وقرار جنس الراست الاعلى يقع على درجته الاخيرة اي جواب السلّم)
                     </h5>
                     </h5>
-		<br>
+	<br>
                     <h5>انظر الى مقامات اخرى في <a href="f_rast.php">عائلة مقام الراست</a>.</h5>
 
                     <div class="player-area">
@@ -94,7 +94,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>موشّح ملا الكاسات وسقاني</b>
-                                    <span>فرقة الكندي</span>
+                                    <span>فرقة الكندي (سوريا-فرنسا)</span>
+		<span>بقيادة جوليان جلال الدين فايس (فرنسا)</span>
                                     <span>الحان محمد عثمان (مصر)</span>
                                 </div>
                             </label>
@@ -132,7 +133,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>قصيدة سلبَت سعادً</b>
+                                    <b>قصيدة سلبَت سعادٌ</b>
                                     <span>غناء المطرب محمد خيري (حلب)</span>
                                 </div>
                             </label>
@@ -158,7 +159,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية ليه تلوعيني (١٩٣٨)</b>
                                     <span>ام كلثوم</span>
-                                    <span>الحان محمد القصبجي</span>
+                                    <span>الحان محمد القصبجي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -183,7 +184,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>سماعي راست</b>
-                                    <span>فرقة الكندي</span>
+                                    <span>فرقة الكندي (سوريا-فرنسا)</span>
+		<span>بقيادة جوليان جلال الدين فايس (فرنسا)</span>
                                     <span>الحان جورج ميشيل (مصر)</span>
                                     <span><img src="/img/cd.png">حجرة الموسيقى الحلبية - الجزء الثاني (مقام راست)</span>
                                 </div>

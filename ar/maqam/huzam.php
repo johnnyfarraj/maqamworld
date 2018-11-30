@@ -68,7 +68,7 @@ include($ROOT . 'inc/head.php');
                         (وهي غمّاز ثانوي).
                         </h5>
                     <h5>
-                        امّا <strong>مقام راحة الارواح</strong> فهو الاسم المستعمل لمقام الهزام المصوّر على درجة السي<i class="icon-halfflat"></i>. وسير هذين المقامين نفسه.
+                        امّا <strong>مقام راحة الارواح</strong> فهو الاسم المستعمل لمقام الهزام المصوّر على درجة السي<i class="icon-halfflat"></i>. وسير هذين المقامين هو نفسه.
                         </h5>
 		 <br>
                     <h5>انظر الى مقامات اخرى في <a href="f_sikah.php">عائلة مقام السيكاه</a>.</h5>
@@ -87,7 +87,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشّح يا غصن نقا</b>
                                     <span>فرقة الموسيقى العربية (مصر)</span>
-                                    <span>بقيادة عبد الحليم نويرة</span>
+                                    <span>بقيادة عبد الحليم نويرة (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -101,7 +101,7 @@ include($ROOT . 'inc/head.php');
                                     <b>موشّح أيّها الساقي</b>
                                     <span>المطرب صباح فخري (حلب)</span>
                                     <span>الحان مجدي العقيلي (سوريا)</span>
-                                    <span>نغم الامس - الجزء الثالث عشر (مقام هزام)</span>
+                                    <span>سلسلة نغم الامس - الجزء الثالث عشر (مقام هزام)</span>
                                 </div>
                             </label>
                         </div>
@@ -115,6 +115,7 @@ include($ROOT . 'inc/head.php');
                                     <b>دور امتى الهوى (١٩٣٦)</b>
                                     <span>امّ كلثوم</span>
                                     <span>الحان الشيخ زكريا احمد (مصر)</span>
+                                    <span>كلمات يحيى محمد (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -147,6 +148,7 @@ include($ROOT . 'inc/head.php');
                                     <b>اغنية الورد جميل (١٩٤٧)</b>
                                     <span>امّ كلثوم</span>
                                     <span>الحان الشيخ زكريا احمد (مصر)</span>
+                                    <span>كلمات محمود بيرم التونسي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -172,7 +174,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>دور انت فاهم</b>
                                     <span>(مقام راحة الارواح)</span>
-                                    <span>غناء والحان الشيخ زكريا احمد</span>
+                                    <span>غناء والحان الشيخ زكريا احمد (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -184,7 +186,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>دولاب راحة الارواج</b>
-                                    <span>عائشة رضوان (الجزائر)</span>
+                                    <span>عائشة رضوان (المغرب)</span>
                                     <span><img src="/img/cd.png"> اسطوانة مصر</span>
                                 </div>
                             </label>

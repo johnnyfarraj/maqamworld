@@ -77,6 +77,7 @@ include($ROOT . 'inc/head.php');
                                     <b>اغنية عوّدت عيني (١٩٥٨)</b>
                                     <span>امّ كلثوم</span>
                                     <span>الحان رياض السنباطي (مصر)</span>
+                                    <span>كلمات احمد رامى (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -90,6 +91,7 @@ include($ROOT . 'inc/head.php');
                                     <b>اغنية يا ظالمني (١٩٥١)</b>
                                     <span>امّ كلثوم</span>
                                     <span>الحان رياض السنباطي (مصر)</span>
+                                    <span>كلمات احمد رامى (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -179,7 +181,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>سماعي كرد</b>
-                                    <span>ابراهام سلمان (عراق)</span>
+                                    <span>ابراهام سلمان (العراق)</span>
                                     <span><img src="/img/cd.png"> اسطوانة سلطنة</span>
                                 </div>
                             </label>
@@ -193,6 +195,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>دور عشقت روحك (١٩٣٠)</b>
                                     <span>غناء والحان محمد عبد الوهاب (مصر)</span>
+                                    <span>كلمات محمد متولّي (مصر)</span>
                                 </div>
                             </label>
                         </div>
