@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="337,141,454,174" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <h5>مقام نهاوند مرصّع هو فرع من <a href="nahawand.php">مقام نهاوند</a> تُخفّض درجته الخامسة.
+                    <h5>مقام نهاوند مرصّع هو مقام فرعي من <a href="nahawand.php">مقام نهاوند</a> تُخفّض درجته الخامسة.
                          يبدأ سلّم هذا المقام <a href="../jins/nahawand_murassaa.php">بجنس نهاوند مرصّع</a>
                         على القرار ويتداخل هذا الجنس مع <a href="../jins/hijaz.php">جنس الحجاز</a> الذي يبدأ على الدرجة الرابعة.
                     </h5>
@@ -66,11 +66,11 @@ include($ROOT . 'inc/head.php');
 
                     <div class="player-area">
                         <audio id="player" controls>
-                            <source src="/audio/maqam/nahawand_murass/ya_gari.mp3" type="audio/mp3">
+                            <source src="/audio/maqam/nahawand_murassaa/ya_gari.mp3" type="audio/mp3">
                         </audio>
                     </div>
 
-                    <div class="track " data-song="/audio/maqam/nahawand_murass/ya_gari.mp3">
+                    <div class="track " data-song="/audio/maqam/nahawand_murassaa/ya_gari.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1" >
@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/maqam/nahawand_murass/khusara.mp3">
+                    <div class="track" data-song="/audio/maqam/nahawand_murassaa/khusara.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
@@ -96,19 +96,19 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/maqam/nahawand_murass/taht_il_shibbak.mp3">
+                    <div class="track" data-song="/audio/maqam/nahawand_murassaa/taht_il_shibbak.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية تحت الشبّاك</b>
-                                    <span>غناء عزيز عثمان</span>
+                                    <span>غناء عزيز عثمان (مصر)</span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/maqam/nahawand_murass/samai_mesut_cemil.mp3">
+                    <div class="track" data-song="/audio/maqam/nahawand_murassaa/samai_mesut_cemil.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
@@ -121,7 +121,7 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/maqam/nahawand_murass/dulab_redouane.mp3">
+                    <div class="track" data-song="/audio/maqam/nahawand_murassaa/dulab_redouane.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
@@ -134,14 +134,14 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/maqam/nahawand_murass/dulab_nahawand_murassa3.mp3">
+                    <div class="track" data-song="/audio/maqam/nahawand_murassaa/dulab_nahawand_murassa3.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>دولاب نهاوند مرصّع</b>
                                     <span>فرقة ذكريات</span>
-                                    <span>ألحان سامي أبو شميس (فلسطين)</span>
+                                    <span>ألحان سامي أبو شميس (فلسطين - امريكا)</span>
                                 </div>
                             </label>
                         </div>

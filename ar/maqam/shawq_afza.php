@@ -120,9 +120,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>اغنية اسوارة العروس (١٩٨٩)</b>
+                                    <b>اغنية اسوارة العروس (١٩٨٩) - انتقال دلنشين</b>
                                     <span>فيروز</span>
                                     <span>الحان فيلمون وهبي (لبنان)</span>
+                                    <span>كلمات جوزيف حرب (لبنان)</span>
                                 </div>
                             </label>
                         </div>

@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
 		</map>
 
                     <h5>
-		مقام نَو أثَر هو فرع شائع من <a href="f_nikriz.php">عائلة مقام النِكريز</a>.
+		مقام نَو أثَر هو مقام فرعي شائع من <a href="f_nikriz.php">عائلة مقام النِكريز</a>.
 		يبدأ سلّم هذا المقام <a href="../jins/nikriz.php">بجنس النكريز</a> على القرار
 		يليه <a href="../jins/hijazkar.php">جنس الحجاز كار</a> متمركزاَ على الغمّاز (الدرجة الخامسة).
 		</h5>
@@ -77,9 +77,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>اغنية غًلًبت اصالح في روحي (١٩٤٨)</b>
+                                    <b>اغنية غُلُبت اصالح في روحي (١٩٤٨)</b>
                                     <span>ام كلثوم</span>
                                     <span>الحان رياض السنباطي (مصر)</span>
+                                    <span>كلمات احمد رامى (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -92,6 +93,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية جميل جمال (١٩٥٢)</b>
                                     <span>غناء والحان فريد الاطرش (سوريا)</span>
+                                    <span>كلمات مأمون الشناوي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -104,7 +106,8 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية فكّروني (١٩٦٦)</b>
                                     <span>ام كلثوم</span>
-                                    <span>الحان محمد عبد الوهاب</span>
+                                    <span>الحان محمد عبد الوهاب (مصر)</span>
+                                    <span>كلمات عبد الوهاب محمد (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -115,9 +118,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>موشّح اذكًر الحبَّ</b>
+                                    <b>موشّح اذكُر الحبَّ</b>
                                     <span>فرقة الموسيقى العربية (مصر)</span>
-                                    <span>بقيادة عبد الحليم نويرة</span>
+                                    <span>بقيادة عبد الحليم نويرة (مصر)</span>
                                     <span>الحان داوود حسني (مصر)</span>
                                 </div>
                             </label>
@@ -131,7 +134,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>سماعي نو اثر</b>
                                     <span>فرقة الموسيقى السورية من حمص</span>
-                                    <span>الحان جميل عويس</span>
+                                    <span>الحان جميل عويس (سوريا)</span>
                                 </div>
                             </label>
                         </div>

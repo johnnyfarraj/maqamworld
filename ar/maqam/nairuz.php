@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشّح يا هلالاً</b>
                                     <span>فرقة الموسيقى العربية (مصر)</span>
-                                    <span>بقيادة عبد الحليم نويرة</span>
+                                    <span>بقيادة عبد الحليم نويرة (مصر)</span>
                                 </div>
                             </label>
                         </div>

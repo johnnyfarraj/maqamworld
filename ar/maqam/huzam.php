@@ -173,7 +173,6 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>دور انت فاهم</b>
-                                    <span>(مقام راحة الارواح)</span>
                                     <span>غناء والحان الشيخ زكريا احمد (مصر)</span>
                                 </div>
                             </label>
@@ -185,7 +184,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>دولاب راحة الارواج</b>
+                                    <b>دولاب راحة الارواح</b>
                                     <span>عائشة رضوان (المغرب)</span>
                                     <span><img src="/img/cd.png"> اسطوانة مصر</span>
                                 </div>
@@ -198,7 +197,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>دولاب راحة الارواج</b>
+                                    <b>دولاب راحة الارواح</b>
                                     <span>المطرب صباح فخري (حلب)</span>
                                     <span><img src="/img/cd.png"> من حفلة في قصر بيت الدين</span>
                                 </div>
