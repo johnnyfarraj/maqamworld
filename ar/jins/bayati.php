@@ -151,6 +151,7 @@ include($ROOT . 'inc/head.php');
                                     <b>اغنية لمّا عالباب</b>
                                     <span>فيروز  (لبنان)</span>
                                     <span>تلحين فيلمون وهبي (لبنان)</span>
+                                    <span>كلمات جوزيف حرب (لبنان)</span>
                                 </div>
                             </label>
                         </div>

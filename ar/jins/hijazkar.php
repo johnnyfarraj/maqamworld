@@ -114,7 +114,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشح رماني بسهم هواه</b>
                                     <span>صباح فخري</span>
-                                    <span>تلحين داوود حسني (مصر)/span>
+                                    <span>تلحين داوود حسني (مصر)</span>
                                 </div>
                             </label>
                         </div>

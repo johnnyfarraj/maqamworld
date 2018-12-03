@@ -78,8 +78,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>اغنية انا في انتظارك (١٩٤٣)</b>
-                                    <span>ام كلثوم (مصر)</span>
-                                    <span>كلمات محمود بيرم التونسي</span>
+                                    <span>ام كلثوم</span>
+                                    <span>كلمات بيرم التونسي (مصر)</span>
                                     <span>تلحين زكريّا احمد (مصر)</span>
                                 </div>
                             </label>
@@ -118,7 +118,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>موشح لاح بدرُ التِمّ</b>
-                                    <span>تلحين وغناء الشيخ محمود صُبح</span>
+                                    <span>تلحين وغناء الشيخ محمود صُبح (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -130,7 +130,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>موشح ملا الكاسات (خانة)</b>
-                                    <span>صباح فخري</span>
+                                    <span>صباح فخري (سوريا)</span>
                                     <span>تلحين محمد عثمان (مصر)</span>
                                 </div>
                             </label>

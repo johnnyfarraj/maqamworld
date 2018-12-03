@@ -74,7 +74,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>موشح انت سلطان الملاح</b>
-                                    <span>صباح فخري</span>
+                                    <span>صباح فخري (سوريا)</span>
                                     <span>(الشعر واللحن قديم)</span>
                                 </div>
                             </label>
@@ -87,7 +87,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية عوّدت عيني (١٩٥٧)</b>
-                                    <span>ام كلثوم (مصر)</span>
+                                    <span>ام كلثوم</span>
                                     <span>كلمات أحمد رامي (مصر)</span>
                                     <span>تلحين رياض السنباطي (مصر)</span>
                                 </div>
@@ -101,8 +101,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية شمس الاصيل (١٩٥٨)</b>
-                                    <span>ام كلثوم (مصر)</span>
-                                    <span>كلمات محمود بيرم التونسي</span>
+                                    <span>ام كلثوم</span>
+                                    <span>كلمات بيرم التونسي (مصر)</span>
                                     <span>تلحين رياض السنباطي (مصر)</span>
                                 </div>
                             </label>
@@ -115,7 +115,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>تقسيم على العود من مقام الراست</b>
-                                    <span>(من وصلة في مقام الراست)</span>
+                                    <span>(من وصلة على مقام الراست)</span>
                                     <span>إبراهيم الحجّار (مصر)</span>
                                 </div>
                             </label>
@@ -128,7 +128,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية يا مال الشام</b>
-                                    <span>صباح فخري</span>
+                                    <span>صباح فخري (سوريا)</span>
                                     <span>تلحين احمد أبو خليل القبّاني (سوريا)</span>
                                 </div>
                             </label>

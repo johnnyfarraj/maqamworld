@@ -44,24 +44,24 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="95,104,12" href="#" alt="سي<i class='icon-halfflat'></i>" class="playNote" data-frequency="243" data-parent="#notation1"><!- variable ->
-					  <area shape="circle" coords="173,96,12" href="#" alt="دو" class="playNote" data-frequency="260.74" data-parent="#notation1">
-					  <area shape="circle" coords="255,89,14" href="#" alt="ري" class="playNote" data-frequency="293.33" data-parent="#notation1">
-					  <area shape="circle" coords="330,80,13" href="#" alt="مي♭" class="playNote" data-frequency="315" data-parent="#notation1"><!- variable Hijaz 2nd x1.0738->
-					  <area shape="circle" coords="408,71,13" href="#" alt="فا♯" class="playNote" data-frequency="375" data-parent="#notation1">
-					  <area shape="circle" coords="486,64,14" href="#" alt="صول" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="559,55,12" href="#" alt="لا" class="playNote" data-frequency="440" data-parent="#notation1">
-					  <area shape="circle" coords="636,46,12" href="#" alt="سي♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
-					</map>
+	  <area shape="circle" coords="95,104,12" href="#" alt="سي<i class='icon-halfflat'></i>" class="playNote" data-frequency="243" data-parent="#notation1"><!- variable ->
+	  <area shape="circle" coords="173,96,12" href="#" alt="دو" class="playNote" data-frequency="260.74" data-parent="#notation1">
+	  <area shape="circle" coords="255,89,14" href="#" alt="ري" class="playNote" data-frequency="293.33" data-parent="#notation1">
+	  <area shape="circle" coords="330,80,13" href="#" alt="مي♭" class="playNote" data-frequency="315" data-parent="#notation1"><!- variable Hijaz 2nd x1.0738->
+	  <area shape="circle" coords="408,71,13" href="#" alt="فا♯" class="playNote" data-frequency="375" data-parent="#notation1">
+	  <area shape="circle" coords="486,64,14" href="#" alt="صول" class="playNote" data-frequency="391.11" data-parent="#notation1">
+	  <area shape="circle" coords="559,55,12" href="#" alt="لا" class="playNote" data-frequency="440" data-parent="#notation1">
+	  <area shape="circle" coords="636,46,12" href="#" alt="سي♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
+	</map>
 
                     <h5>جنس الحجاز هو جنس الجذر في
-					<a href="../maqam/f_hijaz.php">عائلة مقام الحجاز</a>،
+	<a href="../maqam/f_hijaz.php">عائلة مقام الحجاز</a>،
                     حجمه ٤ درجات. يقع قراره في هذا السلّم النموذجي على علامة الري وغمّازه على علامة الصول.
-					</h5><h5>
-					وعادةً ما تُرفع الدرجة الثالثة وتُخفّض الدرجة الثالثة قليلاً بالنسبة لما هو مدوّن بحيث يصبح البعد بين تلك الدرجتين اقلّ من الصوت ونصف الصوت (في السّلم المعدّل).
- 					وجنس الحجاز هو الجنس الاول في مقامات
-					<a href="../maqam/hijaz.php">حجاز</a>،
-					<a href="../maqam/hijazkar.php">حجاز كار</a> 
+	</h5><h5>
+	وعادةً ما تُرفع الدرجة الثانية وتُخفّض الدرجة الثالثة قليلاً بالنسبة لما هو مدوّن بحيث يصبح البعد بين تلك الدرجتين اقلّ من الصوت ونصف الصوت (في السّلم المعدّل).
+	وجنس الحجاز هو الجنس الاول في مقامات
+	<a href="../maqam/hijaz.php">حجاز</a>،
+	<a href="../maqam/hijazkar.php">حجاز كار</a>
                     و<a href="../maqam/zanjaran.php">زنجران</a>.
                     </h5>
                     <br>
@@ -78,8 +78,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>اغنية انا في انتظارك (١٩٤٣)</b>
-                                    <span>ام كلثوم (مصر)</span>
-                                    <span>كلمات محمود بيرم التونسي</span>
+                                    <span>ام كلثوم</span>
+                                    <span>كلمات بيرم التونسي (مصر)</span>
                                     <span>تلحين زكريّا احمد (مصر)</span>
                                 </div>
                             </label>
@@ -92,9 +92,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية اغداً القاك (١٩٧١)</b>
-                                    <span>ام كلثوم (مصر)</span>
-                                    <span>كلمات الهادي آدم</span>
-                                    <span>تلحين محمد عبد الوهاب</span>
+                                    <span>ام كلثوم</span>
+                                    <span>كلمات الهادي آدم (السودان)</span>
+                                    <span>تلحين محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -106,8 +106,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية بكرم اللولو</b>
-                                    <span>فيروز  (لبنان)</span>
-                                    <span>كلمات الأخوين رحباني</span>
+                                    <span>فيروز (لبنان)</span>
+                                    <span>كلمات الأخوين رحباني (لبنان)</span>
                                     <span>تلحين فيلمون وهبي (لبنان)</span>
                                 </div>
                             </label>
@@ -120,8 +120,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية الاولة في الغرام (١٩٤٤)</b>
-                                    <span>ام كلثوم (مصر)</span>
-                                    <span>كلمات بيرم التونسي </span>
+                                    <span>ام كلثوم</span>
+                                    <span>كلمات بيرم التونسي (مصر) </span>
                                     <span>تلحين زكريّا احمد (مصر)</span>
                                 </div>
                             </label>
@@ -134,7 +134,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية الورد جميل (١٩٤٦)</b>
-                                    <span>ام كلثوم (مصر)</span>
+                                    <span>ام كلثوم</span>
                                     <span>كلمات بيرم التونسي (مصر)</span>
                                     <span>تلحين زكريّا احمد (مصر)</span>
                                 </div>

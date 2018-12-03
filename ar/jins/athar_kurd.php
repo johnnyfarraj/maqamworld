@@ -73,9 +73,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Habibaha (1965)</b>
+                                    <b>حبيبها (١٩٦٥)</b>
                                     <span>عبد الحليم حافظ</span>
                                     <span>تلحين محمد الموجي (مصر)</span>
+                                    <span>كلمات كامل الشناوى (مصر)</span>
                                 </div>
                             </label>
                         </div>
