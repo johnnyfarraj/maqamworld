@@ -75,7 +75,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>حبيبها (١٩٦٥)</b>
                                     <span>عبد الحليم حافظ</span>
-                                    <span>تلحين محمد الموجي (مصر)</span>
+                                    <span>الحان محمد الموجي (مصر)</span>
                                     <span>كلمات كامل الشناوى (مصر)</span>
                                 </div>
                             </label>
@@ -89,7 +89,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية رايداك (١٩٥٠)</b>
                                     <span>غناء ليلى مُراد (مصر)</span>
-                                    <span>تلحين احمد صدقي (مصر)</span>
+                                    <span>الحان احمد صدقي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -102,7 +102,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية يا فجر نورك هلّ وبان (١٩٥٢)</b>
                                     <span>غناء بليغ حمدي (مصر)</span>
-                                    <span>تلحين يوسف شوقي</span>
+                                    <span>الحان يوسف شوقي</span>
                                 </div>
                             </label>
                         </div>

@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                     <b>اغنية على الله تعود (١٩٧٠)</b>
                                     <span>غناء وديع الصافي (لبنان)</span>
                                     <span>كلمات ميشال طعمة (لبنان)</span>
-                                    <span>تلحين فريد الاطرش (سوريا / مصر)</span>
+                                    <span>الحان فريد الاطرش (سوريا / مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -95,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>عتابا سبع ملفات (١٩٩٥)</b>
                                     <span>غناء جوزيف صقر (لبنان)</span>
-                                    <span>تلحين وتوزيع زياد الرحباني</span>
+                                    <span>الحان وتوزيع زياد الرحباني</span>
                                     <span><img src="/img/cd.png">أسطوانة بما انّو</span>
                                 </div>
                             </label>
@@ -108,9 +108,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية عوّدت عيني (١٩٥٧)</b>
-                                    <span>ام كلثوم (مصر)</span>
+                                    <span>ام كلثوم</span>
                                     <span>كلمات أحمد رامي (مصر)</span>
-                                    <span>تلحين رياض السنباطي (مصر)</span>
+                                    <span>الحان رياض السنباطي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -122,9 +122,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية الورد جميل (١٩٤٦)</b>
-                                    <span>ام كلثوم (مصر)</span>
+                                    <span>ام كلثوم</span>
                                     <span>كلمات بيرم التونسي (مصر)</span>
-                                    <span>تلحين زكريّا احمد (مصر)</span>
+                                    <span>الحان زكريّا احمد (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -135,9 +135,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية بعيد عنّك (١٩٦٥)</b>
-                                    <span>ام كلثوم (مصر)</span>
+                                    <span>ام كلثوم</span>
                                     <span>كلمات مأمون الشناوي</span>
-                                    <span>تلحين بليغ حمدي (مصر)</span>
+                                    <span>الحان بليغ حمدي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -149,8 +149,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية لمّا عالباب</b>
-                                    <span>فيروز  (لبنان)</span>
-                                    <span>تلحين فيلمون وهبي (لبنان)</span>
+                                    <span>فيروز (لبنان)</span>
+                                    <span>الحان فيلمون وهبي (لبنان)</span>
                                     <span>كلمات جوزيف حرب (لبنان)</span>
                                 </div>
                             </label>

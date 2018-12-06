@@ -74,7 +74,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية يا حلاوة الدنيا</b>
                                     <span>غناء سيّد مكاوي (مصر)</span>
-                                    <span>تلحين زكريّا احمد (مصر)</span>
+                                    <span>الحان زكريّا احمد (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -87,7 +87,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشح بدر تِمّ حاز حسناً</b>
                                     <span>غناء غادة شبير (لبنان)</span>
-                                    <span>تلحين مرسي الحريري</span>
+                                    <span>الحان مرسي الحريري</span>
                                     <span><img src="/img/cd.png">أسطوانة الموشحات</span>
                                 </div>
                             </label>
@@ -101,7 +101,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشح حبّي زرني ما تيسّر</b>
                                     <span>غناء كارم محمود (مصر)</span>
-                                    <span>تلحين درويش الحريري</span>
+                                    <span>الحان درويش الحريري</span>
                                 </div>
                             </label>
                         </div>
@@ -114,7 +114,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشح رماني بسهم هواه</b>
                                     <span>صباح فخري</span>
-                                    <span>تلحين داوود حسني (مصر)</span>
+                                    <span>الحان داوود حسني (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -127,7 +127,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>دور ياما انت واحشني</b>
                                     <span>صباح فخري</span>
-                                    <span>تلحين محمد عثمان (مصر)</span>
+                                    <span>الحان محمد عثمان (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -140,7 +140,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>دور يا ناس انا متّ في حبّي</b>
                                     <span>غناء غادة شبير (لبنان)</span>
-                                    <span>تلحين سيّد درويش (مصر)</span>
+                                    <span>الحان سيّد درويش (مصر)</span>
                                 </div>
                             </label>
                         </div>

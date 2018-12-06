@@ -80,7 +80,7 @@ include($ROOT . 'inc/head.php');
                                     <b>اغنية انا في انتظارك (١٩٤٣)</b>
                                     <span>ام كلثوم</span>
                                     <span>كلمات بيرم التونسي (مصر)</span>
-                                    <span>تلحين زكريّا احمد (مصر)</span>
+                                    <span>الحان زكريّا احمد (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -106,7 +106,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>موشح بدر تِمّ حاز حسناً</b>
-                                    <span>تلحين وغناء الشيخ  مرسي الحريري</span>
+                                    <span>الحان وغناء الشيخ  مرسي الحريري</span>
                                 </div>
                             </label>
                         </div>
@@ -118,7 +118,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>موشح لاح بدرُ التِمّ</b>
-                                    <span>تلحين وغناء الشيخ محمود صُبح (مصر)</span>
+                                    <span>الحان وغناء الشيخ محمود صُبح (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -131,7 +131,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشح ملا الكاسات (خانة)</b>
                                     <span>صباح فخري (سوريا)</span>
-                                    <span>تلحين محمد عثمان (مصر)</span>
+                                    <span>الحان محمد عثمان (مصر)</span>
                                 </div>
                             </label>
                         </div>

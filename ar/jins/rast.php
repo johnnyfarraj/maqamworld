@@ -60,7 +60,7 @@ include($ROOT . 'inc/head.php');
                         حجمه ٥ درجات.
 					 يقع قراره في هذا السلّم النموذجي على علامة الدو وغمّازه على علامة الصول.
 					</h5><h5>
-					جنس الراست من اهمّ الاجناس في الموسقى العربية، وهو الجنس الاول في مقامات
+					جنس الراست من اهمّ الاجناس في الموسيقى العربية، وهو الجنس الاول في مقامات
 					<a href="../maqam/sikah.php">راست</a>،
 					<a href="../maqam/huzam.php">سوزناك</a>
 					ومقامات اخرى في
@@ -80,9 +80,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>اغنية غنّيلي شوي شوي (١٩٤٥)</b>
-                                    <span>ام كلثوم (مصر)</span>
+                                    <span>ام كلثوم</span>
                                     <span>كلمات بيرم التونسي (مصر)</span>
-                                    <span>تلحين زكريّا احمد (مصر)</span>
+                                    <span>الحان زكريّا احمد (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -96,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                     <b>اغنية على الله تعود (١٩٧٠)</b>
                                     <span>غناء وديع الصافي (لبنان)</span>
                                     <span>كلمات ميشال طعمة (لبنان)</span>
-                                    <span>تلحين فريد الاطرش (سوريا / مصر)</span>
+                                    <span>الحان فريد الاطرش (سوريا / مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -109,7 +109,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية مين عذّبك (١٩٣١)</b>
                                     <span>كلمات امين عزت الهجين</span>
-                                    <span>غناء وتلحين محمد عبد الوهاب (مصر)</span>
+                                    <span>غناء والحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -121,9 +121,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية من عزّ النوم</b>
-                                    <span>فيروز  (لبنان)</span>
+                                    <span>فيروز (لبنان)</span>
                                     <span>كلمات الأخوين رحباني (لبنان)</span>
-                                    <span>تلحين فيلمون وهبي (لبنان)</span>
+                                    <span>الحان فيلمون وهبي (لبنان)</span>
                                 </div>
                             </label>
                         </div>

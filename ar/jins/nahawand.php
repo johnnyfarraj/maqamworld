@@ -78,9 +78,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>اغنية الف ليلة وليلة (١٩٦٩)</b>
-                                    <span>ام كلثوم (مصر)</span>
-                                    <span>كلمات مرسي جميل عزيز</span>
-                                    <span>تلحين بليغ حمدي (مصر)</span>
+                                    <span>ام كلثوم</span>
+                                    <span>كلمات مرسي جميل عزيز (مصر)</span>
+                                    <span>الحان بليغ حمدي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -92,7 +92,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>مقطوعة بلد المحبوب</b>
-                                    <span>تلحين محمد عبد الوهاب</span>
+                                    <span>الحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -104,9 +104,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية ودارت الايام (١٩٧٠)</b>
-                                    <span>ام كلثوم (مصر)</span>
-                                    <span>كلمات مأمون الشناوى</span>
-                                    <span>تلحين محمد عبد الوهاب</span>
+                                    <span>ام كلثوم</span>
+                                    <span>كلمات مأمون الشناوى (مصر)</span>
+                                    <span>الحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -119,7 +119,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>دور احبّ اشوفك كل يوم (١٩٣٠)</b>
                                     <span>كلمات حسن أنور</span>
-                                    <span>غناء وتلحين محمد عبد الوهاب (مصر)</span>
+                                    <span>غناء والحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -131,9 +131,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية جددت حبّك ليه (١٩٥٢)</b>
-                                    <span>ام كلثوم (مصر)</span>
-                                    <span>كلمات احمد رامى</span>
-                                    <span>تلحين رياض السنباطي (مصر)</span>
+                                    <span>ام كلثوم</span>
+                                    <span>كلمات احمد رامى (مصر)</span>
+                                    <span>الحان رياض السنباطي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -145,8 +145,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية يا دنيا يا غرامي (١٩٣٨)</b>
-                                    <span>كلمات احمد رامي</span>
-                                    <span>غناء وتلحين محمد عبد الوهاب (مصر)</span>
+                                    <span>كلمات احمد رامي (مصر)</span>
+                                    <span>غناء والحان محمد عبد الوهاب (مصر)</span>
                                     <span>من فيلم يحيا الحب </span>
                                 </div>
                             </label>
@@ -159,8 +159,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية يا حبيبي كلما هبّ الهوى</b>
-                                    <span>فيروز  (لبنان)</span>
-                                    <span>كلمات والحان الأخوين رحباني</span>
+                                    <span>فيروز (لبنان)</span>
+                                    <span>كلمات والحان الأخوين رحباني (لبنان)</span>
                                 </div>
                             </label>
                         </div>

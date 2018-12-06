@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>جنس مُستعار</h1>
-                        <h3>صنف من
+                        <h3>صنف من أصناف 
                            <a href="sikah.php">جنس السيكاه</a>
                             تُرفع درجته الثانية
                         </h3>
@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                     <h5>جنس مُستعار هو الجنس الاول في
 					<a href="../maqam/lami.php">مقام المُستعار</a>،
                         حجمه ٣ درجات.
-					 وهو صنف من <a href="sikah.php">جنس السيكاه</a>
+					 وهو صنف من أصناف <a href="sikah.php">جنس السيكاه</a>
                         تُرفع درجته الثانية بنصف صوت.
 					 </h5><h5>
 					 يقع قراره في هذا السلّم النموذجي على علامة المي نصف بيمول وغمّازه على علامة الصول.
@@ -75,9 +75,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>اغنية رقّ الحبيب (١٩٤٤)</b>
-                                    <span>ام كلثوم (مصر)</span>
-                                    <span>كلمات احمد رامى</span>
-                                    <span>تلحين محمد القصبجي (مصر)</span>
+                                    <span>ام كلثوم</span>
+                                    <span>كلمات احمد رامى (مصر)</span>
+                                    <span>الحان محمد القصبجي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -89,9 +89,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية اروح لمين (١٩٥٨)</b>
-                                    <span>ام كلثوم (مصر)</span>
-                                    <span>كلمات عبدالمنعم السباعي</span>
-                                    <span>تلحين رياض السنباطي (مصر)</span>
+                                    <span>ام كلثوم</span>
+                                    <span>كلمات عبدالمنعم السباعي (مصر)</span>
+                                    <span>الحان رياض السنباطي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -103,9 +103,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية حبّيت ولا بانش عليَّ (١٩٣٠)</b>
-                                    <span>ام كلثوم (مصر)</span>
+                                    <span>ام كلثوم</span>
                                     <span>كلمات احمد رامي (مصر)</span>
-                                    <span>تلحين محمد القصبجي (مصر)</span>
+                                    <span>الحان محمد القصبجي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -118,7 +118,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية هو الحبّ لعبة</b>
                                     <span>غناء عزيزة جلال (المغرب) </span>
-                                    <span>تلحين محمد الموجي (مصر)</span>
+                                    <span>الحان محمد الموجي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -141,7 +141,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>تقسيم على العود في مقام السيكاه</b>
+                                    <b>تقسيم على العود من مقام السيكاه</b>
                                     <span>عزف رياض السنباطي (مصر)</span>
                                     <span><img src="/img/cd.png">أسطوانة تقاسيم</span>
                                 </div>
@@ -154,10 +154,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>تقسيم على القانون في مقام السيكاه</b>
+                                    <b>تقسيم على القانون من مقام السيكاه</b>
                                     <span>عزف عماد ملكي</span>
                                     <span>فرقة التراث (حلب)</span>
-                                    <span><img src="/img/cd.png">أسطوانة حدائق الياسمين – مقام هُزام</span>
+                                    <span><img src="/img/cd.png">أسطوانة حدائق الياسمين – <a href="../maqam/huzam.php">مقام هُزام</a></span>
                                 </div>
                             </label>
                         </div>

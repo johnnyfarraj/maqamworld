@@ -78,9 +78,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية اغداً القاك (١٩٧١)</b>
-                                    <span>ام كلثوم (مصر)</span>
-                                    <span>كلمات الهادي آدم</span>
-                                    <span>تلحين محمد عبد الوهاب</span>
+                                    <span>ام كلثوم</span>
+                                    <span>كلمات الهادي آدم (السودان)</span>
+                                    <span>الحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -92,9 +92,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية البواب (١٩٩٤)</b>
-                                    <span>فيروز  (لبنان)</span>
-                                    <span>تلحين فيلمون وهبي (لبنان)</span>
-                                    <p><img src="/img/cd.png"> Album Name Here</p>
+                                    <span>فيروز (لبنان)</span>
+                                    <span>الحان فيلمون وهبي (لبنان)</span>
+		<span>كلمات جوزيف حرب (لبنان)</span>
                                 </div>
                             </label>
                         </div>
@@ -107,8 +107,8 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية في يوم وليلة (١٩٧٨)</b>
                                     <span>وردة الجزائرية</span>
-                                    <span>كلمات حسين السيد</span>
-                                    <span>تلحين محمد عبد الوهاب</span>
+                                    <span>كلمات حسين السيد (مصر)</span>
+                                    <span>الحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -120,9 +120,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية لِسّه فاكر (١٩٦٣)</b>
-                                    <span>ام كلثوم (مصر)</span>
-                                    <span>كلمات عبد الفتاح مصطفى</span>
-                                    <span>تلحين رياض السنباطي (مصر)</span>
+                                    <span>ام كلثوم</span>
+                                    <span>كلمات عبد الفتاح مصطفى (مصر)</span>
+                                    <span>الحان رياض السنباطي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -146,14 +146,15 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية طلعت يا ماحلا نورها</b>
-                                    <span>غناء محمد عبد الكريم</span>
-                                    <span>تلحين سيّد درويش (مصر)</span>
+                                    <span>غناء والحان سيّد درويش (مصر)</span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
+	<!--
                     <a href="http://maqamlessons.com" class="btn btn-primary read-more" target="_blank"><b>Read More</b>Read more about جنس عجم on MaqamLessons.com</a>
+	-->
 
                 </div>
                 <div class="col-sm-12">

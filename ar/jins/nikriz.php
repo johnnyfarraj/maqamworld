@@ -80,7 +80,7 @@ include($ROOT . 'inc/head.php');
                                     <b>موشح بين قاسيون وربوة</b>
                                     <span>الفرقة الوطنية السورية</span>
                                     <span>كلمات فخري البارودي (سوريا)</span>
-                                    <span>تلحين عُمر البطش (سوريا)</span>
+                                    <span>الحان عُمر البطش (سوريا)</span>
                                 </div>
                             </label>
                         </div>
@@ -92,9 +92,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية عوّدت عيني (١٩٥٧)</b>
-                                    <span>ام كلثوم (مصر)</span>
+                                    <span>ام كلثوم</span>
                                     <span>كلمات احمد رامى (مصر)</span>
-                                    <span>تلحين رياض السنباطي (مصر)</span>
+                                    <span>الحان رياض السنباطي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية حوّل يا غنّام</b>
                                     <span>غناء نجاح سلام (لبنان)</span>
-                                    <span>تلحين إيليا متني (لبنان)</span>
+                                    <span>الحان إيليا متني (لبنان)</span>
                                 </div>
                             </label>
                         </div>
@@ -119,9 +119,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية بعيد عنّك (١٩٦٥)</b>
-                                    <span>ام كلثوم (مصر)</span>
-                                    <span>كلمات مأمون الشناوي</span>
-                                    <span>تلحين بليغ حمدي (مصر)</span>
+                                    <span>ام كلثوم</span>
+                                    <span>كلمات مأمون الشناوي (مصر)</span>
+                                    <span>الحان بليغ حمدي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -134,8 +134,8 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية في يوم وليلة (١٩٧٨)</b>
                                     <span>وردة الجزائرية</span>
-                                    <span>كلمات حسين السيد</span>
-                                    <span>تلحين محمد عبد الوهاب</span>
+                                    <span>كلمات حسين السيد (مصر)</span>
+                                    <span>الحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -147,7 +147,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>قصيدة لمّا اناخوا قبيل الصبح</b>
-                                    <span>صباح فخري</span>
+                                    <span>صباح فخري (سوريا)</span>
                                 </div>
                             </label>
                         </div>

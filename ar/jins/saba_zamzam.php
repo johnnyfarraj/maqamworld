@@ -53,7 +53,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="504,52,13" href="#" alt="سي♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					</map>
 
-                    <h5>جنس جنس صَبا زَمزَم هو الجنس الاول في
+                    <h5>جنس صَبا زَمزَم هو الجنس الاول في
 					<a href="../maqam/saba_zamzam.php">مقام صَبا زَمزَم</a>.
                     يقع قراره في هذا السلّم النموذجي على علامة الري، اما غمّازه فيمكن ان يقع على الدرجة الثالثة (علامة الفا) او السادسة (علامة السي بيمول)، لذلك فحجم هذا الجنس غير واضح.
                     </h5>
@@ -71,9 +71,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>اغنية على حسب وداد قلبي (١٩٥٣)</b>
-                                    <span>عبد الحليم حافظ</span>
-                                    <span>كلمات صلاح ابو سالم</span>
-                                    <span>تلحين بليغ حمدي (مصر)</span>
+                                    <span>عبد الحليم حافظ (مصر)</span>
+                                    <span>كلمات صلاح ابو سالم (مصر)</span>
+                                    <span>الحان بليغ حمدي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -85,9 +85,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية جانا الهوى (١٩٦٩)</b>
-                                    <span>عبد الحليم حافظ</span>
+                                    <span>عبد الحليم حافظ (مصر)</span>
                                     <span>كلمات الشاعر محمد حمزة (مصر)</span>
-                                    <span>تلحين بليغ حمدي (مصر)</span>
+                                    <span>الحان بليغ حمدي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -99,9 +99,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية زيّ الهوى (١٩٧٠)</b>
-                                    <span>عبد الحليم حافظ</span>
+                                    <span>عبد الحليم حافظ (مصر)</span>
                                     <span>كلمات الشاعر محمد حمزة (مصر)</span>
-                                    <span>تلحين بليغ حمدي (مصر)</span>
+                                    <span>الحان بليغ حمدي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -113,9 +113,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية نبتدي منين الحكاية (١٩٧٥)</b>
-                                    <span>عبد الحليم حافظ</span>
+                                    <span>عبد الحليم حافظ (مصر)</span>
                                     <span>كلمات الشاعر محمد حمزة (مصر)</span>
-                                    <span>تلحين محمد عبد الوهاب</span>
+                                    <span>الحان محمد عبد الوهاب</span>
                                 </div>
                             </label>
                         </div>
@@ -126,8 +126,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>اغنية يا بنت السلطان (؟)</b>
+                                    <b>(١٩٦٩) اغنية يا بنت السلطان</b>
                                     <span>غناء احمد عدوية (مصر)</span>
+                                    <span>الحان حسن ابو السعود (مصر)</span>
                                 </div>
                             </label>
                         </div>

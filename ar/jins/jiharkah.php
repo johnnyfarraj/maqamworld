@@ -89,7 +89,7 @@ include($ROOT . 'inc/head.php');
                                     <b>اغنية عوّدت عيني (١٩٥٧)</b>
                                     <span>ام كلثوم</span>
                                     <span>كلمات أحمد رامي (مصر)</span>
-                                    <span>تلحين رياض السنباطي (مصر)</span>
+                                    <span>الحان رياض السنباطي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -103,7 +103,7 @@ include($ROOT . 'inc/head.php');
                                     <b>اغنية شمس الاصيل (١٩٥٨)</b>
                                     <span>ام كلثوم</span>
                                     <span>كلمات بيرم التونسي (مصر)</span>
-                                    <span>تلحين رياض السنباطي (مصر)</span>
+                                    <span>الحان رياض السنباطي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -129,7 +129,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية يا مال الشام</b>
                                     <span>صباح فخري (سوريا)</span>
-                                    <span>تلحين احمد أبو خليل القبّاني (سوريا)</span>
+                                    <span>الحان احمد أبو خليل القبّاني (سوريا)</span>
                                 </div>
                             </label>
                         </div>

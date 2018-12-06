@@ -76,9 +76,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>اغنية عوّدت عيني (١٩٥٧)</b>
-                                    <span>ام كلثوم (مصر)</span>
+                                    <span>ام كلثوم</span>
                                     <span>كلمات أحمد رامي (مصر)</span>
-                                    <span>تلحين رياض السنباطي (مصر)</span>
+                                    <span>الحان رياض السنباطي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -90,9 +90,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية حيّرت قلبي معاك (١٩٦١)</b>
-                                    <span>ام كلثوم (مصر)</span>
-                                    <span>تاليف أحمد رامي (مصر)</span>
-                                    <span>تلحين رياض السنباطي (مصر)</span>
+                                    <span>ام كلثوم</span>
+                                    <span>كلمات أحمد رامي (مصر)</span>
+                                    <span>الحان رياض السنباطي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -105,7 +105,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشح حبّي زرني ما تيسّر</b>
                                     <span>غناء كارم محمود (مصر)</span>
-                                    <span>تلحين درويش الحريري</span>
+                                    <span>الحان الشيخ درويش الحريري (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -117,9 +117,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية انت عمري (١٩٧٦)</b>
-                                    <span>ام كلثوم (مصر)</span>
-                                    <span>تأليف الشاعر أحمد شفيق كامل</span>
-                                    <span>تلحين محمد عبد الوهاب</span>
+                                    <span>ام كلثوم</span>
+                                    <span>تأليف أحمد شفيق كامل (مصر)</span>
+                                    <span>الحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -132,8 +132,8 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية مشغول عليك</b>
                                     <span>غناء كارم محمود (مصر)</span>
-                                    <span>كلمات فتحي قورة</span>
-                                    <span>تلحين احمد صدقي</span>
+                                    <span>كلمات فتحي قورة (مصر)</span>
+                                    <span>الحان احمد صدقي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -145,7 +145,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>موشح يا بهجة الروح</b>
-                                    <span>صباح فخري</span>
+                                    <span>صباح فخري (سوريا)</span>
                                     <span>(الشعر واللحن قديم)</span>
                                 </div>
                             </label>
@@ -158,9 +158,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية يا ظالمني (١٩٥١)</b>
-                                    <span>ام كلثوم (مصر)</span>
-                                    <span>كلمات احمد رامى</span>
-                                    <span>تلحين رياض السنباطي (مصر)</span>
+                                    <span>ام كلثوم</span>
+                                    <span>كلمات احمد رامي (مصر)</span>
+                                    <span>الحان رياض السنباطي (مصر)</span>
                                 </div>
                             </label>
                         </div>

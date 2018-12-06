@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>جنس نَهاوند مُرصّع</h1>
-                        <h3>صنف من
+                        <h3>صنف من أصناف 
                             <a href="nahawand.php">جنس النهاوند </a>
                             تُخفّض درجته الخامسة
                         </h3>
@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
 
                     <h5>جنس نهاوند مرصّع هو الجنس الاول في
 		              <a href="../maqam/nahawand_murassaa.php">مقام نهاوند مرصّع</a>.
-                        وهو صنف من
+                        وهو صنف من أصناف
                         <a href="nahawand.php">جنس النهاوند</a>
                         تُخفّض درجته الخامسة بنصف صوت.
                         </h5><h5>
@@ -77,7 +77,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>دولاب مقام النهاوند</b>
                                     <span>(من اغنية سيبوني يا ناس)</span>
-                                    <span>صباح فخري</span>
+                                    <span>صباح فخري (سوريا)</span>
                                 </div>
                             </label>
                         </div>
@@ -90,7 +90,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية حبّيت جمالك</b>
                                     <span>ليلى مُراد (مصر)</span>
-                                    <span>تلحين محمد القصبجي (مصر)</span>
+                                    <span>الحان محمد القصبجي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -102,9 +102,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" checked>
                                 <div class="info">
                                     <b>اغنية خسارة (١٩٥٧)</b>
-                                    <span>عبد الحليم حافظ</span>
-                                    <span>كلمات مأمون الشناوي</span>
-                                    <span>تلحين بليغ حمدي (مصر)</span>
+                                    <span>عبد الحليم حافظ (مصر)</span>
+                                    <span>كلمات مأمون الشناوي (مصر)</span>
+                                    <span>الحان بليغ حمدي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -118,7 +118,7 @@ include($ROOT . 'inc/head.php');
                                     <b>عزف منفرد على الاكورديون</b>
                                     <span>من اغنية تحت الشبّاك</span>
                                     <span>غناء فاطمة سرحان (مصر</span>
-                                    <span>تلحين عزيز عثمان</span>
+                                    <span>الحان عزيز عثمان</span>
                                 </div>
                             </label>
                         </div>
@@ -131,7 +131,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية من حبي فيك يا جاري (١٩٥٨)</b>
                                     <span>غناء حورية حسن (مصر)</span>
-                                    <span>تلحين محمد الموجي (مصر)</span>
+                                    <span>الحان محمد الموجي (مصر)</span>
                                 </div>
                             </label>
                         </div>

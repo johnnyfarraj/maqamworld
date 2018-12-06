@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>جنس عَجَم مُرصّع <span class="badge badge-custom">جديد</span></h1>
-                        <h3>صنف من
+                        <h3>صنف من أصناف 
                            <a href="ajam.php">جنس العجم</a>
                             تُرفع درجته الرابعة
                         </h3>
@@ -78,8 +78,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>موشّح كلّلي يا سُحبُ</b>
-                                    <span>صباح فخري</span>
-                                    <span>تلحين محمد عثمان (مصر)</span>
+                                    <span>صباح فخري (سوريا)</span>
+                                    <span>الحان محمد عثمان (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -102,9 +102,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>تقسيم على القانون في مقام العجم</b>
-                                    <span>عبده داغِر</span>
-                                    <span><img src="/img/cd.png">الجبالي</span>
+                                    <b>تقسيم على القانون من مقام العجم</b>
+                                    <span>عازف القانون في تخت عبده داغِر</span>
+                                    <span><img src="/img/cd.png">اسطوانة الجبالي</span>
                                 </div>
                             </label>
                         </div>
@@ -116,9 +116,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية نبتدي منين الحكاية (١٩٧٥)</b>
-                                    <span>عبد الحليم حافظ</span>
+                                    <span>عبد الحليم حافظ (مصر)</span>
                                     <span>كلمات الشاعر محمد حمزة (مصر)</span>
-                                    <span>تلحين محمد عبد الوهاب</span>
+                                    <span>الحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -130,9 +130,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية قارئة الفنجان (١٩٧٦)</b>
-                                    <span>عبد الحليم حافظ</span>
+                                    <span>عبد الحليم حافظ (مصر)</span>
                                     <span>كلمات الشاعر نزار قبّاني (سوريا)</span>
-                                    <span>تلحين محمد الموجي (مصر)</span>
+                                    <span>الحان محمد الموجي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -168,7 +168,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>مقطوعة ليالي زمان</b>
-                                    <span>تلحين عبده داغِر (مصر)</span>
+                                    <span>تخت عبده داغِر</span>
+                                    <span>الحان عبده داغِر (مصر)</span>
                                     <span>تسجيل حيّ من دار الاوبرا في القاهرة</span>
                                 </div>
                             </label>

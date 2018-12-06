@@ -180,12 +180,12 @@ include($ROOT . 'inc/head.php');
                         that precedes an <a href="improv.php">improvisation</a>, or it could serve as the introduction to a <a href="vocal_comp.php#dawr">Dawr</a>.
                     </p>
 
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=JK9v4pXrhy0">
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=n60D-Mnodms">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/JK9v4pXrhy0/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/n60D-Mnodms/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">

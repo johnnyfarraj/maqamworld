@@ -162,12 +162,12 @@ include($ROOT . 'inc/head.php');
                     <p>Der Dulab ist eine kurze Instrumentalform, der einen <a href="../maqam.php">Maqam</a> vorstellt. Der Name bedeutet "Rad" auf Arabisch, weil die Melodie x-fach wiederholt wird. Die Türken führen das Wort auf das Verb "dolamak" zurück, was einwickeln, umhüllen bedeutet und in Form des "dolap" den Schrank meint. Der Dulab kann auch für sich stehen und einer <a href="improv.php">Improvisation</a> vorangehen oder einem <a href="vocal_comp.php#dawr">Dawr</a> vorangehen.
                     </p>
 
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=JK9v4pXrhy0">
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=n60D-Mnodms">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/JK9v4pXrhy0/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/n60D-Mnodms/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">

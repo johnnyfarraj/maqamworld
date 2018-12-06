@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>جنس عَجَم اعلى <span class="badge badge-custom">جديد</span></h1>
-                        <h3>صنف من
+                        <h3>صنف من أصناف
                             <a href="ajam.php">جنس العجم </a>
                             (ذو اربع درجات) يقع قراره في الأعلى
                         </h3>
@@ -78,9 +78,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>اغنية زيّ الهوى (١٩٧٠)</b>
-                                    <span>عبد الحليم حافظ</span>
+                                    <span>عبد الحليم حافظ (مصر)</span>
                                     <span>كلمات الشاعر محمد حمزة (مصر)</span>
-                                    <span>تلحين بليغ حمدي (مصر)</span>
+                                    <span>الحان بليغ حمدي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -92,9 +92,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية لِسّه فاكر (١٩٦٣)</b>
-                                    <span>ام كلثوم (مصر)</span>
+                                    <span>ام كلثوم</span>
                                     <span>كلمات عبد الفتاح مصطفى</span>
-                                    <span>تلحين رياض السنباطي (مصر)</span>
+                                    <span>الحان رياض السنباطي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -106,9 +106,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية هو صحيح الهوى غلّاب (١٩٦٠)</b>
-                                    <span>ام كلثوم (مصر)</span>
+                                    <span>ام كلثوم</span>
                                     <span>كلمات بيرم التونسي (مصر)</span>
-                                    <span>تلحين زكريّا احمد (مصر)</span>
+                                    <span>الحان زكريّا احمد (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -120,7 +120,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>موّال من يوم فرقاك</b>
-                                    <span>صباح فخري</span>
+                                    <span>صباح فخري (سوريا)</span>
                                 </div>
                             </label>
                         </div>
@@ -133,7 +133,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية شرّفت يا نيكسون بابا (١٩٧٤)</b>
                                     <span>كلمات احمد فؤاد نجم (مصر)</span>
-                                    <span>غناء وتلحين الشيخ امام (مصر)</span>
+                                    <span>غناء والحان الشيخ امام (مصر)</span>
                                 </div>
                             </label>
                         </div>

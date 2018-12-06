@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>جنس صَبا دَلَنشين <span class="badge badge-custom">جديد</span></h1>
-                        <h3>صنف من
+                        <h3>صنف من اصناف
                             <a href="saba.php">جنس الصَبا</a>
                             يقع قراره على الدرجته الثالثة
                         </h3>
@@ -87,8 +87,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>اغنية يا مال الشام</b>
-                                    <span>صباح فخري</span>
-                                    <span>تلحين احمد أبو خليل القبّاني (سوريا)</span>
+                                    <span>صباح فخري (سوريا)</span>
+                                    <span>الحان احمد أبو خليل القبّاني (سوريا)</span>
                                 </div>
                             </label>
                         </div>
@@ -112,8 +112,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>موشح ملا الكاسات (خانة)</b>
-                                    <span>صباح فخري</span>
-                                    <span>تلحين محمد عثمان (مصر)</span>
+                                    <span>صباح فخري (سوريا)</span>
+                                    <span>الحان محمد عثمان (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -140,7 +140,7 @@ include($ROOT . 'inc/head.php');
                                     <b>اغنية يا حلاوة الدنيا</b>
                                     <span>كلمات بيرم التونسي (مصر)</span>
                                     <span>غناء سيّد مكاوي (مصر)</span>
-                                    <span>تلحين زكريّا احمد (مصر)</span>
+                                    <span>الحان زكريّا احمد (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -152,9 +152,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية اسوارة العروس (١٩٨٩)</b>
-                                    <span>فيروز  (لبنان)</span>
+                                    <span>فيروز (لبنان)</span>
                                     <span>كلمات جوزيف حرب (لبنان)</span>
-                                    <span>تلحين فيلمون وهبي (لبنان)</span>
+                                    <span>الحان فيلمون وهبي (لبنان)</span>
                                 </div>
                             </label>
                         </div>

@@ -70,7 +70,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>اغنية البرتقال (١٩٣٨)</b>
-                                    <span>غناء وتلحين محمد عبد الوهاب (مصر)</span>
+                                    <span>دويت رئيسة عفيفي ومحمد عبد الوهاب (مصر)</span>
+                                    <span>الحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -82,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>إنشودة أحمد يا حبيبي</b>
-                                    <span>غناء وتلحين صبري المدلل (سوريا)</span>
+                                    <span>غناء والحان صبري المدلل (سوريا)</span>
                                 </div>
                             </label>
                         </div>
@@ -95,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية النجمات (١٩٦٤)</b>
                                     <span>غناء وديع الصافي (لبنان)</span>
-                                    <span>تلحين محمد محسن</span>
+                                    <span>الحان محمد محسن (سوريا)</span>
                                 </div>
                             </label>
                         </div>
@@ -106,8 +107,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>اغنية كل لي يا حلو</b>
-                                    <span>غناء كاظم الساهر (عراق)</span>
+                                    <b>اغنية قل لي يا حلو</b>
+                                    <span>غناء كاظم الساهر (العراق)</span>
                                 </div>
                             </label>
                         </div>
@@ -119,7 +120,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>قصيدة أقول وقد ناحت بقربي حمامة</b>
-                                    <span>غناء ناظم الغزالي (عراق)</span>
+                                    <span>غناء ناظم الغزالي (العراق)</span>
                                 </div>
                             </label>
                         </div>

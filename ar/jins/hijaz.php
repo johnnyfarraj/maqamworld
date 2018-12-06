@@ -80,7 +80,7 @@ include($ROOT . 'inc/head.php');
                                     <b>اغنية انا في انتظارك (١٩٤٣)</b>
                                     <span>ام كلثوم</span>
                                     <span>كلمات بيرم التونسي (مصر)</span>
-                                    <span>تلحين زكريّا احمد (مصر)</span>
+                                    <span>الحان زكريّا احمد (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -94,7 +94,7 @@ include($ROOT . 'inc/head.php');
                                     <b>اغنية اغداً القاك (١٩٧١)</b>
                                     <span>ام كلثوم</span>
                                     <span>كلمات الهادي آدم (السودان)</span>
-                                    <span>تلحين محمد عبد الوهاب (مصر)</span>
+                                    <span>الحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -108,7 +108,7 @@ include($ROOT . 'inc/head.php');
                                     <b>اغنية بكرم اللولو</b>
                                     <span>فيروز (لبنان)</span>
                                     <span>كلمات الأخوين رحباني (لبنان)</span>
-                                    <span>تلحين فيلمون وهبي (لبنان)</span>
+                                    <span>الحان فيلمون وهبي (لبنان)</span>
                                 </div>
                             </label>
                         </div>
@@ -122,7 +122,7 @@ include($ROOT . 'inc/head.php');
                                     <b>اغنية الاولة في الغرام (١٩٤٤)</b>
                                     <span>ام كلثوم</span>
                                     <span>كلمات بيرم التونسي (مصر) </span>
-                                    <span>تلحين زكريّا احمد (مصر)</span>
+                                    <span>الحان زكريّا احمد (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -136,7 +136,7 @@ include($ROOT . 'inc/head.php');
                                     <b>اغنية الورد جميل (١٩٤٦)</b>
                                     <span>ام كلثوم</span>
                                     <span>كلمات بيرم التونسي (مصر)</span>
-                                    <span>تلحين زكريّا احمد (مصر)</span>
+                                    <span>الحان زكريّا احمد (مصر)</span>
                                 </div>
                             </label>
                         </div>

@@ -36,7 +36,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <h5>دخلت على الموسيقى العربية في القرن التاسع عشر ثلاثة قوالب آلية عثمانية هي السماعي واللونجا والبَشرف،
-                        ومنذ وقتها وحتى اليوم وهذه القوالب مستخدم بكثرة في موسيقانا وبشكل خاص السماعي حيث ما زال تأليف السماعيات شائعاً بين الموسيقيين العرب.
+                        منذ ذلك الحين حتى اليوم وهذه القوالب تُستخدَم بكثرة في موسيقانا وبشكل خاص السماعي حيث ما زال تأليف السماعيات شائعاً بين الموسيقيين العرب.
                     </h5>
                     <h5>تشترك هذه القوالب الثلاثة بأن لها مقطع موسيقي أساسي يُدعى التسليم يتكرر بين المقاطع الأخرى التي تدعى الخانات (جمع مفرده خانة).
                         وكل من هذه القوالب لها مقام أساسي تستعرض سيره وانتقالاته المقامية حيث يدعى كل قالب منها بمقامه يتبعه اسم مؤلفه.
@@ -66,7 +66,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>سماعي بياتي</b>
-                                    <span>سماعي بياتي من تلحين إبراهيم العريان (مصر).<span>
+                                    <span>سماعي <a href="../maqam/bayati.php">بياتي</a> من تلحين إبراهيم العريان (مصر).<span>
                                     <span> تسجيل فرقة الاذاعة التونسية</span>
                                 </div>
                             </label>
@@ -83,14 +83,14 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>سماعي حجاز كار كرد</b>
-                                    <span>سماعي حجاز كار كرد من تلحين روحي الخماش (فلسطين\عراق).
+                                    <span>سماعي <a href="../maqam/hijazkar_kurd.php">حجاز كار كُرد</a> من تلحين روحي الخمّاش (فلسطين/العراق).
                                         والخانة الرابعة على إيقاع الجورجينا (١٠/٨) الشائع في العراق.
                                     </span>
                                 </div>
                             </label>
                         </div>
                     </div>
-                    
+                 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=pMCnu_2r-wQ">
                         <div class="radio">
                             <label>
@@ -101,31 +101,30 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>سماعي كُرد</b>
-                                    <span>سماعي كُرد من تلحين عبده داغر (مصر).
+                                    <span>سماعي <a href="../maqam/kurd.php">كُرد</a> من تلحين عبده داغر (مصر).
                                         ويختلف هذا السماعي قليلاّ عن غيره بأن له مقدّمة ملحنة تسبق الخانة الاولى.
                                     </span>
                                 </div>
                             </label>
                         </div>
                     </div>
-                    
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=MFCzI-23e_o">
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=_OZo-QBb6jY">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/MFCzI-23e_o/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/_OZo-QBb6jY/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">
                                     <b>سماعي راست</b>
-                                <span>سماعي راست من تلحين جورج ميشيل (مصر).</span>
-                                <span>(تسجيل من فرقة مجهولة)</span>
+                                <span>سماعي <a href="../maqam/rast.php">راست</a> من تلحين جورج ميشيل (مصر).</span>
+                                <span>(تسجيل فرقة الاذاعة التونسية)</span>
                                 </div>
                             </label>
                         </div>
                     </div>
-                    
+                   
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=opETYjZGZtM">
                         <div class="radio">
                             <label>
@@ -136,7 +135,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>سماعي نو اثر</b>
-                                    <span>سماعي نو اثر من تلحين جميل عويس (سوريا).</span>
+                                    <span>سماعي <a href="../maqam/nawa_athar.php">نَو أثَر</a> من تلحين جميل عويس (سوريا).</span>
                                     <span>(تسجيل من فرقة مجهولة)</span>
                                 </div>
                             </label>
@@ -160,7 +159,7 @@ include($ROOT . 'inc/head.php');
                         و<a href="../maqam/hijaz.php">الحجاز</a>
                         و<a href="../maqam/nikriz.php">النكريز</a>
                         ، وألحانها تحاكي الأنغام الأوروبية الشرقية (خاصة منطقة البلقان).
-                        وما زال العديد من المؤلفين العربين يتبع الطريقة نفسها في تأليف اللونجات إلى يومنا هذا.                        
+                        وما زال العديد من المؤلفين العرب يتبع الطريقة نفسها في تأليف اللونجات إلى يومنا هذا.                        
                     </h5>
                     <br>
                             
@@ -174,7 +173,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>لونجا فرحفزا رياض السنباطي</b>
-                                    <span>لونجا فرحفزا (وهو مقام النهاوند مصوّر على درجة النوى او الصول) تلحين رياض السنباطي (مصر). تسجيل فرقة سيمون شاهين.
+                                    <span>لونجا <a href="../maqam/nahawand.php">فرحفزا (نهاوند)</a> تلحين رياض السنباطي (مصر). تسجيل فرقة سيمون شاهين.
                                     </span>
                                 </div>
                             </label>
@@ -191,7 +190,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>لونجا عجم عبده داغر</b>
-                                    <span>لونجا عجم من تلحين عبده داغر (مصر). تسجيل فرقة عبده داغر.</span>
+                                    <span>لونجا <a href="../maqam/ajam.php">عجم</a> من تلحين عبده داغر (مصر). تسجيل فرقة عبده داغر.</span>
                                 </div>
                             </label>
                         </div>
@@ -207,7 +206,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>لونجا نهاوند الفريد جميل</b>
-                                    <span>لونجا نهاوند من تلحين د. الفريد جميل (مصر). تسجيل فرقة عبده داغر.</span>
+                                    <span>لونجا <a href="../maqam/nahawand.php">نهاوند</a> من تلحين د. الفريد جميل (مصر). تسجيل فرقة عبده داغر.</span>
                                 </div>
                             </label>
                         </div>
@@ -236,7 +235,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>بشرف فرحفزا</b>
-                                    <span>بشرف فرحفزا (وهو مقام النهاوند مصوّر على درجة النوى او الصول) من تلحين إسماعيل حقّي بيك (مؤلف من الفترة العثمانية).
+                                    <span>بشرف <a href="../maqam/nahawand.php">فرحفزا (نهاوند)</a> من تلحين إسماعيل حقّي بيك (مؤلف من الفترة العثمانية).
                                     </span>
                                     <span>تسجيل فرقة سيمون شاهين.</span>
                                 </div>

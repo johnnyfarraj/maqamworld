@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>جنس راست اعلى <span class="badge badge-custom">جديد</span></h1>
-                        <h3>صنف من
+                        <h3>من أصناف
                             <a href="rast.php">جنس الراست</a>
                             (ذو اربع درجات) يقع قراره في الأعلى
                         </h3>
@@ -53,7 +53,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="448,42,12" href="#" alt="ري" class="playNote" data-frequency="586.66" data-parent="#notation1">
 					  </map>
 
-                    <h5>جنس الراست الاعلى هو صنف من
+                    <h5>جنس الراست الاعلى هو من أصناف من
                     <a href="rast.php">جنس الراست</a>
                     ذو اربع درجات، يقع قراره في الأعلى (اي على الدرجة الرابعة بدلاً من الدرجة الاولى).
                     وهذه ميزة مشتركة مع
@@ -77,8 +77,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>موشح يا شادي الالحان</b>
-                                    <span>صباح فخري</span>
-                                    <span>تلحين سيّد درويش (مصر)</span>
+                                    <span>صباح فخري (سوريا)</span>
+                                    <span>الحان سيّد درويش (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -91,7 +91,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية حنّ الحديد (١٩٧٤)</b>
                                     <span>غناء جوزيف صقر (لبنان)</span>
-                                    <span>تلحين زياد الرحباني (لبنان)</span>
+                                    <span>الحان زياد الرحباني (لبنان)</span>
                                     <span>من مسرحية "نزل السرور" الغنائية</span>
                                 </div>
                             </label>
@@ -104,9 +104,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية اروح لمين (١٩٥٨)</b>
-                                    <span>ام كلثوم (مصر)</span>
-                                    <span>كلمات الشاعر عبد المنعم السباعي </span>
-                                    <span>تلحين رياض السنباطي (مصر)</span>
+                                    <span>ام كلثوم</span>
+                                    <span>كلمات عبد المنعم السباعي </span>
+                                    <span>الحان رياض السنباطي (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -118,9 +118,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية اسامينا</b>
-                                    <span>فيروز  (لبنان)</span>
+                                    <span>فيروز (لبنان)</span>
                                     <span>كلمات جوزيف حرب (لبنان)</span>
-                                    <span>تلحين فيلمون وهبي (لبنان)</span>
+                                    <span>الحان فيلمون وهبي (لبنان)</span>
                                 </div>
                             </label>
                         </div>
@@ -132,8 +132,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>موشّح اتاني زماني</b>
-                                    <span>صباح فخري</span>
-                                    <span>تلحين محمد عثمان (مصر)</span>
+                                    <span>صباح فخري (سوريا)</span>
+                                    <span>الحان محمد عثمان (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -146,7 +146,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية حيرانة ليه (١٩٣٠)</b>
                                     <span>ليلى مُراد (مصر)</span>
-                                    <span>تلحين داوود حسني (مصر)/span>
+                                    <span>الحان داوود حسني (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -159,7 +159,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية مين عذّبك (١٩٣١)</b>
                                     <span>كلمات امين عزت الهجين</span>
-                                    <span>غناء وتلحين محمد عبد الوهاب (مصر)</span>
+                                    <span>غناء والحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>

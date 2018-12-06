@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>جنس مُخالِف شرقي <span class="badge badge-custom">جديد</span></h1>
-                        <h3>صنف من
+                        <h3>صنف من أصناف 
                            <a href="sikah.php">جنس السيكاه</a>
                             تُخفّض درجته الثالثة
                         </h3>
@@ -73,8 +73,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>دور امتى الهوى (١٩٣٦)</b>
-                                    <span>ام كلثوم (مصر)</span>
-                                    <span>تلحين زكريّا احمد (مصر)</span>
+                                    <span>ام كلثوم</span>
+                                    <span>الحان زكريّا احمد (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -85,10 +85,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>اغنية غنّيلي شوي شوي (١٩٤٥)</b>
-                                    <span>ام كلثوم (مصر)</span>
+                                    <b>اغنية غنّيلي شوية شوية (١٩٤٥)</b>
+                                    <span>ام كلثوم</span>
                                     <span>كلمات بيرم التونسي (مصر)</span>
-                                    <span>تلحين زكريّا احمد (مصر)</span>
+                                    <span>الحان زكريّا احمد (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -100,7 +100,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>مقطوعة رقصة السوس (١٩٧٤)</b>
-                                    <span>الحان الأخوين رحباني</span>
+                                    <span>الحان الأخوين رحباني (لبنان)</span>
                                     <span>(من المسرحية الغنائية لولو)</span>
                                 </div>
                             </label>
@@ -126,7 +126,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشح ما احتيالي (خانة)</b>
                                     <span>غناء عائشة رضوان (المغرب)</span>
-                                    <span><img src="/img/cd.png">Arabesques Vocales &copy; 2000</span>
+                                    <span>الحان احمد ابو خليل القبّاني (سوريا)</span>
                                 </div>
                             </label>
                         </div>
@@ -150,8 +150,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>تحميلة راست (سوزناك)</b>
-                                    <span>غناء عائشة رضوان (المغرب)</span>
-                                    <span><img src="/img/cd.png"> Arabesques Vocales &copy; 2000</span>
+                                    <span>الفرقة المرافقة لعائشة رضوان (المغرب)</span>
                                 </div>
                             </label>
                         </div>
@@ -175,7 +174,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>تقسيم على الكمان</b>
-                                    <span>عبده داغِر</span>
+                                    <span>عبده داغِر (مصر)</span>
                                     <span><img src="/img/cd.png">أسطوانة الجبالي</span>
                                 </div>
                             </label>
@@ -200,8 +199,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية ابعد عنّي عيونك</b>
-                                    <span>غناء ياسمين الخيّام</span>
-                                    <span>تلحين محمد عبد الوهاب</span>
+                                    <span>غناء ياسمين الخيّام (مصر)</span>
+                                    <span>الحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -214,8 +213,8 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>عزف منفرد على الناي </b>
                                     <span>اغنية ابعد عنّي عيونك</span>
-                                    <span>غناء ياسمين الخيّام</span>
-                                    <span>تلحين محمد عبد الوهاب</span>
+                                    <span>غناء ياسمين الخيّام (مصر)</span>
+                                    <span>الحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>
