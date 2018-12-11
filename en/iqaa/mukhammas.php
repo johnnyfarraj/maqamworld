@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                     <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
                                     <span>Conductor: Aïda Shalhoub Ziadé</span>
                                     <span>Music by by Muhammad ‘Uthman</span>
-                                    <span><img src="/img/cd.png"> Orientalia: Muwashah and Somg series</span>
+                                    <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>
                             </label>
                         </div>
