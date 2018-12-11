@@ -32,7 +32,7 @@ include($ROOT . 'inc/head.php');
                         <h1>جنس صَبا دَلَنشين <span class="badge badge-custom">جديد</span></h1>
                         <h3>صنف من اصناف
                             <a href="saba.php">جنس الصَبا</a>
-                            يقع قراره على الدرجته الثالثة
+                            يقع قراره على درجته الثالثة
                         </h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الاجناس</a>

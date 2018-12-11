@@ -127,7 +127,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>دولاب نهاوند</b>
-                                    <span>عائشة رضوان (المغرب - فرنسا)</span>
+                                    <span>الفرقة المرافقة لعائشة رضوان (المغرب - فرنسا)</span>
                                     <span><img src="/img/cd.png"> اسطوانة مصر</span>
                                 </div>
                             </label>

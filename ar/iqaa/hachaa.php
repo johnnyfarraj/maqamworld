@@ -31,7 +31,7 @@ include($ROOT . 'inc/head.php');
                     <div class="heading jins text-center">
                         <h1>إيقاع هَجَع ٤/٤</h1>
                         <h3>(يُلفظ هَشَع او هَجَع)</h3>
-                        <h3>يأتي ايضاً على وزن ٤/٤ و٦/٤</h3>
+                        <h3>يأتي ايضاً على وزن ٢/٤ و٦/٤</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الايقاعات</a>
@@ -59,7 +59,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>بحمدك يا الهي</b>
-                                    <span>إنشاد الشيخ حمزة شكّور (سوريا)</span>
+                                    <span>بطانة الشيخ حمزة شكّور (سوريا)</span>
                                     <span>فرقة الكندي (سوريا - فرنسا)</span>
                                     <span>بقيادة جوليان جلال الدين فايس (فرنسا)</span>
                                 </div>
@@ -73,7 +73,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>سبحان</b>
-                                    <span>إنشاد الشيخ حمزة شكّور (سوريا)</span>
+                                    <span>إنشاد الشيخ احمد حبوش (سوريا)</span>
                                     <span>فرقة الكندي (سوريا - فرنسا)</span>
                                     <span>بقيادة جوليان جلال الدين فايس (فرنسا)</span>
                                 </div>

@@ -146,7 +146,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>قد يا ماسعدك صباحية</b>
+                                    <b>قد يا ماسعد الصباحية</b>
                                     <span>غناء صباح فخري (سوريا)</span>
                                     <span>(اللحن قديم)</span>
                                 </div>

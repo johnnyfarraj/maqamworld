@@ -128,7 +128,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>تقسام قانون مقام سوزناك</b>
+                                    <b>تقسيم قانون من مقام سوزناك</b>
                                     <span>ابراهام سلمان (العراق)</span>
                                     <span><img src="/img/cd.png"> اسطوانة سلطنة</span>
                                 </div>

@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>موشّح بدت من الخدر (خانة)</b>
-                                    <span>غناء عايدة شلهوب (لبنان)</span>
+                                    <span>غناء الفرقة المرافقة لعايدة شلهوب (لبنان)</span>
                                     <span>اعداد وتوزيع الاب لويس الحاج (لبنان)</span>
                                 </div>
                             </label>

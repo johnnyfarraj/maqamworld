@@ -189,7 +189,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>دولاب حجاز وتقسم ناي</b>
+                                    <b>دولاب حجاز وتقسيم ناي</b>
                                     <span>المطرب صباح فخري (حلب)</span>
                                     <span>سلسلة نغم الامس - الجزء الرابع عشر (<a href"hijaz.php">مقام حجاز</a>)</span>
                                 </div>

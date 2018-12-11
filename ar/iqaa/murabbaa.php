@@ -92,7 +92,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>موشّح جلّ من قد انشأ جمالك</b>
+                                    <b>موشّح جلّ من انشأ جمالك</b>
                                     <span>غناء عمر السرميني (سوريا)</span>
                                     <span>فرقة الكندي (سوريا - فرنسا)</span>
                                     <span>بقيادة جوليان جلال الدين فايس (فرنسا)</span>
