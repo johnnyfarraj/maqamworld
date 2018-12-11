@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Iqa‘ Muhajjar";
 $page_description = "Iqa‘ Muhajjar";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, muhajjar, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "en"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "en";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -18,7 +18,7 @@ include($ROOT . 'inc/head.php');
       $page = "en/iqaa/muhajjar.php";
       include($ROOT . 'inc/menu.php');
     ?>
-    
+
     <div class="page">
         <div class="container">
             <div class="row">
@@ -27,29 +27,29 @@ include($ROOT . 'inc/head.php');
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
-                    
+
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Muhajjar 14/4</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
                     <div class="clearfix"></div>
-                    
+
                     <div class="text-center mt-2 mb-3">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/muhajjar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Muhajjar</a>
                     </div>
-                    
+
                     <div class="notation">
                         <img src="/note/iqaa/muhajjar.png" class="img-fluid">
                     </div>
-                    
+
                     <p>Iqa‘ Muhajjar is a very popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> repertoire. It is immediately recognizable by the 3 consecutive <em>dum</em>-s that open the measure. The word "muhajjar" in Arabic means made of/turned into stone.</p>
-                    
+
                     <div class="player-area">
                         <audio id="player" controls>
                             <source src="/audio/iqaa/muhajjar/badat_min_al_khidri.mp3" type="audio/mp3">
                         </audio>
                     </div>
-                    
+
                     <div class="track " data-song="/audio/iqaa/muhajjar/badat_min_al_khidri.mp3">
                         <div class="radio">
                             <label>
@@ -61,7 +61,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/muhajjar/hajarni_habibi.mp3">
                         <div class="radio">
                             <label>
@@ -73,7 +73,7 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/muhajjar/hal_3ala_al_astar.mp3">
                         <div class="radio">
                             <label>
@@ -85,15 +85,17 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/muhajjar/munyati.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Muyati ‘Azza Istibari</b>
-                                    <span>Orientalia</span>
+                                    <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
+                                    <span>Conductor: Aïda Shalhoub Ziadé</span>
                                     <span>Music by Sayyed Darwish</span>
+                                    <span><img src="/img/cd.png"> Orientalia: Muwashah and Somg series</span>
                                 </div>
                             </label>
                         </div>
@@ -118,9 +120,9 @@ include($ROOT . 'inc/head.php');
             </div>
         </div>
     </div>
-    
+
     <?php include($ROOT . 'en/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
-    
+
   </body>
 </html>

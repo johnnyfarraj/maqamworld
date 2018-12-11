@@ -71,8 +71,6 @@ include($ROOT . 'inc/head.php');
 		</h5>
 		<br>
 
-
-
                     <h5>انظر الى مقامات اخرى في <a href="f_rast.php">عائلة مقام الراست</a>.</h5>
 		<br>
 
@@ -88,8 +86,10 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>موشّح صحتُ وجداً</b>
-                                    <span>اوريانتاليا</span>
+                                    <span>فرقة الغناء الشرقي - جامعة الروح القدس في الكسليك</span>
+                                    <span>بقيادة عايدة شلهوب زيادة</span>
                                     <span>الحان الشيخ سيّد درويش (مصر)</span>
+                                    <span><img src="/img/cd.png"> سلسلة اسطوانات اوريانتاليا: موشّح وأغنية</span>
                                 </div>
                             </label>
                         </div>

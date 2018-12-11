@@ -97,7 +97,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>موشح بدري ادِر</b>
-                                    <span>اوريانتاليا</span>
+                                    <span>فرقة الغناء الشرقي - جامعة الروح القدس في الكسليك</span>
+                                    <span>بقيادة عايدة شلهوب زيادة</span>
+                                    <span><img src="/img/cd.png"> سلسلة اسطوانات اوريانتاليا: موشّح وأغنية</span>
                                 </div>
                             </label>
                         </div>
