@@ -85,8 +85,10 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>موشّح طف يا دُرّي</b>
-                                    <span>اوريانتاليا</span>
+                                    <span>فرقة الغناء الشرقي - جامعة الروح القدس في الكسليك</span>
+                                    <span>بقيادة عايدة شلهوب زيادة</span>
                                     <span>الحان الشيخ سيّد درويش (مصر) وعمر البطش (سوريا)</span>
+                                    <span><img src="/img/cd.png"> سلسلة اسطوانات اوريانتاليا: موشّح وأغنية</span>
                                 </div>
                             </label>
                         </div>
@@ -98,8 +100,10 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>موشّح حبي زرني ما تيسّر</b>
-                                    <span>اوريانتاليا</span>
+                                    <span>فرقة الغناء الشرقي - جامعة الروح القدس في الكسليك</span>
+                                    <span>بقيادة عايدة شلهوب زيادة</span>
                                     <span>الحان درويش الحريري (مصر)</span>
+                                    <span><img src="/img/cd.png"> سلسلة اسطوانات اوريانتاليا: موشّح وأغنية</span>
                                 </div>
                             </label>
                         </div>

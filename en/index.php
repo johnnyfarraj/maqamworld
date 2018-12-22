@@ -7,7 +7,7 @@ include('../inc/config.php');
 $page_title = "";
 $page_description = "";
 $page_keywords = "";
-$page_language = "en"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "en";
 include($ROOT . 'inc/head.php');
 ?>
 
@@ -28,20 +28,31 @@ include($ROOT . 'inc/head.php');
                         <h3>MaqamWorld is an online resource dedicated to teaching the Arabic Maqam modal system, which is the foundation of traditional Arabic music. This website mainly covers music from the Eastern Mediterranean part of the Arab World (Egypt, Palestine, Jordan, Lebanon and Syria), with a focus on the early to mid-twentieth century period.</h3>
 
                     </div>
-                    <p>After 17 years in operation, MaqamWorld is being rebuilt with the help of a 2016 grant from <a href="http://arabculturefund.org/grantees/grantee.php?id=333" target="_blank">The Arab Fund for Arts and Culture (AFAC)</a>. MaqamWorld will include the following new features:</p>
+                    <p>After 17 years in operation, MaqamWorld has been rebuilt with the help of a 2016 grant
+                    from <a href="http://arabculturefund.org/grantees/grantee.php?id=333" target="_blank">The Arab Fund for Arts and Culture (AFAC)</a>.
+                    MaqamWorld includes the following new features:</p>
 
                     <ul>
-                        <li>Updated and more relevant content.</li>
+                        <li>A full translation to Arabic and German (Spanish and French are under construction).</li>
                         <li>Support of displays of all sizes (especially smart phones).</li>
                         <li>Google Search.</li>
-                        <li>A full translation to Arabic (under construction).</li>
+                        <li>Updated and more relevant content.</li>
                         <li>Higher quality images and audio samples.</li>
                         <li>Better navigation menus and sub-menus.</li>
                         <li>Clickable notes that generate sound.</li>
                         <li>A "Contact Us" page for viewer feedback.</li>
                     </ul>
 
-                    <p>I am happy to announce an upcoming book co-authored with my friend Sami Abu Shumays (creator of <a href="http://maqamlessons.com" target="_blank">MaqamLessons</a>). The upcoming book is entitled <a href="en/book.php">INSIDE ARABIC MUSIC</a>, and is expected to be published by <a href="http://oup.com" target="_blank">Oxford University Press</a> around February 2019. This book will be a comprehensive reference on Arabic Music and this website will act like its companion. The book project was the recipient of a 2012 grant from <a href="http://arabculturefund.org" target="_blank">AFAC</a>.</p>
+                    <p>I am happy to announce an upcoming book co-authored with my friend Sami Abu Shumays
+                    (creator of <a href="http://maqamlessons.com" target="_blank">MaqamLessons</a>).
+                    The book is entitled <a href="en/book.php">INSIDE ARABIC MUSIC</a>,
+                    and is expected to be published
+                    by <a href="http://oup.com" target="_blank">Oxford University Press</a>
+                    around February/March 2019.
+                    The book will be a comprehensive reference on Arabic Music and this website
+                    will act like its companion.
+                    The book project was the recipient of a 2012 grant
+                    from <a href="http://arabculturefund.org" target="_blank">AFAC</a>.</p>
 
                     <div class="row">
                         <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3">

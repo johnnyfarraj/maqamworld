@@ -213,7 +213,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div id="bashraf" class="heading jins text-center full-width">
-                        <h3>البشرف</h3>
+                        <h3>البَشْرَف</h3>
                     </div>
 
                     <h5>البشرف هو أقل القوالب العثمانية شيوعاً حيث يقتصر ذكره على دروس الموسيقى النظرية أو في سياق التمارين الآلية.

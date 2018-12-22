@@ -95,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>موشّح ملا الكاسات وسقاني</b>
                                     <span>فرقة الكندي (سوريا-فرنسا)</span>
-		<span>بقيادة جوليان جلال الدين فايس (فرنسا)</span>
+			<span>بقيادة جوليان جلال الدين فايس (فرنسا)</span>
                                     <span>الحان محمد عثمان (مصر)</span>
                                 </div>
                             </label>
@@ -108,8 +108,10 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>موشّح يا عُذيب المرشف</b>
-                                    <span>اوريانتاليا</span>
+                                    <span>فرقة الغناء الشرقي - جامعة الروح القدس في الكسليك</span>
+                                    <span>بقيادة عايدة شلهوب زيادة</span>
                                     <span>الحان الشيخ سيّد درويش (مصر)</span>
+                                    <span><img src="/img/cd.png"> سلسلة اسطوانات اوريانتاليا: موشّح وأغنية</span>
                                 </div>
                             </label>
                         </div>

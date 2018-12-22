@@ -53,7 +53,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="448,42,12" href="#" alt="ري" class="playNote" data-frequency="586.66" data-parent="#notation1">
 					  </map>
 
-                    <h5>جنس الراست الاعلى هو من أصناف من
+                    <h5>جنس الراست الاعلى هو من أصناف
                     <a href="rast.php">جنس الراست</a>
                     ذو اربع درجات، يقع قراره في الأعلى (اي على الدرجة الرابعة بدلاً من الدرجة الاولى).
                     وهذه ميزة مشتركة مع

@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Iqa‘ ‘Awis";
 $page_description = "Iqa‘ ‘Awis";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, aqsaq, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "en"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "en";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -71,8 +71,10 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Hibbi Da‘ani Lil-Wisal</b>
-                                    <span>Orientalia</span>
+                                    <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
+                                    <span>Conductor: Aïda Shalhoub Ziadé</span>
                                     <span>Music by Sayyed Darwish</span>
+                                    <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>
                             </label>
                         </div>
@@ -99,9 +101,9 @@ include($ROOT . 'inc/head.php');
             </div>
         </div>
     </div>
-    
+
     <?php include($ROOT . 'en/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
-    
+
   </body>
 </html>

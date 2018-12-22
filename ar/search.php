@@ -4,17 +4,17 @@ function endsWith($haystack, $needle)
 {
     $length = strlen($needle);
 
-    return $length === 0 || 
+    return $length === 0 ||
     (substr($haystack, -$length) === $needle);
 }
 function page_title($url) {
         $fp = file_get_contents($url);
-        if (!$fp) 
+        if (!$fp)
             return null;
 
         $res = preg_match("/<title>(.*)<\/title>/siU", $fp, $title_matches);
-        if (!$res) 
-            return null; 
+        if (!$res)
+            return null;
 
         // Clean up title: remove EOL's and excessive whitespace.
         $title = preg_replace('/\s+/', ' ', $title_matches[1]);
@@ -53,9 +53,9 @@ function searchDirectoryIterator($path, $string){
                 $res = preg_match("/<title>(.*)<\/title>/siU", $content2, $title_matches);
                 $title = preg_replace('/\s+/', ' ', $title_matches[1]);
                 $title = trim($title);
-                
+
                 $appeardTotal = substr_count($content, strtolower($string));
-                
+
                 array_push($files, array("title" => $title, "link" => str_replace('./', 'http://maqamworld.com/ar/', $file->getPathname()), "appereances" => $appeardTotal));
                 $cont++;
             }
@@ -70,7 +70,7 @@ function searchDirectoryIterator($path, $string){
 if(isset($_GET['q']) && strip_tags($_GET['q']) != "" && strlen(strip_tags($_GET['q'])) > 3) {
     searchDirectoryIterator(".", strip_tags($_GET['q']));
     if($cont == 0) {
-        $array = array('status' => "error", 'message' => "No results found.");
+        $array = array('status' => "error", 'message' => "لم يعثر البحث على اي نتائج.");
     } else {
         usort($files, function($a, $b) {
             return $b['appereances'] - $a['appereances'];
@@ -78,7 +78,7 @@ if(isset($_GET['q']) && strip_tags($_GET['q']) != "" && strlen(strip_tags($_GET[
         $array = array('status' => "success", 'files' => $files, 'totalFiles' => $cont);
     }
 } else {
-    $array = array('status' => "error", 'message' => "Please enter keyword (minimum 4 characters).");
+    $array = array('status' => "error", 'message' => "الرجاء ادخال كلمة البحث (٤ احرف على الاقل)");
 }
 
 echo json_encode($array);

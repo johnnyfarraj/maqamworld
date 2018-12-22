@@ -16,7 +16,7 @@
     <li><a href="/ar/iqaa/samai_thaqil.php">سماعي ثقيل ١٠/٨</a></li>
     <li><a href="/ar/iqaa/samai_darij.php">سماعي دارج ٣/٤</a></li>
     <li><a href="/ar/iqaa/samai_saraband.php">سماعي سربند ٣/٨</a></li>
-    <li><a href="/ar/iqaa/ciftetelli.php">شفتتلّي ٨/٤</a></li>
+    <li><a href="/ar/iqaa/ciftetelli.php">شفته تلّي ٨/٤</a></li>
     <li><a href="/ar/iqaa/saidi.php">صعيدي ٤/٤</a></li>
     <li><a href="/ar/iqaa/dharafat.php">ظرافات ١٣/٨</a></li>
     <li><a href="/ar/iqaa/awis.php">عويص ١١/٨</a></li>
