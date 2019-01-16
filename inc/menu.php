@@ -62,88 +62,13 @@
         <!-- Navigation -->
         <nav class="navbar navbar-expand-md navbar-dark bg-dark">
             <div class="container">
-
+                <!-- Navbar -->
                 <?php if($page_language == "en") { ?>
-                <!-- Navbar -->
-                <div class="collapse navbar-collapse" id="navbarDefault">
-                    <ul class="navbar-nav mr-auto">
-                        <li class="nav-item <?php if($page == "en/index.php") { echo "active"; } ?>">
-                            <a class="nav-link" href="/en/index.php"><i class="fa fa-fw fa-home"></i></a>
-                        </li>
-                        <li class="nav-item <?php if($page == "en/instr.php") { echo "active"; } ?>">
-                            <a class="nav-link" href="/en/instr.php">Instruments</a>
-                        </li>
-                        <li class="nav-item <?php if($page == "en/forms.php") { echo "active"; } ?>">
-                            <a class="nav-link" href="/en/forms.php">Forms</a>
-                        </li>
-                        <li class="nav-item <?php if($page == "en/jins.php") { echo "active"; } ?>">
-                            <a class="nav-link" href="/en/jins.php">Jins</a>
-                        </li>
-                        <li class="nav-item <?php if($page == "en/maqam.php") { echo "active"; } ?>">
-                            <a class="nav-link" href="/en/maqam.php">Maqam</a>
-                        </li>
-                        <li class="nav-item <?php if($page == "en/iqaa.php") { echo "active"; } ?>">
-                            <a class="nav-link" href="/en/iqaa.php">Rhythms</a>
-                        </li>
-                        <li class="nav-item <?php if($page == "en/book.php") { echo "active"; } ?>">
-                            <a class="nav-link" href="/en/book.php">Book</a>
-                        </li>
-                    </ul>
-                </div>
+	                <?php include($ROOT . 'en/navbar.php');?>
                 <?php } else if($page_language == "ar") { ?>
-                <!-- Navbar -->
-                <div class="collapse navbar-collapse" id="navbarDefault">
-                    <ul class="navbar-nav mr-auto">
-                        <li class="nav-item <?php if($page == "ar/index.php") { echo "active"; } ?>">
-                            <a class="nav-link" href="/ar/index.php"><i class="fa fa-fw fa-home"></i></a>
-                        </li>
-                        <li class="nav-item <?php if($page == "ar/instr.php") { echo "active"; } ?>">
-                            <a class="nav-link" href="/ar/instr.php">الآلات</a>
-                        </li>
-                        <li class="nav-item <?php if($page == "ar/forms.php") { echo "active"; } ?>">
-                            <a class="nav-link" href="/ar/forms.php">القوالب</a>
-                        </li>
-                        <li class="nav-item <?php if($page == "ar/jins.php") { echo "active"; } ?>">
-                            <a class="nav-link" href="/ar/jins.php">الاجناس</a>
-                        </li>
-                        <li class="nav-item <?php if($page == "ar/maqam.php") { echo "active"; } ?>">
-                            <a class="nav-link" href="/ar/maqam.php">المقامات</a>
-                        </li>
-                        <li class="nav-item <?php if($page == "ar/iqaa.php") { echo "active"; } ?>">
-                            <a class="nav-link" href="/ar/iqaa.php">الايقاعات</a>
-                        </li>
-                        <li class="nav-item <?php if($page == "ar/book.php") { echo "active"; } ?>">
-                            <a class="nav-link" href="/ar/book.php">الإصدارات</a>
-                        </li>
-                    </ul>
-                </div>
+	                <?php include($ROOT . 'ar/navbar.php');?>
                 <?php } else if($page_language == "de") { ?>
-                <!-- Navbar -->
-                <div class="collapse navbar-collapse" id="navbarDefault">
-					<ul class="navbar-nav mr-auto">
-						<li class="nav-item <?php if($page == "de/index.php") { echo "active"; } ?>">
-							<a class="nav-link" href="/de/index.php"><i class="fa fa-fw fa-home"></i></a>
-						</li>
-						<li class="nav-item <?php if($page == "ar/instr.php") { echo "active"; } ?>">
-							<a class="nav-link" href="/de/instr.php">Instrumente</a>
-						</li>
-						<li class="nav-item <?php if($page == "ar/forms.php") { echo "active"; } ?>">
-							<a class="nav-link" href="/de/forms.php">Formen</a>
-						</li>
-						<li class="nav-item <?php if($page == "ar/jins.php") { echo "active"; } ?>">
-							<a class="nav-link" href="/de/jins.php">Jins</a>
-						</li>
-						<li class="nav-item <?php if($page == "ar/maqam.php") { echo "active"; } ?>">
-							<a class="nav-link" href="/de/maqam.php">Maqam</a>
-						</li>
-						<li class="nav-item <?php if($page == "ar/iqaa.php") { echo "active"; } ?>">
-							<a class="nav-link" href="/de/iqaa.php">Rhythmus</a>
-						</li>
-						<li class="nav-item <?php if($page == "ar/book.php") { echo "active"; } ?>">
-							<a class="nav-link" href="/de/book.php">Buch</a>
-						</li>
-					</ul>
-				</div>
+	                <?php include($ROOT . 'de/navbar.php');?>
                 <?php } ?>
             </div>
         </nav>
