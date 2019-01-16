@@ -10,7 +10,7 @@
     <li><a href="/en/instr/katim.php">Katim</a></li>
     <li><a href="/en/instr/nay.php">Nay</a></li>
     <li><a href="/en/instr/keyboard.php">Oriental Keyboard</a></li>
-    <li><a href="/en/instr/oud.php">Oud ('Ud)</a></li>
+    <li><a href="/en/instr/oud.php">Oud (‘Ud)</a></li>
     <li><a href="/en/instr/piano.php">Piano</a></li>
     <li><a href="/en/instr/qanun.php">Qanun</a></li>
     <li><a href="/en/instr/riqq.php">Riqq</a></li>
