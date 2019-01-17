@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="forms-page">
 
     <?php
-      $page = "en/forms.php";
+      $page = "fr/forms.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
 
-    <?php include($ROOT . 'en/footer.php'); ?>
+    <?php include($ROOT . 'fr/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
 
     </body>

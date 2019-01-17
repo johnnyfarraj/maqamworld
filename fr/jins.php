@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="jins-page">
 
     <?php
-      $page = "en/jins.php";
+      $page = "fr/jins.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -109,7 +109,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
 
-    <?php include($ROOT . 'en/footer.php'); ?>
+    <?php include($ROOT . 'fr/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
 
   </body>

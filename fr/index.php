@@ -25,10 +25,10 @@ include($ROOT . 'inc/head.php');
                     <div class="heading">
                         <h1>Bienvenue sur le nouveau <span>Monde du Maqam</span></h1>
 
-                        <h3>Le Monde du Maqam est une ressource en ligne dédiée à l'enseignement du système modal arabe, 
-		le Maqam, qui est le fondement de la musique traditionnelle arabe. 
-		Ce site web est dédié en particulier à la musique du monde arabe de l'est de la 
-		Méditerranée (l'Égypte, la Palestine, la Jordanie, le Liban et la Syrie) 
+                        <h3>Le Monde du Maqam est une ressource en ligne dédiée à l'enseignement du système modal arabe,
+		le Maqam, qui est le fondement de la musique traditionnelle arabe.
+		Ce site web est dédié en particulier à la musique du monde arabe de l'est de la
+		Méditerranée (l'Égypte, la Palestine, la Jordanie, le Liban et la Syrie)
 		avec une emphase particulière sur la période se situant du début au milieu du vingtième siècle.</h3>
 
                     </div>
@@ -48,14 +48,14 @@ include($ROOT . 'inc/head.php');
                         <li>Une page 'Pour nous contacter' pour les commentaires des utilisateurs.</li>
                     </ul>
 
-                    <p>Je suis heureux d'annoncer la venue d'un livre coécrit avec mon ami Sami Abu Shumays 
+                    <p>Je suis heureux d'annoncer la venue d'un livre coécrit avec mon ami Sami Abu Shumays
 		(le créateur de <a href="http://maqamlessons.com" target="_blank">MaqamLessons</a>).
-                    Le livre est intitulé <a href="en/book.php">INSIDE ARABIC MUSIC</a>,
+                    Le livre est intitulé <a href="fr/book.php">INSIDE ARABIC MUSIC</a>,
                     et il devrait être publié en anglais par <a href="http://oup.com" target="_blank">Oxford University Press</a>
                     aux alentours de Mai 2019.
-                    Le livre sera une référence complète sur la musique arabe 
-		et ce site web en sera l'accompagnement. 
-		Ce projet de livre a été egalement le récipiendaire d'une bourse 
+                    Le livre sera une référence complète sur la musique arabe
+		et ce site web en sera l'accompagnement.
+		Ce projet de livre a été egalement le récipiendaire d'une bourse
 		de l'<a href="http://arabculturefund.org" target="_blank">AFAC</a> en 2012.</p>
 
                     <div class="row">
@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                 <img class="card-img-top" src="/img/nahat_round.png" alt="L'oud arabe">
                                 <div class="card-body">
                                     <h5 class="card-title">Rythme</h5>
-                                    <p class="card-text">Apprenez à propos des cycles rythmiques arabes appelés <b>Iqa‘</b> 
+                                    <p class="card-text">Apprenez à propos des cycles rythmiques arabes appelés <b>Iqa‘</b>
 				construits à partir des sons <em>doum</em> and <em>tak</em>.</p>
                                     <a href="/fr/iqaa.php" class="btn btn-primary">Rythme<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
@@ -95,8 +95,8 @@ include($ROOT . 'inc/head.php');
                                 <img class="card-img-top" src="/img/nahat_etching.png" alt="L'oud arabe">
                                 <div class="card-body">
                                     <h5 class="card-title">Formes</h5>
-                                    <p class="card-text">Apprenez à propos des formes musicales arabes appelés <b>Qawalib</b>, 
-				utilisées tant pour la musique vocale que la musique instrumentale, 
+                                    <p class="card-text">Apprenez à propos des formes musicales arabes appelés <b>Qawalib</b>,
+				utilisées tant pour la musique vocale que la musique instrumentale,
 				que ces dernières soient composées ou improvisées. </p>
                                     <a href="/fr/forms.php" class="btn btn-primary">Formes<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                                 <img class="card-img-top" src="/img/nahat_names.png" alt="L'oud arabe">
                                 <div class="card-body">
                                     <h5 class="card-title">Instruments</h5>
-                                    <p class="card-text">Apprenez à propos des instruments traditionnels arabes, 
+                                    <p class="card-text">Apprenez à propos des instruments traditionnels arabes,
 				mélodiques et percussifs et à propos des instruments occidentaux qui ont été 'arabisés'.</p>
                                     <a href="/fr/instr.php" class="btn btn-primary">Instruments<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
@@ -118,7 +118,7 @@ include($ROOT . 'inc/head.php');
                                 <img class="card-img-top" src="/img/vladimir_tamari.png" alt="L'oud arabe">
                                 <div class="card-body">
                                     <h5 class="card-title">Publications</h5>
-                                    <p class="card-text">De l'information au sujet du livre 'Inside Arabic Music' 
+                                    <p class="card-text">De l'information au sujet du livre 'Inside Arabic Music'
 				(coécrit avec Sami Abu Shumays) dont la publication est prévue en Mai 2019.</p>
                                     <a href="/fr/book.php" class="btn btn-primary">Publications<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>

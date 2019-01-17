@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
  <body class="maqams-page">
 
   <?php
-   $page = "en/maqam.php";
+   $page = "fr/maqam.php";
    include($ROOT . 'inc/menu.php');
   ?>
 
@@ -78,7 +78,7 @@ include($ROOT . 'inc/head.php');
     </div>
   </div>
 
-  <?php include($ROOT . 'en/footer.php'); ?>
+  <?php include($ROOT . 'fr/footer.php'); ?>
   <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
 
  </body>
