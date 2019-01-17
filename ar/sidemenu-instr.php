@@ -21,28 +21,3 @@
     <li><a href="/ar/instr/nay.php">الناي</a></li>
     <li><a href="/ar/instr/org.php">اورغ السبعينات</a></li>
 </ul>
-
-<!-- Accept Hash after URL -->
-<script>
-    $(document).ready(function() {
-        var hash = window.location.hash;
-        if(hash != "") {
-            $("a:regex(href, .*" + hash + "$)").parent().addClass("active");
-        }
-        $(".sub-menu li a:regex(href, ^" + window.location.pathname +"#.*)").click(function(e) {
-            e.preventDefault();
-            $(".sub-menu li").removeClass("active");
-            $(this).parent().addClass("active");
-            var element = $(this).prop("hash");
-            $('html, body').animate({
-                scrollTop: $(element).offset().top - $("header").outerHeight() - 5
-            }, 600);
-        })
-        if (location.hash) {
-            var element = location.hash;
-            $('html, body').animate({
-                scrollTop: $(element).offset().top - $("header").outerHeight() - 5
-            }, 600);
-        }
-    })
-</script>
