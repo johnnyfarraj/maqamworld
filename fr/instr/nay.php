@@ -37,7 +37,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
-                        <img src="/instr/nay.jpg" alt="The Nay">
+                        <img src="/instr/nay.jpg" alt="Le Nay">
                         <span>A set of 7 Lebanese nayat made by Atif Wehbi. &copy; MaqamWorld</span>
                     </div>
 
