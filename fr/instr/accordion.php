@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "The Arabic Accordion";
-$page_description = "The Arabic Accordion";
-$page_keywords = "arabic, music, istruments, arab world, middle east, oud, 'ud, qanun, nay, buzuq, riqq, tabla, bendir, sagat, tabl baladi, violin";
+$page_title = "L'Accordéon";
+$page_description = "L'Accordéon";
+$page_keywords = "arabe, musique, instruments, accordéon, bouzouk, daff, mazhar, guitare électrique, katème, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
 $page_language = "en";
 
 include($ROOT . 'inc/head.php');
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="instruments-page">
 
     <?php
-      $page = "en/instr/accordion.php";
+      $page = "fr/instr/accordion.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -23,21 +23,21 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Instrument Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Instruments</a>
                     <?php include('../sidemenu-instr.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>The Arabic Accordion</h1>
+                        <h1>L'Accordéon</h1>
                         <h3>An Accordion altered to include quartertone notes</h3>
                     </div>
 
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Instrument Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Instruments</a>
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
-                        <img src="/instr/accordion.jpg" alt="The Arabic Accordion">
+                        <img src="/instr/accordion.jpg" alt="L'Accordéon Arabe">
                         <span>Faruq Salama playing accordion on Umm Kulthum's "Ya Msahharni", Cairo, 1971</span>
                     </div>
 
@@ -127,18 +127,17 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-
-                    <p>Explore other Arabized instruments:</p>
+                    <p>Explorer d'autres instruments arabisés:</p>
                     <ul>
-                        <!--
-                       <li><a href="accordion.php">The Arabic Accordion</a></li>
-                        -->
-                       <li><a href="guitar.php">The Electric Guitar</a></li>
-                       <li><a href="org.php">The Arabic Org</a></li>
-                       <li><a href="keyboard.php">The Oriental Keyboard</a></li>
-                       <li><a href="piano.php">The Arabic Piano</a></li>
-                       <li><a href="saxophone.php">The Saxophone</a></li>
-                       <li><a href="trumpet.php">The Trumpet</a></li>
+                    	<!--
+						<li><a href="accordion.php">L'Accordéon</a></li>
+						-->
+						<li><a href="guitar.php">La Guitare Électrique</a></li>
+						<li><a href="org.php">L'Orgue Électrique</a></li>
+						<li><a href="keyboard.php">Le Synthétiseur oriental</a></li>
+						<li><a href="piano.php">Le Piano</a></li>
+						<li><a href="saxophone.php">Le Saxophone</a></li>
+						<li><a href="trumpet.php">La Trompette</a></li>
                    </ul>
 
                 </div>
@@ -149,7 +148,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
 
-    <?php include($ROOT . 'en/footer.php'); ?>
+    <?php include($ROOT . 'fr/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
 
     </body>

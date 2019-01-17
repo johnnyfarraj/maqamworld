@@ -4,10 +4,10 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "The Arabic Trumpet";
-$page_description = "The Arabic Trumpet";
-$page_keywords = "arabic, music, istruments, arab world, middle east, oud, 'ud, qanun, nay, buzuq, riqq, tabla, bendir, sagat, tabl baladi, violin";
-$page_language = "en"; // en / ar <!-- YOU MUST PUT THIS -->
+$page_title = "La Trompette";
+$page_description = "La Trompette";
+$page_keywords = "arabe, musique, instruments, accordéon, bouzouk, daff, mazhar, guitare électrique, katème, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
+$page_language = "fr"; // YOU MUST PUT THIS
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="instruments-page">
 
     <?php
-      $page = "en/instr/trumpet.php";
+      $page = "fr/instr/trumpet.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -23,17 +23,17 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Instrument Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Instruments</a>
                     <?php include('../sidemenu-instr.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>The Arabic Trumpet</h1>
+                        <h1>La Trompette</h1>
                         <h3>A Trumpet used to play Arabic <a href="../maqam.php">Maqam</a> scales</h3>
                     </div>
 
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Instrument Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Instruments</a>
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
@@ -114,17 +114,17 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <p>Explore other Arabized instruments:</p>
+                    <p>Explorer d'autres instruments arabisés:</p>
                     <ul>
-                       <li><a href="accordion.php">The Arabic Accordion</a></li>
-                       <li><a href="guitar.php">The Electric Guitar</a></li>
-                       <li><a href="org.php">The Arabic Org</a></li>
-                       <li><a href="keyboard.php">The Oriental Keyboard</a></li>
-                       <li><a href="piano.php">The Arabic Piano</a></li>
-                       <li><a href="saxophone.php">The Saxophone</a></li>
-                        <!--
-                       <li><a href="trumpet.php">The Trumpet</a></li>
-                        -->
+						<li><a href="accordion.php">L'Accordéon</a></li>
+						<li><a href="guitar.php">La Guitare Électrique</a></li>
+						<li><a href="org.php">L'Orgue Électrique</a></li>
+						<li><a href="keyboard.php">Le Synthétiseur oriental</a></li>
+						<li><a href="piano.php">Le Piano</a></li>
+						<li><a href="saxophone.php">Le Saxophone</a></li>
+                    	<!--
+						<li><a href="trumpet.php">La Trompette</a></li>
+						-->
                    </ul>
 
                 </div>
@@ -135,7 +135,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
 
-    <?php include($ROOT . 'en/footer.php'); ?>
+    <?php include($ROOT . 'fr/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
 
     </body>

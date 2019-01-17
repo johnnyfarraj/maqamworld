@@ -29,7 +29,7 @@ include($ROOT . 'inc/head.php');
                     </div>
                     <form action="contact.php" method="post" class="contact-form">
                         <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Prenom" autocomplete="off" name="firstname" required>
+                            <input type="text" class="form-control" placeholder="Prénom" autocomplete="off" name="firstname" required>
                         </div>
                         <div class="form-group">
                             <input type="text" class="form-control" placeholder="Nom" autocomplete="off" name="lastname" required>

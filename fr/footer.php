@@ -5,7 +5,9 @@
             <div class="col-sm-4"> <img src="/img/logo-bottom.png" height="30" class="footer-logo">
                 <p>&copy; 2001-2018 MaqamWorld
                 <br>Tous droits réservés.
-                <br>Conception et codage: <a href="http://filiptodorov.com" target="_blank">Filip Todorov</a></p>
+                <br>Conception et codage: <a href="http://filiptodorov.com" target="_blank">Filip Todorov</a>
+                <br>Traduction française: Nicolas Royer-Artuso
+                </p>
                 <!--
                 <ul class="socials">
                     <li><a href="#"><i class="fa fa-fw fa-facebook"></i></a></li>

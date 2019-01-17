@@ -70,7 +70,7 @@ function searchDirectoryIterator($path, $string){
 if(isset($_GET['q']) && strip_tags($_GET['q']) != "" && strlen(strip_tags($_GET['q'])) > 3) {
     searchDirectoryIterator(".", strip_tags($_GET['q']));
     if($cont == 0) {
-        $array = array('status' => "error", 'message' => "No results found.");
+        $array = array('status' => "error", 'message' => "Pas de resultats.");
     } else {
         usort($files, function($a, $b) {
             return $b['appereances'] - $a['appereances'];
