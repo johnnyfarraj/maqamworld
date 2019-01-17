@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body>
 
     <?php
-      $page = "en/contact.php";
+      $page = "fr/contact.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -24,15 +24,15 @@ include($ROOT . 'inc/head.php');
             <div class="row align-items-center">
                 <div class="col-sm-4 ml-auto mr-auto">
                     <div class="heading text-center">
-                        <h1>Contact Us</h1>
+                        <h1>Contactez Nous</h1>
                         <h3>Maqam World takes your opinion seriously and will respond to your comments as soon as possible.</h3>
                     </div>
                     <form action="contact.php" method="post" class="contact-form">
                         <div class="form-group">
-                            <input type="text" class="form-control" placeholder="First Name" autocomplete="off" name="firstname" required>
+                            <input type="text" class="form-control" placeholder="Prenom" autocomplete="off" name="firstname" required>
                         </div>
                         <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Last Name" autocomplete="off" name="lastname" required>
+                            <input type="text" class="form-control" placeholder="Nom" autocomplete="off" name="lastname" required>
                         </div>
                         <div class="form-group">
                             <input type="email" class="form-control" placeholder="Email" autocomplete="off" name="email" required>
@@ -51,7 +51,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
 
-    <?php include($ROOT . 'en/footer.php'); ?>
+    <?php include($ROOT . 'fr/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
 
     <script>

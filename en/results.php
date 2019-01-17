@@ -63,10 +63,10 @@ $search_string = preg_replace('/[^A-Za-z0-9 "\']/', '', strip_tags(normalizeChar
                     if(result.status == "error") {
                         $("#results").append("<p>" + result.message + "</p>");
                     } else {
-                        $("#results").append("<p>" + result.totalFiles + " matches found for your search term.</p>");
+                        $("#results").append("<p>" + result.totalFiles + " matches found for your search keyword.</p>");
                     }
                     for(var res in result.files) {
-                        $("#results").append('<div><a href="' + result.files[res].link + '" class="search-result">'+ result.files[res].title +'<span>' + result.files[res].link + '</span><b>Found the search string '+ result.files[res].appereances +' times</b></a></div>');
+                        $("#results").append('<div><a href="' + result.files[res].link + '" class="search-result">'+ result.files[res].title +'<span>' + result.files[res].link + '</span><b>Found the search keyword '+ result.files[res].appereances +' times</b></a></div>');
                     }
                 }
             })

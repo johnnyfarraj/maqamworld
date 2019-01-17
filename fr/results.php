@@ -19,7 +19,7 @@ $search_string = preg_replace('/[^A-Za-z0-9 "\']/', '', strip_tags(normalizeChar
   <body>
 
     <?php
-      $page = "en/results.php";
+      $page = "fr/results.php";
       include($ROOT . 'inc/menu.php');
     ?>
     <style>
@@ -37,18 +37,18 @@ $search_string = preg_replace('/[^A-Za-z0-9 "\']/', '', strip_tags(normalizeChar
                 <div class="col-sm-12">
                     <div id="results">
                         <div class="heading">
-                            <h1>Search Results</h1>
-                            <h3>Results for "<?php echo $search_string; ?>"</h3>
+                            <h1>Resultats de Recherche</h1>
+                            <h3>Resultats de "<?php echo $search_string; ?>"</h3>
                         </div>
                         <i class="fa fa-fw fa-circle-o-notch fa-spin fa-2x"></i>
-                        <p>Please wait, we are searching the website.</p>
+                        <p>Veuillez patienter, we are searching the website.</p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 
-    <?php include($ROOT . 'en/footer.php'); ?>
+    <?php include($ROOT . 'fr/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
     <script>
         $(document).ready(function() {
@@ -60,14 +60,14 @@ $search_string = preg_replace('/[^A-Za-z0-9 "\']/', '', strip_tags(normalizeChar
                     console.log(result);
                     $("#results").html("");
                     result = JSON.parse(result);
-                    $("#results").append('<div class="heading"><h1>Search Results</h1><h3>Results for "<?php echo addslashes($search_string); ?>"</h3></div>');
+                    $("#results").append('<div class="heading"><h1>Resultats de Recherche</h1><h3>Resultats de "<?php echo addslashes($search_string); ?>"</h3></div>');
                     if(result.status == "error") {
                         $("#results").append("<p>" + result.message + "</p>");
                     } else {
-                        $("#results").append("<p>" + result.totalFiles + " matches found for your search term.</p>");
+                        $("#results").append("<p>" + result.totalFiles + " matches found for your search keyword.</p>");
                     }
                     for(var res in result.files) {
-                        $("#results").append('<div><a href="' + result.files[res].link + '" class="search-result">'+ result.files[res].title +'<span>' + result.files[res].link + '</span><b>Found the search string '+ result.files[res].appereances +' times</b></a></div>');
+                        $("#results").append('<div><a href="' + result.files[res].link + '" class="search-result">'+ result.files[res].title +'<span>' + result.files[res].link + '</span><b>Found the search keyword '+ result.files[res].appereances +' times</b></a></div>');
                     }
                 }
             })

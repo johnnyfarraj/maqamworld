@@ -34,7 +34,6 @@ include($ROOT . 'inc/head.php');
                     </div>
                     <p>Après 17 annéesd'activité, Le Monde du Maqam a été reconstruit grâce à l'aide d'une bourse gracieusement attribuée par
 		 <a href="http://arabculturefund.org/grantees/grantee.php?id=333" target="_blank">The Arab Fund for Arts and Culture (AFAC)</a> en 2016.
-		<br>
 	            Le Monde du Maqam inclue les nouvelles fonctions suivantes:
 		</p>
 
@@ -65,8 +64,8 @@ include($ROOT . 'inc/head.php');
                                 <img class="card-img-top" src="/img/taoufiq_oud.png" alt="L'oud arabe">
                                 <div class="card-body">
                                     <h5 class="card-title">Maqam</h5>
-                                    <p class="card-text">Learn about the Arabic Maqam modal system with notated scales and recorded examples.</p>
-                                    <a href="/en/maqam.php" class="btn btn-primary">Maqam<i class="fa fa-fw fa-angle-right"></i></a>
+                                    <p class="card-text">Apprenez à propos du système modal arabe, le Maqam, à l'aide de transcriptions des gammes et d'exemples enregistrés.</p>
+                                    <a href="/fr/maqam.php" class="btn btn-primary">Maqam<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -75,8 +74,8 @@ include($ROOT . 'inc/head.php');
                                 <img class="card-img-top" src="/img/nahat_star.png" alt="L'oud arabe">
                                 <div class="card-body">
                                     <h5 class="card-title">Jins</h5>
-                                    <p class="card-text">Learn about the <b>Jins</b>, the scale fragment that is the building block of every Maqam.</p>
-                                    <a href="/en/jins.php" class="btn btn-primary">Jins<i class="fa fa-fw fa-angle-right"></i></a>
+                                    <p class="card-text">Apprenez à propos du <b>Jins<b>, le morceau de gamme qui est l'éléments à l'aide duquel les Maqams sont construits.</p>
+                                    <a href="/fr/jins.php" class="btn btn-primary">Jins<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -85,8 +84,9 @@ include($ROOT . 'inc/head.php');
                                 <img class="card-img-top" src="/img/nahat_round.png" alt="L'oud arabe">
                                 <div class="card-body">
                                     <h5 class="card-title">Rythme</h5>
-                                    <p class="card-text">Learn about the Arabic rythmic cycle called <b>Iqa‘</b>, made of the primitive sounds <em>doum</em> and <em>tak</em>.</p>
-                                    <a href="/en/iqaa.php" class="btn btn-primary">Iqa‘<i class="fa fa-fw fa-angle-right"></i></a>
+                                    <p class="card-text">Apprenez à propos des cycles rythmiques arabes appelés <b>Iqa‘</b> 
+				construits à partir des sons <em>doum</em> and <em>tak</em>.</p>
+                                    <a href="/fr/iqaa.php" class="btn btn-primary">Rythme<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -95,8 +95,10 @@ include($ROOT . 'inc/head.php');
                                 <img class="card-img-top" src="/img/nahat_etching.png" alt="L'oud arabe">
                                 <div class="card-body">
                                     <h5 class="card-title">Formes</h5>
-                                    <p class="card-text">Learn about the Arabic music forms, called <b>Qawalib</b>, used in both vocal and instrumental music, composed and improvised.</p>
-                                    <a href="/en/forms.php" class="btn btn-primary">Forms<i class="fa fa-fw fa-angle-right"></i></a>
+                                    <p class="card-text">Apprenez à propos des formes musicales arabes appelés <b>Qawalib</b>, 
+				utilisées tant pour la musique vocale que la musique instrumentale, 
+				que ces dernières soient composées ou improvisées. </p>
+                                    <a href="/fr/forms.php" class="btn btn-primary">Formes<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -105,8 +107,9 @@ include($ROOT . 'inc/head.php');
                                 <img class="card-img-top" src="/img/nahat_names.png" alt="L'oud arabe">
                                 <div class="card-body">
                                     <h5 class="card-title">Instruments</h5>
-                                    <p class="card-text">Learn about the traditional Arabic Instruments, melodic and percussion, as well as Western instruments that have been "Arabized".</p>
-                                    <a href="/en/instr.php" class="btn btn-primary">Instruments<i class="fa fa-fw fa-angle-right"></i></a>
+                                    <p class="card-text">Apprenez à propos des instruments traditionnels arabes, 
+				mélodiques et percussifs et à propos des instruments occidentaux qui ont été 'arabisés'.</p>
+                                    <a href="/fr/instr.php" class="btn btn-primary">Instruments<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -115,8 +118,9 @@ include($ROOT . 'inc/head.php');
                                 <img class="card-img-top" src="/img/vladimir_tamari.png" alt="L'oud arabe">
                                 <div class="card-body">
                                     <h5 class="card-title">Publications</h5>
-                                    <p class="card-text">Learn about the upcoming book "Inside Arabic Music" (co-authored with Sami Abu Shumays) scheduled for release in May 2019.</p>
-                                    <a href="/en/book.php" class="btn btn-primary">Book<i class="fa fa-fw fa-angle-right"></i></a>
+                                    <p class="card-text">De l'information au sujet du livre 'Inside Arabic Music' 
+				(coécrit avec Sami Abu Shumays) dont la publication est prévue en Mai 2019.</p>
+                                    <a href="/fr/book.php" class="btn btn-primary">Publications<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -133,7 +137,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
 
-    <?php include($ROOT . 'en/footer.php'); ?>
+    <?php include($ROOT . 'fr/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
 
   </body>
