@@ -44,7 +44,7 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/taslim.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Taslim</a>
                     </div>
 
-                    <p>Drei kompositorische Instrumentalformen wurden im neunzehnten Jahrhundert der türkischen, also ottomanischen Musik entlehnt und sind immer noch Teil der arabischen Musik: der Sama’i, die Longa und der Bashraf. Von all diesen hat der Sama’i am besten überlebt, was sich daran zeigt, dass arabische Musiker auch im einundzwanzigsten Jahrhundert immer noch in diesem Format komponieren.
+                    <p>Drei kompositorische Instrumentalformen wurden der türkischen, also ottomanischen Musik entlehnt und sind immer noch Teil der arabischen Musik: der Sama’i, die Longa und der Bashraf. Von all diesen hat der Sama’i am besten überlebt, was sich daran zeigt, dass arabische Musiker auch im einundzwanzigsten Jahrhundert immer noch in diesem Format komponieren.
                     </p>
                     <p>Alle drei Formen basieren auf einem Refrain, der <em>Taslim</em> (im Türkischen heißt er "teslim" = übergeben) genannt wird, und einer Anzahl unterschiedlicher Verse, die <em>Khana</em> (im Türkischen lautet die Bezeichnung "hane" = Haus) genannt werden. Alle drei Formen sind in einem <a href="../maqam.php">Maqam</a> verankert und benutzen dessen <em>Sayr</em> und dessen übliche Modulationen. Aus diesem Grund sind der Maqam (und gewöhnlich auch der Komponist) Teil des Namens der Komposition.
                     </p>
@@ -238,8 +238,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Bashraf Qara Bitaq Sikah (1929)</b>
-                                    <span>Bashraf Qara Batak in Maqam Sikah, aufgenommen 1929 von Sami al-Shawwa (Violine) und Muhammad al-Qasabgi (Oud)</span>
+                                    <b>Bashraf Kara Batak Sikah (1929)</b>
+                                    <span>Bashraf Kara Batak in Maqam Sikah, aufgenommen 1929 von Sami al-Shawwa (Violine) und Muhammad al-Qasabgi (Oud)</span>
                                 </div>
                             </label>
                         </div>

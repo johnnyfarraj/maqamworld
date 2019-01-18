@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/taslim.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Taslim</a>
                     </div>
 
-                    <p>Three instrumental composed forms were borrowed from 19<sup>th</sup> century Turkish/Ottoman music and are still
+                    <p>Three instrumental composed forms were borrowed from Turkish/Ottoman music and are still
                         part of Arabic music today: the Sama‘i, the Longa and the Bashraf. The Sama‘i has survived the best of the three, as Arab musicians continue to compose in this form into the 21<sup>st</sup> century.
                     </p>
                     <p>All three forms are based on a repeating refrain called "<em>taslim</em>" and a number of different verses called "<em>khana</em>". The three compositions are also anchored in a <a href="../maqam.php">maqam</a> and feature that <em>maqam</em>'s <em>sayr</em> as well as its popular modulations. For this reason, the <em>maqam</em> (and the composer) are part of the composition's name.
@@ -235,8 +235,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Bashraf Qara Bitaq Sikah (1929)</b>
-                                    <span>Bashraf Qara Bitaq in <a href="../maqam/sikah.php">Maqam Sikah</a>, recorded in 1929 by Sami al-Shawwa (Syria) on <a href="../instr/violin.php">violin</a> and Muhammad al-Qasabgi (Egypt) on <a href="../instr/oud.php">oud</a>.</span>
+                                    <b>Bashraf Kara Batak Sikah (1929)</b>
+                                    <span>Bashraf Kara Batak in <a href="../maqam/sikah.php">Maqam Sikah</a>, recorded in 1929 by Sami al-Shawwa (Syria) on <a href="../instr/violin.php">violin</a> and Muhammad al-Qasabgi (Egypt) on <a href="../instr/oud.php">oud</a>.</span>
                                 </div>
                             </label>
                         </div>
