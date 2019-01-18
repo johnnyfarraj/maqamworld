@@ -6,8 +6,8 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Formes Vocales Composées";
 $page_description = "Formes Vocales Composées";
-$page_keywords = "arabic, music, arab world,  middle east, vocal composed forms, song forms, qadd, muwashah, dawr, duet, moologue, wasla, ughniya, taqtuqa";
-$page_language = "en";
+$page_keywords = "musique, arabe, formes, qawaleb, Le Daour, Le Mouwashah, Le Qadd, La Taqtouqa, La Oughnia, La Qassida, Le Monologue, Le Duo, Le Doulab";
+$page_language = "fr"; // YOU MUST PUT THIS
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="forms-page">
 
     <?php
-      $page = "en/form/vocal_comp.php";
+      $page = "fr/form/vocal_comp.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Formes Vocales Composées</h1>
-                        <h3>The Dawr, Muwashah, Qadd, Taqtuqa, Ughniya, Qasida, Monologue and Duet</h3>
+                        <h3>Le Daour, Le Mouwashah, Le Qadd, La Taqtouqa, La Oughnia, La Qassida, Le Monologue, Le Duo, Le Doulab</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Formes</a>
@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <h3>The Muwashshah</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/muwashah.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de  Muwashshah</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/muwashah.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Muwashshah</a>
                     </div>
                     <p>
                     	The Muwashah (plural <em>Muwashahat</em>) is a complex vocal form based on classical Arabic poems from Andalusia (hence <em>muwashahat</em> are sometimes qualified as Andalusian even though their composed melodies are invariably from Syria through Egypt, and only date back from the last century or two.) </p>
@@ -103,7 +103,7 @@ include($ROOT . 'inc/head.php');
                         <h3>The Qadd</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qadd.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de  Qadd</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qadd.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Qadd</a>
                     </div>
                     <p> The Qadd (plural <em>qudud</em>) is a light and simple traditional song that flourished in Aleppo, Syria. <em>Qudud</em> are usually performed at the end of a wasla, after heavier pieces like adwar, qasa'id or muwashahat. Qudud lyrics are in the colloquial Aleppan (or sometimes Egyptian) dialects and are very accessible, down to earth and easy to memorize.
                     </p>
@@ -128,7 +128,7 @@ include($ROOT . 'inc/head.php');
                         <h3>The Dawr</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/dawr.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de  Dawr</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/dawr.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Dawr</a>
                     </div>
                     <p> The Dawr (plural <em>Adwar</em>) is an Egyptian composed vocal form that flourished around the turn of the 19<sup>th</sup> century and continued until the 1930s. The <em>dawr</em> is complex to compose and perform, and demanding to sing, and was the center of the <a href="#wasla">wasla</a> for a long time. The dawr lyrics are always in colloquial Egyptian.
                     </p>
@@ -187,7 +187,7 @@ include($ROOT . 'inc/head.php');
                         <h3>The Taqtuqa</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/taqtuqa.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de  Taqtuqa</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/taqtuqa.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Taqtuqa</a>
                     </div>
                     <p> The Taqtuqa (plural <em>Taqatiq</em>) is the standard 3-4 minute Arabic song with multiple verses and a repeating chorus. <em>Taqatiq</em> usually use simple <a href="../iqaa.php">iqa‘at</a> like <a href="../iqaa/maqsum.php">Iqa‘ Maqsum</a> and have accessible lyrics and a melody that's simple to memorize and sing along to.
                     </p>
@@ -260,7 +260,7 @@ include($ROOT . 'inc/head.php');
                         <h3>The Ughniya (Long Song)</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/ughniya.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de  Ughniya</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/ughniya.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Ughniya</a>
                     </div>
                     <p> The Ughniya (plural <em>aghani</em>) is a long song developed toward the middle of the 20<sup>th</sup> century. The ughniya can last up to hour in a live setting and has a long introduction (see <a href="instr_comp.php#muqaddima">The Muqaddima</a>) as well as multiple sections with full maqam modulations. The ughniya is usually performed with a large orchestra and features megastar singers like Oum Koulthoum, Abdel Halim Hafez and Warda.</p>
 
@@ -285,7 +285,7 @@ include($ROOT . 'inc/head.php');
                         <h3>The Qasida (composed)</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qasida.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de  Qasida</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qasida.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Qasida</a>
                     </div>
                     <p> The Qasida (plural <em>Qasa'id</em>) is a metered poem in classical Arabic, and the composed form using that poem as its lyrics. The <em>qasida</em> is usually performed by a solo vocalist accompanied by an ensemble, and tends to be long and elaborate in order to feature the vocalist.
                     </p>
@@ -370,7 +370,7 @@ include($ROOT . 'inc/head.php');
                         <h3>The Wasla</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/wasla.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de  Wasla</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/wasla.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Wasla</a>
                     </div>
                     <p> The Wasla (plural <em>waslat</em>) is a form that contains other forms that are performed consecutively as one unit, usually in the same <a href="../maqam.php">maqam</a>. A short <em>wasla</em> can take 5-10 minutes, while a longer <em>wasla</em> can aproach an hour. The pieces within the <em>wasla</em> are ordered such that it starts slow and establishes the <em>maqam</em> (often with instrumental pieces) then features the complex and demanding vocal piece. The <em>wasla</em> finally ends with simple and short pieces, creating an overall arc that peaks at the middle.
                     </p>
@@ -410,7 +410,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>Explore other groups of forms:</p>
                     <ul>
-                        <!-- Formes Vocales Composées -->
+                        <!-- <li><a href="vocal_comp.php">Formes Vocales Composées</a></li> -->
                         <li><a href="instr_comp.php">Formes Composées Instrumentales</a></li>
                         <li><a href="ottoman.php">Formes Instrumentales Ottomanes</a></li>
                         <li><a href="improv.php">Formes Improvisées</a></li>
@@ -424,7 +424,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
 
-    <?php include($ROOT . 'en/footer.php'); ?>
+    <?php include($ROOT . 'fr/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
 
     </body>

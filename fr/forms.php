@@ -6,7 +6,7 @@ include('../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Formes de la musique arabe";
 $page_description = "Formes de la musique arabe";
-$page_keywords = "musique, arabe, formes, monde arabe, maqam, jins, iqa‘, iqaa, rythme, oud, qanun, nay, quart de ton, qawaleib, tarab";
+$page_keywords = "musique, arabe, formes, qawaleb, Le Daour, Le Mouwashah, Le Qadd, La Taqtouqa, La Oughnia, Le Monologue, Le Duo, Le Doulab, La Maqtoua, La Mouqaddima, La Tahmila, Le Darej, Le Samaï, La Longa, Le Bashraf, Le Taqsim, Le Mawwal, Les Layali, La Qassida";
 $page_language = "fr"; // YOU MUST PUT THIS
 
 include($ROOT . 'inc/head.php');
@@ -50,7 +50,7 @@ include($ROOT . 'inc/head.php');
                                 <img class="card-img-top" src="/img/riqq1.png" alt="Antique Riqq Pattern">
                                 <div class="card-body">
                                     <h5 class="card-title">Formes Vocales Composées</h5>
-                                    <p class="card-text">Apprenez au sujet des formes suivantes: Le Daour, Le Mouwashah, Le Qadd, La Taqtouqa, La Oughnia, Le Monologue et Le Duo.</p>
+                                    <p class="card-text">Apprenez au sujet des formes suivantes: Le Daour, Le Mouwashah, Le Qadd, La Taqtouqa, La Oughnia, La Qassida, Le Monologue et Le Duo.</p>
                                     <a href="form/vocal_comp.php" class="btn btn-primary">Apprenez...<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
@@ -80,7 +80,7 @@ include($ROOT . 'inc/head.php');
                                 <img class="card-img-top" src="/img/riqq4.png" alt="Antique Riqq Pattern">
                                 <div class="card-body">
                                     <h5 class="card-title">Formes Improvisées</h5>
-                                    <p class="card-text">Apprenez au sujet des formes suivantes: Le Taqsim, Le Mawwal, Les Layali et La Qasida.</p>
+                                    <p class="card-text">Apprenez au sujet des formes suivantes: Le Taqsim, Le Mawwal, Les Layali et La Qassida.</p>
                                     <a href="form/improv.php" class="btn btn-primary">Apprenez...<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
