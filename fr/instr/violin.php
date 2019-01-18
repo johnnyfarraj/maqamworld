@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Le Violin Arabe";
-$page_description = "Le Violin Arabe";
+$page_title = "Le Violoin Arabe";
+$page_description = "Le Violon Arabe";
 $page_keywords = "arabe, musique, instruments, accordéon, bouzouk, daff, mazhar, guitare électrique, katème, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
 $page_language = "fr"; // YOU MUST PUT THIS
 
@@ -29,7 +29,7 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Le Violin Arabe</h1>
+                        <h1>Le Violon Arabe</h1>
                         <h3><em>Appelé <em>Kamanja</em> ou <em>Kamane</em> en arabe</h3>
                     </div>
 
@@ -37,7 +37,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
-                        <img src="/instr/violin.jpg" alt="The Violin">
+                        <img src="/instr/violin.jpg" alt="Le Violon">
                         <span>Violon &copy; 2018 MaqamWorld</span>
                     </div>
 

@@ -17,6 +17,7 @@
     <li><a href="/ar/form/ottoman.php#longa">اللونجا</a></li>
     <li><a href="/ar/form/improv.php#layali">الليالي</a></li>
     <li><a href="/ar/form/instr_comp.php#maqtua">المقطوعة</a></li>
+    <li><a href="/ar/form/instr_comp.php#muqaddima">المقدّمة</a></li>
     <li><a href="/ar/form/vocal_comp.php#muwashah">الموَشّح</a></li>
     <li><a href="/ar/form/improv.php#mawwal">الموّال</a></li>
     <li><a href="/ar/form/vocal_comp.php#monologue">المونولوج</a></li>

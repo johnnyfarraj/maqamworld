@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Instrumental Composed Forms";
-$page_description = "Instrumental Composed Forms";
+$page_title = "Formes Composées Instrumentales";
+$page_description = "Formes Composées Instrumentales";
 $page_keywords = "arabic, music, arab, world, maqam, Dulab, Maqtu‘a, Muqaddima, Tahmila, Darij, jins, instrumental composed forms, rast, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
 $page_language = "en"; // en / ar <!-- YOU MUST PUT THIS -->
 
@@ -23,27 +23,27 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Form Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Formes</a>
                     <?php include('../sidemenu-form.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Instrumental Composed Forms</h1>
+                        <h1>Formes Composées Instrumentales</h1>
                         <h3>The Dulab, Maqtu‘a, Muqaddima, Tahmila, and Darij</h3>
                     </div>
 
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Form Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Formes</a>
                     <div class="clearfix"></div>
 
-                    <p>Instrumental Composed Forms are not as widespread as <a href="vocal_comp.php">Vocal Composed Forms</a> in Arabic Music,
+                    <p>Formes Composées Instrumentales are not as widespread as <a href="vocal_comp.php">Formes Vocales Composées</a> in Arabic Music,
                     since that tradition is primarily vocal. As such, performances of only instrumental Arabic music are rare. However, instrumental music complements vocal music beautifully, and provides essential introductions, transitions, and interludes, while also showcasing instrumentalists in the singer's ensemble.</p>
 
                     <div id="maqtua" class="heading jins text-center full-width">
                         <h3>The Maqtu‘a</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/maqtua.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Maqtu‘a</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/maqtua.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de  Maqtu‘a</a>
                     </div>
                     <p> The Maqtu‘a (literally a piece) is a generic instrumental composition. It is also called <em>ma‘zufa</em> (played on an instrument, as opposed to sung). The <em>maqtu‘a</em> form is especially popular in <em>Raqs Sharqi</em> (belly dance) music.
                     </p>
@@ -116,7 +116,7 @@ include($ROOT . 'inc/head.php');
                         <h3>The Muqaddima</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/muqaddima.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Muqaddima</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/muqaddima.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de  Muqaddima</a>
                     </div>
                     <p> The Muqaddima literally means "introduction". This form became popular toward the mid 20<sup>th</sup> century as composers added long introductions to the new popular <a href="vocal_comp.php#ughniya">Ughniya</a> (long song) form. Elaborate <em>muqaddima</em>-s sometimes lasted over 5 minutes and featured multiple sectionsas well as <a href="../maqam.php">Maqam</a> modulations and instrumental solos.
                     </p>
@@ -131,7 +131,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Alf Leila w Leila (1969)</b>
-                                    <span>The introduction to Umm Kulthum's long song <strong>Alf Leila w Leila</strong> (1969) composed by Baligh Hamdi.</span>
+                                    <span>The introduction to Oum Koulthoum's long song <strong>Alf Leila w Leila</strong> (1969) composed by Baligh Hamdi.</span>
                                 </div>
                             </label>
                         </div>
@@ -174,7 +174,7 @@ include($ROOT . 'inc/head.php');
                         <h3>The Dulab</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/dulab.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Dulab</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/dulab.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de  Dulab</a>
                     </div>
                     <p> The Dulab is a very short composition that features and introduces a <a href="../maqam.php">Maqam</a>. Its name means "wheel" in Arabic because the same melody is repeated multiple times. The <em>dulab</em> could be a stand alone piece
                         that precedes an <a href="improv.php">improvisation</a>, or it could serve as the introduction to a <a href="vocal_comp.php#dawr">Dawr</a>.
@@ -216,7 +216,7 @@ include($ROOT . 'inc/head.php');
                         <h3>The Tahmila</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/tahmila.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Tahmila</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/tahmila.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de  Tahmila</a>
                     </div>
                     <p> The Tahmila is an instrumental piece that combines a repeating refrain with verses that are part-composed and part improvised. The <em>tahmila</em> is usually played by a small <em>takht</em> (traditional small ensemble) where each player takes turns playing the verse and improvising, and the refrain is played by the entire ensemble.
                     </p>
@@ -257,10 +257,10 @@ include($ROOT . 'inc/head.php');
                         <h3>The Darij</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/darij.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Darij</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/darij.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de  Darij</a>
                     </div>
                     <p> The Darij form (formally called <em>Sama‘i Darij</em>) is a simple instrumental composition named
-                        after <a href="../iqaa/samai_darij.php">Iqa‘ Sama‘i Darij (3/4)</a>, which it uses. Like the <a href="ottoman.php">Ottoman Instrumental Forms</a>, the <em>darij</em> composition is anchored in a principal <a href="../maqam.php">maqam</a> that lends it its name,
+                        after <a href="../iqaa/samai_darij.php">Iqa‘ Sama‘i Darij (3/4)</a>, which it uses. Like the <a href="ottoman.php">Formes Instrumentales Ottomanes</a>, the <em>darij</em> composition is anchored in a principal <a href="../maqam.php">maqam</a> that lends it its name,
                         followed by the composer’s name.</p>
                     <p>
                         <em>Darij</em> compositions were widespread in the Arab world before the 20<sup>th</sup> century,
@@ -285,10 +285,10 @@ include($ROOT . 'inc/head.php');
 
                     <p>Explore other groups of forms:</p>
                     <ul>
-                        <li><a href="vocal_comp.php">Vocal Composed Forms</a></li>
-                        <!-- Instrumental Composed Forms -->
-                        <li><a href="ottoman.php">Ottoman Instrumental Forms</a></li>
-                        <li><a href="improv.php">Improvised Forms</a></li>
+                        <li><a href="vocal_comp.php">Formes Vocales Composées</a></li>
+                        <!-- Formes Composées Instrumentales -->
+                        <li><a href="ottoman.php">Formes Instrumentales Ottomanes</a></li>
+                        <li><a href="improv.php">Formes Improvisées</a></li>
                     </ul>
 
                 </div>
