@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
 
                     <p> The Saxophone is a rare instrument in Arabic music, despite the fact that it can produce good <a href="../maqam.php">maqam</a> scale intonation. It never went mainstream the way the <a href="accordion.php">Arabic Accordion</a> did and was mostly used to add an innovative sound to Arabic orchestral arrangements.
                     </p>
-                    <p> The principal pioneer of the Arabic saxophone is Samir Surour (Egypt) whose background was in military brass band music. Surour played on quite a few Umm Kulthum songs then went to record a series of solo instrumental albums under the name <em>‘Ashiq el-Sax</em> (The Sax Lover).
+                    <p> The principal pioneer of the Arabic saxophone is Samir Surour (Egypt) whose background was in military brass band music. Surour played on quite a few Oum Koulthoum songs then went to record a series of solo instrumental albums under the name <em>‘Ashiq el-Sax</em> (The Sax Lover).
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=n_2qIVjgboM">
@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Fat el-Ma'ad (1967)</b>
-                                <span>Umm Kulthum's song <strong>Fat el-Ma'ad</strong> (1967, music by Baligh Hamdi) includes in its arrangement Faruq Salama on the Arabic Accordion, Abdel Fattah Khayri on the Electric Guitar and Samir Surour on the Saxophone.</span>
+                                <span>Oum Koulthoum's song <strong>Fat el-Ma'ad</strong> (1967, music by Baligh Hamdi) includes in its arrangement Faruq Salama on the Arabic Accordion, Abdel Fattah Khayri on the Electric Guitar and Samir Surour on the Saxophone.</span>
                                 </div>
                             </label>
                         </div>

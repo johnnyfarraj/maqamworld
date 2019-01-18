@@ -86,7 +86,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Hani Mehanna Interview</b>
-                                    <span>Interview with Hani Mehanna about his experience meeting composer Muhammad Abdel Wahab and singer Umm Kulthum and performing the song <strong>Leilet Hobb</strong> with her orchestra.</span>
+                                    <span>Interview with Hani Mehanna about his experience meeting composer Muhammad Abdel Wahab and singer Oum Koulthoum and performing the song <strong>Leilet Hobb</strong> with her orchestra.</span>
                                 </div>
                             </label>
                         </div>

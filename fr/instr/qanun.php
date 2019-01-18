@@ -80,7 +80,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Mouhammad Abdou Saleh</b>
-                                    <span>Le joueur de qanoun pour Umm Kulthum pendant des décennies, Mouhammad Abdou Saleh (Égypte)
+                                    <span>Le joueur de qanoun pour Oum Koulthoum pendant des décennies, Mouhammad Abdou Saleh (Égypte)
                                     dans un pot-pourri de ses chansons les plus connues.
                                     </span>
                                 </div>
@@ -116,7 +116,7 @@ include($ROOT . 'inc/head.php');
                              --><div class="info">
                                     <b>Abdel Fattah Mansi</b>
                                     <span>Abdel Fattah Mansi (Égypte) joue la chanson <strong>Ana Fi-ntizarak</strong>
-                                    de Umm Kulthum (1943, musique de Zakaria Ahmad).
+                                    de Oum Koulthoum (1943, musique de Zakaria Ahmad).
                                     </span>
                                 </div>
                             </label>

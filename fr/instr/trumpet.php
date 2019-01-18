@@ -44,7 +44,7 @@ include($ROOT . 'inc/head.php');
                     <p> The Arabic Trumpet is a trumpet that is used to play the Arabic <a href="../maqam.php">maqam</a> scales. Some musicians achieve that by using a trumpet fitted with a fourth valve (that can produce quartertones), others achieve it by using the slides on the first and third valves (available on all professional trumpets).
                     </p>
                     <p>
-                    The trumpet never became a mainstream instrument in Arabic music, and is the only Arabized instrument that was never featured in the Umm Kulthum orchestra. The most well-known Arabic trumpet player and pioneer is the Egyptian Sami al-Babli who performed regularly with <em>Sha'bi</em> singer Ahmed Adaweyya.
+                    The trumpet never became a mainstream instrument in Arabic music, and is the only Arabized instrument that was never featured in the Oum Koulthoum orchestra. The most well-known Arabic trumpet player and pioneer is the Egyptian Sami al-Babli who performed regularly with <em>Sha'bi</em> singer Ahmed Adaweyya.
                     </p>
                     <p> Today two young musicans of Arab descent carry the Arabic Trumpet forward, and both do it within a Jazz setting that combines Western harmony with Arabic <a href="../maqam.php">maqam</a> melodies:
                     <a href="http://www.amirelsaffar.com/" target="_blank">Amir Elsaffar</a> (Iraq/U.S.A) and <a href="http://www.ibrahimmaalouf.com/" target="_blank">Ibrahim Maalouf</a> (Lebanon/France).

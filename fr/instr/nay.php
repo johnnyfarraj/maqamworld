@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sayyed Salem</b>
-                                    <span>Sayyed Salem (Égypte), pendant de nombreuses années membre de l'Orchestre de Umm Kulthum, dans un solo pendant la pièce <strong>Ba‘id ‘Annak</strong> (1965, musique de Baligh Hamdi).</span>
+                                    <span>Sayyed Salem (Égypte), pendant de nombreuses années membre de l'Orchestre de Oum Koulthoum, dans un solo pendant la pièce <strong>Ba‘id ‘Annak</strong> (1965, musique de Baligh Hamdi).</span>
                                 </div>
                             </label>
                         </div>

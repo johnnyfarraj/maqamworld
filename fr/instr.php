@@ -86,7 +86,7 @@ include($ROOT . 'inc/head.php');
                     </p>
 
                     <p>Le violon, l'alto, le violoncelle et la contrebasse sont beaucoup utilisés dans la musique arabe,
-		particulièrement dans les grands ensembles comme celui d’Umm Kulthum et l'Orchestre Diamant en Égypte.
+		particulièrement dans les grands ensembles comme celui de Oum Koulthoum et l'Orchestre Diamant en Égypte.
 		Étant tous sans frette, ces instruments peuvent produire sans problème les gammes du <a href="maqam.php">maqam</a> arabe.
                     </p>
 
