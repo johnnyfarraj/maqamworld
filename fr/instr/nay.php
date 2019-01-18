@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Le Nay</h1>
-                        <h3>An end-blown Flute</h3>
+                        <h3>Une flute jouée en soufflant dans le bec</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Instruments</a>
@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/nay.jpg" alt="Le Nay">
-                        <span>A set of 7 Lebanese nayat made by Atif Wehbi. &copy; MaqamWorld</span>
+                        <span>Un ensemble de 7 nayat libanias construits par Atef Wehbi. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
@@ -46,9 +46,11 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <p>
-                    The Nay (Farsi for "reed") is an open-ended, obliquely end blown flute made of cane. They nay was known in the Near East since antiquity. It is nine-jointed, and usually has 6 holes in the front for the fingers to play and 1 hole underneath for the thumb. It is played with the pads of the fingers. Nays come in different lengths, each one being tuned to a specific pitch and named after the note produced with the 1st fingerhole open (D4 for the most commonly used nay; Lowest note: C4).
+                    Le Nay ("roseau" en Farsi, prononcé 'naï') est une flute à bout ouvert, soufflée de manière oblique, et faite en roseau. Le nay est utilisé dans les Proche-Orient depuis l'antiquité. Le nay a neuf joints et en général six trous devant pour les doigts et un derrière pour le pouce. Il est joué avec les coussinets des doigts. Les Nays ont des longueurs différentes en fonction de l'accord par rapport à la fréquence produite par le nay quand le premier trou est en position ouverte (Ré4 est le plus utilisé; La note la plus basse est Do4).
                     </p>
-                    <p>Although very simple, the nay is one of the most difficult Arabic instruments to play. A fine player can produce a large variety of liquid sounds and ornaments; it is an extremely soulful instrument. Its poetical timbre makes it especially suitable for melancholy effects expressing both joy and yearning. It is the only wind instrument used in Arab art music, widely appreciated for its warm, breathy sound and its subtle tonal and dynamic inflections.
+
+                    <p>
+                    Même si c'est un instrument très simple, le nay est un des instruments arabes les plus difficiles à jouer. Un bon joueur de nay peut produire une grande variété de sons liquides et d'ornements; c'est un instrument extrêmement poignant. Son timbre poétique en fait un instrument particulièrement adapté aux effets mélancoliques exprimant à la fois la joie et le désir. C'est le seul instrument à vent utilisé dans la musique arabe savante et il est apprécié pour son son chaud et ses inflexions tonales et dynamiques subtiles.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=JhOs_1SodTA&t=0s">
@@ -61,7 +63,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sayyed Salem</b>
-                                    <span>Sayyed Salem (Egypt), a longtime member of the Umm Kulthum Orchestra (Egypt) in a Nay solo during her song <strong>Ba‘id ‘Annak</strong> (1965, music by Baligh Hamdi)</span>
+                                    <span>Sayyed Salem (Égypte), pendant de nombreuses années membre de l'Orchestre de Umm Kulthum, dans un solo pendant la pièce <strong>Ba‘id ‘Annak</strong> (1965, musique de Baligh Hamdi).</span>
                                 </div>
                             </label>
                         </div>
@@ -76,8 +78,10 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Mahmud ‘Effat</b>
-                                    <span>Veteran nay player and teacher, Mahmud ‘Effat (Egypt), a longtime member of the Diamond Orchestra in a Taqsim on the Nay in <a href="../maqam/saba.php">Maqam Saba</a></span>
+                                    <b>Mahmoud ‘Effat</b>
+                                    <span>
+                                    Mahmoud 'Effat (Égypte),  grand joueur de nay et professeur, membre pendant de nombreuses années de l'Orchestre Diamant, jouant un <a href="../form/improv.php#taqsim">Taqsim</a>
+                                    dans le <a href="../maqam/saba.php">Maqam Saba</a>.</span>
                                 </div>
                             </label>
                         </div>
@@ -93,7 +97,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Reda Bdeir</b>
-                                    <span>Reda Bdeir (Egypt) playing the song Kulli Da Kan Leh (1954, music by Muhammad Abdel Wahab)</span>
+                                    <span>Reda Bdeir (Égypte) jouant la chanson <strong>Kulli Da Kan Leh</strong>
+                                    (1954, musique de Mouhammad Abdel Wahab).</span>
                                 </div>
                             </label>
                         </div>
@@ -109,7 +114,9 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Michael Ibrahim</b>
-                                    <span> Michael Ibrahim (Syria), director of the National Arab Orchestra (USA) in a Taqsim on the Nay in <a href="../maqam/saba.php">Maqam Saba</a> during a live performance by the NAO</span>
+                                    <span>
+                                    Michael Ibrahim (Syrie), directeur de l'Orchestre National Arabe (Etats-Unis),
+                                    jouant un <a href="../form/improv.php#taqsim">Taqsim</a> dans le <a href="../maqam/saba.php">Maqam Saba</a>. Pendant une performance de l'orchestre.</span>
                                 </div>
                             </label>
                         </div>

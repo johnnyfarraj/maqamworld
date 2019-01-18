@@ -42,13 +42,13 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qanun.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Qanun</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qanun.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Qanoun</a>
                     </div>
 
                     <p>Le Qanoun est le descendant de l'ancienne harpe égyptienne.
                     Il fait partie intégrante de la musique arabe depuis le 10<sup>ième</sup> siècle.
                     Le mot <em>qanoun</em> veut dire 'loi' en arabe et le mot existe en anglais sous la forme "canon".
-                    Ce nom a probablement été donné au qanun parce que c'est l'instrument qui établit la loi
+                    Ce nom a probablement été donné au qanoun parce que c'est l'instrument qui établit la loi
                     en ce qui a trait aux fréquences (pitch) pour les autres instruments et chanteurs.
                     </p>
 

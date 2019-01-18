@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Le Bouzouk</h1>
-                        <h3>A Small Lute with a Long Fretted Neck</h3>
+                        <h3>Un petit lute avec un long manche fretté</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Instruments</a>
@@ -38,17 +38,17 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/buzuq.jpg" alt="Le Bouzouk">
-                        <span>Two buzuq-s made in Lebanon. &copy; MaqamWorld</span>
+                        <span>Deux bouzouks du Liban. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/buzuq.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Buzuq</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/buzuq.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Bouzouk</a>
                     </div>
 
-                    <p> Le Bouzouk is a string instrument in the <a href="oud.php">oud</a> family with a smaller body and a longer, fretted neck. It is closer in shape to the Greek <em>Bouzouki</em> and the Turkish <em>Saz</em>. Le Bouzouk is originally a folk instrument from the Eastern Mediterranean (Palestine, Jordan, Lebanon and Syria) that's usually played solo. But it is listed along with the other traditional instruments because it crossed over to mainstream pop Arabic music toward the middle of the 20<sup>th</sup> century. Since then it has been featured in many recordings and live performances as became part of the Arabic ensemble.
+                    <p>Le Bouzouk est un instrument à cordes de la famille du <a href="oud.php">Oud</a> avec un corps plus petit et un manche plus long et fretté. Il est plus proche pour la forme du <em>Bouzouki</em> grec et du <em>Saz</em> turc. Le Bouzouk est à l'origine un instrument folklorique de l'Est de la Méditerranée (Palestine, Jordanie, Liban et Syrie) qui est en général joué en solo. Il est dans la présente liste des instruments traditionnels parce qu'il est devenu partie prenante de la musique arabe populaire dominante au milieu du 20<sup>ième</sup> siècle. Depuis, il est apparu dans de nombreux enregistrements et performances et a pris place dans l'ensemble arabe.
                     </p>
                     <p>
-                    The traditional Buzuq had two courses of metal strings, a double (C4) and a triple (G3), played with a thin piece of horn or a plastic plectrum. Today <em>buzuq</em>-s are made with three courses of strings in order to expand their range. The metal strings, along with the metallic tuning pegs (identical to those on a guitar) give the instrument a bright sound quality, while the fret distribution covers the most common quartertones. This and the fact that the player can move the frets slightly to fine tune their pitch  allows the buzuq to tackle the most common <a href="../maqam.php">maqam</a> scales with acceptable precision.
+                    Le Bouzouk traditionnel a deux cœurs de cordes de métal, un double Do4 et un triple Sol3, et il est joué à l'aide d'un fin morceau de corne ou d'un plectre en plastique. De nos jours, le buzuq est construit avec trois cœurs de cordes de manière à avoir un ambitus plus ample. Les cordes en métal et les clés de métal pour accorder l'instrument (pareilles à celles d'une guitare) lui donne une sonorité claire. La distribution des frettes couvre les quarts de ton les plus communs. Ceci, et le fait que le musicien peut déplacer les frettes pour changer la fréquence (le pitch) des notes, permet au buzuq de jouer les gammes les plus communes du <a href="../maqam.php">maqam</a> arabe avec une précision acceptable.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=isAhZyRcA0M&t=0s">
@@ -60,8 +60,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Muhyiddin Ba‘yun</b>
-                                    <span>Lebanese buzuq player and singer Muhyiddin Ba‘yun in a Buzuq Taqsim in <a href="../maqam/bayati.php">Maqam Bayati</a></span>
+                                    <b>Muhyiddine Ba‘yun</b>
+                                    <span>Le joueur de bouzouk et chanteur libanias Muhyiddine Ba'yun jouant un <a href="../form/improv.php#taqsim">Taqsim</a> dans le <a href="../maqam/bayati.php">Maqam Bayati</a>.</span>
                                 </div>
                             </label>
                         </div>
@@ -76,8 +76,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Muhammad Abdel Karim</b>
-                                    <span>Syrian Buzuq player Muhammad Abdel Karim (dubbed the Prince of Buzuq) in a Buzuq Taqsim. Abdel Karim left many recordings, and his style was mellow and meditative.</span>
+                                    <b>Mouhammad Abdel Karim</b>
+                                    <span>Le joueur de bouzouk syrien Mouhammad Abdel Karim (appelé le Prince du Buzuq) jouant un <a href="../form/improv.php#taqsim">Taqsim</a> au bouzouk. Abdel Karim a laissé de nombreux enregistrements. Son style était doux et méditatif.</span>
                                 </div>
                             </label>
                         </div>
@@ -92,8 +92,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Matar Muhammad</b>
-                                    <span>The Lebanese Buzuq virtuoso Matar Muhammad plays a Buzuq Taqism in a live concert. Muhammad's taqasim put the buzuq on par with any of the other traditional Arabic instruments for their complexity, technique, ornamentation, maqam modulations and length.</span>
+                                    <b>Matar Mouhammad</b>
+                                    <span>Le virtuose du bouzouk libanias Matar Muhammad joue un <a href="../form/improv.php#taqsim">Taqsim</a> dans un concert. Son Taqsim met le bouzouk au même niveau que les autres instruments traditionnels arabes pour ce qui a trait à la complexité, la technique, l'ornementation, les modulations dans le <a href="../maqam.php">maqam</a>, et la longueur.</span>
                                 </div>
                             </label>
                         </div>
@@ -108,8 +108,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Zoro Yussef</b>
-                                    <span>Lebanese-Kurdish Buzuq player Zoro Yussef (Zoro Seîd Yûsiv) plays a Buzuq Taqism in <a href="../maqam/rast.php">Maqam Rast</a>, recorded live on Lebanese Television</span>
+                                    <b>Zoro Youssef</b>
+                                    <span>Le joueur de bouzouk kurdo-libanais Zoro Yussef (Zoro Seîd Yûsiv) jouant un <a href="../form/improv.php#taqsim">Taqsim</a> dans le <a href="../maqam/rast.php">Maqam Rast</a>. Enregistré en direct par la télévision libanaise.</span>
                                 </div>
                             </label>
                         </div>
@@ -125,7 +125,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Marhabtayn</b>
-                                    <span>Lebanese diva Sabah in her song <strong>Mahabtayn</strong> (recorded live in Kuweit) featuring the buzuq in her orchestra (conducted by violinist Abbud Abdel ‘Al)</span>
+                                    <span>La diva libanaise Sabah dans sa chanson <strong>Marhabtayn</strong> (enregistré au Koweït). Avec un bouzouk dans l'orchestre (dirigé par le violoniste libanias Abboud Abdel 'Al).</span>
                                 </div>
                             </label>
                         </div>

@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Le Violin Arabe</h1>
-                        <h3><em>Appelé Kamanja</em> ou <em>Kamane</em> en arabe</h3>
+                        <h3><em>Appelé <em>Kamanja</em> ou <em>Kamane</em> en arabe</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Instruments</a>
@@ -38,19 +38,20 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/violin.jpg" alt="The Violin">
-                        <span>&copy; 2018 MaqamWorld</span>
+                        <span>Violon &copy; 2018 MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/kamanja.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Kamanja</a>
                     </div>
 
-                    <p> The violin (called <em>kamanja</em> or <em>kaman</em> in Arabic) was incorporated into the Arabic ensemble toward the end of the 19<sup>th</sup> century and replaced indigenous varieties of fiddles like the <em>kamanja</em>, <em>rababa</em>, and <em>jowza</em>. While the argument can be made that the violin is the most obvious example of an Arabized instrument, it has long been naturalized, and has acquired its own tuning, playing technique and ornamentation style. The Arabic violin's sound is as esential to Arabic music as that of the <a href="oud.php">oud</a> and the <a href="qanun.php">qanun</a>.
+                    <p>Le violon (appelé <em>kamanja</em> ou <em>kamane</em> en arabe) a été incorporé à l'ensemble arabe autour de la fin du 19<sup>ième</sup> siècle et a remplacé les variétés locales d'instruments à cordes frottées tels que la <em>kamanja</em>, la <em>rababa</em>, et la <em>jowza</em>. Même si l'on peut argumenter que le violon est l'exemple le plus notoire d'un instrument qui a été arabisé, il a depuis longtemps été naturalisé et a acquis un accordage, une technique de jeu, et un style ornemental, particuliers. Le son du violon arabe est aussi essentiel à la musique arabe que celui du <a href="oud.php">oud</a> et du <a href="qanun.php">qanoun</a>.
                     </p>
                     <p>
-                    Although various tunings are used, the traditional Arab tuning is in fourths and fifths (G3, D4, G4, D5.) As a fretless instrument, the violin can produce all shades of intonation of the Arabic <a href="../maqam.php">maqam</a> system.
+                    Plusieurs types d'accordage du violon arabe existent. L'accordage traditionnel arabe est en quartes et en quintes (Sol3, Ré4, Sol4, Ré5). En tant qu'instrument non fretté, le violon est en mesure de produire toutes les nuances de l'intonation du système du <a href="../maqam.php">maqam</a> arabe.
                     </p>
-                    <p>The Arabic violin's playing style is highly ornate, with slides, trills, wide vibrato, and double stops, often using an open string as a drone. The Arabic violin's timbre ranges from rich and warm, similar to the sound of the Western violin, to nasal and penetrating.</p>
+                    <p>Le style du violon arabe est très ornementé, avec des glissandos, des trilles, un vibrato large, des doubles cordes et l'usage de cordes ouvertes comme bourdon. Le timbre du violon arabe va du riche et chaud, tel qu'utilisé au violon occidental, au nasal et pénétrant.
+                    </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=_ZWvLygSqkY&t=0s">
                         <div class="radio">
@@ -62,7 +63,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sami al-Shawwa</b>
-                                    <span>One of the early 20<sup>th</sup> century Arabic violin pioneers, Syrian violinist Sami al-Shawwa (also known as the Prince of Violin) playing a Violin Taqsim in <a href="../maqam/hijazkar.php">Maqam Hijazkar</a></span>
+                                    <span>Un des pionniers du violon arabe du début du 20<sup>ième</sup> siècle, le violoniste syrien Sami al-Shawwa (connu aussi comme le Prince du Violon) jouant un <a href="../form/improv.php#taqsim">Taqsim</a> dans le <a href="../maqam/hijazkar.php">Maqam Hijazkar</a>.</span>
                                 </div>
                             </label>
                         </div>
@@ -77,8 +78,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Ahmad al-Hifnawi</b>
-                                    <span>Egyptian violinist Ahmad al-Hifnawi (who played first violin in the Umm Kulthum orchestra) playing the traditional instrumental composition <strong>Tahmila Rast (Suznak)</strong>, which includes a lot of improvisations. The ensemble also features George Michel on Oud, Mahmud ‘Effat on Nay and Hassan Anwar on Riqq</span>
+                                    <b>Ahmad al-Hifnaoui</b>
+                                    <span>Le violoniste égyptien Ahmad al-Hifnaoui (qui était premier violon dans l'orchestre de Umm Kulthum) joue la pièce traditionnelle instrumentale <strong>Tahmila Rast (Suznak)</strong> qui est pleine d'improvisations. L'ensemble est composé aussi de George Michel au <a href="oud.php">oud</a>, Mahmoud 'Effat au <a href="nay.php">nay</a> et Hassan Anouar au <a href="riqq.php">riqq</a>.</span>
                                 </div>
                             </label>
                         </div>
@@ -93,8 +94,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Abbud Abdel ‘Al</b>
-                                    <span>Middle Eastern violinist Abbud Abdel ‘Al playing a Violin Taqsim in <a href="../maqam/bayati.php">Maqam Bayati</a> over <a href="../iqaa/samai.php">Iqa‘ Sama‘i Thaqil</a> (recorded on Lebanese Television)</span>
+                                    <b>Abboud Abdel ‘Al</b>
+                                    <span>Le violoniste palestino-libanais Abboud Abdel ‘Al joue un <a href="../form/improv.php#taqsim">Taqsim</a> dans le <a href="../maqam/bayati.php">Maqam Bayati</a> sur le <a href="../iqaa/samai.php">Iqa‘ Sama‘i Thaqil</a> (enregistré sur la télévision libanaise).</span>
                                 </div>
                             </label>
                         </div>
@@ -109,8 +110,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>‘Abdu Daghir</b>
-                                    <span>Egyptian violinist ‘Abdu Daghir and his ensemble playing his instrumenal composition Sama‘i <a href="../maqam/kurd.php">Maqam Kurd</a>, including violin and qanun solos</span>
+                                    <b>Abdou Dagher</b>
+                                    <span>Le violoniste égyptien Abdou Dagher et son ensemble jouant sa composition Sama‘i <a href="../maqam/kurd.php">Maqam Kurd</a>, avec solos de <a href="violon.php">violon</a> et de <a href="qanoun.php">qanoun</a>.</span>
                                 </div>
                             </label>
                         </div>
@@ -126,7 +127,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Simon Shaheen</b>
-                                    <span>Palestinian violinist Simon Shaheen playing a Violin Taqsim in <a href="../maqam/rast.php">Maqam Rast</a> over  <a href="../iqaa/rumba.php">Iqa‘ Rumba</a>, ending with the second half of Riyad al-Sunbati's instrumental composition Longa <a href="../maqam/nahawand.php">Farahfaza</a></span>
+                                    <span>Le violoniste palestinien Simon Shaheen jouant un <a href="../form/improv.php#taqsim">Taqsim</a> dans le <a href="../maqam/rast.php">Maqam Rast</a> sur l'<a href="../iqaa/rumba.php">Iqa‘ Rumba</a>, finissant par la deuxième partie de la composition instrumentale Longa<a href="../maqam/nahawand.php">Farahfaza</a> de Riyad al-Sunbati.</span>
                                 </div>
                             </label>
                         </div>
