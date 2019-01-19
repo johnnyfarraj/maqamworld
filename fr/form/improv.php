@@ -36,17 +36,20 @@ include($ROOT . 'inc/head.php');
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Formes</a>
                     <div class="clearfix"></div>
 
-                    <p>Improvised forms are the most immediate vehicle for a <em>mutrib</em> (singer) or an instrumentalist to connect with their audience while exploring and working with a <a href="../maqam.php">maqam</a>'s <em>sayr</em>. </p>
+                    <p>Les formes improvisées sont les véhicules les plus directs pour un <em>mutrib</em> (chanteur) ou un instrumentaliste de connecter avec son public en explorant et travaillant le <em>sayr</em> (comportement mélodique)  d'un <a href="../maqam.php">maqam</a>.
+                    </p>
 
                     <div id="layali" class="heading jins text-center full-width">
-                        <h3>The Layali</h3>
+                        <h3>Les Layali</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/layali.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Layali</a>
                     </div>
-                    <p> The Layali form is a vocal solo improvisation on the phrase "Ya Layl Ya ‘Ayn" (O Night, O Eye), where "layali" is the Arabic plural of the word "layl". This is a traditional phrase that is not used for its literal meaning any more, but has become more of a vocal filler and a vehicle for vocal ornamentations. </p>
                     <p>
-                        Layali can stand alone but more commonly they are used as a prelude for the next vocal form (e.g. Mawwal, Qasida, or even a <a href="vocal_comp.php">composed vocal form</a>). In that case they serve as a warm up, and help the singer get immersed in the <a href="../maqam.php">maqam</a>.
+                        La forme Layali est une improvisation vocale en solo sur la phrase "Ya Layl Ya ‘Ayn" (O Nuit, O Œil). "Layali" est le pluriel arabe de "layl'". C'est une phrase traditionnelle qui n'est plus utilisée dans son sens littéral mais comme un patron sonore et un véhicule à l'improvisation.
+                    </p>
+                    <p>
+                        Les Layalis peuvent être exécutées seuls mais sont généralement utilisés comme préludes pour la forme vocale qui suit, comme par exemple un Mawwal, une Qasida ou même une <a href="vocal_comp.php">forme vocale composée</a>. Dans ce dernier cas, les Layali servent à se réchauffer et aide le chanteur à s'immerger dans le <a href="../maqam.php">maqam</a>.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=wOlB3-EiweY">
@@ -59,7 +62,9 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Dawr Kadni el-Hawa</b>
-                                    <span>Marie Jubran's recording of <a href="vocal_comp.php#dawr">Dawr</a> <strong>Kadni el-Hawa</strong> (music by Muhammad ‘Uthman) starts with a <a href="../instr/qanun.php">qanun</a> taqsim followed by layali in <a href="../maqam/nahawand.php">Maqam Nahawand</a>.</span>
+                                    <span>
+                                        L'enregistrement de Marie Jubran du <a href="vocal_comp.php#dawr">Dawr</a> <strong>Kadni el-Hawa</strong> (musique de Mouhammad ‘Outhman) commence avec un taqsim de <a href="../instr/qanun.php">qanoun</a> suivi d'un layali dans le <a href="../maqam/nahawand.php">Maqam Nahawand</a>.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -74,8 +79,10 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Taqtuqa Leh Ya Banafseg</b>
-                                    <span>Saleh Abdel Hayy's recording of <strong>Taqtuqa Leh Ya Banafseg</strong> (music by Riyad al-Sunbati) is a long <a href="vocal_comp.php#wasla">Wasla</a> that starts with an <a href="../instr/oud.php">oud</a> <a href"#taqsim">Taqsim</a>, a <a href="ottoman.php/samai">Sama‘i</a>, a <a href="../instr/qanun.php">qanun</a> Taqsim, a recap of the Sama‘i's <em>taslim</em>, then a <em>Layali</em>, all in <a href="../maqam/rast.php">Maqam Rast</a>.</span>
+                                    <b>Taqtouqa Leh Ya Banafseg</b>
+                                    <span>
+                                        L'enregistrement de Saleh Abdel Hayy de la <a href="vocal_comp.php#taqtuqa">Taqtouqa</a> <strong>Leh Ya Banafseg</strong> (musique de Riyad al-Soumbati) est une longue <a href="vocal_comp.php#wasla">Wasla</a> qui commence avec un <a href="#taqsim">Taqsim</a> de <a href="../instr/oud.php">oud</a>, un <a href="ottoman.php/samai">Sama‘i</a>, un taqsim de <a href="../instr/qanun.php">qanoun</a>, une répétition du <em>taslim</em> du Sama‘i et des <em>Layali</em>, tous dans le <a href="../maqam/rast.php">Maqam Rast</a>.
+                                </span>
                                 </div>
                             </label>
                         </div>
@@ -90,15 +97,15 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Muhammad Khayri - Layali</b>
-                                    <span>Aleppan singer Muhammad Khayri starts his <a href="vocal_comp.php#wasla">Wasla</a> in <a href="../maqam/rast.php">Maqam Rast</a> with a Layali before proceeding to an <a href="#qasida">improvised Qasida</a>, then some <a href="vocal_comp.php#qadd">Qudud</a>.</span>
+                                    <b>Mouhammad Khayri - Layali</b>
+                                    <span>Le chanteur aleppin Mouhammad Khayri commence sa <a href="vocal_comp.php#wasla">Wasla</a> en <a href="../maqam/rast.php">Maqam Rast</a> avec des Layali puis chante une <a href="#qasida">Qasida improvisée</a> et quelques <a href="vocal_comp.php#qadd">Qoudoud</a>.</span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
                     <div id="mawwal" class="heading jins text-center full-width">
-                        <h3>The Mawwal</h3>
+                        <h3>Le Mawwal</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/mawwal.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Mawwal</a>

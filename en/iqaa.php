@@ -5,7 +5,7 @@ include('../inc/config.php');
 
 /* SEO settings for this page */
 $page_title = "Arabic Iqa‘at";
-$page_description = "Arabic Music Rhythms Iqaa Iqa";
+$page_description = "Arabic Music Rhythms Iqa‘ Iqa";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "en"; // en / ar <!-- YOU MUST PUT THIS -->
 

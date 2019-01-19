@@ -6,7 +6,7 @@ include('../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Instruments Musicaux Arabes";
 $page_description = "Instruments Musicaux Arabes";
-$page_keywords = "arabe, musique, instruments, accordéon, bouzouk, daff, mazhar, guitare électrique, katème, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, qanoun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
+$page_keywords = "arabe, musique, instruments, accordéon, bouzouk, daff, mazhar, guitare électrique, katem, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, qanoun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
 $page_language = "fr"; // YOU MUST PUT THIS
 
 include($ROOT . 'inc/head.php');
@@ -129,7 +129,7 @@ include($ROOT . 'inc/head.php');
                                     <p class="card-text"><a href="instr/tabl_baladi.php">Le Tabl Baladi</a></p>
                                     <p class="card-text"><a href="instr/daff.php">Le Daff</a></p>
                                     <p class="card-text"><a href="instr/mazhar.php">Le Mazhar</a></p>
-                                    <p class="card-text"><a href="instr/katim.php">Le Katème</a></p>
+                                    <p class="card-text"><a href="instr/katim.php">Le Katem</a></p>
                                     <p class="card-text"><a href="instr/sagat.php">Les Sagat</a></p>
                                 </div>
                             </div>

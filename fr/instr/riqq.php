@@ -123,7 +123,7 @@ include($ROOT . 'inc/head.php');
                         <li><a href="tabl_baladi.php">Le Tabl Baladi</a></li>
                         <li><a href="daff.php">Le Daff</a></li>
                         <li><a href="mazhar.php">Le Mazhar</a></li>
-                        <li><a href="katim.php">Le Katème</a></li>
+                        <li><a href="katim.php">Le Katem</a></li>
                         <li><a href="sagat.php">Les Sagat</a></li>
                    </ul>
 

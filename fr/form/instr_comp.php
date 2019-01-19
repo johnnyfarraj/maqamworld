@@ -106,7 +106,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Layali Zaman</b>
-                                    <span>Egyptian violinist ‘Abdu Dagher's instrumental composition Layali Zaman.</span>
+                                    <span>Egyptian violinist ‘Abdou Dagher's instrumental composition Layali Zaman.</span>
                                 </div>
                             </label>
                         </div>

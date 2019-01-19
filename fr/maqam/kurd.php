@@ -170,7 +170,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Kurd</b>
-                                    <span>Abdu Daghir</span>
+                                    <span>Abdou Dagher</span>
                                 </div>
                             </label>
                         </div>

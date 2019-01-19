@@ -174,7 +174,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Sama‘i Hijaz</b>
                                     <span>Al-Turath Ensemble</span>
-                                    <span>Music by Muhammad ‘Abdu</span>
+                                    <span>Music by Muhammad ‘Abdou</span>
                                 </div>
                             </label>
                         </div>

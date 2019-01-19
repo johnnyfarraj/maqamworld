@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Formes Instrumentales Ottomanes";
 $page_description = "Ottoman Formes Composées Instrumentales";
-$page_keywords = "musique, arabe, formes, qawaleb, Le Samaï, La Longa, Le Bashraf";
+$page_keywords = "musique, arabe, formes, qawaleb, Le Sama‘i, La Longa, Le Bachraf";
 $page_language = "fr"; // YOU MUST PUT THIS
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Formes Instrumentales Ottomanes</h1>
-                        <h3>Le Samaï, La Longa, Le Bashraf</h3>
+                        <h3>Le Sama‘i, La Longa, Le Bachraf</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Formes</a>
@@ -43,19 +43,21 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/taslim.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Taslim</a>
                     </div>
 
-                    <p>Three instrumental composed forms were borrowed from 19<sup>th</sup> century Turkish/Ottoman music and are still
-                        part of Arabic music today: the Sama‘i, the Longa and the Bashraf. The Sama‘i has survived the best of the three, as Arab musicians continue to compose in this form into the 21<sup>st</sup> century.
+                    <p>
+                        Trois formes instrumentales composées ont été empruntées à la musique ottomane qui font encore partie de la musique arabe d'aujourd'hui: le Sama‘i, la Longa et le Bachraf. De ces trois formes, le Sama‘i est celle qui a le mieux survécu et les musiciens arabes continuent de nos jours à composer dans cette forme.
                     </p>
-                    <p>All three forms are based on a repeating refrain called "<em>taslim</em>" and a number of different verses called "<em>khana</em>". The three compositions are also anchored in a <a href="../maqam.php">maqam</a> and feature that <em>maqam</em>'s <em>sayr</em> as well as its popular modulations. For this reason, the <em>maqam</em> (and the composer) are part of the composition's name.
+                    <p>
+                        Ces trois formes sont basées sur un refrain répété appelé <em>taslim</em> et un nombre de couplets différents appelés <em>khana</em>. Les trois formes sont aussi ancrées dans un <a href="../maqam.php">maqam</a> et suivent le <em>sayr</em> du maqam ainsi que ses modulations les plus populaires. Pour cette raison, le maqam -et le compositeur - font partie du nom de la composition.
                     </p>
 
                     <div id="samai" class="heading jins text-center full-width">
-                        <h3>The Sama‘i</h3>
+                        <h3>Le Sama‘i</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/samai.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Sama‘i</a>
                     </div>
-                    <p> The Sama‘i is an instrumental composed form consisting of four <em>khana</em>-s, each followed by the same <em>taslim</em>. The structure of a Sama‘i is K1, T, K2, T, K3, T, K4, T. All sections are composed in the <a href="../iqaa/samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a>, except the 4<sup>th</sup> <em>khana</em> which is usually composed in a short odd rhythmic cycle like <a href="../iqaa/samai_saraband.php">Iqaa Sama‘i Saraband</a> or <a href="../iqaa/samai_darij.php">Iqaa Sama‘i Darij</a>.
+                    <p>
+                        Le Sama‘i est une forme instrumentale composée qui consiste en quatre <em>khana</em>-s, chacune suivie du même <em>taslim</em>. La structure d'un Sama‘i est K1, T, K2, T, K3, T, K4, T. Chaque section est composée dans le <a href="../iqaa/samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a>, sauf la quatrième khana, qui est généralement composé dans un cycle rythmique asymétrique tel que le <a href="../iqaa/samai_saraband.php">Iqa‘ Sama‘i Saraband</a> ou le <a href="../iqaa/samai_darij.php">Iqa‘ Sama‘i Darij</a>.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=5s1KylUC9_Q">
@@ -68,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sama‘i Bayati - Ibrahim al-‘Aryan</b>
-                                    <span>Sama‘i in <a href="../maqam/bayati.php">Maqam Bayati</a> by Ibrahim al-‘Aryan (Egypt), recorded by the Tunisian Radio Orchestra.</span>
+                                    <span>Sama‘i dans le <a href="../maqam/bayati.php">Maqam Bayati</a> de Ibrahim al-'Aryan (Égypte), enregistré par l'Orchestre de la Radio Tunisienne.</span>
                                 </div>
                             </label>
                         </div>
@@ -83,9 +85,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Sama‘i Hijazkar Kurd - Rawhi al-Khammash</b>
+                                    <b>Sama‘i Hijazkar Kurd - Rohi al-Khammach</b>
                                     <span></span>
-                                    <span>Sama‘i in <a href="../maqam/hijazkar_kurd.php">Maqam Hijazkar Kurd</a> by Rohi al-Khammash (Palestine/Iraq), featuring <a href="../iqaa/jurjina.php">Iqa‘ Jurjina</a> in the 4<sup>th</sup> khana.</span>
+                                    <span>Sama‘i dans le <a href="../maqam/hijazkar_kurd.php">Maqam Hijazkar Kurd</a> de Rohi al-Khammach (Palestine/Iraq) dans lequel il y a un <a href="../iqaa/jurjina.php">Iqa‘ Jurjina</a> dans la quatrième <em>khana</em>.</span>
                                 </div>
                             </label>
                         </div>
@@ -100,9 +102,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Sama‘i Kurd - ‘Abdu Dagher</b>
+                                    <b>Sama‘i Kurd - ‘Abdou Dagher</b>
                                     <span></span>
-                                    <span>Sama‘i in <a href="../maqam/kurd.php">Maqam Kurd</a> by ‘Abdu Dagher (Egypt), which features a long <a href="instr_comp.php#muqaddima">muqaddima</a> (composed introduction).</span>
+                                    <span>Sama‘i in <a href="../maqam/kurd.php">Maqam Kurd</a> by Abdou Dagher(Egypt), which features a long <a href="instr_comp.php#muqaddima">muqaddima</a> (composed introduction).</span>
                                 </div>
                             </label>
                         </div>
@@ -118,7 +120,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sama‘i Rast - George Michel</b>
-                                    <span>Sama‘i in <a href="../maqam/rast.php">Maqam Rast</a> by George Michel (Egypt), recorded by the Tunisian Radio Orchestra.</span>
+                                    <span>Sama‘i dans le <a href="../maqam/rast.php">Maqam Rast</a> de George Michel (Égypte), enregistré par l'Orchestre de la Radio Tunisienne.</span>
                                 </div>
                             </label>
                         </div>
@@ -134,21 +136,24 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sama‘i Nawa Athar - Jamil ‘Uways</b>
-                                    <span>Sama‘i in <a href="../maqam/nawa_athar.php">Maqam Nawa Athar</a> by Jamil ‘Uways (Syria).</span>
+                                    <span>Sama‘i dans le <a href="../maqam/nawa_athar.php">Maqam Nawa Athar</a> de Jamil 'Uways (Syrie).</span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
                     <div id="longa" class="heading jins text-center full-width">
-                        <h3>The Longa</h3>
+                        <h3>La Longa</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/longa.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Longa</a>
                     </div>
-                    <p> The Longa is the second most popular Ottoman instrumental form. It is usually composed in the short and jumpy  <a href="../iqaa/fox.php">Iqa‘ Fox</a> for the <em>khana</em>-s, and <a href="../iqaa/malfuf.php">Iqa‘ Malfuf</a> for the <em>taslim</em>.
+                    
+                    <p>
+                        La Longa est la deuxième forme ottomane la plus populaire. Il est généralement composé dans le court et sautillant <a href="../iqaa/fox.php">Iqa‘ Fox</a> pour les <em>khana</em>-s et dans le <a href="../iqaa/malfuf.php">Iqa‘ Malfuf</a> pour le <em>taslim</em>.
                     </p>
-                    <p> Many longas from the Ottoman era used semitonal maqamat like <a href="../maqam/nahawand.php">Nahawand</a>, <a href="../maqam/hijaz.php">Hijaz</a> and <a href="../maqam/nikriz.php">Nikriz</a>, and used melodies that evoked Eastern European music. A lot of Arab composers still follow that same approach.
+                    <p>
+                        Plusieurs longas de l'ère ottomane utilisent des maqams tempérés tels que <a href="../maqam/nahawand.php">Nahawand</a>, <a href="../maqam/hijaz.php">Hijaz</a> et <a href="../maqam/nikriz.php">Nikriz</a>, et utilisent des mélodies qui évoquent la musique de l'Europe de l'Est. Beaucoup de compositeurs arabes suivent toujours cette approche.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=JnTGci4VSXo">
@@ -160,8 +165,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Longa Farahfaza - Riyad al-Sunbati</b>
-                                    <span>Longa in <a href="../maqam/nahawand.php">Maqam Farahfaza</a> by Riyad al-Sunbati (Egypt), recorded by the Simon Shaheen Ensemble.</span>
+                                    <b>Longa Farahfaza - Riyad al-Soumbati</b>
+                                    <span>Longa dans le <a href="../maqam/nahawand.php">Maqam Farahfaza</a> de Riyad al-Soumbati (Égypte), enregistré par l'Ensemble Simon Shaheen.</span>
                                 </div>
                             </label>
                         </div>
@@ -176,8 +181,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Longa ‘Ajam - ‘Abdu Daghir</b>
-                                    <span>Longa in <a href="../maqam/ajam.php">Maqam ‘Ajam</a> by ‘Abdu Daghir (Egypt), recorded by his ensemble.</span>
+                                    <b>Longa ‘Ajam - ‘Abdou Dagher</b>
+                                    <span>Longa dans le <a href="../maqam/ajam.php">Maqam ‘Ajam</a> de Abdou Dagher(Égypte), enregistré par son ensemble.</span>
                                 </div>
                             </label>
                         </div>
@@ -193,21 +198,23 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Longa Nahawand - Dr. Alfred Gamil</b>
-                                    <span>Longa in <a href="../maqam/nahawand.php">Maqam Nahawand</a> by Dr. Alfred Gamil (Egypt), recorded by his ensemble.</span>
+                                    <span>Longa dans le <a href="../maqam/nahawand.php">Maqam Nahawand</a> du Dr. Alfred Gamil (Égypte), enregistré par son ensemble.</span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
-                    <div id="bashraf" class="heading jins text-center full-width">
-                        <h3>The Bashraf</h3>
+                    <div id="Bachraf" class="heading jins text-center full-width">
+                        <h3>Le Bachraf</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/bashraf.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Bashraf</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/Bachraf.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Bachraf</a>
                     </div>
-                    <p> The bashraf is the least widespread Ottoman instrumental form, and remains mostly in the realm of music lesson and instrumental exercises. The bashraf consists of 4 <em>khana</em>-s, each followed by the same <em>taslim</em>, and is rarely composed by Arab musicians.
+                    <p> 
+                        Le Bachraf est la forme ottomane la moins utilisée et n'est généralement joué que dans le contexte des cours de musique et des exercices instrumentaux. Le Bachraf consiste en quatre <em>khana</em>-s, chacun suivi par le même <em>taslim</em>, et est rarement composé par des musiciens arabes.
                     </p>
-                    <p> Unlike the sama‘i, the bashraf usually follows one single <a href="../iqaa.php">iqa‘</a> throughout the composition, in most cases an even metered <a href="../iqaa.php">iqa‘</a> such as <a href="../iqaa/masmudi_kabir.php">Masmudi Kabir (8/4)</a>, <a href="../iqaa/mukhammas.php">Mukhammas (16/4)</a>, Shanbar (24/4), Dawr al-Kabir (28/4), or longer Ottoman rhythmic cycles.
+                    <p>
+                        Contrairement au Samai, le Bachraf est composé dans le même <a href="../iqaa.php">iqa‘</a> pour toute la composition, dans la plupart des cas un Iqa' au rythme pair tels que le <a href="../iqaa/masmudi_kabir.php">Masmudi Kabir (8/4)</a> (8/4), le <a href="../iqaa/mukhammas.php">Mukhammas (16/4)</a>, le Chanbar (24/4), le Dawr al-Kabir (28/4) ou des cycles rythmiques ottomans plus longs.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=NmNMjWyhiyE">
@@ -219,8 +226,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Bashraf Farahfaza</b>
-                                    <span>Bashraf in <a href="../maqam/nahawand.php">Maqam Farahfaza</a> by Ismail Hakki Bey (Ottoman), recorded by the Simon Shaheen ensemble.</span>
+                                    <b>Bachraf Farahfaza</b>
+                                    <span>Bachraf dans le <a href="../maqam/nahawand.php">Maqam Farahfaza</a> de Ismail Hakki Bey (Ottoman), enregistré par l'Ensemble Simon Shaheen.</span>
                                 </div>
                             </label>
                         </div>
@@ -235,14 +242,14 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Bashraf Qara Bitaq Sikah (1929)</b>
-                                    <span>Bashraf Qara Bitaq in <a href="../maqam/sikah.php">Maqam Sikah</a>, recorded in 1929 by Sami al-Shawwa (Syria) on <a href="../instr/violin.php">violin</a> and Muhammad al-Qasabgi (Egypt) on <a href="../instr/oud.php">oud</a>.</span>
+                                    <b>Bachraf Kara Batak Sikah (1929)</b>
+                                    <span>Ancient Bachraf Kara Batak dans le <a href="../maqam/sikah.php">Maqam Sikah</a>, enregistré en 1929 par Sami al-Chawwa (Syrie) au <a href="../instr/violin.php">violon</a> et Mouhammad al-Qasabgi (Égypte) au <a href="../instr/oud.php">oud</a>.</span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
-                    <!-- add Bashraf Rast Tatyos Effendi -->
+                    <!-- add Bachraf Rast Tatyos Effendi -->
 
                     <p>Explore other groups of forms:</p>
                     <ul>

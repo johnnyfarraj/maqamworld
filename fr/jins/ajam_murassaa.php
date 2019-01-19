@@ -106,7 +106,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Taqsim Qanun in Maqam 'Ajam</b>
-                                    <span>Abdu Daghir</span>
+                                    <span>Abdou Dagher</span>
                                     <span><img src="/img/cd.png"> Al-Gibali</span>
                                 </div>
                             </label>
@@ -170,7 +170,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Layali Zaman</b>
-                                    <span>Instrumental composition by ‘Abdu Dagher</span>
+                                    <span>Instrumental composition by ‘Abdou Dagher</span>
                                     <span>Recorded with his ensemble at the Cairo Opera House.</span>
                                 </div>
                             </label>

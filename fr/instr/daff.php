@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "The Daff";
 $page_description = "The Daff";
-$page_keywords = "arabe, musique, instruments, accordéon, bouzouk, daff, mazhar, guitare électrique, katème, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
+$page_keywords = "arabe, musique, instruments, accordéon, bouzouk, daff, mazhar, guitare électrique, katem, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
 $page_language = "fr"; // YOU MUST PUT THIS
 
 include($ROOT . 'inc/head.php');
@@ -98,7 +98,7 @@ include($ROOT . 'inc/head.php');
                         <li><a href="tabl_baladi.php">Le Tabl Baladi</a></li>
                         <!-- <li><a href="daff.php">Le Daff</a></li> -->
                         <li><a href="mazhar.php">Le Mazhar</a></li>
-                        <li><a href="katim.php">Le Katème</a></li>
+                        <li><a href="katim.php">Le Katem</a></li>
                         <li><a href="sagat.php">Les Sagat</a></li>
                    </ul>
 

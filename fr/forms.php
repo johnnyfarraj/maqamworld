@@ -6,7 +6,7 @@ include('../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Formes de la musique arabe";
 $page_description = "Formes de la musique arabe";
-$page_keywords = "musique, arabe, formes, qawaleb, Le Daour, Le Mouwashah, Le Qadd, La Taqtouqa, La Oughnia, Le Monologue, Le Duo, Le Doulab, La Maqtoua, La Mouqaddima, La Tahmila, Le Darej, Le Samaï, La Longa, Le Bashraf, Le Taqsim, Le Mawwal, Les Layali, La Qassida";
+$page_keywords = "musique, arabe, formes, qawaleb, Le Daour, Le Mouwachah, Le Qadd, La Taqtouqa, La Oughnia, Le Monologue, Le Duo, Le Doulab, La Maqtoua, La Mouqaddima, La Tahmila, Le Darej, Le Sama‘i, La Longa, Le Bachraf, Le Taqsim, Le Mawwal, Les Layali, La Qassida";
 $page_language = "fr"; // YOU MUST PUT THIS
 
 include($ROOT . 'inc/head.php');
@@ -50,7 +50,7 @@ include($ROOT . 'inc/head.php');
                                 <img class="card-img-top" src="/img/riqq1.png" alt="Antique Riqq Pattern">
                                 <div class="card-body">
                                     <h5 class="card-title">Formes Vocales Composées</h5>
-                                    <p class="card-text">Apprenez au sujet des formes suivantes: Le Daour, Le Mouwashah, Le Qadd, La Taqtouqa, La Oughnia, La Qassida, Le Monologue et Le Duo.</p>
+                                    <p class="card-text">Apprenez au sujet des formes suivantes: Le Daour, Le Mouwachah, Le Qadd, La Taqtouqa, La Oughnia, La Qassida, Le Monologue et Le Duo.</p>
                                     <a href="form/vocal_comp.php" class="btn btn-primary">Apprenez...<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <img class="card-img-top" src="/img/riqq3.png" alt="Antique Riqq Pattern">
                                 <div class="card-body">
                                     <h5 class="card-title">Formes Instrumentales Ottomanes</h5>
-                                    <p class="card-text">Apprenez au sujet des formes suivantes: Le Samaï, La Longa et Le Bashraf.</p>
+                                    <p class="card-text">Apprenez au sujet des formes suivantes: Le Sama‘i, La Longa et Le Bachraf.</p>
                                     <a href="form/ottoman.php" class="btn btn-primary">Apprenez...<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>

@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Formes Vocales Composées";
 $page_description = "Formes Vocales Composées";
-$page_keywords = "musique, arabe, formes, qawaleb, Le Daour, Le Mouwashah, Le Qadd, La Taqtouqa, La Oughnia, La Qassida, Le Monologue, Le Duo, Le Doulab";
+$page_keywords = "musique, arabe, formes, qawaleb, Le Daour, Le Mouwachah, Le Qadd, La Taqtouqa, La Oughnia, La Qassida, Le Monologue, Le Duo, Le Doulab";
 $page_language = "fr"; // YOU MUST PUT THIS
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Formes Vocales Composées</h1>
-                        <h3>Le Daour, Le Mouwashah, Le Qadd, La Taqtouqa, La Oughnia, La Qassida, Le Monologue, Le Duo, Le Doulab</h3>
+                        <h3>Le Daour, Le Mouwachah, Le Qadd, La Taqtouqa, La Oughnia, La Qassida, Le Monologue, Le Duo, Le Doulab</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Formes</a>
@@ -105,7 +105,7 @@ include($ROOT . 'inc/head.php');
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/qadd.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Qadd</a>
                     </div>
-                    <p> The Qadd (plural <em>qudud</em>) is a light and simple traditional song that flourished in Aleppo, Syria. <em>Qudud</em> are usually performed at the end of a wasla, after heavier pieces like adwar, qasa'id or muwashahat. Qudud lyrics are in the colloquial Aleppan (or sometimes Egyptian) dialects and are very accessible, down to earth and easy to memorize.
+                    <p> The Qadd (plural <em>qoudoud</em>) is a light and simple traditional song that flourished in Aleppo, Syria. <em>Qudud</em> are usually performed at the end of a wasla, after heavier pieces like adwar, qasa'id or muwashahat. Qudud lyrics are in the colloquial Aleppan (or sometimes Egyptian) dialects and are very accessible, down to earth and easy to memorize.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=zX7gJKlDDyY">
@@ -184,12 +184,12 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div id="taqtuqa" class="heading jins text-center full-width">
-                        <h3>The Taqtuqa</h3>
+                        <h3>The Taqtouqa</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/taqtuqa.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Taqtuqa</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/taqtuqa.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Taqtouqa</a>
                     </div>
-                    <p> The Taqtuqa (plural <em>Taqatiq</em>) is the standard 3-4 minute Arabic song with multiple verses and a repeating chorus. <em>Taqatiq</em> usually use simple <a href="../iqaa.php">iqa‘at</a> like <a href="../iqaa/maqsum.php">Iqa‘ Maqsum</a> and have accessible lyrics and a melody that's simple to memorize and sing along to.
+                    <p> The Taqtouqa (plural <em>Taqatiq</em>) is the standard 3-4 minute Arabic song with multiple verses and a repeating chorus. <em>Taqatiq</em> usually use simple <a href="../iqaa.php">iqa‘at</a> like <a href="../iqaa/maqsum.php">Iqa‘ Maqsum</a> and have accessible lyrics and a melody that's simple to memorize and sing along to.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=uO8eElxaaUY">
@@ -386,7 +386,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Leh Ya Banafseg (1961)</b>
-                                    <span>Saleh Abdel Hayy's <em>Wasla</em> in <a href="../maqam/rast.php">Maqam Rast</a> featuring a <a href="improv.php#taqsim">Taqsim</a> on the <a href="../instr/oud.php">oud</a>, part of <a href="ottoman.pho#samai">Sama‘i</a> Rast by Tatyos Effendi, a <a href="../instr/violin.php">violin</a> Taqsim, <a href="improv.php#layali">Layali</a> accompanied by the <a href="../instr/qanun.php">qanun</a>, and finally the <a href="vocal_comp.php#taqtuqa">Taqtuqa</a> <strong>Leh Ya Banafseg</strong> (1961), composed by Riyad al-Sunbati.</span>
+                                    <span>Saleh Abdel Hayy's <em>Wasla</em> in <a href="../maqam/rast.php">Maqam Rast</a> featuring a <a href="improv.php#taqsim">Taqsim</a> on the <a href="../instr/oud.php">oud</a>, part of <a href="ottoman.pho#samai">Sama‘i</a> Rast by Tatyos Effendi, a <a href="../instr/violin.php">violin</a> Taqsim, <a href="improv.php#layali">Layali</a> accompanied by the <a href="../instr/qanun.php">qanun</a>, and finally the <a href="vocal_comp.php#taqtuqa">Taqtouqa</a> <strong>Leh Ya Banafseg</strong> (1961), composed by Riyad al-Sunbati.</span>
                                 </div>
                             </label>
                         </div>
