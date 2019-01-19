@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qasidat Ja'at Mu‘adhibati</b>
+                                    <b>Qassidat Ja'at Mu‘adhibati</b>
                                     <span>Fatima Serhan</span>
                                     <span><img src="/img/cd.png"> The Queen of Balady</span>
                                 </div>
@@ -122,7 +122,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qasida ‘Ayni Li Ghayri Jamalikum</b>
+                                    <b>Qassida ‘Ayni Li Ghayri Jamalikum</b>
                                     <span>Al-Turath Ensemble</span>
                                 </div>
                             </label>

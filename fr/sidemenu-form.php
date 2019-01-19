@@ -11,7 +11,7 @@
     <li><a href="/fr/form/instr_comp.php#maqtua">La Maqtoua</a></li>
     <li><a href="/fr/form/improv.php#mawwal">Le Mawwal</a></li>
     <li><a href="/fr/form/vocal_comp.php#monologue">Le Monologue</a></li>
-    <li><a href="/fr/form/vocal_comp.php#muwashah">Le Mouwachah</a></li>
+    <li><a href="/fr/form/vocal_comp.php#muwashah">Le Mouachah</a></li>
     <li><a href="/fr/form/instr_comp.php#muqaddima">La Mouqaddima</a></li>
     <li><a href="/fr/form/vocal_comp.php#qadd">Le Qadd</a></li>
     <li><a href="/fr/form/vocal_comp.php#qasida">La Qassida (composee)</a></li>

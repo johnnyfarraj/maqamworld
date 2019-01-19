@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Formes Vocales Composées";
 $page_description = "Formes Vocales Composées";
-$page_keywords = "musique, arabe, formes, qawaleb, Le Daour, Le Mouwachah, Le Qadd, La Taqtouqa, La Oughnia, La Qassida, Le Monologue, Le Duo, Le Doulab";
+$page_keywords = "musique, arabe, formes, qawaleb, Le Daour, Le Mouachah, Le Qadd, La Taqtouqa, La Oughnia, La Qassida, Le Monologue, Le Duo, Le Doulab";
 $page_language = "fr"; // YOU MUST PUT THIS
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Formes Vocales Composées</h1>
-                        <h3>Le Daour, Le Mouwachah, Le Qadd, La Taqtouqa, La Oughnia, La Qassida, Le Monologue, Le Duo, Le Doulab</h3>
+                        <h3>Le Daour, Le Mouachah, Le Qadd, La Taqtouqa, La Oughnia, La Qassida, Le Monologue, Le Duo, Le Doulab</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Formes</a>
@@ -49,7 +49,7 @@ include($ROOT . 'inc/head.php');
                     <p>
                         Muwashahat often use odd and complex rhythmic cycles (see <a href="../iqaa.php">iqa‘at</a>) starting from 5/4, to 7/4, 7/8, 10/8, 11/8, 13/8, 17/8 and so on. <em>Muwashahat</em> melodies are intricate, often syncopated and leverage these <em>iqa‘at</em>. </p>
                     <p>
-                        The traditional was to perform a <em>muwashah</em> is by a <em>mutrib</em> (principal vocalist) and an ensemble that includes backing vocalists. The <em>mutrib</em> can take a composed section and repeat it multiple times, each time with a different improvisation or <a href="../maqam.php">maqam</a> modulation (this practice is called <em>tafrid</em>). These solo improvisations alternate back and forth with the backing vocalists singing the composed melody.</p>
+                        The traditional was to perform a <em>muwashah</em> is by a <em>moutreb</em> (principal vocalist) and an ensemble that includes backing vocalists. The <em>moutreb</em> can take a composed section and repeat it multiple times, each time with a different improvisation or <a href="../maqam.php">maqam</a> modulation (this practice is called <em>tafrid</em>). These solo improvisations alternate back and forth with the backing vocalists singing the composed melody.</p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=eK6iCYSuaKI">
                         <div class="radio">
@@ -262,7 +262,7 @@ include($ROOT . 'inc/head.php');
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/ughniya.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Ughniya</a>
                     </div>
-                    <p> The Ughniya (plural <em>aghani</em>) is a long song developed toward the middle of the 20<sup>th</sup> century. The ughniya can last up to hour in a live setting and has a long introduction (see <a href="instr_comp.php#muqaddima">The Muqaddima</a>) as well as multiple sections with full maqam modulations. The ughniya is usually performed with a large orchestra and features megastar singers like Oum Koulthoum, Abdel Halim Hafez and Warda.</p>
+                    <p> The Ughniya (plural <em>aghani</em>) is a long song developed toward the middle of the 20<sup>th</sup> century. The ughniya can last up to hour in a live setting and has a long introduction (see <a href="instr_comp.php#muqaddima">The Mouqaddima</a>) as well as multiple sections with full maqam modulations. The ughniya is usually performed with a large orchestra and features megastar singers like Oum Koulthoum, Abdel Halim Hafez and Warda.</p>
 
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=Ptd3R51Qj-s&t=723s">
@@ -282,12 +282,12 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div id="qasida" class="heading jins text-center full-width">
-                        <h3>The Qasida (composed)</h3>
+                        <h3>The Qassida (composed)</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qasida.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Qasida</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qasida.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Qassida</a>
                     </div>
-                    <p> The Qasida (plural <em>Qasa'id</em>) is a metered poem in classical Arabic, and the composed form using that poem as its lyrics. The <em>qasida</em> is usually performed by a solo vocalist accompanied by an ensemble, and tends to be long and elaborate in order to feature the vocalist.
+                    <p> The Qassida (plural <em>Qasa'id</em>) is a metered poem in classical Arabic, and the composed form using that poem as its lyrics. The <em>qasida</em> is usually performed by a solo vocalist accompanied by an ensemble, and tends to be long and elaborate in order to feature the vocalist.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=5z8LvG5tfOE">
@@ -300,7 +300,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>al-Atlal (1966)</b>
-                                    <span>Oum Koulthoum's Qasida <strong>al-Atlal</strong> (1966) composed by Riyad al-Sunbati.</span>
+                                    <span>Oum Koulthoum's Qassida <strong>al-Atlal</strong> (1966) composed by Riyad al-Sunbati.</span>
                                 </div>
                             </label>
                         </div>
@@ -408,7 +408,7 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <p>Explore other groups of forms:</p>
+                    <p>Explorez d'autres groupes de formes:</p>
                     <ul>
                         <!-- <li><a href="vocal_comp.php">Formes Vocales Composées</a></li> -->
                         <li><a href="instr_comp.php">Formes Composées Instrumentales</a></li>

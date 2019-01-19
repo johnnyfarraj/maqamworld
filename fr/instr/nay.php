@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Mahmoud ‘Effat</b>
                                     <span>
                                     Mahmoud 'Effat (Égypte),  grand joueur de nay et professeur, membre pendant de nombreuses années de l'Orchestre Diamant, jouant un <a href="../form/improv.php#taqsim">Taqsim</a>
-                                    dans le <a href="../maqam/saba.php">Maqam Saba</a>.</span>
+                                    en <a href="../maqam/saba.php">Maqam Saba</a>.</span>
                                 </div>
                             </label>
                         </div>
@@ -116,7 +116,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Michael Ibrahim</b>
                                     <span>
                                     Michael Ibrahim (Syrie), directeur de l'Orchestre National Arabe (Etats-Unis),
-                                    jouant un <a href="../form/improv.php#taqsim">Taqsim</a> dans le <a href="../maqam/saba.php">Maqam Saba</a>. Pendant une performance de l'orchestre.</span>
+                                    jouant un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/saba.php">Maqam Saba</a>. Pendant une performance de l'orchestre.</span>
                                 </div>
                             </label>
                         </div>

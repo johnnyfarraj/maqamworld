@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                     <li><a href="iqaa/karachi.php">Karachi 2/4</a></li>
                                     <li><a href="iqaa/fallahi.php">Fallahi 2/4</a></li>
                                     <li><a href="iqaa/wahda_saghira.php">Wahda Saghira 2/4</a></li>
-                                    <li><a href="iqaa/samai_darij.php">Sama`i Darij 3/4</a></li>
+                                    <li><a href="iqaa/samai_darij.php">Sama`i Darej 3/4</a></li>
                                     <li><a href="iqaa/samai_saraband.php">Sama`i Saraband 3/8</a></li>
                                 </ul>
                             </div>

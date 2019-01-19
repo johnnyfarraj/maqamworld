@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/samai.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Sama‘i</a>
                     </div>
                     <p>
-                        Le Sama‘i est une forme instrumentale composée qui consiste en quatre <em>khana</em>-s, chacune suivie du même <em>taslim</em>. La structure d'un Sama‘i est K1, T, K2, T, K3, T, K4, T. Chaque section est composée dans le <a href="../iqaa/samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a>, sauf la quatrième khana, qui est généralement composé dans un cycle rythmique asymétrique tel que le <a href="../iqaa/samai_saraband.php">Iqa‘ Sama‘i Saraband</a> ou le <a href="../iqaa/samai_darij.php">Iqa‘ Sama‘i Darij</a>.
+                        Le Sama‘i est une forme instrumentale composée qui consiste en quatre <em>khana</em>-s, chacune suivie du même <em>taslim</em>. La structure d'un Sama‘i est K1, T, K2, T, K3, T, K4, T. Chaque section est composée dans le <a href="../iqaa/samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a>, sauf la quatrième khana, qui est généralement composé dans un cycle rythmique asymétrique tel que le <a href="../iqaa/samai_saraband.php">Iqa‘ Sama‘i Saraband</a> ou le <a href="../iqaa/samai_darij.php">Iqa‘ Sama‘i Darej</a>.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=5s1KylUC9_Q">
@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sama‘i Bayati - Ibrahim al-‘Aryan</b>
-                                    <span>Sama‘i dans le <a href="../maqam/bayati.php">Maqam Bayati</a> de Ibrahim al-'Aryan (Égypte), enregistré par l'Orchestre de la Radio Tunisienne.</span>
+                                    <span>Sama‘i en <a href="../maqam/bayati.php">Maqam Bayati</a> de Ibrahim al-'Aryan (Égypte), enregistré par l'Orchestre de la Radio Tunisienne.</span>
                                 </div>
                             </label>
                         </div>
@@ -87,7 +87,7 @@ include($ROOT . 'inc/head.php');
                              --><div class="info">
                                     <b>Sama‘i Hijazkar Kurd - Rohi al-Khammach</b>
                                     <span></span>
-                                    <span>Sama‘i dans le <a href="../maqam/hijazkar_kurd.php">Maqam Hijazkar Kurd</a> de Rohi al-Khammach (Palestine/Iraq) dans lequel il y a un <a href="../iqaa/jurjina.php">Iqa‘ Jurjina</a> dans la quatrième <em>khana</em>.</span>
+                                    <span>Sama‘i en <a href="../maqam/hijazkar_kurd.php">Maqam Hijazkar Kurd</a> de Rohi al-Khammach (Palestine/Iraq) dans lequel il y a un <a href="../iqaa/jurjina.php">Iqa‘ Jurjina</a> dans la quatrième <em>khana</em>.</span>
                                 </div>
                             </label>
                         </div>
@@ -120,7 +120,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sama‘i Rast - George Michel</b>
-                                    <span>Sama‘i dans le <a href="../maqam/rast.php">Maqam Rast</a> de George Michel (Égypte), enregistré par l'Orchestre de la Radio Tunisienne.</span>
+                                    <span>Sama‘i en <a href="../maqam/rast.php">Maqam Rast</a> de George Michel (Égypte), enregistré par l'Orchestre de la Radio Tunisienne.</span>
                                 </div>
                             </label>
                         </div>
@@ -136,7 +136,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sama‘i Nawa Athar - Jamil ‘Uways</b>
-                                    <span>Sama‘i dans le <a href="../maqam/nawa_athar.php">Maqam Nawa Athar</a> de Jamil 'Uways (Syrie).</span>
+                                    <span>Sama‘i en <a href="../maqam/nawa_athar.php">Maqam Nawa Athar</a> de Jamil 'Uways (Syrie).</span>
                                 </div>
                             </label>
                         </div>
@@ -166,7 +166,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Longa Farahfaza - Riyad al-Soumbati</b>
-                                    <span>Longa dans le <a href="../maqam/nahawand.php">Maqam Farahfaza</a> de Riyad al-Soumbati (Égypte), enregistré par l'Ensemble Simon Shaheen.</span>
+                                    <span>Longa en <a href="../maqam/nahawand.php">Maqam Farahfaza</a> de Riyad al-Soumbati (Égypte), enregistré par l'Ensemble Simon Shaheen.</span>
                                 </div>
                             </label>
                         </div>
@@ -182,7 +182,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Longa ‘Ajam - ‘Abdou Dagher</b>
-                                    <span>Longa dans le <a href="../maqam/ajam.php">Maqam ‘Ajam</a> de Abdou Dagher(Égypte), enregistré par son ensemble.</span>
+                                    <span>Longa en <a href="../maqam/ajam.php">Maqam ‘Ajam</a> de Abdou Dagher(Égypte), enregistré par son ensemble.</span>
                                 </div>
                             </label>
                         </div>
@@ -198,7 +198,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Longa Nahawand - Dr. Alfred Gamil</b>
-                                    <span>Longa dans le <a href="../maqam/nahawand.php">Maqam Nahawand</a> du Dr. Alfred Gamil (Égypte), enregistré par son ensemble.</span>
+                                    <span>Longa en <a href="../maqam/nahawand.php">Maqam Nahawand</a> du Dr. Alfred Gamil (Égypte), enregistré par son ensemble.</span>
                                 </div>
                             </label>
                         </div>
@@ -227,7 +227,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Bachraf Farahfaza</b>
-                                    <span>Bachraf dans le <a href="../maqam/nahawand.php">Maqam Farahfaza</a> de Ismail Hakki Bey (Ottoman), enregistré par l'Ensemble Simon Shaheen.</span>
+                                    <span>Bachraf en <a href="../maqam/nahawand.php">Maqam Farahfaza</a> de Ismail Hakki Bey (Ottoman), enregistré par l'Ensemble Simon Shaheen.</span>
                                 </div>
                             </label>
                         </div>
@@ -243,7 +243,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Bachraf Kara Batak Sikah (1929)</b>
-                                    <span>Ancient Bachraf Kara Batak dans le <a href="../maqam/sikah.php">Maqam Sikah</a>, enregistré en 1929 par Sami al-Chawwa (Syrie) au <a href="../instr/violin.php">violon</a> et Mouhammad al-Qasabgi (Égypte) au <a href="../instr/oud.php">oud</a>.</span>
+                                    <span>Ancient Bachraf Kara Batak en <a href="../maqam/sikah.php">Maqam Sikah</a>, enregistré en 1929 par Sami al-Chawwa (Syrie) au <a href="../instr/violin.php">violon</a> et Mouhammad al-Qasabgi (Égypte) au <a href="../instr/oud.php">oud</a>.</span>
                                 </div>
                             </label>
                         </div>
@@ -251,7 +251,7 @@ include($ROOT . 'inc/head.php');
 
                     <!-- add Bachraf Rast Tatyos Effendi -->
 
-                    <p>Explore other groups of forms:</p>
+                    <p>Explorez d'autres groupes de formes:</p>
                     <ul>
                         <li><a href="vocal_comp.php">Formes Vocales Composées</a></li>
                         <li><a href="instr_comp.php">Formes Composées Instrumentales</a></li>

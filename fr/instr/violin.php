@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sami al-Shawwa</b>
-                                    <span>Un des pionniers du violon arabe du début du 20<sup>ième</sup> siècle, le violoniste syrien Sami al-Shawwa (connu aussi comme le Prince du Violon) jouant un <a href="../form/improv.php#taqsim">Taqsim</a> dans le <a href="../maqam/hijazkar.php">Maqam Hijazkar</a>.</span>
+                                    <span>Un des pionniers du violon arabe du début du 20<sup>ième</sup> siècle, le violoniste syrien Sami al-Shawwa (connu aussi comme le Prince du Violon) jouant un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/hijazkar.php">Maqam Hijazkar</a>.</span>
                                 </div>
                             </label>
                         </div>
@@ -95,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Abboud Abdel ‘Al</b>
-                                    <span>Le violoniste palestino-libanais Abboud Abdel ‘Al joue un <a href="../form/improv.php#taqsim">Taqsim</a> dans le <a href="../maqam/bayati.php">Maqam Bayati</a> sur le <a href="../iqaa/samai.php">Iqa‘ Sama‘i Thaqil</a> (enregistré sur la télévision libanaise).</span>
+                                    <span>Le violoniste palestino-libanais Abboud Abdel ‘Al joue un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/bayati.php">Maqam Bayati</a> sur le <a href="../iqaa/samai.php">Iqa‘ Sama‘i Thaqil</a> (enregistré sur la télévision libanaise).</span>
                                 </div>
                             </label>
                         </div>
@@ -127,7 +127,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Simon Shaheen</b>
-                                    <span>Le violoniste palestinien Simon Shaheen jouant un <a href="../form/improv.php#taqsim">Taqsim</a> dans le <a href="../maqam/rast.php">Maqam Rast</a> sur l'<a href="../iqaa/rumba.php">Iqa‘ Rumba</a>, finissant par la deuxième partie de la composition instrumentale Longa<a href="../maqam/nahawand.php">Farahfaza</a> de Riyad al-Soumbati.</span>
+                                    <span>Le violoniste palestinien Simon Shaheen jouant un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/rast.php">Maqam Rast</a> sur l'<a href="../iqaa/rumba.php">Iqa‘ Rumba</a>, finissant par la deuxième partie de la composition instrumentale Longa<a href="../maqam/nahawand.php">Farahfaza</a> de Riyad al-Soumbati.</span>
                                 </div>
                             </label>
                         </div>

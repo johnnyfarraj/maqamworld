@@ -61,7 +61,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Muhyiddine Ba‘yun</b>
-                                    <span>Le joueur de bouzouk et chanteur libanias Muhyiddine Ba'yun jouant un <a href="../form/improv.php#taqsim">Taqsim</a> dans le <a href="../maqam/bayati.php">Maqam Bayati</a>.</span>
+                                    <span>Le joueur de bouzouk et chanteur libanias Muhyiddine Ba'yun jouant un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/bayati.php">Maqam Bayati</a>.</span>
                                 </div>
                             </label>
                         </div>
@@ -93,7 +93,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Matar Mouhammad</b>
-                                    <span>Le virtuose du bouzouk libanias Matar Muhammad joue un <a href="../form/improv.php#taqsim">Taqsim</a> dans un concert. Son Taqsim met le bouzouk au même niveau que les autres instruments traditionnels arabes pour ce qui a trait à la complexité, la technique, l'ornementation, les modulations dans le <a href="../maqam.php">maqam</a>, et la longueur.</span>
+                                    <span>Le virtuose du bouzouk libanias Matar Muhammad joue un <a href="../form/improv.php#taqsim">Taqsim</a> dans un concert. Son Taqsim met le bouzouk au même niveau que les autres instruments traditionnels arabes pour ce qui a trait à la complexité, la technique, l'ornementation, les modulations en <a href="../maqam.php">maqam</a>, et la longueur.</span>
                                 </div>
                             </label>
                         </div>
@@ -109,7 +109,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Zoro Youssef</b>
-                                    <span>Le joueur de bouzouk kurdo-libanais Zoro Yussef (Zoro Seîd Yûsiv) jouant un <a href="../form/improv.php#taqsim">Taqsim</a> dans le <a href="../maqam/rast.php">Maqam Rast</a>. Enregistré en direct par la télévision libanaise.</span>
+                                    <span>Le joueur de bouzouk kurdo-libanais Zoro Yussef (Zoro Seîd Yûsiv) jouant un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/rast.php">Maqam Rast</a>. Enregistré en direct par la télévision libanaise.</span>
                                 </div>
                             </label>
                         </div>

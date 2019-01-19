@@ -94,7 +94,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qasida Salu Qalbi (1946)</b>
+                                    <b>Qassida Salu Qalbi (1946)</b>
                                     <span>Umm Kulthum</span>
                                     <span>Music by Riyad al-Sunbati</span>
                                 </div>

@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qasida Mudnaka (1938)</b>
+                                    <b>Qassida Mudnaka (1938)</b>
                                     <span>Vocals and Music by Muhammad Abdel Wahab</span>
                                 </div>
                             </label>

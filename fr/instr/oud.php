@@ -87,7 +87,7 @@ include($ROOT . 'inc/head.php');
                              --><div class="info">
                                     <b>Mouhammad al-Qasabgi</b>
                                     <span>Virtuose du oud et compositeur égyptien, Mouhammad al-Qasabgi joue ici
-                                    un <a href="../form/improv.php#taqsim">Taqsim</a> dans le <a href="../maqam/rast.php">Maqam Rast</a>
+                                    un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/rast.php">Maqam Rast</a>
                                     (enregistré au Conservatoire de Musique Arabe au Caire, en 1955).
                                     </span>
                                 </div>
@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Farid al-Atrach</b>
                                     <span>Virtuose du oud syrien, Farid al-Atrach (connu aussi comme le 'Roi du Oud)
                                     joue ici un <a href="../form/improv.php#taqsim">Taqsim</a> très connu,
-                                    dans le <a href="../maqam/bayati.php">Maqam Bayati</a>, avant de jouer sa composition <strong>al-Rabi‘</strong> (1949).
+                                    en <a href="../maqam/bayati.php">Maqam Bayati</a>, avant de jouer sa composition <strong>al-Rabi‘</strong> (1949).
                                     </span>
                                 </div>
                             </label>
@@ -124,7 +124,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Simon Shaheen</b>
-                                    <span>Le joueur de oud palestinien Simon Shaheen joue dans le <a href="../maqam/hijaz.php">Maqam Hijaz</a>.
+                                    <span>Le joueur de oud palestinien Simon Shaheen joue en <a href="../maqam/hijaz.php">Maqam Hijaz</a>.
                                     Enregistré au Musée Métropolitain de New York en 1987.
                                     </span>
                                 </div>
@@ -161,7 +161,7 @@ include($ROOT . 'inc/head.php');
                              --><div class="info">
                                     <b>‘Amer ‘Ammouri</b>
                                     <span>Le joueur de oud syrien 'Amer 'Ammouri jouant un <a href="../form/improv.php#taqsim">Taqsim</a>
-                                    dans le <a href="../maqam/bayati.php">Maqam Bayati</a>.
+                                    en <a href="../maqam/bayati.php">Maqam Bayati</a>.
                                     Avec l'orchestre de Sabah Fakhri (enregistré à l'Opéra du Caire).
                                     </span>
                                 </div>
