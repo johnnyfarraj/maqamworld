@@ -73,7 +73,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Bayna Qasiyun Wa Rabwa</b>
+                                    <b>Mouachah Bayna Qasiyun Wa Rabwa</b>
                                     <span>Syrian National Orchestra</span>
                                     <span>Music by ‘Umar al-Batsh</span>
                                 </div>

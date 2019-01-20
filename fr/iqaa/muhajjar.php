@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/muhajjar.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Muhajjar is a very popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> repertoire. It is immediately recognizable by the 3 consecutive <em>dum</em>-s that open the measure. The word "muhajjar" in Arabic means made of/turned into stone.</p>
+                    <p>Iqa‘ Muhajjar is a very popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Mouachah</a> repertoire. It is immediately recognizable by the 3 consecutive <em>dum</em>-s that open the measure. The word "muhajjar" in Arabic means made of/turned into stone.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -55,7 +55,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Badat Min al-Khidri</b>
+                                    <b>Mouachah Badat Min al-Khidri</b>
                                     <span>Ensemble Al-Kindi</span>
                                 </div>
                             </label>
@@ -67,7 +67,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Hajarni Habibi</b>
+                                    <b>Mouachah Hajarni Habibi</b>
                                     <span>Al-Turath Ensemble</span>
                                 </div>
                             </label>
@@ -79,7 +79,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Hal ‘Ala al-Astar</b>
+                                    <b>Mouachah Hal ‘Ala al-Astar</b>
                                     <span>Ensemble Morkos</span>
                                 </div>
                             </label>
@@ -91,11 +91,11 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Muyati ‘Azza Istibari</b>
+                                    <b>Mouachah Muyati ‘Azza Istibari</b>
                                     <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
                                     <span>Conductor: Aïda Shalhoub Ziadé</span>
                                     <span>Music by Sayyed Darwish</span>
-                                    <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
+                                    <span><img src="/img/cd.png"> Orientalia: Mouachah and Song series</span>
                                 </div>
                             </label>
                         </div>
@@ -106,7 +106,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ya Tura Ba‘da al-Bi‘adi</b>
+                                    <b>Mouachah Ya Tura Ba‘da al-Bi‘adi</b>
                                     <span>Ensemble Al-Kindi</span>
                                 </div>
                             </label>

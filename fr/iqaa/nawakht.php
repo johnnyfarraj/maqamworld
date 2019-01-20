@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/nawakht.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Nawakht is a very popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> repertoire, and tends to be played at mellow speed.</p>
+                    <p>Iqa‘ Nawakht is a very popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Mouachah</a> repertoire, and tends to be played at mellow speed.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -55,7 +55,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Ya Hilalan</b>
+                                    <b>Mouachah Ya Hilalan</b>
                                     <span>Abdel Halim Noueirah Ensemble</span>
                                 </div>
                             </label>
@@ -67,7 +67,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Badru Timmin Haza Husnan</b>
+                                    <b>Mouachah Badru Timmin Haza Husnan</b>
                                     <span>Abdel Halim Noueirah Ensemble</span>
                                 </div>
                             </label>
@@ -79,7 +79,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Qultu Lamma Ghaba ‘Anni</b>
+                                    <b>Mouachah Qultu Lamma Ghaba ‘Anni</b>
                                     <span>Hasan al-Haffar</span>
                                 </div>
                             </label>
@@ -91,7 +91,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Hati Ya Habibi</b>
+                                    <b>Mouachah Hati Ya Habibi</b>
                                     <span>Abdel Halim Noueirah Ensemble</span>
                                 </div>
                             </label>
@@ -103,7 +103,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ijma‘u bil-Qurbi Shamli</b>
+                                    <b>Mouachah Ijma‘u bil-Qurbi Shamli</b>
                                     <span>Sabah Fakhri</span>
                                 </div>
                             </label>
@@ -115,7 +115,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Jalla Man Qad Sagha Badran</b>
+                                    <b>Mouachah Jalla Man Qad Sagha Badran</b>
                                     <span>Ensemble Morkos</span>
                                 </div>
                             </label>
@@ -127,7 +127,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Khala al-‘Idhar</b>
+                                    <b>Mouachah Khala al-‘Idhar</b>
                                     <span>Vocals and Music by ‘Umar al-Batsh</span>
                                 </div>
                             </label>

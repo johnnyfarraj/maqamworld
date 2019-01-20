@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>The notated <em>iqa‘</em> is meant to be a skeleton or a prototype for how to perform it. In practice, percussionists ornament an <em>iqa‘</em> (flesh it out) with additional beats: <em>dum</em>-s, <em>tak</em>-s and whatever other sounds the instrument is able to produce. That ornamentation depends a lot on the genre of Arabic music, the desired arrangement aesthetic, the instrument itself, the size of the rhythm section, and on the percussionist’s personal style.</p>
 
-                    <p>Arabic <em>iqa‘at</em> come is many different time signatures, which can be even as well as odd. The smaller time signatures (2/4, 3/4, 4/4, 6/4 and 8/4) are mostly used in folk music, the tarab genre of the mid-twentieth century and contemporary popular music. Longer <em>iqa‘at</em> (7/8, 9/8, 10/8 all the way to 32/4) are mostly used in the traditional Muwashahat vocal genre.</p>
+                    <p>Arabic <em>iqa‘at</em> come is many different time signatures, which can be even as well as odd. The smaller time signatures (2/4, 3/4, 4/4, 6/4 and 8/4) are mostly used in folk music, the tarab genre of the mid-twentieth century and contemporary popular music. Longer <em>iqa‘at</em> (7/8, 9/8, 10/8 all the way to 32/4) are mostly used in the traditional Mouachahat vocal genre.</p>
 
                     <p>You can start exploring a sample of Arabic iqa‘at using the Iqa‘ Index (sorted alphabetically) or using the table below (sorted by number of beats per measure):</p>
 

@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Halawit el-Dunya</b>
                                     <span>Sayyed Makkawi</span>
-                                    <span>Music by Zakariyya Ahmad</span>
+                                    <span>Music by Zakaria Ahmad</span>
                                 </div>
                             </label>
                         </div>
@@ -82,9 +82,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Badru Timmin Haza Husnan</b>
+                                    <b>Mouachah Badru Timmin Haza Husnan</b>
                                     <span>Ghada Shbeir</span>
-                                    <span><img src="/img/cd.png"> Al Muwashahat</span>
+                                    <span><img src="/img/cd.png"> Al Mouachahat</span>
                                 </div>
                             </label>
                         </div>
@@ -95,7 +95,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Hibbi Zurni My Tayassar</b>
+                                    <b>Mouachah Hibbi Zurni My Tayassar</b>
                                     <span>Karem Mahmud</span>
                                     <span>Music by Darwish al-Hariri</span>
                                 </div>
@@ -108,7 +108,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ramani Bi Sahmi Hawahu</b>
+                                    <b>Mouachah Ramani Bi Sahmi Hawahu</b>
                                     <span>Sabah Fakhri</span>
                                     <span>Music by Daoud Husni</span>
                                 </div>

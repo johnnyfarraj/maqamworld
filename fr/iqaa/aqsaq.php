@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/aqsaq_f1.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Aqsaq is very popular in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre. It is 1 beat short of <a href="samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a> but sometimes it can be played immediately before or after a piece in that iqa‘ without interruption, during a Wasla.
+                    <p>Iqa‘ Aqsaq is very popular in the <a href="../form/vocal_comp.php#muwashah">Mouachah</a> vocal genre. It is 1 beat short of <a href="samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a> but sometimes it can be played immediately before or after a piece in that iqa‘ without interruption, during a Wasla.
 					</p>
 
                     <div class="player-area">
@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Ma-htiyali</b>
+                                    <b>Mouachah Ma-htiyali</b>
                                     <span>Louis Hage &amp; Aida Chalhoub</span>
                                     <span><img src="/img/cd.png"> Mouwashah - Chants Arabo-andalous</span>
                                 </div>
@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ana Min Wajdi Ana</b>
+                                    <b>Mouachah Ana Min Wajdi Ana</b>
                                     <span>Aicha Redouane</span>
                                     <span><img src="/img/cd.png"> Egypte</span>
                                 </div>
@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Jalla Man Bil Husni Sawwar</b>
+                                    <b>Mouachah Jalla Man Bil Husni Sawwar</b>
                                     <span>Abdel Halim Noueirah Ensemble</span>
                                     <span>Music by Kamel al-Khula‘i</span>
                                 </div>
@@ -120,7 +120,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ma-htiyali</b>
+                                    <b>Mouachah Ma-htiyali</b>
                                     <span>Al-Turath Ensemble</span>
                                     <span><img src="/img/cd.png"> The Music In Spanish Al Andalus - Hijaz</span>
                                 </div>
@@ -133,7 +133,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ayyua al-Saqi</b>
+                                    <b>Mouachah Ayyua al-Saqi</b>
                                     <span>Sabah Fakhri</span>
                                     <span><img src="/img/cd.png"> Beiteddine Festival Vol. 1</span>
                                     <span>Music by Majdi al-‘Aqili</span>
@@ -147,7 +147,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah ‘Adhibuni</b>
+                                    <b>Mouachah ‘Adhibuni</b>
                                     <span>Ensemble Al-Kindi</span>
                                     <span><img src="/img/cd.png"> The Aleppian Music Room Vol. 1 - Hijazkar Kurd &amp; Saba</span>
                                     <span>Music by ‘Umar al-Batsh</span>

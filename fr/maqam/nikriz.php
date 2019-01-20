@@ -127,7 +127,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Bayna Qasiyun Wa Rabwa</b>
+                                    <b>Mouachah Bayna Qasiyun Wa Rabwa</b>
                                     <span>Hassan al-Haffar</span>
                                     <span>Music by ‘Umar al-Batsh</span>
                                 </div>
@@ -140,7 +140,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Zarani Taht al-Ghayahib</b>
+                                    <b>Mouachah Zarani Taht al-Ghayahib</b>
                                     <span>Muhammad Khayri</span>
                                     <span>Music by ‘Umar al-Batsh</span>
                                 </div>

@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Formes Vocales Composées";
 $page_description = "Formes Vocales Composées";
-$page_keywords = "musique, arabe, formes, qawaleb, Le Daour, Le Mouachah, Le Qadd, La Taqtouqa, La Oughnia, La Qassida, Le Monologue, Le Duo, Le Doulab";
+$page_keywords = "musique, arabe, formes, qawaleb, Le Dawr, Le Mouachah, Le Qadd, La Taqtouqa, La Oughnia, La Qassida, Le Monologue, Le Duo, Le Doulab";
 $page_language = "fr"; // YOU MUST PUT THIS
 
 include($ROOT . 'inc/head.php');
@@ -30,26 +30,28 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Formes Vocales Composées</h1>
-                        <h3>Le Daour, Le Mouachah, Le Qadd, La Taqtouqa, La Oughnia, La Qassida, Le Monologue, Le Duo, Le Doulab</h3>
+                        <h3>Le Dawr, Le Mouachah, Le Qadd, La Taqtouqa, La Oughnia, La Qassida, Le Monologue, Le Duo, Le Doulab</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Formes</a>
                     <div class="clearfix"></div>
 
-                    <p>Formes Vocales Composées are the bread and butter of Arabic Music, since that is overwhelmigly a vocal tradition.</p>
+                    <p>Les formes vocales composées sont au centre de la musique arabe: celle-ci est en effet essentiellement une tradition vocale.</p>
 
                     <div id="muwashah" class="heading jins text-center full-width">
-                        <h3>The Muwashshah</h3>
+                        <h3>Le Mouachah</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/muwashah.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Muwashshah</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/muwashah.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Mouachah</a>
                     </div>
                     <p>
-                    	The Muwashah (plural <em>Muwashahat</em>) is a complex vocal form based on classical Arabic poems from Andalusia (hence <em>muwashahat</em> are sometimes qualified as Andalusian even though their composed melodies are invariably from Syria through Egypt, and only date back from the last century or two.) </p>
+                        Le Mouachah (<em>Mouachahat</em> au pluriel) est une forme vocale complexe basée sur des poèmes arabes classiques de l'Andalousie (ce pourquoi les Mouachahat sont parfois qualifiés d'Andalous même si les mélodies ont été composées dans la région se situant entre la Syrie et l'Égypte et qu'ils ne sont apparus que depuis un ou deux siècles).
+                    </p>
                     <p>
-                        Muwashahat often use odd and complex rhythmic cycles (see <a href="../iqaa.php">iqa‘at</a>) starting from 5/4, to 7/4, 7/8, 10/8, 11/8, 13/8, 17/8 and so on. <em>Muwashahat</em> melodies are intricate, often syncopated and leverage these <em>iqa‘at</em>. </p>
+                        Les Mouachahat sont souvent composés sur des cycles rythmiques impairs et complexes (voir <a href="../iqaa.php">iqa‘at</a>), en partant de 5/4, à 7/4, 7/8, 10/8, 11/8, 13/8, 17/8, et ainsi de suite. Les mélodies des Mouachahat sont complexes, souvent syncopées et basées sur ces iqa'at.
+                    </p>
                     <p>
-                        The traditional was to perform a <em>muwashah</em> is by a <em>moutreb</em> (principal vocalist) and an ensemble that includes backing vocalists. The <em>moutreb</em> can take a composed section and repeat it multiple times, each time with a different improvisation or <a href="../maqam.php">maqam</a> modulation (this practice is called <em>tafrid</em>). These solo improvisations alternate back and forth with the backing vocalists singing the composed melody.</p>
+                        Un Mouachah est traditionnellement interprété par un <em>moutreb</em> (chanteur principal) et un ensemble qui inclus des choristes. Le moutreb peut prendre une section composée et la répéter plusieurs fois, chaque fois avec une improvisation différente ou une modulation vers un autre <a href="../maqam.php">maqam</a> (cette pratique est nommée tafrid). Ces improvisations en solo sont entrecoupées de la mélodie centrale composée, chantée par les choristes. </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=eK6iCYSuaKI">
                         <div class="radio">
@@ -60,8 +62,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Muwashah Mala al-Kasat</b>
-                                    <span>Muhammad Khayri's recording of <strong>Muwashah Mala al-Kasat</strong> in <a href="../maqam/rast.php">Maqam Rast</a> (music by Muhammad ‘Uthman).</span>
+                                    <b>Mouachah Mala al-Kasat</b>
+                                    <span>Enregistrement de Mouhammad Khayri chantant le <strong>Mouachah Mala al-Kasat</strong>dans le <a href="../maqam/rast.php">Maqam Rast</a> (musique de Mouhammad 'Outhman).</span>
                                 </div>
                             </label>
                         </div>
@@ -76,8 +78,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Muwashah Imla li al-Aqdaha</b>
-                                <span>Sabah Fakhri's recording of <strong>Muwashah Imla li al-Aqdaha</strong> in <a href="../maqam/bayati.php">Maqam Bayati</a>.</span>
+                                    <b>Mouachah Imla li al-Aqdaha</b>
+                                <span>Enregistrement de Sabah Fakhri chantant le <strong>Mouachah Imla li al-Aqdaha</strong> dans le <a href="../maqam/bayati.php">Maqam Bayati</a>.</span>
                                 </div>
                             </label>
                         </div>
@@ -92,15 +94,15 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Hasan al-Haffar Wasla</b>
-                                    <span>Hasan al-Haffar's recording of a Muwashahat Wasla in <a href="../maqam/nahawand.php">Maqam Nahawand</a>, all composed by ‘Umar al-Batsh.</span>
+                                    <b>Hassan al-Haffar Wasla</b>
+                                    <span>Enregistrement de Hassan al-Haffar chantant une <a href="#wasla">wasla</a> de Mouashahat en <a href="../maqam/nahawand.php">Maqam Nahawand</a>, tous composés par ‘Omar al-Batch.</span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
                     <div id="qadd" class="heading jins text-center full-width">
-                        <h3>The Qadd</h3>
+                        <h3>Le Qadd</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/qadd.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Qadd</a>
@@ -117,8 +119,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Muhammad Khayri - Qudud</b>
-                                    <span>Following a <a href="improv.php#mawwal">Mawwal Baghdadi</a>, Muhammad Khayri sings Qudud <strong>Awwal ‘Ishrit Mahbubi</strong>, <strong>Zaman Zaman</strong> and <strong>Ah Ya Hilu</strong> in <a href="../maqam/bayati.php">Maqam Bayati</a>.</span>
+                                    <b>Mouhammad Khayri - suite de Qoudoud</b>
+                                    <span>A la suite d'un <a href="improv.php#mawwal">Mawwal Baghdadie</a>, Mouhammad Khayri chante les Qoudoud <strong>Awwal ‘Ishrit Mahboubi</strong>, <strong>Zaman Zaman</strong> et <strong>Ah Ya Hilou</strong> en <a href="../maqam/bayati.php">Maqam Bayati</a>.</span>
                                 </div>
                             </label>
                         </div>
@@ -130,9 +132,11 @@ include($ROOT . 'inc/head.php');
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/dawr.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Dawr</a>
                     </div>
-                    <p> The Dawr (plural <em>Adwar</em>) is an Egyptian composed vocal form that flourished around the turn of the 19<sup>th</sup> century and continued until the 1930s. The <em>dawr</em> is complex to compose and perform, and demanding to sing, and was the center of the <a href="#wasla">wasla</a> for a long time. The dawr lyrics are always in colloquial Egyptian.
+                    <p>
+                        Le Dawr (<em>Adwar</em> au pluriel) est une forme vocale composée égyptienne qui s'est développée au tournant du 19<sup>ième</sup> siècle et a continué à l'être jusqu'aux années 1930. Le dawr est difficile à composer, à interpréter et à chanter. Il a été le centre de la <a href="#wasla">wasla</a> pendant une longue période. Les paroles du dawr sont toujours en dialecte égyptien.
                     </p>
-                    <p> The <em>dawr</em> usually sarts with a <a href="instr_comp.php#dulab">dulab</a>, then different vocal sections, followed by the "Ahat" (a section where the singer and the backing vocalists exchange melodies with the lyrics "Ah" in a call and response fashion).
+                    <p>
+                        Le <em>dawr</em> commence en général par un <a href="instr_comp.php#dulab">Doulab</a> suivi de plusieurs sections vocales, elles-mêmes suivies du "Ahat" (une section où le chanteur et les choristes échangent des mélodies sur le mot "Ah", en appels et réponses).
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=UzVLpFNjsgs">
@@ -144,8 +148,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Dawr Inta Fahim</b>
-                                    <span>Su‘ad Muhammad (Lebanon) covers <strong>Dawr Inta Fahim</strong> in <a href="../maqam/huzam.php">Maqam Huzam</a> composed by Zakariyya Ahmad.</span>
+                                    <b>Dawr Inta Fahem</b>
+                                    <span>Sou'ad Mouhammad (Liban) interprète le D<strong>Dawr Inta Fahem</strong> dans le <a href="../maqam/huzam.php">Maqam Huzam</a>, composé par Zakaria Ahmad.</span>
                                 </div>
                             </label>
                         </div>
@@ -160,8 +164,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Dawr Ahibb Ashufak Kulli Youm (1931)</b>
-                                    <span><strong>Dawr Ahibb Ashufak Kulli Youm</strong> (1931) in <a href="../maqam/nahawand.php">Maqam Nahawand</a> by Muhammad Abdel Wahab.</span>
+                                    <b>Dawr Ahibb Ashoufak Kulli Yom (1931)</b>
+                                    <span>Mouhammad Abdel Wahab interprète le <strong>Dawr Ahibb Ashoufak Kulli Yom</strong> (1931), en <a href="../maqam/nahawand.php">Maqam Nahawand</a>.
+                                </span>
                                 </div>
                             </label>
                         </div>
@@ -176,8 +181,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Dawr Dayya‘ti Mustaqbal Hayati (1914)</b>
-                                    <span>Sabah Fakhri's recording of <strong>Dawr Dayya‘t Mustaqbal Hayati</strong> in <a href="../maqam/bayati_shuri.php">Maqam Bayati Shuri</a> (1914, music by Sayyed Darwish).</span>
+                                    <b>Dawr Dayya‘ti Moustaqbal Hayati (1914)</b>
+                                    <span>Sabah Fakhri interprète le <strong>Dawr Dayya'ti Moustaqbal Hayati</strong> en <a href="../maqam/bayati_shuri.php">Maqam Bayati Shuri</a> (1914, musique de Sayyed Darwish).</span>
                                 </div>
                             </label>
                         </div>
@@ -189,7 +194,7 @@ include($ROOT . 'inc/head.php');
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/taqtuqa.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Taqtouqa</a>
                     </div>
-                    <p> The Taqtouqa (plural <em>Taqatiq</em>) is the standard 3-4 minute Arabic song with multiple verses and a repeating chorus. <em>Taqatiq</em> usually use simple <a href="../iqaa.php">iqa‘at</a> like <a href="../iqaa/maqsum.php">Iqa‘ Maqsum</a> and have accessible lyrics and a melody that's simple to memorize and sing along to.
+                    <p> La Taqtouqa (<em>Taqatiq</em> au pluriel) est la chanson standard arabe de 3-4 minutes et comprend plusieurs couplets et un refrain qui se répète. Les Taqatiq sont en général dans un <a href="../iqaa.php">iqa‘a</a> simple et bien connu comme le <a href="../iqaa/maqsum.php">Iqa‘ Maqsum</a> et ont des paroles accessibles et une mélodie simple, facilement mémorisable et chantable.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=uO8eElxaaUY">
@@ -202,7 +207,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Hayrana Leh (1930)</b>
-                                    <span>Leila Murad's <strong>Hayrana Leh</strong> in <a href="../maqam/rast.php">Maqam Rast</a> (1930, composed by Dawud Husni).</span>
+                                    <span>La chanteuse égypyienne Leila Mourad interprète la tqatouqa <strong>Hayrana Leh</strong> en <a href="../maqam/rast.php">Maqam Rast</a> (1930), composée par Daoud Housni.</span>
                                 </div>
                             </label>
                         </div>
@@ -218,7 +223,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ya Dala‘ Dalla‘ (1974)</b>
-                                    <span>Sabah's song <strong>Ya Dala‘ Dalla‘</strong> in <a href="../maqam/rast.php">Maqam Rast</a> (1974, music by Farid al-Atrash).</span>
+                                    <span>La chanteuese libanaise Sabah interprète la taqtouqa <strong>Ya Dala‘ Dalla‘</strong> en <a href="../maqam/rast.php">Maqam Rast</a> (1930, composée par Farid al-Atrach).
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -234,7 +240,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Min Azzibak (c.1930s)</b>
-                                    <span>Muhammad Abdel Wahab's song <strong>Min Azzibak</strong> in <a href="../maqam/rast.php">Maqam Rast</a>(c.1930s).</span>
+                                    <span>La chanson <strong>Min Azzibak</strong> de Mouhammad Adbel Wahab dans le <a href="../maqam/rast.php">Maqam Rast</a>(années 1930).</span>
                                 </div>
                             </label>
                         </div>
@@ -249,22 +255,22 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Waraqu il-Asfar</b>
-                                    <span>Fairouz's song <strong>Waraqu il-Asfar</strong> in <a href="../maqam/rast.php">Maqam Rast</a>, composed by Philemon Wehbe.</span>
+                                    <b>Waraqou il-Asfar</b>
+                                    <span>La taqtouqa de la chanteuse libanaise Fairouz <strong>Waraqou il-Asfar</strong> en <a href="../maqam/rast.php">Maqam Rast</a>, composée par Philémon Wéhbé.</span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
                     <div id="ughniya" class="heading jins text-center full-width">
-                        <h3>The Ughniya (Long Song)</h3>
+                        <h3>La Oughnia (chanson longue)</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/ughniya.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Ughniya</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/ughniya.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Oughnia</a>
                     </div>
-                    <p> The Ughniya (plural <em>aghani</em>) is a long song developed toward the middle of the 20<sup>th</sup> century. The ughniya can last up to hour in a live setting and has a long introduction (see <a href="instr_comp.php#muqaddima">The Mouqaddima</a>) as well as multiple sections with full maqam modulations. The ughniya is usually performed with a large orchestra and features megastar singers like Oum Koulthoum, Abdel Halim Hafez and Warda.</p>
-
-
+                    <p>La
+                        Oughnia (<em>aghani</em> au pluriel) est une chanson longue, forme développée au milieu du 20<sup>ième</sup> siècle. La Oughnia peut durer jusqu'à une heure et a une longue introduction (voir <a href="instr_comp.php#muqaddima">la mouqaddima</a>) ainsi que plusieurs sections avec des modulations de <a href="../maqam.php">maqam</a> à maqam. La Oughnia est généralement interprétée par un grand orchestre et par des superstars telles que Oum Koulthoum, Adel Halim Hafez et Warda.
+                    </p>
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=Ptd3R51Qj-s&t=723s">
                         <div class="radio">
                             <label>
@@ -275,19 +281,20 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Qari'at al-Fingan (1976)</b>
-                                    <span>Abdel Halim Hafez's <strong>Qari'at al-Fingan</strong> (1976, composed by Muhammad al-Mugi).</span>
+                                    <span>Le chanteur égyptien Adel Halim Hafez interprète <strong>Qari'at al-Fingan</strong> (1976, composée par Mouhammad al-Mougi).
+                                </span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
                     <div id="qasida" class="heading jins text-center full-width">
-                        <h3>The Qassida (composed)</h3>
+                        <h3>La Qassida (composée)</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/qasida.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Qassida</a>
                     </div>
-                    <p> The Qassida (plural <em>Qasa'id</em>) is a metered poem in classical Arabic, and the composed form using that poem as its lyrics. The <em>qasida</em> is usually performed by a solo vocalist accompanied by an ensemble, and tends to be long and elaborate in order to feature the vocalist.
+                    <p> La Qassida (<em>Qassa'id</em> au pluriel) réfère à un poème en mètres en arabe classique ainsi qu'à la forme musicale composée utilisant ce type de poème et ses paroles. La qassida est en général interprétée par un chanteur soliste accompagné d'un ensemble. Cette forme tend à être longue et élaborée de manière à mettre en lumière le chanteur.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=5z8LvG5tfOE">
@@ -299,17 +306,17 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>al-Atlal (1966)</b>
-                                    <span>Oum Koulthoum's Qassida <strong>al-Atlal</strong> (1966) composed by Riyad al-Sunbati.</span>
+                                    <b>Qassida al-Atlal (1966)</b>
+                                    <span>La Qassida <strong>al-Atlal</strong> (les ruines) interprétée par Oum Koulthoum, composée par Riyad al Soumbati en 1966.</span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
                     <div id="monologue" class="heading jins text-center full-width">
-                        <h3>The Monologue</h3>
+                        <h3>Le Monologue</h3>
                     </div>
-                    <p> The Monologue is a composed song based loosely on the aria in Opera music. It was a popular form around the middle of the 20<sup>th</sup> century. The monologue is performed by one singer with an accompanying ensemble, and does not have any repeating sections, which means it keeps introducing new phrases and melodies from start to finish.
+                    <p> Le monologue est une forme de chanson composée inspirée de l'aria de la musique d'Opéra. Cette forme était populaire autour du milieu du 20<sup>ième</sup> siècle. Le monologue est interprété par un chanteur et un ensemble qui l'accompagne et n'a aucune section qui se répète, ce qui implique que de nouvelles phrases et mélodies sont ajoutées constamment du début à la fin du monologue.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=r3mrDcKXxd0">
@@ -321,17 +328,17 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Ya Tuyur (1941)</b>
-                                    <span>Asmahan's Monologue <strong>Ya Tuyur</strong> (1941) composed by Muhammad al-Qasabgi.</span>
+                                    <b>Ya Touyour (1941)</b>
+                                    <span>Le monologue de Asmahan <strong>Ya Touyour</strong> (1941) composé par Mouhammad al-Qasabgi.</span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
                     <div id="duet" class="heading jins text-center full-width">
-                        <h3>The Duet</h3>
+                        <h3>Le Duo</h3>
                     </div>
-                    <p> The Duet is a composed piece with two singers, often a man and a woman, taking turns or singing together. It was popular mostly in early 20<sup>th</sup> century musical plays and movies. As such, the duet’s lyrics tend to be romantic, dramatic and theatrical.
+                    <p>Le duo est une pièce composée pour deux chanteurs, souvent un homme et une femme, qui chantent chacun leur tour ou en même temps. Cette forme était populaire surtout dans le théâtre musical et les films du début du 20<sup>ième</sup> siècle. Les paroles sont en général romantiques, dramatiques et théâtrales.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=is-xYmL9YVc">
@@ -344,7 +351,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ya Din-Na‘im</b>
-                                    <span>Muhammad Abdel Wahab and Leila Murad's <strong>Ya Din-Na‘im</strong> composed by Muhammad Abdel Wahab, from the movie <strong>Yahya al-Hubb</strong> (1938).</span>
+                                    <span>Mouhammad Abdel Wahab et Leila Mourad interprétant <strong>Ya Din-Na‘im</strong> de Mouhammad Abdel Wahab, du film <strong>Yahya al-Hubb</strong> (1938).</span>
                                 </div>
                             </label>
                         </div>
@@ -359,20 +366,20 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Ya Salam ‘Ala Hubbi w Hubbak (1957)</b>
-                                    <span>Farid al-Atrash and Shadia's <strong>Ya Salam ‘Ala Hubbi w Hubbak</strong> composed by Farid al-Atrash, from the movie <strong>Inta Habibi</strong> (1957).</span>
+                                    <b>Ya Salam ‘Ala Houbbi wi Houbbak (1957)</b>
+                                    <span>Farid al-Atrach et Chadia interprétant <strong>Ya Salam ‘Ala Houbbi wi Houbbak</strong>de Farid al-Atrach, du film <strong>Inta Habibi</strong> (1957).</span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
                     <div id="wasla" class="heading jins text-center full-width">
-                        <h3>The Wasla</h3>
+                        <h3>La Wasla</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/wasla.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Wasla</a>
                     </div>
-                    <p> The Wasla (plural <em>waslat</em>) is a form that contains other forms that are performed consecutively as one unit, usually in the same <a href="../maqam.php">maqam</a>. A short <em>wasla</em> can take 5-10 minutes, while a longer <em>wasla</em> can aproach an hour. The pieces within the <em>wasla</em> are ordered such that it starts slow and establishes the <em>maqam</em> (often with instrumental pieces) then features the complex and demanding vocal piece. The <em>wasla</em> finally ends with simple and short pieces, creating an overall arc that peaks at the middle.
+                    <p> La Wasla (<em>waslat</em> au pluriel) est une forme qui contient plusieurs formes interprétées de façon consécutive en tant qu'unité, généralement dans un même <a href="../maqam.php">maqam</a>. Une wasla courte peut durer de 5 à 10 minutes alors qu'une wasla longue peut durer jusqu'à une heure. Les pièces composant la wasla sont organisées de manière à commencer lentement et à établir le maqam (souvent à l'aide de pièces instrumentales). Ensuite sont ajoutées les pièces vocales complexes et difficiles à chanter. La wasla se termine en général par des pièces courtes et simples. Tout ceci crée une pièce qui a la forme d'un arc avec un sommet au milieu.
                     </p>
                     <p>
 
@@ -386,7 +393,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Leh Ya Banafseg (1961)</b>
-                                    <span>Saleh Abdel Hayy's <em>Wasla</em> in <a href="../maqam/rast.php">Maqam Rast</a> featuring a <a href="improv.php#taqsim">Taqsim</a> on the <a href="../instr/oud.php">oud</a>, part of <a href="ottoman.pho#samai">Sama‘i</a> Rast by Tatyos Effendi, a <a href="../instr/violin.php">violin</a> Taqsim, <a href="improv.php#layali">Layali</a> accompanied by the <a href="../instr/qanun.php">qanun</a>, and finally the <a href="vocal_comp.php#taqtuqa">Taqtouqa</a> <strong>Leh Ya Banafseg</strong> (1961), composed by Riyad al-Sunbati.</span>
+                                    <span>Wasla de Saleh Abdel Hayy en <a href="../maqam/rast.php">Maqam Rast</a> avec <a href="improv.php#taqsim">Taqsim</a> de <a href="../instr/oud.php">oud</a>, une partie du <a href="ottoman.php#samai">Sama‘i</a> Rast de Tatyos Effendi, un Taqsim au <a href="../instr/violin.php">violon</a>, des <a href="improv.php#layali">Layali</a> accompagnés au <a href="../instr/qanun.php">qanoun</a> et, finalement, la <a href="vocal_comp.php#taqtuqa">Taqtouqa</a> <strong>Leh Ya Banafseg</strong> (1961), composée par Riyad al-Sunbati.
+                                </span>
                                 </div>
                             </label>
                         </div>
@@ -401,8 +409,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Dawr ‘Ishna w Shufna</b>
-                                    <span> A Wasla in <a href="../maqam/rast.php">Maqam Rast</a> by Egyptian singer ‘Abbas al-Bleidi including a <a href="improv.php#taqsim">Taqsim</a> on the <a href="../instr/oud.php">oud</a> by George Michel, part of <a href="ottoman.pho#samai">Sama‘i</a> Rast by Tatyos Effendi, a <a href="../instr/violin.php">Violin</a> Taqsim by Muhammad al-‘Aqqad, Muwashah Atani Zamani, a <a href="../instr/qanun.php">qanun</a> Taqsim by Fihmi ‘Awad, then Layali, then finally <strong>Dawr ‘Ishna w Shufna</strong> (composed by Muhammad ‘Uthman).</span>
+                                    <b>Dawr ‘Ishna w Shoufna</b>
+                                    <span> Une wasla en <a href="../maqam/rast.php">Maqam Rast</a> par le chanteur égyptien 'Abbass al-Bleidi comprenant un <a href="improv.php#taqsim">Taqsim</a> au <a href="../instr/oud.php">oud</a> par George Michel, une partie du <a href="ottoman.php#samai">Sama‘i</a> Rast de Tatyos Effendi, un taqsim au <a href="../instr/violin.php">Violon</a> par Mouhammad al-'Aqqad, le Mouachah Atani Zamani, un taqsim au <a href="../instr/qanun.php">qanoun</a> par Fihmi 'Awad, un Layali et finalement, le <strong>Dawr ‘Ishna w Shoufna</strong> (composé par Mouhammad 'Outhman).</span>
                                 </div>
                             </label>
                         </div>

@@ -98,7 +98,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ahl el-Hawa (1958)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Zakariyya Ahmad</span>
+                                    <span>Music by Zakaria Ahmad</span>
                                 </div>
                             </label>
                         </div>
@@ -122,7 +122,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Anshidi Ya Saba</b>
+                                    <b>Mouachah Anshidi Ya Saba</b>
                                     <span>Palestininan National Arabic Orchestra</span>
                                     <span>Director Ramzi Abu Radwan</span>
                                     <span>Music by Yehiya al-Sa‘udi</span>‘
@@ -136,7 +136,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Aqbala al-Subhu Yughanni</b>
+                                    <b>Mouachah Aqbala al-Subhu Yughanni</b>
                                     <span>Ensemble Ornina (Syria)</span>
                                     <span>Conductor Dr. Muhammad Qadri Dalal</span>
                                     <span>Music by Bakri al-Kurdi</span>
@@ -150,7 +150,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Nuzhatu al-Arwahi Badri</b>
+                                    <b>Mouachah Nuzhatu al-Arwahi Badri</b>
                                     <span>(performer unknown)</span>
                                 </div>
                             </label>

@@ -32,7 +32,7 @@ include($ROOT . 'inc/head.php');
 		avec une emphase particulière sur la période se situant du début au milieu du vingtième siècle.</h3>
 
                     </div>
-                    <p>Après 17 annéesd'activité, Le Monde du Maqam a été reconstruit grâce à l'aide d'une bourse gracieusement attribuée par
+                    <p>Après 17 années d'activité, Le Monde du Maqam a été reconstruit grâce à l'aide d'une bourse gracieusement attribuée par
 		 <a href="http://arabculturefund.org/grantees/grantee.php?id=333" target="_blank">The Arab Fund for Arts and Culture (AFAC)</a> en 2016.
 	            Le Monde du Maqam inclue les nouvelles fonctions suivantes:
 		</p>

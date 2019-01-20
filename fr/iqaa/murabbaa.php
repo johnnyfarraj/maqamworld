@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/murabbaa.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Murabba‘ is mostly confined to the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> repertoire. Unrelated to its time signature, the word <em>murabba‘</em> in Arabic means squared or based on the number 4.</p>
+                    <p>Iqa‘ Murabba‘ is mostly confined to the <a href="../form/vocal_comp.php#muwashah">Mouachah</a> repertoire. Unrelated to its time signature, the word <em>murabba‘</em> in Arabic means squared or based on the number 4.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -55,7 +55,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Hayyar al-Afkar</b>
+                                    <b>Mouachah Hayyar al-Afkar</b>
                                     <span>Abdel Halim Noueirah Ensemble</span>
                                     <span>Music by Muhammad ‘Uthman</span>
                                 </div>
@@ -68,7 +68,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Hibbi Malik al-Milah</b>
+                                    <b>Mouachah Hibbi Malik al-Milah</b>
                                     <span>Abdel Halim Noueirah Ensemble</span>
                                 </div>
                             </label>
@@ -80,7 +80,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Isqini al-Rah</b>
+                                    <b>Mouachah Isqini al-Rah</b>
                                     <span>Abdel Halim Noueirah Ensemble</span>
                                     <span>Music by Muhammad ‘Uthman</span>
                                 </div>
@@ -93,7 +93,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Jalla Man Qad Ansha Jamalak</b>
+                                    <b>Mouachah Jalla Man Qad Ansha Jamalak</b>
                                     <span>Umar Sarmini and al-Kindi Ensemble</span>
                                 </div>
                             </label>
@@ -105,7 +105,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Qum Bina Ya Nur ‘Ayni</b>
+                                    <b>Mouachah Qum Bina Ya Nur ‘Ayni</b>
                                     <span>Abdel Halim Noueirah Ensemble</span>
                                 </div>
                             </label>
@@ -117,7 +117,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ramani Bi Sahmi Hawahu</b>
+                                    <b>Mouachah Ramani Bi Sahmi Hawahu</b>
                                     <span>Hasan al-Haffar</span>
                                     <span>Music by Dawud Husni</span>
                                 </div>
@@ -130,11 +130,11 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ya ‘Udhayb al-Marshaf</b>
+                                    <b>Mouachah Ya ‘Udhayb al-Marshaf</b>
                                     <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
                                     <span>Conductor: Aïda Shalhoub Ziadé</span>
                                     <span>Music by Sayyed Darwish</span>
-                                    <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
+                                    <span><img src="/img/cd.png"> Orientalia: Mouachah and Song series</span>
                                 </div>
                             </label>
                         </div>

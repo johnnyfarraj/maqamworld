@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>Maqam Bayati Shuri is a variation of <a href="bayati.php">Maqam Bayati</a> with a lowered 5<sup>th</sup> degree. It starts with the root <a href="../jins/bayati.php">Jins Bayati</a> on the <em>tonic</em> followed by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 4<sup>th</sup> degree.</p>
-                    <p>It is a very popular maqam in its own right, especially in the Muwashahat and Adwar vocal compositions.</p>
+                    <p>It is a very popular maqam in its own right, especially in the Mouachahat and Adwar vocal compositions.</p>
                     <p>Explore other maqamat in the <a href="f_bayati.php">Maqam Bayati Family</a>.</p>
 
                     <div class="player-area">
@@ -101,7 +101,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Hibbi Da‘ani Lil-Wisal</b>
+                                    <b>Mouachah Hibbi Da‘ani Lil-Wisal</b>
                                     <span>Sabah Fakhri</span>
                                     <span>Music by Sayyed Darwish</span>
                                     <span>Nagham al-Ams Vol. 2 (Bayati Shuri)</span>
@@ -115,7 +115,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Talaffata al-Dhabiyu</b>
+                                    <b>Mouachah Talaffata al-Dhabiyu</b>
                                     <span>Sabah Fakhri</span>
                                     <span>Nagham al-Ams Vol. 2 (Bayati Shuri)</span>
                                 </div>

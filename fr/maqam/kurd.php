@@ -115,7 +115,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Yamurru ‘Ujuban</b>
+                                    <b>Mouachah Yamurru ‘Ujuban</b>
                                     <span>Sabah Fakhri</span>
                                     <span>Music by ‘Umar al-Batsh</span>
                                     <span><img src="/img/cd.png"> Au Palais Des Congrès (1995)</span>
@@ -129,7 +129,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ya Bahjet el-Rouh</b>
+                                    <b>Mouachah Ya Bahjet el-Rouh</b>
                                     <span>Sabah Fakhri</span>
                                     <span>Music by Sayyed Darwish</span>
                                     <span><img src="/img/cd.png"> Au Palais Des Congrès (1995)</span>
