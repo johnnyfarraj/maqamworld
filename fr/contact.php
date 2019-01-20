@@ -25,7 +25,7 @@ include($ROOT . 'inc/head.php');
                 <div class="col-sm-4 ml-auto mr-auto">
                     <div class="heading text-center">
                         <h1>Contactez Nous</h1>
-                        <h3>Maqam World takes your opinion seriously and will respond to your comments as soon as possible.</h3>
+                        <h3>MaqamWorld prend votre opinion à coeur et répondra à vos commentaires dans les plus brefs délais</h3>
                     </div>
                     <form action="contact.php" method="post" class="contact-form">
                         <div class="form-group">
@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         </div>
                         <div id="recaptcha"></div>
                         <div class="form-group text-right">
-                            <button type="submit" class="btn btn-primary">Send Message</button>
+                            <button type="submit" class="btn btn-primary">Envoyez le message</button>
                         </div>
                     </form>
                 </div>
@@ -62,7 +62,7 @@ include($ROOT . 'inc/head.php');
             })
             $(".contact-form").submit(function(e) {
                 e.preventDefault();
-                $(".contact-form .btn-primary").html("<i class='fa fa-fw fa-circle-o-notch fa-spin'></i> Sending message...").prop("disabled", true);
+                $(".contact-form .btn-primary").html("<i class='fa fa-fw fa-circle-o-notch fa-spin'></i> en train d'envoyer le message...").prop("disabled", true);
                 $.ajax({
                     url: 'email.php',
                     data: $(".contact-form").serialize(),
@@ -72,11 +72,11 @@ include($ROOT . 'inc/head.php');
                         result = JSON.parse(result);
                         if(result.status == "success") {
                             $("form").hide();
-                            $(".heading h1").text("Message successfully sent");
+                            $(".heading h1").text("Message envoyé avec succès");
                             $(".heading h3").text(result.message)
                         } else {
                             alert(result.message);
-                            $(".contact-form .btn-primary").html("Send Message").prop("disabled", false);
+                            $(".contact-form .btn-primary").html("Envoyez le message").prop("disabled", false);
                         }
                     }
                 })
