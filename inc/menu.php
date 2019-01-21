@@ -22,6 +22,11 @@
                 <input type="search" placeholder="بحث" class="form-control" name="search" autocomplete="off" name="q">
                 <button type="submit"><i class="fa fa-fw fa-search"></i></button>
             </form>
+            <?php } else if($page_language == "fr") { ?>
+            <form class="search-bar" action="/fr/results.php" method="get">
+                <input type="search" placeholder="Recherche" class="form-control" name="search" autocomplete="off" name="q">
+                <button type="submit"><i class="fa fa-fw fa-search"></i></button>
+            </form>
             <?php } else if($page_language == "de") { ?>
             <form class="search-bar" action="/de/results.php" method="get">
                 <input type="search" placeholder="Suche" class="form-control" name="search" autocomplete="off" name="q">
@@ -33,8 +38,9 @@
             <?php
             $languages_array = [
                 "en" => "English",
-                "de" => "Deutsch",
-                "ar" => "العربية"
+                "fr" => "Français",
+                "ar" => "العربية",
+                "de" => "Deutsch"
             ];
             ?>
             <div class="dropdown">
@@ -59,7 +65,7 @@
             <div class="clearfix"></div>
         </div>
 
-        <!-- Navigation -->
+        <!-- FRENCH Navigation -->
         <nav class="navbar navbar-expand-md navbar-dark bg-dark">
             <div class="container">
                 <!-- Navbar -->
@@ -67,6 +73,8 @@
 	                <?php include($ROOT . 'en/navbar.php');?>
                 <?php } else if($page_language == "ar") { ?>
 	                <?php include($ROOT . 'ar/navbar.php');?>
+                <?php } else if($page_language == "fr") { ?>
+	                <?php include($ROOT . 'fr/navbar.php');?>
                 <?php } else if($page_language == "de") { ?>
 	                <?php include($ROOT . 'de/navbar.php');?>
                 <?php } ?>

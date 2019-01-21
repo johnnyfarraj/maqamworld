@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/dawr_hindi.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Dawr Hindi is a very popular <em>iqa‘</em> for the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal composed genre.</p>
+                    <p>Iqa‘ Dawr Hindi is a very popular <em>iqa‘</em> for the <a href="../form/vocal_comp.php#muwashah">Mouachah</a> vocal composed genre.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -55,11 +55,11 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Sihtu Wajdan</b>
+                                    <b>Mouachah Sihtu Wajdan</b>
                                     <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
                                     <span>Conductor: Aïda Shalhoub Ziadé</span>
                                     <span>Music by Sayyed Darwish</span>
-                                    <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
+                                    <span><img src="/img/cd.png"> Orientalia: Mouachah and Song series</span>
                                 </div>
                             </label>
                         </div>
@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Jadaka al-Gaythu</b>
+                                    <b>Mouachah Jadaka al-Gaythu</b>
                                     <span>Sabah Fakhri</span>
                                     <span>Music by Majdi al-‘Aqili</span>
                                     <span><img src="/img/cd.png"> Beiteddine Festival Vol I</span>
@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Jalla Man Qad Sawwarak</b>
+                                    <b>Mouachah Jalla Man Qad Sawwarak</b>
                                     <span>Sheikh Hamza Shakkur</span>
                                     <span>Ensemble Al Kindi</span>
                                 </div>

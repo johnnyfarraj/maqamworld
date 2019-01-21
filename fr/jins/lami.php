@@ -117,7 +117,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qasida Aqulu Wa Qad Nahat Bi Qurbi Hamamatun</b>
+                                    <b>Qassida Aqulu Wa Qad Nahat Bi Qurbi Hamamatun</b>
                                     <span>Nazem al-Ghazali (Iraq)</span>
                                 </div>
                             </label>

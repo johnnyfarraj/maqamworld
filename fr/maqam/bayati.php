@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Akun Sa‘id (1932)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Zakariyya Ahmad</span>
+                                    <span>Music by Zakaria Ahmad</span>
                                 </div>
                             </label>
                         </div>
@@ -133,7 +133,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Imlali al-Aqdaha Sirfan</b>
+                                    <b>Mouachah Imlali al-Aqdaha Sirfan</b>
                                     <span>Sabah Fakhri (Traditional)</span>
                                 </div>
                             </label>

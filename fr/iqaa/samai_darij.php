@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Sama‘i Darij";
-$page_description = "Iqa‘ Sama‘i Darij";
+$page_title = "Iqa‘ Sama‘i Darej";
+$page_description = "Iqa‘ Sama‘i Darej";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, sama‘i, samai darij, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "fr"; // en / ar <!-- YOU MUST PUT THIS
 
@@ -29,20 +29,20 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
                     
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Sama‘i Darij 3/4</h1>
+                        <h1>Iqa‘ Sama‘i Darej 3/4</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
                     <div class="clearfix"></div>
                     
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/samai_darij.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Sama‘i Darij</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/samai_darij.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Sama‘i Darej</a>
                     </div>
                     
                     <div class="notation">
                         <img src="/note/iqaa/samai_darij.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Sama‘i Darij (also called Darij, for short) is a general 3/4 <em>iqa‘</em> used both in vocal and instrumental genre.</p>
+                    <p>Iqa‘ Sama‘i Darej (also called Darej, for short) is a general 3/4 <em>iqa‘</em> used both in vocal and instrumental genre.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -55,7 +55,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Kallili Ya Suhbu</b>
+                                    <b>Mouachah Kallili Ya Suhbu</b>
                                     <span>Abdel Halim Noueirah Ensemble</span>
                                     <span>Music by Muhammad ‘Uthman</span>
                                 </div>
@@ -68,7 +68,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" checked>
                                 <div class="info">
-                                    <b>Muwashah Ya Ghusna Naqa</b>
+                                    <b>Mouachah Ya Ghusna Naqa</b>
                                     <span>Sabah Fakhri</span>
                                 </div>
                             </label>
@@ -80,7 +80,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" checked>
                                 <div class="info">
-                                    <b>Muwashah Ya Man La`ibat Bihi Shamulu</b>
+                                    <b>Mouachah Ya Man La`ibat Bihi Shamulu</b>
                                     <span>Al-Turath Ensemble</span>
                                 </div>
                             </label>

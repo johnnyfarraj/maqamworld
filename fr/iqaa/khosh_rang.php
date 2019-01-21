@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/khosh_rang.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Khosh Rang (also spelled Khush Rank) is a very rare <em>iqa‘</em> that is only used in one known <a href="../form/vocal_comp.php#muwashah">Muwashah</a> and a few rare modern compositions.</p>
+                    <p>Iqa‘ Khosh Rang (also spelled Khush Rank) is a very rare <em>iqa‘</em> that is only used in one known <a href="../form/vocal_comp.php#muwashah">Mouachah</a> and a few rare modern compositions.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Salla Fina al-Lahdha Hindiyya</b>
+                                    <b>Mouachah Salla Fina al-Lahdha Hindiyya</b>
                                     <span>Ensemble Al-Kindi</span>
                                     <span><img src="/img/cd.png"> Les Croisades Sous Le Regard De l'Orient - Hijaz</span>
                                 </div>
@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Salla Fina al-Lahdha Hindiyya</b>
+                                    <b>Mouachah Salla Fina al-Lahdha Hindiyya</b>
                                     <span>Sabah Fakhri</span>
                                     <span><img src="/img/cd.png"> Nagham Al Ams Vol 08 - Hijaz</span>
                                 </div>

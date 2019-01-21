@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Ma-Htiyali</b>
+                                    <b>Mouachah Ma-Htiyali</b>
                                     <span>Al Turath Ensemble</span>
                                     <span><img src="/img/cd.png"> The Music In Spanish Al Andalus - Hijaz</span>
                                 </div>
@@ -95,10 +95,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Badri Adir</b>
+                                    <b>Mouachah Badri Adir</b>
                                     <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
                                     <span>Conductor: Aïda Shalhoub Ziadé</span>
-                                    <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
+                                    <span><img src="/img/cd.png"> Orientalia: Mouachah and Song series</span>
                                 </div>
                             </label>
                         </div>
@@ -146,7 +146,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qasida Mawlaya Ajfani</b>
+                                    <b>Qassida Mawlaya Ajfani</b>
                                     <span>Sabah Fakhri</span>
                                     <span>From Fasil Isqi al-‘Itash</span>
                                 </div>

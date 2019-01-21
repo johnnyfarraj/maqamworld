@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/dharafat.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Dharafat (also spelled Zarafat) is mostly used with the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre. Using this <em>iqa‘</em> outside <a href="../form/vocal_comp.php#muwashah">muwashahat</a> (e.g. in a popular song) has the effect of adding a classical color by evoking the former repertoire.</p>
+                    <p>Iqa‘ Dharafat (also spelled Zarafat) is mostly used with the <a href="../form/vocal_comp.php#muwashah">Mouachah</a> vocal genre. Using this <em>iqa‘</em> outside <a href="../form/vocal_comp.php#muwashah">muwashahat</a> (e.g. in a popular song) has the effect of adding a classical color by evoking the former repertoire.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Tif Ya Durri Bil Qanani</b>
+                                    <b>Mouachah Tif Ya Durri Bil Qanani</b>
                                     <span>Al-Kindi Ensemble</span>
                                     <span>Music by ‘Umar al-Batsh</span>
                                     <span><img src="/img/cd.png"> The Aleppian Music Room I - Maqam Hijazkar Kurd</span>
@@ -70,11 +70,11 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Tif Ya Durri Bil Qanani</b>
+                                    <b>Mouachah Tif Ya Durri Bil Qanani</b>
                                     <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
                                     <span>Conductor: Aïda Shalhoub Ziadé</span>
                                     <span>Music by ‘Umar al-Batsh</span>
-                                    <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
+                                    <span><img src="/img/cd.png"> Orientalia: Mouachah and Song series</span>
                                 </div>
                             </label>
                         </div>
@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Wal-ladhi Wallaka Qalbi</b>
+                                    <b>Mouachah Wal-ladhi Wallaka Qalbi</b>
                                     <span>Ensemble Morkos</span>
                                 </div>
                             </label>

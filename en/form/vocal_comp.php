@@ -386,7 +386,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Leh Ya Banafseg (1961)</b>
-                                    <span>Saleh Abdel Hayy's <em>Wasla</em> in <a href="../maqam/rast.php">Maqam Rast</a> featuring a <a href="improv.php#taqsim">Taqsim</a> on the <a href="../instr/oud.php">oud</a>, part of <a href="ottoman.pho#samai">Sama‘i</a> Rast by Tatyos Effendi, a <a href="../instr/violin.php">violin</a> Taqsim, <a href="improv.php#layali">Layali</a> accompanied by the <a href="../instr/qanun.php">qanun</a>, and finally the <a href="vocal_comp.php#taqtuqa">Taqtuqa</a> <strong>Leh Ya Banafseg</strong> (1961), composed by Riyad al-Sunbati.</span>
+                                    <span>Saleh Abdel Hayy's <em>Wasla</em> in <a href="../maqam/rast.php">Maqam Rast</a> featuring a <a href="improv.php#taqsim">Taqsim</a> on the <a href="../instr/oud.php">oud</a>, part of <a href="ottoman.php#samai">Sama‘i</a> Rast by Tatyos Effendi, a <a href="../instr/violin.php">violin</a> Taqsim, <a href="improv.php#layali">Layali</a> accompanied by the <a href="../instr/qanun.php">qanun</a>, and finally the <a href="vocal_comp.php#taqtuqa">Taqtuqa</a> <strong>Leh Ya Banafseg</strong> (1961), composed by Riyad al-Sunbati.</span>
                                 </div>
                             </label>
                         </div>
@@ -402,7 +402,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Dawr ‘Ishna w Shufna</b>
-                                    <span> A Wasla in <a href="../maqam/rast.php">Maqam Rast</a> by Egyptian singer ‘Abbas al-Bleidi including a <a href="improv.php#taqsim">Taqsim</a> on the <a href="../instr/oud.php">oud</a> by George Michel, part of <a href="ottoman.pho#samai">Sama‘i</a> Rast by Tatyos Effendi, a <a href="../instr/violin.php">Violin</a> Taqsim by Muhammad al-‘Aqqad, Muwashah Atani Zamani, a <a href="../instr/qanun.php">qanun</a> Taqsim by Fihmi ‘Awad, then Layali, then finally <strong>Dawr ‘Ishna w Shufna</strong> (composed by Muhammad ‘Uthman).</span>
+                                    <span> A Wasla in <a href="../maqam/rast.php">Maqam Rast</a> by Egyptian singer ‘Abbas al-Bleidi including a <a href="improv.php#taqsim">Taqsim</a> on the <a href="../instr/oud.php">oud</a> by George Michel, part of <a href="ottoman.php#samai">Sama‘i</a> Rast by Tatyos Effendi, a <a href="../instr/violin.php">Violin</a> Taqsim by Muhammad al-‘Aqqad, Muwashah Atani Zamani, a <a href="../instr/qanun.php">qanun</a> Taqsim by Fihmi ‘Awad, then Layali, then finally <strong>Dawr ‘Ishna w Shufna</strong> (composed by Muhammad ‘Uthman).</span>
                                 </div>
                             </label>
                         </div>

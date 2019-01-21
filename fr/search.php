@@ -56,7 +56,7 @@ function searchDirectoryIterator($path, $string){
 
                 $appeardTotal = substr_count($content, strtolower($string));
 
-                array_push($files, array("title" => $title, "link" => str_replace('./', 'http://maqamworld.com/fr/', $file->getPathname()), "appereances" => $appeardTotal));
+                array_push($files, array("title" => $title, "link" => str_replace('./', 'http://maqamworld.com/fr/', $file->getPathname()), "apparences" => $appeardTotal));
                 $cont++;
             }
         }
@@ -70,7 +70,7 @@ function searchDirectoryIterator($path, $string){
 if(isset($_GET['q']) && strip_tags($_GET['q']) != "" && strlen(strip_tags($_GET['q'])) > 3) {
     searchDirectoryIterator(".", strip_tags($_GET['q']));
     if($cont == 0) {
-        $array = array('status' => "error", 'message' => "Pas de resultats.");
+        $array = array('status' => "error", 'message' => "Pas de résultats.");
     } else {
         usort($files, function($a, $b) {
             return $b['appereances'] - $a['appereances'];
@@ -78,7 +78,7 @@ if(isset($_GET['q']) && strip_tags($_GET['q']) != "" && strlen(strip_tags($_GET[
         $array = array('status' => "success", 'files' => $files, 'totalFiles' => $cont);
     }
 } else {
-    $array = array('status' => "error", 'message' => "Prière Please enter keyword (minimum 4 lettres).");
+    $array = array('status' => "error", 'message' => "Prière d'entrer un mot clé (minimum 4 lettres).");
 }
 
 echo json_encode($array);

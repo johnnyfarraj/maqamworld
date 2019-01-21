@@ -96,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                 <img class="card-img-top" src="/img/rosette_khalaf.png" alt="Oud Rosette Khalaf">
                                 <div class="card-body">
                                     <h5 class="card-title">Instruments Traditionnels</h5>
-                                    <p class="card-text"><a href="instr/oud.php">L'Oud</a></p>
+                                    <p class="card-text"><a href="instr/oud.php">Le Oud</a></p>
                                     <p class="card-text"><a href="instr/qanun.php">Le Qanoun</a></p>
                                     <p class="card-text"><a href="instr/nay.php">Le Nay</a></p>
                                     <p class="card-text"><a href="instr/violin.php">Le Violon</a></p>

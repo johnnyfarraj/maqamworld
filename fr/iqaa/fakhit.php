@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/fakhit.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Fakhit is a relatively long <em>iqa‘</em> that spans 5 measures of 4/4, resulting in a 20/4 time signature. This <em>iqa‘</em> is rare outside the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> genre.</p>
+                    <p>Iqa‘ Fakhit is a relatively long <em>iqa‘</em> that spans 5 measures of 4/4, resulting in a 20/4 time signature. This <em>iqa‘</em> is rare outside the <a href="../form/vocal_comp.php#muwashah">Mouachah</a> genre.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -55,7 +55,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Bi Sifatin Ja‘alatni</b>
+                                    <b>Mouachah Bi Sifatin Ja‘alatni</b>
                                     <span>Al-Kindi Ensemble</span>
                                     <span><img src="/img/cd.png"> The Aleppian Music Room II - Maqam Rast</span>
                                 </div>
@@ -68,7 +68,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Idha Da‘ana al-Siba</b>
+                                    <b>Mouachah Idha Da‘ana al-Siba</b>
                                     <span>Khaled al-Hafez</span>
                                     <span>Music by ‘Umar al-Batsh</span>
                                 </div>
@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Zarani Taht al-Ghayahib</b>
+                                    <b>Mouachah Zarani Taht al-Ghayahib</b>
                                     <span>Firqat Usama Bin Zayd</span>
                                     <span>Music by ‘Umar al-Batsh</span>
                                 </div>

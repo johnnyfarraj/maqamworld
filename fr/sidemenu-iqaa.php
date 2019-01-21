@@ -28,7 +28,7 @@
     <li><a href="/fr/iqaa/nawakht.php">Nawakht 7/4</a></li>
     <li><a href="/fr/iqaa/rumba.php">Rumba 4/4</a></li>
     <li><a href="/fr/iqaa/saidi.php">Sa‘idi 4/4</a></li>
-    <li><a href="/fr/iqaa/samai_darij.php">Sama‘i Darij 3/4</a></li>
+    <li><a href="/fr/iqaa/samai_darij.php">Sama‘i Darej 3/4</a></li>
     <li><a href="/fr/iqaa/samai_saraband.php">Sama‘i Saraband 3/8</a></li>
     <li><a href="/fr/iqaa/samai_thaqil.php">Sama‘i Thaqil 10/8</a></li>
     <li><a href="/fr/iqaa/sittatu_ashar.php">Sittatu ‘Ashar Masri 32/4</a></li>

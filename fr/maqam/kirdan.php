@@ -84,11 +84,11 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Sihtu Wajdan</b>
+                                    <b>Mouachah Sihtu Wajdan</b>
                                     <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
                                     <span>Conductor: Aïda Shalhoub Ziadé</span>
                                     <span>Music by Sayyed Darwish</span>
-                                    <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
+                                    <span><img src="/img/cd.png"> Orientalia: Mouachah and Song series</span>
                                 </div>
                             </label>
                         </div>
@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ya Shadi al-Alhan</b>
+                                    <b>Mouachah Ya Shadi al-Alhan</b>
                                     <span>Sabah Fakhri</span>
                                     <span>Music by Sayyed Darwish</span>
                                 </div>

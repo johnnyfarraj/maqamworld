@@ -47,7 +47,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/thurayya.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Thurayya is alternatively called <strong>Aqsaq Turki</strong> (Turkish Aqsaq). It is a very rare <em>iqa‘</em> mostly used in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre.</p>
+                    <p>Iqa‘ Thurayya is alternatively called <strong>Aqsaq Turki</strong> (Turkish Aqsaq). It is a very rare <em>iqa‘</em> mostly used in the <a href="../form/vocal_comp.php#muwashah">Mouachah</a> vocal genre.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -60,7 +60,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Fil-Roud Ana Shuft il-Gamil</b>
+                                    <b>Mouachah Fil-Roud Ana Shuft il-Gamil</b>
                                     <span>Sabah Fakhri</span>
                                     <span>Music by ‘Umar al-Batsh</span>
                                 </div>

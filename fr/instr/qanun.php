@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                              --><div class="info">
                                     <b>Mouhammad Abdou Saleh</b>
                                     <span>Mouhammad Abdou Saleh (Égypte) jouant un <a href="../form/improv.php#taqsim">Taqsim</a>
-                                    dans le <a href="../maqam/saba.php">Maqam Saba</a></span>
+                                    en <a href="../maqam/saba.php">Maqam Saba</a></span>
                                 </div>
                             </label>
                         </div>
@@ -134,7 +134,7 @@ include($ROOT . 'inc/head.php');
                              --><div class="info">
                                     <b>Abdel Halim Noueyra</b>
                                     <span>Abdel Halim Noueyra (Égypte), le directeur musical de l'Ensemble de Musique Arabe,
-                                    joue un <a href="../form/improv.php#taqsim">Taqsim</a> dans le <a href="../maqam/bayati.php">Maqam Bayati</a>.
+                                    joue un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/bayati.php">Maqam Bayati</a>.
                                     </span>
                                 </div>
                             </label>
@@ -152,7 +152,7 @@ include($ROOT . 'inc/head.php');
                              --><div class="info">
                                     <b>Abraham Salman</b>
                                     <span>Abraham Salman (Iraq) jouant un <a href="../form/improv.php#taqsim">Taqsim</a>
-                                    dans le <a href="../maqam/rast.php">Maqam Rast</a>. De son CD Saltanah (1998).</span>
+                                    en <a href="../maqam/rast.php">Maqam Rast</a>. De son CD Saltanah (1998).</span>
                                 </div>
                             </label>
                         </div>

@@ -80,7 +80,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Ya Samiri Da‘a Sabri</b>
+                                    <b>Mouachah Ya Samiri Da‘a Sabri</b>
                                     <span>Muhammad Khayri</span>
                                 </div>
                             </label>
@@ -92,7 +92,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Hayya Wa Nadim</b>
+                                    <b>Mouachah Hayya Wa Nadim</b>
                                     <span>Samer Nashar</span>
                                 </div>
                             </label>

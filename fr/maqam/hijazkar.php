@@ -136,7 +136,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Afdihi Dhabiyan Ibtasam</b>
+                                    <b>Mouachah Afdihi Dhabiyan Ibtasam</b>
                                     <span>Sabah Fakhri</span>
                                     <span><img src="/img/cd.png"> Au Theatre Des Amandiers</span>
                                 </div>
@@ -149,7 +149,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ya ‘Uyunan Ramiyat</b>
+                                    <b>Mouachah Ya ‘Uyunan Ramiyat</b>
                                     <span>Sabri al-Mudallal</span>
                                     <span>Music by ‘Umar al-Batsh</span>
                                 </div>
@@ -201,7 +201,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Laha Badru-t-Timm</b>
+                                    <b>Mouachah Laha Badru-t-Timm</b>
                                     <span>(Maqam Suzidil)</span>
                                     <span>Firqat al-Musiqa al-Arabiyya</span>
                                     <span>Music by Mahmud Subh</span>

@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/mudawwar.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Mudawwar is a popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> repertoire. The word "mudawwar" in Arabic means round/circular.</p>
+                    <p>Iqa‘ Mudawwar is a popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Mouachah</a> repertoire. The word "mudawwar" in Arabic means round/circular.</p>
                     <!-- Many Mudawwar pieces start from the 11<sup>th</sup> beat (the last <em>tak</em>).  -->
 
                     <div class="player-area">
@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Adhkuru al-Hubba</b>
+                                    <b>Mouachah Adhkuru al-Hubba</b>
                                     <span>Abdel Halim Noueirah Ensemble</span>
                                     <span>Music by Dawud Husni</span>
                                 </div>
@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Fika Kullu Ma Ara Hasan</b>
+                                    <b>Mouachah Fika Kullu Ma Ara Hasan</b>
                                     <span>Abdel Halim Noueirah Ensemble</span>
                                 </div>
                             </label>
@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Nabbih al-Nudman Sahi</b>
+                                    <b>Mouachah Nabbih al-Nudman Sahi</b>
                                     <span>Sabah Fakhri</span>
                                 </div>
                             </label>

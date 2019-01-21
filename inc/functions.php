@@ -2,11 +2,14 @@
 function sort_by_name($a,$b) {
     return preg_replace('/[^A-Za-z0-9\- ]/', '', $a[1]) > preg_replace('/[^A-Za-z0-9\- ]/', '', $b[1]);
 }
-function sort_by_name_de($a,$b) {
-    return preg_replace('/[^A-Za-z0-9\- ]/', '', $a[3]) > preg_replace('/[^A-Za-z0-9\- ]/', '', $b[3]);
-}
 function sort_by_name_ar($a,$b) {
     return preg_replace('/[^A-Za-z0-9\- ]/', '', $a[2]) > preg_replace('/[^A-Za-z0-9\- ]/', '', $b[2]);
+}
+function sort_by_name_fr($a,$b) {
+    return preg_replace('/[^A-Za-z0-9\- ]/', '', $a[3]) > preg_replace('/[^A-Za-z0-9\- ]/', '', $b[3]);
+}
+function sort_by_name_de($a,$b) {
+    return preg_replace('/[^A-Za-z0-9\- ]/', '', $a[4]) > preg_replace('/[^A-Za-z0-9\- ]/', '', $b[3]);
 }
 function generateSideMenu($sidemenu_items, $page, $page_language) {
 
@@ -16,8 +19,11 @@ function generateSideMenu($sidemenu_items, $page, $page_language) {
     } else if($page_language == "ar") {
         /* sort by 3rd column */
         uasort($sidemenu_items,"sort_by_name_ar");
-    } else if($page_language == "de") {
+    } else if($page_language == "fr") {
         /* sort by 4th column */
+        uasort($sidemenu_items,"sort_by_name_fr");
+    } else if($page_language == "de") {
+        /* sort by 5th column */
         uasort($sidemenu_items,"sort_by_name_de");
     }
 
@@ -32,8 +38,10 @@ function generateSideMenu($sidemenu_items, $page, $page_language) {
                     echo $item[1];
                 } else if($page_language == "ar") {
                     echo $item[2];
-                } else if($page_language == "de") {
+                } else if($page_language == "fr") {
                     echo $item[3];
+                } else if($page_language == "de") {
+                    echo $item[4];
                 }
                 echo '</a>';
             echo '</li>';

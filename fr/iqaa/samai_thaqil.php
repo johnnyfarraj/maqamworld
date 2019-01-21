@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/samai_thaqil.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Sama‘i Thaqil (also called Sama‘i, for short) is a very popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre, as well as the principal iqa‘ used in the <a href="../form/ottoman.php#samai">Sama‘i</a> Turkish/Ottoman instrumental form. </p>
+                    <p>Iqa‘ Sama‘i Thaqil (also called Sama‘i, for short) is a very popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Mouachah</a> vocal genre, as well as the principal iqa‘ used in the <a href="../form/ottoman.php#samai">Sama‘i</a> Turkish/Ottoman instrumental form. </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -68,7 +68,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah ‘Atini Bikra al-Dinan</b>
+                                    <b>Mouachah ‘Atini Bikra al-Dinan</b>
                                     <span>Salim Sahhab Orchestra</span>
                                 </div>
                             </label>
@@ -80,7 +80,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Imlali al-Aqdaha Sirfan</b>
+                                    <b>Mouachah Imlali al-Aqdaha Sirfan</b>
                                     <span>Sheikh Hamza Shakkur and Ensemble Al Kindi</span>
                                 </div>
                             </label>
@@ -92,7 +92,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Laha Badru al-Timm</b>
+                                    <b>Mouachah Laha Badru al-Timm</b>
                                     <span>Abdel Halim Noueirah Ensemble</span>
                                     <span>Music by Sheikh Mahmud Subh</span>
                                 </div>
@@ -105,7 +105,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Mala al-Kasat</b>
+                                    <b>Mouachah Mala al-Kasat</b>
                                     <span>Ensemble Al-Kindi</span>
                                     <span>Music by Muhammad ‘Uthman</span>
                                 </div>
@@ -118,7 +118,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Rashiq al-Qadd</b>
+                                    <b>Mouachah Rashiq al-Qadd</b>
                                     <span>Ensemble Morkos</span>
                                     <span><img src="/img/cd.png"> Cèdre</span>
                                 </div>
@@ -131,7 +131,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Talaffata al-Dhabiyu</b>
+                                    <b>Mouachah Talaffata al-Dhabiyu</b>
                                     <span>Ensemble Al-Kindi</span>
                                     <span>Music by Sheikh Mahmud Subh</span>
                                 </div>
@@ -144,7 +144,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Tarraza al-Rayhan</b>
+                                    <b>Mouachah Tarraza al-Rayhan</b>
                                     <span>Ensemble Morkos</span>
                                     <span><img src="/img/cd.png"> Cèdre</span>
                                 </div>

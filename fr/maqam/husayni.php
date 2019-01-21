@@ -78,7 +78,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Bil-ladhi Askara</b>
+                                    <b>Mouachah Bil-ladhi Askara</b>
                                     <span>Sabah Fakhri</span>
                                     <span>Nagham al-Ams Vol. 12 (Bayati)</span>
                                 </div>
@@ -91,9 +91,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Hal ‘Ala al-Astar</b>
+                                    <b>Mouachah Hal ‘Ala al-Astar</b>
                                     <span>Ghada Shbeir</span>
-                                    <span><img src="/img/cd.png"> Al Muwashahat</span>
+                                    <span><img src="/img/cd.png"> Al Mouachahat</span>
                                 </div>
                             </label>
                         </div>
@@ -104,7 +104,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Khala al-‘Idhar</b>
+                                    <b>Mouachah Khala al-‘Idhar</b>
                                     <span>Khaled al-Hafez</span>
                                 </div>
                             </label>
