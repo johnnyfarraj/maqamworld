@@ -48,7 +48,7 @@ include($ROOT . 'inc/head.php');
                     The book is entitled <a href="en/book.php">INSIDE ARABIC MUSIC</a>,
                     and is expected to be published
                     by <a href="http://oup.com" target="_blank">Oxford University Press</a>
-                    around February/March 2019.
+                    around May 2019.
                     The book will be a comprehensive reference on Arabic Music and this website
                     will act like its companion.
                     The book project was the recipient of a 2012 grant
