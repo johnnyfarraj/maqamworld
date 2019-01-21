@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Jins Upper Rast";
 $page_description = "Jins Upper Rast";
 $page_keywords = "arabic, music, arab, world, maqam, jins, ‘ajam, ajam, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
-$page_language = "en"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "fr"; // en / ar <!-- YOU MUST PUT THIS
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="jins-page">
 
     <?php
-      $page = "en/jins/upper_rast.php";
+      $page = "fr/jins/upper_rast.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -163,7 +163,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
     
-    <?php include($ROOT . 'en/footer.php'); ?>
+    <?php include($ROOT . 'fr/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
     
 </body>

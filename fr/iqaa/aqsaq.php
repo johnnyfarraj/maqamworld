@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Iqa‘ Aqsaq";
 $page_description = "Iqa‘ Aqsaq";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, aqsaq, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "en";
+$page_language = "fr";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="iqaas-page">
 
     <?php
-      $page = "en/iqaa/aqsaq.php";
+      $page = "fr/iqaa/aqsaq.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -164,7 +164,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
 
-    <?php include($ROOT . 'en/footer.php'); ?>
+    <?php include($ROOT . 'fr/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
 
   </body>

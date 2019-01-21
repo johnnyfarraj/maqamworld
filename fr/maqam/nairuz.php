@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Maqam Nairuz/ Maqam Yakah";
 $page_description = "Maqam Nairuz/ Maqam Yakah";
 $page_keywords = "arabic, music, arab, world, maqam, jins, nairuz, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
-$page_language = "en";
+$page_language = "fr";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="maqams-page">
 
     <?php
-      $page = "en/maqam/nairuz.php";
+      $page = "fr/maqam/nairuz.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -138,7 +138,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
 
-    <?php include($ROOT . 'en/footer.php'); ?>
+    <?php include($ROOT . 'fr/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
 
 </body>

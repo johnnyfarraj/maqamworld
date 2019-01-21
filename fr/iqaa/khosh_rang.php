@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Iqa‘ Khosh Rang";
 $page_description = "Iqa‘ Khosh Rang";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, khosh rang, khush rank, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "en"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "fr"; // en / ar <!-- YOU MUST PUT THIS
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="iqaas-page">
 
     <?php
-      $page = "en/iqaa/khosh_rang.php";
+      $page = "fr/iqaa/khosh_rang.php";
       include($ROOT . 'inc/menu.php');
     ?>
     
@@ -98,7 +98,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
     
-    <?php include($ROOT . 'en/footer.php'); ?>
+    <?php include($ROOT . 'fr/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
     
   </body>

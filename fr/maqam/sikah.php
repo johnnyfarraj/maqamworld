@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Maqam Sikah";
 $page_description = "Maqam Sikah";
 $page_keywords = "arabic, music, arab, world, maqam, jins, sikah, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
-$page_language = "en";
+$page_language = "fr";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="maqams-page">
 
     <?php
-      $page = "en/maqam/sikah.php";
+      $page = "fr/maqam/sikah.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -120,7 +120,7 @@ then <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree (whic
         </div>
     </div>
 
-    <?php include($ROOT . 'en/footer.php'); ?>
+    <?php include($ROOT . 'fr/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
 
 </body>

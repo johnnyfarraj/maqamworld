@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "L'Accordéon";
 $page_description = "L'Accordéon";
 $page_keywords = "arabe, musique, instruments, accordéon, bouzouk, daff, mazhar, guitare électrique, katem, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
-$page_language = "en";
+$page_language = "fr";
 
 include($ROOT . 'inc/head.php');
 ?>

@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Maqam Musta‘ar";
 $page_description = "Maqam Musta‘ar";
 $page_keywords = "arabic, music, arab, world, maqam, jins, sikah, mustaar, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
-$page_language = "en"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "fr"; // en / ar <!-- YOU MUST PUT THIS
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="maqams-page">
 
     <?php
-      $page = "en/maqam/mustaar.php";
+      $page = "fr/maqam/mustaar.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -120,7 +120,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
     
-    <?php include($ROOT . 'en/footer.php'); ?>
+    <?php include($ROOT . 'fr/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
     
 </body>

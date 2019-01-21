@@ -6,8 +6,8 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Athar Kurd";
 $page_description = "Maqam Athar Kurd";
-$page_keywords = "arabic, music, arab, world, maqam, jins, athar_kurd, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
-$page_language = "en";
+$page_keywords = "musique arabe, maqam, instruments, jins, iqa‘, iqaa, rythme, oud, qanoun, nay, quart de ton, tarab";
+$page_language = "fr";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="maqams-page">
 
     <?php
-      $page = "en/maqam/athar_kurd.php";
+      $page = "fr/maqam/athar_kurd.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -161,7 +161,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
 
-    <?php include($ROOT . 'en/footer.php'); ?>
+    <?php include($ROOT . 'fr/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
 
 </body>

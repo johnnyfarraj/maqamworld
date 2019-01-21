@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Jins Mukhalif Sharqi";
 $page_description = "Jins Mukhalif Sharqi";
 $page_keywords = "arabic, music, arab, world, maqam, jins, mustaar, musta‘ar, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
-$page_language = "en";
+$page_language = "fr";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="jins-page">
 
     <?php
-      $page = "en/jins/mukhalif_sharqi.php";
+      $page = "fr/jins/mukhalif_sharqi.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -223,7 +223,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
 
-    <?php include($ROOT . 'en/footer.php'); ?>
+    <?php include($ROOT . 'fr/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
   </body>
 </html>

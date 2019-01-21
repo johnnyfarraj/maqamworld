@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Iqa‘ Wahda Tawila";
 $page_description = "Iqa‘ Wahda Tawila";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, wahda tawila, wahda sunbati, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "en"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "fr"; // en / ar <!-- YOU MUST PUT THIS
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="iqaas-page">
 
     <?php
-      $page = "en/iqaa/wahda_tawila.php";
+      $page = "fr/iqaa/wahda_tawila.php";
       include($ROOT . 'inc/menu.php');
     ?>
     
@@ -114,7 +114,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
     
-    <?php include($ROOT . 'en/footer.php'); ?>
+    <?php include($ROOT . 'fr/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
     
   </body>

@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Iqa‘ Fakhit";
 $page_description = "Iqa‘ Fakhit";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, fakhit, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "en"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "fr"; // en / ar <!-- YOU MUST PUT THIS
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="iqaas-page">
 
     <?php
-      $page = "en/iqaa/fakhit.php";
+      $page = "fr/iqaa/fakhit.php";
       include($ROOT . 'inc/menu.php');
     ?>
     
@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
     
-    <?php include($ROOT . 'en/footer.php'); ?>
+    <?php include($ROOT . 'fr/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
     
   </body>

@@ -6,7 +6,7 @@ include('../inc/config.php');
 /* SEO settings for this page */
 $page_title = "";
 $page_description = "";
-$page_keywords = "";
+$page_keywords = "musique arabe, maqam, instruments, jins, iqa‘, iqaa, rythme, oud, qanoun, nay, quart de ton, tarab";
 $page_language = "fr"; // YOU MUST PUT THIS
 include($ROOT . 'inc/head.php');
 ?>

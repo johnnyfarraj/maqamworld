@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Maqam Nahawand";
 $page_description = "Maqam Nahawand";
 $page_keywords = "arabic, music, arab, world, maqam, jins, nahawand, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
-$page_language = "en";
+$page_language = "fr";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="maqams-page">
 
     <?php
-      $page = "en/maqam/nahawand.php";
+      $page = "fr/maqam/nahawand.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -229,7 +229,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
 
-    <?php include($ROOT . 'en/footer.php'); ?>
+    <?php include($ROOT . 'fr/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
 
 </body>

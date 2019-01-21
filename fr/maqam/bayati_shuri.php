@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Maqam Bayati Shuri";
 $page_description = "Maqam Bayati Shuri";
 $page_keywords = "arabic, music, arab, world, maqam, jins, bayati shuri, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
-$page_language = "en";
+$page_language = "fr";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="maqams-page">
 
     <?php
-      $page = "en/maqam/bayati_shuri.php";
+      $page = "fr/maqam/bayati_shuri.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -180,7 +180,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
 
-    <?php include($ROOT . 'en/footer.php'); ?>
+    <?php include($ROOT . 'fr/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
 
 </body>
