@@ -31,7 +31,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <p>Ich freue mich, das Erscheinen eines Buches ankündigen zu können, das ich gemeinsam mit meinem Freund Sami Abu Shumays (Schöpfer von <a href="http://maqamlessons.com" target="_blank">MaqamLessons</a>) geschrieben habe.
-                        Es trägt den Titel <strong>INSIDE ARABIC MUSIC</strong> und soll bei <a href="http://oup.com" target="_blank">Oxford University Press</a> im Februar 2019 erscheinen.
+                        Es trägt den Titel <strong>INSIDE ARABIC MUSIC</strong> und soll bei <a href="http://oup.com" target="_blank">Oxford University Press</a> im Mai 2019 erscheinen.
                     </p>
                     <p>Es handelt sich dabei um ein umfangreiches Nachschlagewerk zur arabischen Musik. Diese Website ist sein Begleiter.</p>
                     <p>Das Buchprojekt wurde vom <a href="http://arabculturefund.org/grantees/grantee.php?id=333" target=_blank>Arab Fund for Arts and Culture</a> gefördert. </p>
