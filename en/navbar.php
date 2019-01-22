@@ -20,7 +20,7 @@
 			<a class="nav-link" href="/en/iqaa.php">Rhythms</a>
 		</li>
 		<li class="nav-item <?php if($page == "en/book.php") { echo "active"; } ?>">
-			<a class="nav-link" href="/en/book.php">Book</a>
+			<a class="nav-link" href="/en/book.php">Publications</a>
 		</li>
 	</ul>
 </div>
