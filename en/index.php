@@ -24,16 +24,17 @@ include($ROOT . 'inc/head.php');
                 <div class="col-sm-12">
                     <div class="heading">
                         <h1>Welcome to the new <span>MaqamWorld</span></h1>
-
                         <h3>MaqamWorld is an online resource dedicated to teaching the Arabic Maqam modal system, which is the foundation of traditional Arabic music. This website mainly covers music from the Eastern Mediterranean part of the Arab World (Egypt, Palestine, Jordan, Lebanon and Syria), with a focus on the early to mid-twentieth century period.</h3>
-
                     </div>
-                    <p>After 17 years in operation, MaqamWorld has been rebuilt with the help of a 2016 grant
+
+                    <p>
+                    After 17 years in operation, MaqamWorld has been rebuilt with the help of a 2016 grant
                     from <a href="http://arabculturefund.org/grantees/grantee.php?id=333" target="_blank">The Arab Fund for Arts and Culture (AFAC)</a>.
-                    MaqamWorld includes the following new features:</p>
+                    MaqamWorld includes the following new features:
+                    </p>
 
                     <ul>
-                        <li>A full translation to Arabic and German (Spanish and French are under construction).</li>
+                        <li>A full translation to <a href="/ar/index.php"><strong>Arabic</strong></a> and <a href="/de/index.php"><strong>German</strong></a> (French, Spanish and Greek are under construction).</li>
                         <li>Support of displays of all sizes (especially smart phones).</li>
                         <li>Google Search.</li>
                         <li>Updated and more relevant content.</li>
@@ -43,16 +44,12 @@ include($ROOT . 'inc/head.php');
                         <li>A "Contact Us" page for viewer feedback.</li>
                     </ul>
 
-                    <p>I am happy to announce an upcoming book co-authored with my friend Sami Abu Shumays
-                    (creator of <a href="http://maqamlessons.com" target="_blank">MaqamLessons</a>).
-                    The book is entitled <a href="en/book.php">INSIDE ARABIC MUSIC</a>,
-                    and is expected to be published
-                    by <a href="http://oup.com" target="_blank">Oxford University Press</a>
-                    around May 2019.
-                    The book will be a comprehensive reference on Arabic Music and this website
-                    will act like its companion.
-                    The book project was the recipient of a 2012 grant
-                    from <a href="http://arabculturefund.org" target="_blank">AFAC</a>.</p>
+                    <p>
+                    I am happy to announce an upcoming book co-authored with my friend Sami Abu Shumays (creator of <a href="http://maqamlessons.com" target="_blank">MaqamLessons</a>).
+                    The book is entitled <a href="en/book.php">INSIDE ARABIC MUSIC</a>, and is expected to be published by <a href="http://oup.com" target="_blank">Oxford University Press</a> around May 2019.
+                    The book will be a comprehensive reference on Arabic Music and this website will act like its companion.
+                    The book project was the recipient of a 2012 grant from <a href="http://arabculturefund.org" target="_blank">AFAC</a>.
+                    </p>
 
                     <div class="row">
                         <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3">
@@ -80,7 +77,7 @@ include($ROOT . 'inc/head.php');
                                 <img class="card-img-top" src="/img/nahat_round.png" alt="The Arabic Oud">
                                 <div class="card-body">
                                     <h5 class="card-title">Rhythm</h5>
-                                    <p class="card-text">Learn about the Arabic rhythmic cycle called <b>Iqa‘</b>, made of the primitive sounds <em>dum</em> and <em>tak</em>.</p>
+                                    <p class="card-text">Learn about the Arabic rhythmic cycle called <b>Iqa‘˜</b>, made of the primitive sounds <em>dum</em> and <em>tak</em>.</p>
                                     <a href="/en/iqaa.php" class="btn btn-primary">Iqa‘<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
