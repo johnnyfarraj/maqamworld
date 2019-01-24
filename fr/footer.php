@@ -6,7 +6,7 @@
                 <p>&copy; 2001-2018 MaqamWorld
                 <br>Tous droits réservés.
                 <br>Conception et codage: <a href="http://filiptodorov.com" target="_blank">Filip Todorov</a>
-                <br>Traduction française: Nicolas Royer-Artuso
+                <br>Traduction française: <a href="http://independent.academia.edu/NicolasRoyerArtuso" target="_blank">Nicolas Royer-Artuso</a>
                 </p>
                 <!--
                 <ul class="socials">
