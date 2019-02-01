@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Jins Nahawand Murassa";
-$page_description = "Jins Nahawand Murassa";
+$page_title = "Jins Nahawand Murassa‘";
+$page_description = "Jins Nahawand Murassa‘";
 $page_keywords = "arabic, music, arab, world, maqam, jins, nahawand murassa‘, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
 $page_language = "de";
 

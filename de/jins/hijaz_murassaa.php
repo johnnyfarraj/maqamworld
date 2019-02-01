@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Jins Hijaz Murassa";
-$page_description = "Jins Hijaz Murassa";
+$page_title = "Jins Hijaz Murassa‘";
+$page_description = "Jins Hijaz Murassa‘";
 $page_keywords = "arabic, music, arab, world, maqam, jins, hijaz murassa‘, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
 $page_language = "de";
 
