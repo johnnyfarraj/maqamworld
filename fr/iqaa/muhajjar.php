@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Muhajjar";
-$page_description = "Iqa‘ Muhajjar";
+$page_title = "Iqa‘ Mouhajjar";
+$page_description = "Iqa‘ Mouhajjar";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, muhajjar, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "fr";
 
@@ -29,20 +29,20 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Muhajjar 14/4</h1>
+                        <h1>Iqa‘ Mouhajjar 14/4</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/muhajjar.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Muhajjar</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/muhajjar.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Mouhajjar</a>
                     </div>
 
                     <div class="notation">
                         <img src="/note/iqaa/muhajjar.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Muhajjar is a very popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Mouachah</a> repertoire. It is immediately recognizable by the 3 consecutive <em>dum</em>-s that open the measure. The word "muhajjar" in Arabic means made of/turned into stone.</p>
+                    <p>Iqa‘ Mouhajjar is a very popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Mouachah</a> repertoire. It is immediately recognizable by the 3 consecutive <em>dum</em>-s that open the measure. The word "muhajjar" in Arabic means made of/turned into stone.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -68,7 +68,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Hajarni Habibi</b>
-                                    <span>Al-Turath Ensemble</span>
+                                    <span>Ensemble Al-Tourath</span>
                                 </div>
                             </label>
                         </div>
@@ -92,10 +92,10 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Muyati ‘Azza Istibari</b>
-                                    <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
-                                    <span>Conductor: Aïda Shalhoub Ziadé</span>
-                                    <span>Musique de Sayyed Darwish</span>
-                                    <span><img src="/img/cd.png"> Orientalia: Mouachah and Song series</span>
+                                    <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Liban)</span>
+                                    <span>Chef d'orchestre: Aïda Shalhoub Ziadé</span>
+                                    <span>Musique de Sayyed Darwich</span>
+                                    <span><img src="/img/cd.png"> Orientalia: Mouachah et Chansons</span>
                                 </div>
                             </label>
                         </div>

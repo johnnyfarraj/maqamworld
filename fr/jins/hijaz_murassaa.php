@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Ana Fi-ntizarak (1943)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Zakaria Ahmad</span>
                                 </div>
                             </label>
@@ -109,7 +109,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Laha Badru-t-Tim</b>
-                                    <span>Vocals by Sheikh Mahmud Subh</span>
+                                    <span>Interprétation de Sheikh Mahmoud Soubh</span>
                                 </div>
                             </label>
                         </div>
@@ -122,7 +122,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Mala al-Kasat (khana)</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Musique de Mouhammad ‘Uthman</span>
+                                    <span>Musique de Mouhammad ‘Outhman</span>
                                 </div>
                             </label>
                         </div>
@@ -170,7 +170,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mawwal in Maqam Isba‘ayn</b>
+                                    <b>Mawwal en Maqam Isba‘ayn</b>
                                     <span>Sonia M'Barek</span>
                                     <span><img src="/img/cd.png"> Tawchih &copy; 1997</span>
                                 </div>

@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Sittatu ‘Ashar Masri";
-$page_description = "Iqa‘ Sittatu ‘Ashar Masri";
+$page_title = "Iqa‘ Sittatu ‘Achar Masri";
+$page_description = "Iqa‘ Sittatu ‘Achar Masri";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, sittatu ashar masri, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "fr";
 
@@ -29,20 +29,20 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Sittatu ‘Ashar Masri 32/4</h1>
+                        <h1>Iqa‘ Sittatu ‘Achar Masri 32/4</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/sittatu_ashar.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Sittatu ‘Ashar Masri</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/sittatu_ashar.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Sittatu ‘Achar Masri</a>
                     </div>
 
                     <div class="notation">
                         <img src="/note/iqaa/sittatu_ashar.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Sittatu ‘Ashar Masri ("sittatu ‘ashar" means sixteen, "masri" means Egyptian) is a rare <em>iqa‘</em> mostly used in the <a href="../form/vocal_comp.php#muwashah">Mouachah</a> vocal genre. It spans 8 measures of 4/4, bringing its time signature to 32/4.</p>
+                    <p>Iqa‘ Sittatu ‘Achar Masri ("sittatu ‘ashar" means sixteen, "masri" means Egyptian) is a rare <em>iqa‘</em> mostly used in the <a href="../form/vocal_comp.php#muwashah">Mouachah</a> vocal genre. It spans 8 measures of 4/4, bringing its time signature to 32/4.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

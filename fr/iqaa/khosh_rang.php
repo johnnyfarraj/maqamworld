@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Khosh Rang";
-$page_description = "Iqa‘ Khosh Rang";
+$page_title = "Iqa‘ Khoch Rangue";
+$page_description = "Iqa‘ Khoch Rangue";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, khosh rang, khush rank, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "fr";
 
@@ -29,21 +29,21 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Khosh Rang 17/8</h1>
+                        <h1>Iqa‘ Khoch Rangue 17/8</h1>
                         <h3>(also spelled Khush Rank)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/khosh_rang.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Khosh Rang</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/khosh_rang.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Khoch Rangue</a>
                     </div>
 
                     <div class="notation">
                         <img src="/note/iqaa/khosh_rang.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Khosh Rang (also spelled Khush Rank) is a very rare <em>iqa‘</em> that is only used in one known <a href="../form/vocal_comp.php#muwashah">Mouachah</a> and a few rare modern compositions.</p>
+                    <p>Iqa‘ Khoch Rangue (also spelled Khush Rank) is a very rare <em>iqa‘</em> that is only used in one known <a href="../form/vocal_comp.php#muwashah">Mouachah</a> and a few rare modern compositions.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Salla Fina al-Lahdha Hindiyya</b>
                                     <span>Sabah Fakhri</span>
-                                    <span><img src="/img/cd.png"> Nagham Al Ams Vol 08 - Hijaz</span>
+                                    <span><img src="/img/cd.png"> Nagham Al-Ams Vol 08 - Hijaz</span>
                                 </div>
                             </label>
                         </div>

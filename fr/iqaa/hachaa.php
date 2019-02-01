@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/hachaa_4_4.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Hacha‘ in 4/4 is very popular in Sufi music, especially in pieces that only use percussion instruments. Although the 4/4 version is by far the most prevalent, it is an adaptation of a more folkloric <em>iqa‘</em> by the same name in 2/4. A rare adaptation is the 6/4 version used by composer Baligh Hamdi in Umm Kulthum's "Alf Leila w Leila".
+                    <p>Iqa‘ Hacha‘ in 4/4 is very popular in Sufi music, especially in pieces that only use percussion instruments. Although the 4/4 version is by far the most prevalent, it is an adaptation of a more folkloric <em>iqa‘</em> by the same name in 2/4. A rare adaptation is the 6/4 version used by composer Baligh Hamdi in Oum Koulthoum's "Alf Leila w Leila".
 					</p>
 
                     <div class="player-area">
@@ -84,8 +84,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>il-Albi Yi‘shaq Kulli Gamil (1961)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Musique de Riyad al-Sunbati</span>
+                                    <span>Oum Koulthoum</span>
+                                    <span>Musique de Riyad al-Soumbati</span>
                                 </div>
                             </label>
                         </div>
@@ -98,7 +98,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Qari'at al-Fingan (1976)</b>
                                     <span>Abdel Halim Hafez</span>
-                                    <span>Musique de Mouhammad al-Mugi</span>
+                                    <span>Musique de Mouhammad al-Mougi</span>
                                 </div>
                             </label>
                         </div>
@@ -144,7 +144,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>‘Al-Maya</b>
                                     <span>Diyab Mashhur</span>
-                                    <span>(Syrian Folk Song)</span>
+                                    <span>(Syrien Folk Song)</span>
                                 </div>
                             </label>
                         </div>
@@ -166,7 +166,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Alf Leila w leila (1969)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Baligh Hamdi</span>
                                 </div>
                             </label>

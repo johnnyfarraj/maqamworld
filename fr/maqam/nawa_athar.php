@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Nawa Athar</h1>
-                        <h3>A member of the <a href="f_nikriz.php">Famille du Maqam Nikriz</a></h3>
+                        <h3>Membre de la <a href="f_nikriz.php">Famille du Maqam Nikriz</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
 					</map>
                     <p>Maqam Nawa Athar is another popular maqam in the Nikriz Family. Its scale starts with the root <a href="../jins/nikriz.php">Jins Nikriz</a> on the <em>tonic</em>, followed by <a href="../jins/hijazkar.php">Jins Hijazkar</a> centered on the 5<sup>th</sup> degree. </p>
 
-                    <p>Explore other maqamat in the <a href="f_nikriz.php">Famille du Maqam Nikriz</a>.</p>
+                    <p>Explorez d'autres maqamat dans la <a href="f_nikriz.php">Famille du Maqam Nikriz</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -76,9 +76,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Gulubti Asalih Fi Rouhi (1948)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Musique de Riyad al-Sunbati</span>
+                                    <b>Ghouloubti Asalih Fi Rouhi (1948)</b>
+                                    <span>Oum Koulthoum</span>
+                                    <span>Musique de Riyad al-Soumbati</span>
                                 </div>
                             </label>
                         </div>
@@ -90,7 +90,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" checked>
                                 <div class="info">
                                     <b>Gamil Gamal (1952)</b>
-                                    <span>Interprétation et Musique de Farid al-Atrash</span>
+                                    <span>Interprétation et Musique de Farid al-Atrache</span>
                                 </div>
                             </label>
                         </div>
@@ -101,8 +101,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Fakkaruni (1966)</b>
-                                    <span>Umm Kulthum</span>
+                                    <b>Fakkarouni (1966)</b>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -114,9 +114,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Adhkuru al-Hubba</b>
-                                    <span>Abdel Halim Noueirah Ensemble</span>
-                                    <span>Musique de Dawud Husni</span>
+                                    <b>Mouachah Adhkourou al-Houbba</b>
+                                    <span>Ensemble Abdel Halim Noueirah</span>
+                                    <span>Musique de Daoud Housni</span>
                                 </div>
                             </label>
                         </div>
@@ -128,8 +128,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Nawa Athar</b>
-                                    <span>Syrian Ensemble of Homs</span>
-                                    <span>Musique de Jamil ‘Uways (Syria)</span>
+                                    <span>Ensemble Syrien de Homs</span>
+                                    <span>Musique de Jamil ‘Ouways (Syrie)</span>
                                 </div>
                             </label>
                         </div>
@@ -140,7 +140,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dulab Nawa Athar</b>
+                                    <b>Doulab Nawa Athar</b>
                                     <span>George Abyad</span>
                                     <span><img src="/img/cd.png"> Impovisations Orientales</span>
                                 </div>

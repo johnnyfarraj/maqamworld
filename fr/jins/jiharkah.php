@@ -82,8 +82,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>‘Awwidti ‘Eini (1957)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Musique de Riyad al-Sunbati</span>
+                                    <span>Oum Koulthoum</span>
+                                    <span>Musique de Riyad al-Soumbati</span>
                                 </div>
                             </label>
                         </div>
@@ -95,8 +95,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Shams el-Asil (1958)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Musique de Riyad al-Sunbati</span>
+                                    <span>Oum Koulthoum</span>
+                                    <span>Musique de Riyad al-Soumbati</span>
                                 </div>
                             </label>
                         </div>
@@ -107,9 +107,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Oud in Maqam Rast</b>
+                                    <b>Taqsim Oud en Maqam Rast</b>
                                     <span>Ibrahim al-Haggar</span>
-                                    <span>Wasla in Maqam Rast</span>
+                                    <span>Wasla en Maqam Rast</span>
                                 </div>
                             </label>
                         </div>
@@ -122,7 +122,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Mal il-Sham</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Musique de Ahmad Abu Khalil al-Qabbani</span>
+                                    <span>Musique de Ahmad Abou Khalil al-Qabbani</span>
                                 </div>
                             </label>
                         </div>

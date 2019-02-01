@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Tal Intizari (1937)</b>
-                                    <span>Mouhammad Abdel Wahab and Laila Murad</span>
+                                    <span>Mouhammad Abdel Wahab and Laila Mourad</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>

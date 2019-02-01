@@ -56,10 +56,10 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Mouachah Sihtu Wajdan</b>
-                                    <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
-                                    <span>Conductor: Aïda Shalhoub Ziadé</span>
-                                    <span>Musique de Sayyed Darwish</span>
-                                    <span><img src="/img/cd.png"> Orientalia: Mouachah and Song series</span>
+                                    <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Liban)</span>
+                                    <span>Chef d'orchestre: Aïda Shalhoub Ziadé</span>
+                                    <span>Musique de Sayyed Darwich</span>
+                                    <span><img src="/img/cd.png"> Orientalia: Mouachah et Chansons</span>
                                 </div>
                             </label>
                         </div>

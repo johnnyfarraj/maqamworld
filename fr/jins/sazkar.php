@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Dala‘ Dalla‘ (1974)</b>
                                     <span>Sabah</span>
-                                    <span>Musique de Farid al-Atrash</span>
+                                    <span>Musique de Farid al-Atrache</span>
                                 </div>
                             </label>
                         </div>

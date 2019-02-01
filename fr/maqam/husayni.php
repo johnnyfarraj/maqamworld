@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Houssayni</h1>
-                        <h3>A member of the <a href="f_bayati.php">Famille du Maqam Bayati</a></h3>
+                        <h3>Membre de la <a href="f_bayati.php">Famille du Maqam Bayati</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
@@ -65,7 +65,7 @@ include($ROOT . 'inc/head.php');
 					</map>
                     <p>Maqam Houssayni is not very common as an independent maqam in the Arabic tradition, though its sayr (emphasizing the 5<sup>th</sup> scale degree as a note of tension resolving down to the 4<sup>th</sup> degree) is obligatory within <a href="bayati.php">Maqam Bayati</a>. In the folk music of the wider region, this is actually the most common variant of Bayati, with its scale starting with the root <a href="../jins/bayati.php">Jins Bayati</a> on the <em>tonic</em>.
                     </p>
-                    <p>Explore other maqamat in the <a href="f_bayati.php">Famille du Maqam Bayati</a>.</p>
+                    <p>Explorez d'autres maqamat dans la <a href="f_bayati.php">Famille du Maqam Bayati</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -116,8 +116,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Nura Nura (1953)</b>
-                                    <span>Music and Vocals by Farid al-Atrash</span>
+                                    <b>Noura Noura (1953)</b>
+                                    <span>Interprétation et Musique de Farid al-Atrache</span>
                                 </div>
                             </label>
                         </div>
@@ -129,7 +129,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Bayati Ibrahim al-‘Aryan (Khana 2)</b>
-                                    <span>Salah ‘Arram Ensemble (Egypt)</span>
+                                    <span>Ensemble Salah ‘Arram (Égypte)</span>
                                 </div>
                             </label>
                         </div>

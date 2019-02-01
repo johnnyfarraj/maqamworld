@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/qadd.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Qadd</a>
                     </div>
-                    <p> The Qadd (plural <em>qoudoud</em>) is a light and simple traditional song that flourished in Aleppo, Syria. <em>Qudud</em> are usually performed at the end of a wasla, after heavier pieces like adwar, qasa'id or muwashahat. Qudud lyrics are in the colloquial Aleppan (or sometimes Egyptian) dialects and are very accessible, down to earth and easy to memorize.
+                    <p> The Qadd (plural <em>qoudoud</em>) is a light and simple traditional song that flourished in Aleppo, Syrie. <em>Qudud</em> are usually performed at the end of a wasla, after heavier pieces like adwar, qasa'id or muwashahat. Qudud lyrics are in the colloquial Aleppan (or sometimes Egyptian) dialects and are very accessible, down to earth and easy to memorize.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=zX7gJKlDDyY">
@@ -182,7 +182,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Dawr Dayya‘ti Moustaqbal Hayati (1914)</b>
-                                    <span>Sabah Fakhri interprète le <strong>Dawr Dayya'ti Moustaqbal Hayati</strong> en <a href="../maqam/bayati_shuri.php">Maqam Bayati Chouri</a> (1914, musique de Sayyed Darwish).</span>
+                                    <span>Sabah Fakhri interprète le <strong>Dawr Dayya'ti Moustaqbal Hayati</strong> en <a href="../maqam/bayati_shuri.php">Maqam Bayati Chouri</a> (1914, musique de Sayyed Darwich).</span>
                                 </div>
                             </label>
                         </div>
@@ -194,7 +194,7 @@ include($ROOT . 'inc/head.php');
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/taqtuqa.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Taqtouqa</a>
                     </div>
-                    <p> La Taqtouqa (<em>Taqatiq</em> au pluriel) est la chanson standard arabe de 3-4 minutes et comprend plusieurs couplets et un refrain qui se répète. Les Taqatiq sont en général dans un <a href="../iqaa.php">iqa‘a</a> simple et bien connu comme le <a href="../iqaa/maqsum.php">Iqa‘ Maqsum</a> et ont des paroles accessibles et une mélodie simple, facilement mémorisable et chantable.
+                    <p> La Taqtouqa (<em>Taqatiq</em> au pluriel) est la chanson standard arabe de 3-4 minutes et comprend plusieurs couplets et un refrain qui se répète. Les Taqatiq sont en général dans un <a href="../iqaa.php">iqa‘a</a> simple et bien connu comme le <a href="../iqaa/maqsum.php">Iqa‘ Maqsoum</a> et ont des paroles accessibles et une mélodie simple, facilement mémorisable et chantable.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=uO8eElxaaUY">
@@ -393,7 +393,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Leh Ya Banafseg (1961)</b>
-                                    <span>Wasla de Saleh Abdel Hayy en <a href="../maqam/rast.php">Maqam Rast</a> avec <a href="improv.php#taqsim">Taqsim</a> de <a href="../instr/oud.php">oud</a>, une partie du <a href="ottoman.php#samai">Sama‘i</a> Rast de Tatyos Effendi, un Taqsim au <a href="../instr/violin.php">violon</a>, des <a href="improv.php#layali">Layali</a> accompagnés au <a href="../instr/qanun.php">qanoun</a> et, finalement, la <a href="vocal_comp.php#taqtuqa">Taqtouqa</a> <strong>Leh Ya Banafseg</strong> (1961), composée par Riyad al-Sunbati.
+                                    <span>Wasla de Saleh Abdel Hayy en <a href="../maqam/rast.php">Maqam Rast</a> avec <a href="improv.php#taqsim">Taqsim</a> de <a href="../instr/oud.php">oud</a>, une partie du <a href="ottoman.php#samai">Sama‘i</a> Rast de Tatyos Effendi, un Taqsim au <a href="../instr/violin.php">violon</a>, des <a href="improv.php#layali">Layali</a> accompagnés au <a href="../instr/qanun.php">qanoun</a> et, finalement, la <a href="vocal_comp.php#taqtuqa">Taqtouqa</a> <strong>Leh Ya Banafseg</strong> (1961), composée par Riyad al-Soumbati.
                                 </span>
                                 </div>
                             </label>

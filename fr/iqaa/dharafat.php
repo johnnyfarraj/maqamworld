@@ -57,8 +57,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Mouachah Tif Ya Durri Bil Qanani</b>
-                                    <span>Al-Kindi Ensemble</span>
-                                    <span>Musique de ‘Umar al-Batsh</span>
+                                    <span>Ensemble Al-Kindi</span>
+                                    <span>Musique de Omar al-Batsh</span>
                                     <span><img src="/img/cd.png"> The Aleppian Music Room I - Maqam Hijazkar Kurd</span>
                                 </div>
                             </label>
@@ -71,10 +71,10 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Tif Ya Durri Bil Qanani</b>
-                                    <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
-                                    <span>Conductor: Aïda Shalhoub Ziadé</span>
-                                    <span>Musique de ‘Umar al-Batsh</span>
-                                    <span><img src="/img/cd.png"> Orientalia: Mouachah and Song series</span>
+                                    <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Liban)</span>
+                                    <span>Chef d'orchestre: Aïda Shalhoub Ziadé</span>
+                                    <span>Musique de Omar al-Batsh</span>
+                                    <span><img src="/img/cd.png"> Orientalia: Mouachah et Chansons</span>
                                 </div>
                             </label>
                         </div>
@@ -98,7 +98,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>il-Hubbi Kullo (1971)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Baligh Hamdi</span>
                                 </div>
                             </label>

@@ -31,7 +31,7 @@ include($ROOT . 'inc/head.php');
                     <div class="heading jins text-center">
                         <h1>Maqam Houzam</h1>
                         <h1>Maqam Rahat al-Arwah</h1>
-                        <h3>A member of the <a href="f_sikah.php">Famille du Maqam Sikah</a></h3>
+                        <h3>Membre de la <a href="f_sikah.php">Famille du Maqam Sikah</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>The transposition of Maqam Houzam to B<i class="icon-halfflat"></i> has its own name: <strong>Maqam Rahat al-Arwah</strong>. Both maqamat have exactly the same sayr.</p>
 
-                    <p>Explore other maqamat in the <a href="f_sikah.php">Famille du Maqam Sikah</a>.</p>
+                    <p>Explorez d'autres maqamat dans la <a href="f_sikah.php">Famille du Maqam Sikah</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Ya Ghusna Naqa</b>
                                     <span>(Maqam Houzam)</span>
-                                    <span>Firqat al-Musiqa al-Arabiyya, Egypt</span>
+                                    <span>Ensemble de la Musique Arabe (Égypte)</span>
                                 </div>
                             </label>
                         </div>
@@ -96,10 +96,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ayyuha al-Saqi</b>
+                                    <b>Mouachah Ayyouha al-Saqi</b>
                                     <span>Sabah Fakhri</span>
                                     <span>Musique de Majdi al-‘Aqili</span>
-                                    <span>Nagham Al Ams Vol. 13 Houzam</span>
+                                    <span>Nagham Al-Ams Vol. 13 Houzam</span>
                                 </div>
                             </label>
                         </div>
@@ -111,7 +111,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr Emta el-Hawa (1936)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Zakaria Ahmad</span>
                                 </div>
                             </label>
@@ -125,7 +125,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Marmar Zamani</b>
                                     <span>Fairouz</span>
-                                    <span>(Traditional melody)</span>
+                                    <span>(chanson traditionnelle)</span>
                                 </div>
                             </label>
                         </div>
@@ -143,7 +143,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Ward Gamil (1947)</b>
-                                    <span>Umm Kuthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Zakaria Ahmad</span>
                                 </div>
                             </label>
@@ -168,9 +168,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr Inta Fahim (19??)</b>
+                                    <b>Dawr Inta Fahim</b>
                                     <span>(Maqam Rahat al-Arwah)</span>
-                                    <span>Music and Vocals by Zakaria Ahmad</span>
+                                    <span>Interprétation et Musique de Zakaria Ahmad</span>
                                 </div>
                             </label>
                         </div>
@@ -181,9 +181,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dulab Rahat al-Arwah</b>
-                                    <span>Aicha Redouane</span>
-                                    <span><img src="/img/cd.png"> Egypte</span>
+                                    <b>Doulab Rahat al-Arwah</b>
+                                    <span>Aïcha Redouane (Maroc)</span>
+                                    <span><img src="/img/cd.png"> Égypte</span>
                                 </div>
                             </label>
                         </div>
@@ -194,9 +194,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dulab Rahat al-Arwah</b>
+                                    <b>Doulab Rahat al-Arwah</b>
                                     <span>Sabah Fakhri</span>
-                                    <span><img src="/img/cd.png"> Live at Beiteddine</span>
+                                    <span><img src="/img/cd.png"> Festival de Beiteddine (Liban)</span>
                                 </div>
                             </label>
                         </div>

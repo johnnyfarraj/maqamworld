@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Zanjarane</h1>
-                        <h3>A member of the <a href="f_hijaz.php">Famille du Maqam Hijaz</a></h3>
+                        <h3>Membre de la <a href="f_hijaz.php">Famille du Maqam Hijaz</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
@@ -64,7 +64,7 @@ include($ROOT . 'inc/head.php');
 					</map>
                     <p>Maqam Zanjarane is a variant of <a href="hijaz.php">Maqam Hijaz</a> with <a href="../jins/ajam.php">Jins ‘Ajam</a> as the second jins (on the 4<sup>th</sup> degree) and the root <a href="../jins/hijaz.php">Jins Hijaz</a> on the <em>tonic</em>. </p>
 
-                    <p>Explore other maqamat in the <a href="f_hijaz.php">Famille du Maqam Hijaz</a>.</p>
+                    <p>Explorez d'autres maqamat dans la <a href="f_hijaz.php">Famille du Maqam Hijaz</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -77,7 +77,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Ya Halawit el-Dunya (c.1950)</b>
+                                    <b>Ya Halawit el-Dounya (c.1950)</b>
                                     <span>Sayyed Makkawi</span>
                                     <span>Musique de Zakariya Ahmad</span>
                                 </div>
@@ -90,7 +90,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Aya Daraha Bil-Huzn</b>
+                                    <b>Mouachah Aya Daraha Bil-Houzn</b>
                                     <span>Hassan al-Haffar</span>
                                     <span>Musique de Majdi al-‘Aqili</span>
                                 </div>
@@ -117,7 +117,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Layali Zanjarane</b>
                                     <span>Ahmad Khabbari</span>
-                                    <span>Al-Turath Ensemble</span>
+                                    <span>Ensemble Al-Tourath</span>
                                     <span><img src="/img/cd.png"> The Music In Spanish Al-Andalus - Hijaz</span>
                                 </div>
                             </label>
@@ -129,8 +129,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Semiramis (Taqsim Oud Zanjarane)</b>
-                                    <span>‘Amer ‘Ammuri</span>
+                                    <b>Semiramis (Taqsim Oud en Maqam Zanjarane)</b>
+                                    <span>‘Amer ‘Ammouri</span>
                                     <span><img src="/img/cd.png"> Takasim Oud</span>
                                 </div>
                             </label>
@@ -142,7 +142,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Qanun Zanjarane</b>
+                                    <b>Taqsim au Qanoun en Zanjarane</b>
                                     <span>Abraham Salman</span>
                                     <span><img src="/img/cd.png"> Saltanah</span>
                                 </div>
@@ -155,7 +155,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Buzuq Zanjarane</b>
+                                    <b>Taqsim au Bouzouk en Zanjarane</b>
                                     <span>Mouhammad Abdel Karim</span>
                                 </div>
                             </label>

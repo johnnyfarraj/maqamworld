@@ -41,7 +41,7 @@ include($ROOT . 'inc/head.php');
                         <span>Omar Khorshid, the pioneer of Electric Guitar in Egypt</span>
                     </div>
 
-                    <p> La Guitare Électriqu was first used in Arabic music in the late 1960s in Egypt, and its pioneer was Omar Khorshid. Some Arabic electric guitars were fitted with extra frets (in the manner of the <a href="buzuq.php">Buzuq</a>) in order to play some of the Arabic <a href="../maqam.php">Maqam</a> scales with quartertones. But mostly the electric guitar was used without any alteration or effects, and acquired its Arabness from its ornamentation style. The electric guitar was used to play a combination of melodic lines and simple chords (e.g. major and minor).
+                    <p> La Guitare Électriqu was first used in Arabic music in the late 1960s in Egypt, and its pioneer was Omar Khorshid. Some Arabic electric guitars were fitted with extra frets (in the manner of the <a href="buzuq.php">Bouzouk</a>) in order to play some of the Arabic <a href="../maqam.php">Maqam</a> scales with quartertones. But mostly the electric guitar was used without any alteration or effects, and acquired its Arabness from its ornamentation style. The electric guitar was used to play a combination of melodic lines and simple chords (e.g. major and minor).
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=3uBB1pxeirw">
@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Omar Khorshid Interview</b>
-                                    <span>Interview with Omar Khorshid about his experience playing the Electric Guitar with Umm Kuthum's Orchestra</span>
+                                    <span>Interview with Omar Khorshid about his experience playing the Electric Guitar with Oum Koulthoum's Orchestra</span>
                                 </div>
                             </label>
                         </div>

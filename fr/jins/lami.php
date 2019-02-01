@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ahmad Ya Habibi</b>
-                                    <span>Interprétation et Musique de Sabri al-Mudallal</span>
+                                    <span>Interprétation et Musique de Sabri al-Moudallal</span>
                                 </div>
                             </label>
                         </div>

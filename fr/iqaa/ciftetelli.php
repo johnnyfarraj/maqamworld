@@ -46,8 +46,8 @@ include($ROOT . 'inc/head.php');
                     <p>Iqa‘ Ciftetelli (pronounced "shaftatalli" in Arabic) is a Turkish usul that became popular in Arabic music.
                     It is rarely used for composed melodies; instead, its primary use is to support <a href="../form/improv.php">improvisations</a> (both vocal and instrumental).</p>
 
-                    <p>Ciftetelli is usually slow paced and stretched out over two 4/4 measures (see notation), and can share the same tempo and pace as <a href="masmudi_kabir.php">Masmudi Kabir</a>. Alternatively, it can be performed faster and lighter,
-                    in which case it can be notated in 4/4 and becomes very similar to <a href="wahda_w_nuss.php">Wahda w-Nuss</a> (plus or minus some ornamentation).</p>
+                    <p>Ciftetelli is usually slow paced and stretched out over two 4/4 measures (see notation), and can share the same tempo and pace as <a href="masmudi_kabir.php">Masmoudi Kabir</a>. Alternatively, it can be performed faster and lighter,
+                    in which case it can be notated in 4/4 and becomes very similar to <a href="wahda_w_nuss.php">Wahda w-Nouss</a> (plus or minus some ornamentation).</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -61,7 +61,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Ishta'tillak (1962)</b>
-                                    <span>Interprétation et Musique de Farid al-Atrash</span>
+                                    <span>Interprétation et Musique de Farid al-Atrache</span>
                                 </div>
                             </label>
                         </div>
@@ -111,7 +111,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Dala‘ Dalla‘ (1974)</b>
                                     <span>Sabah</span>
-                                    <span>Musique de Farid al-Atrash</span>
+                                    <span>Musique de Farid al-Atrache</span>
                                 </div>
                             </label>
                         </div>
@@ -123,7 +123,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Qassida ‘Ayni Li Ghayri Jamalikum</b>
-                                    <span>Al-Turath Ensemble</span>
+                                    <span>Ensemble Al-Tourath</span>
                                 </div>
                             </label>
                         </div>
@@ -136,7 +136,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Tile‘ Li el-Biki</b>
                                     <span>Fairouz</span>
-                                    <span>Musique de Philemon Wehbe</span>
+                                    <span>Musique de Philémon Wéhbé</span>
                                 </div>
                             </label>
                         </div>
@@ -180,7 +180,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Nura Nura (1953)</b>
-                                    <span>Interprétation et Musique de Farid al-Atrash</span>
+                                    <span>Interprétation et Musique de Farid al-Atrache</span>
                                 </div>
                             </label>
                         </div>
@@ -205,7 +205,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Tuta</b>
                                     <span>Instrumental Composition</span>
-                                    <span>Musique de Farid al-Atrash</span>
+                                    <span>Musique de Farid al-Atrache</span>
                                 </div>
                             </label>
                         </div>
@@ -218,7 +218,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Dara Duri Fina</b>
                                     <span>Fairouz</span>
-                                    <span>Musique de Philemon Wehbe</span>
+                                    <span>Musique de Philémon Wéhbé</span>
                                 </div>
                             </label>
                         </div>

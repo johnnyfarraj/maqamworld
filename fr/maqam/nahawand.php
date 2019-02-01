@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Nahawand</h1>
-                        <h3>The principal maqam in the <a href="f_nahawand.php">Famille du Maqam Nahawand</a></h3>
+                        <h3>Le maqam principal dans la <a href="f_nahawand.php">Famille du Maqam Nahawand</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                     </p>
                     <p><strong>Maqam Farahfaza</strong> is Maqam Nahawand transposed to a tonic of G. </p>
 
-                    <p>Explore other maqamat in the <a href="f_nahawand.php">Famille du Maqam Nahawand</a>.</p>
+                    <p>Explorez d'autres maqamat dans la <a href="f_nahawand.php">Famille du Maqam Nahawand</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -85,8 +85,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Balad el-Mahbub (1951)</b>
-                                    <span>Interprétation et Musique de Mouhammad Abdel Wahab</span>
+                                    <b>Balad el-Mahboub (1951)</b>
+                                    <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -98,7 +98,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Alf Leila w-Leila (1969)</b>
-                                    <span>Umm Kuthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Baligh Hamdi</span>
                                 </div>
                             </label>
@@ -124,7 +124,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Hat Isqiniha</b>
                                     <span>Hassan al-Haffar</span>
-                                    <span>Musique de Yehya al-Sa‘udi</span>
+                                    <span>Musique de Yehya al-Saoudi</span>
                                     <span><img src="/img/cd.png"> The Aleppo Suites</span>
                                 </div>
                             </label>
@@ -138,7 +138,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Ramani Bi Sahmi Hawahu</b>
                                     <span>Khaled al-Hafez</span>
-                                    <span>Musique de Dawud Husni</span>
+                                    <span>Musique de Daoud Housni</span>
                                 </div>
                             </label>
                         </div>
@@ -150,7 +150,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Nahawand</b>
-                                    <span>Simon Shaheen Ensemble</span>
+                                    <span>Ensemble Simon Shaheen</span>
                                     <span>Musique de Mesut Cemil (Turkey)</span>
                                 </div>
                             </label>
@@ -163,7 +163,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Nahawand</b>
-                                    <span>Abdel Halim Noueirah Ensemble</span>
+                                    <span>Ensemble Abdel Halim Noueirah</span>
                                     <span>Musique de Safar ‘Ali</span>
                                 </div>
                             </label>
@@ -176,8 +176,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Longa Farahfaza</b>
-                                    <span>Simon Shaheen Ensemble</span>
-                                    <span>Musique de Riyad al-Sunbati</span>
+                                    <span>Ensemble Simon Shaheen</span>
+                                    <span>Musique de Riyad al-Soumbati</span>
                                 </div>
                             </label>
                         </div>
@@ -202,7 +202,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Longa Nahawand</b>
-                                    <span>Abdel Halim Nuwayra Ensemble</span>
+                                    <span>Abdel Halim Noueirah Ensemble</span>
                                     <span>Musique de Yorgo Baganos</span>
                                 </div>
                             </label>
@@ -214,8 +214,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dulab Nahawand</b>
-                                    <span>Sheikh Abu el-‘Ila Mouhammad</span>
+                                    <b>Doulab Nahawand</b>
+                                    <span>Sheikh Abou el-‘Ila Mouhammad</span>
                                 </div>
                             </label>
                         </div>

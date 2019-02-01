@@ -13,13 +13,13 @@
     <li><a href="/fr/form/vocal_comp.php#monologue">Le Monologue</a></li>
     <li><a href="/fr/form/vocal_comp.php#muwashah">Le Mouachah</a></li>
     <li><a href="/fr/form/instr_comp.php#muqaddima">La Mouqaddima</a></li>
+    <li><a href="/fr/form/vocal_comp.php#ughniya">La Oughnia</a></li>
     <li><a href="/fr/form/vocal_comp.php#qadd">Le Qadd</a></li>
-    <li><a href="/fr/form/vocal_comp.php#qasida">La Qassida (composee)</a></li>
-    <li><a href="/fr/form/improv.php#qasida">La Qassida (improvisee)</a></li>
+    <li><a href="/fr/form/vocal_comp.php#qasida">La Qassida (composée)</a></li>
+    <li><a href="/fr/form/improv.php#qasida">La Qassida (improvisée)</a></li>
     <li><a href="/fr/form/ottoman.php#samai">Le Sama‘i</a></li>
     <li><a href="/fr/form/instr_comp.php#tahmila">La Tahmila</a></li>
     <li><a href="/fr/form/improv.php#taqsim">Le Taqsim</a></li>
     <li><a href="/fr/form/vocal_comp.php#taqtuqa">La Taqtouqa</a></li>
-    <li><a href="/fr/form/vocal_comp.php#ughniya">La Oughnia</a></li>
     <li><a href="/fr/form/vocal_comp.php#wasla">La Wasla</a></li>
 </ul>

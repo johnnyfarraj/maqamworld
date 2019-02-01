@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/karachi.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Karachi is a member of the 2/4 <em>iqa‘at</em> family that has a lazy feel and can be played at relatively slow tempos. Although it modulates often to and from <a href="malfuf.php">Malfuf</a>, Karachi does not share its rapid and urgent feel.
+                    <p>Iqa‘ Karachi is a member of the 2/4 <em>iqa‘at</em> family that has a lazy feel and can be played at relatively slow tempos. Although it modulates often to and from <a href="malfuf.php">Malfouf</a>, Karachi does not share its rapid and urgent feel.
 					</p>
 
                     <div class="player-area">
@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Qadd Dhatul-Jamal Ukhtul-Hilal</b>
-                                    <span>Al-Turath Ensemble</span>
+                                    <span>Ensemble Al-Tourath</span>
                                     <span><img src="/img/cd.png"> Hermana de la Luna - Rast</span>
                                 </div>
                             </label>
@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Siret il-Hubb (1964)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Baligh Hamdi</span>
                                 </div>
                             </label>
@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Fakkaruni (1966)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -96,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ba‘id ‘Annak (1965)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Baligh Hamdi</span>
                                 </div>
                             </label>
@@ -109,7 +109,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Amal Hayati(1965)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -122,7 +122,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Darit il-Ayyam (1970)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>

@@ -56,8 +56,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Mouachah Kallili Ya Suhbu</b>
-                                    <span>Abdel Halim Noueirah Ensemble</span>
-                                    <span>Musique de Mouhammad ‘Uthman</span>
+                                    <span>Ensemble Abdel Halim Noueirah</span>
+                                    <span>Musique de Mouhammad ‘Outhman</span>
                                 </div>
                             </label>
                         </div>
@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" checked>
                                 <div class="info">
                                     <b>Mouachah Ya Man La`ibat Bihi Shamulu</b>
-                                    <span>Al-Turath Ensemble</span>
+                                    <span>Ensemble Al-Tourath</span>
                                 </div>
                             </label>
                         </div>

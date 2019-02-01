@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Nahawand Mourassa‘</h1>
-                        <h3>A member of the <a href="f_nahawand.php">Famille du Maqam Nahawand</a></h3>
+                        <h3>Membre de la <a href="f_nahawand.php">Famille du Maqam Nahawand</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
@@ -64,7 +64,7 @@ include($ROOT . 'inc/head.php');
                     <p>Maqam Nahawand Mourassa‘ is is basically <a href="nahawand.php">Maqam Nahawand</a> with a lowered 5<sup>th</sup> scale degree. Its scale starts with <a href="../jins/nahawand_murassaa.php">Jins Nahawand Mourassa‘</a> on the <em>tonic</em>, overlapped by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 4<sup>th</sup> degree.
                     </p>
 
-                    <p>Explore other maqamat in the <a href="f_nahawand.php">Famille du Maqam Nahawand</a>.</p>
+                    <p>Explorez d'autres maqamat dans la <a href="f_nahawand.php">Famille du Maqam Nahawand</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -78,8 +78,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Ya Gari (1958)</b>
-                                    <span>Horeyya Hasan</span>
-                                    <span>Musique de Mouhammad al-Mugi</span>
+                                    <span>Horeyya Hassan</span>
+                                    <span>Musique de Mouhammad al-Mougi</span>
                                 </div>
                             </label>
                         </div>
@@ -104,7 +104,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Taht il-Shibbak</b>
-                                    <span>‘Aziz ‘Uthman</span>
+                                    <span>‘Aziz ‘Outhman</span>
                                 </div>
                             </label>
                         </div>
@@ -128,9 +128,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dulab Nahawand</b>
-                                    <span>Aicha Redouane</span>
-                                    <span><img src="/img/cd.png"> Egypte</span>
+                                    <b>Doulab Nahawand</b>
+                                    <span>Aïcha Redouane (Maroc)</span>
+                                    <span><img src="/img/cd.png"> Égypte</span>
                                 </div>
                             </label>
                         </div>
@@ -141,9 +141,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dulab Nahawand Mourassa‘</b>
+                                    <b>Doulab Nahawand Mourassa‘</b>
                                     <span>Zikrayat Ensemble</span>
-                                    <span>Musique de Sami Abu Shumays</span>
+                                    <span>Musique de Sami Abou Shumays</span>
                                 </div>
                             </label>
                         </div>

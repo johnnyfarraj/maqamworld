@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Bastanikar</h1>
-                        <h3>A member of the <a href="f_sikah.php">Famille du Maqam Sikah</a></h3>
+                        <h3>Membre de la <a href="f_sikah.php">Famille du Maqam Sikah</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>Maqam Bastanikar is effectively <a href="../jins/sikah.php">Jins Sikah</a> followed by <a href="saba.php">Maqam Saba</a>. Its scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the <em>tonic</em>, then <a href="../jins/saba.php">Jins Saba</a> on the 3<sup>rd</sup> degree, an overlapping <a href="../jins/hijaz.php">Jins Hijaz</a> on the 5<sup>th</sup> degree, and finally <a href="../jins/nikriz.php">Jins Nikriz</a> on the octave.</p>
 
-                    <p>Explore other maqamat in the <a href="f_sikah.php">Famille du Maqam Sikah</a>.</p>
+                    <p>Explorez d'autres maqamat dans la <a href="f_sikah.php">Famille du Maqam Sikah</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ahl el-Hawa (1958)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Zakaria Ahmad</span>
                                 </div>
                             </label>
@@ -110,8 +110,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Inti Fakrani (1938)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music By Mouhammad al-Qasabgi</span>
+                                    <span>Oum Koulthoum</span>
+                                    <span>Musique de Mouhammad al-Qasabgi</span>
                                 </div>
                             </label>
                         </div>
@@ -123,9 +123,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Anshidi Ya Saba</b>
-                                    <span>Palestininan National Arabic Orchestra</span>
-                                    <span>Director Ramzi Abu Radwan</span>
-                                    <span>Musique de Yehiya al-Sa‘udi</span>‘
+                                    <span>Orchestre Palestinien National Arabe</span>
+                                    <span>Director Ramzi Abou Radwan</span>
+                                    <span>Musique de Yehiya al-Saoudi</span>‘
                                 </div>
                             </label>
                         </div>
@@ -136,9 +136,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Aqbala al-Subhu Yughanni</b>
-                                    <span>Ensemble Ornina (Syria)</span>
-                                    <span>Conductor Dr. Mouhammad Qadri Dalal</span>
+                                    <b>Mouachah Aqbala al-Soubhou Youghanni</b>
+                                    <span>Ensemble Ornina (Syrie)</span>
+                                    <span>Chef d'orchestre Dr. Mouhammad Qadri Dalal</span>
                                     <span>Musique de Bakri al-Kurdi</span>
                                 </div>
                             </label>
@@ -151,7 +151,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Nuzhatu al-Arwahi Badri</b>
-                                    <span>(performer unknown)</span>
+                                    <span>(interprète inconnu)</span>
                                 </div>
                             </label>
                         </div>
@@ -162,7 +162,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Oud in Maqam Bastanikar</b>
+                                    <b>Taqsim Oud en Maqam Bastanikar</b>
                                     <span>Mouhammad Qadri Dalal</span>
                                     <span><img src="/img/cd.png"> Maqamat Insolites</span>
                                 </div>
@@ -175,8 +175,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Oud in Maqam Sikah</b>
-                                    <span>Riyad al-Sunbati</span>
+                                    <b>Taqsim Oud en <a href="../maqam/sikah.php">Maqam Sikah</a></b>
+                                    <span>Riyad al-Soumbati</span>
                                     <span><img src="/img/cd.png"> Taqasim Oud</span>
                                 </div>
                             </label>

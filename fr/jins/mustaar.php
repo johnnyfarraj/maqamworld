@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Raqq il-Habib (1944)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Mouhammad al-Qasabgi</span>
                                 </div>
                             </label>
@@ -82,8 +82,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Aruh Li Min (1958)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Musique de Riyad al-Sunbati</span>
+                                    <span>Oum Koulthoum</span>
+                                    <span>Musique de Riyad al-Soumbati</span>
                                 </div>
                             </label>
                         </div>
@@ -95,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Habbeit Wala Banshi ‘Alayya (1930)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Mouhammad al-Qasabgi</span>
                                 </div>
                             </label>
@@ -109,7 +109,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Huwwa el-Hobb Li‘ba (10??)</b>
                                     <span>Aziza Galal</span>
-                                    <span>Musique de Mouhammad al-Mugi</span>
+                                    <span>Musique de Mouhammad al-Mougi</span>
                                 </div>
                             </label>
                         </div>
@@ -132,8 +132,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Oud in Maqam Sikah</b>
-                                    <span>Riyad al-Sunbati</span>
+                                    <b>Taqsim Oud en Maqam Sikah</b>
+                                    <span>Riyad al-Soumbati</span>
                                     <span><img src="/img/cd.png"> Taqaseem</span>
                                 </div>
                             </label>
@@ -145,9 +145,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Qanun in Maqam Sikah</b>
+                                    <b>Taqsim Qanoun en Maqam Sikah</b>
                                     <span>‘Imad Mulki</span>
-                                    <span>Al-Turath Ensemble</span>
+                                    <span>Ensemble Al-Tourath</span>
                                     <span><img src="/img/cd.png"> Gardens of Jasmin - Maqam Houzam</span>
                                 </div>
                             </label>

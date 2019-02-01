@@ -73,7 +73,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Mal el-Sham</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Musique de Ahmad Abu Khalil al-Qabbani</span>
+                                    <span>Musique de Ahmad Abou Khalil al-Qabbani</span>
                                 </div>
                             </label>
                         </div>
@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Qassida Ya Jirat al-Sha‘b al-Yamani</b>
-                                    <span>Hasan al-Haffar</span>
+                                    <span>Hassan al-Haffar</span>
                                 </div>
                             </label>
                         </div>
@@ -98,7 +98,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Mala al-Kasat (khana)</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Musique de Mouhammad ‘Uthman</span>
+                                    <span>Musique de Mouhammad ‘Outhman</span>
                                 </div>
                             </label>
                         </div>
@@ -109,7 +109,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qanun Taqsim (from Layali Rast)</b>
+                                    <b>Taqsim au Qanoun (from Layali Rast)</b>
                                     <span>‘Abbas al-Bleidi</span>
                                 </div>
                             </label>
@@ -136,7 +136,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Iswaret el-‘Arus (1989)</b>
                                     <span>Fairouz</span>
-                                    <span>Musique de Philemon Wehbe</span>
+                                    <span>Musique de Philémon Wéhbé</span>
                                 </div>
                             </label>
                         </div>

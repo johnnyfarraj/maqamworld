@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam ‘Ouchaq Masri</h1>
-                        <h3>A member of the <a href="f_nahawand.php">Famille du Maqam Nahawand</a></h3>
+                        <h3>Membre de la <a href="f_nahawand.php">Famille du Maqam Nahawand</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
@@ -64,7 +64,7 @@ include($ROOT . 'inc/head.php');
 					</map>
                     <p>Maqam ‘Ouchaq Masri is a variation of <a href="nahawand.php">Maqam Nahawand</a> with <a href="../jins/bayati.php">Jins Bayati</a> on the 5<sup>th</sup> degree, above the root <a href="../jins/nahawand.php">Jins Nahawand</a> on the 1<sup>st</sup> degree.</p>
 
-                    <p>Explore other maqamat in the <a href="f_nahawand.php">Famille du Maqam Nahawand</a>.</p>
+                    <p>Explorez d'autres maqamat dans la <a href="f_nahawand.php">Famille du Maqam Nahawand</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -77,7 +77,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Dawr Ahibb Ashufak (1930)</b>
+                                    <b>Dawr Ahibb Ashoufak (1930)</b>
                                     <span>Interprétation et Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -90,7 +90,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ba‘d el-Khisam</b>
-                                    <span>Sheikh Abu el-‘Ila Mouhammad</span>
+                                    <span>Sheikh Abou el-‘Ila Mouhammad</span>
                                 </div>
                             </label>
                         </div>
@@ -102,7 +102,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Layali Nahawand</b>
-                                    <span>Sheikh Abu el-‘Ila Mouhammad</span>
+                                    <span>Sheikh Abou el-‘Ila Mouhammad</span>
                                 </div>
                             </label>
                         </div>

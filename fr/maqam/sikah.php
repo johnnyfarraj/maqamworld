@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Sikah</h1>
-                        <h3>The principal maqam in the <a href="f_sikah.php">Famille du Maqam Sikah</a></h3>
+                        <h3>Le maqam principal dans la <a href="f_sikah.php">Famille du Maqam Sikah</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
@@ -66,7 +66,7 @@ include($ROOT . 'inc/head.php');
 followed by <a href="../jins/upper_rast.php">Jins Haut Rast</a> on the 3<sup>rd</sup> degree (with its tonic on the 6<sup>th</sup> degree) 
 then <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree (which is a secondary ghammaz).
                     </p>
-                    <p>Explore other maqamat in the <a href="f_sikah.php">Famille du Maqam Sikah</a>.</p>
+                    <p>Explorez d'autres maqamat dans la <a href="f_sikah.php">Famille du Maqam Sikah</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -79,7 +79,7 @@ then <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree (whic
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Jadaka al-Ghaithu</b>
+                                    <b>Mouachah Jadaka al-Ghaithou</b>
                                     <span>Interprétation et Musique de Wajdi al-‘Aqili</span>
                                 </div>
                             </label>
@@ -92,7 +92,7 @@ then <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree (whic
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Inti Fakrani (1938)</b>
-                                    <span>Umm Kuthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Mouhammad al-Qasabgi</span>
                                 </div>
                             </label>
@@ -105,7 +105,7 @@ then <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree (whic
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Ward Gamil (1947)</b>
-                                    <span>Umm Kuthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Zakaria Ahmad</span>
                                 </div>
                             </label>

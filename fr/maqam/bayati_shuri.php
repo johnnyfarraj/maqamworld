@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Bayati Chouri</h1>
-                        <h3>A member of the <a href="f_bayati.php">Famille du Maqam Bayati</a></h3>
+                        <h3>Membre de la <a href="f_bayati.php">Famille du Maqam Bayati</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
@@ -64,7 +64,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>Maqam Bayati Chouri is a variation of <a href="bayati.php">Maqam Bayati</a> with a lowered 5<sup>th</sup> degree. It starts with the root <a href="../jins/bayati.php">Jins Bayati</a> on the <em>tonic</em> followed by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 4<sup>th</sup> degree.</p>
                     <p>It is a very popular maqam in its own right, especially in the Mouachahat and Adwar vocal compositions.</p>
-                    <p>Explore other maqamat in the <a href="f_bayati.php">Famille du Maqam Bayati</a>.</p>
+                    <p>Explorez d'autres maqamat dans la <a href="f_bayati.php">Famille du Maqam Bayati</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -89,7 +89,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Violin in Maqam Bayati Chouri</b>
+                                    <b>Taqsim au Violon en Maqam Bayati Chouri</b>
                                     <span>Nagham al-Ams Vol. 2 (Bayati Chouri)</span>
                                 </div>
                             </label>
@@ -103,7 +103,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Hibbi Da‘ani Lil-Wisal</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Musique de Sayyed Darwish</span>
+                                    <span>Musique de Sayyed Darwich</span>
                                     <span>Nagham al-Ams Vol. 2 (Bayati Chouri)</span>
                                 </div>
                             </label>
@@ -129,7 +129,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr Dayya‘ti Mustaqbal Hayati</b>
-                                    <span>Music and Vocals by Sayyed Darwish</span>
+                                    <span>Interprétation et Musique de Sayyed Darwich</span>
                                 </div>
                             </label>
                         </div>
@@ -142,6 +142,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Qadd Ah Ya Hilu</b>
                                     <span>Nay Barghouti</span>
+                                    <span>(chanson traditionelle)</span>
                                 </div>
                             </label>
                         </div>
@@ -154,6 +155,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Qadd Habibi Ghab</b>
                                     <span>Mouhammad Khayri</span>
+                                    <span>(chanson traditionelle)</span>
                                 </div>
                             </label>
                         </div>
@@ -164,9 +166,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Qanun in Maqam Bayati Chouri</b>
-                                    <span>Marie Jubran</span>
-                                    <span>Wasla in Bayati Chouri</span>
+                                    <b>Taqsim au Qanoun en Maqam Bayati Chouri</b>
+                                    <span>Marie Joubran</span>
+                                    <span>Wasla en Bayati Chouri</span>
                                 </div>
                             </label>
                         </div>

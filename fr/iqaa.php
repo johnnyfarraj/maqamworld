@@ -51,8 +51,8 @@ include($ROOT . 'inc/head.php');
                         <div class="row">
                             <div class="col-sm-3">
                                 <ul class="page-list">
-                                    <li><a href="iqaa/ayyub.php">Ayyub 2/4</a></li>
-                                    <li><a href="iqaa/malfuf.php">Malfuf 2/4</a></li>
+                                    <li><a href="iqaa/ayyub.php">Ayyoub 2/4</a></li>
+                                    <li><a href="iqaa/malfuf.php">Malfouf 2/4</a></li>
                                     <li><a href="iqaa/fox.php">Fox 2/4</a></li>
                                     <li><a href="iqaa/karachi.php">Karachi 2/4</a></li>
                                     <li><a href="iqaa/fallahi.php">Fallahi 2/4</a></li>
@@ -63,25 +63,25 @@ include($ROOT . 'inc/head.php');
                             </div>
                             <div class="col-sm-3">
                                 <ul class="page-list">
-                                    <li><a href="iqaa/maqsum.php">Maqsum 4/4</a></li>
+                                    <li><a href="iqaa/maqsum.php">Maqsoum 4/4</a></li>
                                     <li><a href="iqaa/baladi.php">Baladi 4/4</a></li>
                                     <li><a href="iqaa/saidi.php">Sa‘idi 4/4</a></li>
                                     <li><a href="iqaa/wahda.php">Wahda 4/4</a></li>
-                                    <li><a href="iqaa/wahda_w_nuss.php">Wahda w-Nuss 4/4</a></li>
-                                    <li><a href="iqaa/rumba.php">Rumba 4/4</a></li>
+                                    <li><a href="iqaa/wahda_w_nuss.php">Wahda w-Nouss 4/4</a></li>
+                                    <li><a href="iqaa/rumba.php">Roumba 4/4</a></li>
                                     <li><a href="iqaa/zaffa.php">Zaffa 4/4</a></li>
                                     <li><a href="iqaa/hachaa.php">Hacha` 4/4</a></li>
-                                    <li><a href="iqaa/katakufti.php">Katakufti 4/4</a></li>
+                                    <li><a href="iqaa/katakufti.php">Katakoufti 4/4</a></li>
                                 </ul>
                             </div>
                             <div class="col-sm-3">
                                 <ul class="page-list">
-                                    <li><a href="iqaa/thurayya.php">Thurayya 5/8</a></li>
-                                    <li><a href="iqaa/sudasi.php">Sudasi 6/4</a></li>
+                                    <li><a href="iqaa/thurayya.php">Thourayya 5/8</a></li>
+                                    <li><a href="iqaa/sudasi.php">Soudassi 6/4</a></li>
                                     <li><a href="iqaa/yuruk_semai.php">Yuruk Semai 6/8</a></li>
                                     <li><a href="iqaa/dawr_hindi.php">Dawr Hindi 7/8</a></li>
                                     <li><a href="iqaa/nawakht.php">Nawakht 7/4</a></li>
-                                    <li><a href="iqaa/masmudi_kabir.php">Masmudi Kabir 8/4</a></li>
+                                    <li><a href="iqaa/masmudi_kabir.php">Masmoudi Kabir 8/4</a></li>
                                     <li><a href="iqaa/ciftetelli.php">Ciftetelli 8/4</a></li>
                                     <li><a href="iqaa/wahda_tawila.php">Wahda Tawila 8/4</a></li>
                                     <li><a href="iqaa/bambi.php">Bambi 8/4</a></li>
@@ -93,14 +93,14 @@ include($ROOT . 'inc/head.php');
                                     <li><a href="iqaa/jurjina.php">Jurjina 10/8</a></li>
                                     <li><a href="iqaa/samai_thaqil.php">Sama‘i Thaqil 10/8</a></li>
                                     <li><a href="iqaa/awis.php">`Awis 11/8</a></li>
-                                    <li><a href="iqaa/mudawwar.php">Mudawwar 12/4</a></li>
+                                    <li><a href="iqaa/mudawwar.php">Moudawwar 12/4</a></li>
                                     <li><a href="iqaa/dharafat.php">Dharafat 13/8</a></li>
-                                    <li><a href="iqaa/murabbaa.php">Murabba‘ 13/4</a></li>
-                                    <li><a href="iqaa/muhajjar.php">Muhajjar 14/4</a></li>
-                                    <li><a href="iqaa/mukhammas.php">Mukhammas 16/4</a></li>
-                                    <li><a href="iqaa/khosh_rang.php">Khosh Rang 17/8</a></li>
+                                    <li><a href="iqaa/murabbaa.php">Mourabba‘ 13/4</a></li>
+                                    <li><a href="iqaa/muhajjar.php">Mouhajjar 14/4</a></li>
+                                    <li><a href="iqaa/mukhammas.php">Moukhammas 16/4</a></li>
+                                    <li><a href="iqaa/khosh_rang.php">Khoch Rangue 17/8</a></li>
                                     <li><a href="iqaa/fakhit.php">Fakhit 20/4</a></li>
-                                    <li><a href="iqaa/sittatu_ashar.php">Sittatu ‘Ashar Masri 32/4</a></li>
+                                    <li><a href="iqaa/sittatu_ashar.php">Sittatu ‘Achar Masri 32/4</a></li>
                                 </ul>
                             </div>
                         </div>

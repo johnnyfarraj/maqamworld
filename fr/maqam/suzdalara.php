@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Suzdalara</h1>
-                        <h3>A member of the <a href="f_rast.php">Famille du Maqam Rast</a></h3>
+                        <h3>Membre de la <a href="f_rast.php">Famille du Maqam Rast</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
                     </map>
                     <p>Maqam Suzdalara is quite archaic and almost non-existent as an independent maqam, although its sayr is obligatory within nearly every performance and song in every branch of <a href="rast.php">Maqam Rast</a>: the <a href="../jins/nahawand.php">Jins Nahawand</a> on the 5<sup>th</sup> degree of Maqam Rast is a universal transition device from other modulations, signaling the return to the root <a href="../jins/rast.php">Jins Rast</a> on the <em>tonic</em>.</p>
 
-                    <p>Explore other maqamat in the <a href="f_rast.php">Famille du Maqam Rast</a>.</p>
+                    <p>Explorez d'autres maqamat dans la <a href="f_rast.php">Famille du Maqam Rast</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

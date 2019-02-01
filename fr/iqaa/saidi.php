@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/saidi.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Sa‘idi is a lively and quintessentially Egyptian <em>iqa‘</em> from the Sa‘id region. It modulates back and forth with other lively 4/4 <em>iqa‘at</em> like <a href="maqsum.php">Maqsum</a> and <a href="baladi.php">Baladi</a>.</p>
+                    <p>Iqa‘ Sa‘idi is a lively and quintessentially Egyptian <em>iqa‘</em> from the Sa‘id region. It modulates back and forth with other lively 4/4 <em>iqa‘at</em> like <a href="maqsum.php">Maqsoum</a> and <a href="baladi.php">Baladi</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

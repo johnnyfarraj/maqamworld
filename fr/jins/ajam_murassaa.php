@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwshah Kallili Ya Suhbu</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Musique de Mouhammad ‘Uthman</span>
+                                    <span>Musique de Mouhammad ‘Outhman</span>
                                 </div>
                             </label>
                         </div>
@@ -105,7 +105,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Qanun in Maqam 'Ajam</b>
+                                    <b>Taqsim Qanoun en Maqam 'Ajam</b>
                                     <span>Abdou Dagher</span>
                                     <span><img src="/img/cd.png"> Al-Gibali</span>
                                 </div>
@@ -133,7 +133,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Qari'at al-Fingan (1976)</b>
                                     <span>Abdel Halim Hafez</span>
-                                    <span>Musique de Mouhammad al-Mugi</span>
+                                    <span>Musique de Mouhammad al-Mougi</span>
                                 </div>
                             </label>
                         </div>
@@ -146,7 +146,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr Sabbahti Min ‘Ishqi Abki</b>
                                     <span>Abdel Hayy Hilmi</span>
-                                    <span>Music By ???</span>
+                                    <span>Musique de ???</span>
                                 </div>
                             </label>
                         </div>

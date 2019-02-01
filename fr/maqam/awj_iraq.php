@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Awj ‘Iraq</h1>
-                        <h3>A member of the <a href="f_sikah.php">Famille du Maqam Sikah</a></h3>
+                        <h3>Membre de la <a href="f_sikah.php">Famille du Maqam Sikah</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
@@ -67,7 +67,7 @@ include($ROOT . 'inc/head.php');
                     <p>The Maqam Awj ‘Iraq scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the <em>tonic</em>, then <a href="../jins/hijaz.php">Jins Hijaz</a> on the 3<sup>rd</sup> degree followed by another <a href="../jins/sikah.php">Jins Sikah</a> on the 8<sup>th</sup> degree.
                     </p>
 
-                    <p>Explore other maqamat in the <a href="f_sikah.php">Famille du Maqam Sikah</a>.</p>
+                    <p>Explorez d'autres maqamat dans la <a href="f_sikah.php">Famille du Maqam Sikah</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Mouachah Ya Samiri Da‘a Sabri</b>
-                                    <span>Mouhammad Khayri</span>
+                                    <span>Interprétation de Mouhammad Khayri</span>
                                 </div>
                             </label>
                         </div>
@@ -93,7 +93,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Hayya Wa Nadim</b>
-                                    <span>Samer Nashar</span>
+                                    <span>Interprétation de Samer Nachar</span>
                                 </div>
                             </label>
                         </div>

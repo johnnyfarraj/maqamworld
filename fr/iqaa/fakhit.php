@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Mouachah Bi Sifatin Ja‘alatni</b>
-                                    <span>Al-Kindi Ensemble</span>
+                                    <span>Ensemble Al-Kindi</span>
                                     <span><img src="/img/cd.png"> The Aleppian Music Room II - Maqam Rast</span>
                                 </div>
                             </label>
@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Idha Da‘ana al-Siba</b>
                                     <span>Khaled al-Hafez</span>
-                                    <span>Musique de ‘Umar al-Batsh</span>
+                                    <span>Musique de Omar al-Batsh</span>
                                 </div>
                             </label>
                         </div>
@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Zarani Taht al-Ghayahib</b>
                                     <span>Firqat Usama Bin Zayd</span>
-                                    <span>Musique de ‘Umar al-Batsh</span>
+                                    <span>Musique de Omar al-Batsh</span>
                                 </div>
                             </label>
                         </div>

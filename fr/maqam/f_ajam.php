@@ -4,10 +4,10 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Famille du Maqam ‘Ajam";
-$page_description = "Famille du Maqam ‘Ajam";
+$page_title = "La Famille du Maqam ‘Ajam";
+$page_description = "La Famille du Maqam ‘Ajam";
 $page_keywords = "arabic, music, arab, world, maqam, ajam, family, jins, iqa‘, iqaa, rhythm, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "fr"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "fr";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading text-center jins">
-                        <h1>Famille du Maqam ‘Ajam</h1>
-                        <h3>Les Maqamat qui commencent par <a href="../jins/ajam.php">Jins ‘Ajam</a></h3>
+                        <h1>La Famille du Maqam ‘Ajam</h1>
+                        <h3>Les Maqamat qui commencent par le <a href="../jins/ajam.php">Jins ‘Ajam</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
@@ -39,7 +39,7 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/ajam.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de ‘Ajam</a>
                     </div>
 
-                    <p>Famille du Maqam ‘Ajam is made of <em>maqamat</em> that start with <a href="../jins/ajam.php">Jins ‘Ajam</a>.</p>
+                    <p>La Famille du Maqam ‘Ajam consiste des <em>maqamat</em> qui commencent par le <a href="../jins/ajam.php">Jins ‘Ajam</a>.</p>
 
                     <!-- TODO we need to format this list in a nice way -->
                     <ul>

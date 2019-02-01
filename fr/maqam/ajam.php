@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam ‘Ajam</h1>
-                        <h3>The principal maqam in the <a href="f_ajam.php">Famille du Maqam ‘Ajam</a></h3>
+                        <h3>Le maqam principal dans la <a href="f_ajam.php">Famille du Maqam ‘Ajam</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
@@ -64,8 +64,8 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="639,14,806,40" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-	       <p>Maqam ‘Ajam (also known as Egyptian ‘Ajam) is The principal maqam in the <a href="f_ajam.php">Famille du Maqam ‘Ajam</a>, and starts with the root <a href="../jins/ajam.php">Jins ‘Ajam</a> on the <em>tonic</em>, followed by either <a href="../jins/upper_ajam.php">Jins Haut ‘Ajam</a> on the 5<sup>th</sup> degree (with its tonic up on the 8<sup>th</sup> degree) or <a href="../jins/nahawand.php">Jins Nahawand</a> on the 5<sup>th</sup> degree.</p>
-                    <p>Explore other maqamat in the <a href="f_ajam.php">Famille du Maqam ‘Ajam</a>.</p>
+	       <p>Maqam ‘Ajam (also known as Egyptian ‘Ajam) is Le maqam principal dans la <a href="f_ajam.php">Famille du Maqam ‘Ajam</a>, and starts with the root <a href="../jins/ajam.php">Jins ‘Ajam</a> on the <em>tonic</em>, followed by either <a href="../jins/upper_ajam.php">Jins Haut ‘Ajam</a> on the 5<sup>th</sup> degree (with its tonic up on the 8<sup>th</sup> degree) or <a href="../jins/nahawand.php">Jins Nahawand</a> on the 5<sup>th</sup> degree.</p>
+                    <p>Explorez d'autres maqamat dans la <a href="f_ajam.php">Famille du Maqam ‘Ajam</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -79,7 +79,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Aghadan Alqak (1971)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -105,7 +105,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Fi Youm Wi Leila (1978)</b>
                                     <span>Warda</span>
-                                    <span>Music By Mouhammad Abdel Wahab</span>
+                                    <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -116,9 +116,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Tal‘a Min Beit Abuha</b>
+                                    <b>Tal‘a Min Beit Abouha</b>
                                     <span>Nazem al-Ghazali</span>
-                                    <span>(Iraqi Traditional)</span>
+                                    <span>(Chanson traditionnelle de l'Irak)</span>
                                 </div>
                             </label>
                         </div>
@@ -129,9 +129,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Zuruni Kulli Sana Marra</b>
-                                    <span>Karem Mahmud</span>
-                                    <span>Musique de Sayyed Darwish</span>
+                                    <b>Zourouni Koulli Sana Marra</b>
+                                    <span>Karem Mahmoud</span>
+                                    <span>Musique de Sayyed Darwich</span>
                                 </div>
                             </label>
                         </div>

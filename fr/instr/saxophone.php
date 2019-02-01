@@ -38,12 +38,12 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/saxophone.jpg" alt="The Saxophone">
-                        <span>Arabic Saxophone pioneer Samir Surour (Egypt)</span>
+                        <span>Arabic Saxophone pioneer Samir Surour (Égypte)</span>
                     </div>
 
                     <p> The Saxophone is a rare instrument in Arabic music, despite the fact that it can produce good <a href="../maqam.php">maqam</a> scale intonation. It never went mainstream the way the <a href="accordion.php">Arabic Accordion</a> did and was mostly used to add an innovative sound to Arabic orchestral arrangements.
                     </p>
-                    <p> The principal pioneer of the Arabic saxophone is Samir Surour (Egypt) whose background was in military brass band music. Surour played on quite a few Oum Koulthoum songs then went to record a series of solo instrumental albums under the name <em>â€˜Ashiq el-Sax</em> (The Sax Lover).
+                    <p> The principal pioneer of the Arabic saxophone is Samir Surour (Égypte) whose background was in military brass band music. Surour played on quite a few Oum Koulthoum songs then went to record a series of solo instrumental albums under the name <em>â€˜Ashiq el-Sax</em> (The Sax Lover).
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=n_2qIVjgboM">

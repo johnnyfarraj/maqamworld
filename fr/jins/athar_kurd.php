@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="599,61,12" href="#" alt="A4♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- variable: Hijaz 2nd -->
 					</map>
 
-                    <p>Jins Athar Kurd is a 5-note <em>jins</em>. It is notated here with its tonic on C and its <em>ghammaz</em> on G. Jins Athar Kurd is the first <em>jins</em> in <a href="../maqam/athar_kurd.php">Maqam Athar Kurd</a>.
+                    <p>Jins Athar Kurd is a 5-note <em>jins</em>. It is notated here with its tonic on C and its <em>ghammaz</em> on G. Jins Athar Kurd is the first <em>jins</em> in Maqam Athar Kurd.
                     </p>
 
                     <div class="player-area">
@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Habibaha (1965)</b>
                                     <span>Abdel Halim Hafez</span>
-                                    <span>Musique de Mouhammad al-Mugi</span>
+                                    <span>Musique de Mouhammad al-Mougi</span>
                                 </div>
                             </label>
                         </div>
@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Raydak (1950)</b>
-                                    <span>Leila Murad</span>
+                                    <span>Leila Mourad</span>
                                     <span>Musique de Ahmad Sidqi</span>
                                 </div>
                             </label>

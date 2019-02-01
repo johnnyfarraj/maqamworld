@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/fallahi.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Fallahi is a fast-paced Egyptian iqa‘ suitable for folk music. Although it might resemble <a href="maqsum.php">Maqsum</a> played at double speed, it has a very different feel as Fallahi flows very smoothly without a big contrast (in accents) between <em>dum</em> and <em>tak</em> beats.</p>
+                    <p>Iqa‘ Fallahi is a fast-paced Egyptian iqa‘ suitable for folk music. Although it might resemble <a href="maqsum.php">Maqsoum</a> played at double speed, it has a very different feel as Fallahi flows very smoothly without a big contrast (in accents) between <em>dum</em> and <em>tak</em> beats.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -68,8 +68,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Hizz Ya Hubb</b>
-                                    <span>Vocals by Ahmad Adaweya</span>
-                                    <span>Musique de Hassan Abu el-Su‘ud</span>
+                                    <span>Interprétation de Ahmad Adaweya</span>
+                                    <span>Musique de Hassan Abou el-Su‘ud</span>
                                 </div>
                             </label>
                         </div>
@@ -80,8 +80,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Salametha Ummu Hasan</b>
-                                    <span>Vocals by Ahmad Adaweya</span>
+                                    <b>Salametha Ummu Hassan</b>
+                                    <span>Interprétation de Ahmad Adaweya</span>
                                     <span>Musique de Faruq Salamah</span>
                                 </div>
                             </label>

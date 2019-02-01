@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Athar Kurd</h1>
-                        <h3>A member of the <a href="f_nikriz.php">Famille du Maqam Nikriz</a></h3>
+                        <h3>Membre de la <a href="f_nikriz.php">Famille du Maqam Nikriz</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
@@ -66,7 +66,7 @@ include($ROOT . 'inc/head.php');
                     <p>The Maqam Athar Kurd scale is a hybrid between <a href="nawa_athar.php">Maqam Nawa Athar</a>
                     and <a href="kurd.php">Maqam Kurd</a>, hence the name.
 		</p>
-                    <p>Explore other maqamat in the <a href="f_nikriz.php">Famille du Maqam Nikriz</a>.</p>
+                    <p>Explorez d'autres maqamat dans la <a href="f_nikriz.php">Famille du Maqam Nikriz</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -80,7 +80,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Ya Msafir w Albi Ma‘ak (1950)</b>
-                                    <span>Leila Murad</span>
+                                    <span>Leila Mourad</span>
                                     <span>Musique de Ahmad Sidqi</span>
                                 </div>
                             </label>
@@ -93,8 +93,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Hana wel-Widd (1975)</b>
-                                    <span>Leila Murad</span>
-                                    <span>Musique de Abdel Mun‘im al-Hariri</span>
+                                    <span>Leila Mourad</span>
+                                    <span>Musique de Abdel Moun‘im al-Hariri</span>
                                 </div>
                             </label>
                         </div>
@@ -106,8 +106,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Fagr Nurak Hall w Ban (c.1952)</b>
-                                    <span>Vocals by Baligh Hamdi</span>
-                                    <span>Musique de Yusef Shawqi</span>
+                                    <span>Interprétation de Baligh Hamdi</span>
+                                    <span>Musique de Youssef Shawqi</span>
                                 </div>
                             </label>
                         </div>
@@ -119,8 +119,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Hijazkar Kurd</b>
-                                    <span>Al-Kindi Ensemble</span>
-                                    <span><img src="/img/cd.png"> The Whirling Dervishes of Damascus Vol. 2</span>
+                                    <span>Ensemble Al-Kindi</span>
+                                    <span><img src="/img/cd.png"> Les Derviches Tourneurs of Damas Vol. 2</span>
                                     <span>Musique de Salah al-Mahdi (Tunisia)</span>
                                 </div>
                             </label>
@@ -133,7 +133,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Taqsim Oud</b>
-                                    <span>Riyad al-Sunbati</span>
+                                    <span>Riyad al-Soumbati</span>
                                     <span><img src="/img/cd.png"> Taqaseem Oud</span>
                                 </div>
                             </label>
@@ -145,7 +145,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Oud Athar Kurd</b>
+                                    <b>Taqsim de Oud en Maqam Athar Kurd</b>
                                     <span>Mouhammad Qadri Dalal</span>
                                     <span><img src="/img/cd.png"> Maqamat Insolites</span>
                                 </div>

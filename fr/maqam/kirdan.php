@@ -31,7 +31,7 @@ include($ROOT . 'inc/head.php');
                     <div class="heading jins text-center">
                         <h1>Maqam Kirdane</h1>
                         <h1>Maqam Sazkar</h1>
-                        <h3>A member of the <a href="f_rast.php">Famille du Maqam Rast</a></h3>
+                        <h3>Membre de la <a href="f_rast.php">Famille du Maqam Rast</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                     </p>
                     <p><strong>Maqam Sazkar</strong> is nearly identical to Maqam Kirdane, except for the prominence of the raised 2<sup>nd</sup> degree that occurs in some melodic passages, which results in <a href="../jins/sazkar.php">Jins Sazkar</a> on the tonic.</p>
 
-                    <p>Explore other maqamat in the <a href="f_rast.php">Famille du Maqam Rast</a>.</p>
+                    <p>Explorez d'autres maqamat dans la <a href="f_rast.php">Famille du Maqam Rast</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -85,10 +85,10 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Mouachah Sihtu Wajdan</b>
-                                    <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
-                                    <span>Conductor: Aïda Shalhoub Ziadé</span>
-                                    <span>Musique de Sayyed Darwish</span>
-                                    <span><img src="/img/cd.png"> Orientalia: Mouachah and Song series</span>
+                                    <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Liban)</span>
+                                    <span>Chef d'orchestre: Aïda Shalhoub Ziadé</span>
+                                    <span>Musique de Sayyed Darwich</span>
+                                    <span><img src="/img/cd.png"> Orientalia: Mouachah et Chansons</span>
                                 </div>
                             </label>
                         </div>
@@ -101,7 +101,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Ya Shadi al-Alhan</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Musique de Sayyed Darwish</span>
+                                    <span>Musique de Sayyed Darwich</span>
                                 </div>
                             </label>
                         </div>
@@ -113,8 +113,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Hayrana Leh (1930)</b>
-                                    <span>Leila Murad</span>
-                                    <span>Musique de Dawud Husni</span>
+                                    <span>Leila Mourad</span>
+                                    <span>Musique de Daoud Housni</span>
                                 </div>
                             </label>
                         </div>

@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Maqsum";
-$page_description = "Iqa‘ Maqsum";
+$page_title = "Iqa‘ Maqsoum";
+$page_description = "Iqa‘ Maqsoum";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, maqsum, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "fr";
 
@@ -29,20 +29,20 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Maqsum 4/4</h1>
+                        <h1>Iqa‘ Maqsoum 4/4</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/maqsum.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Maqsum</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/maqsum.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Maqsoum</a>
                     </div>
 
                     <div class="notation">
                         <img src="/note/iqaa/maqsum.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Maqsum is by far the most widely used <em>iqa‘</em> in Arabic music. It modulates to other 4/4 <em>iqa‘at</em> like <a href="baladi.php">Baladi</a> and <a href="wahda.php">Wahda</a>.</p>
+                    <p>Iqa‘ Maqsoum is by far the most widely used <em>iqa‘</em> in Arabic music. It modulates to other 4/4 <em>iqa‘at</em> like <a href="baladi.php">Baladi</a> and <a href="wahda.php">Wahda</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -56,8 +56,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>il-Alb Yi‘shaq Kulli Gamil (1961)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Musique de Riyad al-Sunbati</span>
+                                    <span>Oum Koulthoum</span>
+                                    <span>Musique de Riyad al-Soumbati</span>
                                 </div>
                             </label>
                         </div>
@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Darit el-Ayyam (1970)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Qari'at al-Fingan (1976)</b>
                                     <span>Abdel Halim Hafez</span>
-                                    <span>Musique de Mouhammad al-Mugi</span>
+                                    <span>Musique de Mouhammad al-Mougi</span>
                                 </div>
                             </label>
                         </div>
@@ -96,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Waraqu al-Asfar</b>
                                     <span>Fairouz</span>
-                                    <span>Musique de Philemon Wehbe</span>
+                                    <span>Musique de Philémon Wéhbé</span>
                                 </div>
                             </label>
                         </div>

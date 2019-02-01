@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Mouachah Ahwa al-Ghazal al-Rabrabi</b>
-                                    <span>Al-Kindi Ensemble</span>
+                                    <span>Ensemble Al-Kindi</span>
                                 </div>
                             </label>
                         </div>
@@ -68,7 +68,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah ‘Unq al-Malih al-Ghali</b>
-                                    <span>Sabri al-Mudallal</span>
+                                    <span>Sabri al-Moudallal</span>
                                 </div>
                             </label>
                         </div>
@@ -105,7 +105,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Qad Hala Shurb al-Mudam</b>
-                                    <span>Al-Turath Ensemble</span>
+                                    <span>Ensemble Al-Tourath</span>
                                 </div>
                             </label>
                         </div>
@@ -118,7 +118,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Qum Ya Nadim</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Musique de ‘Umar al-Batsh</span>
+                                    <span>Musique de Omar al-Batsh</span>
                                 </div>
                             </label>
                         </div>
@@ -131,7 +131,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Ya Bahjet el-Rouh</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Musique de Sayyed Darwish</span>
+                                    <span>Musique de Sayyed Darwich</span>
                                 </div>
                             </label>
                         </div>

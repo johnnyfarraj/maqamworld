@@ -41,7 +41,7 @@ include($ROOT . 'inc/head.php');
                         <span>The Ketron Vega Oriental Keyboard.</span>
                     </div>
 
-                    <p> Le Synthétiseur Oriental is the successor of the <a href="org.php">org</a>, and it came to the market toward the end of the 20<sup>th</sup> century. Its strength was that it could imitate sounds from various traditional Arabic instruments by sampling them, and as such the player could summon a <em>Mijwiz</em>, a <a href="qanun.php">Qanun</a>, or even a <a href="saxophone.php">Saxophone</a> at the touch of a button.
+                    <p> Le Synthétiseur Oriental is the successor of the <a href="org.php">org</a>, and it came to the market toward the end of the 20<sup>th</sup> century. Its strength was that it could imitate sounds from various traditional Arabic instruments by sampling them, and as such the player could summon a <em>Mijwiz</em>, a <a href="qanun.php">Qanoun</a>, or even a <a href="saxophone.php">Saxophone</a> at the touch of a button.
                     </p>
                     <p>
                     Most synthesizer companies (like Roland, Yamaha, GEM, Kawai, Korg and Ketron) manufacture Oriental Keyboard models, and include a built-in electronic rhythm generator where the player can supplement their melody/chords with <a href="../iqaa.php">iqa‘at</a> pre-recorded from sampled Arabic Percussion Instruments. This makes the Oriental Keyboard a very powerful and versatile instrument, and an essential one in Arabic pop and dance music.
@@ -66,7 +66,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Aw‘idak</b>
-                                    <span>The National Arab Orchestra (U.S.A.) performing Su‘ad Mouhammad's song <strong>Aw‘idak</strong> in an arrangement that includes the Oriental Keyboard and the Electric Guitar alongside traditional Arabic instruments.</span>
+                                    <span>The National Arab Orchestra (U.S.A.) performing Souad Mouhammad's song <strong>Aw‘idak</strong> in an arrangement that includes the Oriental Keyboard and the Electric Guitar alongside traditional Arabic instruments.</span>
                                 </div>
                             </label>
                         </div>

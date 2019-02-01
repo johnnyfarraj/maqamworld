@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Masmudi Kabir";
-$page_description = "Iqa‘ Masmudi Kabir";
+$page_title = "Iqa‘ Masmoudi Kabir";
+$page_description = "Iqa‘ Masmoudi Kabir";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, masmudi kabir, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "fr";
 
@@ -29,20 +29,20 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Masmudi Kabir 8/4</h1>
+                        <h1>Iqa‘ Masmoudi Kabir 8/4</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/masmudi_kabir.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Masmudi Kabir</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/masmudi_kabir.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Masmoudi Kabir</a>
                     </div>
 
                     <div class="notation">
                         <img src="/note/iqaa/masmudi_kabir.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Masmudi Kabir (or Masmudi, for short) is one of the most popular rhythms in the Tarab repertoire of the twentieth century. The word "kabir" means great/large in Arabic, to distinguish it from <a href="baladi.php">Masmudi Saghir</a> (small Masmudi, more commonly called Baladi.) </p>
+                    <p>Iqa‘ Masmoudi Kabir (or Masmoudi, for short) is one of the most popular rhythms in the Tarab repertoire of the twentieth century. The word "kabir" means great/large in Arabic, to distinguish it from <a href="baladi.php">Masmoudi Saghir</a> (small Masmoudi, more commonly called Baladi.) </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -81,8 +81,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ruba‘iyyat al-Khayam (1950)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Musique de Riyad al-Sunbati</span>
+                                    <span>Oum Koulthoum</span>
+                                    <span>Musique de Riyad al-Soumbati</span>
                                 </div>
                             </label>
                         </div>
@@ -94,8 +94,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Ya Fatin al-Ghuzlan</b>
-                                    <span>Al-Turath Ensemble</span>
-                                    <span>Musique de ‘Umar al-Batsh</span>
+                                    <span>Ensemble Al-Tourath</span>
+                                    <span>Musique de Omar al-Batsh</span>
                                 </div>
                             </label>
                         </div>
@@ -108,7 +108,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Ya Shadi al-Alhan</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Musique de Sayyed Darwish</span>
+                                    <span>Musique de Sayyed Darwich</span>
                                 </div>
                             </label>
                         </div>

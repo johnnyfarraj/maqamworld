@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/qanun.jpg" alt="Le Qanoun">
-                        <span>Qanoun syrien construit par Bashir Bij. &copy; MaqamWorld</span>
+                        <span>Qanoun syrien construit par Bachir Bij. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">

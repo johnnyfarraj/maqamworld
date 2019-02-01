@@ -67,7 +67,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Dawr Emta el-Hawa (1936)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Zakaria Ahmad</span>
                                 </div>
                             </label>
@@ -80,7 +80,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ghannili Shwayy Shwayy (1945)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Zakaria Ahmad</span>
                                 </div>
                             </label>
@@ -106,7 +106,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr Lisan el-Dam‘i</b>
-                                    <span>Yusuf al-Manyalawi</span>
+                                    <span>Youssof al-Manyalawi</span>
                                     <span>Musique de ?</span>
                                 </div>
                             </label>
@@ -119,7 +119,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Ma-htiyali (khana)</b>
-                                    <span>Aicha Redouane </span>
+                                    <span>Aïcha Redouane </span>
                                     <span><img src="/img/cd.png"> Arabesques Vocales &copy; 2000</span>
                                 </div>
                             </label>
@@ -144,7 +144,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Tahmila Rast (Suznak)</b>
-                                    <span>Aicha Redouane</span>
+                                    <span>Aïcha Redouane (Maroc)</span>
                                     <span><img src="/img/cd.png"> Arabesques Vocales &copy; 2000</span>
                                 </div>
                             </label>
@@ -168,7 +168,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Violin</b>
+                                    <b>Taqsim au Violon</b>
                                     <span>Abdou Dagher</span>
                                     <span><img src="/img/cd.png"> Al-Gibali</span>
                                 </div>

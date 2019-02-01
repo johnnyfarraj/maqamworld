@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Maqam Sikah Baladi";
 $page_description = "Maqam Sikah Baladi";
 $page_keywords = "arabic, music, arab, world, maqam, jins, sikah baladi, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
-$page_language = "fr"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "fr";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Sikah Baladi</h1>
-                        <h3>(not part of a maqam family)</h3>
+                        <h3>(n'apartient pas à une famille de maqamat)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Sahirtu Minhu al-Layali (1935)</b>
+                                    <b>Sahirtou Minhou al-Layali (1935)</b>
                                     <span>Interprétation et Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -97,8 +97,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Shams el-Asil (1958)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Musique de Riyad al-Sunbati</span>
+                                    <span>Oum Koulthoum</span>
+                                    <span>Musique de Riyad al-Soumbati</span>
                                 </div>
                             </label>
                         </div>
@@ -109,9 +109,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Aruh Li Min (1958)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Musique de Riyad al-Sunbati</span>
+                                    <b>Arouh Li Min (1958)</b>
+                                    <span>Oum Koulthoum</span>
+                                    <span>Musique de Riyad al-Soumbati</span>
                                 </div>
                             </label>
                         </div>
@@ -122,7 +122,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Kulli Da Kan Leh (1954)</b>
+                                    <b>Koulli Da Kan Leh (1954)</b>
                                     <span>Interprétation et Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -134,7 +134,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>el-Habib el-Majhul(1972)</b>
+                                    <b>el-Habib el-Majhoul(1972)</b>
                                     <span>Interprétation et Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -146,7 +146,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Buzuq</b>
+                                    <b>Taqsim au Bouzouk</b>
                                     <span>Matar Mouhammad (Lebanon)</span>
                                 </div>
                             </label>
@@ -158,7 +158,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Qanun</b>
+                                    <b>Taqsim au Qanoun</b>
                                     <span>Abraham Salman (Iraq)</span>
                                     <span><img src="/img/cd.png"> Saltanah</span>
                                 </div>

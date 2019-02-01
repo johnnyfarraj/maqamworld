@@ -74,8 +74,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Mouachah Bayna Qasiyun Wa Rabwa</b>
-                                    <span>Syrian National Orchestra</span>
-                                    <span>Musique de ‘Umar al-Batsh</span>
+                                    <span>Syrien National Orchestra</span>
+                                    <span>Musique de Omar al-Batsh</span>
                                 </div>
                             </label>
                         </div>
@@ -87,8 +87,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>‘Awwidti ‘Eini (1957)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Musique de Riyad al-Sunbati</span>
+                                    <span>Oum Koulthoum</span>
+                                    <span>Musique de Riyad al-Soumbati</span>
                                 </div>
                             </label>
                         </div>
@@ -113,7 +113,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ba‘id ‘Annak (1965)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Baligh Hamdi</span>
                                 </div>
                             </label>

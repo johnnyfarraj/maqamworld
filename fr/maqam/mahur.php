@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Mahour</h1>
-                        <h3>A member of the <a href="f_rast.php">Famille du Maqam Rast</a></h3>
+                        <h3>Membre de la <a href="f_rast.php">Famille du Maqam Rast</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
 					</map>
                     <p>Maqam Mahour starts with the root <a href="../jins/rast.php">Jins Rast</a> on the <em>tonic</em>, followed by <a href="../jins/upper_ajam.php">Jins Haut ‘Ajam</a> on the 5<sup>th</sup> degree (with its tonic up on the 8<sup>th</sup> degree).</p>
 
-                    <p>Explore other maqamat in the <a href="f_rast.php">Famille du Maqam Rast</a>.</p>
+                    <p>Explorez d'autres maqamat dans la <a href="f_rast.php">Famille du Maqam Rast</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -89,7 +89,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Bi Sifatin Ja‘alatni</b>
-                                    <span>Charbel Rouhana</span>
+                                    <span>Charbel Rouhana (Liban)</span>
                                 </div>
                             </label>
                         </div>

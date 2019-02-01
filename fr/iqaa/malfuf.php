@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Malfuf";
-$page_description = "Iqa‘ Malfuf";
+$page_title = "Iqa‘ Malfouf";
+$page_description = "Iqa‘ Malfouf";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, malfuf, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "fr";
 
@@ -29,21 +29,21 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Malfuf 2/4</h1>
+                        <h1>Iqa‘ Malfouf 2/4</h1>
                         <h3>(also called Laff)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/malfuf.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Malfuf</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/malfuf.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Malfouf</a>
                     </div>
 
                     <div class="notation">
                         <img src="/note/iqaa/malfuf.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Malfuf (also called <strong>Laff</strong>) is primarily used in folk and popular Arabic music. If feels short and cyclical, and often modulates to and ftom other 2/4 <em>iqa‘at</em> like <a href="karachi.php">Karachi</a> and <a href="fox.php">Fox</a>. Alternatively 2 consecutive measures of Malfuf could modulate to one measure of a 4/4 <em>iqa‘</em> like <a href="baladi.php">Baladi</a> ot <a href="maqsum.php">Maqsum</a>, both in 4/4.</p>
+                    <p>Iqa‘ Malfouf (also called <strong>Laff</strong>) is primarily used in folk and popular Arabic music. If feels short and cyclical, and often modulates to and ftom other 2/4 <em>iqa‘at</em> like <a href="karachi.php">Karachi</a> and <a href="fox.php">Fox</a>. Alternatively 2 consecutive measures of Malfouf could modulate to one measure of a 4/4 <em>iqa‘</em> like <a href="baladi.php">Baladi</a> ot <a href="maqsum.php">Maqsoum</a>, both in 4/4.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -58,7 +58,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Dara Duri Fina</b>
                                     <span>Fairouz</span>
-                                    <span>Musique de Philemon Wehbe</span>
+                                    <span>Musique de Philémon Wéhbé</span>
                                 </div>
                             </label>
                         </div>
@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Darit el-Ayyam (1970)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Ya Sahi al-Sabru Waha Minni</b>
-                                    <span>Hasan al-Haffar</span>
+                                    <span>Hassan al-Haffar</span>
                                 </div>
                             </label>
                         </div>

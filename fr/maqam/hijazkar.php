@@ -33,7 +33,7 @@ include($ROOT . 'inc/head.php');
                         <h1>Maqam Chadd ‘Arabane</h1>
                         <h1>Maqam Suzidil</h1>
                         <h1>Maqam Chahnaz</h1>
-                        <h3>A member of the <a href="f_hijaz.php">Famille du Maqam Hijaz</a></h3>
+                        <h3>Membre de la <a href="f_hijaz.php">Famille du Maqam Hijaz</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
@@ -79,12 +79,12 @@ include($ROOT . 'inc/head.php');
 					<p>For historic reasons, 3 of this maqam's transpositions have different names (and used to have a different sayr a long time ago):
 					</p>
 					<p>
-					<li><strong>Maqam Chadd ‘Arabane</strong> (Hijazkar on low G)</li>
-					<li><strong>Maqam Suzidil</strong> (Hijazkar on low A)</li>
-					<li><strong>Maqam Chahnaz</strong> (Hijazkar on D)</li>
+					<li><strong>Maqam Chadd ‘Arabane</strong> (Hijazkar sur Sol basse)</li>
+					<li><strong>Maqam Suzidil</strong> (Hijazkar sur La basses)</li>
+					<li><strong>Maqam Chahnaz</strong> (Hijazkar sur Ré)</li>
 					</p>
 
-                    <p>Explore other maqamat in the <a href="f_hijaz.php">Famille du Maqam Hijaz</a>.</p>
+                    <p>Explorez d'autres maqamat dans la <a href="f_hijaz.php">Famille du Maqam Hijaz</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -98,7 +98,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Ana Fi-ntizarak (1943)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Zakariya Ahmad</span>
                                 </div>
                             </label>
@@ -111,8 +111,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr Yama-nta Wahishni</b>
-                                    <span>Abdel Halim Noueirah Ensemble</span>
-                                    <span>Musique de Mouhammad ‘Uthman</span>
+                                    <span>Ensemble Abdel Halim Noueirah</span>
+                                    <span>Musique de Mouhammad ‘Outhman</span>
                                 </div>
                             </label>
                         </div>
@@ -123,9 +123,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Nas Ana Mutti Fi Hubbi</b>
+                                    <b>Ya Nas Ana Moutti Fi Houbbi</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Musique de Sayyed Darwish</span>
+                                    <span>Musique de Sayyed Darwich</span>
                                 </div>
                             </label>
                         </div>
@@ -149,9 +149,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ya ‘Uyunan Ramiyat</b>
-                                    <span>Sabri al-Mudallal</span>
-                                    <span>Musique de ‘Umar al-Batsh</span>
+                                    <b>Mouachah Ya ‘Ouyounan Ramiyat</b>
+                                    <span>Sabri al-Moudallal</span>
+                                    <span>Musique de Omar al-Batsh</span>
                                 </div>
                             </label>
                         </div>
@@ -164,7 +164,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Maria</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Musique de Sayyed Darwish</span>
+                                    <span>Musique de Sayyed Darwich</span>
                                 </div>
                             </label>
                         </div>
@@ -175,9 +175,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Qanun in Maqam Hijaz</b>
-                                    <span>Sabri al-Mudallal Ensemble</span>
-                                    <span><img src="/img/cd.png"> Songs from Aleppo</span>
+                                    <b>Taqsim au Qanoun en Maqam Hijaz</b>
+                                    <span>Ensemble Sabri al-Moudallal</span>
+                                    <span><img src="/img/cd.png"> Chansons d'Alep</span>
                                 </div>
                             </label>
                         </div>
@@ -188,8 +188,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dulab Hijazkar</b>
-                                    <span>Sabah Fakhri Ensemble</span>
+                                    <b>Doulab Hijazkar</b>
+                                    <span>Ensemble Sabah Fakhri</span>
                                     <span>Nagham Al-Ams Vol. 04 Hijazkar</span>
                                 </div>
                             </label>
@@ -201,10 +201,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Laha Badru-t-Timm</b>
+                                    <b>Mouachah Laha Badrou-t-Timm</b>
                                     <span>(Maqam Suzidil)</span>
-                                    <span>Firqat al-Musiqa al-Arabiyya</span>
-                                    <span>Musique de Mahmud Subh</span>
+                                    <span>Ensemble de la Musique Arabe (Égypte)</span>
+                                    <span>Musique de Mahmoud Soubh</span>
                                 </div>
                             </label>
                         </div>
@@ -230,7 +230,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Chadd ‘Arabane</b>
-                                    <span>‘Umar Sarmini Ensemble</span>
+                                    <span>Ensemble Omar Sarmini</span>
                                     <span>Musique de Tanburi Cemil Bey</span>
                                 </div>
                             </label>

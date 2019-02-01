@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam ‘Ajam ‘Ouchayrane</h1>
-                        <h3>A member of the <a href="f_ajam.php">Famille du Maqam ‘Ajam</a></h3>
+                        <h3>Membre de la <a href="f_ajam.php">Famille du Maqam ‘Ajam</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>Maqam ‘Ajam ‘Ouchayrane is an archaic version of <a href="ajam.php">Maqam ‘Ajam</a> with a different sayr, and has a completely different tonal emphasis as well. Rather than tonicizing its 5<sup>th</sup> scale degree (for starting the next jins), it tonicizes its 3<sup>rd</sup> and 6<sup>th</sup> scale degrees instead.</p>
                     <p>The Maqam ‘Ajam ‘Ouchayrane scale starts with the root <a href="../jins/ajam.php">Jins ‘Ajam</a> on the <em>tonic</em>, followed by <a href="../jins/kurd.php">Jins Kurd</a> on the 3<sup>rd</sup> degree then <a href="../jins/nahawand.php">Jins Nahawand</a> starting on the 6<sup>th</sup> degree.</p>
-                    <p>Explore other maqamat in the <a href="f_ajam.php">Famille du Maqam ‘Ajam</a>.</p>
+                    <p>Explorez d'autres maqamat dans la <a href="f_ajam.php">Famille du Maqam ‘Ajam</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -76,7 +76,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Ayqadha al-Hubbu Fu'adi</b>
+                                    <b>Mouachah Ayqadha al-Houbbou Fou'adi</b>
                                     <span>Hassan al-Haffar</span>
                                     <span><img src="/img/cd.png"> The Aleppo Suites Vol.2</span>
                                     <span>Musique de Bahjat Hassan</span>
@@ -92,7 +92,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Da‘i al-Hawa Qad Sah</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Musique de ‘Umar al-Batsh</span>
+                                    <span>Musique de Omar al-Batsh</span>
                                 </div>
                             </label>
                         </div>
@@ -105,7 +105,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>el-Hobbi Fi Albi Amana</b>
                                     <span>Fathiyya Ahmad</span>
-                                    <span>Music By Mouhammad al-Qasabgi</span>
+                                    <span>Musique de Mouhammad al-Qasabgi</span>
                                 </div>
                             </label>
                         </div>

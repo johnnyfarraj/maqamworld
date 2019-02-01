@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Saba</h1>
-                        <h3>(not part of a maqam family)</h3>
+                        <h3>(n'apartient pas à une famille de maqamat)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
@@ -38,8 +38,6 @@ include($ROOT . 'inc/head.php');
                     <div class="text-center mt-2 mb-3">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/saba.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Saba</a>
                     </div>
-
-
 
                       <div class="notation" id="notation1">
                         <img src="/note/maqam/saba.png" class="img-fluid" usemap="#notemap">
@@ -69,7 +67,7 @@ include($ROOT . 'inc/head.php');
 					</map>
                     <p>Maqam Saba is a very popular and common maqam in the Arabic repertory. Its scale starts with <a href="../jins/saba.php">Jins Saba</a> on the <em>tonic</em>, overlapped by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 3<sup>rd</sup> degree, followed by either <a href="../jins/ajam.php">Jins ‘Ajam</a> or <a href="../jins/nikriz.php">Jins Nikriz</a> on the 6<sup>th</sup> degree. </p>
 
-                    <p>Maqam Saba is not part of a family.</p>
+                    <p>Maqam Saba ne fait pas partie d'une famille de maqamat.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -82,8 +80,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dulab, Taqsim Nay &amp; Layai Saba</b>
-                                    <span>Sabri al-Mudallal</span>
+                                    <b>Doulab, Taqsim au Nay et Layai en Maqam Saba</b>
+                                    <span>Sabri al-Moudallal</span>
                                 </div>
                             </label>
                         </div>
@@ -95,8 +93,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>al-Atlal (1966)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Musique de Riyad al-Sunbati</span>
+                                    <span>Oum Koulthoum</span>
+                                    <span>Musique de Riyad al-Soumbati</span>
                                 </div>
                             </label>
                         </div>
@@ -107,8 +105,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Huwwa Sahih il-Hawa Ghallab (1960)</b>
-                                    <span>Umm Kulthum</span>
+                                    <b>Houwa Sahih il-Hawa Ghallab (1960)</b>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Zakaria Ahmad</span>
                                 </div>
                             </label>
@@ -132,7 +130,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ghuddi Jufunik</b>
+                                    <b>Mouachah Ghouddi Joufounik</b>
                                     <span>Khaled al-Hafez</span>
                                 </div>
                             </label>
@@ -146,7 +144,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Qadd Ya m-As‘adek Sabahiyya</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>(Traditional Melody)</span>
+                                    <span>(chanson traditionnelle)</span>
                                 </div>
                             </label>
                         </div>
@@ -158,7 +156,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Tishuf Umuri (1930)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Mouhammad al-Qasabgi</span>
                                 </div>
                             </label>

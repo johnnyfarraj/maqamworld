@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Dalanchine</h1>
-                        <h3>A member of the <a href="f_rast.php">Famille du Maqam Rast</a></h3>
+                        <h3>Membre de la <a href="f_rast.php">Famille du Maqam Rast</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
 			<p>
                     There are not too many songs in this maqam, instead it is more frequently used as a modulation from <a href="rast.php">Maqam Rast</a>.</p>
 
-                    <p>Explore other maqamat in the <a href="f_rast.php">Famille du Maqam Rast</a>.</p>
+                    <p>Explorez d'autres maqamat dans la <a href="f_rast.php">Famille du Maqam Rast</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Qadd Ya Mal il-Sham</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Musique de Ahmad Abu Khalil al-Qabbani</span>
+                                    <span>Musique de Ahmad Abou Khalil al-Qabbani</span>
                                 </div>
                             </label>
                         </div>
@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Mala el-Kasat</b>
                                     <span>Mouhammad Khayri</span>
-                                    <span>Musique de Mouhammad ‘Uthman</span>
+                                    <span>Musique de Mouhammad ‘Outhman</span>
                                 </div>
                             </label>
                         </div>
@@ -108,7 +108,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Kull Illi Habb Itnasaf (1931)</b>
+                                    <b>Koull Illi Habb Itnasaf (1931)</b>
                                     <span>Interprétation et Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -120,9 +120,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr ‘Ishna w Shufna</b>
+                                    <b>Dawr ‘Ishna w Shoufna</b>
                                     <span>Saleh Abdel Hayy</span>
-                                    <span>Musique de Mouhammad ‘Uthman</span>
+                                    <span>Musique de Mouhammad ‘Outhman</span>
                                 </div>
                             </label>
                         </div>

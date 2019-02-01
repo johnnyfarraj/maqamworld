@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Jins Haut Rast";
 $page_description = "Jins Haut Rast";
 $page_keywords = "musique arabe, maqam, instruments, jins haut rast, iqa‘, iqaa, rythme, oud, qanoun, nay, quart de ton, tarab";
-$page_language = "fr"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "fr";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Ya Shadi al-Alhan</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Musique de Sayyed Darwish</span>
+                                    <span>Musique de Sayyed Darwich</span>
                                 </div>
                             </label>
                         </div>
@@ -97,8 +97,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Aruh Li Min (1958)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Musique de Riyad al-Sunbati</span>
+                                    <span>Oum Koulthoum</span>
+                                    <span>Musique de Riyad al-Soumbati</span>
                                 </div>
                             </label>
                         </div>
@@ -111,7 +111,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Asamina</b>
                                     <span>Fairouz</span>
-                                    <span>Musique de Philemon Wehbe</span>
+                                    <span>Musique de Philémon Wéhbé</span>
                                 </div>
                             </label>
                         </div>
@@ -124,7 +124,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Atani Zamani</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Musique de Mouhammad ‘Uthman</span>
+                                    <span>Musique de Mouhammad ‘Outhman</span>
                                 </div>
                             </label>
                         </div>
@@ -136,8 +136,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Hayrana Leh (1930)</b>
-                                    <span>Leila Murad</span>
-                                    <span>Musique de Dawud Husni</span>
+                                    <span>Leila Mourad</span>
+                                    <span>Musique de Daoud Housni</span>
                                 </div>
                             </label>
                         </div>

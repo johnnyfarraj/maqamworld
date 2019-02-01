@@ -70,8 +70,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Ana Min Wajdi Ana</b>
-                                    <span>Aicha Redouane</span>
-                                    <span><img src="/img/cd.png"> Egypte</span>
+                                    <span>Aïcha Redouane (Maroc)</span>
+                                    <span><img src="/img/cd.png"> Égypte</span>
                                 </div>
                             </label>
                         </div>
@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Jalla Man Bil Husni Sawwar</b>
-                                    <span>Abdel Halim Noueirah Ensemble</span>
+                                    <span>Ensemble Abdel Halim Noueirah</span>
                                     <span>Musique de Kamel al-Khula‘i</span>
                                 </div>
                             </label>
@@ -121,7 +121,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Ma-htiyali</b>
-                                    <span>Al-Turath Ensemble</span>
+                                    <span>Ensemble Al-Tourath</span>
                                     <span><img src="/img/cd.png"> The Music In Spanish Al Andalus - Hijaz</span>
                                 </div>
                             </label>
@@ -150,7 +150,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Mouachah ‘Adhibuni</b>
                                     <span>Ensemble Al-Kindi</span>
                                     <span><img src="/img/cd.png"> The Aleppian Music Room Vol. 1 - Hijazkar Kurd &amp; Saba</span>
-                                    <span>Musique de ‘Umar al-Batsh</span>
+                                    <span>Musique de Omar al-Batsh</span>
                                 </div>
                             </label>
                         </div>

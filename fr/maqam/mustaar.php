@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Maqam Mousta‘ar";
 $page_description = "Maqam Mousta‘ar";
 $page_keywords = "arabic, music, arab, world, maqam, jins, sikah, mustaar, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
-$page_language = "fr"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "fr";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Mousta‘ar</h1>
-                        <h3>A member of the <a href="f_sikah.php">Famille du Maqam Sikah</a></h3>
+                        <h3>Membre de la <a href="f_sikah.php">Famille du Maqam Sikah</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
@@ -65,7 +65,7 @@ include($ROOT . 'inc/head.php');
 					</map>
                     <p>Maqam Mousta‘ar is extremely rare as an independent maqam, but more common as a jins, or as a partial sayr within <a href="huzam.php">Maqam Houzam</a> and <a href="sikah.php">Maqam Sikah</a>. Its scale starts with <a href="../jins/mustaar.php">Jins Mousta‘ar</a> on the <em>tonic</em>, followed by <a href="../jins/nahawand.php">Jins Nahawand</a> on the 3<sup>rd</sup> degree, and <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree.
                     </p>
-                    <p>Explore other maqamat in the <a href="f_sikah.php">Famille du Maqam Sikah</a>.</p>
+                    <p>Explorez d'autres maqamat dans la <a href="f_sikah.php">Famille du Maqam Sikah</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -80,7 +80,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Aktiblak Gawabat</b>
                                     <span>Leila Mourad</span>
-                                    <span>Musique de Mouhammad al-Mugi</span>
+                                    <span>Musique de Mouhammad al-Mougi</span>
                                 </div>
                             </label>
                         </div>
@@ -91,7 +91,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Haramuha Minni</b>
+                                    <b>Haramouha Minni</b>
                                     <span>Fathiyya Ahmad</span>
                                     <span>Musique de Mouhammad al-Qasabgi</span>
                                 </div>
@@ -105,8 +105,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Raqq el-Habib (1944)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music By Mouhammad al-Qasabgi</span>
+                                    <span>Oum Koulthoum</span>
+                                    <span>Musique de Mouhammad al-Qasabgi</span>
                                 </div>
                             </label>
                         </div>

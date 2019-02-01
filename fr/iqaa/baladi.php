@@ -5,7 +5,7 @@ include('../../inc/config.php');
 
 /* SEO settings for this page */
 $page_title = "Iqa‘ Baladi";
-$page_description = "Iqa‘ Baladi (Masmudi Saghir)";
+$page_description = "Iqa‘ Baladi (Masmoudi Saghir)";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, baladi, masmudi saghir, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "fr";
 
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Baladi 4/4</h1>
-                        <h3>(also called Masmudi Saghir)</h3>
+                        <h3>(also called Masmoudi Saghir)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <div class="clearfix"></div>
@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/baladi.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Baladi is a very common <em>iqa‘</em> in the Near Eastern Arabic vocal repertoire. It is also called <strong>Masmudi Saghir</strong>, "saghir" meaning little in Arabic, to distinguish it from <a href="masmudi_kabir.php">Masmudi Kabir</a>, which spans two 4/4 measures instead of one. Baladi modulates frequently to <a href="maqsum.php">Maqsum</a> and back, as well as to <a href="malfuf.php">Malfuf</a> (using 2 measures of <a href="malfuf.php">Malfuf</a> to 1 measure of Baladi).
+                    <p>Iqa‘ Baladi is a very common <em>iqa‘</em> in the Near Eastern Arabic vocal repertoire. It is also called <strong>Masmoudi Saghir</strong>, "saghir" meaning little in Arabic, to distinguish it from <a href="masmudi_kabir.php">Masmoudi Kabir</a>, which spans two 4/4 measures instead of one. Baladi modulates frequently to <a href="maqsum.php">Maqsoum</a> and back, as well as to <a href="malfuf.php">Malfouf</a> (using 2 measures of <a href="malfuf.php">Malfouf</a> to 1 measure of Baladi).
                     </p>
 
                     <div class="player-area">

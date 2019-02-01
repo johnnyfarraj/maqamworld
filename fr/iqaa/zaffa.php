@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/zaffa.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Zaffa is named after a wedding procession involving a loud and diverse group of precussion instruments. Aside from weddings, it is a possible modulation from slowed down versions of 4/4 <em>iqa‘at</em> like <a href="baladi.php">Baladi</a> and <a href="maqsum.php">Maqsum</a>.</p>
+                    <p>Iqa‘ Zaffa is named after a wedding procession involving a loud and diverse group of precussion instruments. Aside from weddings, it is a possible modulation from slowed down versions of 4/4 <em>iqa‘at</em> like <a href="baladi.php">Baladi</a> and <a href="maqsum.php">Maqsoum</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Duqqu il-Mazahir (1952)</b>
-                                    <span>Interprétation et Musique de Farid al-Atrash</span>
+                                    <span>Interprétation et Musique de Farid al-Atrache</span>
                                 </div>
                             </label>
                         </div>
@@ -68,7 +68,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Alf Leila w Leila (1969)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Baligh Hamdi</span>
                                 </div>
                             </label>
@@ -94,7 +94,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Qadd Ya Mal il-Sham</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Musique de Ahmad Abu Khalil al-Qabbani</span>
+                                    <span>Musique de Ahmad Abou Khalil al-Qabbani</span>
                                 </div>
                             </label>
                         </div>

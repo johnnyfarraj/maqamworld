@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Mudawwar";
-$page_description = "Iqa‘ Mudawwar";
+$page_title = "Iqa‘ Moudawwar";
+$page_description = "Iqa‘ Moudawwar";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, mudawwar, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "fr";
 
@@ -29,21 +29,21 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Mudawwar 12/4</h1>
+                        <h1>Iqa‘ Moudawwar 12/4</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mudawwar.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Mudawwar</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mudawwar.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Moudawwar</a>
                     </div>
 
                     <div class="notation">
                         <img src="/note/iqaa/mudawwar.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Mudawwar is a popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Mouachah</a> repertoire. The word "mudawwar" in Arabic means round/circular.</p>
-                    <!-- Many Mudawwar pieces start from the 11<sup>th</sup> beat (the last <em>tak</em>).  -->
+                    <p>Iqa‘ Moudawwar is a popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Mouachah</a> repertoire. The word "mudawwar" in Arabic means round/circular.</p>
+                    <!-- Many Moudawwar pieces start from the 11<sup>th</sup> beat (the last <em>tak</em>).  -->
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -57,8 +57,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Mouachah Adhkuru al-Hubba</b>
-                                    <span>Abdel Halim Noueirah Ensemble</span>
-                                    <span>Musique de Dawud Husni</span>
+                                    <span>Ensemble Abdel Halim Noueirah</span>
+                                    <span>Musique de Daoud Housni</span>
                                 </div>
                             </label>
                         </div>
@@ -69,8 +69,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Fika Kullu Ma Ara Hasan</b>
-                                    <span>Abdel Halim Noueirah Ensemble</span>
+                                    <b>Mouachah Fika Kullu Ma Ara Hassan</b>
+                                    <span>Ensemble Abdel Halim Noueirah</span>
                                 </div>
                             </label>
                         </div>

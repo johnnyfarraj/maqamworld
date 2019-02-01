@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Jins Haut ‘Ajam";
 $page_description = "Jins Haut ‘Ajam";
 $page_keywords = "musique arabe, maqam, instruments, jins haut ‘ajam, iqa‘, iqaa, rythme, oud, qanoun, nay, quart de ton, tarab";
-$page_language = "fr"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "fr";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -82,8 +82,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Lissa Fakir (1963)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Musique de Riyad al-Sunbati</span>
+                                    <span>Oum Koulthoum</span>
+                                    <span>Musique de Riyad al-Soumbati</span>
                                 </div>
                             </label>
                         </div>
@@ -95,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Huwwa Sahih el-Hawa Ghallab (1960)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Zakaria Ahmad</span>
                                 </div>
                             </label>

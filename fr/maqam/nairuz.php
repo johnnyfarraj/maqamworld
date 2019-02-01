@@ -31,7 +31,7 @@ include($ROOT . 'inc/head.php');
                     <div class="heading jins text-center">
                         <h1>Maqam Nairuz</h1>
                         <h1>Maqam Yakah</h1>
-                        <h3>A member of the <a href="f_rast.php">Famille du Maqam Rast</a></h3>
+                        <h3>Membre de la <a href="f_rast.php">Famille du Maqam Rast</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                     </p>
                     <p><strong>Maqam Yakah</strong> is an archaic version of Maqam Nairuz, based on note G3 in the Arabic archaic 24-tone scale (named “Yakah”) rather than note C4.</p>
 
-                    <p>Explore other maqamat in the <a href="f_rast.php">Famille du Maqam Rast</a>.</p>
+                    <p>Explorez d'autres maqamat dans la <a href="f_rast.php">Famille du Maqam Rast</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Mouachah Ya Hilalan</b>
-                                    <span>Firqat al-Musiqa al-Arabiyya (Egypt)</span>
+                                    <span>Ensemble de la Musique Arabe (Égypte)</span>
                                 </div>
                             </label>
                         </div>
@@ -96,9 +96,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Mubarqa'u al-Jamal</b>
-                                    <span>Hasan al-Haffar</span>
-                                    <span>Musique de ‘Umar al-Batsh</span>
+                                    <b>Mouachah Moubarqaou al-Jamal</b>
+                                    <span>Hassan al-Haffar</span>
+                                    <span>Musique de Omar al-Batsh</span>
                                 </div>
                             </label>
                         </div>
@@ -111,7 +111,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr Asl il-Gharam (1945)</b>
                                     <span>Nour el-Hoda</span>
-                                    <span>Musique de Mouhammad ‘Uthman</span>
+                                    <span>Musique de Mouhammad ‘Outhman</span>
                                 </div>
                             </label>
                         </div>
@@ -123,7 +123,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ghannili Shwayy Shwayy (1945)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Zakaria Ahmad</span>
                                 </div>
                             </label>

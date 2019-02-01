@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Bayati</h1>
-                        <h3>The principal maqam in the <a href="f_bayati.php">Famille du Maqam Bayati</a></h3>
+                        <h3>Le maqam principal dans la <a href="f_bayati.php">Famille du Maqam Bayati</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                     <p>Maqam Bayati is by far one of the most popular and common maqamat in the Arabic repertory. It is also the main maqam in the Bayati Family. </p>
                     <p>Its scale starts with <a href="../jins/bayati.php">Jins Bayati</a> on the <em>tonic</em> followed by either <a href="../jins/nahawand.php">Jins Nahawand</a> or <a href="../jins/rast.php">Jins Rast</a> on the 4<sup>th</sup> degree.
                     </p>
-                    <p>Explore other maqamat in the <a href="f_bayati.php">Famille du Maqam Bayati</a>.</p>
+                    <p>Explorez d'autres maqamat dans la <a href="f_bayati.php">Famille du Maqam Bayati</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -82,9 +82,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>‘Ala Balad el-Mahbub Waddini (1935)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Musique de Riyad al-Sunbati</span>
+                                    <b>‘Ala Balad el-Mahboub Waddini (1935)</b>
+                                    <span>Oum Koulthoum</span>
+                                    <span>Musique de Riyad al-Soumbati</span>
                                 </div>
                             </label>
                         </div>
@@ -95,8 +95,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Akun Sa‘id (1932)</b>
-                                    <span>Umm Kulthum</span>
+                                    <b>Akoun Sa‘id (1932)</b>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Zakaria Ahmad</span>
                                 </div>
                             </label>
@@ -122,7 +122,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mijana and ‘Ataba</b>
                                     <span>Wadih Al-Safi</span>
-                                    <span>Music from Lebanese Folklore</span>
+                                    <span>(folklore libanais)</span>
                                 </div>
                             </label>
                         </div>
@@ -134,7 +134,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Imlali al-Aqdaha Sirfan</b>
-                                    <span>Sabah Fakhri (Traditional)</span>
+                                    <span>Sabah Fakhri</span>
+                                    <span>(composition traditionnelle)</span>
                                 </div>
                             </label>
                         </div>
@@ -145,8 +146,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Nura Nura (1953)</b>
-                                    <span>Music and Vocals by Farid al-Atrash</span>
+                                    <b>Noura Noura (1953)</b>
+                                    <span>Interprétation et Musique de Farid al-Atrache</span>
                                 </div>
                             </label>
                         </div>
@@ -157,9 +158,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Rayt Minnun (Qanun Taqsim)</b>
+                                    <b>Ya Rayt Minnoun (Taqsim au Qanoun)</b>
                                     <span>Fairouz</span>
-                                    <span>Musique de Philemon Wehbe</span>
+                                    <span>Musique de Philémon Wéhbé</span>
                                 </div>
                             </label>
                         </div>
@@ -170,9 +171,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Rayt Minnun</b>
+                                    <b>Ya Rayt Minnoun</b>
                                     <span>Fairouz</span>
-                                    <span>Musique de Philemon Wehbe</span>
+                                    <span>Musique de Philémon Wéhbé</span>
                                 </div>
                             </label>
                         </div>
@@ -184,7 +185,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Bayati Ibrahim al-‘Aryan</b>
-                                    <span>Farhan Sabbagh (Oud solo)</span>
+                                    <span>Farhan Sabbagh (solo de Oud)</span>
                                 </div>
                             </label>
                         </div>
@@ -195,7 +196,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Bayati Iskandar Shalfun</b>
+                                    <b>Sama‘i Bayati d'Iskandar Shalfoun</b>
                                     <span>Ensemble Morkos</span>
                                 </div>
                             </label>

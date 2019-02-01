@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Murabba";
-$page_description = "Iqa‘ Murabba";
+$page_title = "Iqa‘ Mourabba";
+$page_description = "Iqa‘ Mourabba";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, murabbaa, murabba‘, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "fr";
 
@@ -29,20 +29,20 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Murabba‘ 13/4</h1>
+                        <h1>Iqa‘ Mourabba‘ 13/4</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/murabbaa.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Murabba‘</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/murabbaa.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Mourabba‘</a>
                     </div>
 
                     <div class="notation">
                         <img src="/note/iqaa/murabbaa.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Murabba‘ is mostly confined to the <a href="../form/vocal_comp.php#muwashah">Mouachah</a> repertoire. Unrelated to its time signature, the word <em>murabba‘</em> in Arabic means squared or based on the number 4.</p>
+                    <p>Iqa‘ Mourabba‘ is mostly confined to the <a href="../form/vocal_comp.php#muwashah">Mouachah</a> repertoire. Unrelated to its time signature, the word <em>murabba‘</em> in Arabic means squared or based on the number 4.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -56,8 +56,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Mouachah Hayyar al-Afkar</b>
-                                    <span>Abdel Halim Noueirah Ensemble</span>
-                                    <span>Musique de Mouhammad ‘Uthman</span>
+                                    <span>Ensemble Abdel Halim Noueirah</span>
+                                    <span>Musique de Mouhammad ‘Outhman</span>
                                 </div>
                             </label>
                         </div>
@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Hibbi Malik al-Milah</b>
-                                    <span>Abdel Halim Noueirah Ensemble</span>
+                                    <span>Ensemble Abdel Halim Noueirah</span>
                                 </div>
                             </label>
                         </div>
@@ -81,8 +81,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Isqini al-Rah</b>
-                                    <span>Abdel Halim Noueirah Ensemble</span>
-                                    <span>Musique de Mouhammad ‘Uthman</span>
+                                    <span>Ensemble Abdel Halim Noueirah</span>
+                                    <span>Musique de Mouhammad ‘Outhman</span>
                                 </div>
                             </label>
                         </div>
@@ -106,7 +106,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Qum Bina Ya Nur ‘Ayni</b>
-                                    <span>Abdel Halim Noueirah Ensemble</span>
+                                    <span>Ensemble Abdel Halim Noueirah</span>
                                 </div>
                             </label>
                         </div>
@@ -118,8 +118,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Ramani Bi Sahmi Hawahu</b>
-                                    <span>Hasan al-Haffar</span>
-                                    <span>Musique de Dawud Husni</span>
+                                    <span>Hassan al-Haffar</span>
+                                    <span>Musique de Daoud Housni</span>
                                 </div>
                             </label>
                         </div>
@@ -131,10 +131,10 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Ya ‘Udhayb al-Marshaf</b>
-                                    <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
-                                    <span>Conductor: Aïda Shalhoub Ziadé</span>
-                                    <span>Musique de Sayyed Darwish</span>
-                                    <span><img src="/img/cd.png"> Orientalia: Mouachah and Song series</span>
+                                    <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Liban)</span>
+                                    <span>Chef d'orchestre: Aïda Shalhoub Ziadé</span>
+                                    <span>Musique de Sayyed Darwich</span>
+                                    <span><img src="/img/cd.png"> Orientalia: Mouachah et Chansons</span>
                                 </div>
                             </label>
                         </div>

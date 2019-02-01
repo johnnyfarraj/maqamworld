@@ -104,7 +104,7 @@ include($ROOT . 'inc/head.php');
                              --><div class="info">
                                     <b>Sama‘i Kurd - ‘Abdou Dagher</b>
                                     <span></span>
-                                    <span>Sama‘i in <a href="../maqam/kurd.php">Maqam Kurd</a> by Abdou Dagher(Egypt), which features a long <a href="instr_comp.php#muqaddima">muqaddima</a> (composed introduction).</span>
+                                    <span>Sama‘i in <a href="../maqam/kurd.php">Maqam Kurd</a> by Abdou Dagher(Égypte), which features a long <a href="instr_comp.php#muqaddima">muqaddima</a> (composed introduction).</span>
                                 </div>
                             </label>
                         </div>
@@ -150,7 +150,7 @@ include($ROOT . 'inc/head.php');
                     </div>
                     
                     <p>
-                        La Longa est la deuxième forme ottomane la plus populaire. Il est généralement composé dans le court et sautillant <a href="../iqaa/fox.php">Iqa‘ Fox</a> pour les <em>khana</em>-s et dans le <a href="../iqaa/malfuf.php">Iqa‘ Malfuf</a> pour le <em>taslim</em>.
+                        La Longa est la deuxième forme ottomane la plus populaire. Il est généralement composé dans le court et sautillant <a href="../iqaa/fox.php">Iqa‘ Fox</a> pour les <em>khana</em>-s et dans le <a href="../iqaa/malfuf.php">Iqa‘ Malfouf</a> pour le <em>taslim</em>.
                     </p>
                     <p>
                         Plusieurs longas de l'ère ottomane utilisent des maqams tempérés tels que <a href="../maqam/nahawand.php">Nahawand</a>, <a href="../maqam/hijaz.php">Hijaz</a> et <a href="../maqam/nikriz.php">Nikriz</a>, et utilisent des mélodies qui évoquent la musique de l'Europe de l'Est. Beaucoup de compositeurs arabes suivent toujours cette approche.
@@ -214,7 +214,7 @@ include($ROOT . 'inc/head.php');
                         Le Bachraf est la forme ottomane la moins utilisée et n'est généralement joué que dans le contexte des cours de musique et des exercices instrumentaux. Le Bachraf consiste en quatre <em>khana</em>-s, chacun suivi par le même <em>taslim</em>, et est rarement composé par des musiciens arabes.
                     </p>
                     <p>
-                        Contrairement au Samai, le Bachraf est composé dans le même <a href="../iqaa.php">iqa‘</a> pour toute la composition, dans la plupart des cas un Iqa' au rythme pair tels que le <a href="../iqaa/masmudi_kabir.php">Masmudi Kabir (8/4)</a> (8/4), le <a href="../iqaa/mukhammas.php">Mukhammas (16/4)</a>, le Chanbar (24/4), le Dawr al-Kabir (28/4) ou des cycles rythmiques ottomans plus longs.
+                        Contrairement au Samai, le Bachraf est composé dans le même <a href="../iqaa.php">iqa‘</a> pour toute la composition, dans la plupart des cas un Iqa' au rythme pair tels que le <a href="../iqaa/masmudi_kabir.php">Masmoudi Kabir (8/4)</a> (8/4), le <a href="../iqaa/mukhammas.php">Moukhammas (16/4)</a>, le Chanbar (24/4), le Dawr al-Kabir (28/4) ou des cycles rythmiques ottomans plus longs.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=NmNMjWyhiyE">

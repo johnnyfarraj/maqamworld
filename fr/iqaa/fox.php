@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/fox.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Fox (probably derived from "Foxtrot") is a simple 2/4 <em>iqa‘</em> that is usually played without too much ornamentation over instrumental sections. This, and the fact it is often played at very fast tempos, gives it a swift and urgent feel. It is the main <em>iqa‘</em> used in the Turkish/Eastern European <a href="../form/ottoman.php#longa">Longa</a> Ottoman instrumental form. Fox can readily modulate to <a href="malfuf.php">Malfuf</a> and back. A very slow version of Fox (see the last 2 examples) could be notated as 4/4.</p>
+                    <p>Iqa‘ Fox (probably derived from "Foxtrot") is a simple 2/4 <em>iqa‘</em> that is usually played without too much ornamentation over instrumental sections. This, and the fact it is often played at very fast tempos, gives it a swift and urgent feel. It is the main <em>iqa‘</em> used in the Turkish/Eastern European <a href="../form/ottoman.php#longa">Longa</a> Ottoman instrumental form. Fox can readily modulate to <a href="malfuf.php">Malfouf</a> and back. A very slow version of Fox (see the last 2 examples) could be notated as 4/4.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Longa Farahfaza (Instrumental)</b>
                                     <span>Salim Sahhab Orchestra</span>
-                                    <span>Musique de Riyad al-Sunbati</span>
+                                    <span>Musique de Riyad al-Soumbati</span>
                                 </div>
                             </label>
                         </div>
@@ -69,8 +69,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ghulubt Asalih Fi Ruhi (1946)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Musique de Riyad al-Sunbati</span>
+                                    <span>Oum Koulthoum</span>
+                                    <span>Musique de Riyad al-Soumbati</span>
                                 </div>
                             </label>
                         </div>
@@ -95,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Tuta</b>
                                     <span>Instrumental Composition</span>
-                                    <span>Musique de Farid al-Atrash</span>
+                                    <span>Musique de Farid al-Atrache</span>
                                 </div>
                             </label>
                         </div>

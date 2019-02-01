@@ -49,7 +49,7 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/bendir.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Bendir</a>
                     </div>
 
-                    <p> The Daff is a generic word for a frame drum in Arabic, and local varieties may have different names like <em>Mazhar</em> in Syria/Egypt or <em>Bendir</em> in North Africa.
+                    <p> The Daff is a generic word for a frame drum in Arabic, and local varieties may have different names like <em>Mazhar</em> in Syrie/Egypt or <em>Bendir</em> in North Africa.
                     </p>
 
                     <p> The <em>daff</em> has a circular wooden frame ranging from 12 inches in diameter on the smaller side to 24 inches and more on the larger (and bassier) side. The frame can be about 4 inches deep for small diameters, and 2-3 inches deep for larger diameters. The skin is traditionally goat, deer or another natural skin, and is permanently glued to the frame, while modern <em>daff</em>-s have plastic skin, and are tunable.
@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Duqqu el-Mazahir</b>
-                                    <span>Farid al-Atrash's wedding song <strong>Duqqu el-Mazahir</strong> ("Play the frame drums", 1952) features a number of frame drums used in a wedding celebration.</span>
+                                    <span>Farid al-Atrache's wedding song <strong>Duqqu el-Mazahir</strong> ("Play the frame drums", 1952) features a number of frame drums used in a wedding celebration.</span>
                                 </div>
                             </label>
                         </div>

@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Rumba";
-$page_description = "Iqa‘ Rumba";
+$page_title = "Iqa‘ Roumba";
+$page_description = "Iqa‘ Roumba";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, rumba, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "fr";
 
@@ -29,20 +29,20 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Rumba 4/4</h1>
+                        <h1>Iqa‘ Roumba 4/4</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/rumba.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Rumba</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/rumba.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Roumba</a>
                     </div>
 
                     <div class="notation">
                         <img src="/note/iqaa/rumba.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Rumba is an Arabic adaptation of the Latin American dance rhythm by the same name. It became fashionable starting from the 1930s and was used to add a litte foreign flavor to Arabic arrangements.</p>
+                    <p>Iqa‘ Roumba is an Arabic adaptation of the Latin American dance rhythm by the same name. It became fashionable starting from the 1930s and was used to add a litte foreign flavor to Arabic arrangements.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -68,7 +68,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Amal Hayati (1965)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ansak Da Kalam (1961)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Baligh Hamdi</span>
                                 </div>
                             </label>
@@ -94,7 +94,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ba‘id ‘Annak (1965)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Baligh Hamdi</span>
                                 </div>
                             </label>
@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Darit el-Ayyam (1970)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -121,7 +121,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Qari’at al-Fingan (1976)</b>
                                     <span>Abdel Halim Hafez</span>
-                                    <span>Musique de Mouhammad al-Mugi</span>
+                                    <span>Musique de Mouhammad al-Mougi</span>
                                 </div>
                             </label>
                         </div>

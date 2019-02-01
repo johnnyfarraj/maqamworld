@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Rast</h1>
-                        <h3>The principal maqam in the <a href="f_rast.php">Famille du Maqam Rast</a></h3>
+                        <h3>Le maqam principal dans la <a href="f_rast.php">Famille du Maqam Rast</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                     Its scale starts with the root <a href="../jins/rast.php">Jins Rast</a> on the <em>tonic</em>, followed on the 5<sup>th</sup> degree by either <a href="../jins/upper_rast.php">Jins Haut Rast</a> (with its tonic up on the 8<sup>th</sup> degree) or <a href="../jins/nahawand.php">Jins Nahawand</a>.
                     </p>
 
-                    <p>Explore other maqamat in the <a href="f_rast.php">Famille du Maqam Rast</a>.</p>
+                    <p>Explorez d'autres maqamat dans la <a href="f_rast.php">Famille du Maqam Rast</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Ya Shadi al-Alhan</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Musique de Sayyed Darwish</span>
+                                    <span>Musique de Sayyed Darwich</span>
                                 </div>
                             </label>
                         </div>
@@ -96,8 +96,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Mala al-Kasat</b>
-                                    <span>Al-Kindi Ensemble</span>
-                                    <span>Musique de Mouhammad ‘Uthman</span>
+                                    <span>Ensemble Al-Kindi</span>
+                                    <span>Musique de Mouhammad ‘Outhman</span>
                                 </div>
                             </label>
                         </div>
@@ -108,11 +108,11 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ya ‘Udhayb al-Marshaf</b>
-                                    <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
-                                    <span>Conductor: Aïda Shalhoub Ziadé</span>
-                                    <span>Musique de Sayyed Darwish</span>
-                                    <span><img src="/img/cd.png"> Orientalia: Mouachah and Song series</span>
+                                    <b>Mouachah Ya ‘Oudhayb al-Marshaf</b>
+                                    <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Liban)</span>
+                                    <span>Chef d'orchestre: Aïda Shalhoub Ziadé</span>
+                                    <span>Musique de Sayyed Darwich</span>
+                                    <span><img src="/img/cd.png"> Orientalia: Mouachah et Chansons</span>
                                 </div>
                             </label>
                         </div>
@@ -123,9 +123,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Waraqu el-Asfar Shahr Aylul</b>
+                                    <b>Waraqou el-Asfar Shaher Ayloul</b>
                                     <span>Fairouz</span>
-                                    <span>Musique de Philemon Wehbe</span>
+                                    <span>Musique de Philémon Wéhbé</span>
                                 </div>
                             </label>
                         </div>
@@ -136,7 +136,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qassidat Salabat Su‘ad</b>
+                                    <b>Qassidat Salabat Souad</b>
                                     <span>Mouhammad Khayri</span>
                                 </div>
                             </label>
@@ -161,7 +161,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Lah Tilaw‘ini (1938)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Mouhammad al-Qasabgi</span>
                                 </div>
                             </label>
@@ -173,9 +173,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dulab Rast</b>
+                                    <b>Doulab Rast</b>
                                     <span>Sabah Fakhri</span>
-                                    <span><img src="/img/cd.png"> Live Au Palais Des Congres</span>
+                                    <span><img src="/img/cd.png"> Au Palais Des Congres</span>
                                 </div>
                             </label>
                         </div>
@@ -186,8 +186,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Rast George Michel (Egypt)</b>
-                                    <span>Al-Kindi Ensemble</span>
+                                    <b>Sama‘i Rast George Michel (Égypte)</b>
+                                    <span>Ensemble Al-Kindi</span>
                                     <span><img src="/img/cd.png"> The Aleppian Music Room Vol. 2 (Rast)</span>
                                 </div>
                             </label>

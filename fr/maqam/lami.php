@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Lami</h1>
-                        <h3>(not part of a maqam family)</h3>
+                        <h3>(n'apartient pas à une famille de maqamat)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
@@ -74,7 +74,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>el-Bortoqal (1938)</b>
-                                    <span>Vocals by Ra'isa ‘Afifi and Mouhammad Abdel Wahab</span>
+                                    <span>Interprétation de Ra'isa ‘Afifi and Mouhammad Abdel Wahab</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -87,8 +87,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Tislam Idein Elli-shtara (c. 1960)</b>
-                                    <span>Vocals by Mouhammad Abdel Muttalib</span>
-                                    <span>Musique de Mahmud Kamel (Egypt)</span>
+                                    <span>Interprétation de Mouhammad Abdel Mouttaleb</span>
+                                    <span>Musique de Mahmoud Kamel (Égypte)</span>
                                 </div>
                             </label>
                         </div>
@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Albi Bi Ulli Kalam (c.1954)</b>
+                                    <b>Albi Bi Oulli Kalam (c.1954)</b>
                                     <span>Interprétation et Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -112,7 +112,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ahmad Ya Habibi</b>
-                                    <span>Interprétation et Musique de Sabri al-Mudallal</span>
+                                    <span>Interprétation et Musique de Sabri al-Moudallal</span>
                                     <span><img src="/img/cd.png"> Songs from Aleppo</span>
                                 </div>
                             </label>
@@ -124,9 +124,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>el-Najmat Saru Yis'alu (1964)</b>
+                                    <b>el-Najmat Sarou Yis'alou (1964)</b>
                                     <span>Wadih al-Safi</span>
-                                    <span>Musique de Mouhammad Muhsin</span>
+                                    <span>Musique de Mouhammad Mouhsin</span>
                                 </div>
                             </label>
                         </div>
@@ -137,9 +137,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Gulli Ya Hilu</b>
+                                    <b>Goulli Ya Hilou</b>
                                     <span>Nazem al-Ghazali</span>
-                                    <span>(Iraqi Traditional)</span>
+                                    <span>(Chanson traditionnelle de l'Irak)</span>
                                 </div>
                             </label>
                         </div>

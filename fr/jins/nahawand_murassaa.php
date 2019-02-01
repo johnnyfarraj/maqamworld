@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" checked>
                                 <div class="info">
                                     <b>Habbeit Gamalak</b>
-                                    <span>Leila Murad</span>
+                                    <span>Leila Mourad</span>
                                     <span>Musique de Mouhammad al-Qasabgi</span>
                                 </div>
                             </label>
@@ -110,7 +110,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Taht el-Shibbak (Accordion Solo)</b>
                                     <span>Fatima Serhan</span>
-                                    <span>Musique de ‘Aziz ‘Uthman</span>
+                                    <span>Musique de ‘Aziz ‘Outhman</span>
                                 </div>
                             </label>
                         </div>
@@ -122,8 +122,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" checked>
                                 <div class="info">
                                     <b>Min Hobbi Fik Ya Gari (1958)</b>
-                                    <span>Horeyya Hasan</span>
-                                    <span>Musique de Mouhammad al-Mugi</span>
+                                    <span>Horeyya Hassan</span>
+                                    <span>Musique de Mouhammad al-Mougi</span>
                                 </div>
                             </label>
                         </div>

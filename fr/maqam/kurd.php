@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Kurd</h1>
-                        <h3>The principal maqam in the <a href="f_kurd.php">Famille du Maqam Kurd</a></h3>
+                        <h3>Le maqam principal dans la <a href="f_kurd.php">Famille du Maqam Kurd</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>Maqam Kurd is the main maqam in the Kurd Family. Its scale starts with the root <a href="../jins/kurd.php">Jins Kurd</a> on the <em>tonic</em>, followed by <a href="../jins/nahawand.php">Jins Nahawand</a> on the 4<sup>th</sup> degree.</p>
 
-                    <p>Explore other maqamat in the <a href="f_kurd.php">Famille du Maqam Kurd</a>.</p>
+                    <p>Explorez d'autres maqamat dans la <a href="f_kurd.php">Famille du Maqam Kurd</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -77,8 +77,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>‘Awwedti ‘Ayni (1958)</b>
-                                    <span>Umm Kuthum</span>
-                                    <span>Musique de Riyad al-Sunbati</span>
+                                    <span>Oum Koulthoum</span>
+                                    <span>Musique de Riyad al-Soumbati</span>
                                 </div>
                             </label>
                         </div>
@@ -90,8 +90,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Zalimni (1951)</b>
-                                    <span>Umm Kuthum</span>
-                                    <span>Musique de Riyad al-Sunbati</span>
+                                    <span>Oum Koulthoum</span>
+                                    <span>Musique de Riyad al-Soumbati</span>
                                 </div>
                             </label>
                         </div>
@@ -102,8 +102,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dulab Kurd</b>
-                                    <span>Sabah Fakhri Ensemble</span>
+                                    <b>Doulab Kurd</b>
+                                    <span>Ensemble Sabah Fakhri</span>
                                     <span><img src="/img/cd.png"> Au Palais Des Congrès (1995)</span>
                                 </div>
                             </label>
@@ -117,7 +117,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Yamurru ‘Ujuban</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Musique de ‘Umar al-Batsh</span>
+                                    <span>Musique de Omar al-Batsh</span>
                                     <span><img src="/img/cd.png"> Au Palais Des Congrès (1995)</span>
                                 </div>
                             </label>
@@ -131,7 +131,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Ya Bahjet el-Rouh</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Musique de Sayyed Darwish</span>
+                                    <span>Musique de Sayyed Darwich</span>
                                     <span><img src="/img/cd.png"> Au Palais Des Congrès (1995)</span>
                                 </div>
                             </label>
@@ -143,8 +143,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mashghul ‘Aleik</b>
-                                    <span>Karem Mahmud</span>
+                                    <b>Mashghoul ‘Aleik</b>
+                                    <span>Karem Mahmoud</span>
                                     <span>Musique de Ahmad Sidqi</span>
                                 </div>
                             </label>
@@ -158,7 +158,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Sanatein</b>
                                     <span>Leila Mourad</span>
-                                    <span>Musique de Ra'uf Dhihni</span>
+                                    <span>Musique de Raouf Dhihni</span>
                                 </div>
                             </label>
                         </div>
@@ -194,8 +194,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr ‘Ishiqti Ruhak (1930)</b>
-                                    <span>Musique de Mouhammad Abdel Wahab</span>
+                                    <b>Dawr ‘Ishiqti Rouhak (1930)</b>
+                                    <span>Interprétation et Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>

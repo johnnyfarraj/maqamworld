@@ -73,7 +73,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Faruq Salama Interview</b>
-                                    <span>Interview about Faruq Salama about his experience playing the Arabic Accordion with Umm Kuthum's orchestra</span>
+                                    <span>Interview about Faruq Salama about his experience playing the Arabic Accordion with Oum Koulthoum's orchestra</span>
                                 </div>
                             </label>
                         </div>
@@ -121,7 +121,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Elias Lammam</b>
-                                <span>The National Arab Orchestra (USA) performing Farid al-Atrash's instrumental composition <strong>Kahramana</strong> in an arrangement that features the Arabic Accordion alongside traditional Arabic instruments.</span>
+                                <span>The National Arab Orchestra (USA) performing Farid al-Atrache's instrumental composition <strong>Kahramana</strong> in an arrangement that features the Arabic Accordion alongside traditional Arabic instruments.</span>
                                 </div>
                             </label>
                         </div>

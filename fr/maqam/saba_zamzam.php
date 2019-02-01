@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Saba Zamzam</h1>
-                        <h3>(not part of a maqam family)</h3>
+                        <h3>(n'apartient pas à une famille de maqamat)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
@@ -68,7 +68,7 @@ include($ROOT . 'inc/head.php');
 					</map>
                     <p>Maqam Saba is a rare maqam in the Arabic repertory. Its scale starts with <a href="../jins/saba_zamzam.php">Jins Saba Zamzam</a> on the <em>tonic</em>, overlapped by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 3<sup>rd</sup> degree, followed by either <a href="../jins/ajam.php">Jins ‘Ajam</a> or <a href="../jins/nikriz.php">Jins Nikriz</a> on the 6<sup>th</sup> degree. </p>
                     <p>
-                    Maqam Saba Zamzam is not part of a family.</p>
+                    Maqam Saba Zamzam ne fait pas partie d'une famille de maqamat.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -95,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Amal Hayati (1965)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -122,7 +122,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Bint el-Sultan</b>
                                     <span>Ahmad ‘Adaweyah</span>
-                                    <span>Musique de Hassan Abu al-Su‘ud</span>
+                                    <span>Musique de Hassan Abou al-Su‘ud</span>
                                 </div>
                             </label>
                         </div>

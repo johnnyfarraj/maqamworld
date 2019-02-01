@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Jins Sikah Baladi";
 $page_description = "Jins Sikah Baladi";
 $page_keywords = "musique arabe, maqam, instruments, jins sikah baladi, iqa‘, iqaa, rythme, oud, qanoun, nay, quart de ton, tarab";
-$page_language = "fr"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "fr";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Qassida Man Mithlukum</b>
-                                    <span>Hasan al-Haffar</span>
+                                    <span>Hassan al-Haffar</span>
                                     <span><img src="/img/cd.png"> Muezzins D'Alep - Chants Religieux De L'Islam</span>
                                 </div>
                             </label>
@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Hakam ‘Aleina el-Hawa (1973)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Baligh Hamdi</span>
                                 </div>
                             </label>

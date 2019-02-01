@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ ‘Awis";
-$page_description = "Iqa‘ ‘Awis";
+$page_title = "Iqa‘ ‘Awisse";
+$page_description = "Iqa‘ ‘Awisse";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, aqsaq, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "fr";
 
@@ -29,20 +29,20 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ ‘Awis 11/8</h1>
+                        <h1>Iqa‘ ‘Awisse 11/8</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/awis.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de ‘Awis</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/awis.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de ‘Awisse</a>
                     </div>
 
                     <div class="notation">
                         <img src="/note/iqaa/awis.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ ‘Awis is mostly used with the <a href="../form/vocal_comp.php#muwashah">Mouachah</a> genre. Some ‘Awis pieces start from the 3<sup>rd</sup> beat (the first <em>tak</em>), like for example "Mouachah Munyati Man Rumtu Qurbuhu". Meanwhile "Mouachah Hibbi Da‘ani Lil-Wisal" starts the melody on the 11<sup>th</sup> beat (the last <em>tak</em>).
+                    <p>Iqa‘ ‘Awisse is mostly used with the <a href="../form/vocal_comp.php#muwashah">Mouachah</a> genre. Some ‘Awisse pieces start from the 3<sup>rd</sup> beat (the first <em>tak</em>), like for example "Mouachah Munyati Man Rumtu Qurbuhu". Meanwhile "Mouachah Hibbi Da‘ani Lil-Wisal" starts the melody on the 11<sup>th</sup> beat (the last <em>tak</em>).
                     </p>
 
                     <div class="player-area">
@@ -58,7 +58,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Hibbi Da‘ani Lil-Wisal</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Musique de Sayyed Darwish</span>
+                                    <span>Musique de Sayyed Darwich</span>
                                     <span><img src="/img/cd.png"> Nagham Al-Ams Vol.2 - Bayati Chouri</span>
                                 </div>
                             </label>
@@ -71,10 +71,10 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Hibbi Da‘ani Lil-Wisal</b>
-                                    <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
-                                    <span>Conductor: Aïda Shalhoub Ziadé</span>
-                                    <span>Musique de Sayyed Darwish</span>
-                                    <span><img src="/img/cd.png"> Orientalia: Mouachah and Song series</span>
+                                    <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Liban)</span>
+                                    <span>Chef d'orchestre: Aïda Shalhoub Ziadé</span>
+                                    <span>Musique de Sayyed Darwich</span>
+                                    <span><img src="/img/cd.png"> Orientalia: Mouachah et Chansons</span>
                                 </div>
                             </label>
                         </div>
@@ -87,7 +87,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Munyati Man Rumtu Qurbuh</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Musique de ‘Umar al-Batsh</span>
+                                    <span>Musique de Omar al-Batsh</span>
                                     <span><img src="/img/cd.png"> Nagham Al-Ams Vol.9 - Rast</span>
                                 </div>
                             </label>

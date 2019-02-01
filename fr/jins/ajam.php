@@ -73,7 +73,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Aghadan Alqaka (1971)</b>
-                                    <span>Umm Kulthum</span>
+                                    <span>Oum Koulthoum</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                     <p><img src="/img/cd.png"> Album Name Here</p>
                                 </div>
@@ -88,7 +88,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>el-Buwab (1994)</b>
                                     <span>Fairouz</span>
-                                    <span>Musique de Philemon Wehbe</span>
+                                    <span>Musique de Philémon Wéhbé</span>
                                     <p><img src="/img/cd.png"> Album Name Here</p>
                                 </div>
                             </label>
@@ -114,8 +114,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Lissa Fakir (1963)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Musique de Riyad al-Sunbati</span>
+                                    <span>Oum Koulthoum</span>
+                                    <span>Musique de Riyad al-Soumbati</span>
                                 </div>
                             </label>
                         </div>
@@ -140,7 +140,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Til‘it Ya Mahla Nurha</b>
                                     <span>Mouhammad Abdel Karim</span>
-                                    <span>Music By Sayed Darwish</span>
+                                    <span>Musique de Sayed Darwich</span>
                                 </div>
                             </label>
                         </div>
