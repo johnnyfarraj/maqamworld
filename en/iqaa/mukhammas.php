@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Badri Adir Kas al-Tila</b>
-                                    <span>Abdel Halim Noueirah Ensemble</span>
+                                    <span>Abdel Halim Noueira Ensemble</span>
                                 </div>
                             </label>
                         </div>

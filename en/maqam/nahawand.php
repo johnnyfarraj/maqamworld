@@ -86,7 +86,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Balad el-Mahbub (1951)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab</span>
+                                    <span>Music by Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -163,7 +163,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Nahawand</b>
-                                    <span>Abdel Halim Noueirah Ensemble</span>
+                                    <span>Abdel Halim Noueira Ensemble</span>
                                     <span>Music by Safar ‘Ali</span>
                                 </div>
                             </label>
@@ -202,7 +202,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Longa Nahawand</b>
-                                    <span>Abdel Halim Nuwayra Ensemble</span>
+                                    <span>Abdel Halim Noueira Ensemble</span>
                                     <span>Music by Yorgo Baganos</span>
                                 </div>
                             </label>
