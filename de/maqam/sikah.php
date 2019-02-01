@@ -91,7 +91,7 @@ Stufe und <a href="../jins/rast.php">Jins Rast</a> auf der sechsten Stufe.
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Inti Fakrani (1938)</b>
-                                    <span>Umm Kuthum</span>
+                                    <span>Umm Kulthum</span>
                                     <span>Musik von Muhammad al-Qasabgi</span>
                                 </div>
                             </label>
@@ -104,7 +104,7 @@ Stufe und <a href="../jins/rast.php">Jins Rast</a> auf der sechsten Stufe.
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Ward Gamil (1947)</b>
-                                    <span>Umm Kuthum</span>
+                                    <span>Umm Kulthum</span>
                                     <span>Musik von Zakariyya Ahmad</span>
                                 </div>
                             </label>

@@ -98,7 +98,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Alf Leila w-Leila (1969)</b>
-                                    <span>Umm Kuthum</span>
+                                    <span>Umm Kulthum</span>
                                     <span>Music by Baligh Hamdi</span>
                                 </div>
                             </label>

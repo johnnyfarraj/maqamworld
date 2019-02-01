@@ -140,7 +140,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Ward Gamil (1947)</b>
-                                    <span>Umm Kuthum</span>
+                                    <span>Umm Kulthum</span>
                                     <span>Musik von Zakariyya Ahmad</span>
                                 </div>
                             </label>

@@ -92,7 +92,7 @@ then <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree (whic
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Inti Fakrani (1938)</b>
-                                    <span>Umm Kuthum</span>
+                                    <span>Umm Kulthum</span>
                                     <span>Music by Muhammad al-Qasabgi</span>
                                 </div>
                             </label>
@@ -105,7 +105,7 @@ then <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree (whic
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Ward Gamil (1947)</b>
-                                    <span>Umm Kuthum</span>
+                                    <span>Umm Kulthum</span>
                                     <span>Music by Zakariyya Ahmad</span>
                                 </div>
                             </label>

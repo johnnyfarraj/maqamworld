@@ -73,7 +73,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Faruq Salama Interview</b>
-                                    <span>Interview about Faruq Salama about his experience playing the Arabic Accordion with Umm Kuthum's orchestra</span>
+                                    <span>Interview about Faruq Salama about his experience playing the Arabic Accordion with Umm Kulthum's orchestra</span>
                                 </div>
                             </label>
                         </div>

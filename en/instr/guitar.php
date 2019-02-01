@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Omar Khorshid Interview</b>
-                                    <span>Interview with Omar Khorshid about his experience playing the Electric Guitar with Umm Kuthum's Orchestra</span>
+                                    <span>Interview with Omar Khorshid about his experience playing the Electric Guitar with Umm Kulthum's Orchestra</span>
                                 </div>
                             </label>
                         </div>
