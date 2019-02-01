@@ -67,7 +67,7 @@ include($ROOT . 'inc/head.php');
 				     
                       </map>
                     <p>Maqam Sikah Baladi is arguably the most challenging Arabic maqam.
-                    Its scale (and sayr) is something of a hybrid between a transposition of <a href="huzam.php">Maqam Huzam</a>
+                    Its scale (and sayr) is something of a hybrid between a transposition of <a href="huzam.php">Maqam Houzam</a>
                     to an ordinary non-Sikah note, and <a href="hijazkar.php">Maqam Hijazkar</a> – the intervals
                     are not quite the same as either, but it sounds a bit like both.
                     None of its intervals match either just or equal-tempered intonation, making it impossible to reproduce

@@ -44,19 +44,19 @@ include($ROOT . 'inc/head.php');
                     <!-- TODO we need to format this list in a nice way -->
                     <ul>
                         <li><a href="rast.php">Maqam Rast</a></li>
-                        <li><a href="kirdan.php">Maqam Kirdan</a></li>
+                        <li><a href="kirdan.php">Maqam Kirdane</a></li>
                         <li><a href="kirdan.php">Maqam Sazkar</a></li>
                         <li><a href="suznak.php">Maqam Suznak</a></li>
                         <li><a href="nairuz.php">Maqam Nairuz</a></li>
                         <li><a href="nairuz.php">Maqam Yakah</a></li>
                         <li><a href="dalanshin.php">Maqam Dalanchine</a></li>
                         <li><a href="suzdalara.php">Maqam Suzdalara</a></li>
-                        <li><a href="mahur.php">Maqam Mahur</a></li>
+                        <li><a href="mahur.php">Maqam Mahour</a></li>
                     </ul>
 
                     <p>Other <em>maqam</em> families:</p>
                     <ul>
-                        <li><a href="f_ajam.php">Maqam ‘Ajam Family</a></li>
+                        <li><a href="f_ajam.php">Famille du Maqam ‘Ajam</a></li>
                         <li><a href="f_bayati.php">Famille du Maqam Bayati</a></li>
                         <li><a href="f_hijaz.php">Famille du Maqam Hijaz</a></li>
                         <li><a href="f_kurd.php">Famille du Maqam Kurd</a></li>

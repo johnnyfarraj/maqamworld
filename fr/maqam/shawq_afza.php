@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Shawq Afza";
-$page_description = "Maqam Shawq Afza";
+$page_title = "Maqam Chaouq Afza";
+$page_description = "Maqam Chaouq Afza";
 $page_keywords = "arabic, music, arab, world, maqam, jins, shawq afza, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
 $page_language = "fr";
 
@@ -29,14 +29,14 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Shawq Afza</h1>
-                        <h3>A member of the <a href="f_ajam.php">Maqam ‘Ajam Family</a></h3>
+                        <h1>Maqam Chaouq Afza</h1>
+                        <h3>A member of the <a href="f_ajam.php">Famille du Maqam ‘Ajam</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/shawq_afza.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Shawq Afza</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/shawq_afza.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Chaouq Afza</a>
                     </div>
 
                     <div class="notation" id="notation1">
@@ -59,9 +59,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="137,5,263,36" href="../jins/ajam.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="425,5,544,36" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
 					</map>
-                    <p>Maqam Shawq Afza is the most common variant of <a href="ajam.php">Maqam ‘Ajam</a>. Its scale starts with the root <a href="../jins/ajam.php">Jins ‘Ajam</a> on the <em>tonic</em>, while <a href="../jins/hijaz.php">Jins Hijaz</a> on the 5<sup>th</sup> degree is its distinguishing characteristic, as well as a frequent <a href="../jins/saba_dalanshin.php">Jins Saba Dalanchine</a> modulation on the 3<sup>rd</sup>/5<sup>th</sup> degrees.</p>
+                    <p>Maqam Chaouq Afza is the most common variant of <a href="ajam.php">Maqam ‘Ajam</a>. Its scale starts with the root <a href="../jins/ajam.php">Jins ‘Ajam</a> on the <em>tonic</em>, while <a href="../jins/hijaz.php">Jins Hijaz</a> on the 5<sup>th</sup> degree is its distinguishing characteristic, as well as a frequent <a href="../jins/saba_dalanshin.php">Jins Saba Dalanchine</a> modulation on the 3<sup>rd</sup>/5<sup>th</sup> degrees.</p>
 
-                    <p>Explore other maqamat in the <a href="f_ajam.php">Maqam ‘Ajam Family</a>.</p>
+                    <p>Explore other maqamat in the <a href="f_ajam.php">Famille du Maqam ‘Ajam</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

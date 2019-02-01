@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam ‘Ajam Family";
-$page_description = "Maqam ‘Ajam Family";
+$page_title = "Famille du Maqam ‘Ajam";
+$page_description = "Famille du Maqam ‘Ajam";
 $page_keywords = "arabic, music, arab, world, maqam, ajam, family, jins, iqa‘, iqaa, rhythm, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "fr"; // en / ar <!-- YOU MUST PUT THIS
 
@@ -29,7 +29,7 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading text-center jins">
-                        <h1>Maqam ‘Ajam Family</h1>
+                        <h1>Famille du Maqam ‘Ajam</h1>
                         <h3>Les Maqamat qui commencent par <a href="../jins/ajam.php">Jins ‘Ajam</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
@@ -39,13 +39,13 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/ajam.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de ‘Ajam</a>
                     </div>
 
-                    <p>Maqam ‘Ajam Family is made of <em>maqamat</em> that start with <a href="../jins/ajam.php">Jins ‘Ajam</a>.</p>
+                    <p>Famille du Maqam ‘Ajam is made of <em>maqamat</em> that start with <a href="../jins/ajam.php">Jins ‘Ajam</a>.</p>
 
                     <!-- TODO we need to format this list in a nice way -->
                     <ul>
                         <li><a href="ajam.php">Maqam ‘Ajam</a></li>
-                        <li><a href="ajam_ushayran.php">Maqam ‘Ajam ‘Ushayran</a></li>
-                        <li><a href="shawq_afza.php">Maqam Shawq Afza</a></li>
+                        <li><a href="ajam_ushayran.php">Maqam ‘Ajam ‘Ouchayrane</a></li>
+                        <li><a href="shawq_afza.php">Maqam Chaouq Afza</a></li>
                     </ul>
                     
                     <p>Other <em>maqam</em> families:</p>

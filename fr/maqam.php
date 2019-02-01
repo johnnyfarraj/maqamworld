@@ -50,7 +50,7 @@ include($ROOT . 'inc/head.php');
           <p>You can start exploring <em>maqamat</em> by family, or one at a time, by using the Index des Maqamat. </p>
 
           <ul>
-            <li><a href="maqam/f_ajam.php">Maqam ‘Ajam Family</a></li>
+            <li><a href="maqam/f_ajam.php">Famille du Maqam ‘Ajam</a></li>
             <li><a href="maqam/f_bayati.php">Famille du Maqam Bayati</a></li>
             <li><a href="maqam/f_hijaz.php">Famille du Maqam Hijaz</a></li>
             <li><a href="maqam/f_kurd.php">Famille du Maqam Kurd</a></li>

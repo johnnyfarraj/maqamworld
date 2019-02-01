@@ -50,7 +50,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>Other <em>maqam</em> families:</p>
                     <ul>
-                        <li><a href="f_ajam.php">Maqam ‘Ajam Family</a></li>
+                        <li><a href="f_ajam.php">Famille du Maqam ‘Ajam</a></li>
                         <li><a href="f_bayati.php">Famille du Maqam Bayati</a></li>
                         <li><a href="f_hijaz.php">Famille du Maqam Hijaz</a></li>
                         <li><a href="f_kurd.php">Famille du Maqam Kurd</a></li>

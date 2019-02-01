@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="636,46,12" href="#" alt="B4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					</map>
 
-                    <p>Jins Hijaz is a 4-note <em>jins</em>. It is notated here with its tonic on D and its <em>ghammaz</em> on G. The interval between the 2<sup>nd</sup> and 3<sup>rd</sup> degrees is usually played smaller than notated by raising the 2<sup>nd</sup> a little and lowering the 3<sup>rd</sup> a little. Jins Hijaz is the first <em>jins</em> in <a href="../maqam/hijaz.php">Maqam Hijaz</a>, <a href="../maqam/hijazkar.php">Maqam Hijazkar</a>, and <a href="../maqam/zanjaran.php">Maqam Zanjaran</a>.
+                    <p>Jins Hijaz is a 4-note <em>jins</em>. It is notated here with its tonic on D and its <em>ghammaz</em> on G. The interval between the 2<sup>nd</sup> and 3<sup>rd</sup> degrees is usually played smaller than notated by raising the 2<sup>nd</sup> a little and lowering the 3<sup>rd</sup> a little. Jins Hijaz is the first <em>jins</em> in <a href="../maqam/hijaz.php">Maqam Hijaz</a>, <a href="../maqam/hijazkar.php">Maqam Hijazkar</a>, and <a href="../maqam/zanjaran.php">Maqam Zanjarane</a>.
                     </p>
 
                     <div class="player-area">

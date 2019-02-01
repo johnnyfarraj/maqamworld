@@ -30,9 +30,9 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Hijazkar</h1>
-                        <h1>Maqam Shadd ‘Araban</h1>
+                        <h1>Maqam Chadd ‘Arabane</h1>
                         <h1>Maqam Suzidil</h1>
-                        <h1>Maqam Shahnaz</h1>
+                        <h1>Maqam Chahnaz</h1>
                         <h3>A member of the <a href="f_hijaz.php">Famille du Maqam Hijaz</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
@@ -42,10 +42,10 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/hijazkar.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Hijazkar</a>
                     </div>
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/shadd_araban.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Shadd ‘Araban</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/shadd_araban.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Chadd ‘Arabane</a>
                     </div>
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/shahnaz.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Shahnaz</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/shahnaz.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Chahnaz</a>
                     </div>
                     <div class="text-center mt-2 mb-3">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/suzidil.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Suzidil</a>
@@ -79,9 +79,9 @@ include($ROOT . 'inc/head.php');
 					<p>For historic reasons, 3 of this maqam's transpositions have different names (and used to have a different sayr a long time ago):
 					</p>
 					<p>
-					<li><strong>Maqam Shadd ‘Araban</strong> (Hijazkar on low G)</li>
+					<li><strong>Maqam Chadd ‘Arabane</strong> (Hijazkar on low G)</li>
 					<li><strong>Maqam Suzidil</strong> (Hijazkar on low A)</li>
-					<li><strong>Maqam Shahnaz</strong> (Hijazkar on D)</li>
+					<li><strong>Maqam Chahnaz</strong> (Hijazkar on D)</li>
 					</p>
 
                     <p>Explore other maqamat in the <a href="f_hijaz.php">Famille du Maqam Hijaz</a>.</p>
@@ -216,7 +216,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ba‘attilak Ya Habib el-Rouh</b>
-                                    <span>(Maqam Shadd ‘Araban)</span>
+                                    <span>(Maqam Chadd ‘Arabane)</span>
                                     <span>Fairouz</span>
                                     <span>Musique de Ziad Rahbani</span>
                                 </div>
@@ -229,7 +229,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Shadd ‘Araban</b>
+                                    <b>Sama‘i Chadd ‘Arabane</b>
                                     <span>‘Umar Sarmini Ensemble</span>
                                     <span>Musique de Tanburi Cemil Bey</span>
                                 </div>

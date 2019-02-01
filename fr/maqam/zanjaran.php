@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Zanjaran";
-$page_description = "Maqam Zanjaran";
+$page_title = "Maqam Zanjarane";
+$page_description = "Maqam Zanjarane";
 $page_keywords = "arabic, music, arab, world, maqam, jins, zanjaran, hijaz, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
 $page_language = "fr";
 
@@ -29,14 +29,14 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Zanjaran</h1>
+                        <h1>Maqam Zanjarane</h1>
                         <h3>A member of the <a href="f_hijaz.php">Famille du Maqam Hijaz</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/zanjaran.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Zanjaran</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/zanjaran.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Zanjarane</a>
                     </div>
 
 
@@ -62,7 +62,7 @@ include($ROOT . 'inc/head.php');
 
 
 					</map>
-                    <p>Maqam Zanjaran is a variant of <a href="hijaz.php">Maqam Hijaz</a> with <a href="../jins/ajam.php">Jins ‘Ajam</a> as the second jins (on the 4<sup>th</sup> degree) and the root <a href="../jins/hijaz.php">Jins Hijaz</a> on the <em>tonic</em>. </p>
+                    <p>Maqam Zanjarane is a variant of <a href="hijaz.php">Maqam Hijaz</a> with <a href="../jins/ajam.php">Jins ‘Ajam</a> as the second jins (on the 4<sup>th</sup> degree) and the root <a href="../jins/hijaz.php">Jins Hijaz</a> on the <em>tonic</em>. </p>
 
                     <p>Explore other maqamat in the <a href="f_hijaz.php">Famille du Maqam Hijaz</a>.</p>
 
@@ -115,7 +115,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Layali Zanjaran</b>
+                                    <b>Layali Zanjarane</b>
                                     <span>Ahmad Khabbari</span>
                                     <span>Al-Turath Ensemble</span>
                                     <span><img src="/img/cd.png"> The Music In Spanish Al-Andalus - Hijaz</span>
@@ -129,7 +129,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Semiramis (Taqsim Oud Zanjaran)</b>
+                                    <b>Semiramis (Taqsim Oud Zanjarane)</b>
                                     <span>‘Amer ‘Ammuri</span>
                                     <span><img src="/img/cd.png"> Takasim Oud</span>
                                 </div>
@@ -142,7 +142,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Qanun Zanjaran</b>
+                                    <b>Taqsim Qanun Zanjarane</b>
                                     <span>Abraham Salman</span>
                                     <span><img src="/img/cd.png"> Saltanah</span>
                                 </div>
@@ -155,7 +155,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Buzuq Zanjaran</b>
+                                    <b>Taqsim Buzuq Zanjarane</b>
                                     <span>Mouhammad Abdel Karim</span>
                                 </div>
                             </label>

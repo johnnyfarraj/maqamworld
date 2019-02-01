@@ -6,6 +6,8 @@
     <li><a href="/fr/jins/ajam_murassaa.php">‘Ajam Mourassa‘</a></li>
     <li><a href="/fr/jins/athar_kurd.php">Athar Kurd</a></li>
     <li><a href="/fr/jins/bayati.php">Bayati</a></li>
+    <li><a href="/fr/jins/upper_ajam.php">Haut ‘Ajam</a></li>
+    <li><a href="/fr/jins/upper_rast.php">Haut Rast</a></li>
     <li><a href="/fr/jins/hijaz.php">Hijaz</a></li>
     <li><a href="/fr/jins/hijaz_murassaa.php">Hijaz Mourassa‘</a></li>
     <li><a href="/fr/jins/hijazkar.php">Hijazkar</a></li>
@@ -24,6 +26,4 @@
     <li><a href="/fr/jins/sazkar.php">Sazkar</a></li>
     <li><a href="/fr/jins/sikah.php">Sikah</a></li>
     <li><a href="/fr/jins/sikah_baladi.php">Sikah Baladi</a></li>
-    <li><a href="/fr/jins/upper_ajam.php">Haut ‘Ajam</a></li>
-    <li><a href="/fr/jins/upper_rast.php">Haut Rast</a></li>
 </ul>

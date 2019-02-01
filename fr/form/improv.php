@@ -203,7 +203,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Qoul Lil-Maliha</b>
-                                <span>Qassida <strong>Qoul Lil-Maliha</strong> en <a href="../maqam/huzam.php">Maqam Huzam</a>, une des pièces-emblèmes du chanteur aleppin Sabah Fakhri.</span>
+                                <span>Qassida <strong>Qoul Lil-Maliha</strong> en <a href="../maqam/huzam.php">Maqam Houzam</a>, une des pièces-emblèmes du chanteur aleppin Sabah Fakhri.</span>
                                 </div>
                             </label>
                         </div>

@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Mahur";
-$page_description = "Maqam Mahur";
+$page_title = "Maqam Mahour";
+$page_description = "Maqam Mahour";
 $page_keywords = "arabic, music, arab, world, maqam, jins, mahur, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
 $page_language = "fr";
 
@@ -29,14 +29,14 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Mahur</h1>
+                        <h1>Maqam Mahour</h1>
                         <h3>A member of the <a href="f_rast.php">Famille du Maqam Rast</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mahur.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Mahur</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mahur.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Mahour</a>
                     </div>
 
 
@@ -61,7 +61,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="394,5,500,35" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Maqam Mahur starts with the root <a href="../jins/rast.php">Jins Rast</a> on the <em>tonic</em>, followed by <a href="../jins/upper_ajam.php">Jins Haut ‘Ajam</a> on the 5<sup>th</sup> degree (with its tonic up on the 8<sup>th</sup> degree).</p>
+                    <p>Maqam Mahour starts with the root <a href="../jins/rast.php">Jins Rast</a> on the <em>tonic</em>, followed by <a href="../jins/upper_ajam.php">Jins Haut ‘Ajam</a> on the 5<sup>th</sup> degree (with its tonic up on the 8<sup>th</sup> degree).</p>
 
                     <p>Explore other maqamat in the <a href="f_rast.php">Famille du Maqam Rast</a>.</p>
 

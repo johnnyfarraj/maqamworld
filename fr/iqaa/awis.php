@@ -59,7 +59,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Mouachah Hibbi Da‘ani Lil-Wisal</b>
                                     <span>Sabah Fakhri</span>
                                     <span>Musique de Sayyed Darwish</span>
-                                    <span><img src="/img/cd.png"> Nagham Al-Ams Vol.2 - Bayati Shuri</span>
+                                    <span><img src="/img/cd.png"> Nagham Al-Ams Vol.2 - Bayati Chouri</span>
                                 </div>
                             </label>
                         </div>

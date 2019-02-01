@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Kirdan/Maqam Sazkar";
-$page_description = "Maqam Kirdan/Maqam Sazkar";
+$page_title = "Maqam Kirdane/Maqam Sazkar";
+$page_description = "Maqam Kirdane/Maqam Sazkar";
 $page_keywords = "arabic, music, arab, world, maqam kirdan, maqam sazkar, jins, kirdan, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
 $page_language = "fr";
 
@@ -29,7 +29,7 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Kirdan</h1>
+                        <h1>Maqam Kirdane</h1>
                         <h1>Maqam Sazkar</h1>
                         <h3>A member of the <a href="f_rast.php">Famille du Maqam Rast</a></h3>
                     </div>
@@ -37,7 +37,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/kirdan.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Kirdan</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/kirdan.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Kirdane</a>
                     </div>
                     <div class="text-center mt-2 mb-3">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/sazkar.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Sazkar</a>
@@ -67,9 +67,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="400,173,528,202" href="../jins/sazkar.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Maqam Kirdan is a version of <a href="rast.php">Maqam Rast</a> whose sayr starts on the octave and eventually descends to the tonic. Its scale starts at the bottom with the root <a href="../jins/rast.php">Jins Rast</a> on the tonic, followed by <a href="../jins/upper_rast.php">Jins Haut Rast</a> on the 5<sup>th</sup> degree (with its tonic up on the 8<sup>th</sup> degree).
+                    <p>Maqam Kirdane is a version of <a href="rast.php">Maqam Rast</a> whose sayr starts on the octave and eventually descends to the tonic. Its scale starts at the bottom with the root <a href="../jins/rast.php">Jins Rast</a> on the tonic, followed by <a href="../jins/upper_rast.php">Jins Haut Rast</a> on the 5<sup>th</sup> degree (with its tonic up on the 8<sup>th</sup> degree).
                     </p>
-                    <p><strong>Maqam Sazkar</strong> is nearly identical to Maqam Kirdan, except for the prominence of the raised 2<sup>nd</sup> degree that occurs in some melodic passages, which results in <a href="../jins/sazkar.php">Jins Sazkar</a> on the tonic.</p>
+                    <p><strong>Maqam Sazkar</strong> is nearly identical to Maqam Kirdane, except for the prominence of the raised 2<sup>nd</sup> degree that occurs in some melodic passages, which results in <a href="../jins/sazkar.php">Jins Sazkar</a> on the tonic.</p>
 
                     <p>Explore other maqamat in the <a href="f_rast.php">Famille du Maqam Rast</a>.</p>
 

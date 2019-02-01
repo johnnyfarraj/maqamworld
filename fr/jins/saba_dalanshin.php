@@ -58,7 +58,7 @@ include($ROOT . 'inc/head.php');
 					</map>
                     <p>Jins Saba Dalanchine is a special case of <a href="saba.php">Jins Saba</a> which has no <em>ghammaz</em>, and therefore no defined size. Its melody is centered around its tonic, notated here on C. The intervals above the tonic are more or less identical to <a href="hijaz.php">Jins Hijaz</a>. The note that is 2 degrees below the tonic (in this case A) is a secondary tonic.</p>
 
-                    <p>Jins Saba Dalanchine occurs on the octave of <a href="../maqam/rast.php">Maqam Rast</a>, which in this case becomes known as <a href="../maqam/dalanshin.php">Maqam Dalanchine</a>. It also occurs on the 5<sup>th</sup> degree of <a href="../maqam/shawq_afza.php">Maqam Shawq Afza</a>.</p>
+                    <p>Jins Saba Dalanchine occurs on the octave of <a href="../maqam/rast.php">Maqam Rast</a>, which in this case becomes known as <a href="../maqam/dalanshin.php">Maqam Dalanchine</a>. It also occurs on the 5<sup>th</sup> degree of <a href="../maqam/shawq_afza.php">Maqam Chaouq Afza</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

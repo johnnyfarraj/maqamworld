@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Bayati Shuri";
-$page_description = "Maqam Bayati Shuri";
+$page_title = "Maqam Bayati Chouri";
+$page_description = "Maqam Bayati Chouri";
 $page_keywords = "arabic, music, arab, world, maqam, jins, bayati shuri, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
 $page_language = "fr";
 
@@ -29,14 +29,14 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Bayati Shuri</h1>
+                        <h1>Maqam Bayati Chouri</h1>
                         <h3>A member of the <a href="f_bayati.php">Famille du Maqam Bayati</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/bayati_shuri.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Bayati Shuri</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/bayati_shuri.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Bayati Chouri</a>
                     </div>
 
 
@@ -62,7 +62,7 @@ include($ROOT . 'inc/head.php');
 
 					</map>
 
-                    <p>Maqam Bayati Shuri is a variation of <a href="bayati.php">Maqam Bayati</a> with a lowered 5<sup>th</sup> degree. It starts with the root <a href="../jins/bayati.php">Jins Bayati</a> on the <em>tonic</em> followed by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 4<sup>th</sup> degree.</p>
+                    <p>Maqam Bayati Chouri is a variation of <a href="bayati.php">Maqam Bayati</a> with a lowered 5<sup>th</sup> degree. It starts with the root <a href="../jins/bayati.php">Jins Bayati</a> on the <em>tonic</em> followed by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 4<sup>th</sup> degree.</p>
                     <p>It is a very popular maqam in its own right, especially in the Mouachahat and Adwar vocal compositions.</p>
                     <p>Explore other maqamat in the <a href="f_bayati.php">Famille du Maqam Bayati</a>.</p>
 
@@ -77,8 +77,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Sama‘i Bayati Shuri</b>
-                                    <span>Nagham al-Ams Vol. 2 (Bayati Shuri)</span>
+                                    <b>Sama‘i Bayati Chouri</b>
+                                    <span>Nagham al-Ams Vol. 2 (Bayati Chouri)</span>
                                 </div>
                             </label>
                         </div>
@@ -89,8 +89,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Violin in Maqam Bayati Shuri</b>
-                                    <span>Nagham al-Ams Vol. 2 (Bayati Shuri)</span>
+                                    <b>Taqsim Violin in Maqam Bayati Chouri</b>
+                                    <span>Nagham al-Ams Vol. 2 (Bayati Chouri)</span>
                                 </div>
                             </label>
                         </div>
@@ -104,7 +104,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Mouachah Hibbi Da‘ani Lil-Wisal</b>
                                     <span>Sabah Fakhri</span>
                                     <span>Musique de Sayyed Darwish</span>
-                                    <span>Nagham al-Ams Vol. 2 (Bayati Shuri)</span>
+                                    <span>Nagham al-Ams Vol. 2 (Bayati Chouri)</span>
                                 </div>
                             </label>
                         </div>
@@ -117,7 +117,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Talaffata al-Dhabiyu</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Nagham al-Ams Vol. 2 (Bayati Shuri)</span>
+                                    <span>Nagham al-Ams Vol. 2 (Bayati Chouri)</span>
                                 </div>
                             </label>
                         </div>
@@ -164,9 +164,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Qanun in Maqam Bayati Shuri</b>
+                                    <b>Taqsim Qanun in Maqam Bayati Chouri</b>
                                     <span>Marie Jubran</span>
-                                    <span>Wasla in Bayati Shuri</span>
+                                    <span>Wasla in Bayati Chouri</span>
                                 </div>
                             </label>
                         </div>

@@ -44,13 +44,13 @@ include($ROOT . 'inc/head.php');
                     <!-- TODO we need to format this list in a nice way -->
                     <ul>
                         <li><a href="bayati.php">Maqam Bayati</a></li>
-                        <li><a href="bayati_shuri.php">Maqam Bayati Shuri</a></li>
-                        <li><a href="husayni.php">Maqam Husayni</a></li>
+                        <li><a href="bayati_shuri.php">Maqam Bayati Chouri</a></li>
+                        <li><a href="husayni.php">Maqam Houssayni</a></li>
                     </ul>
 
                     <p>Other <em>maqam</em> families:</p>
                     <ul>
-                        <li><a href="f_ajam.php">Maqam ‘Ajam Family</a></li>
+                        <li><a href="f_ajam.php">Famille du Maqam ‘Ajam</a></li>
                         <li><a href="f_hijaz.php">Famille du Maqam Hijaz</a></li>
                         <li><a href="f_kurd.php">Famille du Maqam Kurd</a></li>
                         <li><a href="f_nahawand.php">Famille du Maqam Nahawand</a></li>

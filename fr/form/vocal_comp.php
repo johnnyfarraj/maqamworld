@@ -149,7 +149,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Dawr Inta Fahem</b>
-                                    <span>Sou'ad Mouhammad (Liban) interprète le D<strong>Dawr Inta Fahem</strong> dans le <a href="../maqam/huzam.php">Maqam Huzam</a>, composé par Zakaria Ahmad.</span>
+                                    <span>Sou'ad Mouhammad (Liban) interprète le D<strong>Dawr Inta Fahem</strong> dans le <a href="../maqam/huzam.php">Maqam Houzam</a>, composé par Zakaria Ahmad.</span>
                                 </div>
                             </label>
                         </div>
@@ -182,7 +182,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Dawr Dayya‘ti Moustaqbal Hayati (1914)</b>
-                                    <span>Sabah Fakhri interprète le <strong>Dawr Dayya'ti Moustaqbal Hayati</strong> en <a href="../maqam/bayati_shuri.php">Maqam Bayati Shuri</a> (1914, musique de Sayyed Darwish).</span>
+                                    <span>Sabah Fakhri interprète le <strong>Dawr Dayya'ti Moustaqbal Hayati</strong> en <a href="../maqam/bayati_shuri.php">Maqam Bayati Chouri</a> (1914, musique de Sayyed Darwish).</span>
                                 </div>
                             </label>
                         </div>

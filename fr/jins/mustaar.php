@@ -148,7 +148,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Taqsim Qanun in Maqam Sikah</b>
                                     <span>‘Imad Mulki</span>
                                     <span>Al-Turath Ensemble</span>
-                                    <span><img src="/img/cd.png"> Gardens of Jasmin - Maqam Huzam</span>
+                                    <span><img src="/img/cd.png"> Gardens of Jasmin - Maqam Houzam</span>
                                 </div>
                             </label>
                         </div>

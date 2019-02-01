@@ -63,12 +63,12 @@ include($ROOT . 'inc/head.php');
                                 <!-- Header Cell: "4-note" -->
                                 <ul class="page-list">
                                    <li><a href="jins/bayati.php">Jins Bayati</a></li>
+                                   <li><a href="jins/upper_ajam.php">Jins Haut ‘Ajam</a></li>
+                                   <li><a href="jins/upper_rast.php">Jins Haut Rast</a></li>
                                    <li><a href="jins/hijaz.php">Jins Hijaz</a></li>
                                    <li><a href="jins/hijaz_murassaa.php">Jins Hijaz Mourassa‘</a></li>
                                    <li><a href="jins/kurd.php">Jins Kurd</a></li>
                                    <li><a href="jins/lami.php">Jins Lami</a></li>
-                                   <li><a href="jins/upper_ajam.php">Jins Haut ‘Ajam</a></li>
-                                   <li><a href="jins/upper_rast.php">Jins Haut Rast</a></li>
                                 </ul>
                             </div>
                             <div class="col-sm-3">

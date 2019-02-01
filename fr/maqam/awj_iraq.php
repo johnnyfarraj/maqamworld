@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="615,7,745,37" href="../jins/sikah.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Maqam Awj ‘Iraq is a version of <a href="huzam.php">Maqam Rahat al-Arwah/Maqam Huzam</a> and <a href="iraq.php">Maqam ‘Iraq</a> whose sayr starts at the octave tonic and descends to the tonic – though it shares most of the same ajnas as <a href="huzam.php">Maqam Huzam</a>.</p>
+                    <p>Maqam Awj ‘Iraq is a version of <a href="huzam.php">Maqam Rahat al-Arwah/Maqam Houzam</a> and <a href="iraq.php">Maqam ‘Iraq</a> whose sayr starts at the octave tonic and descends to the tonic – though it shares most of the same ajnas as <a href="huzam.php">Maqam Houzam</a>.</p>
                     <p>The Maqam Awj ‘Iraq scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the <em>tonic</em>, then <a href="../jins/hijaz.php">Jins Hijaz</a> on the 3<sup>rd</sup> degree followed by another <a href="../jins/sikah.php">Jins Sikah</a> on the 8<sup>th</sup> degree.
                     </p>
 

@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Huzam/Rahat al-Arwah";
-$page_description = "Maqam Huzam/Rahat al-Arwah";
+$page_title = "Maqam Houzam/Rahat al-Arwah";
+$page_description = "Maqam Houzam/Rahat al-Arwah";
 $page_keywords = "arabic, music, arab, world, maqam, jins, sikah, huzam, rahat al-arwah, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
 $page_language = "fr";
 
@@ -29,7 +29,7 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Huzam</h1>
+                        <h1>Maqam Houzam</h1>
                         <h1>Maqam Rahat al-Arwah</h1>
                         <h3>A member of the <a href="f_sikah.php">Famille du Maqam Sikah</a></h3>
                     </div>
@@ -37,7 +37,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/huzam.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Huzam</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/huzam.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Houzam</a>
                     </div>
                     <div class="text-center mt-2 mb-3">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/rahat_al_arwah`.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Rahat al-Arwah</a>
@@ -66,9 +66,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="484,7,591,35" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <p>Maqam Huzam is by far the most common maqam in the Sikah family, and starts on E<i class="icon-halfflat"></i>. Its scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the <em>tonic</em>, followed by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 4<sup>th</sup> degree then <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree.</p>
+                    <p>Maqam Houzam is by far the most common maqam in the Sikah family, and starts on E<i class="icon-halfflat"></i>. Its scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the <em>tonic</em>, followed by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 4<sup>th</sup> degree then <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree.</p>
 
-                    <p>The transposition of Maqam Huzam to B<i class="icon-halfflat"></i> has its own name: <strong>Maqam Rahat al-Arwah</strong>. Both maqamat have exactly the same sayr.</p>
+                    <p>The transposition of Maqam Houzam to B<i class="icon-halfflat"></i> has its own name: <strong>Maqam Rahat al-Arwah</strong>. Both maqamat have exactly the same sayr.</p>
 
                     <p>Explore other maqamat in the <a href="f_sikah.php">Famille du Maqam Sikah</a>.</p>
 
@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Mouachah Ya Ghusna Naqa</b>
-                                    <span>(Maqam Huzam)</span>
+                                    <span>(Maqam Houzam)</span>
                                     <span>Firqat al-Musiqa al-Arabiyya, Egypt</span>
                                 </div>
                             </label>
@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Mouachah Ayyuha al-Saqi</b>
                                     <span>Sabah Fakhri</span>
                                     <span>Musique de Majdi al-‘Aqili</span>
-                                    <span>Nagham Al Ams Vol. 13 Huzam</span>
+                                    <span>Nagham Al Ams Vol. 13 Houzam</span>
                                 </div>
                             </label>
                         </div>
