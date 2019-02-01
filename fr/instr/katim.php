@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "The Katim";
 $page_description = "The Katim";
 $page_keywords = "arabe, musique, instruments, accordéon, buzuq, daff, mazhar, guitare électrique, katim, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
-$page_language = "fr"; // YOU MUST PUT THIS
+$page_language = "fr";
 
 include($ROOT . 'inc/head.php');
 ?>

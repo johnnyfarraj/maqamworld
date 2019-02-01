@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Formes Composées Instrumentales";
 $page_description = "Formes Composées Instrumentales";
 $page_keywords = "musique, arabe, formes, qawaleb, Le Doulab, La Maqtoua, La Mouqaddima, La Tahmila, Le Darej";
-$page_language = "fr"; // YOU MUST PUT THIS
+$page_language = "fr";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -167,7 +167,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Fi Youm wi Leila (1978)</b>
-                                    <span>L'introduction de la longue chanson <strong>Fi Youm wi Leila</strong> (1978) de Warda, composée par Muhammad Abdel Wahab.
+                                    <span>L'introduction de la longue chanson <strong>Fi Youm wi Leila</strong> (1978) de Warda, composée par Mouhammad Abdel Wahab.
                                     </span>
                                 </div>
                             </label>

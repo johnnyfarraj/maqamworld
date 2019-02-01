@@ -23,31 +23,31 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Maqam Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
                         <h1>Maqam Nahawand</h1>
-                        <h3>The principal maqam in the <a href="f_nahawand.php">Maqam Nahawand Family</a></h3>
+                        <h3>The principal maqam in the <a href="f_nahawand.php">Famille du Maqam Nahawand</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Maqam Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/nahawand.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Nahawand</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/nahawand.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Nahawand</a>
                     </div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/farahfaza.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Farahfaza</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/farahfaza.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Farahfaza</a>
                     </div>
 
                      <div class="notation" id="notation1">
                         <img src="/note/maqam/nahawand.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
+                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
                     </div>
 
                     <map name="notemap">
@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                     </p>
                     <p><strong>Maqam Farahfaza</strong> is Maqam Nahawand transposed to a tonic of G. </p>
 
-                    <p>Explore other maqamat in the <a href="f_nahawand.php">Maqam Nahawand Family</a>.</p>
+                    <p>Explore other maqamat in the <a href="f_nahawand.php">Famille du Maqam Nahawand</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -86,7 +86,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Balad el-Mahbub (1951)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab</span>
+                                    <span>Interprétation et Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Alf Leila w-Leila (1969)</b>
                                     <span>Umm Kuthum</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <span>Musique de Baligh Hamdi</span>
                                 </div>
                             </label>
                         </div>
@@ -111,7 +111,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dhikrayati (1944)</b>
-                                    <span>Music by Muhammad al-Qasabgi</span>
+                                    <span>Musique de Mouhammad al-Qasabgi</span>
                                 </div>
                             </label>
                         </div>
@@ -124,7 +124,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Hat Isqiniha</b>
                                     <span>Hassan al-Haffar</span>
-                                    <span>Music by Yehya al-Sa‘udi</span>
+                                    <span>Musique de Yehya al-Sa‘udi</span>
                                     <span><img src="/img/cd.png"> The Aleppo Suites</span>
                                 </div>
                             </label>
@@ -138,7 +138,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Ramani Bi Sahmi Hawahu</b>
                                     <span>Khaled al-Hafez</span>
-                                    <span>Music by Dawud Husni</span>
+                                    <span>Musique de Dawud Husni</span>
                                 </div>
                             </label>
                         </div>
@@ -151,7 +151,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Sama‘i Nahawand</b>
                                     <span>Simon Shaheen Ensemble</span>
-                                    <span>Music by Mesut Cemil (Turkey)</span>
+                                    <span>Musique de Mesut Cemil (Turkey)</span>
                                 </div>
                             </label>
                         </div>
@@ -164,7 +164,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Sama‘i Nahawand</b>
                                     <span>Abdel Halim Noueirah Ensemble</span>
-                                    <span>Music by Safar ‘Ali</span>
+                                    <span>Musique de Safar ‘Ali</span>
                                 </div>
                             </label>
                         </div>
@@ -177,7 +177,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Longa Farahfaza</b>
                                     <span>Simon Shaheen Ensemble</span>
-                                    <span>Music by Riyad al-Sunbati</span>
+                                    <span>Musique de Riyad al-Sunbati</span>
                                 </div>
                             </label>
                         </div>
@@ -190,7 +190,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Longa Nahawand</b>
                                     <span>Anouar Brahem</span>
-                                    <span>Music by Tanburi Cemil Bey</span>
+                                    <span>Musique de Tanburi Cemil Bey</span>
                                 </div>
                             </label>
                         </div>
@@ -203,7 +203,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Longa Nahawand</b>
                                     <span>Abdel Halim Nuwayra Ensemble</span>
-                                    <span>Music by Yorgo Baganos</span>
+                                    <span>Musique de Yorgo Baganos</span>
                                 </div>
                             </label>
                         </div>
@@ -215,7 +215,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dulab Nahawand</b>
-                                    <span>Sheikh Abu el-‘Ila Muhammad</span>
+                                    <span>Sheikh Abu el-‘Ila Mouhammad</span>
                                 </div>
                             </label>
                         </div>

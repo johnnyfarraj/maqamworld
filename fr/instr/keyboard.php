@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Le Synthétiseur Oriental";
 $page_description = "Le Synthétiseur Oriental";
 $page_keywords = "arabe, musique, instruments, accordéon, bouzouk, daff, mazhar, guitare électrique, katem, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
-$page_language = "fr"; // YOU MUST PUT THIS
+$page_language = "fr";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -66,7 +66,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Aw‘idak</b>
-                                    <span>The National Arab Orchestra (U.S.A.) performing Su‘ad Muhammad's song <strong>Aw‘idak</strong> in an arrangement that includes the Oriental Keyboard and the Electric Guitar alongside traditional Arabic instruments.</span>
+                                    <span>The National Arab Orchestra (U.S.A.) performing Su‘ad Mouhammad's song <strong>Aw‘idak</strong> in an arrangement that includes the Oriental Keyboard and the Electric Guitar alongside traditional Arabic instruments.</span>
                                 </div>
                             </label>
                         </div>

@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Jins Hijazkar";
 $page_description = "Jins Hijazkar";
-$page_keywords = "arabic, music, arab, world, maqam, jins, hijazkar, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "musique arabe, maqam, instruments, jins hijazkar, jins hijaz kar, iqa‘, iqaa, rythme, oud, qanoun, nay, quart de ton, tarab";
 $page_language = "fr";
 
 include($ROOT . 'inc/head.php');
@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Jins Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Ajnas</a>
                     <?php include('../sidemenu-jins.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -32,18 +32,18 @@ include($ROOT . 'inc/head.php');
                         <h1>Jins Hijazkar <span class="badge badge-custom">New</span></h1>
                         <h3>(undefined size)</h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Jins Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Ajnas</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/hijazkar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Hijazkar</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/hijazkar.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Hijazkar</a>
                     </div>
 
 
                     <div class="notation" id="notation1">
                         <img src="/note/jins/hijazkar.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
+                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
                     </div>
 
                     <map name="notemap">
@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Halawit el-Dunya</b>
                                     <span>Sayyed Makkawi</span>
-                                    <span>Music by Zakaria Ahmad</span>
+                                    <span>Musique de Zakaria Ahmad</span>
                                 </div>
                             </label>
                         </div>
@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Hibbi Zurni My Tayassar</b>
                                     <span>Karem Mahmud</span>
-                                    <span>Music by Darwish al-Hariri</span>
+                                    <span>Musique de Darwish al-Hariri</span>
                                 </div>
                             </label>
                         </div>
@@ -110,7 +110,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Ramani Bi Sahmi Hawahu</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Music by Daoud Husni</span>
+                                    <span>Musique de Daoud Husni</span>
                                 </div>
                             </label>
                         </div>
@@ -123,7 +123,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr Ya Ma-nta Wahishni</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Music by Muhammad ‘Uthman</span>
+                                    <span>Musique de Mouhammad ‘Uthman</span>
                                 </div>
                             </label>
                         </div>
@@ -136,7 +136,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr Ya Nas Ana Mutt Fi Hubbi</b>
                                     <span>Ghada Shbeir</span>
-                                    <span>Music by Sayyed Darwish</span>
+                                    <span>Musique de Sayyed Darwish</span>
                                 </div>
                             </label>
                         </div>

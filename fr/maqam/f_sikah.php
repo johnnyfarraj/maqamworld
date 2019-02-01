@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Sikah Family";
-$page_description = "Maqam Sikah Family";
+$page_title = "Famille du Maqam Sikah";
+$page_description = "Famille du Maqam Sikah";
 $page_keywords = "arabic, music, arab, world, maqam, sikah, family, jins, iqa‘, iqaa, rhythm, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "fr"; // en / ar <!-- YOU MUST PUT THIS
 
@@ -23,23 +23,23 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Maqam Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading text-center jins">
-                        <h1>Maqam Sikah Family</h1>
-                        <h3>Maqamat that start with <a href="../jins/sikah.php">Jins Sikah</a></h3>
+                        <h1>Famille du Maqam Sikah</h1>
+                        <h3>Les Maqamat qui commencent par <a href="../jins/sikah.php">Jins Sikah</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Maqam Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/sikah.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Sikah</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/sikah.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Sikah</a>
                     </div>
 
-                    <p>Maqam Sikah Family is made of <em>maqamat</em> that start with <a href="../jins/sikah.php">Jins Sikah</a>.</p>
+                    <p>Famille du Maqam Sikah is made of <em>maqamat</em> that start with <a href="../jins/sikah.php">Jins Sikah</a>.</p>
 
                     <!-- TODO we need to format this list in a nice way -->
                     <ul>
@@ -49,18 +49,18 @@ include($ROOT . 'inc/head.php');
                         <li><a href="iraq.php">Maqam ‘Iraq</a></li>
                         <li><a href="awj_iraq.php">Maqam Awj ‘Iraq</a></li>
                         <li><a href="bastanikar.php">Maqam Bastanikar</a></li>
-                        <li><a href="mustaar.php">Maqam Musta‘ar</a></li>
+                        <li><a href="mustaar.php">Maqam Mousta‘ar</a></li>
                     </ul>
 
                     <p>Other <em>maqam</em> families:</p>
                     <ul>
                         <li><a href="f_ajam.php">Maqam ‘Ajam Family</a></li>
-                        <li><a href="f_bayati.php">Maqam Bayati Family</a></li>
-                        <li><a href="f_hijaz.php">Maqam Hijaz Family</a></li>
-                        <li><a href="f_kurd.php">Maqam Kurd Family</a></li>
-                        <li><a href="f_nahawand.php">Maqam Nahawand Family</a></li>
-                        <li><a href="f_nikriz.php">Maqam Nikriz Family</a></li>
-                        <li><a href="f_rast.php">Maqam Rast Family</a></li>
+                        <li><a href="f_bayati.php">Famille du Maqam Bayati</a></li>
+                        <li><a href="f_hijaz.php">Famille du Maqam Hijaz</a></li>
+                        <li><a href="f_kurd.php">Famille du Maqam Kurd</a></li>
+                        <li><a href="f_nahawand.php">Famille du Maqam Nahawand</a></li>
+                        <li><a href="f_nikriz.php">Famille du Maqam Nikriz</a></li>
+                        <li><a href="f_rast.php">Famille du Maqam Rast</a></li>
                     </ul>
 
                 </div>

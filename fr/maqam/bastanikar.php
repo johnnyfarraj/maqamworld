@@ -23,20 +23,20 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Maqam Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
                         <h1>Maqam Bastanikar</h1>
-                        <h3>A member of the <a href="f_sikah.php">Maqam Sikah Family</a></h3>
+                        <h3>A member of the <a href="f_sikah.php">Famille du Maqam Sikah</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Maqam Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/bastanikar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Bastanikar</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/bastanikar.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Bastanikar</a>
                     </div>
 
 
@@ -44,7 +44,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/bastanikar.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
+                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
                     </div>
 
                     <map name="notemap">
@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>Maqam Bastanikar is effectively <a href="../jins/sikah.php">Jins Sikah</a> followed by <a href="saba.php">Maqam Saba</a>. Its scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the <em>tonic</em>, then <a href="../jins/saba.php">Jins Saba</a> on the 3<sup>rd</sup> degree, an overlapping <a href="../jins/hijaz.php">Jins Hijaz</a> on the 5<sup>th</sup> degree, and finally <a href="../jins/nikriz.php">Jins Nikriz</a> on the octave.</p>
 
-                    <p>Explore other maqamat in the <a href="f_sikah.php">Maqam Sikah Family</a>.</p>
+                    <p>Explore other maqamat in the <a href="f_sikah.php">Famille du Maqam Sikah</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Zalamu (1957)</b>
                                     <span>Abdel Halim Hafez</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -98,7 +98,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ahl el-Hawa (1958)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Zakaria Ahmad</span>
+                                    <span>Musique de Zakaria Ahmad</span>
                                 </div>
                             </label>
                         </div>
@@ -111,7 +111,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Inti Fakrani (1938)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music By Muhammad al-Qasabgi</span>
+                                    <span>Music By Mouhammad al-Qasabgi</span>
                                 </div>
                             </label>
                         </div>
@@ -125,7 +125,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Mouachah Anshidi Ya Saba</b>
                                     <span>Palestininan National Arabic Orchestra</span>
                                     <span>Director Ramzi Abu Radwan</span>
-                                    <span>Music by Yehiya al-Sa‘udi</span>‘
+                                    <span>Musique de Yehiya al-Sa‘udi</span>‘
                                 </div>
                             </label>
                         </div>
@@ -138,8 +138,8 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Aqbala al-Subhu Yughanni</b>
                                     <span>Ensemble Ornina (Syria)</span>
-                                    <span>Conductor Dr. Muhammad Qadri Dalal</span>
-                                    <span>Music by Bakri al-Kurdi</span>
+                                    <span>Conductor Dr. Mouhammad Qadri Dalal</span>
+                                    <span>Musique de Bakri al-Kurdi</span>
                                 </div>
                             </label>
                         </div>
@@ -163,7 +163,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Taqsim Oud in Maqam Bastanikar</b>
-                                    <span>Muhammad Qadri Dalal</span>
+                                    <span>Mouhammad Qadri Dalal</span>
                                     <span><img src="/img/cd.png"> Maqamat Insolites</span>
                                 </div>
                             </label>

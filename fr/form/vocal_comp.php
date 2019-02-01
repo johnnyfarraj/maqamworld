@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Formes Vocales Composées";
 $page_description = "Formes Vocales Composées";
 $page_keywords = "musique, arabe, formes, qawaleb, Le Dawr, Le Mouachah, Le Qadd, La Taqtouqa, La Oughnia, La Qassida, Le Monologue, Le Duo, Le Doulab";
-$page_language = "fr"; // YOU MUST PUT THIS
+$page_language = "fr";
 
 include($ROOT . 'inc/head.php');
 ?>

@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Le Piano";
 $page_description = "Le Piano";
 $page_keywords = "arabe, musique, instruments, accordéon, bouzouk, daff, mazhar, guitare électrique, katem, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
-$page_language = "fr"; // YOU MUST PUT THIS
+$page_language = "fr";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -41,7 +41,7 @@ include($ROOT . 'inc/head.php');
                         <span>Lebanese pianist Ziad Rahbani, from a concert poster in the 1980s</span>
                     </div>
 
-                    <p> Although the piano as included in Arabic music since the early 20<sup>th</sup> century, it was used as a Western instrument to add a classical color to Arabic compositions (e.g. in "al-Siba wal-Gamal" by Muhammad Abdel Wahab, 1939). By Arabic Piano, however, we refer to a piano that's played melodically (without harmony) within the Arabic <a href="../maqam.php">maqam</a> framework.
+                    <p> Although the piano as included in Arabic music since the early 20<sup>th</sup> century, it was used as a Western instrument to add a classical color to Arabic compositions (e.g. in "al-Siba wal-Gamal" by Mouhammad Abdel Wahab, 1939). By Arabic Piano, however, we refer to a piano that's played melodically (without harmony) within the Arabic <a href="../maqam.php">maqam</a> framework.
                     </p>
                     <p>The earliest Arabic piano pioneer was the Lebanese Wadih Sabra who played a piano endowed with additional notes (quartertones) during the Cairo Arabic Music Congress of 1932. Later, Lebanese Abdallah Chahine also altered a piano to play quartertones and recorded an album called "al-Nagham al-Khalid" with <a href="../form/improv.php#taqsim">taqasim</a> in the most common <a href="../maqam.php">maqamat</a>.
                     </p>

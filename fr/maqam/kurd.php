@@ -23,20 +23,20 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Maqam Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
                         <h1>Maqam Kurd</h1>
-                        <h3>The principal maqam in the <a href="f_kurd.php">Maqam Kurd Family</a></h3>
+                        <h3>The principal maqam in the <a href="f_kurd.php">Famille du Maqam Kurd</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Maqam Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/kurd.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Kurd</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/kurd.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Kurd</a>
                     </div>
 
 
@@ -44,7 +44,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/kurd.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
+                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
                     </div>
                      <map name="notemap">
 					  <area shape="circle" coords="63,129,13" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1">
@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>Maqam Kurd is the main maqam in the Kurd Family. Its scale starts with the root <a href="../jins/kurd.php">Jins Kurd</a> on the <em>tonic</em>, followed by <a href="../jins/nahawand.php">Jins Nahawand</a> on the 4<sup>th</sup> degree.</p>
 
-                    <p>Explore other maqamat in the <a href="f_kurd.php">Maqam Kurd Family</a>.</p>
+                    <p>Explore other maqamat in the <a href="f_kurd.php">Famille du Maqam Kurd</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -78,7 +78,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>‘Awwedti ‘Ayni (1958)</b>
                                     <span>Umm Kuthum</span>
-                                    <span>Music by Riyad al-Sunbati</span>
+                                    <span>Musique de Riyad al-Sunbati</span>
                                 </div>
                             </label>
                         </div>
@@ -91,7 +91,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Zalimni (1951)</b>
                                     <span>Umm Kuthum</span>
-                                    <span>Music by Riyad al-Sunbati</span>
+                                    <span>Musique de Riyad al-Sunbati</span>
                                 </div>
                             </label>
                         </div>
@@ -117,7 +117,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Yamurru ‘Ujuban</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
+                                    <span>Musique de ‘Umar al-Batsh</span>
                                     <span><img src="/img/cd.png"> Au Palais Des Congrès (1995)</span>
                                 </div>
                             </label>
@@ -131,7 +131,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Ya Bahjet el-Rouh</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Music by Sayyed Darwish</span>
+                                    <span>Musique de Sayyed Darwish</span>
                                     <span><img src="/img/cd.png"> Au Palais Des Congrès (1995)</span>
                                 </div>
                             </label>
@@ -145,7 +145,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mashghul ‘Aleik</b>
                                     <span>Karem Mahmud</span>
-                                    <span>Music by Ahmad Sidqi</span>
+                                    <span>Musique de Ahmad Sidqi</span>
                                 </div>
                             </label>
                         </div>
@@ -158,7 +158,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Sanatein</b>
                                     <span>Leila Mourad</span>
-                                    <span>Music by Ra'uf Dhihni</span>
+                                    <span>Musique de Ra'uf Dhihni</span>
                                 </div>
                             </label>
                         </div>
@@ -195,7 +195,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr ‘Ishiqti Ruhak (1930)</b>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>

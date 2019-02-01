@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "La Guitare Électrique";
 $page_description = "La Guitare Électrique";
 $page_keywords = "arabe, musique, instruments, accordéon, bouzouk, daff, mazhar, guitare électrique, katem, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
-$page_language = "fr"; // YOU MUST PUT THIS
+$page_language = "fr";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -54,7 +54,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Omar Khorshid</b>
-                                    <span>Arabic Electric Guitar pioneer Omar Khorshid plays Umm Kukthum's song <strong>Darit el-Ayyam</strong> (1970, music by Muhammad Abdel Wahab).</span>
+                                    <span>Arabic Electric Guitar pioneer Omar Khorshid plays Umm Kukthum's song <strong>Darit el-Ayyam</strong> (1970, music by Mouhammad Abdel Wahab).</span>
                                 </div>
                             </label>
                         </div>

@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Formes Instrumentales Ottomanes";
 $page_description = "Ottoman Formes Composées Instrumentales";
 $page_keywords = "musique, arabe, formes, qawaleb, Le Sama‘i, La Longa, Le Bachraf";
-$page_language = "fr"; // YOU MUST PUT THIS
+$page_language = "fr";
 
 include($ROOT . 'inc/head.php');
 ?>

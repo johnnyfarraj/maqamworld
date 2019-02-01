@@ -7,7 +7,7 @@ include('../inc/config.php');
 $page_title = "Formes de la musique arabe";
 $page_description = "Formes de la musique arabe";
 $page_keywords = "musique, arabe, formes, qawaleb, Le Dawr, Le Mouachah, Le Qadd, La Taqtouqa, La Oughnia, Le Monologue, Le Duo, Le Doulab, La Maqtoua, La Mouqaddima, La Tahmila, Le Darej, Le Sama‘i, La Longa, Le Bachraf, Le Taqsim, Le Mawwal, Les Layali, La Qassida";
-$page_language = "fr"; // YOU MUST PUT THIS
+$page_language = "fr";
 
 include($ROOT . 'inc/head.php');
 ?>

@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "L'Orgue Électrique";
 $page_description = "L'Orgue Électrique";
 $page_keywords = "arabe, musique, instruments, accordéon, bouzouk, daff, mazhar, guitare électrique, katem, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
-$page_language = "fr"; // YOU MUST PUT THIS
+$page_language = "fr";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -54,7 +54,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Magdi el-Husseini</b>
-                                    <span>Abdel Halim Hafez's song <strong>Qari'at al-Fingan</strong> (1976, music by Muhammad al-Mugi) featuring Egyptian electric organ players Magdi el-Husseini and Hani Mehanna (both part of The Diamond Orchestra).</span>
+                                    <span>Abdel Halim Hafez's song <strong>Qari'at al-Fingan</strong> (1976, music by Mouhammad al-Mugi) featuring Egyptian electric organ players Magdi el-Husseini and Hani Mehanna (both part of The Diamond Orchestra).</span>
                                 </div>
                             </label>
                         </div>
@@ -86,7 +86,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Hani Mehanna Interview</b>
-                                    <span>Interview with Hani Mehanna about his experience meeting composer Muhammad Abdel Wahab and singer Oum Koulthoum and performing the song <strong>Leilet Hobb</strong> with her orchestra.</span>
+                                    <span>Interview with Hani Mehanna about his experience meeting composer Mouhammad Abdel Wahab and singer Oum Koulthoum and performing the song <strong>Leilet Hobb</strong> with her orchestra.</span>
                                 </div>
                             </label>
                         </div>

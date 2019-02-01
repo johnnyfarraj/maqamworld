@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Jins ‘Ajam Murassa‘";
-$page_description = "Jins ‘Ajam Murassa‘";
-$page_keywords = "arabic, music, arab, world, maqam, jins, ajam murassa‘, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_title = "Jins ‘Ajam Mourassa‘";
+$page_description = "Jins ‘Ajam Mourassa‘";
+$page_keywords = "musique arabe, maqam, instruments, jins ‘ajam mourassa‘, jins ajam mourassaa, iqa‘, iqaa, rythme, oud, qanoun, nay, quart de ton, tarab";
 $page_language = "fr";
 
 include($ROOT . 'inc/head.php');
@@ -23,26 +23,26 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Jins Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Ajnas</a>
                     <?php include('../sidemenu-jins.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins ‘Ajam Murassa‘ <span class="badge badge-custom">New</span></h1>
+                        <h1>Jins ‘Ajam Mourassa‘ <span class="badge badge-custom">New</span></h1>
                         <h3>A variation of <a href="ajam.php">Jins ‘Ajam</a> with a raised 4<sup>th</sup></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Jins Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Ajnas</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/ajam_murassaa.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of ‘Ajam Murassa‘</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/ajam_murassaa.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de ‘Ajam Mourassa‘</a>
                     </div>
 
                     <div class="notation" id="notation1">
                         <img src="/note/jins/ajam_murassaa.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
+                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
                     </div>
 
                     <map name="notemap">
@@ -55,7 +55,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="518,37,12" href="#" alt="D5" class="playNote" data-frequency="586.66" data-parent="#notation1">
 					</map>
 
-                    <p>Jins ‘Ajam Murassa‘ is a 5-note jins. It is notated here with its tonic on F and its <em>ghammaz</em> on C. Jins ‘Ajam Murassa‘ is not part of any maqam scale and usually occurs as a modulation from <a href="ajam.php">Jins ‘Ajam</a>.</p>
+                    <p>Jins ‘Ajam Mourassa‘ is a 5-note jins. It is notated here with its tonic on F and its <em>ghammaz</em> on C. Jins ‘Ajam Mourassa‘ is not part of any maqam scale and usually occurs as a modulation from <a href="ajam.php">Jins ‘Ajam</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwshah Kallili Ya Suhbu</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Music by Muhammad ‘Uthman</span>
+                                    <span>Musique de Mouhammad ‘Uthman</span>
                                 </div>
                             </label>
                         </div>
@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Bein Shattein we Mayya</b>
-                                    <span>Muhammad Qandil</span>
+                                    <span>Mouhammad Qandil</span>
                                 </div>
                             </label>
                         </div>
@@ -94,7 +94,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Qassida ‘Umri Fi Hubbihi Inqada</b>
-                                    <span>Muhammad Khayri</span>
+                                    <span>Mouhammad Khayri</span>
                                 </div>
                             </label>
                         </div>
@@ -120,7 +120,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Nibtidi Mnein el-Hikaya (1975)</b>
                                     <span>Abdel Halim Hafez</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -133,7 +133,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Qari'at al-Fingan (1976)</b>
                                     <span>Abdel Halim Hafez</span>
-                                    <span>Music by Muhammad al-Mugi</span>
+                                    <span>Musique de Mouhammad al-Mugi</span>
                                 </div>
                             </label>
                         </div>
@@ -158,7 +158,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Oud Taqsim</b>
-                                    <span>Muhammad Qadri Dalal</span>
+                                    <span>Mouhammad Qadri Dalal</span>
                                 </div>
                             </label>
                         </div>

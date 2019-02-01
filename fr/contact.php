@@ -7,7 +7,7 @@ include('../inc/config.php');
 $page_title = "Contact Maqam World";
 $page_description = "";
 $page_keywords = "musique arabe, maqam, jins, iqa‘, iqaa, rythme, oud, qanoun, nay, quart de ton, tarab";
-$page_language = "fr"; // YOU MUST PUT THIS
+$page_language = "fr";
 
 include($ROOT . 'inc/head.php');
 ?>

@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Jins Musta‘ar";
-$page_description = "Jins Musta‘ar";
-$page_keywords = "arabic, music, arab, world, maqam, jins, mukhalif sharqi, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_title = "Jins Mousta‘ar";
+$page_description = "Jins Mousta‘ar";
+$page_keywords = "musique arabe, maqam, instruments, jins moustaar, jins mousta‘ar, iqa‘, iqaa, rythme, oud, qanoun, nay, quart de ton, tarab";
 $page_language = "fr";
 
 include($ROOT . 'inc/head.php');
@@ -23,26 +23,26 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Jins Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Ajnas</a>
                     <?php include('../sidemenu-jins.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins Musta‘ar</h1>
+                        <h1>Jins Mousta‘ar</h1>
                         <h3>A variation of <a href="sikah.php">Jins Sikah</a> with a raised 2<sup>nd</sup></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Jins Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Ajnas</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mustaar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Musta‘ar</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mustaar.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Mousta‘ar</a>
                     </div>
 
                      <div class="notation" id="notation1">
                         <img src="/note/jins/mustaar.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
+                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
                     </div>
 
                     <map name="notemap">
@@ -54,7 +54,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="449,52,13" href="#" alt="B4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 
 					</map>
-                    <p>Jins Musta‘ar is a 3-note <em>jins</em>. It is notated here with its tonic on E<i class="icon-halfflat"></i> and its <em>ghammaz</em> on G. Jins Musta‘ar is the first <em>jins</em> in <a href="../maqam/mustaar.php">Maqam Musta‘ar</a>.
+                    <p>Jins Mousta‘ar is a 3-note <em>jins</em>. It is notated here with its tonic on E<i class="icon-halfflat"></i> and its <em>ghammaz</em> on G. Jins Mousta‘ar is the first <em>jins</em> in <a href="../maqam/mustaar.php">Maqam Mousta‘ar</a>.
                     </p>
 
                     <div class="player-area">
@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Raqq il-Habib (1944)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad al-Qasabgi</span>
+                                    <span>Musique de Mouhammad al-Qasabgi</span>
                                 </div>
                             </label>
                         </div>
@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Aruh Li Min (1958)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Riyad al-Sunbati</span>
+                                    <span>Musique de Riyad al-Sunbati</span>
                                 </div>
                             </label>
                         </div>
@@ -96,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Habbeit Wala Banshi ‘Alayya (1930)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad al-Qasabgi</span>
+                                    <span>Musique de Mouhammad al-Qasabgi</span>
                                 </div>
                             </label>
                         </div>
@@ -109,7 +109,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Huwwa el-Hobb Li‘ba (10??)</b>
                                     <span>Aziza Galal</span>
-                                    <span>Music by Muhammad al-Mugi</span>
+                                    <span>Musique de Mouhammad al-Mugi</span>
                                 </div>
                             </label>
                         </div>

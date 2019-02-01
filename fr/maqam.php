@@ -7,7 +7,7 @@ include('../inc/config.php');
 $page_title = "Arabic Maqam";
 $page_description = "Arabic Music Maqam Jins";
 $page_keywords = "musique arabe, maqam, instruments, jins, iqa‘, iqaa, rythme, oud, qanoun, nay, quart de ton, tarab";
-$page_language = "fr"; // YOU MUST PUT THIS
+$page_language = "fr";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
     <div class="container">
       <div class="row">
         <div class="col-md-3">
-          <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Maqam Index</a>
+          <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
           <?php include('sidemenu-maqam.php'); ?>
         </div>
         <div class="col-md-9 col-sm-9">
@@ -32,11 +32,11 @@ include($ROOT . 'inc/head.php');
             <h1>The Arabic Maqam</h1>
             <h3>A system of scales, habitual melodic phrases, modulation possibilities, ornamentation norms, and aesthetic conventions</h3>
           </div>
-          <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Maqam Index</a>
+          <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
           <div class="clearfix"></div>
 
           <div class="text-center mt-2 mb-3">
-            <a href="#" class="pronunciation btn btn-default" data-audio="/name/maqam.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Maqam/Maqamat</a>
+            <a href="#" class="pronunciation btn btn-default" data-audio="/name/maqam.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Maqam/Maqamat</a>
           </div>
 
           <p>The Arabic Maqam (plural Maqamat) is a system of scales, habitual melodic phrases, modulation possibilities, ornamentation techniques and aesthetic conventions that together form a rich melodic framework and artistic tradition. The <em>maqam</em>'s melodic course (in both composed or improvised music) within that framework is called <em>sayr</em> in Arabic.</p>
@@ -47,17 +47,17 @@ include($ROOT . 'inc/head.php');
 
           <p>According to tradition, <em>maqamat</em> are classified into families based on sharing the same first (root) <em>jins</em>. The root <em>jins</em> plays the largest role in defining the <em>maqam</em>’s character. The most common <em>maqam</em> in the branch usually shares its name with the root <em>jins</em>. Remaining <em>maqamat</em> in the same family are called branch <em>maqamat</em>, and are based on the use of a different second (upper) <em>jins</em>.</p>
 
-          <p>You can start exploring <em>maqamat</em> by family, or one at a time, by using the Maqam Index. </p>
+          <p>You can start exploring <em>maqamat</em> by family, or one at a time, by using the Index des Maqamat. </p>
 
           <ul>
             <li><a href="maqam/f_ajam.php">Maqam ‘Ajam Family</a></li>
-            <li><a href="maqam/f_bayati.php">Maqam Bayati Family</a></li>
-            <li><a href="maqam/f_hijaz.php">Maqam Hijaz Family</a></li>
-            <li><a href="maqam/f_kurd.php">Maqam Kurd Family</a></li>
-            <li><a href="maqam/f_nahawand.php">Maqam Nahawand Family</a></li>
-            <li><a href="maqam/f_nikriz.php">Maqam Nikriz Family</a></li>
-            <li><a href="maqam/f_rast.php">Maqam Rast Family</a></li>
-            <li><a href="maqam/f_sikah.php">Maqam Sikah Family</a></li>
+            <li><a href="maqam/f_bayati.php">Famille du Maqam Bayati</a></li>
+            <li><a href="maqam/f_hijaz.php">Famille du Maqam Hijaz</a></li>
+            <li><a href="maqam/f_kurd.php">Famille du Maqam Kurd</a></li>
+            <li><a href="maqam/f_nahawand.php">Famille du Maqam Nahawand</a></li>
+            <li><a href="maqam/f_nikriz.php">Famille du Maqam Nikriz</a></li>
+            <li><a href="maqam/f_rast.php">Famille du Maqam Rast</a></li>
+            <li><a href="maqam/f_sikah.php">Famille du Maqam Sikah</a></li>
           </ul>
 
           <p>A few Maqamat do not share their first jins with any others and are therefore not part of a family. These are: </p>

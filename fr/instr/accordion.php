@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <p>
-                        The Accordion came to the Arabic music scene in Egypt in the early 20<em>th</em> century, and was originally used without any alteration to add a foreign flavor to the music (e.g. on "<em>Sahirtu</em>" by Muhammad Abdel Wahab in 1935). Later it was altered to add new notes (the "quartertones") that allowed it to play many more Arabic <a href="../maqam.php">maqam</a> scales with good-enough intonation. </p>
+                        The Accordion came to the Arabic music scene in Egypt in the early 20<em>th</em> century, and was originally used without any alteration to add a foreign flavor to the music (e.g. on "<em>Sahirtu</em>" by Mouhammad Abdel Wahab in 1935). Later it was altered to add new notes (the "quartertones") that allowed it to play many more Arabic <a href="../maqam.php">maqam</a> scales with good-enough intonation. </p>
                     <p>
                         The accordion is extremely popular in the <em>Raqs Sharqi</em> (belly dance) and <em>Sha‘bi</em> genres.
                     </p>

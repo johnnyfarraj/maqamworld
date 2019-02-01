@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "The Riqq";
 $page_description = "The Riqq";
 $page_keywords = "arabe, musique, instruments, accordéon, buzuq, daff, mazhar, guitare électrique, katim, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
-$page_language = "fr"; // YOU MUST PUT THIS
+$page_language = "fr";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -62,7 +62,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Hassan Anwar</b>
-                                <span>Riqq player Hassan Anwar (the official <em>dabet al-iqa‘</em> for the Diamond Orchestra in Egypt) exchanges solos with the org player in Abdel Halim Hafez's song <strong>Qari'at al-Fingan</strong> (1976, music by Muhammad al-Mugi).</span>
+                                <span>Riqq player Hassan Anwar (the official <em>dabet al-iqa‘</em> for the Diamond Orchestra in Egypt) exchanges solos with the org player in Abdel Halim Hafez's song <strong>Qari'at al-Fingan</strong> (1976, music by Mouhammad al-Mugi).</span>
                                 </div>
                             </label>
                         </div>
@@ -77,8 +77,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Muhammad al-‘Arabi</b>
-                                    <span>Egyptian riqq player Muhammad al-‘Arabi performs a Riqq Solo (on a riqq with a plastic head) where he explores many iqa‘at.</span>
+                                    <b>Mouhammad al-‘Arabi</b>
+                                    <span>Egyptian riqq player Mouhammad al-‘Arabi performs a Riqq Solo (on a riqq with a plastic head) where he explores many iqa‘at.</span>
                                 </div>
                             </label>
                         </div>

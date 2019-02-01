@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Maqam Nahawand Murassa‘";
-$page_description = "Maqam Maqam Nahawand Murassa‘";
+$page_title = "Maqam Maqam Nahawand Mourassa‘";
+$page_description = "Maqam Maqam Nahawand Mourassa‘";
 $page_keywords = "arabic, music, arab, world, maqam, jins, nahawand murassaa, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
 $page_language = "fr";
 
@@ -23,20 +23,20 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Maqam Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Nahawand Murassa‘</h1>
-                        <h3>A member of the <a href="f_nahawand.php">Maqam Nahawand Family</a></h3>
+                        <h1>Maqam Nahawand Mourassa‘</h1>
+                        <h3>A member of the <a href="f_nahawand.php">Famille du Maqam Nahawand</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Maqam Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/nahawand_murassaa.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Nahawand Murassa‘</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/nahawand_murassaa.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Nahawand Mourassa‘</a>
                     </div>
 
 
@@ -44,7 +44,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/nahawand_murassaa.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
+                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
                     </div>
 
                     <map name="notemap">
@@ -61,10 +61,10 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="337,141,454,174" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Maqam Nahawand Murassa‘ is is basically <a href="nahawand.php">Maqam Nahawand</a> with a lowered 5<sup>th</sup> scale degree. Its scale starts with <a href="../jins/nahawand_murassaa.php">Jins Nahawand Murassa‘</a> on the <em>tonic</em>, overlapped by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 4<sup>th</sup> degree.
+                    <p>Maqam Nahawand Mourassa‘ is is basically <a href="nahawand.php">Maqam Nahawand</a> with a lowered 5<sup>th</sup> scale degree. Its scale starts with <a href="../jins/nahawand_murassaa.php">Jins Nahawand Mourassa‘</a> on the <em>tonic</em>, overlapped by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 4<sup>th</sup> degree.
                     </p>
 
-                    <p>Explore other maqamat in the <a href="f_nahawand.php">Maqam Nahawand Family</a>.</p>
+                    <p>Explore other maqamat in the <a href="f_nahawand.php">Famille du Maqam Nahawand</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -79,7 +79,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Gari (1958)</b>
                                     <span>Horeyya Hasan</span>
-                                    <span>Music by Muhammad al-Mugi</span>
+                                    <span>Musique de Mouhammad al-Mugi</span>
                                 </div>
                             </label>
                         </div>
@@ -92,7 +92,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Khusara (1957)</b>
                                     <span>Abdel Halim Hafez</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <span>Musique de Baligh Hamdi</span>
                                 </div>
                             </label>
                         </div>
@@ -117,7 +117,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Sama‘i Nahawand</b>
                                     <span>Simon Shaheen</span>
-                                    <span>Music by Mesut Cemil</span>
+                                    <span>Musique de Mesut Cemil</span>
                                 </div>
                             </label>
                         </div>
@@ -141,9 +141,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dulab Nahawand Murassa‘</b>
+                                    <b>Dulab Nahawand Mourassa‘</b>
                                     <span>Zikrayat Ensemble</span>
-                                    <span>Music by Sami Abu Shumays</span>
+                                    <span>Musique de Sami Abu Shumays</span>
                                 </div>
                             </label>
                         </div>

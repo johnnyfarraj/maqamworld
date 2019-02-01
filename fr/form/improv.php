@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Formes Improvisées";
 $page_description = "Formes Improvisées";
 $page_keywords = "musique, arabe, formes, qawaleb, Le Taqsim, Le Mawwal, Les Layali, La Qassida";
-$page_language = "fr"; // YOU MUST PUT THIS
+$page_language = "fr";
 
 include($ROOT . 'inc/head.php');
 ?>
