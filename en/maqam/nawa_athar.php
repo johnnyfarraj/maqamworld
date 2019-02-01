@@ -76,7 +76,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Gulubti Asalih Fi Rouhi (1948)</b>
+                                    <b>Ghulubti Asalih Fi Rouhi (1948)</b>
                                     <span>Umm Kulthum</span>
                                     <span>Music by Riyad al-Sunbati</span>
                                 </div>
