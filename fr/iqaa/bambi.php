@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Taqasim on the Beat</b>
+                                    <b>Taqasim rythmés</b>
                                     <span>Simon Shaheen</span>
                                     <span><img src="/img/cd.png"> Turath: Masterworks of the Middle East</span>
                                 </div>
@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mawwal Ya Man Bunudak Harir</b>
+                                    <b>Mawwal Ya Man Bounoudak Harir</b>
                                     <span>Mouhammad Khayri</span>
                                 </div>
                             </label>
@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Gafnuhu ‘Allam al-Ghazal (1933)</b>
+                                    <b>Gafnouhou ‘Allam al-Ghazal (1933)</b>
                                     <span>Interprétation et Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>

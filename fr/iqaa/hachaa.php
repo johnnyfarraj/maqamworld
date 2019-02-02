@@ -58,7 +58,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Bi-Hamdika Ya Ilahi</b>
-                                    <span>Cheikh Hamza Shakkur &amp; Ensemble Al Kindi</span>
+                                    <span>Cheikh Hamza Chakkour &amp; Ensemble Al-Kindi</span>
                                     <span><img src="/img/cd.png"> Whirling Dervishes of Damascus Vol. 1</span>
                                 </div>
                             </label>
@@ -70,8 +70,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Subhana</b>
-                                    <span>Cheikh Habboush &amp; Ensemble Al Kindi</span>
+                                    <b>Soubhana</b>
+                                    <span>Cheikh Habboush &amp; Ensemble Al-Kindi</span>
                                     <span><img src="/img/cd.png"> Transe Soufie d'Aleppe Vol.2</span>
                                 </div>
                             </label>
@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>il-Albi Yi‘shaq Kulli Gamil (1961)</b>
+                                    <b>il-Albi Yi‘shaq Koulli Gamil (1961)</b>
                                     <span>Oum Koulthoum</span>
                                     <span>Musique de Riyad al-Soumbati</span>
                                 </div>
@@ -143,8 +143,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>‘Al-Maya</b>
-                                    <span>Diyab Mashhur</span>
-                                    <span>(Syrien Folk Song)</span>
+                                    <span>Diyab Machhour</span>
+                                    <span>(Folklore Syrien)</span>
                                 </div>
                             </label>
                         </div>

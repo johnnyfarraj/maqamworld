@@ -10,7 +10,7 @@
     <li><a href="/fr/iqaa/ciftetelli.php">Ciftetelli 8/4</a></li>
     <li><a href="/fr/iqaa/dawr_hindi.php">Dawr Hindi 7/8</a></li>
     <li><a href="/fr/iqaa/dharafat.php">Dharafat 13/8</a></li>
-    <li><a href="/fr/iqaa/fakhit.php">Fakhit 20/4</a></li>
+    <li><a href="/fr/iqaa/fakhit.php">Fakhet 20/4</a></li>
     <li><a href="/fr/iqaa/fallahi.php">Fallahi 2/4</a></li>
     <li><a href="/fr/iqaa/fox.php">Fox 2/4</a></li>
     <li><a href="/fr/iqaa/hachaa.php">Hacha‘ 4/4</a></li>

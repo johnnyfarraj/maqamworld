@@ -55,7 +55,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Sihtu Wajdan</b>
+                                    <b>Mouachah Sihtou Wajdan</b>
                                     <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Liban)</span>
                                     <span>Chef d'orchestre: Aïda Shalhoub Ziadé</span>
                                     <span>Musique de Sayyed Darwich</span>
@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Jadaka al-Gaythu</b>
+                                    <b>Mouachah Jadaka al-Gaythou</b>
                                     <span>Sabah Fakhri</span>
                                     <span>Musique de Majdi al-‘Aqili</span>
                                     <span><img src="/img/cd.png"> Beiteddine Festival Vol I</span>
@@ -85,8 +85,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Jalla Man Qad Sawwarak</b>
-                                    <span>Cheikh Hamza Shakkur</span>
-                                    <span>Ensemble Al Kindi</span>
+                                    <span>Cheikh Hamza Chakkour</span>
+                                    <span>Ensemble Al-Kindi</span>
                                 </div>
                             </label>
                         </div>

@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Ya Dara Duri Fina</b>
+                                    <b>Ya Dara Douri Fina</b>
                                     <span>Fairouz</span>
                                     <span>Musique de Philémon Wéhbé</span>
                                 </div>
@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Darit el-Ayyam (1970)</b>
+                                    <b>Daret el-Ayyam (1970)</b>
                                     <span>Oum Koulthoum</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ya Sahi al-Sabru Waha Minni</b>
+                                    <b>Mouachah Ya Sahi al-Sabrou Waha Minni</b>
                                     <span>Hassan al-Haffar</span>
                                 </div>
                             </label>
@@ -94,9 +94,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ya Sahi al-Sabru Waha Minni</b>
-                                    <span>Cheikh Hamza Shakkur</span>
-                                    <span>Ensemble Al Kindi</span>
+                                    <b>Mouachah Ya Sahi al-Sabrou Waha Minni</b>
+                                    <span>Cheikh Hamza Chakkour</span>
+                                    <span>Ensemble Al-Kindi</span>
                                 </div>
                             </label>
                         </div>
@@ -107,8 +107,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Tulbah (Proposition)</b>
-                                    <span>El-Funoun Ensemble</span>
+                                    <b>Toulbah (Proposition)</b>
+                                    <span>Ensemble El-Founoun</span>
                                     <span><img src="/img/cd.png"> Zaghareed: Music From The Palestinian Holy Land</span>
                                 </div>
                             </label>

@@ -81,6 +81,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Hal ‘Ala al-Astar</b>
                                     <span>Ensemble Morkos</span>
+                                    <span><img src="/img/cd.png"> Cèdre</span>
                                 </div>
                             </label>
                         </div>
@@ -91,7 +92,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Muyati ‘Azza Istibari</b>
+                                    <b>Mouachah Mounyati ‘Azza Istibari</b>
                                     <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Liban)</span>
                                     <span>Chef d'orchestre: Aïda Shalhoub Ziadé</span>
                                     <span>Musique de Sayyed Darwich</span>
@@ -106,7 +107,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ya Tura Ba‘da al-Bi‘adi</b>
+                                    <b>Mouachah Ya Toura Ba‘da al-Bi‘adi</b>
                                     <span>Ensemble Al-Kindi</span>
                                 </div>
                             </label>

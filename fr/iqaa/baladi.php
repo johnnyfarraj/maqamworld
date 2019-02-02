@@ -59,7 +59,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>‘Aziza (1955)</b>
                                     <span>Composition Instrumentale</span>
-                                    <span>Musique de Mouhammad Abdel Wahab (from the movie ‘Aziza, 1955)</span>
+                                    <span>Musique de Mouhammad Abdel Wahab (du film <strong>‘Aziza</strong>)</span>
                                 </div>
                             </label>
                         </div>
@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Halummu Li</b>
+                                    <b>Haloummou Li</b>
                                     <span>Hassan al-Haffar</span>
                                 </div>
                             </label>
@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qadd Malik Ya Hilwa</b>
+                                    <b>Qadd Malek Ya Hilwa</b>
                                     <span>Mouhammad Khayri</span>
                                 </div>
                             </label>

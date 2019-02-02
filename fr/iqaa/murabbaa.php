@@ -105,7 +105,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Qum Bina Ya Nur ‘Ayni</b>
+                                    <b>Mouachah Qum Bina Ya Nour ‘Ayni</b>
                                     <span>Ensemble Abdel Halim Noueirah</span>
                                 </div>
                             </label>
@@ -130,7 +130,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ya ‘Udhayb al-Marshaf</b>
+                                    <b>Mouachah Ya ‘Oudhayb al-Marchaf</b>
                                     <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Liban)</span>
                                     <span>Chef d'orchestre: Aïda Shalhoub Ziadé</span>
                                     <span>Musique de Sayyed Darwich</span>

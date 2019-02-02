@@ -55,7 +55,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Badri Adir Kas al-Tila</b>
+                                    <b>Mouachah Badri Ader Kas al-Tila</b>
                                     <span>Ensemble Abdel Halim Noueirah</span>
                                 </div>
                             </label>
@@ -67,7 +67,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Wajhak Mushriq</b>
+                                    <b>Mouachah Wajhak Moushriq</b>
                                     <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Liban)</span>
                                     <span>Chef d'orchestre: Aïda Shalhoub Ziadé</span>
                                     <span>Musique de by Mouhammad ‘Outhman</span>

@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Tif Ya Durri Bil Qanani</b>
+                                    <b>Mouachah Tif Ya Dourri Bil Qanani</b>
                                     <span>Ensemble Al-Kindi</span>
                                     <span>Musique de Omar al-Batch</span>
                                     <span><img src="/img/cd.png"> The Aleppian Music Room I - Maqam Hijazkar Kurd</span>
@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Tif Ya Durri Bil Qanani</b>
+                                    <b>Mouachah Tif Ya Dourri Bil Qanani</b>
                                     <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Liban)</span>
                                     <span>Chef d'orchestre: Aïda Shalhoub Ziadé</span>
                                     <span>Musique de Omar al-Batch</span>
@@ -87,6 +87,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Wal-ladhi Wallaka Qalbi</b>
                                     <span>Ensemble Morkos</span>
+                                    <span><img src="/img/cd.png"> Cèdre</span>
                                 </div>
                             </label>
                         </div>
@@ -97,7 +98,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>il-Hubbi Kullo (1971)</b>
+                                    <b>il-Houbbi Koullo (1971)</b>
                                     <span>Oum Koulthoum</span>
                                     <span>Musique de Baligh Hamdi</span>
                                 </div>

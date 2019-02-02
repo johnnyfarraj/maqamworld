@@ -82,7 +82,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Khush-Rank (Oud and Riqq)</b>
+                                    <b>Khush-Rank</b>
+                                    <span>Composition Instrumentale pour Oud et Riqq</span>
                                     <span>Tarek Abdallah, Adel Shams El-Din</span>
                                     <span><img src="/img/cd.png"> Wasla (Suites musicales égyptiennes)</span>
                                 </div>

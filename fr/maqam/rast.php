@@ -136,7 +136,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qassidat Salabat Souad</b>
+                                    <b>Qassida Salabat Souad</b>
                                     <span>Mouhammad Khayri</span>
                                 </div>
                             </label>

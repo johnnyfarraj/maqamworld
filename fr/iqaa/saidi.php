@@ -120,7 +120,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Adik Ti'ul Makhadtesh</b>
+                                    <b>Adik Ti'oul Makhadtesh</b>
                                     <span>Interprétation et Musique de Ahmad Adaweya</span>
                                 </div>
                             </label>

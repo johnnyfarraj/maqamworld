@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                                     <li><a href="iqaa/muhajjar.php">Mouhajjar 14/4</a></li>
                                     <li><a href="iqaa/mukhammas.php">Moukhammas 16/4</a></li>
                                     <li><a href="iqaa/khosh_rang.php">Khoch Rangue 17/8</a></li>
-                                    <li><a href="iqaa/fakhit.php">Fakhit 20/4</a></li>
+                                    <li><a href="iqaa/fakhit.php">Fakhet 20/4</a></li>
                                     <li><a href="iqaa/sittatu_ashar.php">Sittatu ‘Achar Masri 32/4</a></li>
                                 </ul>
                             </div>

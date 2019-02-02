@@ -58,7 +58,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Ma-htiyali</b>
                                     <span>Louis Hage &amp; Aida Chalhoub</span>
-                                    <span><img src="/img/cd.png"> Mouwashah - Chants Arabo-andalous</span>
+                                    <span><img src="/img/cd.png"> Mouachah - Chants Arabo-andalous</span>
                                 </div>
                             </label>
                         </div>
@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Jalla Man Bil Husni Sawwar</b>
+                                    <b>Mouachah Jalla Man Bil Housni Sawwar</b>
                                     <span>Ensemble Abdel Halim Noueirah</span>
                                     <span>Musique de Kamel al-Khula‘i</span>
                                 </div>
@@ -95,8 +95,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Bashraf Bulbul al-Afrah</b>
+                                    <b>Bashraf Boulboul al-Afrah</b>
                                     <span>Ensemble Morkos</span>
+                                    <span><img src="/img/cd.png"> Cèdre</span>
                                 </div>
                             </label>
                         </div>
@@ -133,10 +134,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ayyua al-Saqi</b>
+                                    <b>Mouachah Ayyouha al-Saqi</b>
                                     <span>Sabah Fakhri</span>
-                                    <span><img src="/img/cd.png"> Beiteddine Festival Vol. 1</span>
                                     <span>Musique de Majdi al-‘Aqili</span>
+                                    <span><img src="/img/cd.png"> Beiteddine Festival Vol. 1</span>
                                 </div>
                             </label>
                         </div>
@@ -147,10 +148,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah ‘Adhibuni</b>
+                                    <b>Mouachah ‘Adhibouni</b>
                                     <span>Ensemble Al-Kindi</span>
-                                    <span><img src="/img/cd.png"> The Aleppian Music Room Vol. 1 - Hijazkar Kurd &amp; Saba</span>
                                     <span>Musique de Omar al-Batch</span>
+                                    <span><img src="/img/cd.png"> The Aleppian Music Room Vol. 1 - Hijazkar Kurd &amp; Saba</span>
                                 </div>
                             </label>
                         </div>

@@ -200,7 +200,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Doulab Hijaz</b>
                                     <span>Sabah Fakhri</span>
-                                    <span><img src="/img/cd.png"> Mawawil and Mouwashahat</span>
+                                    <span><img src="/img/cd.png"> Mawawil and Mouachahat</span>
                                 </div>
                             </label>
                         </div>

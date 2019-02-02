@@ -198,6 +198,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Sama‘i Bayati d'Iskandar Shalfoun</b>
                                     <span>Ensemble Morkos</span>
+                                    <span><img src="/img/cd.png"> Cèdre</span>
                                 </div>
                             </label>
                         </div>

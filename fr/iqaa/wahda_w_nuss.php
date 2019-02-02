@@ -55,7 +55,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Nura Nura (1953)</b>
+                                    <b>Noura Noura (1953)</b>
                                     <span>Interprétation et Musique de Farid al-Atrache</span>
                                 </div>
                             </label>
