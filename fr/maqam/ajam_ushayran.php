@@ -92,7 +92,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Da‘i al-Hawa Qad Sah</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Musique de Omar al-Batsh</span>
+                                    <span>Musique de Omar al-Batch</span>
                                 </div>
                             </label>
                         </div>

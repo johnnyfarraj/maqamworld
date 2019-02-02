@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qassida Mudnaka Gafahu Marqaduhu (1938)</b>
+                                    <b>Qassida Moudnaka Gafahu Marqadouhou (1938)</b>
                                     <span>Interprétation et Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>

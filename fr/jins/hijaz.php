@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Bi Karm el-Lulu</b>
+                                    <b>Bi Karm el-Loulou</b>
                                     <span>Fairouz</span>
                                     <span>Musique de Philémon Wéhbé</span>
                                 </div>

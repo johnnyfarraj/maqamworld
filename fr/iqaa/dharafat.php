@@ -58,7 +58,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Tif Ya Durri Bil Qanani</b>
                                     <span>Ensemble Al-Kindi</span>
-                                    <span>Musique de Omar al-Batsh</span>
+                                    <span>Musique de Omar al-Batch</span>
                                     <span><img src="/img/cd.png"> The Aleppian Music Room I - Maqam Hijazkar Kurd</span>
                                 </div>
                             </label>
@@ -73,7 +73,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Mouachah Tif Ya Durri Bil Qanani</b>
                                     <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Liban)</span>
                                     <span>Chef d'orchestre: Aïda Shalhoub Ziadé</span>
-                                    <span>Musique de Omar al-Batsh</span>
+                                    <span>Musique de Omar al-Batch</span>
                                     <span><img src="/img/cd.png"> Orientalia: Mouachah et Chansons</span>
                                 </div>
                             </label>

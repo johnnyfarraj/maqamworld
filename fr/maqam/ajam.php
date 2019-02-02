@@ -92,7 +92,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Bahr Biyidhak</b>
-                                    <span>Interprétation et Musique de Sheikh Imam</span>
+                                    <span>Interprétation et Musique de Cheikh Imam</span>
                                 </div>
                             </label>
                         </div>

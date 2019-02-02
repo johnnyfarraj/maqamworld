@@ -75,7 +75,6 @@ include($ROOT . 'inc/head.php');
                                     <b>Aghadan Alqaka (1971)</b>
                                     <span>Oum Koulthoum</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
-                                    <p><img src="/img/cd.png"> Album Name Here</p>
                                 </div>
                             </label>
                         </div>
@@ -89,7 +88,6 @@ include($ROOT . 'inc/head.php');
                                     <b>el-Buwab (1994)</b>
                                     <span>Fairouz</span>
                                     <span>Musique de Philémon Wéhbé</span>
-                                    <p><img src="/img/cd.png"> Album Name Here</p>
                                 </div>
                             </label>
                         </div>
@@ -126,7 +124,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mawwal Min Youm Furgak</b>
+                                    <b>Mawwal Min Youm Fourgak</b>
                                     <span>Mouhammad Khayri</span>
                                 </div>
                             </label>
@@ -138,15 +136,13 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Til‘it Ya Mahla Nurha</b>
+                                    <b>Til‘it Ya Mahla Nourha</b>
                                     <span>Mouhammad Abdel Karim</span>
                                     <span>Musique de Sayed Darwich</span>
                                 </div>
                             </label>
                         </div>
                     </div>
-
-                    <a href="http://maqamlessons.com" class="btn btn-primary read-more" target="_blank"><b>Read More</b>Read more about Jins ‘Ajam on MaqamLessons.com</a>
 
                 </div>
                 <div class="col-sm-12">

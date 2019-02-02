@@ -85,8 +85,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Balad el-Mahbub</b>
-                                    <span>Instrumental Composition</span>
+                                    <b>Balad el-Mahboub</b>
+                                    <span>Composition Instrumentale</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -123,7 +123,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Gaddidti Hubbak Leh (1952)</b>
+                                    <b>Gaddidti Houbbak Leh (1952)</b>
                                     <span>Oum Koulthoum</span>
                                     <span>Musique de Riyad al-Soumbati</span>
                                 </div>
@@ -136,7 +136,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Dunya Ya Gharami (1938)</b>
+                                    <b>Ya Dounia Ya Gharami (1938)</b>
                                     <span>Interprétation et Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>

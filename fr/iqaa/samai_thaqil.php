@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Imlali al-Aqdaha Sirfan</b>
-                                    <span>Sheikh Hamza Shakkur and Ensemble Al Kindi</span>
+                                    <span>Cheikh Hamza Shakkur and Ensemble Al Kindi</span>
                                 </div>
                             </label>
                         </div>
@@ -94,7 +94,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Laha Badru al-Timm</b>
                                     <span>Ensemble Abdel Halim Noueirah</span>
-                                    <span>Musique de Sheikh Mahmoud Soubh</span>
+                                    <span>Musique de Cheikh Mahmoud Soubh</span>
                                 </div>
                             </label>
                         </div>
@@ -133,7 +133,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Talaffata al-Dhabiyu</b>
                                     <span>Ensemble Al-Kindi</span>
-                                    <span>Musique de Sheikh Mahmoud Soubh</span>
+                                    <span>Musique de Cheikh Mahmoud Soubh</span>
                                 </div>
                             </label>
                         </div>

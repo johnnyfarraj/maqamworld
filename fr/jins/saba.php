@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Huwwa Sahih el-Hawa Ghallab (1960)</b>
+                                    <b>Houwa Sahih el-Hawa Ghallab (1960)</b>
                                     <span>Oum Koulthoum</span>
                                     <span>Musique de Zakaria Ahmad</span>
                                 </div>
@@ -108,7 +108,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Doulab en Maqam Saba</b>
+                                    <b>Doulab en <a href="../maqam/saba.php">Maqam Saba</a></b>
                                     <span>Sabri al-Moudallal</span>
                                 </div>
                             </label>
@@ -120,7 +120,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Layali Saba</b>
+                                    <b>Layali en <a href="../maqam/saba.php">Maqam Saba</a></b>
                                     <span>Sabri al-Moudallal</span>
                                 </div>
                             </label>

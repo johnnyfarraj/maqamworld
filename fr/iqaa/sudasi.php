@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Mahla Layali el-Hawa (1963)</b>
                                     <span>Fairouz</span>
-                                    <span>Musique et lyrics by the Rahbani Brothers</span>
+                                    <span>Musique et lyrics by Les Frères Rahbani</span>
                                 </div>
                             </label>
                         </div>
@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Hajal Sannin (1965)</b>
                                     <span>Fairouz</span>
-                                    <span>Musique et lyrics by the Rahbani Brothers</span>
+                                    <span>Musique et lyrics by Les Frères Rahbani</span>
                                     <span>From the movie <strong>Bayya‘ el-Khawatim</strong></span>
                                 </div>
                             </label>

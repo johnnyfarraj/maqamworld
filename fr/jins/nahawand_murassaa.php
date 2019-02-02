@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Dulab Nahawand (from Sibuni Ya Nas)</b>
+                                    <b>Doulab Nahawand (de Sibouni Ya Nas)</b>
                                     <span>Sabah Fakhri</span>
                                 </div>
                             </label>
@@ -108,7 +108,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" checked>
                                 <div class="info">
-                                    <b>Taht el-Shibbak (Accordion Solo)</b>
+                                    <b>Taht el-Chibbak (Accordion Solo)</b>
                                     <span>Fatima Serhan</span>
                                     <span>Musique de ‘Aziz ‘Outhman</span>
                                 </div>

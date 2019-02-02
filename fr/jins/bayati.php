@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>‘Ala Allah T‘ud (1970)</b>
+                                    <b>‘Ala Allah Teoud (1970)</b>
                                     <span>Wadih al-Safi</span>
                                     <span>Musique de Farid al-Atrache</span>
                                 </div>
@@ -88,7 +88,7 @@ include($ROOT . 'inc/head.php');
                                     <b>‘Ataba - Malaffat (1995)</b>
                                     <span>Joseph Saqr</span>
                                     <span>Musique de Ziad Rahbani</span>
-                                    <span><img src="/img/cd.png"> Bema Enno</span>
+                                    <span><img src="/img/cd.png"> Bema Énno</span>
                                 </div>
                             </label>
                         </div>
@@ -137,7 +137,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Lamma ‘al-Bab (19??)</b>
+                                    <b>Lamma ‘al-Bab</b>
                                     <span>Fairouz</span>
                                     <span>Musique de Philémon Wéhbé</span>
                                 </div>

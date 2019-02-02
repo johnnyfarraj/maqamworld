@@ -215,7 +215,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Doulab Nahawand</b>
-                                    <span>Sheikh Abou el-‘Ila Mouhammad</span>
+                                    <span>Cheikh Abou el-‘Ila Mouhammad</span>
                                 </div>
                             </label>
                         </div>

@@ -58,7 +58,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Bi-Hamdika Ya Ilahi</b>
-                                    <span>Sheikh Hamza Shakkur &amp; Ensemble Al Kindi</span>
+                                    <span>Cheikh Hamza Shakkur &amp; Ensemble Al Kindi</span>
                                     <span><img src="/img/cd.png"> Whirling Dervishes of Damascus Vol. 1</span>
                                 </div>
                             </label>
@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Subhana</b>
-                                    <span>Sheikh Habboush &amp; Ensemble Al Kindi</span>
+                                    <span>Cheikh Habboush &amp; Ensemble Al Kindi</span>
                                     <span><img src="/img/cd.png"> Transe Soufie d'Aleppe Vol.2</span>
                                 </div>
                             </label>

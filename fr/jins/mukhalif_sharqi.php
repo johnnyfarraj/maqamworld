@@ -79,7 +79,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ghannili Shwayy Shwayy (1945)</b>
+                                    <b>Ghannili Chwayy Chwayy (1945)</b>
                                     <span>Oum Koulthoum</span>
                                     <span>Musique de Zakaria Ahmad</span>
                                 </div>
@@ -92,9 +92,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Raqsat al-Sus (1974)</b>
-                                    <span>Musique de the Rahbani Brothers</span>
-                                    <span>From the operetta "Lulu"</span>
+                                    <b>Raqsat al-Sous (1974)</b>
+                                    <span>Musique des Frères Rahbani</span>
+                                    <span>de l'opérette "Loulou"</span>
                                 </div>
                             </label>
                         </div>
@@ -107,7 +107,6 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr Lisan el-Dam‘i</b>
                                     <span>Youssof al-Manyalawi</span>
-                                    <span>Musique de ?</span>
                                 </div>
                             </label>
                         </div>
@@ -119,7 +118,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Ma-htiyali (khana)</b>
-                                    <span>Aïcha Redouane </span>
+                                    <span>Aïcha Redouane</span>
                                     <span><img src="/img/cd.png"> Arabesques Vocales &copy; 2000</span>
                                 </div>
                             </label>
@@ -144,7 +143,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Tahmila Rast (Suznak)</b>
-                                    <span>Aïcha Redouane (Maroc)</span>
+                                    <span>Aïcha Redouane</span>
                                     <span><img src="/img/cd.png"> Arabesques Vocales &copy; 2000</span>
                                 </div>
                             </label>
@@ -193,8 +192,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ib‘id ‘Anni ‘Uyunak (19??)</b>
-                                    <span>Yasmin al-Khayyam</span>
+                                    <b>Ib‘id ‘Anni ‘Ouyounak</b>
+                                    <span>Yasmine al-Khayyam</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -206,8 +205,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ib‘id ‘Anni ‘Uyunak - Nay Solo</b>
-                                    <span>Yasmin al-Khayyam</span>
+                                    <b>Ib‘id ‘Anni ‘Ouyounak (Solo de Nay)</b>
+                                    <span>Yasmine al-Khayyam</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>

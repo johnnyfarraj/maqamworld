@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Ya Halawit el-Dunya</b>
+                                    <b>Ya Halawit el-Dounia</b>
                                     <span>Sayyed Makkawi</span>
                                     <span>Musique de Zakaria Ahmad</span>
                                 </div>
@@ -82,9 +82,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Badru Timmin Haza Husnan</b>
-                                    <span>Ghada Shbeir</span>
-                                    <span><img src="/img/cd.png"> Al Mouachahat</span>
+                                    <b>Mouachah Badru Timmin Haza Housnan</b>
+                                    <span>Ghada Chbeir</span>
+                                    <span><img src="/img/cd.png"> Al-Mouachahat</span>
                                 </div>
                             </label>
                         </div>
@@ -95,7 +95,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Hibbi Zurni My Tayassar</b>
+                                    <b>Mouachah Hibbi Zourni My Tayassar</b>
                                     <span>Karem Mahmoud</span>
                                     <span>Musique de Darwich al-Hariri</span>
                                 </div>
@@ -134,8 +134,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr Ya Nas Ana Mutt Fi Hubbi</b>
-                                    <span>Ghada Shbeir</span>
+                                    <b>Dawr Ya Nas Ana Moutt Fi Houbbi</b>
+                                    <span>Ghada Chbeir</span>
                                     <span>Musique de Sayyed Darwich</span>
                                 </div>
                             </label>

@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Lissa Fakir (1963)</b>
+                                    <b>Lissa Faker (1963)</b>
                                     <span>Oum Koulthoum</span>
                                     <span>Musique de Riyad al-Soumbati</span>
                                 </div>
@@ -94,7 +94,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Huwwa Sahih el-Hawa Ghallab (1960)</b>
+                                    <b>Houwa Sahih el-Hawa Ghallab (1960)</b>
                                     <span>Oum Koulthoum</span>
                                     <span>Musique de Zakaria Ahmad</span>
                                 </div>
@@ -120,7 +120,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sharraft Ya Nixon Baba (1974)</b>
-                                    <span>Interprétation et Musique de Sheikh Imam</span>
+                                    <span>Interprétation et Musique de Cheikh Imam</span>
                                 </div>
                             </label>
                         </div>

@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Bint el-Balad (1951)</b>
-                                    <span>Instrumental Composition</span>
+                                    <span>Composition Instrumentale</span>
                                     <span>Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -95,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Ya Fatin al-Ghuzlan</b>
                                     <span>Ensemble Al-Tourath</span>
-                                    <span>Musique de Omar al-Batsh</span>
+                                    <span>Musique de Omar al-Batch</span>
                                 </div>
                             </label>
                         </div>

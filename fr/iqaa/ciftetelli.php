@@ -155,7 +155,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>‘Aziza (1955)</b>
-                                    <span>Instrumental Composition</span>
+                                    <span>Composition Instrumentale</span>
                                     <span>Musique de Mouhammad Abdel Wahab (from the movie <strong>‘Aziza</strong>)</span>
                                 </div>
                             </label>
@@ -204,7 +204,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Tuta</b>
-                                    <span>Instrumental Composition</span>
+                                    <span>Composition Instrumentale</span>
                                     <span>Musique de Farid al-Atrache</span>
                                 </div>
                             </label>

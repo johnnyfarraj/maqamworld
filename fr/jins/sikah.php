@@ -83,9 +83,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Hayhat Yabu al-Zuluf</b>
+                                    <b>Hayhat Yabu al-Zoulouf</b>
                                     <span>Sabah</span>
-                                    <span>(Lebanese Folklore)</span>
+                                    <span>(Folklore Libanais)</span>
                                 </div>
                             </label>
                         </div>

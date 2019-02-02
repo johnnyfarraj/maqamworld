@@ -150,7 +150,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Mouachah ‘Adhibuni</b>
                                     <span>Ensemble Al-Kindi</span>
                                     <span><img src="/img/cd.png"> The Aleppian Music Room Vol. 1 - Hijazkar Kurd &amp; Saba</span>
-                                    <span>Musique de Omar al-Batsh</span>
+                                    <span>Musique de Omar al-Batch</span>
                                 </div>
                             </label>
                         </div>

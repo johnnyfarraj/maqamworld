@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="599,61,12" href="#" alt="A4♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- variable: Hijaz 2nd -->
 					</map>
 
-                    <p>Jins Athar Kurd is a 5-note <em>jins</em>. It is notated here with its tonic on C and its <em>ghammaz</em> on G. Jins Athar Kurd is the first <em>jins</em> in Maqam Athar Kurd.
+                    <p>Jins Athar Kurd is a 5-note <em>jins</em>. It is notated here with its tonic on C and its <em>ghammaz</em> on G. Jins Athar Kurd is the first <em>jins</em> in <a href="../maqam/athar_kurd.php">Maqam Athar Kurd</a>.
                     </p>
 
                     <div class="player-area">
@@ -96,9 +96,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Fagr Nurak Halli We Ban (c.1952)</b>
+                                    <b>Ya Fagr Nourak Halli We Ban (c.1952)</b>
                                     <span>Baligh Hamdi</span>
-                                    <span>Musique de Yussef Shawqi</span>
+                                    <span>Musique de Youssef Chawqi</span>
                                 </div>
                             </label>
                         </div>

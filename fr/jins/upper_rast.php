@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Hann el-Hadid (1974)</b>
                                     <span>Joseph Saqr</span>
                                     <span>Musique de Ziad Rahbani</span>
-                                    <span>From the musical Nazl el-Surur</span>
+                                    <span>De la pièce de théatre <strong>Nazl el-Surur</strong></span>
                                 </div>
                             </label>
                         </div>

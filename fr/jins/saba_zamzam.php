@@ -122,7 +122,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Bint el-Sultan</b>
+                                    <b>Ya Bint el-Soultan</b>
                                     <span>Interprétation de Ahmed Adaweya</span>
                                 </div>
                             </label>

@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Tuta</b>
-                                    <span>Instrumental Composition</span>
+                                    <span>Composition Instrumentale</span>
                                     <span>Musique de Farid al-Atrache</span>
                                 </div>
                             </label>

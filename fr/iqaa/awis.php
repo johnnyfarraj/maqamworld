@@ -87,7 +87,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Munyati Man Rumtu Qurbuh</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Musique de Omar al-Batsh</span>
+                                    <span>Musique de Omar al-Batch</span>
                                     <span><img src="/img/cd.png"> Nagham Al-Ams Vol.9 - Rast</span>
                                 </div>
                             </label>

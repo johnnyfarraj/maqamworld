@@ -151,7 +151,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Abraham Salman</b>
-                                    <span>Abraham Salman (Iraq) jouant un <a href="../form/improv.php#taqsim">Taqsim</a>
+                                    <span>Abraham Salman (Irak) jouant un <a href="../form/improv.php#taqsim">Taqsim</a>
                                     en <a href="../maqam/rast.php">Maqam Rast</a>. De son CD Saltanah (1998).</span>
                                 </div>
                             </label>

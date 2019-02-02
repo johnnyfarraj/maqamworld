@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Qassida Man Mithlukum</b>
+                                    <b>Qassida Man Mithloukoum</b>
                                     <span>Hassan al-Haffar</span>
                                     <span><img src="/img/cd.png"> Muezzins D'Alep - Chants Religieux De L'Islam</span>
                                 </div>
@@ -109,7 +109,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Fantasy Nahawand</b>
-                                    <span>Instrumental Composition</span>
+                                    <span>Composition Instrumentale</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                     <span><img src="/img/cd.png"> Qamar 14</span>
                                 </div>
@@ -122,7 +122,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Oud (from Wasla in Rast)</b>
+                                    <b>Taqsim de Oud</b>
+                                    <span>Wasla en <a href="../maqam/rast.php">Maqam Rast</a></span>
                                     <span>Ibrahim al-Haggar</span>
                                 </div>
                             </label>

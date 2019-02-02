@@ -105,8 +105,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Gulli Ya Hilu</b>
-                                    <span>Kazem el-Saher (Iraq)</span>
+                                    <b>Goulli Ya Hilou</b>
+                                    <span>Kazem el-Saher (Irak)</span>
                                 </div>
                             </label>
                         </div>
@@ -117,8 +117,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qassida Aqulu Wa Qad Nahat Bi Qurbi Hamamatun</b>
-                                    <span>Nazem al-Ghazali (Iraq)</span>
+                                    <b>Qassida Aqoulou Wa Qad Nahat Bi Qourbi Hamamatoun</b>
+                                    <span>Nazem al-Ghazali (Irak)</span>
                                 </div>
                             </label>
                         </div>

@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Aruh Li Min (1958)</b>
+                                    <b>Arouh Li Min (1958)</b>
                                     <span>Oum Koulthoum</span>
                                     <span>Musique de Riyad al-Soumbati</span>
                                 </div>
@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Huwwa el-Hobb Li‘ba (10??)</b>
+                                    <b>Houwa el-Hobb Li‘ba</b>
                                     <span>Aziza Galal</span>
                                     <span>Musique de Mouhammad al-Mougi</span>
                                 </div>
