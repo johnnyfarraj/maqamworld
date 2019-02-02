@@ -133,7 +133,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qasidat Salabat Su‘ad</b>
+                                    <b>Qasida Salabat Su‘ad</b>
                                     <span>Muhammad Khayri</span>
                                 </div>
                             </label>

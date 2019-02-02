@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qasidat Ja'at Mu‘adhibati</b>
+                                    <b>Qasida Ja'at Mu‘adhibati</b>
                                     <span>Fatima Serhan</span>
                                     <span><img src="/img/cd.png"> The Queen of Balady</span>
                                 </div>

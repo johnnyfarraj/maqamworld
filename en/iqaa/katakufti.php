@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Ya ‘Ein Mulatyyitein</b>
+                                    <b>Ya ‘Ein Mulayyitein</b>
                                     <span>Samira Tawfiq</span>
                                 </div>
                             </label>

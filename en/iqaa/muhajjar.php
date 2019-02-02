@@ -91,7 +91,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Muyati ‘Azza Istibari</b>
+                                    <b>Muwashah Munyati ‘Azza Istibari</b>
                                     <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
                                     <span>Conductor: Aïda Shalhoub Ziadé</span>
                                     <span>Music by Sayyed Darwish</span>

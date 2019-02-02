@@ -91,7 +91,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Muyati ‘Azza Istibari</b>
+                                    <b>Muwashah Munyati ‘Azza Istibari</b>
                                     <span>Orientalia</span>
                                     <span>Musik von Sayyed Darwish</span>
                                 </div>

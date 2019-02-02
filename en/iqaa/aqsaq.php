@@ -133,7 +133,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ayyua al-Saqi</b>
+                                    <b>Muwashah Ayyuha al-Saqi</b>
                                     <span>Sabah Fakhri</span>
                                     <span><img src="/img/cd.png"> Beiteddine Festival Vol. 1</span>
                                     <span>Music by Majdi al-‘Aqili</span>
