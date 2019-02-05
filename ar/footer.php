@@ -30,7 +30,7 @@
                 </ul>
             </div>
             <div class="col-sm-5 text-right">
-                <a href="https://www.arabculturefund.org/indexarabic.php" target="_blank"><img src="/img/afac.png" class="afac"></a>
+                <a href="https://www.arabculturefund.org/indexarabic.php" target="_blank"><img src="/ar/img/afac_ar.png" class="afac"></a>
             </div>
         </div>
     </div>

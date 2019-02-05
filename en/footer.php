@@ -24,7 +24,7 @@
                 </ul>
             </div>
             <div class="col-sm-5 text-right">
-                <a href="https://www.arabculturefund.org" target="_blank"><img src="/img/afac.png" class="afac"></a>
+                <a href="https://www.arabculturefund.org" target="_blank"><img src="/img/afac_en.png" class="afac"></a>
             </div>
         </div>
     </div>
