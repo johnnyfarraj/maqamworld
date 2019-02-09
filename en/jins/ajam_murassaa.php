@@ -88,6 +88,18 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
                     
+                    <div class="track" data-song="/audio/jins/ajam_murassaa/ya_ma3shar_al_nas.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Mawwal Ya Ma‘shar al-Nas</b>
+                                    <span>Muhammad Khayri</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                     <div class="track" data-song="/audio/jins/ajam_murassaa/3umri_fi_hubbihi.mp3">
                         <div class="radio">
                             <label>
