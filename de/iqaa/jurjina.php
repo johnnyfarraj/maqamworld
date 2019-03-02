@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/jurjina.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Jurjina ist im Irak, Iran sowie in den türkischen und kurdischen Repertoires sehr verbreitet, und zwar sowohl in der Volks- als auch in der klassischen Musik. Im nahöstlichen Repertoire ist er eher selten.               
+                    <p>Iqa‘ Jurjina ist im Irak, Iran sowie in den türkischen und kurdischen Repertoires sehr verbreitet, und zwar sowohl in der Volks- als auch in der klassischen Musik. Im nahöstlichen Repertoire ist er eher selten, obwohl es eher in der tunesischen Musik verwendet wird.               
                     </p>
                     
                     <div class="player-area">
@@ -75,14 +75,25 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
                     
-                    <div class="track" data-song="/audio/iqaa/jurjina/tal_intizari.mp3">
+                    <div class="track" data-song="/audio/iqaa/jurjina/maluf_adir_rahati.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Tal Intizari (1937)</b>
-                                    <span>Muhammad Abdel Wahab und Laila Murad</span>
-                                    <span>Musik von Muhammad Abdel Wahab</span>
+                                    <b>Muwashah Adir Rahati</b>
+                                    <span>Tunisian Malouf</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+                    
+                    <div class="track" data-song="/audio/iqaa/jurjina/maluf_ma_kuntu_adri.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Muwashah Ma Kuntu Adri</b>
+                                    <span>Tunisian Malouf</span>
                                 </div>
                             </label>
                         </div>

@@ -40,7 +40,7 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/iqaa/jurjina.png" class="img-fluid">
                     </div>
 
-                    <h5>إيقاع جُرجِينا هو إيقاه شائع جداً في العراق وايران وفي الموسيقى التركية والكردية، سواءً في الالوان الكلاسيكية او الشعبية. اما في الشرق الاوسط فهو نادر الاستعمال.
+                    <h5>إيقاع جُرجِينا هو إيقاه شائع جداً في العراق وايران وفي الموسيقى التركية والكردية، سواءً في الالوان الكلاسيكية او الشعبية.اما في الشرق الاوسط فهو نادر الاستعمال، لكنه يستعمل بعض الأحيان في المالوف التونسي.
                     </h5>
 
                     <div class="player-area">
@@ -73,19 +73,30 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/jurjina/tal_intizari.mp3">
+                    <div class="track" data-song="/audio/iqaa/jurjina/maluf_adir_rahati.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>اغنية طال انتظاري (١٩٣٧)</b>
-                                    <span>غناء ليلى مُراد ومحمد عبد الوهاب (مصر)</span>
-                                    <span>الحان محمد عبد الوهاب</span>
+                                    <b>موشح ادر راحاتي</b>
+                                    <span>وصلة من المالوف التونسي</span>
                                 </div>
                             </label>
                         </div>
                     </div>
-
+                    
+                    <div class="track" data-song="/audio/iqaa/jurjina/maluf_ma_kuntu_adri.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>موشح ما كنت ادري</b>
+                                    <span>وصلة من المالوف التونسي</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+                    
                 </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
