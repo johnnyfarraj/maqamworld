@@ -94,7 +94,21 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                 </div>
+                    <div class="track" data-song="/audio/iqaa/awis/munyati_sidul_milah.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Mouachah Muniati Sidou-l-Milah</b>
+                                    <span>(chanté en 11/4)</span>
+                                    <span>le chantre Mahmoud Farès</span>
+                                    <span>Musique de Omar al-Batch</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
                 </div>

@@ -99,6 +99,20 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/iqaa/awis/munyati_sidul_milah.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>موشّح مُنيتي سيد الملاح</b>
+                                    <span>(يعزف على إيقاع ١١/٤)</span>
+                                    <span>المنشد محمود فارس (حلب)</span>
+                                    <span>الحان عمر البطش (حلب)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                  </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
