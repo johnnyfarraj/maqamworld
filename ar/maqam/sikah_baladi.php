@@ -90,7 +90,20 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/maqam/sikah_baladi/shams_el_asil.mp3">
+                     <div class="track" data-song="/audio/maqam/sikah_baladi/yalli_kan_yishgik_anini.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>اغنية ياللي كان نشجيك انيني (١٩٤٩)</b>
+                                    <span>ام كلثوم</span>
+                                    <span>الحان رياض السنباطي (مصر)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                   <div class="track" data-song="/audio/maqam/sikah_baladi/shams_el_asil.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">

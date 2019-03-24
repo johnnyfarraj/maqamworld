@@ -101,6 +101,19 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/maqam/sikah_baladi/yalli_kan_yishgik_anini.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Yalli Kan Yishgik Anini (1949)</b>
+                                    <span>Umm Kulthum</span>
+                                    <span>Music von Riyad al-Sunbati</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                     <div class="track" data-song="/audio/maqam/sikah_baladi/aruh_li_min.mp3">
                         <div class="radio">
                             <label>
