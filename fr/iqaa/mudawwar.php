@@ -76,18 +76,6 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/mudawwar/nabbih_al_nudman.mp3">
-                        <div class="radio">
-                            <label>
-                                <input type="radio" name="song" value="1">
-                                <div class="info">
-                                    <b>Mouachah Nabbih al-Noudman Sahi</b>
-                                    <span>Sabah Fakhri</span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-
                 </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
