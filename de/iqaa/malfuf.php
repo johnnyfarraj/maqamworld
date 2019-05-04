@@ -64,12 +64,12 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/malfuf/darit_il_ayyam.mp3">
+                    <div class="track" data-song="/audio/iqaa/malfuf/amal_hayati.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Darit el-Ayyam (1970)</b>
+                                    <b>Amal Hayati (1965)</b>
                                     <span>Umm Kulthum</span>
                                     <span>Musik von Muhammad Abdel Wahab</span>
                                 </div>
