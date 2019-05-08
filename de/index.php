@@ -41,7 +41,7 @@ include($ROOT . 'inc/head.php');
                         <li>eine Kontaktseite für Nutzerfeedback</li>
                     </ul>
 
-                    <p>Ich freue mich, auf ein bald erscheinendes Buch zum Thema Maqam hinweisen zu können. Ich habe es gemeinsam mit meinem Freund Sami Abu Shumays geschrieben, dem Kopf hinter den <a href="http://maqamlessons.com" target="_blank">MaqamLessons</a>. Es wird den Titel <a href="en/book.php">INSIDE ARABIC MUSIC</a> tragen und es soll im Mai 2019 bei Oxford University Press erscheinen. Das Buch wird ein umfangreiches Nachschlagewerk zur arabischen Musik sein. Diese Website fungiert dann als sein Begleiter. Das Buchprojekt wurde übrigens 2012 vom <a href="http://arabculturefund.org" target="_blank">AFAC</a> gefördert.
+                    <p>Ich freue mich, auf ein bald erscheinendes Buch zum Thema Maqam hinweisen zu können. Ich habe es gemeinsam mit meinem Freund Sami Abu Shumays geschrieben, dem Kopf hinter den <a href="http://maqamlessons.com" target="_blank">MaqamLessons</a>. Es wird den Titel <a href="en/book.php">INSIDE ARABIC MUSIC</a> tragen und es soll im Juli 2019 bei Oxford University Press erscheinen. Das Buch wird ein umfangreiches Nachschlagewerk zur arabischen Musik sein. Diese Website fungiert dann als sein Begleiter. Das Buchprojekt wurde übrigens 2012 vom <a href="http://arabculturefund.org" target="_blank">AFAC</a> gefördert.
                     </p>
 
                     <div class="row">
@@ -100,7 +100,7 @@ include($ROOT . 'inc/head.php');
                                 <img class="card-img-top" src="/img/vladimir_tamari.png" alt="The Arabic Oud">
                                 <div class="card-body">
                                     <h5 class="card-title">Buch</h5>
-                                    <p class="card-text">Hinweis auf INSIDE ARABIC MUSIC, eine Einführung in die arabische Musiktheorie und Aufführungspraxis (Veröffentlichung voraussichtlich Februar 2019)</p>
+                                    <p class="card-text">Hinweis auf INSIDE ARABIC MUSIC, eine Einführung in die arabische Musiktheorie und Aufführungspraxis (Veröffentlichung voraussichtlich Juli 2019)</p>
                                     <a href="book.php" class="btn btn-primary">Buch<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>

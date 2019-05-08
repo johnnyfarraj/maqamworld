@@ -46,7 +46,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>
                     I am happy to announce an upcoming book co-authored with my friend Sami Abu Shumays (creator of <a href="http://maqamlessons.com" target="_blank">MaqamLessons</a>).
-                    The book is entitled <a href="en/book.php">INSIDE ARABIC MUSIC</a>, and is expected to be published by <a href="http://oup.com" target="_blank">Oxford University Press</a> around May 2019.
+                    The book is entitled <a href="en/book.php">INSIDE ARABIC MUSIC</a>, and is expected to be published by <a href="http://oup.com" target="_blank">Oxford University Press</a> in July 2019.
                     The book will be a comprehensive reference on Arabic Music and this website will act like its companion.
                     The book project was the recipient of a 2012 grant from <a href="http://arabculturefund.org" target="_blank">AFAC</a>.
                     </p>
@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                                 <img class="card-img-top" src="/img/vladimir_tamari.png" alt="The Arabic Oud">
                                 <div class="card-body">
                                     <h5 class="card-title">Publications</h5>
-                                    <p class="card-text">Learn about the upcoming book "Inside Arabic Music" (co-authored with Sami Abu Shumays) scheduled for release in February 2019.</p>
+                                    <p class="card-text">Learn about the upcoming book "Inside Arabic Music" (co-authored with Sami Abu Shumays) scheduled for release in July 2019.</p>
                                     <a href="/en/book.php" class="btn btn-primary">Publications<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
