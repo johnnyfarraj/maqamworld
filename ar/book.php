@@ -35,7 +35,7 @@ include($ROOT . 'inc/head.php');
                     <h5>
 يسعدنا ان نعلن عن قُرب صدور كتاب بعنوان "في الموسيقى العربية" (تأليف مشترك مع الصديق سامي ابو شميس من موقع 
 <a href="http://maqamlessons.com" target="_blank">دروس المقامات</a>).
-سيتم إصدار الكتاب في ربيع سنة ٢٠١٩ من
+سيتم إصدار الكتاب في صيف ٢٠١٩ من
 <a href="http://oup.com" target="_blank">دار جامعة اوكسفورد للنشر</a>
  في نيو يورك باللغة الانكليزية.
                     </h5>
@@ -44,7 +44,9 @@ include($ROOT . 'inc/head.php');
 <a href="http://arabculturefund.org/grantees/grantee.php?id=333" target=_blank>الصندوق العربي للثقافة والفنون</a>
  (آفاق) سنة ٢٠١٢.
                     </h5>
-                    <h5>سنقوم بنشر المزيد من المعلومات حين توفّرها.</h5>
+                    <h5>يمكنكم ادخال طلب مسبق لشراء هذا الكتاب من موقع 
+                        <a href="https://www.amazon.com/Inside-Arabic-Music-Performance-Century/dp/0190658363/ref=sr_1_1" target="_blank">امازون</a>.
+                    </h5>
 
                 </div>
                 <div class="col-sm-12">

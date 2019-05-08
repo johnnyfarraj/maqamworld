@@ -22,20 +22,24 @@ include($ROOT . 'inc/head.php');
     <div class="page">
         <div class="container">
             <div class="row">
-                <div class="col-md-9 col-sm-9 ml-auto mr-auto">
+                <div class="col-md-6 col-sm-9 ml-auto mr-auto">
                     <div class="heading text-center jins">
                         <h1>Inside Arabic Music</h1>
                         <h3>&copy; Johnny Farraj und Sami Abu Shumays</h3>
                         <h3>Oxford University Press</h3>
                     </div>
+                    
                     <div class="clearfix"></div>
 
                     <p>Ich freue mich, das Erscheinen eines Buches ankündigen zu können, das ich gemeinsam mit meinem Freund Sami Abu Shumays (Schöpfer von <a href="http://maqamlessons.com" target="_blank">MaqamLessons</a>) geschrieben habe.
-                        Es trägt den Titel <strong>INSIDE ARABIC MUSIC</strong> und soll bei <a href="http://oup.com" target="_blank">Oxford University Press</a> im Mai 2019 erscheinen.
+                    Es trägt den Titel <strong>INSIDE ARABIC MUSIC</strong> und soll bei <a href="http://oup.com" target="_blank">Oxford University Press</a> im Juli 2019 erscheinen.
                     </p>
-                    <p>Es handelt sich dabei um ein umfangreiches Nachschlagewerk zur arabischen Musik. Diese Website ist sein Begleiter.</p>
-                    <p>Das Buchprojekt wurde vom <a href="http://arabculturefund.org/grantees/grantee.php?id=333" target=_blank>Arab Fund for Arts and Culture</a> gefördert. </p>
-                    <p>Ich werde weitere Informationen bereitstellen, sobald das Buch Anfang 2019 verfügbar ist.</p>
+                    <p>Das Buchprojekt wurde vom <a href="http://arabculturefund.org/grantees/grantee.php?id=333" target=_blank>Arab Fund for Arts and Culture</a> gefördert. 
+                    </p>
+                    <p>
+                    Sie können eine Kopie des Buches bei <a href="https://www.amazon.com/Inside-Arabic-Music-Performance-Century/dp/0190658363/ref=sr_1_1" target="_blank">Amazon.com</a> vorbestellen.
+                    </p>
+                    
                 </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
