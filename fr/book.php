@@ -32,7 +32,15 @@ include($ROOT . 'inc/head.php');
 
                     <p>I am happy to announce an upcoming book written by myself (Johnny Farraj) and my friend Sami Abou Shumays (creator of <a href="http://maqamlessons.com" target="_blank">MaqamLessons</a>). The upcoming book is entitled <strong>INSIDE ARABIC MUSIC</strong>, and is expected to be published by <a href="http://oup.com" target="_blank">Oxford University Press</a> around May 2019. This book will be a comprehensive reference on Arabic Musique et this website will act like its companion. The book project was the recipient of a 2012 grant from <a href="http://arabculturefund.org/grantees/grantee.php?id=333" target="_blank">The Arab Fund For Arts and Culture</a>.
                     </p>
-                    <p> I will post more information about the book as it becomes available in early 2019.</p>
+                    <p style="margin-bottom:40px;"> I will post more information about the book as it becomes available in early 2019.</p>
+                    
+                    <div class="row">
+                        <div class="col-md-6 ml-auto mr-auto">
+                            <a href="https://www.amazon.com/Inside-Arabic-Music-Performance-Century/dp/0190658363/ref=sr_1_1" target="_blank">
+                                <img src="/img/inside_arabic_music_jacket.jpg" alt="Inside Arabic Music" class="img-fluid">
+                            </a>
+                        </div>
+                    </div>
 
                 </div>
                 <div class="col-sm-12">

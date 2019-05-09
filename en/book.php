@@ -36,13 +36,17 @@ include($ROOT . 'inc/head.php');
                     </p>
                     <p>The book project was the recipient of a 2012 grant from <a href="http://arabculturefund.org/grantees/grantee.php?id=333" target="_blank">The Arab Fund For Arts and Culture</a>.
                     </p>
-                    <p>
+                    <p style="margin-bottom:40px;">
                     You can preorder a copy of <strong>Inside Arabic Music</strong> from this link: <a href="https://www.amazon.com/Inside-Arabic-Music-Performance-Century/dp/0190658363/ref=sr_1_1" target="_blank">Amazon.com</a>.
                     </p>
-                    <!--
-                    <div><a href="https://www.amazon.com/Inside-Arabic-Music-Performance-Century/dp/0190658363/ref=sr_1_1" target="_blank"><img src="/img/inside_arabic_music_jacket.jpg" alt="Inside Arabic Music"></a>
+                    
+                    <div class="row">
+                        <div class="col-md-6 ml-auto mr-auto">
+                            <a href="https://www.amazon.com/Inside-Arabic-Music-Performance-Century/dp/0190658363/ref=sr_1_1" target="_blank">
+                                <img src="/img/inside_arabic_music_jacket.jpg" alt="Inside Arabic Music" class="img-fluid">
+                            </a>
+                        </div>
                     </div>
-                    -->
 
                 </div>
                 <div class="col-sm-12">

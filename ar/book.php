@@ -44,9 +44,17 @@ include($ROOT . 'inc/head.php');
 <a href="http://arabculturefund.org/grantees/grantee.php?id=333" target=_blank>الصندوق العربي للثقافة والفنون</a>
  (آفاق) سنة ٢٠١٢.
                     </h5>
-                    <h5>يمكنكم ادخال طلب مسبق لشراء هذا الكتاب من موقع 
+                    <h5 style="margin-bottom:40px;">يمكنكم ادخال طلب مسبق لشراء هذا الكتاب من موقع 
                         <a href="https://www.amazon.com/Inside-Arabic-Music-Performance-Century/dp/0190658363/ref=sr_1_1" target="_blank">امازون</a>.
                     </h5>
+                    
+                    <div class="row">
+                        <div class="col-md-6 ml-auto mr-auto">
+                            <a href="https://www.amazon.com/Inside-Arabic-Music-Performance-Century/dp/0190658363/ref=sr_1_1" target="_blank">
+                                <img src="/img/inside_arabic_music_jacket.jpg" alt="Inside Arabic Music" class="img-fluid">
+                            </a>
+                        </div>
+                    </div>
 
                 </div>
                 <div class="col-sm-12">

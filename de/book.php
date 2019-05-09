@@ -36,9 +36,17 @@ include($ROOT . 'inc/head.php');
                     </p>
                     <p>Das Buchprojekt wurde vom <a href="http://arabculturefund.org/grantees/grantee.php?id=333" target=_blank>Arab Fund for Arts and Culture</a> gefördert. 
                     </p>
-                    <p>
+                    <p style="margin-bottom:40px;">
                     Sie können eine Kopie des Buches bei <a href="https://www.amazon.com/Inside-Arabic-Music-Performance-Century/dp/0190658363/ref=sr_1_1" target="_blank">Amazon.com</a> vorbestellen.
                     </p>
+                    
+                    <div class="row">
+                        <div class="col-md-6 ml-auto mr-auto">
+                            <a href="https://www.amazon.com/Inside-Arabic-Music-Performance-Century/dp/0190658363/ref=sr_1_1" target="_blank">
+                                <img src="/img/inside_arabic_music_jacket.jpg" alt="Inside Arabic Music" class="img-fluid">
+                            </a>
+                        </div>
+                    </div>
                     
                 </div>
                 <div class="col-sm-12">
