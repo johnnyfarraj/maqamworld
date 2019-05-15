@@ -37,7 +37,7 @@ include($ROOT . 'inc/head.php');
                     <p>The book project was the recipient of a 2012 grant from <a href="http://arabculturefund.org/grantees/grantee.php?id=333" target="_blank">The Arab Fund For Arts and Culture</a>.
                     </p>
                     <p style="margin-bottom:40px;">
-                    You can preorder a copy of <strong>Inside Arabic Music</strong> from this link: <a href="https://www.amazon.com/Inside-Arabic-Music-Performance-Century/dp/0190658363/ref=sr_1_1" target="_blank">Amazon.com</a>.
+                    You can preorder a copy of <strong>Inside Arabic Music</strong> from <a href="https://www.amazon.com/Inside-Arabic-Music-Performance-Century/dp/0190658363/ref=sr_1_1" target="_blank">Amazon.com</a> or directly from the publisher <a href="https://global.oup.com/academic/product/inside-arabic-music-9780190658366" target="_blank">Oxford University Press</a>.
                     </p>
                     
                     <div class="row">
