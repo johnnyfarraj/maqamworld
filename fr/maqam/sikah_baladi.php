@@ -39,7 +39,7 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/sikah_baladi.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Sikah Baladi</a>
                     </div>
 
-                   
+
                      <div class="notation" id="notation1">
                         <img src="/note/maqam/sikah_baladi.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
@@ -61,10 +61,10 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="817,164,13" href="#" alt="A3<i class='icon-halfflat'></i>↓" class="playNote" data-frequency="xxx" data-parent="#notation1">
 					  <area shape="circle" coords="893,173,13" href="#" alt="G3" class="playNote" data-frequency="xxx" data-parent="#notation1">
                       <!-- Links -->
-                      <area shape="rect" coords="198,8,365,38" href="../jins/sikah_baladi.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="692,16,856,46" href="../jins/sikah_baladi.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="174,8,374,38" href="../jins/sikah_baladi.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="675,16,874,46" href="../jins/sikah_baladi.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="272,184,636,213" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
-				     
+
                       </map>
                     <p>Maqam Sikah Baladi is arguably the most challenging Arabic maqam.
                     Its scale (and sayr) is something of a hybrid between a transposition of <a href="huzam.php">Maqam Houzam</a>
@@ -97,6 +97,19 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Shams el-Asil (1958)</b>
+                                    <span>Oum Koulthoum</span>
+                                    <span>Musique de Riyad al-Soumbati</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="track" data-song="/audio/maqam/sikah_baladi/el_hobb_kida.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>el-Hobbi Kida (1959)</b>
                                     <span>Oum Koulthoum</span>
                                     <span>Musique de Riyad al-Soumbati</span>
                                 </div>
@@ -186,10 +199,10 @@ include($ROOT . 'inc/head.php');
             </div>
         </div>
     </div>
-    
+
     <?php include($ROOT . 'fr/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
-    
+
 </body>
 
 </html>

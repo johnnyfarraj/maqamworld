@@ -56,9 +56,9 @@ include($ROOT . 'inc/head.php');
 	  <area shape="circle" coords="817,164,13" href="#" alt="لا<i class='icon-halfflat'></i>↓" class="playNote" data-frequency="xxx" data-parent="#notation1">
 	  <area shape="circle" coords="893,173,13" href="#" alt="صول" class="playNote" data-frequency="xxx" data-parent="#notation1">
                       <!-- Links -->
-                      <area shape="rect" coords="198,8,365,38" href="../jins/sikah_baladi.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="692,16,856,46" href="../jins/sikah_baladi.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="272,184,636,213" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="186,4,360,37" href="../jins/sikah_baladi.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="692,12,864,46" href="../jins/sikah_baladi.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="360,185,550,218" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
                       </map>
 		<br>
 
@@ -90,12 +90,12 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                     <div class="track" data-song="/audio/maqam/sikah_baladi/yalli_kan_yishgik_anini.mp3">
+                   <div class="track" data-song="/audio/maqam/sikah_baladi/shams_el_asil.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>اغنية ياللي كان نشجيك انيني (١٩٤٩)</b>
+                                    <b>اغنية شمس الاصيل (١٩٥٨)</b>
                                     <span>ام كلثوم</span>
                                     <span>الحان رياض السنباطي (مصر)</span>
                                 </div>
@@ -103,12 +103,25 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                   <div class="track" data-song="/audio/maqam/sikah_baladi/shams_el_asil.mp3">
+                    <div class="track" data-song="/audio/maqam/sikah_baladi/el_hobb_kida.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>اغنية شمس الاصيل (١٩٥٨)</b>
+                                    <b>اغنية الحبّ كده (١٩٥٩)</b>
+                                    <span>ام كلثوم</span>
+                                    <span>الحان رياض السنباطي (مصر)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                     <div class="track" data-song="/audio/maqam/sikah_baladi/yalli_kan_yishgik_anini.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>اغنية ياللي كان نشجيك انيني (١٩٤٩)</b>
                                     <span>ام كلثوم</span>
                                     <span>الحان رياض السنباطي (مصر)</span>
                                 </div>
@@ -185,10 +198,10 @@ include($ROOT . 'inc/head.php');
             </div>
         </div>
     </div>
-    
+
     <?php include($ROOT . 'ar/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
-    
+
 </body>
 
 </html>
