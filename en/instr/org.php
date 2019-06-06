@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/org.jpg" alt="The Electric Organ">
-                        <span>Org pioneer Magdi el-Husseini (Egypt).</span>-->
+                        <span>Org pioneer Magdi el-Husseini (Egypt).</span>
                     </div>
 
                     <p> The Electric Organ (commonly called <em>org</em> in Arabic, from the French "orgue") became very popular in Arabic music in the late 1960s through the 1970s. Its pioneer and superstar was Egyptian keyboardist Magdi el-Husseini. The <em>org</em> was altered to play good-enough quartertones (as good as the accordion's) which allowed it to play most <a href="../maqam.php">maqam</a> scales. The <em>org</em> was used to play a combination of melodic lines and simple chords. Together, the <em>org</em> and the <a href="guitar.php">electric guitar</a> created a distinctive sound and mood that marked Arabic music from that decade.
