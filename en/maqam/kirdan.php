@@ -58,8 +58,8 @@ include($ROOT . 'inc/head.php');
 	  <area shape="circle" coords="304,105,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
 	  <area shape="circle" coords="381,113,13" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1">
 	  <area shape="circle" coords="458,123,13" href="#" alt="E4<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
-	  <area shape="circle" coords="537,131,13" href="#" alt="D4♯" class="playNote" data-frequency="310" data-parent="#notation1"><!-- var sikah leading tone-->
-	  <area shape="circle" coords="589,131,13" href="#" alt="D4♮" class="playNote" data-frequency="293.33" data-parent="#notation1">
+	  <area shape="circle" coords="537,131,13" href="#" alt="D4â™¯" class="playNote" data-frequency="310" data-parent="#notation1"><!-- var sikah leading tone-->
+	  <area shape="circle" coords="589,131,13" href="#" alt="D4â™®" class="playNote" data-frequency="293.33" data-parent="#notation1">
                       <area shape="circle" coords="640,139,13" href="#" alt="C4" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
                        <!-- Links -->
                       <area shape="rect" coords="95,6,274,38" href="../jins/upper_rast.php" class="mapLink" data-parent="#notation1">
@@ -86,7 +86,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Sihtu Wajdan</b>
                                     <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
-                                    <span>Conductor: A�da Shalhoub Ziad�</span>
+                                    <span>Conductor: Aïda Shalhoub Ziadé</span>
                                     <span>Music by Sayyed Darwish</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>
