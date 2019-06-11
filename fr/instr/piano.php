@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Le Piano";
 $page_description = "Le Piano";
-$page_keywords = "arabe, musique, instruments, accordéon, bouzouk, daff, mazhar, guitare électrique, katem, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
+$page_keywords = "arabe, musique, instruments, accordÃ©on, bouzouk, daff, mazhar, guitare Ã©lectrique, katem, nay, synthÃ©tiseur oriental, orgue Ã©lectrique, oud, â€˜ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqaâ€˜, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
 $page_language = "fr";
 
 include($ROOT . 'inc/head.php');
@@ -58,7 +58,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Abdallah Chahine</b>
-                                <span>Lebanese pianist Abdallah Chahine playing a Piano Taqsim in <a href="../maqam/saba.php">Maqam Saba</a> followed by the song <strong>Batit â€˜Uyuni</strong> from his album "Angham Min al-Sharq".</span>
+                                <span>Lebanese pianist Abdallah Chahine playing a Piano Taqsim in <a href="../maqam/saba.php">Maqam Saba</a> followed by the song <strong>Batit 'Uyuni</strong> from his album "Angham Min al-Sharq".</span>
                                 </div>
                             </label>
                         </div>
@@ -96,12 +96,12 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <p>Explorer d'autres instruments arabisés:</p>
+                    <p>Explorer d'autres instruments arabisÃ©s:</p>
                     <ul>
-						<li><a href="accordion.php">L'Accordéon</a></li>
-						<li><a href="guitar.php">La Guitare Électrique</a></li>
-						<li><a href="org.php">L'Orgue Électrique</a></li>
-						<li><a href="keyboard.php">Le Synthétiseur oriental</a></li>
+						<li><a href="accordion.php">L'AccordÃ©on</a></li>
+						<li><a href="guitar.php">La Guitare Ã‰lectrique</a></li>
+						<li><a href="org.php">L'Orgue Ã‰lectrique</a></li>
+						<li><a href="keyboard.php">Le SynthÃ©tiseur oriental</a></li>
                     	<!--
 						<li><a href="piano.php">Le Piano</a></li>
 						-->
