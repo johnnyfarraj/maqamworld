@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Le Violon Arabe</h1>
-                        <h3><em>Appelé <em>Kamanja</em> ou <em>Kamane</em> en arabe</h3>
+                        <h3>Appelé <em>Kamanja</em> ou <em>Kamane</em> en arabe</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Instruments</a>
@@ -79,7 +79,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ahmad al-Hifnaoui</b>
-                                    <span>Le violoniste égyptien Ahmad al-Hifnaoui (qui était premier violon dans l'orchestre de Oum Koulthoum) joue la pièce traditionnelle instrumentale <strong>Tahmila Rast (Suznak)</strong> qui est pleine d'improvisations. L'ensemble est composé aussi de George Michel au <a href="oud.php">oud</a>, Mahmoud 'Effat au <a href="nay.php">nay</a> et Hassan Anouar au <a href="riqq.php">riqq</a>.</span>
+                                    <span>Le violoniste égyptien Ahmad al-Hifnaoui (qui était premier violon dans l'orchestre de Oum Koulthoum) joue la pièce traditionnelle instrumentale <strong>Tahmila Rast (Suznak)</strong> qui est pleine d'improvisations. L'ensemble est composé aussi de George Michel au <a href="oud.php">oud</a>, Mahmoud ‘Effat au <a href="nay.php">nay</a> et Hassan Anouar au <a href="riqq.php">riqq</a>.</span>
                                 </div>
                             </label>
                         </div>

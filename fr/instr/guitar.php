@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "La Guitare Électrique Arabe";
-$page_description = "La Guitare Électrique Arabe";
-$page_keywords = "arabe, musique, instruments, accordéon, bouzouk, daff, mazhar, guitare électrique, katèm, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
+$page_title = "La Guitare Ã‰lectrique Arabe";
+$page_description = "La Guitare Ã‰lectrique Arabe";
+$page_keywords = "arabe, musique, instruments, accordÃ©on, bouzouk, daff, mazhar, guitare Ã©lectrique, katÃ¨m, nay, synthÃ©tiseur oriental, orgue Ã©lectrique, oud, â€˜ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqaâ€˜, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
 $page_language = "fr";
 
 include($ROOT . 'inc/head.php');
@@ -29,19 +29,19 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>La Guitare Électrique Arabe</h1>
-                        <h3>Joue des mélodies et des accords simples</h3>
+                        <h1>La Guitare Ã‰lectrique Arabe</h1>
+                        <h3>Joue des mÃ©lodies et des accords simples</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Instruments</a>
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
-                        <img src="/instr/guitar.jpg" alt="La Guitare Électriqu">
-                        <span>Omar Khorchid, le pionnier de la Guitare Électrique en Égypte</span>
+                        <img src="/instr/guitar.jpg" alt="La Guitare Ã‰lectriqu">
+                        <span>Omar Khorchid, le pionnier de la Guitare Ã‰lectrique en Ã‰gypte</span>
                     </div>
 
-                    <p>La guitare électrique a été utilisée pour la première fois dans la musique arabe vers la fin des années 1960 en Égypte. Le pionnier a été Omar Khorchid. Certaines guitares électriques ont été modifiées par l'ajout de frettes supplémentaires (à la manière du <a href="buzuq.php">Bouzouk</a>) de manière à être en mesure de jouer les <a href="../maqam.php">Maqams</a> arabes et leurs quarts de ton. La plupart du temps, la guitare électrique a été utilisée sans être modifiée et sans effet, et a acquis son 'arabité' grâce au style ornemental. La guitare électrique a été utilisée pour jouer une combinaison de lignes mélodiques et d'accords simples (par exemple, majeurs et mineurs).
+                    <p>La guitare Ã©lectrique a Ã©tÃ© utilisÃ©e pour la premiÃ¨re fois dans la musique arabe vers la fin des annÃ©es 1960 en Ã‰gypte. Le pionnier a Ã©tÃ© Omar Khorchid. Certaines guitares Ã©lectriques ont Ã©tÃ© modifiÃ©es par l'ajout de frettes supplÃ©mentaires (Ã  la maniÃ¨re du <a href="buzuq.php">Bouzouk</a>) de maniÃ¨re Ã  Ãªtre en mesure de jouer les <a href="../maqam.php">Maqams</a> arabes et leurs quarts de ton. La plupart du temps, la guitare Ã©lectrique a Ã©tÃ© utilisÃ©e sans Ãªtre modifiÃ©e et sans effet, et a acquis son 'arabitÃ©' grÃ¢ce au style ornemental. La guitare Ã©lectrique a Ã©tÃ© utilisÃ©e pour jouer une combinaison de lignes mÃ©lodiques et d'accords simples (par exemple, majeurs et mineurs).
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=3uBB1pxeirw">
@@ -54,7 +54,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Omar Khorchid</b>
-                                    <span>Le pionnier de la Guitare Électrique Omar Khorchid joue la chanson <strong>Daret el-Ayyam</strong> de Oum Koulsoum (1970, musique de Mouhammad Abdel Wahab).</span>
+                                    <span>Le pionnier de la Guitare Ã‰lectrique Omar Khorchid joue la chanson <strong>Daret el-Ayyam</strong> de Oum Koulsoum (1970, musique de Mouhammad Abdel Wahab).</span>
                                 </div>
                             </label>
                         </div>
@@ -70,20 +70,20 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Interview avec Omar Khorchid</b>
-                                    <span>Interview avec Omar Khorchid à propos de son expérience en tant que guitariste électrique dans l'orchestre de Oum Koulsoum.</span>
+                                    <span>Interview avec Omar Khorchid Ã  propos de son expÃ©rience en tant que guitariste Ã©lectrique dans l'orchestre de Oum Koulsoum.</span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
-                    <p>Explorer d'autres instruments arabisés:</p>
+                    <p>Explorer d'autres instruments arabisÃ©s:</p>
                     <ul>
-						<li><a href="accordion.php">L'Accordéon Arabe</a></li>
+						<li><a href="accordion.php">L'AccordÃ©on Arabe</a></li>
                     	<!--
-						<li><a href="guitar.php">La Guitare Électrique Arabe</a></li>
+						<li><a href="guitar.php">La Guitare Ã‰lectrique Arabe</a></li>
 						-->
-						<li><a href="org.php">L'Orgue Électrique Arabe</a></li>
-						<li><a href="keyboard.php">Le Synthétiseur Oriental</a></li>
+						<li><a href="org.php">L'Orgue Ã‰lectrique Arabe</a></li>
+						<li><a href="keyboard.php">Le SynthÃ©tiseur Oriental</a></li>
 						<li><a href="piano.php">Le Piano Arabe</a></li>
 						<li><a href="saxophone.php">Le Saxophone</a></li>
 						<li><a href="trumpet.php">La Trompette</a></li>

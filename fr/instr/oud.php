@@ -46,7 +46,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <p>
-                    Le Oud (aussi orthographié 'Ud) est un des instruments les plus populaires de la musique arabe.
+                    Le Oud (aussi orthographié ‘Ud) est un des instruments les plus populaires de la musique arabe.
                     Son nom signifie "une mince bande de bois" en arabe et ceci réfère aux bandes de bois utilisées pour fabriquer
                     le corps en forme de poire de l'instrument.
                     Le manche du oud est court en comparaison de son corps et n'a pas de frette.

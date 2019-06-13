@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "L'Orgue Électrique Arabe";
-$page_description = "L'Orgue Électrique Arabe";
-$page_keywords = "arabe, musique, instruments, accordéon, bouzouk, daff, mazhar, guitare électrique, katèm, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
+$page_title = "L'Orgue Ã‰lectrique Arabe";
+$page_description = "L'Orgue Ã‰lectrique Arabe";
+$page_keywords = "arabe, musique, instruments, accordÃ©on, bouzouk, daff, mazhar, guitare Ã©lectrique, katÃ¨m, nay, synthÃ©tiseur oriental, orgue Ã©lectrique, oud, â€˜ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqaâ€˜, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
 $page_language = "fr";
 
 include($ROOT . 'inc/head.php');
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>L'Orgue Électrique Arabe</h1>
-                        <h3>L'Orgue Électrique des années 1970 avec quelques quarts de ton</h3>
+                        <h1>L'Orgue Ã‰lectrique Arabe</h1>
+                        <h3>L'Orgue Ã‰lectrique des annÃ©es 1970 avec quelques quarts de ton</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Instruments</a>
@@ -38,10 +38,10 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/org.jpg" alt="The Electric Organ">
-                        <span>Le pionnier de l'Orgue Électrique Magdi el-Husseini (Égypte)</span>
+                        <span>Le pionnier de l'Orgue Ã‰lectrique Magdi el-Husseini (Ã‰gypte)</span>
                     </div>
 
-                    <p>L'Orgue Électrique (généralement appelé <em>org</em> en arabe, du français 'orgue')  est devenu très populaire dans la musique arabe, de la fin des années 1960 aux années 1970. Son pionnier a été le claviériste superstar égyptien Magdi el-Husseini. L'orgue a été modifié de manière à être en mesure de jouer des quarts de tons satisfaisants (comme ceux de l'accordéon), lui permettant de jouer la plupart des <a href="../maqam.php">maqams</a>. L'orgue a été utilisée pour jouer une combinaison de lignes mélodiques et d'accords simples.  Avec <a href="guitar.php">la guitare électrique</a>, l'accordéon a permis de créer un son distinctif qui a marqué la musique arabe de cette décennie.
+                    <p>L'Orgue Ã‰lectrique (gÃ©nÃ©ralement appelÃ© <em>org</em> en arabe, du franÃ§ais 'orgue')  est devenu trÃ¨s populaire dans la musique arabe, de la fin des annÃ©es 1960 aux annÃ©es 1970. Son pionnier a Ã©tÃ© le claviÃ©riste superstar Ã©gyptien Magdi el-Husseini. L'orgue a Ã©tÃ© modifiÃ© de maniÃ¨re Ã  Ãªtre en mesure de jouer des quarts de tons satisfaisants (comme ceux de l'accordÃ©on), lui permettant de jouer la plupart des <a href="../maqam.php">maqams</a>. L'orgue a Ã©tÃ© utilisÃ©e pour jouer une combinaison de lignes mÃ©lodiques et d'accords simples.  Avec <a href="guitar.php">la guitare Ã©lectrique</a>, l'accordÃ©on a permis de crÃ©er un son distinctif qui a marquÃ© la musique arabe de cette dÃ©cennie.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=Ptd3R51Qj-s&t=2126">
@@ -54,7 +54,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Magdi el-Husseini</b>
-                                <span>La chanson <strong>Qari'at al-Fingan</strong> de Abdel Halim Hafez (1976, musique de Mouhammad al-Mougi) avec les égyptiens Magdi el-Husseini et Hani Mehanna à l'orgue électrique (les deux membres de l'Orchestre Diamant).</span>
+                                <span>La chanson <strong>Qari'at al-Fingan</strong> de Abdel Halim Hafez (1976, musique de Mouhammad al-Mougi) avec les Ã©gyptiens Magdi el-Husseini et Hani Mehanna Ã  l'orgue Ã©lectrique (les deux membres de l'Orchestre Diamant).</span>
                                 </div>
                             </label>
                         </div>
@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Interview avec Magdi el-Husseini</b>
-                                    <span>Interview avec Magdi el-Husseini à propos de sa rencontre avec Abdel Halim Hafez et de son expérience en tant que membre de son orchestre.</span>
+                                    <span>Interview avec Magdi el-Husseini Ã  propos de sa rencontre avec Abdel Halim Hafez et de son expÃ©rience en tant que membre de son orchestre.</span>
                                 </div>
                             </label>
                         </div>
@@ -86,20 +86,20 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Interview avec Hani Mehanna</b>
-                                    <span>Interview avec Hani Mehanna à propos de sa rencontre avec Mouhammad Abdel Wahab et la chanteuse Oum Koulsoum et de son expérience en tant que membre de l'orchestre de cette dernière pour la chanson <strong>Leilet Hobb</strong>.</span>
+                                    <span>Interview avec Hani Mehanna Ã  propos de sa rencontre avec Mouhammad Abdel Wahab et la chanteuse Oum Koulsoum et de son expÃ©rience en tant que membre de l'orchestre de cette derniÃ¨re pour la chanson <strong>Leilet Hobb</strong>.</span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
-                    <p>Explorer d'autres instruments arabisés:</p>
+                    <p>Explorer d'autres instruments arabisÃ©s:</p>
                     <ul>
-						<li><a href="accordion.php">L'Accordéon Arabe</a></li>
-						<li><a href="guitar.php">La Guitare Électrique Arabe</a></li>
+						<li><a href="accordion.php">L'AccordÃ©on Arabe</a></li>
+						<li><a href="guitar.php">La Guitare Ã‰lectrique Arabe</a></li>
                     	<!--
-						<li><a href="org.php">L'Orgue Électrique Arabe</a></li>
+						<li><a href="org.php">L'Orgue Ã‰lectrique Arabe</a></li>
 						-->
-						<li><a href="keyboard.php">Le Synthétiseur Oriental</a></li>
+						<li><a href="keyboard.php">Le SynthÃ©tiseur Oriental</a></li>
 						<li><a href="piano.php">Le Piano Arabe</a></li>
 						<li><a href="saxophone.php">Le Saxophone</a></li>
 						<li><a href="trumpet.php">La Trompette</a></li>

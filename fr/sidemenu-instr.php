@@ -5,7 +5,7 @@
     <li><a href="/fr/instr/buzuq.php">Le Bouzouk</a></li>
     <li><a href="/fr/instr/daff.php">Le Daff</a></li>
     <li><a href="/fr/instr/guitar.php">La Guitare Électrique</a></li>
-    <li><a href="/fr/instr/katim.php">Le Katem</a></li>
+    <li><a href="/fr/instr/katim.php">Le Katèm</a></li>
     <li><a href="/fr/instr/mazhar.php">Le Mazhar Égyptien</a></li>
     <li><a href="/fr/instr/nay.php">Le Nay</a></li>
     <li><a href="/fr/instr/org.php">L'orgue Électrique</a></li>

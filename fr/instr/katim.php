@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Le Katèm";
-$page_description = "Le Katèm";
-$page_keywords = "arabe, musique, instruments, accordéon, buzuq, daff, mazhar, guitare électrique, katèm, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
+$page_title = "Le KatÃ¨m";
+$page_description = "Le KatÃ¨m";
+$page_keywords = "arabe, musique, instruments, accordÃ©on, buzuq, daff, mazhar, guitare Ã©lectrique, katÃ¨m, nay, synthÃ©tiseur oriental, orgue Ã©lectrique, oud, â€˜ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqaâ€˜, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
 $page_language = "fr";
 
 include($ROOT . 'inc/head.php');
@@ -29,7 +29,7 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Le Katèm</h1>
+                        <h1>Le KatÃ¨m</h1>
                         <h3>Un tambour sur cadre de support rythmique</h3>
                     </div>
 
@@ -38,14 +38,14 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/katim.jpg" alt="Katim">
-                        <span>Un Katèm accordable à peau de plastique. &copy; MaqamWorld</span>
+                        <span>Un KatÃ¨m accordable Ã  peau de plastique. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/katim.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Katèm</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/katim.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de KatÃ¨m</a>
                     </div>
 
-                    <p> Le Katèm (du verbe <em>katama</em>, 'assourdir' ou 'étouffer') est un tambour sur cadre lourd qui produit un son étouffé. Le Katèm est généralement posé entre les genoux du musicien et est fait pour être joué avec les mains plutôt qu'avec les doigts. La plupart des Katèms actuels ont des peaux de plastiques et sont accordables. Le rôle du Katèm est de supporter les autres instruments de la section rythmique en accentuant les sons <em>doum</em> et <em>tak</em> de base avec beaucoup d'ornementation.</p>
+                    <p> Le KatÃ¨m (du verbe <em>katama</em>, 'assourdir' ou 'Ã©touffer') est un tambour sur cadre lourd qui produit un son Ã©touffÃ©. Le KatÃ¨m est gÃ©nÃ©ralement posÃ© entre les genoux du musicien et est fait pour Ãªtre jouÃ© avec les mains plutÃ´t qu'avec les doigts. La plupart des KatÃ¨ms actuels ont des peaux de plastiques et sont accordables. Le rÃ´le du KatÃ¨m est de supporter les autres instruments de la section rythmique en accentuant les sons <em>doum</em> et <em>tak</em> de base avec beaucoup d'ornementation.</p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=cU1uHX74qkE&t=0s">
                         <div class="radio">
@@ -56,8 +56,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Zaffa (fête de mariage)</b>
-                                    <span>Une Zaffa égyptienne (fête de mariage) avec un grand groupe de percussionnistes utilisant une combinaison de <a href="mazhar.php">Mazhars</a> égyptiens, de Katims et de <a href="tabla.php">Tablas</a>, tous munis de peaux synthétiques.</span>
+                                    <b>Zaffa (fÃªte de mariage)</b>
+                                    <span>Une Zaffa Ã©gyptienne (fÃªte de mariage) avec un grand groupe de percussionnistes utilisant une combinaison de <a href="mazhar.php">Mazhars</a> Ã©gyptiens, de Katims et de <a href="tabla.php">Tablas</a>, tous munis de peaux synthÃ©tiques.</span>
                                 </div>
                             </label>
                         </div>
@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                         <li><a href="tabl_baladi.php">Le Tabl Baladi</a></li>
                         <li><a href="daff.php">Le Daff</a></li>
                         <li><a href="mazhar.php">Le Mazhar</a></li>
-                        <!-- <li><a href="katim.php">Le Katèm</a></li> -->
+                        <!-- <li><a href="katim.php">Le KatÃ¨m</a></li> -->
                         <li><a href="sagat.php">Les Sagat</a></li>
                    </ul>
 

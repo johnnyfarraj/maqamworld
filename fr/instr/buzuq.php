@@ -60,8 +60,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Muhyiddine Ba‘yun</b>
-                                    <span>Le joueur de bouzouk et chanteur libanias Muhyiddine Ba'yun jouant un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/bayati.php">Maqam Bayati</a>.</span>
+                                    <b>Mouhyiddine Ba‘youn</b>
+                                    <span>Le joueur de bouzouk et chanteur libanias Mouhyiddine Ba'youn jouant un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/bayati.php">Maqam Bayati</a>.</span>
                                 </div>
                             </label>
                         </div>
