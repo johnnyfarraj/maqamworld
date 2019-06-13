@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "The Tabla";
-$page_description = "The Tabla";
-$page_keywords = "arabe, musique, instruments, accord�on, bouzouk, daff, mazhar, guitare �lectrique, katem, nay, synth�tiseur oriental, orgue �lectrique, oud, �ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa�, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
+$page_title = "La Tabla";
+$page_description = "La Tabla";
+$page_keywords = "arabe, musique, instruments, accordéon, bouzouk, daff, mazhar, guitare électrique, katèm, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
 $page_language = "fr";
 
 include($ROOT . 'inc/head.php');
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>The Tabla</h1>
-                        <h3>Also called Dirbakki or Darbuka</h3>
+                        <h1>La Tabla</h1>
+                        <h3>Aussi appelée Dérbakki ou Darbuka</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Instruments</a>
@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/tabla.jpg" alt="The Tabla">
-                        <span>Aluminum-body tabla with plastic head from Gawharet El-Fan, Egypt. &copy; MaqamWorld</span>
+                        <span>Tabla en aluminium à peau de plastique de <strong>Gawharet El-Fan</strong>, Égypte.. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
@@ -48,11 +48,11 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/dirbakki.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Dirbakki</a>
                     </div>
 
-                    <p> The Tabla (also called "Dirbakki" in Levantine dialects or "Darbuka" in Western countries) is a goblet shaped drum with skin fixed on one side.
-		</p>
-		<p>Traditional <em>tabla</em>-s are made of clay and have fish or goat skin glued on and held tightly with a system of woven threads. Modern <em>tabla</em>-s have an aluminum body with a replaceable and tunable plastic (Mylar) head.
+                    <p> La Tabla (aussi appelée Dérbakki en dialecte levantin ou Darbuka en Occident) est un tambour en forme de gobelet avec une peau fixée sur le côté large.
                     </p>
-                    <p> The <em>tabla</em> is a very popular instrument in folk and pop music, and is especially popular in the Belly Dance genre. It is used to a certain extent in more classical genres.
+                    <p>Les Tablas traditionnelles sont faites en argile et ont une peau de chèvre ou de poisson collée et tenue par un système de fils tissés. Les tablas modernes ont un corps en aluminium avec une peau de plastique (mylar) pouvant être accordée et changée.
+                    </p>
+                    <p> La Tabla est un instrument très populaire dans la musique folklorique et populaire et particulièrement dans le genre de musique utilisée pour la danse du ventre. Elle est aussi parfois utilisée dans les genres de musique plus classiques.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=dpSa2SEnFh8">
@@ -64,8 +64,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Hossam Ramzi</b>
-                                    <span>Egyptian veteran Tabla player Hossam Ramzi talks about the instrument in an interview at Analogue to Digital Music Expo, 2013</span>
+                                    <b>Houssam Ramzi</b>
+                                    <span>Le vétéran de la Tabla Houssam Ramzi (Égypte) parle de l'instrument dans une interview lors de l'exposition Analogue to Digital Music en 2013.</span>
                                 </div>
                             </label>
                         </div>
@@ -80,8 +80,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Sa‘id al-Artist</b>
-                                    <span>Egyptian tabla master and teacher Sa‘id al-Artist with his percussion ensemble.</span>
+                                    <b>Saïd el-Artiste</b>
+                                    <span>Le maître et enseignant de Tabla Saïd el-Artiste (Égypte) avec son ensemble de percussion.</span>
                                 </div>
                             </label>
                         </div>
@@ -94,7 +94,7 @@ include($ROOT . 'inc/head.php');
                         <li><a href="tabl_baladi.php">Le Tabl Baladi</a></li>
                         <li><a href="daff.php">Le Daff</a></li>
                         <li><a href="mazhar.php">Le Mazhar</a></li>
-                        <li><a href="katim.php">Le Katem</a></li>
+                        <li><a href="katim.php">Le Katèm</a></li>
                         <li><a href="sagat.php">Les Sagat</a></li>
                    </ul>
 

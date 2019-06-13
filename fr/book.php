@@ -30,9 +30,9 @@ include($ROOT . 'inc/head.php');
                     </div>
                     <div class="clearfix"></div>
 
-                    <p>I am happy to announce an upcoming book written by myself (Johnny Farraj) and my friend Sami Abou Shumays (creator of <a href="http://maqamlessons.com" target="_blank">MaqamLessons</a>). The upcoming book is entitled <strong>INSIDE ARABIC MUSIC</strong>, and is expected to be published by <a href="http://oup.com" target="_blank">Oxford University Press</a> around May 2019. This book will be a comprehensive reference on Arabic Musique et this website will act like its companion. The book project was the recipient of a 2012 grant from <a href="http://arabculturefund.org/grantees/grantee.php?id=333" target="_blank">The Arab Fund For Arts and Culture</a>.
+                    <p>Je suis heureux d'annoncer mon nouveau livre co-écrit par moi (Johnny Farraj) et mon ami Sami Abou Shumays (le créateur de <a href="http://maqamlessons.com" target="_blank">MaqamLessons</a>). Ce nouveau livre porte le titre de <strong>INSIDE ARABIC MUSIC</strong> et devrait être publié par les <a href="http://oup.com" target="_blank">Presses de l'Université Oxford</a> en Juillet 2019. Ce livre sera une référence complète sur la musique arabe et accompagnera ce site web. Le projet pour ce livre a reçu une bourse en 2012 de <a href="http://arabculturefund.org/grantees/grantee.php?id=333" target="_blank">la Fondation Arabe pour les Arts et la Culture</a>.
                     </p>
-                    <p style="margin-bottom:40px;"> I will post more information about the book as it becomes available in early 2019.</p>
+                    <p style="margin-bottom:40px;"> Je partagerai plus d'information à propos du livre quand il sera disponible.</p>
                     
                     <div class="row">
                         <div class="col-md-6 ml-auto mr-auto">

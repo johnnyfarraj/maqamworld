@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Le Saxophone";
 $page_description = "Le Saxophone";
-$page_keywords = "arabe, musique, instruments, accordéon, bouzouk, daff, mazhar, guitare électrique, katem, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
+$page_keywords = "arabe, musique, instruments, accordéon, bouzouk, daff, mazhar, guitare électrique, katèm, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
 $page_language = "fr";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Le Saxophone</h1>
-                        <h3>A Saxophone used to play Arabic <a href="../maqam.php">Maqam</a> scales</h3>
+                        <h3>Un Saxophone utilisé pour jouer les <a href="../maqam.php">Maqams</a> Arabes</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Instruments</a>
@@ -38,12 +38,12 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/saxophone.jpg" alt="The Saxophone">
-                        <span>Arabic Saxophone pioneer Samir Surour (Égypte)</span>
+                        <span>Le pionnier du Saxophone Arabe Samir Sourour (Égypte)</span>
                     </div>
 
-                    <p> The Saxophone is a rare instrument in Arabic music, despite the fact that it can produce good <a href="../maqam.php">maqam</a> scale intonation. It never went mainstream the way the <a href="accordion.php">Arabic Accordion</a> did and was mostly used to add an innovative sound to Arabic orchestral arrangements.
+                    <p> Le Saxophone est un instrument rare dans la musique arabe malgré le fait qu'il soit en mesure de produire une bonne intonation pour les <a href="../maqam.php">maqam</a>. Il n'a jamais gagné la popularité de <a href="accordion.php">l'accordéon</a>, et n'a été utilisé que pour ajouter un nouveau son aux arrangements orchestraux arabes.
                     </p>
-                    <p> The principal pioneer of the Arabic saxophone is Samir Surour (Égypte) whose background was in military brass band music. Surour played on quite a few Oum Koulthoum songs then went to record a series of solo instrumental albums under the name <em>â€˜Ashiq el-Sax</em> (The Sax Lover).
+                    <p> Le pionnier principal du saxophone arabe est Samir Sourour (Égypte) qui avait une expérience de musicien de fanfare militaire. Surour a joué sur quelques chansons de Oum Koulsoum et a ensuite enregistré une série d'albums solo sous le nom de <strong>Achek el-Sax</strong> (L'amoureux du Saxophone).
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=n_2qIVjgboM">
@@ -55,8 +55,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                <b>Hawil Tiftikirni (1973)</b>
-                                <span>Abdel Halim Hafez's song <strong>Hawil Tiftikirni</strong> (1973, music by Baligh Hamdi) opens with the Arabic Org, the Electric Guitar, then a Saxophone solo by Samir Surour.</span>
+                                <b>Hawel Tiftikirni (1973)</b>
+                                <span>La chanson de Abdel Halim Hafez <strong>Hawel Tiftikirni</strong> (1973, musique de Baligh Hamdi) commence avec l'Orgue Arabe, la Guitare Électrique, puis un solo de Samir Sourour.</span>
                                 </div>
                             </label>
                         </div>
@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Fat el-Ma'ad (1967)</b>
-                                <span>Oum Koulthoum's song <strong>Fat el-Ma'ad</strong> (1967, music by Baligh Hamdi) includes in its arrangement Faruq Salama on the Arabic Accordion, Abdel Fattah Khayri on the Electric Guitar and Samir Surour on the Saxophone.</span>
+                                <span>La chanson de Oum Koulsoum <strong>Fat el-Ma'ad</strong> (1967, musique de Baligh Hamdi), avec Farouq Salama à l'Accordéon arabe, Abdel Fattah Khayri à la Guitare Électrique et Samir Sourour au Saxophone.</span>
                                 </div>
                             </label>
                         </div>
@@ -80,11 +80,11 @@ include($ROOT . 'inc/head.php');
 
                     <p>Explorer d'autres instruments arabisés:</p>
                     <ul>
-						<li><a href="accordion.php">L'Accordéon</a></li>
-						<li><a href="guitar.php">La Guitare Électrique</a></li>
-						<li><a href="org.php">L'Orgue Électrique</a></li>
-						<li><a href="keyboard.php">Le Synthétiseur oriental</a></li>
-						<li><a href="piano.php">Le Piano</a></li>
+						<li><a href="accordion.php">L'Accordéon Arabe</a></li>
+						<li><a href="guitar.php">La Guitare Électrique Arabe</a></li>
+						<li><a href="org.php">L'Orgue Électrique Arabe</a></li>
+						<li><a href="keyboard.php">Le Synthétiseur Oriental</a></li>
+						<li><a href="piano.php">Le Piano Arabe</a></li>
                     	<!--
 						<li><a href="saxophone.php">Le Saxophone</a></li>
 						-->

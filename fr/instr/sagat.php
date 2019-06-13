@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "The Sagat";
-$page_description = "The Sagat";
-$page_keywords = "arabe, musique, instruments, accordéon, bouzouk, daff, mazhar, guitare électrique, katem, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
+$page_title = "Les Sagat";
+$page_description = "Les Sagat";
+$page_keywords = "arabe, musique, instruments, accordéon, bouzouk, daff, mazhar, guitare électrique, katèm, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
 $page_language = "fr";
 
 include($ROOT . 'inc/head.php');
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>The Sagat</h1>
-                        <h3>Brass Finger Cymbals</h3>
+                        <h1>Les Sagat</h1>
+                        <h3>Cymbales en laiton tenues par les doigts</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Instruments</a>
@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/sagat.jpg" alt="Sagat">
-                        <span>A pair of brass sagat. &copy; MaqamWorld.</span>
+                        <span>Une paire de Sagat en laiton. &copy; MaqamWorld.</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
@@ -48,9 +48,9 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/tura.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Tura</a>
                     </div>
 
-                    <p>Sagat (called <em>Sajat</em> outside Egypt) are brass finger cymbals around 1&#189; to 2 inches in diameter (larger cymbals of up to twice that diameter exist and are called <em>Tura</em>). They are worn on the thumb and the 3<sup>rd</sup> finger of each hand using stretchy bands. Sagat are sometimes called by their Turkish name "zills".</p>
-
-                    <p><em>Sagat</em> are very popular among <em>Raqs Sharqi</em> professionals (belly dancers) as they beautifully accent and add color to other perussion instruments in the rhythm section. For this reason, countless YouTube videos exist on finger cymbal technique and performance.
+                    <p>Les Sagats (appelées <em>Sajat</em> à l'extérieur de l'Égypte) sont des cymbales en laiton tenues par les doigts qui ont un diamètre de 3,5 à 5 centimètres (des cymbales pouvant être jusqu'à deux fois plus larges existent aussi et sont appelées <em>Toura</em>). Elles sont portées sur le pouce et le troisième doigt de chaque main à l'aide de bandes élastiques.
+                    </p>
+                    <p>Les Sagats sont très populaires chez les <em>Raqs Charqi</em> professionnelles (les danseuses du ventre) parce qu'elles accentuent joliment et ajoutent de la couleur aux autres instruments de percussion de la section rythmique. Pour cette raison, beaucoup de vidéos YouTube existent sur les techniques de doigté pour les cymbales et sur la performance.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=UpG__9CAiVE&t=0s">
@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Karim Nagi</b>
-                                    <span>Percussionist Karim Nagi (Egypt/USA) plays a Sagat solo</span>
+                                    <span>Karim Nagi(percussionniste de l'Égypte/Etats-Unis) joue un solo de Sagat. </span>
                                 </div>
                             </label>
                         </div>
@@ -76,7 +76,7 @@ include($ROOT . 'inc/head.php');
                         <li><a href="tabl_baladi.php">Le Tabl Baladi</a></li>
                         <li><a href="daff.php">Le Daff</a></li>
                         <li><a href="mazhar.php">Le Mazhar</a></li>
-                        <li><a href="katim.php">Le Katem</a></li>
+                        <li><a href="katim.php">Le Katèm</a></li>
                         <!-- <li><a href="sagat.php">Les Sagat</a></li> -->
                    </ul>
 

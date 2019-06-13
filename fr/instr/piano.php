@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Le Piano";
-$page_description = "Le Piano";
-$page_keywords = "arabe, musique, instruments, accordéon, bouzouk, daff, mazhar, guitare électrique, katem, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
+$page_title = "Le Piano Arabe";
+$page_description = "Le Piano Arabe";
+$page_keywords = "arabe, musique, instruments, accordéon, bouzouk, daff, mazhar, guitare électrique, katèm, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
 $page_language = "fr";
 
 include($ROOT . 'inc/head.php');
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Le Piano</h1>
-                        <h3>A piano that plays <a href="../maqam.php">Maqamat</a> without harmony</h3>
+                        <h1>Le Piano Arabe</h1>
+                        <h3>Un piano qui joue les <a href="../maqam.php">Maqams</a> sans harmonie</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Instruments</a>
@@ -38,14 +38,14 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/piano.jpg" alt="The Arabic Piano">
-                        <span>Lebanese pianist Ziad Rahbani, from a concert poster in the 1980s</span>
+                        <span>Le pianiste libanais Ziad Rahbani (d'un poster pour un concert des années 1980)</span>
                     </div>
 
-                    <p> Although the piano as included in Arabic music since the early 20<sup>th</sup> century, it was used as a Western instrument to add a classical color to Arabic compositions (e.g. in "al-Siba wal-Gamal" by Mouhammad Abdel Wahab, 1939). By Arabic Piano, however, we refer to a piano that's played melodically (without harmony) within the Arabic <a href="../maqam.php">maqam</a> framework.
+                    <p> Bien que le piano ait été intégré à la musique arabe au début du 20ième siècle, il a été utilisé en tant qu'instrument européen pour ajouter une couleur classique à des compositions arabes (par exemple dans al-Siba wal-Gamal de Mouhammad Abdel Wahab, en 1939). Par 'Piano Arabe', par contre, nous référons à un piano joué mélodiquement (sans harmonie) dans un cadre de musique utilisant le <a href="../maqam.php">maqam</a> arabe.
                     </p>
-                    <p>The earliest Arabic piano pioneer was the Lebanese Wadih Sabra who played a piano endowed with additional notes (quartertones) during the Cairo Arabic Music Congress of 1932. Later, Lebanese Abdallah Chahine also altered a piano to play quartertones and recorded an album called "al-Nagham al-Khalid" with <a href="../form/improv.php#taqsim">taqasim</a> in the most common <a href="../maqam.php">maqamat</a>.
+                    <p>Le premier pionnier du piano arabe a été le libanais Wadih Sabri qui a ajouté des notes au piano (quarts de ton) pendant le Congrès de la Musique Arabe du Caire en 1932. Plus tard, le libanais Abdallah Chahine a aussi modifié le piano pour être en mesure de jouer les quarts de ton et a enregistré un album appelé 'al-Nagham al-Khalid' avec des <a href="../form/improv.php#taqsim">taqsims</a> dans les <a href="../maqam.php">maqams</a> les plus communs.
                     </p>
-                    <p>Toward the end of the 20<sup>th</sup> century, Lebanese musician and playwright Ziad Rahbani recorded many songs and instrumental compositions using an acoustic or electric piano (a Fender Rhodes) to play either <a href="../maqam.php">maqam</a> melodic lines, or harmony within a Jazz-fusion genre.
+                    <p>Vers la fin du 20<sup>ième</sup> siècle, le musicien et écrivain de théâtre Ziad Rahbani a enregistré de nombreuses chansons et compositions instrumentales avec un piano ou piano électrique (un Fender Rhodes) pour jouer soit des lignes mélodiques de <a href="../maqam.php">maqam</a>, soit des harmonies dans le genre jazz-fusion.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=3v9u-h4Vr5A">
@@ -58,7 +58,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Abdallah Chahine</b>
-                                <span>Lebanese pianist Abdallah Chahine playing a Piano Taqsim in <a href="../maqam/saba.php">Maqam Saba</a> followed by the song <strong>Batit 'Uyuni</strong> from his album "Angham Min al-Sharq".</span>
+                                <span>Le pianiste libanais Abdallah Chahine jouant un <a href="../form/improv.php#taqsim">taqsim</a> au piano dans le <a href="../maqam/saba.php">Maqam Saba</a> suivi de la chanson <strong>Batét Ouyouni</strong> de son album <strong>Angham Min al-Charq</strong> (melodies de l'orient).</span>
                                 </div>
                             </label>
                         </div>
@@ -74,7 +74,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ziad Rahbani</b>
-                                    <span>Lebanese pianst Ziad Rahbani plays Arabic piano on his song <strong>Shu Hal-Iyyam</strong> from his CD <strong>Ana Moush Kafer</strong>, 1985.</span>
+                                    <span>Le pianiste libanais Ziad Rahbani jouant du piano dans sa chanson <strong>Chou Hal-Iyyam</strong>, de son album <strong>Ana Mouch Kafer</strong> (1985).</span>
                                 </div>
                             </label>
                         </div>
@@ -90,7 +90,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                 <b>W'Qamh</b>
-                                <span>Ziad Rahbani's instrumental composition <strong>W'Qamh</strong> in <a href="../maqam/hijaz.php">Maqam Hijaz</a> uses the Arabic piano in a Jazz fusion arrangement. From Fairouz's CD <strong>Mish Kayin Hayk Tkoun</strong>, 1987.</span>
+                                <span>La composition instrumentale <strong>W'Qamh</strong> de Ziad Rahbani dans le <a href="../maqam/hijaz.php">Maqam Hijaz</a> utilise le piano arabe dans un arrangement jazz-fusion. De l'album de Fairouz <strong>Mich Kayin Hayk Tkoun</strong> (1987).</span>
                                 </div>
                             </label>
                         </div>
@@ -98,12 +98,12 @@ include($ROOT . 'inc/head.php');
 
                     <p>Explorer d'autres instruments arabisés:</p>
                     <ul>
-						<li><a href="accordion.php">L'Accordéon</a></li>
-						<li><a href="guitar.php">La Guitare Électrique</a></li>
-						<li><a href="org.php">L'Orgue Électrique</a></li>
-						<li><a href="keyboard.php">Le Synthétiseur oriental</a></li>
+						<li><a href="accordion.php">L'Accordéon Arabe</a></li>
+						<li><a href="guitar.php">La Guitare Électrique Arabe</a></li>
+						<li><a href="org.php">L'Orgue Électrique Arabe</a></li>
+						<li><a href="keyboard.php">Le Synthétiseur Oriental</a></li>
                     	<!--
-						<li><a href="piano.php">Le Piano</a></li>
+						<li><a href="piano.php">Le Piano Arabe</a></li>
 						-->
 						<li><a href="saxophone.php">Le Saxophone</a></li>
 						<li><a href="trumpet.php">La Trompette</a></li>

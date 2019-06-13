@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "The Riqq";
-$page_description = "The Riqq";
-$page_keywords = "arabe, musique, instruments, accordéon, buzuq, daff, mazhar, guitare électrique, katim, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
+$page_title = "Le Riqq";
+$page_description = "Le Riqq";
+$page_keywords = "arabe, musique, instruments, accordéon, buzuq, daff, mazhar, guitare électrique, katèm, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
 $page_language = "fr";
 
 include($ROOT . 'inc/head.php');
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>The Riqq</h1>
-                        <h3>A Small Hand-Held Frame Drum with Cymbals</h3>
+                        <h1>Le Riqq</h1>
+                        <h3>Un petit tambour sur cadre à cymbales tenu à la main</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Instruments</a>
@@ -38,19 +38,19 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/riqq.jpg" alt="The Riqq">
-                        <span>Two traditional fish-skin riqq-s. &copy; MaqamWorld</span>
+                        <span>Deux riqqs traditionnels à peaux de poisson. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/riqq.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Riqq</a>
                     </div>
 
+                    <p>Le Riqq est un petit tambour sur cadre à cymbales tenu à la main. Le cadre est en général fait de bois (certains modèles en aluminium existent aussi) et a un diamètre de 23 à 26 centimètres. La peau est traditionnellement de poisson; les riqqs modernes utilisent plutôt du plastique (mylar). Les cymbales donnent au riqq son son distinctif. Elles sont faites de laiton (à peu près 0.8 à 0.9 millimètres d'épaisseur) et viennent en 5 (ou 6) groupes de quatre.
+                    </p>
                     <p>
-                        The Riqq is a small hand-held frame drum with cymbals. The frame is usually made of wood (a few aluminum models exist), and is 9 to 10 inches in diameter. It is traditionally fitted with fish skin, although modern <em>riqq</em>-s use plastic (Mylar) instead. The cymbals give the <em>riqq</em> its distinctive sound. They are made of brass (around 0.8mm to 0.9mm thick) and come in 5 (sometimes 6) groups of four. </p>
-                    <p>
-                        The <em>riqq</em> can be used to play very complex <a href="../iqaa.php">rhythmic cycles</a> and ornamentations using intricate fingering technique, and can produce a wide variety of sounds by utilizing the skin, the wood frame and the cymbals.</p>
-                    <p>
-                        The <em>riqq</em> is usually the only percussion instrument in a <em>takht</em> (traditional Arabic chamber group) and its player is called <em>dabet al-iqa‘</em> (controller/manager of rhythm).</p>
+                    Le Riqq peut être utilisé pour jouer des <a href="../iqaa.php">cycles rythmiques</a> et des ornements très complexes en utilisant une technique de doigté élaborée. Il peut produire une palette de sons très ample en utilisant la peau, le cadre de bois et les cymbales.
+                    </p>
+                    <p>Le Riqq est généralement le seul instrument de percussion du <em>takht</em> (l'orchestre de chambre traditionnel arabe) et le musicien qui en joue est appelé <em>dabet al-iqa‘</em> ('celui qui contrôle le rythme').</p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=Ptd3R51Qj-s&t=2100s">
                         <div class="radio">
@@ -62,7 +62,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Hassan Anwar</b>
-                                <span>Riqq player Hassan Anwar (the official <em>dabet al-iqa‘</em> for the Diamond Orchestra in Egypt) exchanges solos with the org player in Abdel Halim Hafez's song <strong>Qari'at al-Fingan</strong> (1976, music by Mouhammad al-Mougi).</span>
+                                <span>Le joueur de riqq Hasan Anwar (le <em>dabet al-iqa‘</em> officiel de l'Orchestre Diamant d'Égypte) échange des solos avec le joueur d'orgue pendant la chanson <strong>Qari'at al-Fingan</strong> de Abdel Halim Hafez (1976, musique de Mouhammad al-Mougi).</span>
                                 </div>
                             </label>
                         </div>
@@ -78,7 +78,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Mouhammad al-‘Arabi</b>
-                                    <span>Egyptian riqq player Mouhammad al-‘Arabi performs a Riqq Solo (on a riqq with a plastic head) where he explores many iqa‘at.</span>
+                                <span>Le joueur de riqq égyptien Mouhammad al-‘Arabi joue un solo sur un riqq à peau de plastique dans lequel il explore plusieurs <a href="../iqaa.php">iqa‘at</a>.</span>
                                 </div>
                             </label>
                         </div>
@@ -94,23 +94,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Adel Shams el-Din</b>
-                                    <span>Egyptian percussionist Adel Shams el-Din performs a Riqq Solo on a fishskin riqq, where he explores many iqa‘at (recorded in 2005 at the Institut du Monde Arabe, Paris).</span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-
-                  <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=ga3CAHh2JmM?&t=110s">
-                        <div class="radio">
-                            <label>
-                                <div class="thumb-area">
-                                    <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/ga3CAHh2JmM/hqdefault.jpg">
-                                    </div>
-                                </div><!--
-                             --><div class="info">
-                                    <b>Mustafa Bayyumi</b>
-                                    <span>Egyptian percussionist Mustafa Bayyumi performs a Riqq Solo (on a riqq with a plastic head) where he explores many iqa‘at.</span>
+                                    <span>Le percussionniste égyptien Adel Shams el-Din joue un solo sur un riqq à peau de poisson, dans lequel il explore plusieurs <a href="../iqaa.php">iqa‘at</a> (enregistré en 2005 à l'Institut du Monde Arabe, Paris).</span>
                                 </div>
                             </label>
                         </div>
@@ -123,7 +107,7 @@ include($ROOT . 'inc/head.php');
                         <li><a href="tabl_baladi.php">Le Tabl Baladi</a></li>
                         <li><a href="daff.php">Le Daff</a></li>
                         <li><a href="mazhar.php">Le Mazhar</a></li>
-                        <li><a href="katim.php">Le Katem</a></li>
+                        <li><a href="katim.php">Le Katèm</a></li>
                         <li><a href="sagat.php">Les Sagat</a></li>
                    </ul>
 

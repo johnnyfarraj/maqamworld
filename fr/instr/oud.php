@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Le Oud Arabe";
 $page_description = "Le Oud Arabe";
-$page_keywords = "arabe, musique, instruments, accordéon, bouzouk, daff, mazhar, guitare électrique, katem, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
+$page_keywords = "arabe, musique, instruments, accordéon, bouzouk, daff, mazhar, guitare électrique, katèm, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
 $page_language = "fr";
 
 include($ROOT . 'inc/head.php');
@@ -58,7 +58,7 @@ include($ROOT . 'inc/head.php');
                     Certains ouds ont une paire de cordes en plus. L'accordage le plus courant est, du plus grave au plus
                     aigüe: Do, Fa, La, Ré, Sol, Do, ce qui fait de tous les intervalles (mis à part l'intervalle de Fa à La) des quartes.
                     Les cordes étaient historiquement faites de boyau d'animal et étaient pincées à l'aide d'un plectre appelé
-                    <em>risha</em> (le mot arabe pour 'plume').
+                    <em>richa</em> (le mot arabe pour 'plume').
                     Les cordes modernes sont faites d'acier enroulé sur du nylon et les risha modernes sont faits de plastique,
                     d'écaille de tortue, de corne d'animal ou même de bambou.
                     </p>

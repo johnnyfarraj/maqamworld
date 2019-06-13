@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "L'Accordéon";
-$page_description = "L'Accordéon";
-$page_keywords = "arabe, musique, instruments, accordéon, bouzouk, daff, mazhar, guitare électrique, katem, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
+$page_title = "L'Accordéon Arabe";
+$page_description = "L'Accordéon Arabe";
+$page_keywords = "arabe, musique, instruments, accordéon, bouzouk, daff, mazhar, guitare électrique, katèm, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
 $page_language = "fr";
 
 include($ROOT . 'inc/head.php');
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>L'Accordéon</h1>
-                        <h3>An Accordion altered to include quartertone notes</h3>
+                        <h1>L'Accordéon Arabe</h1>
+                        <h3>Un accordéon modifié pour obtenir les quarts de ton</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Instruments</a>
@@ -38,13 +38,12 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/accordion.jpg" alt="L'Accordéon Arabe">
-                        <span>Faruq Salama playing accordion on Oum Koulthoum's "Ya Msahharni", Cairo, 1971</span>
+                        <span>Farouq Salama jouant de l'accordéon sur la chanson 'Ya Msahharni' de Oum Koulhoum, 1971</span>
                     </div>
 
+                    <p>L'accordéon est entré dans la scène musicale arabe en Égypte au début du 20ième siècle et était au début utilisé sans modification pour donner une touche exotique à la musique (par exemple sur la chanson '<em>Sahirtou</em>' de Mouhammad Abdel Wahab en 1935). Plus tard, l'instrument a été modifié pour y ajouter quelques notes (les quarts de ton), ce qui a permis de jouer plus de gammes (<a href="../maqam.php">maqams</a>) arabes avec une intonation plus ou moins précise.</p>
                     <p>
-                        The Accordion came to the Arabic music scene in Egypt in the early 20<em>th</em> century, and was originally used without any alteration to add a foreign flavor to the music (e.g. on "<em>Sahirtu</em>" by Mouhammad Abdel Wahab in 1935). Later it was altered to add new notes (the "quartertones") that allowed it to play many more Arabic <a href="../maqam.php">maqam</a> scales with good-enough intonation. </p>
-                    <p>
-                        The accordion is extremely popular in the <em>Raqs Sharqi</em> (belly dance) and <em>Sha‘bi</em> genres.
+                        L'accordéon est très populaire dans les genres <em>Raqs Charqi</em> (danse du ventre) et <em>Cha‘bi</em>.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=_0JgmVgSa94&t=376s">
@@ -57,7 +56,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ya Msahharni</b>
-                                    <span>Egyptian Arabic Accordion pioneer Faruq Salama plays the introduction of Umm Kukthum's song <strong>Ya Msahharni</strong> (1972, music by Sayyed Makkawi.</span>
+                                    <span>Le pionnier de l'accordéon arabe égyptien Farouq Salama jouant l'introduction à la pièce de Oum Koulthoum <strong>Ya Msahharni</strong> (1972, musique de Sayyed Makkawi).</span>
                                 </div>
                             </label>
                         </div>
@@ -72,8 +71,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Faruq Salama Interview</b>
-                                    <span>Interview about Faruq Salama about his experience playing the Arabic Accordion with Oum Koulthoum's orchestra</span>
+                                    <b>Interview avec Farouq Salama</b>
+                                    <span>Interview avec Farouq Salama à propos de son expérience en tant qu'accordéoniste dans l'orchestre de Oum Koulthoum.</span>
                                 </div>
                             </label>
                         </div>
@@ -89,7 +88,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Fifi ‘Abdou</b>
-                                    <span>A dance clip by Egyptian belly dancer Fifi ‘Abdou that opens with an Arabic accordion</span>
+                                    <span>Un vidéo de la danseuse du ventre Fifi 'Abdou qui commence avec de l'accordéon arabe.</span>
                                 </div>
                             </label>
                         </div>
@@ -105,7 +104,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                 <b>Ahmed ‘Adaweya</b>
-                                <span>Ahmed ‘Adaweya's song <strong>Yi Hilu il-Malamih</strong> (in the Egyptian <em>Sha‘bi</em> genre) accompanied by a belly dancer.</span>
+                                <span>La chanson de Ahmed ‘Adaweya <strong>Yi Hilu il-Malamih</strong> (dans le genre égyptien <em>Cha‘bi</em>) avec accompagnement par une danseuse.</span>
                                 </div>
                             </label>
                         </div>
@@ -121,7 +120,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Elias Lammam</b>
-                                <span>The National Arab Orchestra (USA) performing Farid al-Atrache's instrumental composition <strong>Kahramana</strong> in an arrangement that features the Arabic Accordion alongside traditional Arabic instruments.</span>
+                                <span>L'Orchestre National Arabe (Etats-Unis) jouant la composition de Farid al-Atrach <strong>Kahramana</strong> dans un arrangement dans lequel fait place l'accordéon arabe aux côtés d'instruments traditionnels arabes.</span>
                                 </div>
                             </label>
                         </div>
@@ -130,12 +129,12 @@ include($ROOT . 'inc/head.php');
                     <p>Explorer d'autres instruments arabisés:</p>
                     <ul>
                     	<!--
-						<li><a href="accordion.php">L'Accordéon</a></li>
+						<li><a href="accordion.php">L'Accordéon Arabe</a></li>
 						-->
-						<li><a href="guitar.php">La Guitare Électrique</a></li>
-						<li><a href="org.php">L'Orgue Électrique</a></li>
-						<li><a href="keyboard.php">Le Synthétiseur oriental</a></li>
-						<li><a href="piano.php">Le Piano</a></li>
+						<li><a href="guitar.php">La Guitare Électrique Arabe</a></li>
+						<li><a href="org.php">L'Orgue Électrique Arabe</a></li>
+						<li><a href="keyboard.php">Le Synthétiseur Oriental</a></li>
+						<li><a href="piano.php">Le Piano Arabe</a></li>
 						<li><a href="saxophone.php">Le Saxophone</a></li>
 						<li><a href="trumpet.php">La Trompette</a></li>
                    </ul>

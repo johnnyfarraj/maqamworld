@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Le Synthétiseur Oriental";
 $page_description = "Le Synthétiseur Oriental";
-$page_keywords = "arabe, musique, instruments, accordéon, bouzouk, daff, mazhar, guitare électrique, katem, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
+$page_keywords = "arabe, musique, instruments, accordéon, bouzouk, daff, mazhar, guitare électrique, katèm, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
 $page_language = "fr";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Le Synthétiseur Oriental</h1>
-                        <h3>A Synthesizer/Sampler with full quartertone capability</h3>
+                        <h3>Un Synthétiseur/Echantillonneur avec la capacité de jouer tous les quarts de ton</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Instruments</a>
@@ -38,22 +38,20 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/keyboard.jpg" alt="Le Synthétiseur Oriental">
-                        <span>The Ketron Vega Oriental Keyboard.</span>
+                        <span>Le Synthétiseur Oriental Ketron Vega</span>
                     </div>
 
-                    <p> Le Synthétiseur Oriental is the successor of the <a href="org.php">org</a>, and it came to the market toward the end of the 20<sup>th</sup> century. Its strength was that it could imitate sounds from various traditional Arabic instruments by sampling them, and as such the player could summon a <em>Mijwiz</em>, a <a href="qanun.php">Qanoun</a>, or even a <a href="saxophone.php">Saxophone</a> at the touch of a button.
+                    <p> Le Synthétiseur Oriental est le successeur de <a href="org.php">l'orgue</a> et est apparu sur le marché vers la fin du 20<sup>ième</sup> siècle. Sa force était de pouvoir imiter les sons de plusieurs instruments arabes en les échantillonnant et en permettant au musicien d'imiter et d'alterner entre le <em>Mijwiz</em>, le <a href="qanun.php">Qanoun</a> ou même le <a href="saxophone.php">Saxophone</a> en appuyant sur un bouton.
                     </p>
-                    <p>
-                    Most synthesizer companies (like Roland, Yamaha, GEM, Kawai, Korg and Ketron) manufacture Oriental Keyboard models, and include a built-in electronic rhythm generator where the player can supplement their melody/chords with <a href="../iqaa.php">iqa‘at</a> pre-recorded from sampled Arabic Percussion Instruments. This makes the Oriental Keyboard a very powerful and versatile instrument, and an essential one in Arabic pop and dance music.
+                    <p>La plupart des compagnies de synthétiseurs (comme Roland, Yamaha, GEM, Kawai et Ketron) fabriquent des synthétiseurs orientaux et y incluent un générateur de rythmes permettant au musicien d'ajouter à ses mélodies/accords des <a href="../iqaa.php">iqa‘at</a> préenregistrés à partir d'échantillons d'instruments de percussions arabes. Ceci fait du clavier oriental un instrument très puissant et versatile et un instrument essentiel pour la musique pop et de dance arabe.
                     </p>
 
                     <div class="image-with-caption">
                         <img src="/instr/keyboard2.jpg" alt="Le Synthétiseur Oriental's Quartertone Buttons">
-                        <span>12 switches to lower each note on the keyboard by a quartertone</span>
+                        <span>12 boutons pour abaisser chaque note du clavier d'un quart de ton</span>
                     </div>
 
-                    <p> The oriental keyboard is able to play a quartertone on any of the 12 notes of the
-                    keyboard simply by pressing a switch.
+                    <p> Le clavier oriental est capable de produire un quart de ton à partir de toutes les 12 notes du clavier en appuyant sur chaque bouton.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=3YMxXobcrc8">
@@ -66,7 +64,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Aw‘idak</b>
-                                    <span>The National Arab Orchestra (U.S.A.) performing Souad Mouhammad's song <strong>Aw‘idak</strong> in an arrangement that includes the Oriental Keyboard and the Electric Guitar alongside traditional Arabic instruments.</span>
+                                    <span>L'Orchestre Arabe National (États-Unis) jouant la chanson <strong>Aw‘idak</strong> de Souad Mouhammad dans un arrangement incluant le Clavier Oriental et la Guitare Électrique à côté d'instruments traditionnels arabes.</span>
                                 </div>
                             </label>
                         </div>
@@ -81,8 +79,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Shamstep by 47Soul</b>
-                                <span>Pan-Palestinian group 47Soul added an interesting twist to the normal usage of the Oriental Keyboard by using sound effects to create a new genre of techno-<em>dabke</em>, as in their hit song <strong>Shamstep</strong>.</span>
+                                    <b>Shamstep</b>
+                                <span>Le groupe pan-palestinien<strong>47Soul</strong> a ajouté des effets sonores au clavier oriental et a ainsi créé un nouveau genre de techno-<em>dabké</em> avec leur chanson <strong>Shamstep</strong>.</span>
                                 </div>
                             </label>
                         </div>
@@ -90,13 +88,13 @@ include($ROOT . 'inc/head.php');
 
                     <p>Explorer d'autres instruments arabisés:</p>
                     <ul>
-						<li><a href="accordion.php">L'Accordéon</a></li>
-						<li><a href="guitar.php">La Guitare Électrique</a></li>
-						<li><a href="org.php">L'Orgue Électrique</a></li>
+						<li><a href="accordion.php">L'Accordéon Arabe</a></li>
+						<li><a href="guitar.php">La Guitare Électrique Arabe</a></li>
+						<li><a href="org.php">L'Orgue Électrique Arabe</a></li>
                     	<!--
-						<li><a href="keyboard.php">Le Synthétiseur oriental</a></li>
+						<li><a href="keyboard.php">Le Synthétiseur Oriental</a></li>
 						-->
-						<li><a href="piano.php">Le Piano</a></li>
+						<li><a href="piano.php">Le Piano Arabe</a></li>
 						<li><a href="saxophone.php">Le Saxophone</a></li>
 						<li><a href="trumpet.php">La Trompette</a></li>
                    </ul>

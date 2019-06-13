@@ -62,79 +62,76 @@ include($ROOT . 'inc/head.php');
                     </p>
 
                     <p>
-		Les instruments arabisés sont des instruments non-arabes qui sont entrés dans l'ensemble de musique arabe
-		au 20<sup>ième</sup> siècle et sont devenus partie prenante du son de la musique arabe de cette période.
-		La plupart de ces instruments ont été adoptés en Égypte où les musiciens ont développé de nouvelles techniques
-		et manières d'ornementer qui ont permis à ces instruments de sonner 'arabe'.
-		Certains de ces instruments ont été modifiés de manière à ajouter de nouvelles notes de manière à être en mesure
-		de donner une version assez proche de l'intonation correcte du <a href="../maqam.php">maqam</a> arabe.
+		Les instruments arabisés sont des instruments non-arabes qui sont entrés dans l'ensemble de musique arabe au 20<sup>ième</sup> siècle et sont devenus partie prenante du son de la musique arabe de cette période.
+		La plupart de ces instruments ont été adoptés en Égypte où les musiciens ont développé de nouvelles techniques et manières d'ornementer qui ont permis à ces instruments de sonner 'arabe'.
+        Certains de ces instruments ont été modifiés de manière à ajouter de nouvelles notes de manière à être en mesure de donner une version assez proche de l'intonation correcte du <a href="../maqam.php">maqam</a> arabe.
 		Certains autres instruments possédant un système de 12 notes également tempérées ont été utilisés sans transformation.
 		</p>
 
-                    <p>
+        <p>
 		Cette catégorie inclue le <a href="instr/piano.php">piano</a>, le piano électrique,
 		l'<a href="instr/org.php">orgue électrique</a>, le <a href="instr/keyboard.php">synthétiseur oriental</a>,
 		l'<a href="instr/accordion.php">accordéon</a>, la <a href="instr/guitar.php">guitare électrique</a> et la basse électrique (sans frette).
 		Certains de ces instruments peuvent être modifiés de manière à produire les quarts de ton.
 		La batterie et la percussion électronique sont aussi souvent utilisées pour la musique arabe contemporaine populaire ou de danse.
-                    </p>
+        </p>
 
-                    <p>La flute, le <a href="instr/saxophone.php">saxophone</a>, la clarinette et la <a href="instr/trumpet.php">trompette</a> sont
+        <p>La flute, le <a href="instr/saxophone.php">saxophone</a>, la clarinette et la <a href="instr/trumpet.php">trompette</a> sont
 		des instruments à tempérament non-égal et permettent un plus grand contrôle des fréquences
 		que les instruments venant d'être mentionnés. Ils sont utilisés à des degrés divers dans la musique arabe,
 		particulièrement dans les styles de jazz fusion arabe modernes.
-                    </p>
+        </p>
 
-                    <p>Le violon, l'alto, le violoncelle et la contrebasse sont beaucoup utilisés dans la musique arabe,
+        <p>Le violon, l'alto, le violoncelle et la contrebasse sont beaucoup utilisés dans la musique arabe,
 		particulièrement dans les grands ensembles comme celui de Oum Koulthoum et l'Orchestre Diamant en Égypte.
 		Étant tous sans frette, ces instruments peuvent produire sans problème les gammes du <a href="maqam.php">maqam</a> arabe.
-                    </p>
+        </p>
 
-                    <div class="row">
-                        <div class="col-sm-12 col-md-6 col-lg-6 col-xl-4">
-                            <div class="card">
-                                <img class="card-img-top" src="/img/rosette_khalaf.png" alt="Oud Rosette Khalaf">
-                                <div class="card-body">
-                                    <h5 class="card-title">Instruments Traditionnels</h5>
-                                    <p class="card-text"><a href="instr/oud.php">Le Oud</a></p>
-                                    <p class="card-text"><a href="instr/qanun.php">Le Qanoun</a></p>
-                                    <p class="card-text"><a href="instr/nay.php">Le Nay</a></p>
-                                    <p class="card-text"><a href="instr/violin.php">Le Violon</a></p>
-                                    <p class="card-text"><a href="instr/buzuq.php">Le Bouzouk</a></p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-12 col-md-6 col-lg-6 col-xl-4">
-                            <div class="card">
-                                <img class="card-img-top" src="/img/nahat_girgi.png" alt="Oud Rosette Nahhat">
-                                <div class="card-body">
-                                    <h5 class="card-title">Instruments Arabisés</h5>
-                                    <p class="card-text"><a href="instr/accordion.php">L'Accordéon</a></p>
-                                    <p class="card-text"><a href="instr/guitar.php">La Guitare Électrique</a></p>
-                                    <p class="card-text"><a href="instr/org.php">L'Orgue Électrique</a></p>
-                                    <p class="card-text"><a href="instr/keyboard.php">Le Synthétiseur Oriental</a></p>
-                                    <p class="card-text"><a href="instr/piano.php">Le Piano</a></p>
-                                    <p class="card-text"><a href="instr/saxophone.php">Le Saxophone</a></p>
-                                    <p class="card-text"><a href="instr/trumpet.php">La Trompette</a></p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-12 col-md-6 col-lg-6 col-xl-4">
-                            <div class="card">
-                                <img class="card-img-top" src="/img/vergara.png" alt="Oud Rosette Vergara">
-                                <div class="card-body">
-                                    <h5 class="card-title">Instruments de Percussion</h5>
-                                    <p class="card-text"><a href="instr/riqq.php">Le Riqq</a></p>
-                                    <p class="card-text"><a href="instr/tabla.php">La Tabla</a></p>
-                                    <p class="card-text"><a href="instr/tabl_baladi.php">Le Tabl Baladi</a></p>
-                                    <p class="card-text"><a href="instr/daff.php">Le Daff</a></p>
-                                    <p class="card-text"><a href="instr/mazhar.php">Le Mazhar</a></p>
-                                    <p class="card-text"><a href="instr/katim.php">Le Katem</a></p>
-                                    <p class="card-text"><a href="instr/sagat.php">Les Sagat</a></p>
-                                </div>
-                            </div>
-                        </div>
+        <div class="row">
+            <div class="col-sm-12 col-md-6 col-lg-6 col-xl-4">
+                <div class="card">
+                    <img class="card-img-top" src="/img/rosette_khalaf.png" alt="Oud Rosette Khalaf">
+                    <div class="card-body">
+                        <h5 class="card-title">Instruments Traditionnels</h5>
+                        <p class="card-text"><a href="instr/oud.php">Le Oud</a></p>
+                        <p class="card-text"><a href="instr/qanun.php">Le Qanoun</a></p>
+                        <p class="card-text"><a href="instr/nay.php">Le Nay</a></p>
+                        <p class="card-text"><a href="instr/violin.php">Le Violon</a></p>
+                        <p class="card-text"><a href="instr/buzuq.php">Le Bouzouk</a></p>
                     </div>
+                </div>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-6 col-xl-4">
+                <div class="card">
+                    <img class="card-img-top" src="/img/nahat_girgi.png" alt="Oud Rosette Nahhat">
+                    <div class="card-body">
+                        <h5 class="card-title">Instruments Arabisés</h5>
+                        <p class="card-text"><a href="instr/accordion.php">L'Accordéon Arabe</a></p>
+                        <p class="card-text"><a href="instr/guitar.php">La Guitare Électrique Arabe</a></p>
+                        <p class="card-text"><a href="instr/org.php">L'Orgue Électrique Arabe</a></p>
+                        <p class="card-text"><a href="instr/keyboard.php">Le Synthétiseur Oriental</a></p>
+                        <p class="card-text"><a href="instr/piano.php">Le Piano Arabe</a></p>
+                        <p class="card-text"><a href="instr/saxophone.php">Le Saxophone</a></p>
+                        <p class="card-text"><a href="instr/trumpet.php">La Trompette</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-6 col-xl-4">
+                <div class="card">
+                    <img class="card-img-top" src="/img/vergara.png" alt="Oud Rosette Vergara">
+                    <div class="card-body">
+                        <h5 class="card-title">Instruments de Percussion</h5>
+                        <p class="card-text"><a href="instr/riqq.php">Le Riqq</a></p>
+                        <p class="card-text"><a href="instr/tabla.php">La Tabla</a></p>
+                        <p class="card-text"><a href="instr/tabl_baladi.php">Le Tabl Baladi</a></p>
+                        <p class="card-text"><a href="instr/daff.php">Le Daff</a></p>
+                        <p class="card-text"><a href="instr/mazhar.php">Le Mazhar</a></p>
+                        <p class="card-text"><a href="instr/katim.php">Le Katem</a></p>
+                        <p class="card-text"><a href="instr/sagat.php">Les Sagat</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
 
                 </div>
                 <div class="col-sm-12">

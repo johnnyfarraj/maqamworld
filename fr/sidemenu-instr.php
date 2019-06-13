@@ -1,7 +1,7 @@
 ﻿<?php defined('_DEFVAR') or exit('Restricted Access'); ?>
 <ul class="sub-menu">
     <li class="d-block d-sm-none"><a href="#" class="hide-side-menu"><i class="fa fa-fw fa-times"></i></a></li>
-    <li><a href="/fr/instr/accordion.php">L'accordéon</a></li>
+    <li><a href="/fr/instr/accordion.php">L'Accordéon</a></li>
     <li><a href="/fr/instr/buzuq.php">Le Bouzouk</a></li>
     <li><a href="/fr/instr/daff.php">Le Daff</a></li>
     <li><a href="/fr/instr/guitar.php">La Guitare Électrique</a></li>

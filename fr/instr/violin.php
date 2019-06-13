@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Le Violoin Arabe";
 $page_description = "Le Violon Arabe";
-$page_keywords = "arabe, musique, instruments, accordéon, bouzouk, daff, mazhar, guitare électrique, katem, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
+$page_keywords = "arabe, musique, instruments, accordéon, bouzouk, daff, mazhar, guitare électrique, katèm, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
 $page_language = "fr";
 
 include($ROOT . 'inc/head.php');
@@ -62,7 +62,7 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Sami al-Shawwa</b>
+                                    <b>Sami al-Chawwa</b>
                                     <span>Un des pionniers du violon arabe du début du 20<sup>ième</sup> siècle, le violoniste syrien Sami al-Shawwa (connu aussi comme le Prince du Violon) jouant un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/hijazkar.php">Maqam Hijazkar</a>.</span>
                                 </div>
                             </label>
