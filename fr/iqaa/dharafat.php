@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>il-Houbbi Koullo (1971)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Baligh Hamdi</span>
                                 </div>
                             </label>

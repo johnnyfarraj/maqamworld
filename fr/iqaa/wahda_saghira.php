@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Daret el-Ayyam (1970)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>‘Ala Hesb Widad Albi (1953)</b>
-                                    <span>Abdel Halim Hafez</span>
+                                    <span>Abdel Halim Hafez (Égypte)</span>
                                     <span>Musique de Baligh Hamdi</span>
                                 </div>
                             </label>
@@ -95,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Nibtidi Mnein el-Hikaya (1975)</b>
-                                    <span>Abdel Halim Hafez</span>
+                                    <span>Abdel Halim Hafez (Égypte)</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>

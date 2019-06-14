@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -32,7 +32,7 @@ include($ROOT . 'inc/head.php');
                         <h1>Maqam Chaouq Afza</h1>
                         <h3>Membre de la <a href="f_ajam.php">Famille du Maqam ‘Ajam</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -47,21 +47,21 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="57,134,13" href="#" alt="C4" class="playNote" data-frequency="260.74" data-parent="#notation1">
-					  <area shape="circle" coords="133,126,13" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1">
-					  <area shape="circle" coords="210,118,13" href="#" alt="E4" class="playNote" data-frequency="328" data-parent="#notation1"><!-- Ajam 3rd, tuned down from 330-->
-					  <area shape="circle" coords="289,110,13" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1">
-					  <area shape="circle" coords="366,102,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1"><!-- Hijaz tonic -->
-					  <area shape="circle" coords="442,93,13" href="#" alt="A4♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- Hijaz 2 tuned up from 420 -->
-					  <area shape="circle" coords="519,85,13" href="#" alt="B4♮" class="playNote" data-frequency="492" data-parent="#notation1"><!-- Hijaz 3 tuned down from 495 -->
-					  <area shape="circle" coords="597,77,13" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1">
+					  <area shape="circle" coords="57,134,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
+					  <area shape="circle" coords="133,126,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="210,118,13" href="#" alt="Mi" class="playNote" data-frequency="328" data-parent="#notation1"><!-- Ajam 3rd, tuned down from 330-->
+					  <area shape="circle" coords="289,110,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
+					  <area shape="circle" coords="366,102,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1"><!-- Hijaz tonic -->
+					  <area shape="circle" coords="442,93,13" href="#" alt="La♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- Hijaz 2 tuned up from 420 -->
+					  <area shape="circle" coords="519,85,13" href="#" alt="Si♮" class="playNote" data-frequency="492" data-parent="#notation1"><!-- Hijaz 3 tuned down from 495 -->
+					  <area shape="circle" coords="597,77,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
                       <!-- Links -->
                       <area shape="rect" coords="137,5,263,36" href="../jins/ajam.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="425,5,544,36" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
 					</map>
                     <p>Maqam Chaouq Afza is the most common variant of <a href="ajam.php">Maqam ‘Ajam</a>. Its scale starts with the root <a href="../jins/ajam.php">Jins ‘Ajam</a> on the <em>tonic</em>, while <a href="../jins/hijaz.php">Jins Hijaz</a> on the 5<sup>th</sup> degree is its distinguishing characteristic, as well as a frequent <a href="../jins/saba_dalanshin.php">Jins Saba Dalanchine</a> modulation on the 3<sup>rd</sup>/5<sup>th</sup> degrees.</p>
 
-                    <p>Explorez d'autres maqamat dans la <a href="f_ajam.php">Famille du Maqam ‘Ajam</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_ajam.php">Famille du Maqam ‘Ajam</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -75,7 +75,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Lissa Fakir (1960)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Riyad al-Soumbati</span>
                                 </div>
                             </label>
@@ -88,7 +88,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>‘Ala Allah T‘oud (1970)</b>
-                                    <span>Wadih al-Safi</span>
+                                    <span>Wadih al-Safi (Liban)</span>
                                     <span>Musique de Farid al-Atrache</span>
                                 </div>
                             </label>
@@ -114,7 +114,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Iswarit el-‘Arouss (1989)</b>
-                                    <span>Fairouz</span>
+                                    <span>Fairouz (Liban)</span>
                                     <span>Musique de Philémon Wéhbé</span>
                                 </div>
                             </label>

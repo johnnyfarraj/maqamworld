@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Dal‘ona</b>
-                                    <span>Fairouz</span>
+                                    <span>Fairouz (Liban)</span>
                                     <span>(traditional Lebanese folk song)</span>
                                 </div>
                             </label>
@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Mahla Layali el-Hawa (1963)</b>
-                                    <span>Fairouz</span>
+                                    <span>Fairouz (Liban)</span>
                                     <span>Musique et lyrics by Les Frères Rahbani</span>
                                 </div>
                             </label>
@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Hajal Sannin (1965)</b>
-                                    <span>Fairouz</span>
+                                    <span>Fairouz (Liban)</span>
                                     <span>Musique et lyrics by Les Frères Rahbani</span>
                                     <span>From the movie <strong>Bayya‘ el-Khawatim</strong></span>
                                 </div>

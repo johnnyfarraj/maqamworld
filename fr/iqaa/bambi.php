@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mawwal Ya Man Bounoudak Harir</b>
-                                    <span>Mouhammad Khayri</span>
+                                    <span>Mouhammad Khayri (Syrie)</span>
                                 </div>
                             </label>
                         </div>
@@ -105,7 +105,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Andah ‘Aleik (1982)</b>
-                                    <span>Warda</span>
+                                    <span>Warda (France/Algerie)</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -118,7 +118,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Alf Leila w Leila (1969)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Baligh Hamdi</span>
                                 </div>
                             </label>
@@ -131,7 +131,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Asamina</b>
-                                    <span>Fairouz</span>
+                                    <span>Fairouz (Liban)</span>
                                     <span>Musique de Philémon Wéhbé</span>
                                 </div>
                             </label>

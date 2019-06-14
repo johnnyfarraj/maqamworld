@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Jins Nahawand</h1>
-                        <h3>Root jins of the <a href="../maqam/f_nahawand.php">Famille du Maqam Nahawand</a></h3>
+                        <h3>Jins de base de la <a href="../maqam/f_nahawand.php">Famille du Maqam Nahawand</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Ajnas</a>
                     <div class="clearfix"></div>
@@ -47,18 +47,18 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="62,118,12" href="#" alt="A3♭" class="playNote" data-frequency="209" data-parent="#notation1"><!-- fine tune up from 205.5-->
-					  <area shape="circle" coords="113,118,12" href="#" alt="A3♮" class="playNote" data-frequency="220" data-parent="#notation1">
-					  <area shape="circle" coords="162,110,12" href="#" alt="B3♮" class="playNote" data-frequency="247.5" data-parent="#notation1">
-					  <area shape="circle" coords="230,102,14" href="#" alt="C4" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
-					  <area shape="circle" coords="306,94,13" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1">
-					  <area shape="circle" coords="383,86,13" href="#" alt="E4♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
-					  <area shape="circle" coords="460,78,13" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1">
-					  <area shape="circle" coords="539,69,14" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-				      <area shape="circle" coords="611,60,12" href="#" alt="A4♭" class="playNote" data-frequency="411" data-parent="#notation1">
+					  <area shape="circle" coords="62,118,12" href="#" alt="La♭" class="playNote" data-frequency="209" data-parent="#notation1"><!-- fine tune up from 205.5-->
+					  <area shape="circle" coords="113,118,12" href="#" alt="La♮" class="playNote" data-frequency="220" data-parent="#notation1">
+					  <area shape="circle" coords="162,110,12" href="#" alt="Si♮" class="playNote" data-frequency="247.5" data-parent="#notation1">
+					  <area shape="circle" coords="230,102,14" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
+					  <area shape="circle" coords="306,94,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="383,86,13" href="#" alt="Mi♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
+					  <area shape="circle" coords="460,78,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
+					  <area shape="circle" coords="539,69,14" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+				      <area shape="circle" coords="611,60,12" href="#" alt="La♭" class="playNote" data-frequency="411" data-parent="#notation1">
 					</map>
 
-                    <p>Jins Nahawand is a 5-note <em>jins</em>. It is notated here with its tonic on C and its <em>ghammaz</em> on G. Jins Nahawand is the first <em>jins</em> in <a href="../maqam/nahawand.php">Maqam Nahawand</a>.
+                    <p>Le Jins Nahawand est un <em>jins</em> de 5 notes. Il est noté ici avec sa tonique sur Do et son <em>ghammaz</em> sur Sol. Le Jins Nahawand est le premier <em>jins</em> du <a href="../maqam/nahawand.php">Maqam Nahawand</a>.
                     </p>
 
                     <div class="player-area">
@@ -72,8 +72,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Alf Leila w Leila (1969)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <b>Alf Leila wi Leila (1969)</b>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Baligh Hamdi</span>
                                 </div>
                             </label>
@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Darit el-Ayyam (1970)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -124,7 +124,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Gaddidti Houbbak Leh (1952)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Riyad al-Soumbati</span>
                                 </div>
                             </label>
@@ -149,7 +149,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Habibi Kullama Habba al-Hawa (2000)</b>
-                                    <span>Fairouz</span>
+                                    <span>Fairouz (Liban)</span>
                                     <span>Musique de Rahbani Brothers</span>
                                 </div>
                             </label>

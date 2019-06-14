@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -33,7 +33,7 @@ include($ROOT . 'inc/head.php');
                         <h1>Maqam Yakah</h1>
                         <h3>Membre de la <a href="f_rast.php">Famille du Maqam Rast</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -52,14 +52,14 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="74,135,13" href="#" alt="C4" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
-					  <area shape="circle" coords="150,126,13" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1">
-					  <area shape="circle" coords="228,118,13" href="#" alt="E4<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
-					  <area shape="circle" coords="305,110,13" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1">
-					  <area shape="circle" coords="383,102,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="459,93,13" href="#" alt="A4<i class='icon-halfflat'></i>" class="playNote" data-frequency="426.67" data-parent="#notation1"><!-- Bayat 2nd, tuned up from A4♭=420 -->
-					  <area shape="circle" coords="537,85,13" href="#" alt="B4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
-					  <area shape="circle" coords="615,77,13" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1">
+					  <area shape="circle" coords="74,135,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
+					  <area shape="circle" coords="150,126,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="228,118,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
+					  <area shape="circle" coords="305,110,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
+					  <area shape="circle" coords="383,102,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+					  <area shape="circle" coords="459,93,13" href="#" alt="La<i class='icon-halfflat'></i>" class="playNote" data-frequency="426.67" data-parent="#notation1"><!-- Bayat 2nd, tuned up from A4♭=420 -->
+					  <area shape="circle" coords="537,85,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
+					  <area shape="circle" coords="615,77,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
                       <!-- Links -->
                       <area shape="rect" coords="164,5,275,34" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="438,5,570,34" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                     </p>
                     <p><strong>Maqam Yakah</strong> is an archaic version of Maqam Nairuz, based on note G3 in the Arabic archaic 24-tone scale (named “Yakah”) rather than note C4.</p>
 
-                    <p>Explorez d'autres maqamat dans la <a href="f_rast.php">Famille du Maqam Rast</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_rast.php">Famille du Maqam Rast</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Moubarqaou al-Jamal</b>
-                                    <span>Hassan al-Haffar</span>
+                                    <span>Hassan al-Haffar (Syrie)</span>
                                     <span>Musique de Omar al-Batch</span>
                                 </div>
                             </label>
@@ -109,9 +109,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr Asl il-Gharam (1945)</b>
+                                    <b>Dawr Asl el-Gharam (1945)</b>
                                     <span>Nour el-Hoda</span>
-                                    <span>Musique de Mouhammad ‘Outhman</span>
+                                    <span>Musique de Mouhammad Outhman</span>
                                 </div>
                             </label>
                         </div>
@@ -123,7 +123,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ghannili Chwayy Chwayy (1945)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Zakaria Ahmad</span>
                                 </div>
                             </label>

@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -32,7 +32,7 @@ include($ROOT . 'inc/head.php');
                         <h1>Maqam ‘Ajam</h1>
                         <h3>Le maqam principal dans la <a href="f_ajam.php">Famille du Maqam ‘Ajam</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -47,17 +47,17 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-	  <area shape="circle" coords="68,140,13" href="#" alt="C4" class="playNote" data-frequency="260.74" data-parent="#notation1">
-	  <area shape="circle" coords="144,131,13" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1">
-	  <area shape="circle" coords="221,125,13" href="#" alt="E4" class="playNote" data-frequency="328" data-parent="#notation1"><!-- Ajam 3rd, tuned down from 330 -->
-	  <area shape="circle" coords="298,116,13" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1">
-	  <area shape="circle" coords="377,108,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-	  <area shape="circle" coords="453,100,13" href="#" alt="A4" class="playNote" data-frequency="440" data-parent="#notation1">
-	  <area shape="circle" coords="530,92,13" href="#" alt="B4" class="playNote" data-frequency="495" data-parent="#notation1">
-	  <area shape="circle" coords="608,84,13" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1">
-	      <area shape="circle" coords="686,92,13" href="#" alt="B4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
-	  <area shape="circle" coords="762,100,13" href="#" alt="A4" class="playNote" data-frequency="440" data-parent="#notation1">
-	  <area shape="circle" coords="840,108,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
+	  <area shape="circle" coords="68,140,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
+	  <area shape="circle" coords="144,131,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+	  <area shape="circle" coords="221,125,13" href="#" alt="Mi" class="playNote" data-frequency="328" data-parent="#notation1"><!-- Ajam 3rd, tuned down from 330 -->
+	  <area shape="circle" coords="298,116,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
+	  <area shape="circle" coords="377,108,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+	  <area shape="circle" coords="453,100,13" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
+	  <area shape="circle" coords="530,92,13" href="#" alt="Si" class="playNote" data-frequency="495" data-parent="#notation1">
+	  <area shape="circle" coords="608,84,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
+	      <area shape="circle" coords="686,92,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
+	  <area shape="circle" coords="762,100,13" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
+	  <area shape="circle" coords="840,108,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
                       <!-- Links -->
                       <area shape="rect" coords="150,11,270,40" href="../jins/ajam.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="390,10,590,40" href="../jins/upper_ajam.php" class="mapLink" data-parent="#notation1">
@@ -65,7 +65,7 @@ include($ROOT . 'inc/head.php');
 		</map>
 
 	       <p>Maqam ‘Ajam (also known as Egyptian ‘Ajam) is Le maqam principal dans la <a href="f_ajam.php">Famille du Maqam ‘Ajam</a>, and starts with the root <a href="../jins/ajam.php">Jins ‘Ajam</a> on the <em>tonic</em>, followed by either <a href="../jins/upper_ajam.php">Jins Haut ‘Ajam</a> on the 5<sup>th</sup> degree (with its tonic up on the 8<sup>th</sup> degree) or <a href="../jins/nahawand.php">Jins Nahawand</a> on the 5<sup>th</sup> degree.</p>
-                    <p>Explorez d'autres maqamat dans la <a href="f_ajam.php">Famille du Maqam ‘Ajam</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_ajam.php">Famille du Maqam ‘Ajam</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -79,7 +79,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Aghadan Alqak (1971)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -104,7 +104,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Fi Youm Wi Leila (1978)</b>
-                                    <span>Warda</span>
+                                    <span>Warda (France/Algerie)</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>

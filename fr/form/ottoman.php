@@ -102,7 +102,7 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Sama‘i Kurd - ‘Abdou Dagher</b>
+                                    <b>Sama‘i Kurd - Abdou Dagher</b>
                                     <span></span>
                                     <span>Sama‘i in <a href="../maqam/kurd.php">Maqam Kurd</a> by Abdou Dagher(Égypte), which features a long <a href="instr_comp.php#muqaddima">muqaddima</a> (composed introduction).</span>
                                 </div>
@@ -181,7 +181,7 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Longa ‘Ajam - ‘Abdou Dagher</b>
+                                    <b>Longa ‘Ajam - Abdou Dagher</b>
                                     <span>Longa en <a href="../maqam/ajam.php">Maqam ‘Ajam</a> de Abdou Dagher(Égypte), enregistré par son ensemble.</span>
                                 </div>
                             </label>

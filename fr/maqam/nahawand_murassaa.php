@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -32,7 +32,7 @@ include($ROOT . 'inc/head.php');
                         <h1>Maqam Nahawand Mourassa‘</h1>
                         <h3>Membre de la <a href="f_nahawand.php">Famille du Maqam Nahawand</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -48,14 +48,14 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="44,137,13" href="#" alt="C4" class="playNote" data-frequency="260.74" data-parent="#notation1">
-					  <area shape="circle" coords="120,128,13" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1">
-					  <area shape="circle" coords="197,121,13" href="#" alt="E4♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
-					  <area shape="circle" coords="275,112,13" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1"><!-- Hijaz tonic-->
-					  <area shape="circle" coords="352,104,13" href="#" alt="G4♭" class="playNote" data-frequency="368" data-parent="#notation1"><!-- Hijaz 2nd tuned up from 365.32 -->
-					  <area shape="circle" coords="429,96,13" href="#" alt="A4♮" class="playNote" data-frequency="437" data-parent="#notation1"><!-- Hijaz 3rd tuned down from 440-->
-					  <area shape="circle" coords="506,88,13" href="#" alt="B4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
-					  <area shape="circle" coords="585,79,13" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1">
+					  <area shape="circle" coords="44,137,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
+					  <area shape="circle" coords="120,128,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="197,121,13" href="#" alt="Mi♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
+					  <area shape="circle" coords="275,112,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1"><!-- Hijaz tonic-->
+					  <area shape="circle" coords="352,104,13" href="#" alt="Sol♭" class="playNote" data-frequency="368" data-parent="#notation1"><!-- Hijaz 2nd tuned up from 365.32 -->
+					  <area shape="circle" coords="429,96,13" href="#" alt="La♮" class="playNote" data-frequency="437" data-parent="#notation1"><!-- Hijaz 3rd tuned down from 440-->
+					  <area shape="circle" coords="506,88,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
+					  <area shape="circle" coords="585,79,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
                        <!-- Links -->
                       <area shape="rect" coords="53,7,331,36" href="../jins/nahawand_murassaa.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="337,141,454,174" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
@@ -64,7 +64,7 @@ include($ROOT . 'inc/head.php');
                     <p>Maqam Nahawand Mourassa‘ is is basically <a href="nahawand.php">Maqam Nahawand</a> with a lowered 5<sup>th</sup> scale degree. Its scale starts with <a href="../jins/nahawand_murassaa.php">Jins Nahawand Mourassa‘</a> on the <em>tonic</em>, overlapped by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 4<sup>th</sup> degree.
                     </p>
 
-                    <p>Explorez d'autres maqamat dans la <a href="f_nahawand.php">Famille du Maqam Nahawand</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_nahawand.php">Famille du Maqam Nahawand</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -90,8 +90,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Khusara (1957)</b>
-                                    <span>Abdel Halim Hafez</span>
+                                    <b>Khousara (1957)</b>
+                                    <span>Abdel Halim Hafez (Égypte)</span>
                                     <span>Musique de Baligh Hamdi</span>
                                 </div>
                             </label>
@@ -103,7 +103,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taht il-Shibbak</b>
+                                    <b>Taht el-Shibbak</b>
                                     <span>‘Aziz ‘Outhman</span>
                                 </div>
                             </label>

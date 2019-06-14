@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -33,7 +33,7 @@ include($ROOT . 'inc/head.php');
                         <h1>Maqam Sazkar</h1>
                         <h3>Membre de la <a href="f_rast.php">Famille du Maqam Rast</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -52,15 +52,15 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-	  <area shape="circle" coords="75,81,13" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1"><!--tonic-->
-	  <area shape="circle" coords="148,89,13" href="#" alt="B4<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!--var-->
-	  <area shape="circle" coords="225,97,13" href="#" alt="A4" class="playNote" data-frequency="440" data-parent="#notation1">
-	  <area shape="circle" coords="304,105,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-	  <area shape="circle" coords="381,113,13" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1">
-	  <area shape="circle" coords="458,123,13" href="#" alt="E4<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
-	  <area shape="circle" coords="537,131,13" href="#" alt="D4â™¯" class="playNote" data-frequency="310" data-parent="#notation1"><!-- var sikah leading tone-->
-	  <area shape="circle" coords="589,131,13" href="#" alt="D4â™®" class="playNote" data-frequency="293.33" data-parent="#notation1">
-                      <area shape="circle" coords="640,139,13" href="#" alt="C4" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
+	  <area shape="circle" coords="75,81,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1"><!--tonic-->
+	  <area shape="circle" coords="148,89,13" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!--var-->
+	  <area shape="circle" coords="225,97,13" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
+	  <area shape="circle" coords="304,105,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+	  <area shape="circle" coords="381,113,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
+	  <area shape="circle" coords="458,123,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
+	  <area shape="circle" coords="537,131,13" href="#" alt="Réâ™¯" class="playNote" data-frequency="310" data-parent="#notation1"><!-- var sikah leading tone-->
+	  <area shape="circle" coords="589,131,13" href="#" alt="Réâ™®" class="playNote" data-frequency="293.33" data-parent="#notation1">
+                      <area shape="circle" coords="640,139,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
                        <!-- Links -->
                       <area shape="rect" coords="95,6,274,38" href="../jins/upper_rast.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="420,9,525,38" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                     </p>
                     <p><strong>Maqam Sazkar</strong> is nearly identical to Maqam Kirdane, except for the prominence of the raised 2<sup>nd</sup> degree that occurs in some melodic passages, which results in <a href="../jins/sazkar.php">Jins Sazkar</a> on the tonic.</p>
 
-                    <p>Explorez d'autres maqamat dans la <a href="f_rast.php">Famille du Maqam Rast</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_rast.php">Famille du Maqam Rast</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -100,7 +100,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Ya Shadi al-Alhan</b>
-                                    <span>Sabah Fakhri</span>
+                                    <span>Sabah Fakhri (Syrie)</span>
                                     <span>Musique de Sayyed Darwich</span>
                                 </div>
                             </label>
@@ -113,7 +113,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Hayrana Leh (1930)</b>
-                                    <span>Leila Mourad</span>
+                                    <span>Leila Mourad (Égypte)</span>
                                     <span>Musique de Daoud Housni</span>
                                 </div>
                             </label>

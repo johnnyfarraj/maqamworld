@@ -255,8 +255,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Waraqou il-Asfar</b>
-                                    <span>La taqtouqa de la chanteuse libanaise Fairouz <strong>Waraqou il-Asfar</strong> en <a href="../maqam/rast.php">Maqam Rast</a>, composée par Philémon Wéhbé.</span>
+                                    <b>Waraqou el-Asfar</b>
+                                    <span>La taqtouqa de la chanteuse libanaise Fairouz <strong>Waraqou el-Asfar</strong> en <a href="../maqam/rast.php">Maqam Rast</a>, composée par Philémon Wéhbé.</span>
                                 </div>
                             </label>
                         </div>

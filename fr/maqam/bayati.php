@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -32,7 +32,7 @@ include($ROOT . 'inc/head.php');
                         <h1>Maqam Bayati</h1>
                         <h3>Le maqam principal dans la <a href="f_bayati.php">Famille du Maqam Bayati</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -47,29 +47,29 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="68,128,13" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1">
-					  <area shape="circle" coords="145,120,13" href="#" alt="E4<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!-- variable -->
-					  <area shape="circle" coords="222,112,13" href="#" alt="F4" class="playNote" data-frequency="345" data-parent="#notation1"><!-- fine tune down from 347.65 -->
-					  <area shape="circle" coords="300,104,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="377,96,13" href="#" alt="A4" class="playNote" data-frequency="440" data-parent="#notation1">
-					  <area shape="circle" coords="454,88,13" href="#" alt="B4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
-					  <area shape="circle" coords="531,80,13" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1">
-					  <area shape="circle" coords="609,72,13" href="#" alt="D5" class="playNote" data-frequency="586.66" data-parent="#notation1">
-				      <area shape="circle" coords="684,104,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="762,96,13" href="#" alt="A4" class="playNote" data-frequency="440" data-parent="#notation1">
-					  <area shape="circle" coords="841,88,13" href="#" alt="B4<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!--var-->
-                      <area shape="circle" coords="917,80,13" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1">
-                      <area shape="circle" coords="995,72,13" href="#" alt="D5" class="playNote" data-frequency="586.66" data-parent="#notation1">
+					  <area shape="circle" coords="68,128,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="145,120,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!-- variable -->
+					  <area shape="circle" coords="222,112,13" href="#" alt="Fa" class="playNote" data-frequency="345" data-parent="#notation1"><!-- fine tune down from 347.65 -->
+					  <area shape="circle" coords="300,104,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+					  <area shape="circle" coords="377,96,13" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
+					  <area shape="circle" coords="454,88,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
+					  <area shape="circle" coords="531,80,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
+					  <area shape="circle" coords="609,72,13" href="#" alt="Ré" class="playNote" data-frequency="586.66" data-parent="#notation1">
+				      <area shape="circle" coords="684,104,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+					  <area shape="circle" coords="762,96,13" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
+					  <area shape="circle" coords="841,88,13" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!--var-->
+                      <area shape="circle" coords="917,80,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
+                      <area shape="circle" coords="995,72,13" href="#" alt="Ré" class="playNote" data-frequency="586.66" data-parent="#notation1">
                        <!-- Links -->
                       <area shape="rect" coords="111,7,242,36" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="370,8,549,37" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="783,8,890,37" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 
 				     </map>
-                    <p>Maqam Bayati is by far one of the most popular and common maqamat in the Arabic repertory. It is also the main maqam in the Bayati Family. </p>
+                    <p>Maqam Bayati is by far one of the most popular and common maqams in the Arabic repertory. It is also the main maqam in the Bayati Family. </p>
                     <p>Its scale starts with <a href="../jins/bayati.php">Jins Bayati</a> on the <em>tonic</em> followed by either <a href="../jins/nahawand.php">Jins Nahawand</a> or <a href="../jins/rast.php">Jins Rast</a> on the 4<sup>th</sup> degree.
                     </p>
-                    <p>Explorez d'autres maqamat dans la <a href="f_bayati.php">Famille du Maqam Bayati</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_bayati.php">Famille du Maqam Bayati</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>‘Ala Balad el-Mahboub Waddini (1935)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Riyad al-Soumbati</span>
                                 </div>
                             </label>
@@ -96,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Akoun Sa‘id (1932)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Zakaria Ahmad</span>
                                 </div>
                             </label>
@@ -134,7 +134,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Imlali al-Aqdaha Sirfan</b>
-                                    <span>Sabah Fakhri</span>
+                                    <span>Sabah Fakhri (Syrie)</span>
                                     <span>(composition traditionnelle)</span>
                                 </div>
                             </label>
@@ -159,7 +159,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Rayt Minnoun (Taqsim au Qanoun)</b>
-                                    <span>Fairouz</span>
+                                    <span>Fairouz (Liban)</span>
                                     <span>Musique de Philémon Wéhbé</span>
                                 </div>
                             </label>
@@ -172,7 +172,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Rayt Minnoun</b>
-                                    <span>Fairouz</span>
+                                    <span>Fairouz (Liban)</span>
                                     <span>Musique de Philémon Wéhbé</span>
                                 </div>
                             </label>

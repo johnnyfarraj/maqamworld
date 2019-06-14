@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
                     
                     <div class="heading jins text-center">
-                        <h1>Jins Sikah Baladi <span class="badge badge-custom">New</span></h1>
-                        <h3>(undefined size)</h3>
+                        <h1>Jins Sikah Baladi <span class="badge badge-custom">Nouveau</span></h1>
+                        <h3>(de taille indéfinie)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Ajnas</a>
                     <div class="clearfix"></div>
@@ -47,17 +47,16 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="85,93,13" href="#" alt="E4<i class='icon-halfflat'></i>↓" class="playNote" data-frequency="315" data-parent="#notation1"><!-- variable -->
-					  <area shape="circle" coords="163,85,13" href="#" alt="F4<i class='icon-halfsharp'></i>↑" class="playNote" data-frequency="364" data-parent="#notation1"><!-- variable -->
-					  <area shape="circle" coords="243,77,14" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="318,67,13" href="#" alt="A4<i class='icon-halfflat'></i>↓" class="playNote" data-frequency="425" data-parent="#notation1"><!-- variable -->
-					  <area shape="circle" coords="395,60,13" href="#" alt="B4<i class='icon-halfflat'></i>↑" class="playNote" data-frequency="485" data-parent="#notation1"><!-- variable -->
-					  <area shape="circle" coords="473,51,13" href="#" alt="C5↓" class="playNote" data-frequency="515" data-parent="#notation1"><!-- variable -->
-					 
-					  
-				     
+					  <area shape="circle" coords="85,93,13" href="#" alt="Mi<i class='icon-halfflat'></i>↓" class="playNote" data-frequency="315" data-parent="#notation1"><!-- variable -->
+					  <area shape="circle" coords="163,85,13" href="#" alt="Fa<i class='icon-halfsharp'></i>↑" class="playNote" data-frequency="364" data-parent="#notation1"><!-- variable -->
+					  <area shape="circle" coords="243,77,14" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+					  <area shape="circle" coords="318,67,13" href="#" alt="La<i class='icon-halfflat'></i>↓" class="playNote" data-frequency="425" data-parent="#notation1"><!-- variable -->
+					  <area shape="circle" coords="395,60,13" href="#" alt="Si<i class='icon-halfflat'></i>↑" class="playNote" data-frequency="485" data-parent="#notation1"><!-- variable -->
+					  <area shape="circle" coords="473,51,13" href="#" alt="Do↓" class="playNote" data-frequency="515" data-parent="#notation1"><!-- variable -->
 					</map>
-                    <p>Jins Sikah Baladi has no <em>ghammaz</em>, and therefore no defined size. Its melody is centered around its tonic, notated here on G. Jins Sikah Baladi is very difficult to accurately notate; instead its intervals and intonation are best learned by ear. Jins Sikah Baladi occurs on the octave of <a href="../maqam/sikah_baladi.php">Maqam Sikah Baladi</a>.</p>
+
+                    <p>Le Jins Sikah Baladi n'a pas de <em>ghammaz</em> et donc pas de taille définie. Sa mélodie est concentrée sur la tonique, notée ici sur Sol. Le Jins Sikah Baladi  est difficile à noter. Il est mieux, tant pour les intervalles que pour l'intonation, de l'apprendre par cœur. Le Jins Sikah Baladi apparaît sur l'octave du <a href="../maqam/sikah_baladi.php">Maqam Sikah Baladi</a>.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -71,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Qassida Man Mithloukoum</b>
-                                    <span>Hassan al-Haffar</span>
+                                    <span>Hassan al-Haffar (Syrie)</span>
                                     <span><img src="/img/cd.png"> Muezzins D'Alep - Chants Religieux De L'Islam</span>
                                 </div>
                             </label>
@@ -83,8 +82,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Hakam ‘Aleina el-Hawa (1973)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <b>Hakam Aleina el-Hawa (1973)</b>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Baligh Hamdi</span>
                                 </div>
                             </label>
@@ -108,7 +107,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Fantasy Nahawand</b>
+                                    <b>Fantaisie Nahawand</b>
                                     <span>Composition Instrumentale</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                     <span><img src="/img/cd.png"> Qamar 14</span>
@@ -124,7 +123,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Taqsim de Oud</b>
                                     <span>Wasla en <a href="../maqam/rast.php">Maqam Rast</a></span>
-                                    <span>Ibrahim al-Haggar</span>
+                                    <span>Ibrahim al-Haggar (Égypte)</span>
                                 </div>
                             </label>
                         </div>

@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Jins Athar Kurd</h1>
-                        <h3>A combination of <a href="kurd.php">Jins Kurd</a> and <a href="nikriz.php">Jins Nikriz</a></h3>
+                        <h3>Une combinaison de <a href="kurd.php">Jins Kurd</a> et de <a href="nikriz.php">Jins Nikriz</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Ajnas</a>
                     <div class="clearfix"></div>
@@ -46,17 +46,17 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="59,118,12" href="#" alt="A3♭" class="playNote" data-frequency="211" data-parent="#notation1"><!-- octave below A4b -->
-					  <area shape="circle" coords="136,110,12" href="#" alt="B3♮" class="playNote" data-frequency="247.5" data-parent="#notation1">
-					  <area shape="circle" coords="218,102,14" href="#" alt="C4" class="playNote" data-frequency="260.74" data-parent="#notation1">
-					  <area shape="circle" coords="293,94,13" href="#" alt="D4♭" class="playNote" data-frequency="274" data-parent="#notation1"> <!-- fine tune minor 2nd (see Kurd)-->
-					  <area shape="circle" coords="370,86,13" href="#" alt="E4♭" class="playNote" data-frequency="309" data-parent="#notation1"><!-- minor 3rd -->
-					  <area shape="circle" coords="447,77,13" href="#" alt="F4♯" class="playNote" data-frequency="375" data-parent="#notation1">
-					  <area shape="circle" coords="526,69,14" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1"><!-- hijazkar tonic -->
-					  <area shape="circle" coords="599,61,12" href="#" alt="A4♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- variable: Hijaz 2nd -->
+					  <area shape="circle" coords="59,118,12" href="#" alt="La♭" class="playNote" data-frequency="211" data-parent="#notation1"><!-- octave below A4b -->
+					  <area shape="circle" coords="136,110,12" href="#" alt="Si♮" class="playNote" data-frequency="247.5" data-parent="#notation1">
+					  <area shape="circle" coords="218,102,14" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
+					  <area shape="circle" coords="293,94,13" href="#" alt="Ré♭" class="playNote" data-frequency="274" data-parent="#notation1"> <!-- fine tune minor 2nd (see Kurd)-->
+					  <area shape="circle" coords="370,86,13" href="#" alt="Mi♭" class="playNote" data-frequency="309" data-parent="#notation1"><!-- minor 3rd -->
+					  <area shape="circle" coords="447,77,13" href="#" alt="Fa♯" class="playNote" data-frequency="375" data-parent="#notation1">
+					  <area shape="circle" coords="526,69,14" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1"><!-- hijazkar tonic -->
+					  <area shape="circle" coords="599,61,12" href="#" alt="La♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- variable: Hijaz 2nd -->
 					</map>
 
-                    <p>Jins Athar Kurd is a 5-note <em>jins</em>. It is notated here with its tonic on C and its <em>ghammaz</em> on G. Jins Athar Kurd is the first <em>jins</em> in <a href="../maqam/athar_kurd.php">Maqam Athar Kurd</a>.
+                    <p>Le Jins Athar Kurd est un <em>jins</em> de 5 notes. Il est noté ici avec sa tonique sur Do et son <em>ghammaz</em> sur Sol. Le Jins Athar Kurd est le premier <em>jins</em> du <a href="../maqam/athar_kurd.php">Maqam Athar Kurd</a>.
                     </p>
 
                     <div class="player-area">
@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Habibaha (1965)</b>
-                                    <span>Abdel Halim Hafez</span>
+                                    <span>Abdel Halim Hafez (Égypte)</span>
                                     <span>Musique de Mouhammad al-Mougi</span>
                                 </div>
                             </label>
@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Raydak (1950)</b>
-                                    <span>Leila Mourad</span>
+                                    <span>Leila Mourad (Égypte)</span>
                                     <span>Musique de Ahmad Sidqi</span>
                                 </div>
                             </label>
@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Fagr Nourak Halli We Ban (c.1952)</b>
-                                    <span>Baligh Hamdi</span>
+                                    <span>Baligh Hamdi (Égypte)</span>
                                     <span>Musique de Youssef Chawqi</span>
                                 </div>
                             </label>

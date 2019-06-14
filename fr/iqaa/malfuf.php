@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Ya Dara Douri Fina</b>
-                                    <span>Fairouz</span>
+                                    <span>Fairouz (Liban)</span>
                                     <span>Musique de Philémon Wéhbé</span>
                                 </div>
                             </label>
@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Amal Hayati (1965)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Ya Sahi al-Sabrou Waha Minni</b>
-                                    <span>Hassan al-Haffar</span>
+                                    <span>Hassan al-Haffar (Syrie)</span>
                                 </div>
                             </label>
                         </div>

@@ -55,7 +55,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Duqqu il-Mazahir (1952)</b>
+                                    <b>Duqqu el-Mazahir (1952)</b>
                                     <span>Interprétation et Musique de Farid al-Atrache</span>
                                 </div>
                             </label>
@@ -68,7 +68,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Alf Leila w Leila (1969)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Baligh Hamdi</span>
                                 </div>
                             </label>
@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Qadd Ah Ya Hilu</b>
-                                    <span>Mouhammad Khayri</span>
+                                    <span>Mouhammad Khayri (Syrie)</span>
                                 </div>
                             </label>
                         </div>
@@ -92,8 +92,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qadd Ya Mal il-Sham</b>
-                                    <span>Sabah Fakhri</span>
+                                    <b>Qadd Ya Mal el-Sham</b>
+                                    <span>Sabah Fakhri (Syrie)</span>
                                     <span>Musique de Ahmad Abou Khalil al-Qabbani</span>
                                 </div>
                             </label>

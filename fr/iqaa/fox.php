@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ghouloubt Assaleh Fi Rouhi (1946)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Riyad al-Soumbati</span>
                                 </div>
                             </label>

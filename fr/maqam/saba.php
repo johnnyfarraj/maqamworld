@@ -23,16 +23,16 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
                         <h1>Maqam Saba</h1>
-                        <h3>(n'apartient pas à une famille de maqamat)</h3>
+                        <h3>(n'apartient pas à une famille de maqams)</h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -47,17 +47,17 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="60,129,13" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1"><!--tonic-->
-					  <area shape="circle" coords="132,121,13" href="#" alt="E4<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
-					  <area shape="circle" coords="209,112,13" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1"><!-- Hijaz tonic -->
-					  <area shape="circle" coords="288,104,13" href="#" alt="G4♭" class="playNote" data-frequency="368" data-parent="#notation1"><!-- Hijaz 2nd tuned up from 365.32 -->
-					  <area shape="circle" coords="367,96,13" href="#" alt="A4♮" class="playNote" data-frequency="437" data-parent="#notation1"><!-- Hijaz 3rd tuned down from 440-->
-					  <area shape="circle" coords="446,88,13" href="#" alt="B4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
-					  <area shape="circle" coords="522,78,13" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1">
-					  <area shape="circle" coords="602,71,13" href="#" alt="D5♭" class="playNote" data-frequency="548" data-parent="#notation1">
-				      <area shape="circle" coords="653,71,13" href="#" alt="D5♮" class="playNote" data-frequency="586.66" data-parent="#notation1"><!-- Nikriz 3rd -->
-					  <area shape="circle" coords="705,62,13" href="#" alt="E5♮" class="playNote" data-frequency="660" data-parent="#notation1"><!-- Nikriz 4th -->
-					  <area shape="circle" coords="781,53,13" href="#" alt="F5" class="playNote" data-frequency="695.31" data-parent="#notation1">
+					  <area shape="circle" coords="60,129,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1"><!--tonic-->
+					  <area shape="circle" coords="132,121,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
+					  <area shape="circle" coords="209,112,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1"><!-- Hijaz tonic -->
+					  <area shape="circle" coords="288,104,13" href="#" alt="Sol♭" class="playNote" data-frequency="368" data-parent="#notation1"><!-- Hijaz 2nd tuned up from 365.32 -->
+					  <area shape="circle" coords="367,96,13" href="#" alt="La♮" class="playNote" data-frequency="437" data-parent="#notation1"><!-- Hijaz 3rd tuned down from 440-->
+					  <area shape="circle" coords="446,88,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
+					  <area shape="circle" coords="522,78,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
+					  <area shape="circle" coords="602,71,13" href="#" alt="Ré♭" class="playNote" data-frequency="548" data-parent="#notation1">
+				      <area shape="circle" coords="653,71,13" href="#" alt="Ré♮" class="playNote" data-frequency="586.66" data-parent="#notation1"><!-- Nikriz 3rd -->
+					  <area shape="circle" coords="705,62,13" href="#" alt="Mi♮" class="playNote" data-frequency="660" data-parent="#notation1"><!-- Nikriz 4th -->
+					  <area shape="circle" coords="781,53,13" href="#" alt="Fa" class="playNote" data-frequency="695.31" data-parent="#notation1">
                       <!-- Links -->
                       <area shape="rect" coords="149,6,265,35" href="../jins/saba.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="485,4,615,33" href="../jins/ajam.php" class="mapLink" data-parent="#notation1">
@@ -67,7 +67,7 @@ include($ROOT . 'inc/head.php');
 					</map>
                     <p>Maqam Saba is a very popular and common maqam in the Arabic repertory. Its scale starts with <a href="../jins/saba.php">Jins Saba</a> on the <em>tonic</em>, overlapped by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 3<sup>rd</sup> degree, followed by either <a href="../jins/ajam.php">Jins ‘Ajam</a> or <a href="../jins/nikriz.php">Jins Nikriz</a> on the 6<sup>th</sup> degree. </p>
 
-                    <p>Maqam Saba ne fait pas partie d'une famille de maqamat.</p>
+                    <p>Maqam Saba ne fait pas partie d'une famille de maqams.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -93,7 +93,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>al-Atlal (1966)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Riyad al-Soumbati</span>
                                 </div>
                             </label>
@@ -105,8 +105,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Houwa Sahih il-Hawa Ghallab (1960)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <b>Houwa Sahih el-Hawa Ghallab (1960)</b>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Zakaria Ahmad</span>
                                 </div>
                             </label>
@@ -119,7 +119,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Ahwa Qamaran</b>
-                                    <span>Ghada Chbeir</span>
+                                    <span>Ghada Chbeir (Liban)</span>
                                 </div>
                             </label>
                         </div>
@@ -143,7 +143,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Qadd Ya m-As‘adek Sabahiyya</b>
-                                    <span>Sabah Fakhri</span>
+                                    <span>Sabah Fakhri (Syrie)</span>
                                     <span>(chanson traditionnelle)</span>
                                 </div>
                             </label>
@@ -156,7 +156,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Tishuf Umuri (1930)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Mouhammad al-Qasabgi</span>
                                 </div>
                             </label>

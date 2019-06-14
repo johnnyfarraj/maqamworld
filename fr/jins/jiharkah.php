@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Jins Jiharkah</h1>
-                        <h3>A 5-note jins</h3>
+                        <h3>Un Jins de 5 notes</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Ajnas</a>
                     <div class="clearfix"></div>
@@ -47,16 +47,17 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="27,91,12" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1">
-					  <area shape="circle" coords="106,82,12" href="#" alt="E4<i class='icon-halfflat'></i>" class="playNote" data-frequency="321.33" data-parent="#notation1"><!--variable-->
-					  <area shape="circle" coords="187,74,14" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1">
-					  <area shape="circle" coords="262,66,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="340,58,13" href="#" alt="A4♮↓" class="playNote" data-frequency="433" data-parent="#notation1"><!--variable-->
-					  <area shape="circle" coords="417,50,13" href="#" alt="B4♭↓" class="playNote" data-frequency="454" data-parent="#notation1"><!--variable-->
-					  <area shape="circle" coords="496,42,14" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1">
+					  <area shape="circle" coords="27,91,12" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="106,82,12" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="321.33" data-parent="#notation1"><!--variable-->
+					  <area shape="circle" coords="187,74,14" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
+					  <area shape="circle" coords="262,66,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+					  <area shape="circle" coords="340,58,13" href="#" alt="La♮↓" class="playNote" data-frequency="433" data-parent="#notation1"><!--variable-->
+					  <area shape="circle" coords="417,50,13" href="#" alt="Si♭↓" class="playNote" data-frequency="454" data-parent="#notation1"><!--variable-->
+					  <area shape="circle" coords="496,42,14" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
 
 					</map>
-                    <p>Jins Jiharkah is a 5-note <em>jins</em>. It is notated here with its tonic on F and its <em>ghammaz</em> on C. The 3<sup>rd</sup> and 4<sup>th</sup> degrees are usually played lower than notated. Jins Jiharkah is the first <em>jins</em> in <a href="../maqam/jiharkah.php">Maqam Jiharkah</a>.</p>
+                    <p>Le Jins Jiharkah est un <em>jins</em> de 5 notes. Il est noté ici avec sa tonique sur Fa et son <em>ghammaz</em> sur Do. L'intervalle entre le 3<em>ième</em> et le 4<em>ième</em> degré est généralement joué plus court que noté. Le Jins Jiharkah est le premier jins du <a href="../maqam/jiharkah.php">Maqam Jiharkah</a>.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -70,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Mouachah Anta Soultan al-Milah</b>
-                                    <span>Sabah Fakhri</span>
+                                    <span>Sabah Fakhri (Syrie)</span>
                                 </div>
                             </label>
                         </div>
@@ -81,8 +82,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>‘Awwidti ‘Eini (1957)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <b>Awwidti Eini (1957)</b>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Riyad al-Soumbati</span>
                                 </div>
                             </label>
@@ -95,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Shams el-Asil (1958)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Riyad al-Soumbati</span>
                                 </div>
                             </label>
@@ -108,7 +109,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Taqsim de Oud en <a href="../maqam/rast.php">Maqam Rast</a></b>
-                                    <span>Ibrahim al-Haggar</span>
+                                    <span>Ibrahim al-Haggar (Égypte)</span>
                                     <span>Wasla en Maqam Rast</span>
                                 </div>
                             </label>
@@ -120,8 +121,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Mal il-Cham</b>
-                                    <span>Sabah Fakhri</span>
+                                    <b>Ya Mal el-Cham</b>
+                                    <span>Sabah Fakhri (Syrie)</span>
                                     <span>Musique de Ahmad Abou Khalil al-Qabbani</span>
                                 </div>
                             </label>

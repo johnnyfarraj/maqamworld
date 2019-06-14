@@ -55,8 +55,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Ba‘id ‘Annak (1965)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <b>Ba‘id Annak (1965)</b>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Daret el-Ayyam (1970)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Qari’at al-Fingan (1976)</b>
-                                    <span>Abdel Halim Hafez</span>
+                                    <span>Abdel Halim Hafez (Égypte)</span>
                                     <span>Musique de Mouhammad al-Mougi</span>
                                 </div>
                             </label>
@@ -95,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Qassida Salou Qalbi (1946)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Riyad al-Soumbati</span>
                                 </div>
                             </label>

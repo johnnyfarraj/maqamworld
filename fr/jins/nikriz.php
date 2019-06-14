@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Jins Nikriz</h1>
-                        <h3>Root jins of the <a href="../maqam/f_nikriz.php">Famille du Maqam Nikriz</a></h3>
+                        <h3>Jins de base de la <a href="../maqam/f_nikriz.php">Famille du Maqam Nikriz</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Ajnas</a>
                     <div class="clearfix"></div>
@@ -47,19 +47,19 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="60,116,12" href="#" alt="A3♭" class="playNote" data-frequency="209" data-parent="#notation1"><!--fine tuned up from 205.5-->
-					  <area shape="circle" coords="138,107,12" href="#" alt="B3♮" class="playNote" data-frequency="247.5" data-parent="#notation1">
-					  <area shape="circle" coords="220,100,14" href="#" alt="C4" class="playNote" data-frequency="260.74" data-parent="#notation1">
-					  <area shape="circle" coords="295,91,13" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1">
-					  <area shape="circle" coords="373,83,13" href="#" alt="E4♭" class="playNote" data-frequency="315" data-parent="#notation1">
-					  <area shape="circle" coords="450,74,13" href="#" alt="F4♯" class="playNote" data-frequency="375" data-parent="#notation1">
-					  <area shape="circle" coords="528,66,14" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					   <area shape="circle" coords="601,58,12" href="#" alt="A4♭" class="playNote" data-frequency="414" data-parent="#notation1"><!-- fine tuned up from 411-->
-					  <area shape="circle" coords="640,58,12" href="#" alt="A4♮" class="playNote" data-frequency="440" data-parent="#notation1">
-					  <area shape="circle" coords="678,50,12" href="#" alt="B4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
+					  <area shape="circle" coords="60,116,12" href="#" alt="La♭" class="playNote" data-frequency="209" data-parent="#notation1"><!--fine tuned up from 205.5-->
+					  <area shape="circle" coords="138,107,12" href="#" alt="Si♮" class="playNote" data-frequency="247.5" data-parent="#notation1">
+					  <area shape="circle" coords="220,100,14" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
+					  <area shape="circle" coords="295,91,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="373,83,13" href="#" alt="Mi♭" class="playNote" data-frequency="315" data-parent="#notation1">
+					  <area shape="circle" coords="450,74,13" href="#" alt="Fa♯" class="playNote" data-frequency="375" data-parent="#notation1">
+					  <area shape="circle" coords="528,66,14" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+					   <area shape="circle" coords="601,58,12" href="#" alt="La♭" class="playNote" data-frequency="414" data-parent="#notation1"><!-- fine tuned up from 411-->
+					  <area shape="circle" coords="640,58,12" href="#" alt="La♮" class="playNote" data-frequency="440" data-parent="#notation1">
+					  <area shape="circle" coords="678,50,12" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 
 					</map>
-                    <p>Jins Nikriz is a 5-note <em>jins</em>. It is notated here with its tonic on C and its <em>ghammaz</em> on G. Jins Nikriz is the first <em>jins</em> in <a href="../maqam/nikriz.php">Maqam Nikriz</a> and <a href="../maqam/nawa_athar.php">Maqam Nawa Athar</a>.
+                    <p>Le Jins Nikriz est un <em>jins</em> de 5 notes. Il est noté ici avec sa tonique sur Do et son <em>ghammaz</em> sur Sol. Le Jins Nikriz est le premier <em>jins</em> du <a href="../maqam/nikriz.php">Maqam Nikriz</a> et du <a href="../maqam/nawa_athar.php">Maqam Nawa Athar</a>.
                     </p>
 
                     <div class="player-area">
@@ -73,7 +73,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Bayna Qasiyoun Wa Rabwa</b>
+                                    <b>Mouachah Bayna Qasiyoun wa Rabwa</b>
                                     <span>Orchestre National Syrien</span>
                                     <span>Musique de Omar al-Batch</span>
                                 </div>
@@ -86,8 +86,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>‘Awwidti ‘Eini (1957)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <b>Awwidti Eini (1957)</b>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Riyad al-Soumbati</span>
                                 </div>
                             </label>
@@ -112,8 +112,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ba‘id ‘Annak (1965)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <b>Ba‘id Annak (1965)</b>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Baligh Hamdi</span>
                                 </div>
                             </label>
@@ -126,7 +126,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Fi Youm We Leila (1978)</b>
-                                    <span>Warda</span>
+                                    <span>Warda (France/Algerie)</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -139,7 +139,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Qassida Lamma Anakhou</b>
-                                    <span>Sabah Fakhri</span>
+                                    <span>Sabah Fakhri (Syrie)</span>
                                 </div>
                             </label>
                         </div>

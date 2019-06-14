@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Jins Saba</h1>
-                        <h3>(ambiguous size)</h3>
+                        <h3>(de taille ambiguë)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Ajnas</a>
                     <div class="clearfix"></div>
@@ -46,16 +46,16 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="66,102,12" href="#" alt="B3<i class='icon-halfflat'></i>" class="playNote" data-frequency="243" data-parent="#notation1"><!--var-->
-					  <area shape="circle" coords="144,94,12" href="#" alt="C4" class="playNote" data-frequency="260.74" data-parent="#notation1">
-					  <area shape="circle" coords="226,86,14" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1"><!--tonic-->
-					  <area shape="circle" coords="301,78,13" href="#" alt="E4<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
-					  <area shape="circle" coords="379,70,13" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1">
-					  <area shape="circle" coords="456,62,13" href="#" alt="G4♭" class="playNote" data-frequency="368" data-parent="#notation1"><!-- Hijaz 2nd tuned up from 365.32 -->
-					  <area shape="circle" coords="532,53,13" href="#" alt="A4♮" class="playNote" data-frequency="437" data-parent="#notation1"><!-- Hijaz 3rd tuned down from 440-->
-					  <area shape="circle" coords="609,45,13" href="#" alt="B4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
+					  <area shape="circle" coords="66,102,12" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="243" data-parent="#notation1"><!--var-->
+					  <area shape="circle" coords="144,94,12" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
+					  <area shape="circle" coords="226,86,14" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1"><!--tonic-->
+					  <area shape="circle" coords="301,78,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
+					  <area shape="circle" coords="379,70,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
+					  <area shape="circle" coords="456,62,13" href="#" alt="Sol♭" class="playNote" data-frequency="368" data-parent="#notation1"><!-- Hijaz 2nd tuned up from 365.32 -->
+					  <area shape="circle" coords="532,53,13" href="#" alt="La♮" class="playNote" data-frequency="437" data-parent="#notation1"><!-- Hijaz 3rd tuned down from 440-->
+					  <area shape="circle" coords="609,45,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					</map>
-                    <p>Jins Saba has an ambiguous size. It is notated here with its tonic on D and two <em>ghammaz</em> possibilities: the 3<sup>rd</sup> degree (notated on F) or the 6<sup>th</sup> degree (notated on B&#x266d;). Jins Saba is the first jins in <a href="../maqam/saba.php">Maqam Saba</a>.
+                    <p>Le Jins Saba a une taille ambiguë. Il est noté ici avec sa tonique sur Ré et deux possibilités de <em>ghammaz</em>, le 3<sup>ième</sup> degré (noté sur Fa) et le 6<sup>ième</sup> degré (noté sur Si&#x266d;). Le Jins Saba est le premier jins du <a href="../maqam/saba.php">Maqam Saba</a>.
                     </p>
 
                     <div class="player-area">
@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Houwa Sahih el-Hawa Ghallab (1960)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Zakaria Ahmad</span>
                                 </div>
                             </label>
@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Aghadan Alqaka (1971)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -96,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ansak Da Kalam (1961)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Baligh Hamdi</span>
                                 </div>
                             </label>
@@ -108,7 +108,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Doulab en <a href="../maqam/saba.php">Maqam Saba</a></b>
+                                    <b>Doulab en Maqam Saba</b>
                                     <span>Sabri al-Moudallal</span>
                                 </div>
                             </label>
@@ -120,7 +120,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Layali en <a href="../maqam/saba.php">Maqam Saba</a></b>
+                                    <b>Layali en Maqam Saba</b>
                                     <span>Sabri al-Moudallal</span>
                                 </div>
                             </label>
@@ -133,7 +133,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Lissa Fakir (1963)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Riyad al-Soumbati</span>
                                 </div>
                             </label>
@@ -146,7 +146,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Tiri Ya Tiyyara</b>
-                                    <span>Fairouz</span>
+                                    <span>Fairouz (Liban)</span>
                                     <span>Musique de Philémon Wéhbé</span>
                                 </div>
                             </label>

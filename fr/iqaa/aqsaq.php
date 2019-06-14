@@ -135,7 +135,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Ayyouha al-Saqi</b>
-                                    <span>Sabah Fakhri</span>
+                                    <span>Sabah Fakhri (Syrie)</span>
                                     <span>Musique de Majdi al-‘Aqili</span>
                                     <span><img src="/img/cd.png"> Beiteddine Festival Vol. 1</span>
                                 </div>

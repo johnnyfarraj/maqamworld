@@ -4,8 +4,8 @@
 include('../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Arabic Maqam";
-$page_description = "Arabic Music Maqam Jins";
+$page_title = "Le Maqam arabe";
+$page_description = "Le Maqam arabe";
 $page_keywords = "musique arabe, maqam, instruments, jins, iqa‘, iqaa, rythme, oud, qanoun, nay, quart de ton, tarab";
 $page_language = "fr";
 
@@ -23,31 +23,31 @@ include($ROOT . 'inc/head.php');
     <div class="container">
       <div class="row">
         <div class="col-md-3">
-          <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
+          <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
           <?php include('sidemenu-maqam.php'); ?>
         </div>
         <div class="col-md-9 col-sm-9">
 
           <div class="heading text-center jins">
-            <h1>The Arabic Maqam</h1>
-            <h3>A system of scales, habitual melodic phrases, modulation possibilities, ornamentation norms, and aesthetic conventions</h3>
+            <h1>Le Maqam Arabe</h1>
+            <h3>Un système de gammes, motifs mélodiques, possibilités de modulation, normes d'ornementation et conventions esthétiques</h3>
           </div>
-          <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
+          <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
           <div class="clearfix"></div>
 
           <div class="text-center mt-2 mb-3">
             <a href="#" class="pronunciation btn btn-default" data-audio="/name/maqam.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Maqam/Maqamat</a>
           </div>
 
-          <p>The Arabic Maqam (plural Maqamat) is a system of scales, habitual melodic phrases, modulation possibilities, ornamentation techniques and aesthetic conventions that together form a rich melodic framework and artistic tradition. The <em>maqam</em>'s melodic course (in both composed or improvised music) within that framework is called <em>sayr</em> in Arabic.</p>
+          <p>Le Maqam arabe est un système de gammes, motifs mélodiques, possibilités de modulation, normes d'ornementation et conventions esthétiques qui forment ensemble un cadre mélodique et une tradition artistique riches. Le trajet mélodique du <em>maqam</em> (tant au niveau de la musique composée qu'improvisée) est appelé <em>sayr</em> (pronnoncé saïr) en arabe.</p>
 
-          <p>Each <em>maqam</em> scale can be built by chaining together two (or in some cases, three) scale fragments or building blocks called a <a href="jins.php">jins (pl. ajnas)</a>. The <em>maqam</em> gets its intervals, melodic behavior and overall mood from these constituent <em>ajnas</em>. The first <em>jins</em> always starts the <em>maqam</em> scale with its tonic at the 1<sup>st</sup> degree, and the second <em>jins</em> starts at the <em>ghammaz</em> (modulation point) of the first <em>jins</em> (usually its last note). If a third <em>jins</em> is used, its tonic coincides with the second <em>jins</em>’ <em>ghammaz</em>, and so on. The note immediately below the tonic is called the <em>leading tone</em>.</p>
+          <p>Chaque gamme de maqam peut être construite en mettant ensemble deux (ou dans certains cas trois) fragments de gamme ou morceaux de construction appelés <a href="jins.php">jins</a> (<em>ajnas</em> au pluriel). Le <em>maqam</em> reçoit ses intervalles, son comportement mélodique et son ethos en fonction des <em>ajnas</em> qui le constituent. Le premier <em>jins</em> débute toujours la gamme du <em>maqam</em> par la tonique sur le 1er degré, et le deuxième <em>jins</em> débute au <em>ghammaz</em> (le point de modulation) du premier <em>jins</em> (généralement sa dernière note). Si un troisième <em>jins</em> est utilisé, sa tonique coïncide avec le <em>ghammaz</em> du deuxième <em>jins</em>, et ainsi de suite. La note précédant directement la tonique est appelée la sensible.</p>
 
-          <p>Traditionally, each <em>maqam</em> is based on a scale. The first note in the scale is called the <em>tonic</em>. <em>Maqam</em> scales are usually made of 7 notes that repeat at the octave, although a few <em>maqam</em> scales may extend beyond 8 notes. In addition, a few <em>maqam</em> scales do not achieve octave equivalence at the 8<sup>th</sup> note. </p>
+          <p>Traditionnellement, chaque <em>maqam</em> est basé sur une gamme. La première note de la gamme est appelée la tonique. Les gammes de <em>maqam</em> sont généralement faite de 7 notes qui se répètent à l'octave supérieur, même si certaines gammes de <em>maqam</em> ont des fois 8 notes ou plus. De plus, quelques gammes de <em>maqam</em> n'ont pas d'équivalence d'octave à la 8<sup>ième</sup> note.</p>
 
-          <p>According to tradition, <em>maqamat</em> are classified into families based on sharing the same first (root) <em>jins</em>. The root <em>jins</em> plays the largest role in defining the <em>maqam</em>’s character. The most common <em>maqam</em> in the branch usually shares its name with the root <em>jins</em>. Remaining <em>maqamat</em> in the same family are called branch <em>maqamat</em>, and are based on the use of a different second (upper) <em>jins</em>.</p>
+          <p>Selon la tradition, les <em>maqams</em> sont classés en familles, cette classification étant basée sur le partage du premier <em>jins</em> (<em>jins</em> de base). Le <em>jins</em> de base joue le plus grand rôle quand il s'agit de définir le caractère du <em>maqam</em>. Le <em>maqam</em> le plus commun de la branche partage généralement son nom avec le <em>jins</em> de base. Les autres <em>maqams</em> de la famille sont appelés des <em>maqams</em> de la branche et sont construits en utilisant un autre <em>jins</em> secondaire.</p>
 
-          <p>You can start exploring <em>maqamat</em> by family, or one at a time, by using the Index des Maqamat. </p>
+          <p>Vous pouvez commencer à explorer les <em>maqams</em> par famille, ou en utilisant l'<strong></strong>Index des Maqams.</p>
 
           <ul>
             <li><a href="maqam/f_ajam.php">Famille du Maqam ‘Ajam</a></li>
@@ -60,7 +60,7 @@ include($ROOT . 'inc/head.php');
             <li><a href="maqam/f_sikah.php">Famille du Maqam Sikah</a></li>
           </ul>
 
-          <p>A few Maqamat do not share their first jins with any others and are therefore not part of a family. These are: </p>
+          <p>Quelques maqams no partagent leur premier jins avec aucun autre maqam, et par conséquent n'appartiennent à aucune famille. Ce sont les suivants: </p>
 
           <ul>
             <li><a href="maqam/jiharkah.php">Maqam Jiharkah</a></li>

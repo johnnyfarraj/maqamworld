@@ -68,7 +68,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Amal Hayati (1965)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -80,8 +80,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ba‘id ‘Annak (1965)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <b>Ba‘id Annak (1965)</b>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Baligh Hamdi</span>
                                 </div>
                             </label>
@@ -94,7 +94,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Kawini Ya ‘Ali (1953)</b>
-                                    <span>Sabah</span>
+                                    <span>Sabah (Liban)</span>
                                     <span>Musique de Farid al-Atrache</span>
                                 </div>
                             </label>

@@ -4,8 +4,8 @@
 include('../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Arabic Jins";
-$page_description = "Arabic Music Maqam Jins";
+$page_title = "Le Jins";
+$page_description = "Le Jins Maqam Musique Arabe";
 $page_keywords = "musique arabe, maqam, instruments, jins, iqa‘, iqaa, rythme, oud, qanoun, nay, quart de ton, tarab";
 $page_language = "fr";
 
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading text-center jins">
-                        <h1>The Jins</h1>
-                        <h3>A scale fragment of 3, 4, or 5 notes that a Maqam is built from</h3>
+                        <h1>Le Jins</h1>
+                        <h3>Un fragment de gamme de 3, 4 ou 5 notes avec lequel un maqam est construit</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Ajnas</a>
                     <div class="clearfix"></div>
@@ -39,19 +39,25 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/jins.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Jins/Ajnas</a>
                     </div>
 
-                    <p>The Jins (plural Ajnas) is a <a href="maqam.php">maqam</a> scale fragment of 3, 4 or 5 notes. The <em>jins</em> is the basic melodic unit in Arabic music, as a <a href="maqam.php">maqam</a> is really a pathway among many ajnas. Each <em>jins</em> is defined by its intervals, which don’t change when it is transposed and give it its distinct and recognizable character.</p>
+                    <p>Le <em>Jins</em> (<em>Ajnas</em> au pluriel) sont des fragments de gamme de 3, 4 ou 5 notes. Le Jins est l'unité mélodique de base en musique arabe dans le sens qu'un <a href="maqam.php">maqam</a> est une route entre plusieurs <em>ajnas</em>em>. Chaque <em>jins</em> est défini par ses intervalles (qui ne changent pas quand il y a transposition) qui lui donnent son caractère distinct et reconnaissable.
+                    </p>
 
-                    <p>The <em>tonic</em> of a <em>jins</em> is the note of principal melodic emphasis, the note that the melody returns to for resolution. This is usually the first note in the <em>jins</em> scale. The <em>leading tone</em> is the note immediately below the tonic of a <em>jins</em>. The <em>ghammaz</em> is the most important note of melodic emphasis (besides the tonic), as well as the most common starting point of a new <em>jins</em> (changing to a new <em>jins</em> or <a href="maqam.php">maqam</a> is called modulation).</p>
+                    <p>La tonique d'un <em>jins</em> est la note qui reçoit l'emphase principale, la note vers laquelle la mélodie retourne pour se résoudre. C'est en général la première note du <em>jins</em>. La sensible est la note qui précède la tonique du <em>jins</em>. Le <em>ghammaz</em> est la note mélodiquement la plus importante (après la tonique) et est aussi la note qui démarre en général un nouveau <em>jins</em> (changer de <em>jins</em> ou de <a href="maqam.php">maqam</a> est appelé modulation).
+                    </p>
 
-                    <p>The size of a <em>jins</em> is the number of notes between the tonic and the <em>ghammaz</em>. These notes are called the <em>jins</em>’ <em>basic scale</em> (or simply scale). Outside the basic scale (on either side) are notes that are part and parcel of the <em>jins</em>’ melodic vocabulary. These notes are called the <em>jins</em> baggage. The basic scale plus the <em>jins</em> baggage make up the <em>jins</em>’ <em>extended scale</em>. </p>
+                    <p>La taille d'un <em>jins</em> dépend du nombre de notes qui existent entre la tonique et le <em>ghammaz</em>. Ces notes sont appelées la gamme de base du <em>jins</em> (ou simplement gamme). À côté de la gamme de base (et ce, peu importe de quel côté) existent des notes qui font partie du vocabulaire mélodique des jins. Ces notes sont appelées baggage du <em>jins</em>. La gamme de base plus le baggage du <em>jins</em> forment ensemble la gamme étendue du <em>jins</em>.
+                    </p>
 
-                    <p>Each <em>jins</em> shows the basic scale notated using large notes, with the tonic and <em>ghammaz</em> as whole notes. The <em>jins</em> baggage notes are shown in smaller size, and sometimes a <em>jins</em> includes multiple options for some notes in the <em>jins</em> baggage.</p>
+                    <p>Chaque <em>jins</em> est noté de la manière suivante: les notes de la gamme de base sont indiquées par des noires tandis que la tonique et le <em>ghammaz</em> sont indiqués par des blanches. Les notes 'bagage du jins' sont indiquées par des caractères plus petits. Des fois, un jins possède plusieurs options quant aux notes qui forment son bagage.
+                    </p>
 
-                    <p>You can start exploring ajnas using the Index des Ajnas (sorted alphabetically) or using the table below (grouped by size):</p>
+                    <p>Vous pouvez commencer à explorer les ajnas en utilisant l'<strong>Index des Ajnas</strong> (en ordre alphabétique) ou en utilisant le tableau ci-dessous (où les jins sont regroupés en fonction de leur taille):
+                    </p>
+                    
                     <div class="page-list-area">
                         <div class="row">
                             <div class="col-sm-3">
-                                <div class="page-list-header">3-note</div>
+                                <div class="page-list-header">3 notes</div>
                                 <!-- Header Cell: "3-note" -->
                                 <ul class="page-list">
                                     <li><a href="jins/mustaar.php">Jins Mousta‘ar</a></li>
@@ -59,7 +65,7 @@ include($ROOT . 'inc/head.php');
                                 </ul>
                             </div>
                             <div class="col-sm-3">
-                                <div class="page-list-header">4-note</div>
+                                <div class="page-list-header">4 notes</div>
                                 <!-- Header Cell: "4-note" -->
                                 <ul class="page-list">
                                    <li><a href="jins/bayati.php">Jins Bayati</a></li>
@@ -72,7 +78,7 @@ include($ROOT . 'inc/head.php');
                                 </ul>
                             </div>
                             <div class="col-sm-3">
-                                <div class="page-list-header">5-note</div>
+                                <div class="page-list-header">5 notes</div>
                                 <!-- Header Cell: "5-note" -->
                                 <ul class="page-list">
                                     <li><a href="jins/ajam.php">Jins ‘Ajam</a></li>
@@ -86,11 +92,11 @@ include($ROOT . 'inc/head.php');
                                 </ul>
                             </div>
                             <div class="col-sm-3">
-                                <div class="page-list-header">(undefined size)</div>
+                                <div class="page-list-header">(taille indéfinie)</div>
                                 <!-- Header Cell: "undefined size" -->
                                 <ul class="page-list">
                                     <li><a href="jins/hijazkar.php">Jins Hijazkar</a></li>
-                                    <li><a href="jins/mukhalef_sharqi.php">Jins Moukhalef Sharqui</a></li>
+                                    <li><a href="jins/mukhalef_sharqi.php">Jins Moukhalef Sharqi</a></li>
                                     <li><a href="jins/nahawand_murassaa.php">Jins Nahawand Mourassa‘</a></li>
                                     <li><a href="jins/saba.php">Jins Saba</a></li>
                                     <li><a href="jins/saba_dalanshin.php">Jins Saba Dalanchine</a></li>

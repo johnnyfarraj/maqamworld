@@ -86,7 +86,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Layali Rast (from ‘Addini ya M‘addawi)</b>
-                                    <span>‘Abbas al-Bleidi</span>
+                                    <span>Abbas al-Bleidi (Égypte)</span>
                                 </div>
                             </label>
                         </div>
@@ -98,7 +98,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mawwal Khoullin Sagani Kasat al-Sabr</b>
-                                    <span>Mouhammad Khayri</span>
+                                    <span>Mouhammad Khayri (Syrie)</span>
                                 </div>
                             </label>
                         </div>
@@ -110,7 +110,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Dala‘ Dalla‘ (1974)</b>
-                                    <span>Sabah</span>
+                                    <span>Sabah (Liban)</span>
                                     <span>Musique de Farid al-Atrache</span>
                                 </div>
                             </label>
@@ -135,7 +135,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Tile‘ Li el-Biki</b>
-                                    <span>Fairouz</span>
+                                    <span>Fairouz (Liban)</span>
                                     <span>Musique de Philémon Wéhbé</span>
                                 </div>
                             </label>
@@ -168,7 +168,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mawwal Ya Man Bounoudak Harir</b>
-                                    <span>Mouhammad Khayri</span>
+                                    <span>Mouhammad Khayri (Syrie)</span>
                                 </div>
                             </label>
                         </div>
@@ -192,7 +192,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Taqsim au Nay en <a href="../maqam/bayati.php">Maqqam Bayati</a></b>
-                                    <span>Mouhammad Khayri</span>
+                                    <span>Mouhammad Khayri (Syrie)</span>
                                 </div>
                             </label>
                         </div>
@@ -217,7 +217,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Dara Douri Fina</b>
-                                    <span>Fairouz</span>
+                                    <span>Fairouz (Liban)</span>
                                     <span>Musique de Philémon Wéhbé</span>
                                 </div>
                             </label>

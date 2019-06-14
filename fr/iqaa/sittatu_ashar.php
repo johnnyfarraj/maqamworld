@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Mouachah Badat Min al-Khidri (khana)</b>
-                                    <span>Ghada Chbeir</span>
+                                    <span>Ghada Chbeir (Liban)</span>
                                     <span><img src="/img/cd.png"> Mouachahat</span>
                                 </div>
                             </label>

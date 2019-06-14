@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -32,7 +32,7 @@ include($ROOT . 'inc/head.php');
                         <h1>Maqam Dalanchine</h1>
                         <h3>Membre de la <a href="f_rast.php">Famille du Maqam Rast</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -48,16 +48,16 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="84,58,13" href="#" alt="E5♮" class="playNote" data-frequency="660" data-parent="#notation1"><!--Hijaz 3-->
-					  <area shape="circle" coords="161,66,13" href="#" alt="D5♭" class="playNote" data-frequency="560  " data-parent="#notation1"><!--Hijaz 2-->
-					  <area shape="circle" coords="240,74,13" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1"><!-- Hijaz Tonic-->
-					  <area shape="circle" coords="317,83,13" href="#" alt="B4<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!-- var -->
-					  <area shape="circle" coords="393,90,13" href="#" alt="A4" class="playNote" data-frequency="440" data-parent="#notation1">
-					  <area shape="circle" coords="471,99,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="548,107,13" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1">
-					  <area shape="circle" coords="626,115,13" href="#" alt="E4<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
-                       <area shape="circle" coords="704,123,13" href="#" alt="D4♮" class="playNote" data-frequency="293.33" data-parent="#notation1">
-					  <area shape="circle" coords="780,133,13" href="#" alt="C4" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
+					  <area shape="circle" coords="84,58,13" href="#" alt="Mi♮" class="playNote" data-frequency="660" data-parent="#notation1"><!--Hijaz 3-->
+					  <area shape="circle" coords="161,66,13" href="#" alt="Ré♭" class="playNote" data-frequency="560  " data-parent="#notation1"><!--Hijaz 2-->
+					  <area shape="circle" coords="240,74,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1"><!-- Hijaz Tonic-->
+					  <area shape="circle" coords="317,83,13" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!-- var -->
+					  <area shape="circle" coords="393,90,13" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
+					  <area shape="circle" coords="471,99,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+					  <area shape="circle" coords="548,107,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
+					  <area shape="circle" coords="626,115,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
+                       <area shape="circle" coords="704,123,13" href="#" alt="Ré♮" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="780,133,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
                        <!-- Links -->
                       <area shape="rect" coords="132,5,362,34" href="../jins/saba_dalanshin.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="260,142,443,171" href="../jins/upper_rast.php" class="mapLink" data-parent="#notation1">
@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
 			<p>
                     There are not too many songs in this maqam, instead it is more frequently used as a modulation from <a href="rast.php">Maqam Rast</a>.</p>
 
-                    <p>Explorez d'autres maqamat dans la <a href="f_rast.php">Famille du Maqam Rast</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_rast.php">Famille du Maqam Rast</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -82,8 +82,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Qadd Ya Mal il-Sham</b>
-                                    <span>Sabah Fakhri</span>
+                                    <b>Qadd Ya Mal el-Sham</b>
+                                    <span>Sabah Fakhri (Syrie)</span>
                                     <span>Musique de Ahmad Abou Khalil al-Qabbani</span>
                                 </div>
                             </label>
@@ -96,8 +96,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Mala el-Kasat</b>
-                                    <span>Mouhammad Khayri</span>
-                                    <span>Musique de Mouhammad ‘Outhman</span>
+                                    <span>Mouhammad Khayri (Syrie)</span>
+                                    <span>Musique de Mouhammad Outhman</span>
                                 </div>
                             </label>
                         </div>
@@ -122,7 +122,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr ‘Ishna w Shoufna</b>
                                     <span>Saleh Abdel Hayy</span>
-                                    <span>Musique de Mouhammad ‘Outhman</span>
+                                    <span>Musique de Mouhammad Outhman</span>
                                 </div>
                             </label>
                         </div>

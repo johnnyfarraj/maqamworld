@@ -104,7 +104,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                 <b>Ahmed ‘Adaweya</b>
-                                <span>La chanson de Ahmed ‘Adaweya <strong>Yi Hilu il-Malamih</strong> (dans le genre égyptien <em>Cha‘bi</em>) avec accompagnement par une danseuse.</span>
+                                <span>La chanson de Ahmed ‘Adaweya <strong>Yi Hilu el-Malamih</strong> (dans le genre égyptien <em>Cha‘bi</em>) avec accompagnement par une danseuse.</span>
                                 </div>
                             </label>
                         </div>

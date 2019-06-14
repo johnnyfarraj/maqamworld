@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -32,7 +32,7 @@ include($ROOT . 'inc/head.php');
                         <h1>Maqam Athar Kurd</h1>
                         <h3>Membre de la <a href="f_nikriz.php">Famille du Maqam Nikriz</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -48,14 +48,14 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-	  <area shape="circle" coords="63,131,13" href="#" alt="C4" class="playNote" data-frequency="260.74" data-parent="#notation1">
-	  <area shape="circle" coords="141,123,13" href="#" alt="D4♭" class="playNote" data-frequency="274" data-parent="#notation1">
-	  <area shape="circle" coords="218,115,13" href="#" alt="E4♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
-	  <area shape="circle" coords="296,107,13" href="#" alt="F4♯" class="playNote" data-frequency="375" data-parent="#notation1">
-	  <area shape="circle" coords="373,99,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-	  <area shape="circle" coords="450,91,13" href="#" alt="A4♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- Hijaz 2 tuned up from 420 -->
-	  <area shape="circle" coords="528,83,13" href="#" alt="B4♮" class="playNote" data-frequency="492" data-parent="#notation1"><!-- Hijaz 3 tuned down from 495 -->
-	  <area shape="circle" coords="605,75,13" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1">
+	  <area shape="circle" coords="63,131,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
+	  <area shape="circle" coords="141,123,13" href="#" alt="Ré♭" class="playNote" data-frequency="274" data-parent="#notation1">
+	  <area shape="circle" coords="218,115,13" href="#" alt="Mi♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
+	  <area shape="circle" coords="296,107,13" href="#" alt="Fa♯" class="playNote" data-frequency="375" data-parent="#notation1">
+	  <area shape="circle" coords="373,99,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+	  <area shape="circle" coords="450,91,13" href="#" alt="La♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- Hijaz 2 tuned up from 420 -->
+	  <area shape="circle" coords="528,83,13" href="#" alt="Si♮" class="playNote" data-frequency="492" data-parent="#notation1"><!-- Hijaz 3 tuned down from 495 -->
+	  <area shape="circle" coords="605,75,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
                        <!-- Links -->
                       <area shape="rect" coords="115,5,294,34" href="../jins/athar_kurd.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="337,144,483,175" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
@@ -66,7 +66,7 @@ include($ROOT . 'inc/head.php');
                     <p>The Maqam Athar Kurd scale is a hybrid between <a href="nawa_athar.php">Maqam Nawa Athar</a>
                     and <a href="kurd.php">Maqam Kurd</a>, hence the name.
 		</p>
-                    <p>Explorez d'autres maqamat dans la <a href="f_nikriz.php">Famille du Maqam Nikriz</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_nikriz.php">Famille du Maqam Nikriz</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -80,7 +80,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Ya Msafir w Albi Ma‘ak (1950)</b>
-                                    <span>Leila Mourad</span>
+                                    <span>Leila Mourad (Égypte)</span>
                                     <span>Musique de Ahmad Sidqi</span>
                                 </div>
                             </label>
@@ -93,7 +93,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Hana wel-Widd (1975)</b>
-                                    <span>Leila Mourad</span>
+                                    <span>Leila Mourad (Égypte)</span>
                                     <span>Musique de Abdel Moun‘im al-Hariri</span>
                                 </div>
                             </label>
@@ -147,7 +147,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Taqsim de Oud en Maqam Athar Kurd</b>
                                     <span>Mouhammad Qadri Dalal</span>
-                                    <span><img src="/img/cd.png"> Maqamat Insolites</span>
+                                    <span><img src="/img/cd.png"> Maqams Insolites</span>
                                 </div>
                             </label>
                         </div>

@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins Haut Rast <span class="badge badge-custom">New</span></h1>
-                        <h3>A 4-note version of <a href="rast.php">Jins Rast</a> with the tonic on top</h3>
+                        <h1>Jins Haut Rast <span class="badge badge-custom">Nouveau</span></h1>
+                        <h3>Une version de 4 notes du <a href="rast.php">Jins Rast</a> avec la tonique en haut</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Ajnas</a>
                     <div class="clearfix"></div>
@@ -47,16 +47,17 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="61,84,12" href="#" alt="F4♮" class="playNote" data-frequency="347.65" data-parent="#notation1">
-					  <area shape="circle" coords="144,75,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="219,67,13" href="#" alt="A4" class="playNote" data-frequency="440" data-parent="#notation1">
-					  <area shape="circle" coords="297,58,13" href="#" alt="B4<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!--var-->
-					  <area shape="circle" coords="378,50,14" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1"><!--tonic-->
-					  <area shape="circle" coords="448,42,12" href="#" alt="D5" class="playNote" data-frequency="586.66" data-parent="#notation1">
+					  <area shape="circle" coords="61,84,12" href="#" alt="Fa♮" class="playNote" data-frequency="347.65" data-parent="#notation1">
+					  <area shape="circle" coords="144,75,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+					  <area shape="circle" coords="219,67,13" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
+					  <area shape="circle" coords="297,58,13" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!--var-->
+					  <area shape="circle" coords="378,50,14" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1"><!--tonic-->
+					  <area shape="circle" coords="448,42,12" href="#" alt="Ré" class="playNote" data-frequency="586.66" data-parent="#notation1">
 					 
 					  </map>
 
-                    <p>Jins Haut Rast is a 4-note version of <a href="rast.php">Jins Rast</a>, with the unusual feature (shared by <a href="upper_ajam.php">Jins Haut ‘Ajam</a>) that its tonic is the last degree in the scale instead of the first. It is notated here with its <em>ghammaz</em> on G and its tonic on C. Jins Haut Rast is the second jins in <a href="../maqam/rast.php">Maqam Rast</a> and also occurs on the 5<sup>th</sup> degree of <a href="../maqam/jiharkah.php">Maqam Jiharkah</a>.</p>
+                    <p>Le Jins Haut Rast est une version de 4 notes du <a href="rast.php">Jins Rast</a> qui a la particularité (partagée avec le <a href="upper_ajam.php">Jins Haut ‘Ajam</a>) d'avoir comme tonique la dernière note de la gamme au lieu de la première. Il est noté ici avec sa tonique sur Do et son <em>ghammaz</em> sur Sol. Le Jins Haut Rast est le deuxième jins du <a href="../maqam/rast.php">Maqam Rast</a> et apparaît aussi sur le 5<sup>ième</sup> degré du <a href="../maqam/jiharkah.php">Maqam Jiharkah</a>.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -70,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Mouachah Ya Shadi al-Alhan</b>
-                                    <span>Sabah Fakhri</span>
+                                    <span>Sabah Fakhri (Syrie)</span>
                                     <span>Musique de Sayyed Darwich</span>
                                 </div>
                             </label>
@@ -96,8 +97,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Aruh Li Min (1958)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <b>Arouh Li Mine (1958)</b>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Riyad al-Soumbati</span>
                                 </div>
                             </label>
@@ -110,7 +111,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Asamina</b>
-                                    <span>Fairouz</span>
+                                    <span>Fairouz (Liban)</span>
                                     <span>Musique de Philémon Wéhbé</span>
                                 </div>
                             </label>
@@ -123,8 +124,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Atani Zamani</b>
-                                    <span>Sabah Fakhri</span>
-                                    <span>Musique de Mouhammad ‘Outhman</span>
+                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <span>Musique de Mouhammad Outhman</span>
                                 </div>
                             </label>
                         </div>
@@ -136,7 +137,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Hayrana Leh (1930)</b>
-                                    <span>Leila Mourad</span>
+                                    <span>Leila Mourad (Égypte)</span>
                                     <span>Musique de Daoud Housni</span>
                                 </div>
                             </label>

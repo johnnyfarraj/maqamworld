@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -32,7 +32,7 @@ include($ROOT . 'inc/head.php');
                         <h1>Maqam ‘Ajam ‘Ouchayrane</h1>
                         <h3>Membre de la <a href="f_ajam.php">Famille du Maqam ‘Ajam</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -47,14 +47,14 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-	  <area shape="circle" coords="66,85,13" href="#" alt="B4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
-	  <area shape="circle" coords="144,93,13" href="#" alt="A4" class="playNote" data-frequency="440" data-parent="#notation1">
-	  <area shape="circle" coords="221,101,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-	  <area shape="circle" coords="298,109,13" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1">
-	  <area shape="circle" coords="376,118,13" href="#" alt="E4♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
-	  <area shape="circle" coords="453,126,13" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1">
-	  <area shape="circle" coords="530,134,13" href="#" alt="C4" class="playNote" data-frequency="260.74" data-parent="#notation1">
-	  <area shape="circle" coords="608,142,13" href="#" alt="B3♭" class="playNote" data-frequency="231.77" data-parent="#notation1">
+	  <area shape="circle" coords="66,85,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
+	  <area shape="circle" coords="144,93,13" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
+	  <area shape="circle" coords="221,101,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+	  <area shape="circle" coords="298,109,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
+	  <area shape="circle" coords="376,118,13" href="#" alt="Mi♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
+	  <area shape="circle" coords="453,126,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+	  <area shape="circle" coords="530,134,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
+	  <area shape="circle" coords="608,142,13" href="#" alt="Si♭" class="playNote" data-frequency="231.77" data-parent="#notation1">
                       <!-- Links -->
                       <area shape="rect" coords="60,7,232,36" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="470,6,595,35" href="../jins/ajam.php" class="mapLink" data-parent="#notation1">
@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>Maqam ‘Ajam ‘Ouchayrane is an archaic version of <a href="ajam.php">Maqam ‘Ajam</a> with a different sayr, and has a completely different tonal emphasis as well. Rather than tonicizing its 5<sup>th</sup> scale degree (for starting the next jins), it tonicizes its 3<sup>rd</sup> and 6<sup>th</sup> scale degrees instead.</p>
                     <p>The Maqam ‘Ajam ‘Ouchayrane scale starts with the root <a href="../jins/ajam.php">Jins ‘Ajam</a> on the <em>tonic</em>, followed by <a href="../jins/kurd.php">Jins Kurd</a> on the 3<sup>rd</sup> degree then <a href="../jins/nahawand.php">Jins Nahawand</a> starting on the 6<sup>th</sup> degree.</p>
-                    <p>Explorez d'autres maqamat dans la <a href="f_ajam.php">Famille du Maqam ‘Ajam</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_ajam.php">Famille du Maqam ‘Ajam</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -77,7 +77,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Mouachah Ayqadha al-Houbbou Fou'adi</b>
-                                    <span>Hassan al-Haffar</span>
+                                    <span>Hassan al-Haffar (Syrie)</span>
                                     <span><img src="/img/cd.png"> The Aleppo Suites Vol.2</span>
                                     <span>Musique de Bahjat Hassan</span>
                                 </div>
@@ -91,7 +91,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Da‘i al-Hawa Qad Sah</b>
-                                    <span>Sabah Fakhri</span>
+                                    <span>Sabah Fakhri (Syrie)</span>
                                     <span>Musique de Omar al-Batch</span>
                                 </div>
                             </label>
@@ -117,7 +117,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Ma Li ‘Ayni Absarat</b>
-                                    <span>Sabah Fakhri</span>
+                                    <span>Sabah Fakhri (Syrie)</span>
                                 </div>
                             </label>
                         </div>

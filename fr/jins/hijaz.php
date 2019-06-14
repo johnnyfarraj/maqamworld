@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Jins Hijaz</h1>
-                        <h3>Root jins of the <a href="../maqam/f_hijaz.php">Famille du Maqam Hijaz</a></h3>
+                        <h3>Jins de base de la <a href="../maqam/f_hijaz.php">Famille du Maqam Hijaz</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Ajnas</a>
                     <div class="clearfix"></div>
@@ -47,17 +47,17 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="95,104,12" href="#" alt="B3<i class='icon-halfflat'></i>" class="playNote" data-frequency="243" data-parent="#notation1"><!- variable ->
-					  <area shape="circle" coords="173,96,12" href="#" alt="C4" class="playNote" data-frequency="260.74" data-parent="#notation1">
-					  <area shape="circle" coords="255,89,14" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1">
-					  <area shape="circle" coords="330,80,13" href="#" alt="E4♭" class="playNote" data-frequency="315" data-parent="#notation1"><!- variable Hijaz 2nd x1.0738->
-					  <area shape="circle" coords="408,71,13" href="#" alt="F4♯" class="playNote" data-frequency="375" data-parent="#notation1">
-					  <area shape="circle" coords="486,64,14" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="559,55,12" href="#" alt="A4" class="playNote" data-frequency="440" data-parent="#notation1">
-					  <area shape="circle" coords="636,46,12" href="#" alt="B4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
+					  <area shape="circle" coords="95,104,12" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="243" data-parent="#notation1"><!- variable ->
+					  <area shape="circle" coords="173,96,12" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
+					  <area shape="circle" coords="255,89,14" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="330,80,13" href="#" alt="Mi♭" class="playNote" data-frequency="315" data-parent="#notation1"><!- variable Hijaz 2nd x1.0738->
+					  <area shape="circle" coords="408,71,13" href="#" alt="Fa♯" class="playNote" data-frequency="375" data-parent="#notation1">
+					  <area shape="circle" coords="486,64,14" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+					  <area shape="circle" coords="559,55,12" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
+					  <area shape="circle" coords="636,46,12" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					</map>
 
-                    <p>Jins Hijaz is a 4-note <em>jins</em>. It is notated here with its tonic on D and its <em>ghammaz</em> on G. The interval between the 2<sup>nd</sup> and 3<sup>rd</sup> degrees is usually played smaller than notated by raising the 2<sup>nd</sup> a little and lowering the 3<sup>rd</sup> a little. Jins Hijaz is the first <em>jins</em> in <a href="../maqam/hijaz.php">Maqam Hijaz</a>, <a href="../maqam/hijazkar.php">Maqam Hijazkar</a>, and <a href="../maqam/zanjaran.php">Maqam Zanjarane</a>.
+                    <p>Le Jins Hijaz est un <em>jins</em> de 4 notes. Il est noté ici avec sa tonique sur Ré et son <em>ghammaz</em> sur Sol. L'intervalle entre le 2<sup>ième</sup> et le 3<sup>ième</sup> degré est généralement joué plus court que noté en montant légèrement la seconde et en abaissant légèrement la troisième. Le Jins Hijaz est le premier <em>jins</em> du <a href="../maqam/hijaz.php">Maqam Hijaz</a>, du <a href="../maqam/hijazkar.php">Maqam Hijazkar</a> et du <a href="../maqam/zanjaran.php">Maqam Zanjarane</a>.
                     </p>
 
                     <div class="player-area">
@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Ana Fi-ntizarak (1943)</b>
-                                    <span>Oum Koulthoum </span>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Zakaria Ahmad</span>
                                 </div>
                             </label>
@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Aghadan Alqak (1971)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -98,7 +98,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Bi Karm el-Loulou</b>
-                                    <span>Fairouz</span>
+                                    <span>Fairouz (Liban)</span>
                                     <span>Musique de Philémon Wéhbé</span>
                                 </div>
                             </label>
@@ -111,7 +111,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Awwila Fil-Gharam(1944)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Zakaria Ahmad</span>
                                 </div>
                             </label>
@@ -123,8 +123,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>el-Ward Gamil (1946)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <b>el-Wardi Gamil (1946)</b>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Zakaria Ahmad</span>
                                 </div>
                             </label>

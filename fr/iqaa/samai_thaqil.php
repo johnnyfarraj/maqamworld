@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Mala al-Kasat</b>
                                     <span>Ensemble Al-Kindi</span>
-                                    <span>Musique de Mouhammad ‘Outhman</span>
+                                    <span>Musique de Mouhammad Outhman</span>
                                 </div>
                             </label>
                         </div>

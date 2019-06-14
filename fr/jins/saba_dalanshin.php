@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins Saba Dalanchine <span class="badge badge-custom">New</span></h1>
-                        <h3>A special version of <a href="saba.php">Jins Saba</a> with its tonic on the 3<sup>rd</sup> degree</h3>
+                        <h1>Jins Saba Dalanchine <span class="badge badge-custom">Nouveau</span></h1>
+                        <h3>Une variation spéciale du <a href="saba.php">Jins Saba</a> avec sa tonique sur le 3<sup>ième</sup> degré</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Ajnas</a>
                     <div class="clearfix"></div>
@@ -46,19 +46,19 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="35,70,12" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="86,70,12" href="#" alt="G4♯" class="playNote" data-frequency="415" data-parent="#notation1"><!--ET???-->
-					  <area shape="circle" coords="133,62,14" href="#" alt="A4" class="playNote" data-frequency="440" data-parent="#notation1">
-					  <area shape="circle" coords="208,55,13" href="#" alt="B4<i class='icon-halfflat'></i>" class="playNote" data-frequency="477" data-parent="#notation1"><!--Bayati 2-->
-					  <area shape="circle" coords="281,46,14" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1"><!-- Hijaz Tonic-->
-					  <area shape="circle" coords="355,38,13" href="#" alt="D5♭" class="playNote" data-frequency="560  " data-parent="#notation1"><!--Hijaz 2-->
-					  <area shape="circle" coords="432,29,13" href="#" alt="E5♮" class="playNote" data-frequency="660" data-parent="#notation1"><!--Hijaz 3-->
-					  <area shape="circle" coords="509,21,13" href="#" alt="F5" class="playNote" data-frequency="695.3" data-parent="#notation1">
+					  <area shape="circle" coords="35,70,12" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+					  <area shape="circle" coords="86,70,12" href="#" alt="Sol♯" class="playNote" data-frequency="415" data-parent="#notation1"><!--ET???-->
+					  <area shape="circle" coords="133,62,14" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
+					  <area shape="circle" coords="208,55,13" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="477" data-parent="#notation1"><!--Bayati 2-->
+					  <area shape="circle" coords="281,46,14" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1"><!-- Hijaz Tonic-->
+					  <area shape="circle" coords="355,38,13" href="#" alt="Ré♭" class="playNote" data-frequency="560  " data-parent="#notation1"><!--Hijaz 2-->
+					  <area shape="circle" coords="432,29,13" href="#" alt="Mi♮" class="playNote" data-frequency="660" data-parent="#notation1"><!--Hijaz 3-->
+					  <area shape="circle" coords="509,21,13" href="#" alt="Fa" class="playNote" data-frequency="695.3" data-parent="#notation1">
 
 					</map>
-                    <p>Jins Saba Dalanchine is a special case of <a href="saba.php">Jins Saba</a> which has no <em>ghammaz</em>, and therefore no defined size. Its melody is centered around its tonic, notated here on C. The intervals above the tonic are more or less identical to <a href="hijaz.php">Jins Hijaz</a>. The note that is 2 degrees below the tonic (in this case A) is a secondary tonic.</p>
+                    <p>Le Jins Saba Dalanchine est un type spécial du <a href="saba.php">Jins Saba</a>. Il n'a pas de <em>ghammaz</em> et par conséquent n'as pas de taille définie. Sa mélodie est concentrée sur sa tonique, notée ici sur Do. Les intervalles au dessus de la tonique sont plus ou moins identiques à ceux du <a href="hijaz.php">Jins Hijaz</a>. La note qui est 2 degrés en dessous de la tonique (La, dans le cas présent) est la tonique secondaire.</p>
 
-                    <p>Jins Saba Dalanchine occurs on the octave of <a href="../maqam/rast.php">Maqam Rast</a>, which in this case becomes known as <a href="../maqam/dalanshin.php">Maqam Dalanchine</a>. It also occurs on the 5<sup>th</sup> degree of <a href="../maqam/shawq_afza.php">Maqam Chaouq Afza</a>.</p>
+                    <p>Le Jins Saba Dalanchine apparaît sur l'octave du <a href="../maqam/rast.php">Maqam Rast</a>, et dans ce cas il est appelé <a href="../maqam/dalanshin.php">Maqam Dalanchine</a>. Il apparaît aussi sur le 5<sup>ième</sup> degré du <a href="../maqam/shawq_afza.php">Maqam Chaouq Afza</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Ya Mal el-Cham</b>
-                                    <span>Sabah Fakhri</span>
+                                    <span>Sabah Fakhri (Syrie)</span>
                                     <span>Musique de Ahmad Abou Khalil al-Qabbani</span>
                                 </div>
                             </label>
@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Qassida Ya Jirat al-Cha‘b al-Yamani</b>
-                                    <span>Hassan al-Haffar</span>
+                                    <span>Hassan al-Haffar (Syrie)</span>
                                 </div>
                             </label>
                         </div>
@@ -97,8 +97,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Mala al-Kasat (khana)</b>
-                                    <span>Sabah Fakhri</span>
-                                    <span>Musique de Mouhammad ‘Outhman</span>
+                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <span>Musique de Mouhammad Outhman</span>
                                 </div>
                             </label>
                         </div>
@@ -110,7 +110,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Taqsim au Qanoun (de Layali Rast)</b>
-                                    <span>‘Abbas al-Bleidi</span>
+                                    <span>Abbas al-Bleidi (Égypte)</span>
                                 </div>
                             </label>
                         </div>
@@ -122,7 +122,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Halawit el-Dounia</b>
-                                    <span>Sayyed Makkawi</span>
+                                    <span>Sayyed Makkawi (Égypte)</span>
                                     <span>Musique de Zakaria Ahmad</span>
                                 </div>
                             </label>
@@ -135,7 +135,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Iswaret el-‘Arous (1989)</b>
-                                    <span>Fairouz</span>
+                                    <span>Fairouz (Liban)</span>
                                     <span>Musique de Philémon Wéhbé</span>
                                 </div>
                             </label>

@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
                              --><div class="info">
                                     <b>Dawr Kadni el-Hawa</b>
                                     <span>
-                                        L'enregistrement de Marie Joubran du <a href="vocal_comp.php#dawr">Dawr</a> <strong>Kadni el-Hawa</strong> (musique de Mouhammad ‘Outhman) commence avec un taqsim de <a href="../instr/qanun.php">qanoun</a> suivi de layali en <a href="../maqam/nahawand.php">Maqam Nahawand</a>.
+                                        L'enregistrement de Marie Joubran du <a href="vocal_comp.php#dawr">Dawr</a> <strong>Kadni el-Hawa</strong> (musique de Mouhammad Outhman) commence avec un taqsim de <a href="../instr/qanun.php">qanoun</a> suivi de layali en <a href="../maqam/nahawand.php">Maqam Nahawand</a>.
                                     </span>
                                 </div>
                             </label>

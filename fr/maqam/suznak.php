@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -32,7 +32,7 @@ include($ROOT . 'inc/head.php');
                         <h1>Maqam Suznak</h1>
                         <h3>Membre de la <a href="f_rast.php">Famille du Maqam Rast</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqamat</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -48,14 +48,14 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-	  <area shape="circle" coords="65,137,13" href="#" alt="C4" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
-	  <area shape="circle" coords="141,129,13" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1">
-	  <area shape="circle" coords="219,121,13" href="#" alt="E4<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
-	  <area shape="circle" coords="296,113,13" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1">
-	  <area shape="circle" coords="374,105,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-	  <area shape="circle" coords="450,97,13" href="#" alt="A4♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- Hijaz 2 tuned up from 420 -->
-	  <area shape="circle" coords="528,89,13" href="#" alt="B4♮" class="playNote" data-frequency="492" data-parent="#notation1"><!-- Hijaz 3 tuned down from 495 -->
-	  <area shape="circle" coords="606,80,13" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1">
+	  <area shape="circle" coords="65,137,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
+	  <area shape="circle" coords="141,129,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+	  <area shape="circle" coords="219,121,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
+	  <area shape="circle" coords="296,113,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
+	  <area shape="circle" coords="374,105,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+	  <area shape="circle" coords="450,97,13" href="#" alt="La♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- Hijaz 2 tuned up from 420 -->
+	  <area shape="circle" coords="528,89,13" href="#" alt="Si♮" class="playNote" data-frequency="492" data-parent="#notation1"><!-- Hijaz 3 tuned down from 495 -->
+	  <area shape="circle" coords="606,80,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
                       <!-- Links -->
                       <area shape="rect" coords="154,9,265,36" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="422,8,546,35" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
 					</map>
                     <p>Maqam Suznak is the most popular modulation of <a href="rast.php">Maqam Rast</a>, where the modulation to <a href="../jins/hjaz.php">Jins Hijaz</a> on the 5<sup>th</sup> scale degree is practically obligatory in any taqsim or mawwal starting on the root <a href="jns/rast.php">Jins Rast</a>.</p>
 
-                    <p>Explorez d'autres maqamat dans la <a href="f_rast.php">Famille du Maqam Rast</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_rast.php">Famille du Maqam Rast</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -77,7 +77,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Qadd Malik Ya Hilwa</b>
-                                    <span>Mouhammad Khayri</span>
+                                    <span>Mouhammad Khayri (Syrie)</span>
                                 </div>
                             </label>
                         </div>
@@ -88,9 +88,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr Asl il-Gharam</b>
+                                    <b>Dawr Asl el-Gharam</b>
                                     <span>Nour el-Hoda</span>
-                                    <span>Musique de Mouhammad ‘Outhman</span>
+                                    <span>Musique de Mouhammad Outhman</span>
                                 </div>
                             </label>
                         </div>
@@ -102,7 +102,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ghannili Chwayy Chwayy (1945)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Zakaria Ahmad</span>
                                 </div>
                             </label>

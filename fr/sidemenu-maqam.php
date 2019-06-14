@@ -4,7 +4,7 @@
     <li><a href="/fr/maqam/ajam.php">‘Ajam</a></li>
     <li><a href="/fr/maqam/ajam_ushayran.php">‘Ajam ‘Ouchayrane</a></li>
     <li><a href="/fr/maqam/athar_kurd.php">Athar Kurd</a></li>
-    <li><a href="/fr/maqam/awj_iraq.php">Awj ‘Iraq</a></li>
+    <li><a href="/fr/maqam/awj_iraq.php">Aouj ‘Iraq</a></li>
     <li><a href="/fr/maqam/bastanikar.php">Bastanikar</a></li>
     <li><a href="/fr/maqam/bayati.php">Bayati</a></li>
     <li><a href="/fr/maqam/bayati_shuri.php">Bayati Chouri</a></li>

@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Jins Lami</h1>
-                        <h3>A 4-note jins</h3>
+                        <h3>Un Jins de 4 notes</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Ajnas</a>
                     <div class="clearfix"></div>
@@ -47,15 +47,15 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="51,93,14" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1">
-					  <area shape="circle" coords="126,85,13" href="#" alt="E4♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
-					  <area shape="circle" coords="202,77,13" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1">
-					  <area shape="circle" coords="281,69,14" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="356,61,13" href="#" alt="A4♭" class="playNote" data-frequency="411" data-parent="#notation1">
-					  <area shape="circle" coords="433,53,13" href="#" alt="B4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
+					  <area shape="circle" coords="51,93,14" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="126,85,13" href="#" alt="Mi♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
+					  <area shape="circle" coords="202,77,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
+					  <area shape="circle" coords="281,69,14" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+					  <area shape="circle" coords="356,61,13" href="#" alt="La♭" class="playNote" data-frequency="411" data-parent="#notation1">
+					  <area shape="circle" coords="433,53,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 
 					</map>
-                    <p>Jins Lami is a 4-note <em>jins</em>. It is notated here with its tonic on D and its <em>ghammaz</em> on G. Jins Lami is the first <em>jins</em> in <a href="../maqam/lami.php">Maqam Lami</a>.
+                    <p>Le Jins Lami est un <em>jins</em> de 4 notes. Il est noté ici avec sa tonique sur Ré et son <em>ghammaz</em> sur Sol. Le Jins Lami est le premier jins du <a href="../maqam/lami.php">Maqam Lami</a>.
                     </p>
 
                     <div class="player-area">
@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ahmad Ya Habibi</b>
-                                    <span>Interprétation et Musique de Sabri al-Moudallal</span>
+                                    <span>Interprétation et Musique de Sabri al-Moudallal (Syrie)</span>
                                 </div>
                             </label>
                         </div>
@@ -94,7 +94,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Najmat (1964)</b>
-                                    <span>Interprétation et Musique de Wadih al-Safi</span>
+                                    <span>Interprétation et Musique de Wadih al-Safi (Liban)</span>
                                 </div>
                             </label>
                         </div>

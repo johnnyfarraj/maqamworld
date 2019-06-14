@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins Mousta‘ar</h1>
-                        <h3>A variation of <a href="sikah.php">Jins Sikah</a> with a raised 2<sup>nd</sup></h3>
+                        <h1>Jins Mousta‘ar (ou Moustaar)</h1>
+                        <h3>Une variation du <a href="sikah.php">Jins Sikah</a> avec seconde augmentée</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Ajnas</a>
                     <div class="clearfix"></div>
@@ -46,15 +46,15 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="66,91,12" href="#" alt="D4♯" class="playNote" data-frequency="308.25" data-parent="#notation1">
-					  <area shape="circle" coords="147,84,14" href="#" alt="E4<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable 318~324-->
-					  <area shape="circle" coords="233,76,13" href="#" alt="F4♯" class="playNote" data-frequency="375" data-parent="#notation1">
-					  <area shape="circle" coords="307,68,14" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="383,59,13" href="#" alt="A4♮" class="playNote" data-frequency="440" data-parent="#notation1">
-					  <area shape="circle" coords="449,52,13" href="#" alt="B4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
+					  <area shape="circle" coords="66,91,12" href="#" alt="Ré♯" class="playNote" data-frequency="308.25" data-parent="#notation1">
+					  <area shape="circle" coords="147,84,14" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable 318~324-->
+					  <area shape="circle" coords="233,76,13" href="#" alt="Fa♯" class="playNote" data-frequency="375" data-parent="#notation1">
+					  <area shape="circle" coords="307,68,14" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+					  <area shape="circle" coords="383,59,13" href="#" alt="La♮" class="playNote" data-frequency="440" data-parent="#notation1">
+					  <area shape="circle" coords="449,52,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 
 					</map>
-                    <p>Jins Mousta‘ar is a 3-note <em>jins</em>. It is notated here with its tonic on E<i class="icon-halfflat"></i> and its <em>ghammaz</em> on G. Jins Mousta‘ar is the first <em>jins</em> in <a href="../maqam/mustaar.php">Maqam Mousta‘ar</a>.
+                    <p>Le Jins Mousta'ar est un <em>jins</em> de 3 notes. Il est noté ici avec sa tonique sur Mi<i class="icon-halfflat"></i> et son <em>ghammaz</em> sur Sol. Le Jins Mousta'ar est le premier jins du <a href="../maqam/mustaar.php">Maqam Mousta‘ar</a>.
                     </p>
 
                     <div class="player-area">
@@ -68,8 +68,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Raqq il-Habib (1944)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <b>Raqq el-Habib (1944)</b>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Mouhammad al-Qasabgi</span>
                                 </div>
                             </label>
@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Arouh Li Min (1958)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Riyad al-Soumbati</span>
                                 </div>
                             </label>
@@ -95,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Habbeit Wala Banshi ‘Alayya (1930)</b>
-                                    <span>Oum Koulthoum</span>
+                                    <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Mouhammad al-Qasabgi</span>
                                 </div>
                             </label>
@@ -121,7 +121,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mawwal Qadi al-Gharam</b>
-                                    <span>Abdel Hayy Hilmi</span>
+                                    <span>Abdel Hayy Hilmi (Égypte)</span>
                                 </div>
                             </label>
                         </div>
@@ -132,8 +132,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Oud en Maqam Sikah</b>
-                                    <span>Riyad al-Soumbati</span>
+                                    <b><a href="../form/improv.php#taqsim">Taqsim</a> sur le <a href = "../instr/oud.php">Oud</a> en <a href="../maqam/sikah.php">Maqam Sikah</a></b>
+                                    <span>Riyad al-Soumbati (Égypte)</span>
                                     <span><img src="/img/cd.png"> Taqaseem</span>
                                 </div>
                             </label>
@@ -145,9 +145,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Qanoun en Maqam Sikah</b>
-                                    <span>‘Imad Mulki</span>
-                                    <span>Ensemble Al-Tourath</span>
+                                    <b><a href="../form/improv.php#taqsim">Taqsim</a> sur le <a href = "../instr/qanun.php">Qanoun</a> en <a href="../maqam/sikah.php">Maqam Sikah</a></b>
+                                    <span>‘Imad Moulki</span>
+                                    <span>Ensemble Al-Tourath (Syrie)</span>
                                     <span><img src="/img/cd.png"> Gardens of Jasmin - Maqam Houzam</span>
                                 </div>
                             </label>
@@ -160,7 +160,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Qassida Qul Lil-Maliha</b>
-                                    <span>Sabah Fakhri</span>
+                                    <span>Sabah Fakhri (Syrie)</span>
                                 </div>
                             </label>
                         </div>
