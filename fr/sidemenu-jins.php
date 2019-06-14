@@ -14,7 +14,7 @@
     <li><a href="/fr/jins/jiharkah.php">Jiharkah</a></li>
     <li><a href="/fr/jins/kurd.php">Kurd</a></li>
     <li><a href="/fr/jins/lami.php">Lami</a></li>
-    <li><a href="/fr/jins/mukhalef_sharqi.php">Moukhalef Sharqi</a></li>
+    <li><a href="/fr/jins/mukhalif_sharqi.php">Moukhalef Sharqi</a></li>
     <li><a href="/fr/jins/mustaar.php">Mousta‘ar</a></li>
     <li><a href="/fr/jins/nahawand.php">Nahawand</a></li>
     <li><a href="/fr/jins/nahawand_murassaa.php">Nahawand Mourassa‘</a></li>

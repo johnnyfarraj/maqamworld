@@ -50,7 +50,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="233,70,13" href="#" alt="Sol♭" class="playNote" data-frequency="365.32" data-parent="#notation1">
 
 					</map>
-                    <p>Le Jins Mukhalif Sharqi n'a pas de <em>ghammaz</em> et donc pas de taille définie. Il est noté ici avec sa tonique sur Mi<i class="icon-halfflat"></i>. Le Jins Mukhalif Sharqi ne fait partie d'aucun <em>maqam</em> et apparaît généralement comme une modulation à partir du <a href="sikah.php">Jins Sikah</a>.
+                    <p>Le Jins Moukhalef Sharqi  n'a pas de <em>ghammaz</em> et donc pas de taille définie. Il est noté ici avec sa tonique sur Mi<i class="icon-halfflat"></i>. Le Jins Moukhalef Sharqi  ne fait partie d'aucun <em>maqam</em> et apparaît généralement comme une modulation à partir du <a href="sikah.php">Jins Sikah</a>.
                     </p>
 
                     <div class="player-area">
