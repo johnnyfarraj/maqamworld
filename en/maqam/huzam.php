@@ -66,7 +66,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="484,7,591,35" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <p>Maqam Huzam is by far the most common maqam in the Sikah family, and starts on E<i class="icon-halfflat"></i>. Its scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the <em>tonic</em>, followed by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 4<sup>th</sup> degree then <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree.</p>
+                    <p>Maqam Huzam is by far the most common maqam in the Sikah family, and starts on E<i class="icon-halfflat"></i>. Its scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the <em>tonic</em>, followed by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 3<sup>rd</sup> degree then <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree.</p>
 
                     <p>The transposition of Maqam Huzam to B<i class="icon-halfflat"></i> has its own name: <strong>Maqam Rahat al-Arwah</strong>. Both maqamat have exactly the same sayr.</p>
 
