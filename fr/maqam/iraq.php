@@ -62,7 +62,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="485,5,592,33" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 	</map>
 
-                    <p>Maqam ‘Iraq is a rare member of the Sikah family, although it is more common as a modulation in the sayr of <a href="huzam.php">Maqam Houzam</a>. Its scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the <em>tonic</em>, followed by <a href="../jins/bayati.php">Jins Bayati</a> on the 3<sup>rd</sup> degree then <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree.
+                    <p>Maqam ‘Iraq is a rare member of the <a href="f_sikah.php">Sikah maqam family</a>, although it is more common as a modulation in the <em>sayr</em> of <a href="huzam.php">Maqam Huzam</a>. Its scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the <em>tonic</em> of B<i class="icon-halfflat"></i>, followed by <a href="../jins/bayati.php">Jins Bayati</a> on the 3<sup>rd</sup> degree then <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree.
                     </p>
                     <p>Explorez d'autres maqams dans la <a href="f_sikah.php">Famille du Maqam Sikah</a>.</p>
 
