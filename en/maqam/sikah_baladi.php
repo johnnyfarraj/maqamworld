@@ -71,7 +71,9 @@ include($ROOT . 'inc/head.php');
                     to an ordinary non-Sikah note, and <a href="hijazkar.php">Maqam Hijazkar</a> – the intervals
                     are not quite the same as either, but it sounds a bit like both.
                     None of its intervals match either just or equal-tempered intonation, making it impossible to reproduce
-                    on anything but the voice and <a href="../instr.php">traditional Arabic instruments</a>.</p>
+                    on anything but the voice and <a href="../instr.php">traditional Arabic instruments</a>.
+                    </p>
+                    <p>Maqam Sikah Baladi is not part of a maqam family.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

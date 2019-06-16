@@ -62,6 +62,7 @@ include($ROOT . 'inc/head.php');
                     <p>Maqam Lami ist ein seltener Maqam im Mittleren Osten und wurde dem irakischen Repertoire entlehnt. Maqam Lami beginnt mit <a href="../jins/lami.php">Jins Lami</a> auf der Tonika, gefolgt von <a href="../jins/kurd.php">Jins Kurd</a> auf der vierten Stufe.
                     </p>
 
+                    <p>Maqam Lami ist nicht Teil einer Maqam-Familie.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>

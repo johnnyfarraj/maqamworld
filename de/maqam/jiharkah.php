@@ -59,9 +59,11 @@ include($ROOT . 'inc/head.php');
                        <!-- Links -->
                       <area shape="rect" coords="180,14,330,43" href="../jins/jiharkah.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="490,149,672,182" href="../jins/upper_rast.php" class="mapLink" data-parent="#notation1">
-		</map>
+		              </map>
 
                     <p>Maqam Jiharkah ist ein eher seltener Maqam, der mit <a href="../jins/jiharkah.php">Jins Jiharkah</a> auf der Tonika beginnt. Danach kommt <a href="../jins/upper_rast.php">Jins Ober-Rast</a> auf der fünften Stufe (mit seiner Tonika oben auf der achten Stufe).</p>
+
+                    <p>Maqam Jiharkah ist nicht Teil einer Maqam-Familie.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

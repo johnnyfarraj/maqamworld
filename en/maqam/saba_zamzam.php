@@ -67,8 +67,8 @@ include($ROOT . 'inc/head.php');
 
 					</map>
                     <p>Maqam Saba is a rare maqam in the Arabic repertory. Its scale starts with <a href="../jins/saba_zamzam.php">Jins Saba Zamzam</a> on the <em>tonic</em>, overlapped by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 3<sup>rd</sup> degree, followed by either <a href="../jins/ajam.php">Jins ‘Ajam</a> or <a href="../jins/nikriz.php">Jins Nikriz</a> on the 6<sup>th</sup> degree. </p>
-                    <p>
-                    Maqam Saba Zamzam is not part of a family.</p>
+                    
+                    <p>Maqam Saba Zamzam is not part of a maqam family.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

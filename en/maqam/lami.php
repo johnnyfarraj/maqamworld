@@ -61,6 +61,7 @@ include($ROOT . 'inc/head.php');
 				     </map>
 
                     <p>Maqam Lami is a rare maqam in the Middle East and was borrowed from the Iraqi repertoire. Its scale starts with <a href="../jins/lami.php">Jins Lami</a> on the <em>tonic</em>, followed by <a href="../jins/kurd.php">Jins Kurd</a> on the 4<sup>th</sup> degree.</p>
+                    <p>Maqam Lami is not part of a maqam family.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

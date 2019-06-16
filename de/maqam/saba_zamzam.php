@@ -68,7 +68,7 @@ include($ROOT . 'inc/head.php');
                     <p>Maqam Saba Zamzam ist ein häufiger und beliebter Maqam im arabischen Repertoire. Er beginnt mit <a href="../jins/saba_zamzam.php">Jins Saba Zamzam</a> auf der Tonika, überlappt von <a href="../jins/hijaz.php">Jins Hijaz</a> auf der dritten Stufe, gefolgt von entweder <a href="../jins/ajam.php">Jins ‘Ajam</a> oder <a href="../jins/nikriz.php">Jins Nikriz</a> auf der sechsten Stufe.
                     </p>
                     
-                    <p>Maqam Saba Zamzam ist nicht Teil einer Familie.</p>
+                    <p>Maqam Saba Zamzam ist nicht Teil einer Maqam-Familie.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
