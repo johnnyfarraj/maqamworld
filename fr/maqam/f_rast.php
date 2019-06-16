@@ -47,7 +47,7 @@ include($ROOT . 'inc/head.php');
                         <li><a href="kirdan.php">Maqam Kirdane</a></li>
                         <li><a href="kirdan.php">Maqam Sazkar</a></li>
                         <li><a href="suznak.php">Maqam Suznak</a></li>
-                        <li><a href="nairuz.php">Maqam Nairuz</a></li>
+                        <li><a href="nairuz.php">Maqam Nairouz</a></li>
                         <li><a href="nairuz.php">Maqam Yakah</a></li>
                         <li><a href="dalanshin.php">Maqam Dalanchine</a></li>
                         <li><a href="suzdalara.php">Maqam Suzdalara</a></li>
