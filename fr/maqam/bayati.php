@@ -66,8 +66,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="783,8,890,37" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 
 				     </map>
-                    <p>Maqam Bayati is by far one of the most popular and common maqams in the Arabic repertory. It is also the main maqam in the Bayati Family. </p>
-                    <p>Its scale starts with <a href="../jins/bayati.php">Jins Bayati</a> on the <em>tonic</em> followed by either <a href="../jins/nahawand.php">Jins Nahawand</a> or <a href="../jins/rast.php">Jins Rast</a> on the 4<sup>th</sup> degree.
+                    <p>Le Maqam Bayati est de loin l'un des maqams les plus populaires du répertoire de la musique arabe. C'est aussi le <em>maqam</em> principal de la <a href="f_bayati.php">Famille Bayati</a>. Il commence avec comme jins de base le <a href="../jins/bayati.php">Jins Bayati</a> sur la tonique, suivi du <a href="../jins/nahawand.php">Jins Nahawand</a> ou du <a href="../jins/rast.php">Jins Rast</a> sur le 4ième degré.
                     </p>
                     <p>Explorez d'autres maqams dans la <a href="f_bayati.php">Famille du Maqam Bayati</a>.</p>
 
@@ -121,7 +120,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mijana and ‘Ataba</b>
-                                    <span>Wadih Al-Safi</span>
+                                    <span>Wadih al-Safi (Liban)</span>
                                     <span>(folklore libanais)</span>
                                 </div>
                             </label>
@@ -197,7 +196,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Bayati d'Iskandar Shalfoun</b>
-                                    <span>Ensemble Morkos</span>
+                                    <span>Ensemble Morkos (Liban)</span>
                                     <span><img src="/img/cd.png"> Cèdre</span>
                                 </div>
                             </label>

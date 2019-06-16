@@ -47,22 +47,24 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-	  <area shape="circle" coords="66,85,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
-	  <area shape="circle" coords="144,93,13" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
-	  <area shape="circle" coords="221,101,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
-	  <area shape="circle" coords="298,109,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
-	  <area shape="circle" coords="376,118,13" href="#" alt="Mi♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
-	  <area shape="circle" coords="453,126,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
-	  <area shape="circle" coords="530,134,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
-	  <area shape="circle" coords="608,142,13" href="#" alt="Si♭" class="playNote" data-frequency="231.77" data-parent="#notation1">
+                      <area shape="circle" coords="66,85,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
+                      <area shape="circle" coords="144,93,13" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
+                      <area shape="circle" coords="221,101,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+                      <area shape="circle" coords="298,109,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
+                      <area shape="circle" coords="376,118,13" href="#" alt="Mi♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
+                      <area shape="circle" coords="453,126,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+                      <area shape="circle" coords="530,134,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
+                      <area shape="circle" coords="608,142,13" href="#" alt="Si♭" class="playNote" data-frequency="231.77" data-parent="#notation1">
                       <!-- Links -->
                       <area shape="rect" coords="60,7,232,36" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="470,6,595,35" href="../jins/ajam.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="272,155,390,184" href="../jins/kurd.php" class="mapLink" data-parent="#notation1"
-		</ map>
+                      <area shape="rect" coords="272,155,390,184" href="../jins/kurd.php" class="mapLink" data-parent="#notation1">
+		              </map>
 
-                    <p>Maqam ‘Ajam ‘Ouchayrane is an archaic version of <a href="ajam.php">Maqam ‘Ajam</a> with a different sayr, and has a completely different tonal emphasis as well. Rather than tonicizing its 5<sup>th</sup> scale degree (for starting the next jins), it tonicizes its 3<sup>rd</sup> and 6<sup>th</sup> scale degrees instead.</p>
-                    <p>The Maqam ‘Ajam ‘Ouchayrane scale starts with the root <a href="../jins/ajam.php">Jins ‘Ajam</a> on the <em>tonic</em>, followed by <a href="../jins/kurd.php">Jins Kurd</a> on the 3<sup>rd</sup> degree then <a href="../jins/nahawand.php">Jins Nahawand</a> starting on the 6<sup>th</sup> degree.</p>
+                    <p>Le Maqam ‘Ajam ‘Ouchayrane est une version archaïque du <a href="ajam.php">Maqam ‘Ajam</a>, avec un <em>sayr</em> différent et une emphase tonale totalement différente: au lieu d'avoir la tonique du deuxième <em>jins</em> sur le 5<sup>ième</sup> degré, il utilise plutôt la tierce et la sixte à cet effet.
+                    </p>
+                    <p>Le Maqam ‘Ajam ‘Ouchayrane commence avec comme jins de base le <a href="../jins/ajam.php">Jins ‘Ajam</a> sur la tonique, suivi du <a href="../jins/kurd.php">Jins Kurd</a> sur le 3<sup>ième</sup> degré, puis du <a href="../jins/nahawand.php">Jins Nahawand</a> sur le 6<sup>ième</sup> degré.
+                    </p>
                     <p>Explorez d'autres maqams dans la <a href="f_ajam.php">Famille du Maqam ‘Ajam</a>.</p>
 
                     <div class="player-area">
@@ -78,8 +80,8 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Ayqadha al-Houbbou Fou'adi</b>
                                     <span>Hassan al-Haffar (Syrie)</span>
-                                    <span><img src="/img/cd.png"> The Aleppo Suites Vol.2</span>
                                     <span>Musique de Bahjat Hassan</span>
+                                    <span><img src="/img/cd.png"> The Aleppo Suites Vol.2</span>
                                 </div>
                             </label>
                         </div>
@@ -104,7 +106,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Hobbi Fi Albi Amana</b>
-                                    <span>Fathiyya Ahmad</span>
+                                    <span>Fathiyya Ahmad (Égypte)</span>
                                     <span>Musique de Mouhammad al-Qasabgi</span>
                                 </div>
                             </label>

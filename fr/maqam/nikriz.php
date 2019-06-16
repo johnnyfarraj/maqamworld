@@ -154,7 +154,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr Yalli Qawamak Ya‘gibni</b>
-                                    <span>Karem Mahmoud</span>
+                                    <span>Karem Mahmoud (Égypte)</span>
                                     <span>Musique de Sayyed Darwich</span>
                                 </div>
                             </label>

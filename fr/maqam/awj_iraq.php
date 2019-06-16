@@ -63,8 +63,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="615,7,745,37" href="../jins/sikah.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Maqam Aouj ‘Iraq is a version of <a href="huzam.php">Maqam Rahat al-Arwah/Maqam Houzam</a> and <a href="iraq.php">Maqam ‘Iraq</a> whose sayr starts at the octave tonic and descends to the tonic – though it shares most of the same ajnas as <a href="huzam.php">Maqam Houzam</a>.</p>
-                    <p>The Maqam Aouj ‘Iraq scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the <em>tonic</em>, then <a href="../jins/hijaz.php">Jins Hijaz</a> on the 3<sup>rd</sup> degree followed by another <a href="../jins/sikah.php">Jins Sikah</a> on the 8<sup>th</sup> degree.
+                    <p>Le Maqam Awj 'Iraq est une version du <a href="huzam.php">Maqam Rahat al-Arwah/Maqam Houzam</a> et du <a href="iraq.php">Maqam ‘Iraq</a>, avec un <em>sayr</em> qui commence sur la tonique à l'octave supérieure et redescend vers la tonique. Il partage la plupart de ses ajnas avec le <a href="huzam.php">Maqam Houzam</a>.
+                    </p>
+                    <p>Le Maqam Awj 'Iraq  commence avec le jins de base <a href="../jins/sikah.php">Sikah</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Jins Hijaz</a> sur le 3<sup>ième</sup> degré, puis d'un autre Jins Sikah sur le 8<sup>ième</sup> degré.
                     </p>
 
                     <p>Explorez d'autres maqams dans la <a href="f_sikah.php">Famille du Maqam Sikah</a>.</p>
@@ -81,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Mouachah Ya Samiri Da‘a Sabri</b>
-                                    <span>Interprétation de Mouhammad Khayri</span>
+                                    <span>Interprétation de Mouhammad Khayri (Syrie)</span>
                                 </div>
                             </label>
                         </div>
@@ -93,7 +94,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Hayya Wa Nadim</b>
-                                    <span>Interprétation de Samer Nachar</span>
+                                    <span>Interprétation de Samer Nachar (Syrie)</span>
                                 </div>
                             </label>
                         </div>

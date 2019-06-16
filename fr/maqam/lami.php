@@ -138,7 +138,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Goulli Ya Hilou</b>
-                                    <span>Nazem al-Ghazali</span>
+                                    <span>Nazem al-Ghazali (Irak)</span>
                                     <span>(Chanson traditionnelle de l'Irak)</span>
                                 </div>
                             </label>

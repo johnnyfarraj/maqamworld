@@ -92,7 +92,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Ila Kam Dha al-Tamadi</b>
-                                    <span>Ensemble Morkos</span>
+                                    <span>Ensemble Morkos (Liban)</span>
                                     <span><img src="/img/cd.png"> Cèdre</span>
                                 </div>
                             </label>

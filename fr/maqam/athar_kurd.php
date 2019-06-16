@@ -48,24 +48,23 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-	  <area shape="circle" coords="63,131,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
-	  <area shape="circle" coords="141,123,13" href="#" alt="Ré♭" class="playNote" data-frequency="274" data-parent="#notation1">
-	  <area shape="circle" coords="218,115,13" href="#" alt="Mi♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
-	  <area shape="circle" coords="296,107,13" href="#" alt="Fa♯" class="playNote" data-frequency="375" data-parent="#notation1">
-	  <area shape="circle" coords="373,99,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
-	  <area shape="circle" coords="450,91,13" href="#" alt="La♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- Hijaz 2 tuned up from 420 -->
-	  <area shape="circle" coords="528,83,13" href="#" alt="Si♮" class="playNote" data-frequency="492" data-parent="#notation1"><!-- Hijaz 3 tuned down from 495 -->
-	  <area shape="circle" coords="605,75,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
+                  <area shape="circle" coords="63,131,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
+                  <area shape="circle" coords="141,123,13" href="#" alt="Ré♭" class="playNote" data-frequency="274" data-parent="#notation1">
+                  <area shape="circle" coords="218,115,13" href="#" alt="Mi♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
+                  <area shape="circle" coords="296,107,13" href="#" alt="Fa♯" class="playNote" data-frequency="375" data-parent="#notation1">
+                  <area shape="circle" coords="373,99,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+                  <area shape="circle" coords="450,91,13" href="#" alt="La♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- Hijaz 2 tuned up from 420 -->
+                  <area shape="circle" coords="528,83,13" href="#" alt="Si♮" class="playNote" data-frequency="492" data-parent="#notation1"><!-- Hijaz 3 tuned down from 495 -->
+                  <area shape="circle" coords="605,75,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
                        <!-- Links -->
                       <area shape="rect" coords="115,5,294,34" href="../jins/athar_kurd.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="337,144,483,175" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
-	     </map>
+                    </map>
 
-                    <p>Maqam Athar Kurd is a very rare maqam that seems to be a 20<sup>th</sup> century development. Its scale starts with <a href="../jins/athar_kurd.php">Athar Kurd</a> on the <em>tonic</em> followed by <a href="../jins/hijazkar.php">Jins Hijazkar</a> centered around the 5<sup>th</sup> degree.
-		</p>
-                    <p>The Maqam Athar Kurd scale is a hybrid between <a href="nawa_athar.php">Maqam Nawa Athar</a>
-                    and <a href="kurd.php">Maqam Kurd</a>, hence the name.
-		</p>
+                    <p>Le Maqam Athar Kurd est un <em>maqam</em> très rare qui semble être une invention du 20<sup>ième</sup> siècle. Sa gamme commence avec le <a href="../jins/athar_kurd.php">Athar Kurd</a> sur la tonique, suivi du <a href="../jins/hijazkar.php">Jins Hijazkar</a> concentré autour du 5<sup>ième</sup> degré.
+		          </p>
+                    <p>La gamme du Maqam Athar Kurd est un hybride entre le <a href="nawa_athar.php">Maqam Nawa Athar</a> et le <a href="kurd.php">Maqam Kurd</a>, d'où son nom.
+		          </p>
                     <p>Explorez d'autres maqams dans la <a href="f_nikriz.php">Famille du Maqam Nikriz</a>.</p>
 
                     <div class="player-area">
@@ -79,7 +78,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Ya Msafir w Albi Ma‘ak (1950)</b>
+                                    <b>Ya Msafir wi Albi Ma‘ak (1950)</b>
                                     <span>Leila Mourad (Égypte)</span>
                                     <span>Musique de Ahmad Sidqi</span>
                                 </div>
@@ -105,8 +104,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Fagr Nurak Hall w Ban (c.1952)</b>
-                                    <span>Interprétation de Baligh Hamdi</span>
+                                    <b>Ya Fagr Nurak Hall wi Bane (c.1952)</b>
+                                    <span>Interprétation de Baligh Hamdi (Égypte)</span>
                                     <span>Musique de Youssef Shawqi</span>
                                 </div>
                             </label>
@@ -133,7 +132,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Taqsim Oud</b>
-                                    <span>Riyad al-Soumbati</span>
+                                    <span>Riyad al-Soumbati (Égypte)</span>
                                     <span><img src="/img/cd.png"> Taqaseem Oud</span>
                                 </div>
                             </label>
@@ -146,7 +145,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Taqsim de Oud en Maqam Athar Kurd</b>
-                                    <span>Mouhammad Qadri Dalal</span>
+                                    <span>Mouhammad Qadri Dalal (Syrie)</span>
                                     <span><img src="/img/cd.png"> Maqams Insolites</span>
                                 </div>
                             </label>

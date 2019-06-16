@@ -177,7 +177,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Taqsim Oud in Maqam Sikah</b>
                                     <span>Riyad al-Sunbati</span>
-                                    <span><img src="/img/cd.png"> Taqasim Oud</span>
+                                    <span><img src="/img/cd.png"> Taqaseem Oud</span>
                                 </div>
                             </label>
                         </div>

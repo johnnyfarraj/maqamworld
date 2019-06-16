@@ -39,7 +39,6 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/bayati_shuri.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Bayati Chouri</a>
                     </div>
 
-
                       <div class="notation" id="notation1">
                         <img src="/note/maqam/bayati_shuri.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
@@ -63,7 +62,9 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>Maqam Bayati Chouri is a variation of <a href="bayati.php">Maqam Bayati</a> with a lowered 5<sup>th</sup> degree. It starts with the root <a href="../jins/bayati.php">Jins Bayati</a> on the <em>tonic</em> followed by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 4<sup>th</sup> degree.</p>
-                    <p>It is a very popular maqam in its own right, especially in the Mouachahat and Adwar vocal compositions.</p>
+                    
+                    <p>C'est un maqam très populaire, surtout pour les <a href="../form/vocal_comp.php">compositions vocales</a> dans les genres Muwashahat et Adwar.</p>
+                    
                     <p>Explorez d'autres maqams dans la <a href="f_bayati.php">Famille du Maqam Bayati</a>.</p>
 
                     <div class="player-area">

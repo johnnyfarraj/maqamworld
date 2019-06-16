@@ -120,7 +120,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sharrafti Ya Nixon Baba (1974)</b>
-                                    <span>Interprétation et Musique de Cheikh Imam</span>
+                                    <span>Interprétation et Musique de Cheikh Imam (Égypte)</span>
                                 </div>
                             </label>
                         </div>
