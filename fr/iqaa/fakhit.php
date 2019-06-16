@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Mouachah Bi Sifatin Ja‘alatni</b>
-                                    <span>Ensemble Al-Kindi</span>
+                                    <span>Ensemble Al-Kindi (Syrie/France)</span>
                                     <span><img src="/img/cd.png"> The Aleppian Music Room II - Maqam Rast</span>
                                 </div>
                             </label>

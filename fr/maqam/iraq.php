@@ -48,21 +48,21 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-	  <area shape="circle" coords="73,140,13" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="241" data-parent="#notation1"><!-- Sikah tonic variable-->
-	  <area shape="circle" coords="150,132,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
-	  <area shape="circle" coords="227,124,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
-	  <area shape="circle" coords="304,116,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!-- Bayati 2 variable -->
-	  <area shape="circle" coords="381,108,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
-	  <area shape="circle" coords="459,100,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
-	  <area shape="circle" coords="536,90,13" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
-	  <area shape="circle" coords="614,83,13" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!--var-->
+                      <area shape="circle" coords="73,140,13" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="241" data-parent="#notation1"><!-- Sikah tonic variable-->
+                      <area shape="circle" coords="150,132,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
+                      <area shape="circle" coords="227,124,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+                      <area shape="circle" coords="304,116,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!-- Bayati 2 variable -->
+                      <area shape="circle" coords="381,108,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
+                      <area shape="circle" coords="459,100,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+                      <area shape="circle" coords="536,90,13" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
+                      <area shape="circle" coords="614,83,13" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!--var-->
                         <!-- Links -->
                       <area shape="rect" coords="83,4,204,32" href="../jins/sikah.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="276,5,403,33" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="485,5,592,33" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 	</map>
 
-                    <p>Maqam ‘Iraq is a rare member of the <a href="f_sikah.php">Sikah maqam family</a>, although it is more common as a modulation in the <em>sayr</em> of <a href="huzam.php">Maqam Houzam</a>. Its scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the <em>tonic</em> of B<i class="icon-halfflat"></i>, followed by <a href="../jins/bayati.php">Jins Bayati</a> on the 3<sup>rd</sup> degree then <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree.
+                    <p>Le Maqam 'Iraq est un maqam de la <a href="f_sikah.php">famille Sikah</a> plutôt rare. Il est en général utilisé comme une modulation dans le sayr du <a href="huzam.php">Maqam Houzam</a>. Sa gamme commence avec le Jins de base <a href="../jins/sikah.php">Sikah</a> sur la tonique (Si<i class="icon-halfflat"></i>), suivi du <a href="../jins/bayati.php">Jins Bayati</a> sur le 3<sup>ième</sup> degré, et finalement du <a href="../jins/rast.php">Jins Rast</a> sur le 6<sup>ième</sup> degré.
                     </p>
                     <p>Explorez d'autres maqams dans la <a href="f_sikah.php">Famille du Maqam Sikah</a>.</p>
 
@@ -103,7 +103,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i ‘Iraq</b>
-                                    <span>Tunisian Radio Orchestra</span>
+                                    <span>Orchestre de la Radio Tunisienne</span>
                                     <span>Musique de Youssof Basha</span>
                                 </div>
                             </label>

@@ -58,7 +58,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Taqasim rythmés</b>
-                                    <span>Simon Shaheen</span>
+                                    <span>Simon Shaheen (Palestine)</span>
                                     <span><img src="/img/cd.png"> Turath: Masterworks of the Middle East</span>
                                 </div>
                             </label>

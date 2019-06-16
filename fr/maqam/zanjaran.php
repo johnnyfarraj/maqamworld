@@ -62,7 +62,7 @@ include($ROOT . 'inc/head.php');
 
 
 					</map>
-                    <p>Le Maqam Zanjarane est une variante du <a href="hijaz.php">Maqam Hijaz</a> avec le <a href="../jins/ajam.php">Jins ‘Ajam</a> comme second jins (sur le 4ième degré) et le jins de base <a href="../jins/hijaz.php">Hijaz</a> sur la tonique.</p>
+                    <p>Le Maqam Zanjarane est une variante du <a href="hijaz.php">Maqam Hijaz</a> avec le <a href="../jins/ajam.php">Jins ‘Ajam</a> comme second jins (sur le 4<sup>ième</sup> degré) et le jins de base <a href="../jins/hijaz.php">Hijaz</a> sur la tonique.</p>
 
                     <p>Explorez d'autres maqams dans la <a href="f_hijaz.php">Famille du Maqam Hijaz</a>.</p>
 

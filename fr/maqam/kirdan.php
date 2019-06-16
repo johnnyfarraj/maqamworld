@@ -52,14 +52,14 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-	  <area shape="circle" coords="75,81,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1"><!--tonic-->
-	  <area shape="circle" coords="148,89,13" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!--var-->
-	  <area shape="circle" coords="225,97,13" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
-	  <area shape="circle" coords="304,105,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
-	  <area shape="circle" coords="381,113,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
-	  <area shape="circle" coords="458,123,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
-	  <area shape="circle" coords="537,131,13" href="#" alt="Réâ™¯" class="playNote" data-frequency="310" data-parent="#notation1"><!-- var sikah leading tone-->
-	  <area shape="circle" coords="589,131,13" href="#" alt="Réâ™®" class="playNote" data-frequency="293.33" data-parent="#notation1">
+                      <area shape="circle" coords="75,81,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1"><!--tonic-->
+                      <area shape="circle" coords="148,89,13" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!--var-->
+                      <area shape="circle" coords="225,97,13" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
+                      <area shape="circle" coords="304,105,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+                      <area shape="circle" coords="381,113,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
+                      <area shape="circle" coords="458,123,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
+                      <area shape="circle" coords="537,131,13" href="#" alt="Réâ™¯" class="playNote" data-frequency="310" data-parent="#notation1"><!-- var sikah leading tone-->
+                      <area shape="circle" coords="589,131,13" href="#" alt="Réâ™®" class="playNote" data-frequency="293.33" data-parent="#notation1">
                       <area shape="circle" coords="640,139,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
                        <!-- Links -->
                       <area shape="rect" coords="95,6,274,38" href="../jins/upper_rast.php" class="mapLink" data-parent="#notation1">
@@ -67,9 +67,10 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="400,173,528,202" href="../jins/sazkar.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Maqam Kirdane is a version of <a href="rast.php">Maqam Rast</a> whose sayr starts on the octave and eventually descends to the tonic. Its scale starts at the bottom with the root <a href="../jins/rast.php">Jins Rast</a> on the tonic, followed by <a href="../jins/upper_rast.php">Jins Haut Rast</a> on the 5<sup>th</sup> degree (with its tonic up on the 8<sup>th</sup> degree).
+                    <p>Le Maqam Kirdan est une version du <a href="rast.php">Maqam Rast</a> dans laquelle le sayr commence à l'octave et redescend vers la tonique. Sa gamme commence avec le <a href="../jins/rast.php">Jins Rast</a> sur la tonique, suivi du <a href="../jins/upper_rast.php">Jins Haut Rast</a> sur le 5<sup>ième</sup> degré (avec sa tonique sur le 8<sup>ième</sup> degré).
                     </p>
-                    <p><strong>Maqam Sazkar</strong> is nearly identical to Maqam Kirdane, except for the prominence of the raised 2<sup>nd</sup> degree that occurs in some melodic passages, which results in <a href="../jins/sazkar.php">Jins Sazkar</a> on the tonic.</p>
+                    <p>Le <strong>Maqam Sazkar</strong> est presque identique au Maqam Kirdan à part pour le fait de mettre l'emphase sur le 2<sup>ième</sup> degré dans certains passages mélodiques, ce qui fait en sorte d'avoir le <a href="../jins/sazkar.php">Jins Sazkar</a> sur la tonique.
+                    </p>
 
                     <p>Explorez d'autres maqams dans la <a href="f_rast.php">Famille du Maqam Rast</a>.</p>
 
@@ -84,7 +85,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Sihtu Wajdan</b>
+                                    <b>Mouachah Sihtou Wajdan</b>
                                     <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Liban)</span>
                                     <span>Chef d'orchestre: Aïda Chalhoub Ziadé</span>
                                     <span>Musique de Sayyed Darwich</span>

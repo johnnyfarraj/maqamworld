@@ -62,7 +62,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="494,7,600,35" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Maqam Sikah est un membre rare de la <a href="f_sikah.php">Famille du Maqam Sikah</a> même si il porte le nom de son Jins de base. Sa gamme commence avec le jins de base <a href="../jins/sikah.php">Sikah</a> sur la tonique, suivi du <a href="../jins/upper_rast.php">Jins Haut Rast</a> sur le 3ième degré (avec sa tonique sur le 6ième degré), et finalement du <a href="../jins/rast.php">Jins Rast</a> sur le 6ième degré (qui est un <em>ghammaz</em> secondaire).
+                    <p>Le Maqam Sikah est un membre rare de la <a href="f_sikah.php">Famille du Maqam Sikah</a> même si il porte le nom de son Jins de base. Sa gamme commence avec le jins de base <a href="../jins/sikah.php">Sikah</a> sur la tonique, suivi du <a href="../jins/upper_rast.php">Jins Haut Rast</a> sur le 3<sup>ième</sup> degré (avec sa tonique sur le 6<sup>ième</sup> degré), et finalement du <a href="../jins/rast.php">Jins Rast</a> sur le 6<sup>ième</sup> degré (qui est un <em>ghammaz</em> secondaire).
                     </p>
                     <p>Explorez d'autres maqams dans la <a href="f_sikah.php">Famille du Maqam Sikah</a>.</p>
 

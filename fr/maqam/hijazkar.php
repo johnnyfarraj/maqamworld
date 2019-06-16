@@ -75,7 +75,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="604,7,720,37" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Maqam Hijazkar est la variante la plus commune du <a href="hijaz.php">Maqam Hijaz</a>. Sa gamme commence avec le <a href="../jins/hijaz.php">Jins Hijaz</a> comme jins de base sur la tonique, suivi du <a href="../jins/nikriz.php">Jins Nikriz</a> sur le 4ième degré et finalement, du <a href="../jins/hijazkar.php">Jins Hijazkar</a> à l'octave supérieure.
+                    <p>Le Maqam Hijazkar est la variante la plus commune du <a href="hijaz.php">Maqam Hijaz</a>. Sa gamme commence avec le <a href="../jins/hijaz.php">Jins Hijaz</a> comme jins de base sur la tonique, suivi du <a href="../jins/nikriz.php">Jins Nikriz</a> sur le 4<sup>ième</sup> degré et finalement, du <a href="../jins/hijazkar.php">Jins Hijazkar</a> à l'octave supérieure.
                     </p>
                     <p>
                     Pour des raisons historiques, 3 transpositions de ce maqam ont des noms différents (et avaient, il y a longtemps, un <em>sayr</em> différent):</p>

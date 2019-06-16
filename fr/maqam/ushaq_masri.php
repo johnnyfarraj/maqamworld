@@ -62,7 +62,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="414,9,548,40" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Maqam ‘Ouchaq Masri est une variation du <a href="nahawand.php">Maqam Nahawand</a> avec le <a href="../jins/bayati.php">Jins Bayati</a> sur le 5ième degré (le <em>ghammaz</em>), au-dessus du Jins de base <a href="../jins/nahawand.php">Nahawand</a> sur le 1er degré.</p>
+                    <p>Le Maqam ‘Ouchaq Masri est une variation du <a href="nahawand.php">Maqam Nahawand</a> avec le <a href="../jins/bayati.php">Jins Bayati</a> sur le 5<sup>ième</sup> degré (le <em>ghammaz</em>), au-dessus du Jins de base <a href="../jins/nahawand.php">Nahawand</a> sur le 1er degré.</p>
 
                     <p>Explorez d'autres maqams dans la <a href="f_nahawand.php">Famille du Maqam Nahawand</a>.</p>
 

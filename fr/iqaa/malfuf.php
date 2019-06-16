@@ -96,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Ya Sahi al-Sabrou Waha Minni</b>
                                     <span>Cheikh Hamza Chakkour</span>
-                                    <span>Ensemble Al-Kindi</span>
+                                    <span>Ensemble Al-Kindi (Syrie/France)</span>
                                 </div>
                             </label>
                         </div>

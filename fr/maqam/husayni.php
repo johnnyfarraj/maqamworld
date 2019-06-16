@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="450,8,580,39" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Maqam Houssayni n'est pas un maqam très commun en tant que maqam indépendant dans la tradition de la musique arabe, même si son <em>sayr</em> (mettre l'emphase sur le 5ième degré comme note de tension qui se résout sur le 4ième degré) est obligatoire dans le <a href="bayati.php">Maqam Bayati</a>. Dans la musique folklorique de la région, c'est pourtant la variante la plus commune du Maqam Bayati, avec sa gamme commençant sur le <a href="../jins/bayati.php">Jins Bayati</a> de base sur la tonique.
+                    <p>Le Maqam Houssayni n'est pas un maqam très commun en tant que maqam indépendant dans la tradition de la musique arabe, même si son <em>sayr</em> (mettre l'emphase sur le 5<sup>ième</sup> degré comme note de tension qui se résout sur le 4<sup>ième</sup> degré) est obligatoire dans le <a href="bayati.php">Maqam Bayati</a>. Dans la musique folklorique de la région, c'est pourtant la variante la plus commune du Maqam Bayati, avec sa gamme commençant sur le <a href="../jins/bayati.php">Jins Bayati</a> de base sur la tonique.
                     </p>
                     <p>Explorez d'autres maqams dans la <a href="f_bayati.php">Famille du Maqam Bayati</a>.</p>
 

@@ -66,7 +66,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="783,8,890,37" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 
 				     </map>
-                    <p>Le Maqam Bayati est de loin l'un des maqams les plus populaires du répertoire de la musique arabe. C'est aussi le <em>maqam</em> principal de la <a href="f_bayati.php">Famille Bayati</a>. Il commence avec comme jins de base le <a href="../jins/bayati.php">Jins Bayati</a> sur la tonique, suivi du <a href="../jins/nahawand.php">Jins Nahawand</a> ou du <a href="../jins/rast.php">Jins Rast</a> sur le 4ième degré.
+                    <p>Le Maqam Bayati est de loin l'un des maqams les plus populaires du répertoire de la musique arabe. C'est aussi le <em>maqam</em> principal de la <a href="f_bayati.php">Famille Bayati</a>. Il commence avec comme jins de base le <a href="../jins/bayati.php">Jins Bayati</a> sur la tonique, suivi du <a href="../jins/nahawand.php">Jins Nahawand</a> ou du <a href="../jins/rast.php">Jins Rast</a> sur le 4<sup>ième</sup> degré.
                     </p>
                     <p>Explorez d'autres maqams dans la <a href="f_bayati.php">Famille du Maqam Bayati</a>.</p>
 

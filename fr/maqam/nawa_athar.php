@@ -61,7 +61,8 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="327,147,480,180" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Maqam Nawa Athar is another popular maqam in the Nikriz Family. Its scale starts with the root <a href="../jins/nikriz.php">Jins Nikriz</a> on the <em>tonic</em>, followed by <a href="../jins/hijazkar.php">Jins Hijazkar</a> centered on the 5<sup>th</sup> degree. </p>
+                    <p>Le Maqam Nawa Athar est un maqam très populaire de la <a href="f_nikriz.php">famille du Maqam Nikriz</a>. Sa gamme commence à la base avec le <a href="../jins/nikriz.php">Jins Nikriz</a> sur la tonique, suivi du <a href="../jins/hijazkar.php">Jins Hijazkar</a> concentré autour du 5<sup>ième</sup> degré.
+                    </p>
 
                     <p>Explorez d'autres maqams dans la <a href="f_nikriz.php">Famille du Maqam Nikriz</a>.</p>
 
@@ -76,7 +77,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ghouloubti Asalih Fi Rouhi (1948)</b>
+                                    <b>Ghouloubti Asaleh Fi Rouhi (1948)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Riyad al-Soumbati</span>
                                 </div>
@@ -115,7 +116,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Adhkourou al-Houbba</b>
-                                    <span>Ensemble Abdel Halim Noueirah</span>
+                                    <span>Ensemble Abdel Halim Noueirah (Égypte)</span>
                                     <span>Musique de Daoud Housni</span>
                                 </div>
                             </label>
@@ -141,7 +142,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Doulab Nawa Athar</b>
-                                    <span>George Abyad</span>
+                                    <span>George Abyad (Liban)</span>
                                     <span><img src="/img/cd.png"> Impovisations Orientales</span>
                                 </div>
                             </label>

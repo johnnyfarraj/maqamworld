@@ -60,9 +60,10 @@ include($ROOT . 'inc/head.php');
                        <!-- Links -->
                       <area shape="rect" coords="180,14,330,43" href="../jins/jiharkah.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="490,149,672,182" href="../jins/upper_rast.php" class="mapLink" data-parent="#notation1">
-
 					</map>
-                    <p>Maqam Jiharkah is a somewhat rare maqam that starts with <a href="../jins/jiharkah.php">Jins Jiharkah</a> on the <em>tonic</em>, then <a href="../jins/upper_rast.php">Jins Haut Rast</a> on the 5<sup>th</sup> degree (with its tonic up on the 8<sup>th</sup> degree).</p>
+
+                    <p>Le Maqam Jiharkah est un maqam très rare qui commence avec le <a href="../jins/jiharkah.php">Jins Jiharkah</a> sur la tonique, suivi du <a href="../jins/upper_rast.php">Jins Haut Rast</a> sur le 5<sup>ième</sup> degré (avec sa tonique sur le 8<sup>ième</sup> degré).
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -76,7 +77,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Mouachah Kallili ya Souhbou</b>
-                                    <span>Ensemble Abdel Halim Noueirah</span>
+                                    <span>Ensemble Abdel Halim Noueirah (Égypte)</span>
                                     <span>Musique de Mouhammad Outhman</span>
                                 </div>
                             </label>

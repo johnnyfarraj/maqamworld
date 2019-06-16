@@ -110,7 +110,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Taht el-Chibbak (Accordion Solo)</b>
                                     <span>Fatima Serhan</span>
-                                    <span>Musique de ‘Aziz ‘Outhman</span>
+                                    <span>Musique de ‘Aziz Outhman</span>
                                 </div>
                             </label>
                         </div>

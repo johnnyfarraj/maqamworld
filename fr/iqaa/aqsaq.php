@@ -149,7 +149,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah ‘Adhibouni</b>
-                                    <span>Ensemble Al-Kindi</span>
+                                    <span>Ensemble Al-Kindi (Syrie/France)</span>
                                     <span>Musique de Omar al-Batch</span>
                                     <span><img src="/img/cd.png"> The Aleppian Music Room Vol. 1 - Hijazkar Kurd &amp; Saba</span>
                                 </div>

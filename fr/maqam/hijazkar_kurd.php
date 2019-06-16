@@ -64,7 +64,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="323,146,495,172" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Maqam Hijazkar Kurd est une version archaïque du <a href="kurd.php">Maqam Kurd</a> composé du <a href="../jins/hijazkar.php">Jins Hijazkar</a> à l'octave supérieure. Sa gamme commence avec le <a href="../jins/kurd.php">Jins Kurd</a> comme jins de base sur la tonique, suivi du <a href="../jins/nahawand.php">Jins Nahawand</a> sur le 4ième degré.</p>
+                    <p>Le Maqam Hijazkar Kurd est une version archaïque du <a href="kurd.php">Maqam Kurd</a> composé du <a href="../jins/hijazkar.php">Jins Hijazkar</a> à l'octave supérieure. Sa gamme commence avec le <a href="../jins/kurd.php">Jins Kurd</a> comme jins de base sur la tonique, suivi du <a href="../jins/nahawand.php">Jins Nahawand</a> sur le 4<sup>ième</sup> degré.</p>
 
                     <p>Explorez d'autres maqams dans la <a href="f_kurd.php">Famille du Maqam Kurd</a>.</p>
 

@@ -65,8 +65,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="637,11,820,39" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Maqam Rast is the main maqam in the Rast Family, and by far one of the most popular and common maqams in the Arabic repertory.
-                    Its scale starts with the root <a href="../jins/rast.php">Jins Rast</a> on the <em>tonic</em>, followed on the 5<sup>th</sup> degree by either <a href="../jins/upper_rast.php">Jins Haut Rast</a> (with its tonic up on the 8<sup>th</sup> degree) or <a href="../jins/nahawand.php">Jins Nahawand</a>.
+                    <p>Le Maqam Rast est de loin l'un des maqamat les plus populaires du répertoire de la musique arabe, ansi que le maqam principal dans la <a href="f_rast.php">famille du Maqam Rast</a>. Sa gamme commence avec le jins de base <a href="../jins/rast.php">Rast</a> sur la tonique, suivi du <a href="../jins/upper_rast.php">Jins Haut Rast</a> (avec sa tonique sur le 8<sup>ième</sup> degré) ou du <a href="../jins/nahawand.php">Jins Nahawand</a> sur le 5<sup>ième</sup> degré.
                     </p>
 
                     <p>Explorez d'autres maqams dans la <a href="f_rast.php">Famille du Maqam Rast</a>.</p>
@@ -96,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Mala al-Kasat</b>
-                                    <span>Ensemble Al-Kindi</span>
+                                    <span>Ensemble Al-Kindi (Syrie/France)</span>
                                     <span>Musique de Mouhammad Outhman</span>
                                 </div>
                             </label>
@@ -187,7 +186,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Rast George Michel (Égypte)</b>
-                                    <span>Ensemble Al-Kindi</span>
+                                    <span>Ensemble Al-Kindi (Syrie/France)</span>
                                     <span><img src="/img/cd.png"> The Aleppian Music Room Vol. 2 (Rast)</span>
                                 </div>
                             </label>

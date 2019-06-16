@@ -68,7 +68,7 @@ include($ROOT . 'inc/head.php');
 
 				      </map>
 
-                    <p>Le Maqam Bastanikar est en fait le <a href="../jins/sikah.php">Jins Sikah</a> suivi du <a href="saba.php">Maqam Saba</a>. Il commence avec le <a href="../jins/sikah.php">Jins Sikah</a> comme jins de base sur la tonique, suivi du <a href="../jins/saba.php">Jins Saba</a> sur le 3ième degré, un <a href="../jins/hijaz.php">Jins Hijaz</a> *overlapping* sur le 5ième degré et finalement, un <a href="../jins/nikriz.php">Jins Nikriz</a> à l'octave supérieure.</p>
+                    <p>Le Maqam Bastanikar est en fait le <a href="../jins/sikah.php">Jins Sikah</a> suivi du <a href="saba.php">Maqam Saba</a>. Il commence avec le <a href="../jins/sikah.php">Jins Sikah</a> comme jins de base sur la tonique, suivi du <a href="../jins/saba.php">Jins Saba</a> sur le 3<sup>ième</sup> degré, un <a href="../jins/hijaz.php">Jins Hijaz</a> *overlapping* sur le 5<sup>ième</sup> degré et finalement, un <a href="../jins/nikriz.php">Jins Nikriz</a> à l'octave supérieure.</p>
 
                     <p>Explorez d'autres maqams dans la <a href="f_sikah.php">Famille du Maqam Sikah</a>.</p>
 

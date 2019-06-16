@@ -61,7 +61,7 @@ include($ROOT . 'inc/head.php');
 
 				     </map>
 
-                    <p>Maqam Kurd is the main maqam in the Kurd Family. Its scale starts with the root <a href="../jins/kurd.php">Jins Kurd</a> on the <em>tonic</em>, followed by <a href="../jins/nahawand.php">Jins Nahawand</a> on the 4<sup>th</sup> degree.</p>
+                    <p>Le Maqam Kurd est le maqam principal de la <a href="f_kurd.php">famille du Maqam Kurd</a>. Il commence avec le jins de base <a href="../jins/kurd.php">Kurd</a> sur la tonique, suivi du <a href="../jins/nahawand.php">Jins Nahawand</a> sur le 4<sup>ième</sup> degré.</p>
 
                     <p>Explorez d'autres maqams dans la <a href="f_kurd.php">Famille du Maqam Kurd</a>.</p>
 
@@ -76,7 +76,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>‘Awwedti ‘Ayni (1958)</b>
+                                    <b>Awwedti Ayni (1958)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Riyad al-Soumbati</span>
                                 </div>
@@ -103,7 +103,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Doulab Kurd</b>
-                                    <span>Ensemble Sabah Fakhri</span>
+                                    <span>Ensemble Sabah Fakhri (Syrie)</span>
                                     <span><img src="/img/cd.png"> Au Palais Des Congrès (1995)</span>
                                 </div>
                             </label>
@@ -115,7 +115,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Yamurru ‘Ujuban</b>
+                                    <b>Mouachah Yamourrou Oujouban</b>
                                     <span>Sabah Fakhri (Syrie)</span>
                                     <span>Musique de Omar al-Batch</span>
                                     <span><img src="/img/cd.png"> Au Palais Des Congrès (1995)</span>

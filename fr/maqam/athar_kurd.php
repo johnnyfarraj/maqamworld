@@ -118,7 +118,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Hijazkar Kurd</b>
-                                    <span>Ensemble Al-Kindi</span>
+                                    <span>Ensemble Al-Kindi (Syrie/France)</span>
                                     <span><img src="/img/cd.png"> Les Derviches Tourneurs of Damas Vol. 2</span>
                                     <span>Musique de Salah al-Mahdi (Tunisia)</span>
                                 </div>

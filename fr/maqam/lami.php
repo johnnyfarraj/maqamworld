@@ -60,7 +60,8 @@ include($ROOT . 'inc/head.php');
 
 				     </map>
 
-                    <p>Maqam Lami is a rare maqam in the Middle East and was borrowed from the Iraqi repertoire. Its scale starts with <a href="../jins/lami.php">Jins Lami</a> on the <em>tonic</em>, followed by <a href="../jins/kurd.php">Jins Kurd</a> on the 4<sup>th</sup> degree.</p>
+                    <p>Le Maqam Lami est un maqam très rare au Moyen-Orient et a été emprunté au Maqam Iraquien. Il commence avec le <a href="../jins/lami.php">Jins Lami</a> sur la tonique, suivi du <a href="../jins/kurd.php">Jins Kurd</a> sur le 4<sup>ième</sup> degré.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -124,7 +125,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>el-Najmat Sarou Yis'alou (1964)</b>
+                                    <b>Rl-Najmat Sarou Yis'alou (1964)</b>
                                     <span>Wadih al-Safi (Liban)</span>
                                     <span>Musique de Mouhammad Mouhsin</span>
                                 </div>

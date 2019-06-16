@@ -62,7 +62,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="454,6,584,34" href="../jins/nikriz.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Maqam Nikriz is the main maqam in the Nikriz Family. Its scale starts with the root <a href="../jins/nikriz.php">Jins Nikriz</a> on the <em>tonic</em>, followed by <a href="../jins/nahawand.php">Jins Nahawand</a> on the 5<sup>th</sup> degree.
+                    <p>Le Maqam Nikriz est le maqam principal de la <a href="f_nikriz.php">famille du Maqam Nikriz</a>. Sa gamme commence à la base avec le <a href="../jins/nikriz.php">Jins Nikriz</a> sur la tonique, suivi du <a href="../jins/nahawand.php">Jins Nahawand</a> sur le 5<sup>ième</sup> degré.
                     </p>
                     <p>Explorez d'autres maqams dans la <a href="f_nikriz.php">Famille du Maqam Nikriz</a>.</p>
 
@@ -90,7 +90,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ba‘id Annak (1965)</b>
+                                    <b>Ba‘id ‘Annak (1965)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Baligh Hamdi</span>
                                 </div>

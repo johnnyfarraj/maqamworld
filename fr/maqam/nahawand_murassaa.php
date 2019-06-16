@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Maqam Nahawand Mourassa‘";
-$page_description = "Maqam Maqam Nahawand Mourassa‘";
+$page_title = "Maqam Nahawand Mourassa‘";
+$page_description = "Maqam Nahawand Mourassa‘";
 $page_keywords = "arabic, music, arab, world, maqam, jins, nahawand murassaa, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
 $page_language = "fr";
 
@@ -61,7 +61,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="337,141,454,174" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Maqam Nahawand Mourassa‘ is is basically <a href="nahawand.php">Maqam Nahawand</a> with a lowered 5<sup>th</sup> scale degree. Its scale starts with <a href="../jins/nahawand_murassaa.php">Jins Nahawand Mourassa‘</a> on the <em>tonic</em>, overlapped by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 4<sup>th</sup> degree.
+                    <p>Le Maqam Nahawand Murassa' est en gros le <a href="nahawand.php">Maqam Nahawand</a> avec une quinte abaissée. Sa gamme commence avec le <a href="../jins/nahawand_murassaa.php">Jins Nahawand Mourassa‘</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Jins Hijaz</a> sur le 4<sup>ième</sup> degré.
                     </p>
 
                     <p>Explorez d'autres maqams dans la <a href="f_nahawand.php">Famille du Maqam Nahawand</a>.</p>
@@ -78,7 +78,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Ya Gari (1958)</b>
-                                    <span>Horeyya Hassan</span>
+                                    <span>Horeyya Hassan (Égypte)</span>
                                     <span>Musique de Mouhammad al-Mougi</span>
                                 </div>
                             </label>
@@ -104,7 +104,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Taht el-Shibbak</b>
-                                    <span>‘Aziz ‘Outhman</span>
+                                    <span>Aziz Outhman (Égypte)</span>
                                 </div>
                             </label>
                         </div>
@@ -116,8 +116,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Nahawand</b>
-                                    <span>Simon Shaheen</span>
-                                    <span>Musique de Mesut Cemil</span>
+                                    <span>Simon Shaheen (Palestine)</span>
+                                    <span>Musique de Mesut Cemil (Turquie)</span>
                                 </div>
                             </label>
                         </div>
@@ -142,7 +142,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Doulab Nahawand Mourassa‘</b>
-                                    <span>Zikrayat Ensemble</span>
+                                    <span>Zikrayat Ensemble (États Unis)</span>
                                     <span>Musique de Sami Abou Shumays</span>
                                 </div>
                             </label>

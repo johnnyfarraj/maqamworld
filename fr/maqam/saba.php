@@ -65,7 +65,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="548,143,680,173" href="../jins/nikriz.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Maqam Saba est un maqam très commun et très populaire dans le répertoire de la musique arabe. Sa gamme commence avec le <a href="../jins/saba.php">Jins Saba</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Jins Hijaz</a> sur le 3ième degré, et finalement du <a href="../jins/ajam.php">Jins ‘Ajam</a> ou du <a href="../jins/nikriz.php">Jins Nikriz</a> sur le 6ième degré.</p>
+                    <p>Le Maqam Saba est un maqam très commun et très populaire dans le répertoire de la musique arabe. Sa gamme commence avec le <a href="../jins/saba.php">Jins Saba</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Jins Hijaz</a> sur le 3<sup>ième</sup> degré, et finalement du <a href="../jins/ajam.php">Jins ‘Ajam</a> ou du <a href="../jins/nikriz.php">Jins Nikriz</a> sur le 6<sup>ième</sup> degré.</p>
 
                     <p>Maqam Saba ne fait pas partie d'une famille de maqams.</p>
 

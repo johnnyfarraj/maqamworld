@@ -63,9 +63,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="615,7,745,37" href="../jins/sikah.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Maqam Awj 'Iraq est une version du <a href="huzam.php">Maqam Rahat al-Arwah/Maqam Houzam</a> et du <a href="iraq.php">Maqam ‘Iraq</a>, avec un <em>sayr</em> qui commence sur la tonique à l'octave supérieure et redescend vers la tonique. Il partage la plupart de ses ajnas avec le <a href="huzam.php">Maqam Houzam</a>.
+                    <p>Le Maqam Aouj 'Iraq est une version du <a href="huzam.php">Maqam Rahat al-Arwah/Maqam Houzam</a> et du <a href="iraq.php">Maqam ‘Iraq</a>, avec un <em>sayr</em> qui commence sur la tonique à l'octave supérieure et redescend vers la tonique. Il partage la plupart de ses ajnas avec le <a href="huzam.php">Maqam Houzam</a>.
                     </p>
-                    <p>Le Maqam Awj 'Iraq  commence avec le jins de base <a href="../jins/sikah.php">Sikah</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Jins Hijaz</a> sur le 3<sup>ième</sup> degré, puis d'un autre Jins Sikah sur le 8<sup>ième</sup> degré.
+                    <p>Le Maqam Aouj 'Iraq  commence avec le jins de base <a href="../jins/sikah.php">Sikah</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Jins Hijaz</a> sur le 3<sup>ième</sup> degré, puis d'un autre Jins Sikah sur le 8<sup>ième</sup> degré.
                     </p>
 
                     <p>Explorez d'autres maqams dans la <a href="f_sikah.php">Famille du Maqam Sikah</a>.</p>
