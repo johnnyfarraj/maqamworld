@@ -48,7 +48,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/kirdan.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clickez et appuyez sur chaque note Ã  l'aide de la souris pour l'entendre jouer.</p>
                     </div>
 
                     <map name="notemap">
@@ -58,8 +58,8 @@ include($ROOT . 'inc/head.php');
                       <area shape="circle" coords="304,105,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
                       <area shape="circle" coords="381,113,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
                       <area shape="circle" coords="458,123,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
-                      <area shape="circle" coords="537,131,13" href="#" alt="Réâ™¯" class="playNote" data-frequency="310" data-parent="#notation1"><!-- var sikah leading tone-->
-                      <area shape="circle" coords="589,131,13" href="#" alt="Réâ™®" class="playNote" data-frequency="293.33" data-parent="#notation1">
+                      <area shape="circle" coords="537,131,13" href="#" alt="RÃ©Ã¢â„¢Â¯" class="playNote" data-frequency="310" data-parent="#notation1"><!-- var sikah leading tone-->
+                      <area shape="circle" coords="589,131,13" href="#" alt="RÃ©Ã¢â„¢Â®" class="playNote" data-frequency="293.33" data-parent="#notation1">
                       <area shape="circle" coords="640,139,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
                        <!-- Links -->
                       <area shape="rect" coords="95,6,274,38" href="../jins/upper_rast.php" class="mapLink" data-parent="#notation1">
@@ -67,9 +67,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="400,173,528,202" href="../jins/sazkar.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Maqam Kirdan est une version du <a href="rast.php">Maqam Rast</a> dans laquelle le sayr commence à l'octave et redescend vers la tonique. Sa gamme commence avec le <a href="../jins/rast.php">Jins Rast</a> sur la tonique, suivi du <a href="../jins/upper_rast.php">Jins Haut Rast</a> sur le 5<sup>ième</sup> degré (avec sa tonique sur le 8<sup>ième</sup> degré).
+                    <p>Le Maqam Kirdan est une version du <a href="rast.php">Maqam Rast</a> dans laquelle le sayr commence Ã  l'octave et redescend vers la tonique. Sa gamme commence avec le <a href="../jins/rast.php">Jins Rast</a> sur la tonique, suivi du <a href="../jins/upper_rast.php">Jins Haut Rast</a> sur le 5<sup>iÃ¨me</sup> degrÃ© (avec sa tonique sur le 8<sup>iÃ¨me</sup> degrÃ©).
                     </p>
-                    <p>Le <strong>Maqam Sazkar</strong> est presque identique au Maqam Kirdan à part pour le fait de mettre l'emphase sur le 2<sup>ième</sup> degré dans certains passages mélodiques, ce qui fait en sorte d'avoir le <a href="../jins/sazkar.php">Jins Sazkar</a> sur la tonique.
+                    <p>Le <strong>Maqam Sazkar</strong> est presque identique au Maqam Kirdan Ã  part pour le fait de mettre l'emphase sur le 2<sup>iÃ¨me</sup> degrÃ© dans certains passages mÃ©lodiques, ce qui fait en sorte d'avoir le <a href="../jins/sazkar.php">Jins Sazkar</a> sur la tonique.
                     </p>
 
                     <p>Explorez d'autres maqams dans la <a href="f_rast.php">Famille du Maqam Rast</a>.</p>
@@ -86,8 +86,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Mouachah Sihtou Wajdan</b>
-                                    <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Liban)</span>
-                                    <span>Chef d'orchestre: Aïda Chalhoub Ziadé</span>
+                                    <span>Chorale de la facultÃ© de musique - UniversitÃ© Saint-Esprit de Kaslik (Liban)</span>
+                                    <span>Chef d'orchestre: AÃ¯da Chalhoub ZiadÃ©</span>
                                     <span>Musique de Sayyed Darwich</span>
                                     <span><img src="/img/cd.png"> Orientalia: Mouachah et Chansons</span>
                                 </div>
@@ -114,7 +114,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Hayrana Leh (1930)</b>
-                                    <span>Leila Mourad (Égypte)</span>
+                                    <span>Leila Mourad (Ã‰gypte)</span>
                                     <span>Musique de Daoud Housni</span>
                                 </div>
                             </label>
