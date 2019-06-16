@@ -67,7 +67,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="775,5,886,36" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 
 				     </map>
-                    <p>Le Maqam Hijaz est le maqam principal de la <a href="f_hijaz.php">Famille du Maqam Hijaz</a>. Sa gamme commence avec le <a href="../jins/hijaz.php">Jins Hijaz</a> comme jins de base sur la tonique, suivi du <a href="../jins/nahawand.php">Jins Nahawand</a> ou du <a href="../jins/rast.php">Jins Rast</a> sur le <sup>ghammaz</sup> au 4<sup>ième</sup> degré.</p>
+                    <p>Le Maqam Hijaz est le maqam principal de la <a href="f_hijaz.php">Famille du Maqam Hijaz</a>. Sa gamme commence avec le <a href="../jins/hijaz.php">Jins Hijaz</a> comme jins de base sur la tonique, suivi du <a href="../jins/nahawand.php">Jins Nahawand</a> ou du <a href="../jins/rast.php">Jins Rast</a> sur le <em>ghammaz</em> au 4<sup>ième</sup> degré.</p>
 
                     <p>Explorez d'autres maqams dans la <a href="f_hijaz.php">Famille du Maqam Hijaz</a>.</p>
 
