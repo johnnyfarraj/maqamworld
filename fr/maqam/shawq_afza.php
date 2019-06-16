@@ -59,7 +59,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="137,5,263,36" href="../jins/ajam.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="425,5,544,36" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
 					</map>
-                    <p>Le Maqam Chaouq Afza est la version la plus commune du <a href="ajam.php">Maqam ‘Ajam</a>. Sa gamme commence avec le jins de base <a href="../jins/ajam.php">‘Ajam</a>sur la tonique. Le fait qu'il ait le <a href="../jins/hijaz.php">Jins Hijaz</a> sur le 5<sup>ième</sup> degré est ce qui le distingue du <a href="ajam.php">Maqam ‘Ajam</a>, en plus du fait de fréquemment moduler vers le <a href="../jins/saba_dalanshin.php">Jins Saba Dalanchine</a> sur le 3<sup>ième</sup>/5<sup>ième</sup> degré.</p>
+                    <p>Le Maqam Chaouq Afza est la version la plus commune du <a href="ajam.php">Maqam ‘Ajam</a>. Sa gamme commence avec le jins de base <a href="../jins/ajam.php">‘Ajam</a> sur la tonique. Le fait qu'il ait le <a href="../jins/hijaz.php">Jins Hijaz</a> sur le 5<sup>ième</sup> degré est ce qui le distingue du <a href="ajam.php">Maqam ‘Ajam</a>, en plus du fait de fréquemment moduler vers le <a href="../jins/saba_dalanshin.php">Jins Saba Dalanchine</a> sur le 3<sup>ième</sup>/5<sup>ième</sup> degré.</p>
 
                     <p>Explorez d'autres maqams dans la <a href="f_ajam.php">Famille du Maqam ‘Ajam</a>.</p>
 
