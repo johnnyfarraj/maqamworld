@@ -39,7 +39,6 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/suzdalara.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Suzdalara</a>
                     </div>
 
-
                      <div class="notation" id="notation1">
                         <img src="/note/maqam/suzdalara.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
@@ -61,7 +60,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="392,7,504,35" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 
                     </map>
-                    <p>Maqam Suzdalara is quite archaic and almost non-existent as an independent maqam, although its sayr is obligatory within nearly every performance and song in every branch of <a href="rast.php">Maqam Rast</a>: the <a href="../jins/nahawand.php">Jins Nahawand</a> on the 5<sup>th</sup> degree of Maqam Rast is a universal transition device from other modulations, signaling the return to the root <a href="../jins/rast.php">Jins Rast</a> on the <em>tonic</em>.</p>
+                    <p>Le Maqam Suzdalara est un maqam assez archaïque et presque inexistant en tant que maqam indépendant, même si son sayr est obligatoire pour presque toute performance et chanson dans le <a href="rast.php">Maqam Rast</a>: le <a href="../jins/nahawand.php">Jins Nahawand</a> sur le 5ième degré du <a href="rast.php">Maqam Rast</a> est une transition obligatoire à partir d'autres modulations pour signaler le retour vers le Jins de base <a href="../jins/rast.php">Rast</a> sur la tonique.</p>
 
                     <p>Explorez d'autres maqams dans la <a href="f_rast.php">Famille du Maqam Rast</a>.</p>
 

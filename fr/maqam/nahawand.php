@@ -137,7 +137,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Ramani Bi Sahmi Hawahu</b>
-                                    <span>Khaled al-Hafez</span>
+                                    <span>Khaled al-Hafez (Syrie)</span>
                                     <span>Musique de Daoud Housni</span>
                                 </div>
                             </label>
@@ -164,7 +164,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Sama‘i Nahawand</b>
                                     <span>Ensemble Abdel Halim Noueirah</span>
-                                    <span>Musique de Safar ‘Ali</span>
+                                    <span>Musique de Safar Ali</span>
                                 </div>
                             </label>
                         </div>
@@ -215,7 +215,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Doulab Nahawand</b>
-                                    <span>Cheikh Abou el-‘Ila Mouhammad</span>
+                                    <span>Cheikh Abou el-Éla Mouhammad (Égypte)</span>
                                 </div>
                             </label>
                         </div>

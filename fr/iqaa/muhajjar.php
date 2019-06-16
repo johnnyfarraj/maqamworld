@@ -68,7 +68,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Hajarni Habibi</b>
-                                    <span>Ensemble Al-Tourath</span>
+                                    <span>Ensemble Al-Tourath (Syrie)</span>
                                 </div>
                             </label>
                         </div>
@@ -94,7 +94,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Mounyati ‘Azza Istibari</b>
                                     <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Liban)</span>
-                                    <span>Chef d'orchestre: Aïda Shalhoub Ziadé</span>
+                                    <span>Chef d'orchestre: Aïda Chalhoub Ziadé</span>
                                     <span>Musique de Sayyed Darwich</span>
                                     <span><img src="/img/cd.png"> Orientalia: Mouachah et Chansons</span>
                                 </div>

@@ -66,7 +66,8 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="548,145,680,174" href="../jins/nikriz.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Maqam Saba is a rare maqam in the Arabic repertory. Its scale starts with <a href="../jins/saba_zamzam.php">Jins Saba Zamzam</a> on the <em>tonic</em>, overlapped by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 3<sup>rd</sup> degree, followed by either <a href="../jins/ajam.php">Jins ‘Ajam</a> or <a href="../jins/nikriz.php">Jins Nikriz</a> on the 6<sup>th</sup> degree. </p>
+                    <p>Le Maqam Saba Zamzam est un maqam très rare dans le répertoire de la musique arabe. Sa gamme commence avec le <a href="../jins/saba_zamzam.php">Jins Saba Zamzam</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Jins Hijaz</a> sur le 3ième degré, et finalement du <a href="../jins/ajam.php">Jins ‘Ajam</a> ou du <a href="../jins/nikriz.php">Jins Nikriz</a> sur le 6ième degré.
+                    </p>
                     <p>
                     Maqam Saba Zamzam ne fait pas partie d'une famille de maqams.</p>
 

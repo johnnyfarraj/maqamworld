@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Idha Da‘ana al-Siba</b>
-                                    <span>Khaled al-Hafez</span>
+                                    <span>Khaled al-Hafez (Syrie)</span>
                                     <span>Musique de Omar al-Batch</span>
                                 </div>
                             </label>

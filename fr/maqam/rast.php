@@ -110,7 +110,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Ya ‘Oudhayb al-Marshaf</b>
                                     <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Liban)</span>
-                                    <span>Chef d'orchestre: Aïda Shalhoub Ziadé</span>
+                                    <span>Chef d'orchestre: Aïda Chalhoub Ziadé</span>
                                     <span>Musique de Sayyed Darwich</span>
                                     <span><img src="/img/cd.png"> Orientalia: Mouachah et Chansons</span>
                                 </div>

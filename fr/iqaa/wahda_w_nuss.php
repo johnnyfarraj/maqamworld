@@ -93,7 +93,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Kawini Ya ‘Ali (1953)</b>
+                                    <b>Ya Kawini Ya Ali (1953)</b>
                                     <span>Sabah (Liban)</span>
                                     <span>Musique de Farid al-Atrache</span>
                                 </div>

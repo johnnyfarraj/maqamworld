@@ -62,9 +62,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="494,7,600,35" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Maqam Sikah is a rare member of the Sikah family. Its scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the <em>tonic</em>, 
-followed by <a href="../jins/upper_rast.php">Jins Haut Rast</a> on the 3<sup>rd</sup> degree (with its tonic on the 6<sup>th</sup> degree) 
-then <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree (which is a secondary ghammaz).
+                    <p>Le Maqam Sikah est un membre rare de la <a href="f_sikah.php">Famille du Maqam Sikah</a> même si il porte le nom de son Jins de base. Sa gamme commence avec le jins de base <a href="../jins/sikah.php">Sikah</a> sur la tonique, suivi du <a href="../jins/upper_rast.php">Jins Haut Rast</a> sur le 3ième degré (avec sa tonique sur le 6ième degré), et finalement du <a href="../jins/rast.php">Jins Rast</a> sur le 6ième degré (qui est un <em>ghammaz</em> secondaire).
                     </p>
                     <p>Explorez d'autres maqams dans la <a href="f_sikah.php">Famille du Maqam Sikah</a>.</p>
 
@@ -80,7 +78,7 @@ then <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree (whic
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Mouachah Jadaka al-Ghaithou</b>
-                                    <span>Interprétation et Musique de Wajdi al-‘Aqili</span>
+                                    <span>Interprétation et Musique de Wajdi al-‘Aqili (Syrie)</span>
                                 </div>
                             </label>
                         </div>

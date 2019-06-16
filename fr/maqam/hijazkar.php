@@ -29,7 +29,7 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Hijazkar</h1>
+                        <h1>Maqam Hijazkar (ou Hijaz Kar)</h1>
                         <h1>Maqam Chadd ‘Arabane</h1>
                         <h1>Maqam Suzidil</h1>
                         <h1>Maqam Chahnaz</h1>
@@ -75,13 +75,14 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="604,7,720,37" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Maqam Hijazkar is the most common variant of <a href="hijaz.php">Maqam Hijaz</a>. Its scale starts with the root <a href="../jins/hijaz.php">Jins Hijaz</a> on the <em>tonic</em>, followed by <a href="../jins/nikriz.php">Jins Nikriz</a> on the 4<sup>th</sup> degree then <a href="../jins/hijazkar.php">Jins Hijazkar</a> on the octave.</p>
-					<p>For historic reasons, 3 of this maqam's transpositions have different names (and used to have a different sayr a long time ago):
-					</p>
+                    <p>Le Maqam Hijazkar est la variante la plus commune du <a href="hijaz.php">Maqam Hijaz</a>. Sa gamme commence avec le <a href="../jins/hijaz.php">Jins Hijaz</a> comme jins de base sur la tonique, suivi du <a href="../jins/nikriz.php">Jins Nikriz</a> sur le 4ième degré et finalement, du <a href="../jins/hijazkar.php">Jins Hijazkar</a> à l'octave supérieure.
+                    </p>
+                    <p>
+                    Pour des raisons historiques, 3 transpositions de ce maqam ont des noms différents (et avaient, il y a longtemps, un <em>sayr</em> différent):</p>
 					<p>
-					<li><strong>Maqam Chadd ‘Arabane</strong> (Hijazkar sur Sol basse)</li>
-					<li><strong>Maqam Suzidil</strong> (Hijazkar sur La basses)</li>
-					<li><strong>Maqam Chahnaz</strong> (Hijazkar sur Ré)</li>
+					<li><strong>Maqam Chadd ‘Arabane</strong> (Hijazkar sur le bas Sol)</li>
+					<li><strong>Maqam Suzidil</strong> (Hijazkar sur le bas La)</li>
+					<li><strong>Maqam Chahnaz</strong> (Hijazkar sur le Ré)</li>
 					</p>
 
                     <p>Explorez d'autres maqams dans la <a href="f_hijaz.php">Famille du Maqam Hijaz</a>.</p>
@@ -123,7 +124,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Nas Ana Moutti Fi Houbbi</b>
+                                    <b>Ya Nas Ana Moutti Fi Hobbi</b>
                                     <span>Sabah Fakhri (Syrie)</span>
                                     <span>Musique de Sayyed Darwich</span>
                                 </div>
@@ -150,7 +151,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Ya ‘Ouyounan Ramiyat</b>
-                                    <span>Sabri al-Moudallal</span>
+                                    <span>Sabri al-Moudallal (Syrie)</span>
                                     <span>Musique de Omar al-Batch</span>
                                 </div>
                             </label>
@@ -190,7 +191,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Doulab Hijazkar</b>
                                     <span>Ensemble Sabah Fakhri</span>
-                                    <span>Nagham Al-Ams Vol. 04 Hijazkar</span>
+                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 04 Hijazkar</span>
                                 </div>
                             </label>
                         </div>

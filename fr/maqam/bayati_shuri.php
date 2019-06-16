@@ -79,7 +79,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Sama‘i Bayati Chouri</b>
-                                    <span>Nagham al-Ams Vol. 2 (Bayati Chouri)</span>
+                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 2 (Bayati Chouri)</span>
                                 </div>
                             </label>
                         </div>
@@ -91,7 +91,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Taqsim au Violon en Maqam Bayati Chouri</b>
-                                    <span>Nagham al-Ams Vol. 2 (Bayati Chouri)</span>
+                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 2 (Bayati Chouri)</span>
                                 </div>
                             </label>
                         </div>
@@ -105,7 +105,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Mouachah Hibbi Da‘ani Lil-Wisal</b>
                                     <span>Sabah Fakhri (Syrie)</span>
                                     <span>Musique de Sayyed Darwich</span>
-                                    <span>Nagham al-Ams Vol. 2 (Bayati Chouri)</span>
+                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 2 (Bayati Chouri)</span>
                                 </div>
                             </label>
                         </div>
@@ -118,7 +118,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Talaffata al-Dhabiyu</b>
                                     <span>Sabah Fakhri (Syrie)</span>
-                                    <span>Nagham al-Ams Vol. 2 (Bayati Chouri)</span>
+                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 2 (Bayati Chouri)</span>
                                 </div>
                             </label>
                         </div>

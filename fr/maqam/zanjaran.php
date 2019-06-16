@@ -62,7 +62,7 @@ include($ROOT . 'inc/head.php');
 
 
 					</map>
-                    <p>Maqam Zanjarane is a variant of <a href="hijaz.php">Maqam Hijaz</a> with <a href="../jins/ajam.php">Jins ‘Ajam</a> as the second jins (on the 4<sup>th</sup> degree) and the root <a href="../jins/hijaz.php">Jins Hijaz</a> on the <em>tonic</em>. </p>
+                    <p>Le Maqam Zanjarane est une variante du <a href="hijaz.php">Maqam Hijaz</a> avec le <a href="../jins/ajam.php">Jins ‘Ajam</a> comme second jins (sur le 4ième degré) et le jins de base <a href="../jins/hijaz.php">Hijaz</a> sur la tonique.</p>
 
                     <p>Explorez d'autres maqams dans la <a href="f_hijaz.php">Famille du Maqam Hijaz</a>.</p>
 
@@ -117,7 +117,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Layali Zanjarane</b>
                                     <span>Ahmad Khabbari</span>
-                                    <span>Ensemble Al-Tourath</span>
+                                    <span>Ensemble Al-Tourath (Syrie)</span>
                                     <span><img src="/img/cd.png"> The Music In Spanish Al-Andalus - Hijaz</span>
                                 </div>
                             </label>
@@ -130,7 +130,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Semiramis (Taqsim Oud en Maqam Zanjarane)</b>
-                                    <span>‘Amer ‘Ammouri</span>
+                                    <span>‘Amer ‘Ammouri (Syrie)</span>
                                     <span><img src="/img/cd.png"> Takasim Oud</span>
                                 </div>
                             </label>
@@ -143,7 +143,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Taqsim au Qanoun en Zanjarane</b>
-                                    <span>Abraham Salman</span>
+                                    <span>Abraham Salman (Irak)</span>
                                     <span><img src="/img/cd.png"> Saltanah</span>
                                 </div>
                             </label>

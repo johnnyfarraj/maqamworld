@@ -121,7 +121,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr ‘Ishna w Shoufna</b>
-                                    <span>Saleh Abdel Hayy</span>
+                                    <span>Saleh Abdel Hayy (Égypte)</span>
                                     <span>Musique de Mouhammad Outhman</span>
                                 </div>
                             </label>

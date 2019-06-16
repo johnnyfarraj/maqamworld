@@ -39,7 +39,6 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/sikah_baladi.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Sikah Baladi</a>
                     </div>
 
-
                      <div class="notation" id="notation1">
                         <img src="/note/maqam/sikah_baladi.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
@@ -66,12 +65,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="272,184,636,213" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
 
                       </map>
-                    <p>Maqam Sikah Baladi is arguably the most challenging Arabic maqam.
-                    Its scale (and sayr) is something of a hybrid between a transposition of <a href="huzam.php">Maqam Houzam</a>
-                    to an ordinary non-Sikah note, and <a href="hijazkar.php">Maqam Hijazkar</a> – the intervals
-                    are not quite the same as either, but it sounds a bit like both.
-                    None of its intervals match either just or equal-tempered intonation, making it impossible to reproduce
-                    on anything but the voice and <a href="../instr.php">traditional Arabic instruments</a>.</p>
+                    <p>Le Maqam Sikah Baladi est probablement le maqam arabe le plus difficile. Sa gamme (et son <em>sayr</em>) est en quelque sorte un hybride entre le <a href="huzam.php">Maqam Houzam</a> sur une note Sikah non conventionnelle, et du <a href="hijazkar.php">Maqam Hijazkar</a>. Les intervalles sont différents de ces derniers quoiqu'ils qu'ils sonnent un peu comme eux. Aucun des intervalles qui le composent ne correspond à une intonation juste ou à tempérament égale, ce qui rend ce maqam impossible à jouer sur un instrument autre qu'un <a href="../instr.php">instrument traditionnel arabe</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

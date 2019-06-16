@@ -67,7 +67,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="775,5,886,36" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 
 				     </map>
-                    <p>Maqam Hijaz is the main maqam in the Hijaz Family. Its scale starts with the root <a href="../jins/hijaz.php">Jins Hijaz</a> on the <em>tonic</em> followed by either <a href="../jins/nahawand.php">Jins Nahawand</a> or <a href="../jins/rast.php">Jins Rast</a> on the 4<sup>th</sup> degree.</p>
+                    <p>Le Maqam Hijaz est le maqam principal de la <a href="f_hijaz.php">Famille du Maqam Hijaz</a>. Sa gamme commence avec le <a href="../jins/hijaz.php">Jins Hijaz</a> comme jins de base sur la tonique, suivi du <a href="../jins/nahawand.php">Jins Nahawand</a> ou du <a href="../jins/rast.php">Jins Rast</a> sur le <sup>ghammaz</sup> au 4ième degré.</p>
 
                     <p>Explorez d'autres maqams dans la <a href="f_hijaz.php">Famille du Maqam Hijaz</a>.</p>
 
@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Mouachah Ma-Htiyali</b>
-                                    <span>Ensemble Al-Tourath </span>
+                                    <span>Ensemble Al-Tourath (Syrie)</span>
                                     <span><img src="/img/cd.png"> The Music In Spanish Al Andalus - Hijaz</span>
                                 </div>
                             </label>
@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Badri Adir</b>
                                     <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Liban)</span>
-                                    <span>Chef d'orchestre: Aïda Shalhoub Ziadé</span>
+                                    <span>Chef d'orchestre: Aïda Chalhoub Ziadé</span>
                                     <span><img src="/img/cd.png"> Orientalia: Mouachah et Chansons</span>
                                 </div>
                             </label>
@@ -161,7 +161,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Qaddouka al-Mayyas</b>
                                     <span>Sabah Fakhri (Syrie)</span>
-                                    <span>Nagham al-Ams Vol. 14 Hijaz</span>
+                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 14 Hijaz</span>
                                 </div>
                             </label>
                         </div>
@@ -173,7 +173,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Hijaz</b>
-                                    <span>Ensemble Al-Tourath</span>
+                                    <span>Ensemble Al-Tourath (Syrie)</span>
                                     <span>Musique de Mouhammad ‘Abdou</span>
                                 </div>
                             </label>
@@ -187,7 +187,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Doulab et Taqsim au Nay en Maqam Hijaz</b>
                                     <span>Sabah Fakhri (Syrie)</span>
-                                    <span>Nagham al-Ams Vol. 14 Hijaz</span>
+                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 14 Hijaz</span>
                                 </div>
                             </label>
                         </div>

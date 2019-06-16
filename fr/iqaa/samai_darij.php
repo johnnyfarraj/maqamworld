@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" checked>
                                 <div class="info">
                                     <b>Mouachah Ya Man La`ibat Bihi Chamoulou</b>
-                                    <span>Ensemble Al-Tourath</span>
+                                    <span>Ensemble Al-Tourath (Syrie)</span>
                                 </div>
                             </label>
                         </div>

@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Qadd Dhatoul-Jamal Oukhtou al-Hilal</b>
-                                    <span>Ensemble Al-Tourath</span>
+                                    <span>Ensemble Al-Tourath (Syrie)</span>
                                     <span><img src="/img/cd.png"> Hermana de la Luna - Rast</span>
                                 </div>
                             </label>

@@ -36,7 +36,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/husayni.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Husayni</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/husayni.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Houssayni</a>
                     </div>
 
                      <div class="notation" id="notation1">
@@ -57,13 +57,13 @@ include($ROOT . 'inc/head.php');
 	  <area shape="circle" coords="551,121,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!-- Bayati RE 2nd, variable -->
 	  <area shape="circle" coords="630,129,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
                        <!-- Links -->
-		<!-- Husayni is not a Jins, it's a special case (documented in IAM)
+		<!-- Houssayni is not a Jins, it's a special case (documented in IAM)
                       <area shape="rect" coords="116,8,304,39" href="../jins/husayni.php" class="mapLink" data-parent="#notation1">
 		-->
                       <area shape="rect" coords="450,8,580,39" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Maqam Houssayni is not very common as an independent maqam in the Arabic tradition, though its sayr (emphasizing the 5<sup>th</sup> scale degree as a note of tension resolving down to the 4<sup>th</sup> degree) is obligatory within <a href="bayati.php">Maqam Bayati</a>. In the folk music of the wider region, this is actually the most common variant of Bayati, with its scale starting with the root <a href="../jins/bayati.php">Jins Bayati</a> on the <em>tonic</em>.
+                    <p>Le Maqam Houssayni n'est pas un maqam très commun en tant que maqam indépendant dans la tradition de la musique arabe, même si son <em>sayr</em> (mettre l'emphase sur le 5ième degré comme note de tension qui se résout sur le 4ième degré) est obligatoire dans le <a href="bayati.php">Maqam Bayati</a>. Dans la musique folklorique de la région, c'est pourtant la variante la plus commune du Maqam Bayati, avec sa gamme commençant sur le <a href="../jins/bayati.php">Jins Bayati</a> de base sur la tonique.
                     </p>
                     <p>Explorez d'autres maqams dans la <a href="f_bayati.php">Famille du Maqam Bayati</a>.</p>
 
@@ -80,7 +80,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Bil-ladhi Askara</b>
                                     <span>Sabah Fakhri (Syrie)</span>
-                                    <span>Nagham al-Ams Vol. 12 (Bayati)</span>
+                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 12 (Bayati)</span>
                                 </div>
                             </label>
                         </div>
@@ -105,7 +105,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Khala al-‘Idhar</b>
-                                    <span>Khaled al-Hafez</span>
+                                    <span>Khaled al-Hafez (Syrie)</span>
                                 </div>
                             </label>
                         </div>

@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Tif Ya Dourri Bil Qanani</b>
                                     <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Liban)</span>
-                                    <span>Chef d'orchestre: Aïda Shalhoub Ziadé</span>
+                                    <span>Chef d'orchestre: Aïda Chalhoub Ziadé</span>
                                     <span>Musique de Omar al-Batch</span>
                                     <span><img src="/img/cd.png"> Orientalia: Mouachah et Chansons</span>
                                 </div>

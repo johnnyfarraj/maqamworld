@@ -65,7 +65,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="548,143,680,173" href="../jins/nikriz.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Maqam Saba is a very popular and common maqam in the Arabic repertory. Its scale starts with <a href="../jins/saba.php">Jins Saba</a> on the <em>tonic</em>, overlapped by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 3<sup>rd</sup> degree, followed by either <a href="../jins/ajam.php">Jins ‘Ajam</a> or <a href="../jins/nikriz.php">Jins Nikriz</a> on the 6<sup>th</sup> degree. </p>
+                    <p>Le Maqam Saba est un maqam très commun et très populaire dans le répertoire de la musique arabe. Sa gamme commence avec le <a href="../jins/saba.php">Jins Saba</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Jins Hijaz</a> sur le 3ième degré, et finalement du <a href="../jins/ajam.php">Jins ‘Ajam</a> ou du <a href="../jins/nikriz.php">Jins Nikriz</a> sur le 6ième degré.</p>
 
                     <p>Maqam Saba ne fait pas partie d'une famille de maqams.</p>
 
@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Doulab, Taqsim au Nay et Layai en Maqam Saba</b>
-                                    <span>Sabri al-Moudallal</span>
+                                    <span>L'ensemble de Sabri al-Moudallal (Syrie)</span>
                                 </div>
                             </label>
                         </div>
@@ -131,7 +131,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Ghouddi Joufounik</b>
-                                    <span>Khaled al-Hafez</span>
+                                    <span>Khaled al-Hafez (Syrie)</span>
                                 </div>
                             </label>
                         </div>
@@ -142,7 +142,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qadd Ya m-As‘adek Sabahiyya</b>
+                                    <b>Qadd Ya m-as‘ad el-Sabahiyya</b>
                                     <span>Sabah Fakhri (Syrie)</span>
                                     <span>(chanson traditionnelle)</span>
                                 </div>

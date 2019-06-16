@@ -59,7 +59,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="137,5,263,36" href="../jins/ajam.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="425,5,544,36" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
 					</map>
-                    <p>Maqam Chaouq Afza is the most common variant of <a href="ajam.php">Maqam ‘Ajam</a>. Its scale starts with the root <a href="../jins/ajam.php">Jins ‘Ajam</a> on the <em>tonic</em>, while <a href="../jins/hijaz.php">Jins Hijaz</a> on the 5<sup>th</sup> degree is its distinguishing characteristic, as well as a frequent <a href="../jins/saba_dalanshin.php">Jins Saba Dalanchine</a> modulation on the 3<sup>rd</sup>/5<sup>th</sup> degrees.</p>
+                    <p>Le Maqam Chaouq Afza est la version la plus commune du <a href="ajam.php">Maqam ‘Ajam</a>. Sa gamme commence avec le jins de base <a href="../jins/ajam.php">‘Ajam</a>sur la tonique. Le fait qu'il ait le <a href="../jins/hijaz.php">Jins Hijaz</a> sur le 5ième degré est ce qui le distingue du <a href="ajam.php">Maqam ‘Ajam</a>, en plus du fait de fréquemment moduler vers le <a href="../jins/saba_dalanshin.php">Jins Saba Dalanchine</a> sur le 3ième/5ième degré.</p>
 
                     <p>Explorez d'autres maqams dans la <a href="f_ajam.php">Famille du Maqam ‘Ajam</a>.</p>
 
@@ -74,7 +74,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Lissa Fakir (1960)</b>
+                                    <b>Lissa Faker (1960)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Riyad al-Soumbati</span>
                                 </div>
@@ -87,7 +87,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>‘Ala Allah T‘oud (1970)</b>
+                                    <b>‘Ala Allah Téoud (1970)</b>
                                     <span>Wadih al-Safi (Liban)</span>
                                     <span>Musique de Farid al-Atrache</span>
                                 </div>
@@ -101,7 +101,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Longa ‘Ajam</b>
-                                    <span>Musique de Abdou Dagher</span>
+                                    <span>Musique de Abdou Dagher (Égypte)</span>
                                     <span><img src="/img/cd.png"> Malik al-Taqasim</span>
                                 </div>
                             </label>

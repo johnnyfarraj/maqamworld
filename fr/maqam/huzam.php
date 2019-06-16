@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Mouachah Ayyouha al-Saqi</b>
                                     <span>Sabah Fakhri (Syrie)</span>
                                     <span>Musique de Majdi al-‘Aqili</span>
-                                    <span>Nagham Al-Ams Vol. 13 Houzam</span>
+                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 13 Houzam</span>
                                 </div>
                             </label>
                         </div>

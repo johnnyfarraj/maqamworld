@@ -29,7 +29,7 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Mousta‘ar</h1>
+                        <h1>Maqam Mousta‘ar (ou Moustaar)</h1>
                         <h3>Membre de la <a href="f_sikah.php">Famille du Maqam Sikah</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="488,5,597,34" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
                       
 					</map>
-                    <p>Maqam Mousta‘ar is extremely rare as an independent maqam, but more common as a jins, or as a partial sayr within <a href="huzam.php">Maqam Houzam</a> and <a href="sikah.php">Maqam Sikah</a>. Its scale starts with <a href="../jins/mustaar.php">Jins Mousta‘ar</a> on the <em>tonic</em>, followed by <a href="../jins/nahawand.php">Jins Nahawand</a> on the 3<sup>rd</sup> degree, and <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree.
+                    <p>Le Maqam Mousta‘ar est un maqam très rare en tant que maqam indépendant. Il est plus commun est tant que jins ou comme sayr utilisé à l'intérieur du <a href="huzam.php">Maqam Houzam</a> et du <a href="sikah.php">Maqam Sikah</a>. Sa gamme commence avec le Jins de base <a href="../jins/mustaar.php">Mousta‘ar</a> sur la tonique (Mi<i class="icon-halfflat"></i>), suivi du <a href="../jins/nahawand.php">Jins Nahawand</a> sur le 3ième degré,  et finalement du <a href="../jins/rast.php">Jins Rast</a> sur le 6ième degré.
                     </p>
                     <p>Explorez d'autres maqams dans la <a href="f_sikah.php">Famille du Maqam Sikah</a>.</p>
 
@@ -92,7 +92,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Haramouha Minni</b>
-                                    <span>Fathiyya Ahmad</span>
+                                    <span>Fathiyya Ahmad (Égypte)</span>
                                     <span>Musique de Mouhammad al-Qasabgi</span>
                                 </div>
                             </label>

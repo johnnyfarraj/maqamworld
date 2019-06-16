@@ -109,7 +109,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Doulab en Maqam Saba</b>
-                                    <span>Sabri al-Moudallal</span>
+                                    <span>Sabri al-Moudallal (Syrie)</span>
                                 </div>
                             </label>
                         </div>
@@ -121,7 +121,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Layali en Maqam Saba</b>
-                                    <span>Sabri al-Moudallal</span>
+                                    <span>Sabri al-Moudallal (Syrie)</span>
                                 </div>
                             </label>
                         </div>

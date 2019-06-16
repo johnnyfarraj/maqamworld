@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Badat Min al-Khidri (khana)</b>
-                                    <span>Louis Hage and Aida Chalhoub</span>
+                                    <span>Louis Hage and Aïda Chalhoub Ziadé</span>
                                 </div>
                             </label>
                         </div>
