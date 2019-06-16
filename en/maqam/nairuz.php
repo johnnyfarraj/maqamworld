@@ -67,7 +67,7 @@ include($ROOT . 'inc/head.php');
 
 					</map>
                     <p>Maqam Nairuz starts with the root <a href="../jins/rast.php">Jins Rast</a> on the <em>tonic</em>, followed by <a href="../jins/bayati.php">Jins Bayati</a> on the 5<sup>th</sup> degree. </p>
-                    <p>Maqam Nairuz is quite rare by itself, but it is prominent as a sayr within <a href="suznak.php">Maqam Suznak</a>/<a href="rast.php">Maqam Rast</a> – because of the affinity between <a href="../jins/bayati.php">Jins Bayati</a> and <a href="../jins/hijaz.php">Jins Hijaz</a> on the 5<sup>th</sup> scale degree. Its scale
+                    <p>Maqam Nairuz is quite rare by itself, but it is prominent as a sayr within <a href="suznak.php">Maqam Suznak</a>/<a href="rast.php">Maqam Rast</a> – because of the affinity between <a href="../jins/bayati.php">Jins Bayati</a> and <a href="../jins/hijaz.php">Jins Hijaz</a> on the 5<sup>th</sup> scale degree.
                     </p>
                     <p><strong>Maqam Yakah</strong> is an archaic version of Maqam Nairuz, based on note G3 in the Arabic archaic 24-tone scale (named “Yakah”) rather than note C4.</p>
 
