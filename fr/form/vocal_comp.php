@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/qadd.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Qadd</a>
                     </div>
-                    <p> The Qadd (plural <em>qoudoud</em>) is a light and simple traditional song that flourished in Aleppo, Syrie. <em>Qudud</em> are usually performed at the end of a wasla, after heavier pieces like adwar, qasa'id or muwashahat. Qudud lyrics are in the colloquial Aleppan (or sometimes Egyptian) dialects and are very accessible, down to earth and easy to memorize.
+                    <p> Le Qadd (<em>qoudoud</em> au pluriel) est une chanson traditionnelle simple et légère qui est apparue à Alep (Syrie). Les <em>qoudoud</em> sont généralement joués à la fin d'une wasla, après des pièces plus lourdes comme l'adwar, les qasa'id ou les muwashahat. Les paroles des <em>qoudoud</em> sont en dialecte aleppin (ou des fois en dialecte égyptien) et sont très faciles d'accès, terre à terre et facile à mémoriser.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=zX7gJKlDDyY">
