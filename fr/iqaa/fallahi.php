@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/fallahi.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Fallahi is a fast-paced Egyptian iqa‘ suitable for folk music. Although it might resemble <a href="maqsum.php">Maqsoum</a> played at double speed, it has a very different feel as Fallahi flows very smoothly without a big contrast (in accents) between <em>dum</em> and <em>tak</em> beats.</p>
+                    <p>Le Iqa‘ Fallahi est un <em>iqa‘</em> égyptien rapide qui fonctionne bien pour la musique folklorique. Même s'il ressemble à un <a href="maqsum.php">Maqsoum</a> joué deux fois plus vite, il a un ethos très différent du fait qu'il n'y a pas de contraste très grand entre les accents des <em>doums</em> et des <em>taks</em>.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -67,7 +68,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Hizz Ya Houbb</b>
+                                    <b>Hizz Ya Hobb</b>
                                     <span>Interprétation de Ahmad Adaweya</span>
                                     <span>Musique de Hassan Abou el-Sou‘oud</span>
                                 </div>
@@ -82,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Salametha Oummou Hassan</b>
                                     <span>Interprétation de Ahmad Adaweya</span>
-                                    <span>Musique de Faruq Salamah</span>
+                                    <span>Musique de Farouq Salamah</span>
                                 </div>
                             </label>
                         </div>

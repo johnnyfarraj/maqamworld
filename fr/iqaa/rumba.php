@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Roumba";
-$page_description = "Iqa‘ Roumba";
+$page_title = "Iqa‘ Rumba";
+$page_description = "Iqa‘ Rumba";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, rumba, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "fr";
 
@@ -29,20 +29,21 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Roumba 4/4</h1>
+                        <h1>Iqa‘ Rumba 4/4</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/rumba.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Roumba</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/rumba.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Rumba</a>
                     </div>
 
                     <div class="notation">
                         <img src="/note/iqaa/rumba.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Roumba is an Arabic adaptation of the Latin American dance rhythm by the same name. It became fashionable starting from the 1930s and was used to add a litte foreign flavor to Arabic arrangements.</p>
+                    <p>Iqa‘ Rumba est une adaptation arabe du rythme de dance de l'Amérique du Sud du même nom. Il est devenu à la mode à partir des années 1930 et a été ajouté de manière à emmener une couleur étrangère aux arrangements arabes.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -132,7 +133,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Shu‘uri Nahiyetak (1981)</b>
+                                    <b>Shou‘ouri Nahiyetak (1981)</b>
                                     <span>Warda (France/Algerie)</span>
                                     <span>Musique de Sayyed Makkawi</span>
                                 </div>

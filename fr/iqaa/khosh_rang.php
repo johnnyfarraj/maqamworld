@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Khoch Rangue 17/8</h1>
-                        <h3>(also spelled Khush Rank)</h3>
+                        <h3>(aussi écrit Khush Rank)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <div class="clearfix"></div>
@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/khosh_rang.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Khoch Rangue (also spelled Khush Rank) is a very rare <em>iqa‘</em> that is only used in one known <a href="../form/vocal_comp.php#muwashah">Mouachah</a> and a few rare modern compositions.</p>
+                    <p>Le Iqa‘ Khoch Rangue (aussi écrit Khush Rank) est un <em>iqa‘</em> très rare et est utilisé dans un seul <a href="../form/vocal_comp.php#muwashah">Mouachah</a> connu aussi bien que plus de quelques compositions modernes.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/samai.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Sama‘i</a>
                     </div>
                     <p>
-                        Le Sama‘i est une forme instrumentale composée qui consiste en quatre <em>khana</em>-s, chacune suivie du même <em>taslim</em>. La structure d'un Sama‘i est K1, T, K2, T, K3, T, K4, T. Chaque section est composée dans le <a href="../iqaa/samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a>, sauf la quatrième khana, qui est généralement composé dans un cycle rythmique asymétrique tel que le <a href="../iqaa/samai_saraband.php">Iqa‘ Sama‘i Saraband</a> ou le <a href="../iqaa/samai_darij.php">Iqa‘ Sama‘i Darej</a>.
+                        Le Sama‘i est une forme instrumentale composée qui consiste en quatre <em>khana</em>-s, chacune suivie du même <em>taslim</em>. La structure d'un Sama‘i est K1, T, K2, T, K3, T, K4, T. Chaque section est composée dans le <a href="../iqaa/samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a>, sauf la quatrième khana, qui est généralement composé dans un cycle rythmique asymétrique tel que le <a href="../iqaa/samai_saraband.php">Iqa‘ Sama‘i Sarabande</a> ou le <a href="../iqaa/samai_darij.php">Iqa‘ Sama‘i Darej</a>.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=5s1KylUC9_Q">

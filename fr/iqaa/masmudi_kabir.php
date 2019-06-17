@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/masmudi_kabir.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Masmoudi Kabir (or Masmoudi, for short) is one of the most popular rhythms in the Tarab repertoire of the twentieth century. The word "kabir" means great/large in Arabic, to distinguish it from <a href="baladi.php">Masmoudi Saghir</a> (small Masmoudi, more commonly called Baladi.) </p>
+                    <p>Le Iqa‘ Masmoudi Kabir (or Masmoudi, tour court) est un des <em>iqa‘at</em> les plus populaires du répertoire du <em>tarab</em> du 20<sup>ième</sup> siècle. Le mot 'kabir' veut dire 'grand/large' en arabe, pour le distinguer du <a href="baladi.php">Masmoudi Saghir</a> (petit Masmoudi, plus généralement appelé <strong>Baladi</strong>).
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -57,7 +58,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Bint el-Balad (1951)</b>
                                     <span>Composition Instrumentale</span>
-                                    <span>Mouhammad Abdel Wahab</span>
+                                    <span>Mouhammad Abdel Wahab (Égypte)</span>
                                 </div>
                             </label>
                         </div>
@@ -93,7 +94,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ya Fatin al-Ghuzlan</b>
+                                    <b>Mouachah Ya Fatin al-Ghizlan</b>
                                     <span>Ensemble Al-Tourath (Syrie)</span>
                                     <span>Musique de Omar al-Batch</span>
                                 </div>

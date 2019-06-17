@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/zaffa.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Zaffa is named after a wedding procession involving a loud and diverse group of precussion instruments. Aside from weddings, it is a possible modulation from slowed down versions of 4/4 <em>iqa‘at</em> like <a href="baladi.php">Baladi</a> and <a href="maqsum.php">Maqsoum</a>.</p>
+                    <p>Iqa‘ Zaffa est nommé en fonction d'une procession de mariage qui comprend un groupe de différentes percussions jouant très fort. En plus de sa fonction pour les mariages, il peut être utilisé pour alterner avec des versions très lentes de <em>iqa‘at</em> en 4/4 tels que le <a href="baladi.php">Baladi</a> et le <a href="maqsum.php">Maqsoum</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -55,7 +55,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Duqqu el-Mazahir (1952)</b>
+                                    <b>Douqqou el-Mazaher (1952)</b>
                                     <span>Interprétation et Musique de Farid al-Atrache</span>
                                 </div>
                             </label>
@@ -67,7 +67,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Alf Leila w Leila (1969)</b>
+                                    <b>Alf Leila wi Leila (1969)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Baligh Hamdi</span>
                                 </div>
@@ -80,7 +80,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qadd Ah Ya Hilu</b>
+                                    <b>Qadd Ah Ya Hilou</b>
                                     <span>Mouhammad Khayri (Syrie)</span>
                                 </div>
                             </label>
@@ -108,7 +108,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Hann el-Hadid (1974)</b>
                                     <span>Joseph Saqr</span>
                                     <span>Musique de Ziad Rahbani</span>
-                                    <span>From the musical Nazl el-Surur</span>
+                                    <span>de l'opérette Nazl el-Sourour</span>
                                 </div>
                             </label>
                         </div>

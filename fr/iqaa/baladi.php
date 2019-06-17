@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Baladi 4/4</h1>
-                        <h3>(aussi appelé Masmoudi Saghir)</h3>
+                        <h3>(aussi appelé <strong>Masmoudi Saghir</strong>)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <div class="clearfix"></div>

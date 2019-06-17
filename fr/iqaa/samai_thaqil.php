@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/samai_thaqil.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Sama‘i Thaqil (aussi appelé Sama‘i, for short) is a very popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Mouachah</a> vocal genre, as well as the principal iqa‘ used in the <a href="../form/ottoman.php#samai">Sama‘i</a> Turkish/Ottoman instrumental form. </p>
+                    <p>Le Iqa‘ Sama‘i Thaqil (aussi appelé <strong>Sama‘i</strong>, tout court) est un <em>iqa‘</em> très populaire dans le genre vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a>, et est aussi le principal <em>iqa‘</em> utilisé pour la forme instrumentale turc/ottomane du <a href="../form/ottoman.php#samai">Sama‘i</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -93,7 +93,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Laha Badru al-Timm</b>
-                                    <span>Ensemble Abdel Halim Noueirah</span>
+                                    <span>Ensemble Abdel Halim Noueirah (Égypte)</span>
                                     <span>Musique de Cheikh Mahmoud Soubh</span>
                                 </div>
                             </label>

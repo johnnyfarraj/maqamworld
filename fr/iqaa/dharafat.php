@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Dharafat 13/8</h1>
-                        <h3>(also spelled Zarafat)</h3>
+                        <h3>(aussi écrit Zarafat)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <div class="clearfix"></div>
@@ -43,7 +43,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/dharafat.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Dharafat (also spelled Zarafat) is mostly used with the <a href="../form/vocal_comp.php#muwashah">Mouachah</a> vocal genre. Using this <em>iqa‘</em> outside <a href="../form/vocal_comp.php#muwashah">muwashahat</a> (e.g. in a popular song) has the effect of adding a classical color by evoking the former repertoire.</p>
+                    <p>Le Iqa‘ Dharafat (aussi écrit Zarafat) est un <em>iqa‘</em> surtout utilisé pour le genre vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a>. Si il est utilisé à l'extérieur de ce genre (par exemple dans une chanson populaire), cela donne l'effet d'ajouter une couleur classique en évoquant ce répertoire.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -98,7 +99,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>il-Houbbi Koullo (1971)</b>
+                                    <b>El-Hobbi Koullo (1971)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Baligh Hamdi</span>
                                 </div>

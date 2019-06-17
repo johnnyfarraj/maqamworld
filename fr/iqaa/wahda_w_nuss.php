@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/wahda_w_nuss.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Wahda wi Nouss (meaning "one and a half" in Arabic) is a syncopated and version of <a href="maqsum.php">Iqa‘ Maqsoum</a> with a first <em>tak</em> delayed by half of an an eighth note. It is very popular in the Tarab genre of the mid-twentieth century.</p>
+                    <p>Le Iqa‘ Wahda wi Nouss (son nom veut dire 'un et demi' en arabe) est une version syncopée du <a href="maqsum.php">Iqa‘ Maqsoum</a> comportant un premier <em>tak</em> en retard d'une croche et demi. Il est très populaire dans genre Tarab de la moitié du 20<sup>ième</sup> siècle.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

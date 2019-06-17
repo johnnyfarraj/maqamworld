@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Katakoufti 4/4</h1>
-                        <h3>(aussi appelé Nawari)</h3>
+                        <h3>(aussi appelé <strong>Nawari</strong>)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <div class="clearfix"></div>
@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/katakufti.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Katakoufti (aussi appelé Nawari) is variation on <a href="saidi.php">Iqa‘ Sa‘idi</a> and <a href="baladi.php">Baladi</a> primarily used in Levantine folk music and Dabke line dances.</p>
+                    <p>Le Iqa‘ Katakoufti (aussi appelé Nawari) est une variation du <a href="saidi.php">Iqa‘ Sa‘idi</a> et <a href="baladi.php">Iqa‘ Baladi</a> qui est joué surtout dans la musique folklorique du Levant et dans les danses en ligne <em>Dabké</em>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -68,7 +68,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dal‘ona (traditional)</b>
+                                    <b>Dal‘ona</b>
+                                    <span>chanson folklorique</span>
                                     <span>(interprète inconnu)</span>
                                 </div>
                             </label>
@@ -81,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Initiation Of Ecstasy</b>
-                                    <span>Ensemble El-Founoun</span>
+                                    <span>Ensemble El-Founoun (Palestine)</span>
                                     <span><img src="/img/cd.png"> Zaghareed: Music From The Palestinian Holy Land</span>
                                 </div>
                             </label>

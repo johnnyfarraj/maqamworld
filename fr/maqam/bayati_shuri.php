@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>Maqam Bayati Chouri is a variation of <a href="bayati.php">Maqam Bayati</a> with a lowered 5<sup>th</sup> degree. It starts with the root <a href="../jins/bayati.php">Jins Bayati</a> on the <em>tonic</em> followed by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 4<sup>th</sup> degree.</p>
                     
-                    <p>C'est un maqam très populaire, surtout pour les <a href="../form/vocal_comp.php">compositions vocales</a> dans les genres Muwashahat et Adwar.</p>
+                    <p>C'est un maqam très populaire, surtout pour les <a href="../form/vocal_comp.php">compositions vocales</a> dans les genres Mouachahat et Adwar.</p>
                     
                     <p>Explorez d'autres maqams dans la <a href="f_bayati.php">Famille du Maqam Bayati</a>.</p>
 

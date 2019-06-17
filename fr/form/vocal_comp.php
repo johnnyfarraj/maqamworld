@@ -409,8 +409,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Dawr ‘Ishna w Shoufna</b>
-                                    <span> Une wasla en <a href="../maqam/rast.php">Maqam Rast</a> par le chanteur égyptien 'Abbass al-Bleidi comprenant un <a href="improv.php#taqsim">Taqsim</a> au <a href="../instr/oud.php">oud</a> par George Michel, une partie du <a href="ottoman.php#samai">Sama‘i</a> Rast de Tatyos Effendi, un taqsim au <a href="../instr/violin.php">Violon</a> par Mouhammad al-'Aqqad, le Mouachah Atani Zamani, un taqsim au <a href="../instr/qanun.php">qanoun</a> par Fihmi 'Awad, un Layali et finalement, le <strong>Dawr ‘Ishna w Shoufna</strong> (composé par Mouhammad 'Outhman).</span>
+                                    <b>Dawr ‘Ishna wi Shoufna</b>
+                                    <span> Une wasla en <a href="../maqam/rast.php">Maqam Rast</a> par le chanteur égyptien 'Abbass al-Bleidi comprenant un <a href="improv.php#taqsim">Taqsim</a> au <a href="../instr/oud.php">oud</a> par George Michel, une partie du <a href="ottoman.php#samai">Sama‘i</a> Rast de Tatyos Effendi, un taqsim au <a href="../instr/violin.php">Violon</a> par Mouhammad al-'Aqqad, le Mouachah Atani Zamani, un taqsim au <a href="../instr/qanun.php">qanoun</a> par Fihmi 'Awad, un Layali et finalement, le <strong>Dawr ‘Ishna wi Shoufna</strong> (composé par Mouhammad 'Outhman).</span>
                                 </div>
                             </label>
                         </div>

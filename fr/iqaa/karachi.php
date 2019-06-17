@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Karachi";
-$page_description = "Iqa‘ Karachi";
+$page_title = "Iqa‘ Karatchi";
+$page_description = "Iqa‘ Karatchi";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, karachi, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "fr";
 
@@ -29,20 +29,20 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Karachi 2/4</h1>
+                        <h1>Iqa‘ Karatchi 2/4</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/karachi.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Karachi</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/karachi.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Karatchi</a>
                     </div>
 
                     <div class="notation">
                         <img src="/note/iqaa/karachi.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Karachi is a member of the 2/4 <em>iqa‘at</em> family that has a lazy feel and can be played at relatively slow tempos. Although it modulates often to and from <a href="malfuf.php">Malfouf</a>, Karachi does not share its rapid and urgent feel.
+                    <p>Le Iqa‘ Karatchi est un <em>iqa‘a</em> de la famille des <em>iqa‘at</em> en 2/4 qui possède un ethos paresseux et qui peut être joué très lentement. Même s'il alterne souvent avec le <a href="malfuf.php">Malfouf</a>, le Karatchi ne partage pas son caractère de rapidité et d'urgence.
 					</p>
 
                     <div class="player-area">
@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Qadd Dhatoul-Jamal Oukhtou al-Hilal</b>
+                                    <b>Qadd Dhatoul-Jamal Oukhtoul-Hilal</b>
                                     <span>Ensemble Al-Tourath (Syrie)</span>
                                     <span><img src="/img/cd.png"> Hermana de la Luna - Rast</span>
                                 </div>
@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Siret el-Houbb (1964)</b>
+                                    <b>Siret el-Hobb (1964)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Baligh Hamdi</span>
                                 </div>

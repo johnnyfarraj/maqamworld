@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/nawakht.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Nawakht is a very popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Mouachah</a> repertoire, and tends to be played at mellow speed.</p>
+                    <p>Iqa‘ Nawakht est un <em>iqa‘</em> très populaire du répertoire vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a> et a tendance à être joué de façon lente et douce.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -56,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Mouachah Ya Hilalan</b>
-                                    <span>Ensemble Abdel Halim Noueirah</span>
+                                    <span>Ensemble Abdel Halim Noueirah (Égypte)</span>
                                 </div>
                             </label>
                         </div>
@@ -67,8 +68,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Badru Timmin Haza Husnan</b>
-                                    <span>Ensemble Abdel Halim Noueirah</span>
+                                    <b>Mouachah Badrou Timmin Haza Husnan</b>
+                                    <span>Ensemble Abdel Halim Noueirah (Égypte)</span>
                                 </div>
                             </label>
                         </div>
@@ -92,7 +93,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Hati Ya Habibi</b>
-                                    <span>Ensemble Abdel Halim Noueirah</span>
+                                    <span>Ensemble Abdel Halim Noueirah (Égypte)</span>
                                 </div>
                             </label>
                         </div>
@@ -103,7 +104,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ijmaou bil-Qourbi Chamli</b>
+                                    <b>Mouachah Ijma‘ou bil-Qourbi Chamli</b>
                                     <span>Sabah Fakhri (Syrie)</span>
                                 </div>
                             </label>

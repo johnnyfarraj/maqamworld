@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>La notation de l'<em>iqa‘</em> est faite pour jouer le rôle de squelette ou de prototype relativement à la manière de le jouer. En pratique, les percussionnistes ornementent sur l'<em>iqa‘</em> avec des coups additionnels: des <em>doums</em> et des <em>taks</em>, en plus de tous les autres sons que l'instrument est capable de produire. Cette ornementation dépend beaucoup du genre de musique, de l'arrangement esthétique voulu, de l'instrument utilisé, de la taille de la section rythmique et du style personnel du percussionniste.</p>
 
-                    <p>Les <em>iqa‘at</em> arabes viennent en beaucoup de chiffres indicateurs différents qui peuvent être pairs ou impairs. Les <em>iqa‘at</em> aux cycles courts (2/4, 3/4, 4/4, 6/4 et 8/4) sont surtout utilisés dans la musique folklorique, le genre <em>tarab</em> de la moitié du 20<sup>ième</sup> siècle et la musique contemporaine populaire. Les <em>iqa‘at</em> a cycles plus longs (7/8, 9/8, 10/8, jusqu'à 32/4) sont surtout utilisés dans le genre vocal  traditionnel des <a href="form/vocal_comp.php#muwashah">Mouwachahat</a>.</p>
+                    <p>Les <em>iqa‘at</em> arabes viennent en beaucoup de signatures métriques différentes qui peuvent être paires ou impaires. Les <em>iqa‘at</em> aux cycles courts (2/4, 3/4, 4/4, 6/4 et 8/4) sont surtout utilisés dans la musique folklorique, le genre <em>tarab</em> de la moitié du 20<sup>ième</sup> siècle et la musique contemporaine populaire. Les <em>iqa‘at</em> a cycles plus longs (7/8, 9/8, 10/8, jusqu'à 32/4) sont surtout utilisés dans le genre vocal  traditionnel des <a href="form/vocal_comp.php#muwashah">Mouwachahat</a>.</p>
 
                     <p>Vous pouvez commencer à explorer des exemples de <em>iqa‘at</em> arabes en utilisant l'<strong>Index des Iqa‘at</strong> (en ordre alphabétique) ou en utilisant le tableau ci-dessous (classé en ordre croissant selon le nombre de temps par mesure):
                     </p>
@@ -55,11 +55,11 @@ include($ROOT . 'inc/head.php');
                                     <li><a href="iqaa/ayyub.php">Ayyoub 2/4</a></li>
                                     <li><a href="iqaa/malfuf.php">Malfouf 2/4</a></li>
                                     <li><a href="iqaa/fox.php">Fox 2/4</a></li>
-                                    <li><a href="iqaa/karachi.php">Karachi 2/4</a></li>
+                                    <li><a href="iqaa/karachi.php">Karatchi 2/4</a></li>
                                     <li><a href="iqaa/fallahi.php">Fallahi 2/4</a></li>
                                     <li><a href="iqaa/wahda_saghira.php">Wahda Saghira 2/4</a></li>
                                     <li><a href="iqaa/samai_darij.php">Sama‘i Darej 3/4</a></li>
-                                    <li><a href="iqaa/samai_saraband.php">Sama‘i Saraband 3/8</a></li>
+                                    <li><a href="iqaa/samai_saraband.php">Sama‘i Sarabande 3/8</a></li>
                                 </ul>
                             </div>
                             <div class="col-sm-3">
@@ -69,9 +69,9 @@ include($ROOT . 'inc/head.php');
                                     <li><a href="iqaa/saidi.php">Sa‘idi 4/4</a></li>
                                     <li><a href="iqaa/wahda.php">Wahda 4/4</a></li>
                                     <li><a href="iqaa/wahda_w_nuss.php">Wahda wi Nouss 4/4</a></li>
-                                    <li><a href="iqaa/rumba.php">Roumba 4/4</a></li>
+                                    <li><a href="iqaa/rumba.php">Rumba 4/4</a></li>
                                     <li><a href="iqaa/zaffa.php">Zaffa 4/4</a></li>
-                                    <li><a href="iqaa/hachaa.php">Hacha‘ 4/4</a></li>
+                                    <li><a href="iqaa/hachaa.php">Hatcha‘ 4/4</a></li>
                                     <li><a href="iqaa/katakufti.php">Katakoufti 4/4</a></li>
                                 </ul>
                             </div>

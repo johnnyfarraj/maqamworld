@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Wahda Saghira 2/4</h1>
-                        <h3>(aussi appelé Wahda Basita)</h3>
+                        <h3>(aussi appelé <strong>Wahda Basita</strong>)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <div class="clearfix"></div>
@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/wahda_saghira.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Wahda Saghira is a simple 2/4 <em>iqa‘</em> used in both vocals and instrumental phrases. "Wahda" means one in Arabic, referring to the single <em>dum</em> per measure, while "saghira" means small. It is also known as Wahda Basita ("basita" is Arabic for simple).</p>
+                    <p>Le Iqa‘ Wahda Saghira est un <em>iqa‘</em> simple en 2/4 utilisé tant pour les phrases vocales qu'instrumentales. <em>Wahda</em> veut dire 'un' en arabe et réfère au seul <em>doum</em> de la mesure, tandios que <em>Saghira</em> veut dire 'petit'. Ce <em>iqa‘</em> est aussi connu sous le nom de <strong>Wahda Basita</strong> (<em>basita</em> veut dire 'simple' en arabe).</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qassida Mudnaka (1938)</b>
+                                    <b>Qassida Moudnaka (1938)</b>
                                     <span>Interprétation et Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>

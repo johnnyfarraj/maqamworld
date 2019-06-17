@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/maqsum.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Maqsoum is by far the most widely used <em>iqa‘</em> in Arabic music. It modulates to other 4/4 <em>iqa‘at</em> like <a href="baladi.php">Baladi</a> and <a href="wahda.php">Wahda</a>.</p>
+                    <p>Le Iqa‘ Maqsoum  est de loin le <em>iqa‘</em> le plus utilisé en musique arabe. Il peut alterner avec d'autres <em>iqa‘at</em> en 4/4 tels que le <a href="baladi.php">Baladi</a> et le <a href="wahda.php">Wahda</a>.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -55,7 +56,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>El-Alb Yi‘shaq Kulli Gamil (1961)</b>
+                                    <b>El-Alb Yi‘shaq Koulli Gamil (1961)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Riyad al-Soumbati</span>
                                 </div>
@@ -119,7 +120,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ana Bahibb el-Gedid</b>
+                                    <b>Ana Bahibb el-Guedid</b>
                                     <span>Interprétation et Musique de Ahmad Adaweya</span>
                                 </div>
                             </label>

@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Malfouf 2/4</h1>
-                        <h3>(aussi appelé Laff)</h3>
+                        <h3>(aussi appelé <strong>Laff</strong>)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <div class="clearfix"></div>
@@ -43,7 +43,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/malfuf.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Malfouf (aussi appelé <strong>Laff</strong>) is primarily used in folk and popular Arabic music. If feels short and cyclical, and often modulates to and ftom other 2/4 <em>iqa‘at</em> like <a href="karachi.php">Karachi</a> and <a href="fox.php">Fox</a>. Alternatively 2 consecutive measures of Malfouf could modulate to one measure of a 4/4 <em>iqa‘</em> like <a href="baladi.php">Baladi</a> ot <a href="maqsum.php">Maqsoum</a>, both in 4/4.</p>
+                    <p>Iqa‘ Malfouf (aussi appelé <strong>Laff</strong>) est un <em>iqa‘</em> utilisé surtout dans le folklore et la musique populaire arabe. Son ethos est court et cyclique et alterne souvent avec d'autres <em>iqa‘at</em> en 2/4 tels que le <a href="karachi.php">Karatchi</a> ou le <a href="fox.php">Fox</a>.  Il est aussi possible d'alterner deux mesures de Malfuf avec une mesure d'un <em>iqa‘</em> en 4/4 tels que le <a href="baladi.php">Baladi</a> et le <a href="maqsum.php">Maqsoum</a>.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -108,7 +109,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Toulbah (Proposition)</b>
-                                    <span>Ensemble El-Founoun</span>
+                                    <span>Ensemble El-Founoun (Palestine)</span>
                                     <span><img src="/img/cd.png"> Zaghareed: Music From The Palestinian Holy Land</span>
                                 </div>
                             </label>

@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/sudasi.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Soudassi (whose name means based on the number "six") is a very popular <em>iqa‘</em> to accompany folk line dances from Lebanon and Palestine, like the Dabke. It can modulate to 3 back-to-back measures of <a href="malfuf.php">Iqa‘ Malfouf</a>.</p>
+                    <p>Iqa‘ Soudassi (dont le nom veut dire 'basé sur le nombre 6') est un  <em>iqa‘</em> très populaire pour accompagner les danses en ligne folkloriques du Liban à la Palestine, telles que le <em>Dabké</em>. Il peut alterner avec 3 mesures de <a href="malfuf.php">Iqa‘ Malfouf</a> jouées une après l'autre.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -57,7 +58,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dal‘ona</b>
                                     <span>Fairouz (Liban)</span>
-                                    <span>(traditional Lebanese folk song)</span>
+                                    <span>(chanson folklorique Libanaise)</span>
                                 </div>
                             </label>
                         </div>
@@ -70,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Mahla Layali el-Hawa (1963)</b>
                                     <span>Fairouz (Liban)</span>
-                                    <span>Musique et lyrics by Les Frères Rahbani</span>
+                                    <span>Musique et paroles by Les Frères Rahbani</span>
                                 </div>
                             </label>
                         </div>
@@ -83,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Hajal Sannin (1965)</b>
                                     <span>Fairouz (Liban)</span>
-                                    <span>Musique et lyrics by Les Frères Rahbani</span>
+                                    <span>Musique et paroles par Les Frères Rahbani</span>
                                     <span>From the movie <strong>Bayya‘ el-Khawatim</strong></span>
                                 </div>
                             </label>

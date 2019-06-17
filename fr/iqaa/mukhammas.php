@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/mukhammas.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Moukhammas is mostly confined to the <a href="../form/vocal_comp.php#muwashah">Mouachah</a> repertoire. Unrelated to its time signature, the word "mukhammas" in Arabic means based on the number 5.</p>
+                    <p>Le Iqa‘ Moukhammas est un <em>iqa‘</em> en général confiné au répertoire vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a>. Le mot 'moukhammas' veut dire 'basé sur le chiffre 5' en arabe, ce qui fait que le sens du nom n'est pas lié au rythme en question.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Mouachah Badri Ader Kas al-Tila</b>
-                                    <span>Ensemble Abdel Halim Noueirah</span>
+                                    <span>Ensemble Abdel Halim Noueirah (Égypte)</span>
                                 </div>
                             </label>
                         </div>

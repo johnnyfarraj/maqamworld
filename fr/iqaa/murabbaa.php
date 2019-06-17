@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/murabbaa.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Mourabba‘ is mostly confined to the <a href="../form/vocal_comp.php#muwashah">Mouachah</a> repertoire. Unrelated to its time signature, the word <em>murabba‘</em> in Arabic means squared or based on the number 4.</p>
+                    <p>Le Iqa‘ Mourabba‘ est un <em>iqa‘</em>em> en général confiné au répertoire vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a>. Le mot <em>mourabba‘</em> veut dire 'carré ou basé sur le chiffre 4' en arabe, ce qui fait que le sens du nom n'est pas lié au rythme en question.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -56,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Mouachah Hayyar al-Afkar</b>
-                                    <span>Ensemble Abdel Halim Noueirah</span>
+                                    <span>Ensemble Abdel Halim Noueirah (Égypte)</span>
                                     <span>Musique de Mouhammad Outhman</span>
                                 </div>
                             </label>
@@ -69,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Hibbi Malik al-Milah</b>
-                                    <span>Ensemble Abdel Halim Noueirah</span>
+                                    <span>Ensemble Abdel Halim Noueirah (Égypte)</span>
                                 </div>
                             </label>
                         </div>
@@ -81,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Isqini al-Rah</b>
-                                    <span>Ensemble Abdel Halim Noueirah</span>
+                                    <span>Ensemble Abdel Halim Noueirah (Égypte)</span>
                                     <span>Musique de Mouhammad Outhman</span>
                                 </div>
                             </label>
@@ -94,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Jalla Man Qad Ansha Jamalak</b>
-                                    <span>Umar Sarmini and al-Kindi Ensemble</span>
+                                    <span>Omar Sarmini et l'ensemble Al-Kindi </span>
                                 </div>
                             </label>
                         </div>
@@ -106,7 +107,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Qum Bina Ya Nour ‘Ayni</b>
-                                    <span>Ensemble Abdel Halim Noueirah</span>
+                                    <span>Ensemble Abdel Halim Noueirah (Égypte)</span>
                                 </div>
                             </label>
                         </div>

@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/sittatu_ashar.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Sittatou ‘Achar Masri ("sittatu ‘ashar" means sixteen, "masri" means Egyptian) is a rare <em>iqa‘</em> mostly used in the <a href="../form/vocal_comp.php#muwashah">Mouachah</a> vocal genre. It spans 8 measures of 4/4, bringing its time signature to 32/4.</p>
+                    <p>Iqa‘ Sittatou ‘Achar Masri (<em>Sittatou ‘Achar</em> veut dire 'seize', <em>masri</em> veut dire 'égyptien') est un <em>iqa‘</em> rare utilisé surtout dans le genre vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a>. Il est composé de 8 mesures de 4/4, en faisant une signature métriques de 32/4.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

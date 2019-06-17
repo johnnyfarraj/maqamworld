@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/yuruk_semai.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Yuruk Semai is originally a Turkish usul. It is very popular in the <a href="../form/vocal_comp.php#muwashah">Mouachah</a> genre, and is alternatively called <strong>Yugrug</strong>. When it speeds up, it may modulate to <a href="samai_saraband.php">Iqa' Sama‘i Saraband in 3/8</a>.</p>
+                    <p>Le Iqa‘ Yuruk Semai est à l'origine un <em>usul</em> de musique turque. Il est très populaire dans le genre vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a> et est aussi appelé <strong>Yugrug</strong>. Quand il est accéléré, il peut se transformer en <a href="samai_darij.php">Iqa' Sama‘i Darej</a> en 3/4 ou en <a href="samai_saraband.php">Iqa' Sama‘i Sarabande</a> en 3/8.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>

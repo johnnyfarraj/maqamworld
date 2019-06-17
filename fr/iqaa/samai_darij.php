@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/samai_darij.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Sama‘i Darej (aussi appelé Darej, for short) is a general 3/4 <em>iqa‘</em> used both in vocal and instrumental genre.</p>
+                    <p>Le Iqa‘ Sama‘i Darej (aussi appelé <strong>Darej</strong>, tout court) est un <em>iqa‘</em> en 3/4 utilisé tant pour les genres vocaux qu'instrumentaux. Le Iqa‘ Sama‘i Darej est aussi le principal <em>iqa‘</em> utilisé pour la forme instrumentale du <a href="../form/instr_comp.php#darij">Darej</a>.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -56,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Mouachah Kallili Ya Souhbou</b>
-                                    <span>Ensemble Abdel Halim Noueirah</span>
+                                    <span>Ensemble Abdel Halim Noueirah (Égypte)</span>
                                     <span>Musique de Mouhammad Outhman</span>
                                 </div>
                             </label>
@@ -68,7 +69,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" checked>
                                 <div class="info">
-                                    <b>Mouachah Ya Ghusna Naqa</b>
+                                    <b>Mouachah Ya Ghousna Naqa</b>
                                     <span>Sabah Fakhri (Syrie)</span>
                                 </div>
                             </label>

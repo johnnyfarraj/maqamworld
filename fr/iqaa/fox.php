@@ -42,7 +42,10 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/fox.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Fox (probably derived from "Foxtrot") is a simple 2/4 <em>iqa‘</em> that is usually played without too much ornamentation over instrumental sections. This, and the fact it is often played at very fast tempos, gives it a swift and urgent feel. It is the main <em>iqa‘</em> used in the Turkish/Eastern European <a href="../form/ottoman.php#longa">Longa</a> Ottoman instrumental form. Fox can readily modulate to <a href="malfuf.php">Malfouf</a> and back. A very slow version of Fox (see the last 2 examples) could be notated as 4/4.</p>
+                    <p>Le Iqa‘ Fox (probablement dérivé du 'Foxtrot') est un <em>iqa‘</em> simple en 2/4 qui est généralement joué sans trop d'ornements sur des sections instrumentales. Ceci, plus le fait d'être souvent joué très vite, donnent un ethos de rapidité et d'urgence. 
+                    </p>
+                    <p>Le Iqa‘ Fox est le <em>iqa‘</em> principal pour la <a href="../form/ottoman.php#longa">forme ottomane Longa</a> turque/européenne de l'Est. Le Fox peut alterner avec le <a href="malfuf.php">Malfouf</a>. Une version très lente du Fox (voir les 2 derniers exemples) pourrait être notée en 4/4.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -57,7 +60,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Longa Farahfaza</b>
                                     <span>Salim Sahhab Orchestra</span>
-                                    <span>Musique de Riyad al-Soumbati</span>
+                                    <span>Musique de Riyad al-Soumbati (Égypte)</span>
                                 </div>
                             </label>
                         </div>
@@ -104,7 +107,7 @@ include($ROOT . 'inc/head.php');
 					<!-- divider -->
 					<br>
 					<div class="heading jins text-center">
-						<h3>Examples of the slower form of Iqa‘ Fox that can be notated in 4/4</h3>
+						<h3>Examples de la forme lente du Iqa‘ Fox notée en 4/4</h3>
 					</div>
 					<div class="clearfix"></div>
 					<br>
@@ -114,7 +117,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Dunya Ya Gharami (1938)</b>
+                                    <b>Ya Dounia Ya Gharami (1938)</b>
                                     <span>Interprétation et Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>

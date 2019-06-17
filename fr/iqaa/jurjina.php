@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/jurjina.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Jourjina is a widely used <em>iqa‘</em> in Iraq and Iran, as well as in the Turkish and the Kurdish repertoires, both in the folk and classical genres. While it is infrequently used in the Near Eastern repertoire, it is sometimes featured in Tunisian Malouf compositions.
+                    <p>Le Iqa‘ Jourjina est un <em>iqa‘</em> très utilisé en Iraq et en Iran, ainsi que dans le répertoire turc et kurde, tant au niveau du répertoire classique que folklorique. Même s'il est généralement absent du répertoire du Proche Orient, on le retrouve toutefois dans quelques compositions du Malouf tunisien.
                     </p>
 
                     <div class="player-area">
@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Ya Umm el-'Uyun el-Sud</b>
+                                    <b>Ya Oum el-‘Ouyoun el-Soud</b>
                                     <span>Nazem al-Ghazali (Irak)</span>
                                 </div>
                             </label>
@@ -68,8 +68,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ya Hulu al-Lama</b>
-                                    <span>Loutfi Bouchnaq</span>
+                                    <b>Mouachah Ya Houlou al-Lama</b>
+                                    <span>Loutfi Bouchnaq (Tunisie)</span>
                                 </div>
                             </label>
                         </div>
@@ -80,8 +80,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Adir Rahati</b>
-                                    <span>Tunisian Malouf</span>
+                                    <b>Mouachah Adir Rahati</b>
+                                    <span>(du Malouf Tunisien)</span>
                                 </div>
                             </label>
                         </div>
@@ -92,8 +92,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ma Kuntu Adri</b>
-                                    <span>Tunisian Malouf</span>
+                                    <b>Mouachah Ma Kountou Adri</b>
+                                    <span>(du Malouf Tunisien)</span>
                                 </div>
                             </label>
                         </div>

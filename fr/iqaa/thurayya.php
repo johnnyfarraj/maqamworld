@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Thourayya (Aqsaq Turki)";
-$page_description = "Iqa‘ Thourayya (Aqsaq Turki)";
+$page_title = "Iqa‘ Thourayya (Aqsaq Tourki)";
+$page_description = "Iqa‘ Thourayya (Aqsaq Tourki)";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, thurayya, aqsaq turki, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "fr";
 
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Thourayya 5/8</h1>
-                        <h3>(aussi appelé Aqsaq Turki)</h3>
+                        <h3>(aussi appelé <strong>Aqsaq Tourki</strong>)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <div class="clearfix"></div>
@@ -40,14 +40,15 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/aqsaq_turki.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Aqsaq Turki</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/aqsaq_turki.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Aqsaq Tourki</a>
                     </div>
 
                     <div class="notation">
                         <img src="/note/iqaa/thurayya.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Thourayya is alternatively called <strong>Aqsaq Turki</strong> (Turkish Aqsaq). It is a very rare <em>iqa‘</em> mostly used in the <a href="../form/vocal_comp.php#muwashah">Mouachah</a> vocal genre.</p>
+                    <p>Le Iqa‘ Thourayya (aussi appelé <strong>Aqsaq Tourki</strong>), est un <em>iqa‘</em> très rare et est surtout trouvé dans le genre vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a>.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -60,7 +61,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Fil-Roud Ana Shuft el-Gamil</b>
+                                    <b>Mouachah Fil-Roud Ana Shouft el-Gamil</b>
                                     <span>Sabah Fakhri (Syrie)</span>
                                     <span>Musique de Omar al-Batch</span>
                                 </div>

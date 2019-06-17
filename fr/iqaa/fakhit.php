@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/fakhit.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Fakhet is a relatively long <em>iqa‘</em> that spans 5 measures of 4/4, resulting in a 20/4 time signature. This <em>iqa‘</em> is rare outside the <a href="../form/vocal_comp.php#muwashah">Mouachah</a> genre.</p>
+                    <p>Le Iqa‘ Fakhet est un <em>iqa‘</em> relativement long qui est composé de 5 mesures de 4/4, ce qui lui donne une signature métrique 20/4. Ce <em>iqa‘</em> est rare à l'extérieur du genre vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a> genre.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>

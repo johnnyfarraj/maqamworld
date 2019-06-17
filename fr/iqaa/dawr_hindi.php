@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/dawr_hindi.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Dawr Hindi is a very popular <em>iqa‘</em> for the <a href="../form/vocal_comp.php#muwashah">Mouachah</a> vocal composed genre.</p>
+                    <p>Le Iqa‘ Dawr est un <em>iqa‘</em> très populaire pour le genre vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

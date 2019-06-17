@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Wahda Tawila 8/4</h1>
-                        <h1>(aussi appelé Wahda Sunbati)</h1>
+                        <h3>(aussi appelé <strong>Wahda Soumbati</strong>)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <div class="clearfix"></div>
@@ -40,14 +40,14 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/wahda_sunbati.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Wahda Sunbati</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/wahda_sunbati.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Wahda Soumbati</a>
                     </div>
 
                     <div class="notation">
                         <img src="/note/iqaa/wahda_tawila.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Wahda Tawila ("tawila" is Arabic for long), also known as <strong>Wahda Sunbati</strong>, is a stretched out version of <a href="wahda.php">Iqa‘ Wahda</a> over two measures. It is very popular in the vocal and instrumental music of the mid-twentieth century.</p>
+                    <p>Le Iqa‘ Wahda Tawila (<em>tawila</em> veut dire 'long' en arabe), aussi appelé <strong>Wahda Soumbati</strong>, est une version ralentie sur deux mesures du <a href="wahda.php">Iqa‘ Wahda</a>. Il est très populaire dans la musique vocale et instrumentale de la moitié du 20ième siècle.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Habibi Yis‘id Awqatu (1943)</b>
+                                    <b>Habibi Yis‘id Awqatou (1943)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Zakaria Ahmad</span>
                                 </div>
@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>il-Albi Yi‘shaq Kulli Gamil (1961)</b>
+                                    <b>El-Albi Yi‘shaq Koulli Gamil (1961)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Riyad al-Soumbati</span>
                                 </div>

@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/mudawwar.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Moudawwar is a popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Mouachah</a> repertoire. The word "mudawwar" in Arabic means round/circular.</p>
+                    <p>Le Iqa‘ Moudawwar est un <em>iqa‘</em> populaire dans le répertoire vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a>. Le mot 'moudawwar' veut dire 'rond/circulaire' en arabe.
+                    </p>
                     <!-- Many Moudawwar pieces start from the 11<sup>th</sup> beat (the last <em>tak</em>).  -->
 
                     <div class="player-area">
@@ -57,7 +58,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Mouachah Adhkourou al-Houbba</b>
-                                    <span>Ensemble Abdel Halim Noueirah</span>
+                                    <span>Ensemble Abdel Halim Noueirah (Égypte)</span>
                                     <span>Musique de Daoud Housni</span>
                                 </div>
                             </label>
@@ -70,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Fika Koullou Ma Ara Hassan</b>
-                                    <span>Ensemble Abdel Halim Noueirah</span>
+                                    <span>Ensemble Abdel Halim Noueirah (Égypte)</span>
                                 </div>
                             </label>
                         </div>
