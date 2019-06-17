@@ -43,7 +43,11 @@ include($ROOT . 'inc/head.php');
                     <h5>إيقاع يُورُك سَماعي (ويُسمّى ايضاً "يُقرُق" او "أُقرُق) هو اصلاً إيقاع (اصول) تركي.
                         وهو ايقاع شائع جداً في <a href="../form/vocal_comp.php#muwashah">قالب الموشّح</a> الغنائي.
                     </h5>
-                    <h5>يمكن ان ينتقل هذا الايقاع الى <a href="samai_saraband.php">سماعي سربند</a> عندما تزداد سرعته.
+                    <h5>يمكن ان ينتقل هذا الايقاع الى 
+                        <a href="samai_saraband.php">سماعي سربند</a> 
+                        او
+                        <a href="samai_darij.php">سماعي دارج</a> 
+                        عندما تزداد سرعته.
                     </h5>
                     
                     <div class="player-area">
