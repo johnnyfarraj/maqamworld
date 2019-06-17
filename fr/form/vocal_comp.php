@@ -120,7 +120,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Mouhammad Khayri - suite de Qoudoud</b>
-                                    <span>A la suite d'un <a href="improv.php#mawwal">Mawwal Baghdadie</a>, Mouhammad Khayri chante les Qoudoud <strong>Awwal ‘Ishrit Mahboubi</strong>, <strong>Zaman Zaman</strong> et <strong>Ah Ya Hilou</strong> en <a href="../maqam/bayati.php">Maqam Bayati</a>.</span>
+                                    <span>A la suite d'un <a href="improv.php#mawwal">Mawwal Baghdadien</a>, Mouhammad Khayri chante les Qoudoud <strong>Awwal ‘Ishrit Mahboubi</strong>, <strong>Zaman Zaman</strong> et <strong>Ah Ya Hilou</strong> en <a href="../maqam/bayati.php">Maqam Bayati</a>.</span>
                                 </div>
                             </label>
                         </div>
