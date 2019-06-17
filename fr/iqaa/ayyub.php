@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Ayyoub 2/4</h1>
-                        <h3>(also called Zar)</h3>
+                        <h3>(aussi appelé Zar)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <div class="clearfix"></div>
@@ -42,8 +42,8 @@ include($ROOT . 'inc/head.php');
                     <div class="notation">
                         <img src="/note/iqaa/ayyub.png" class="img-fluid">
                     </div>
-
-                    <p>Iqa‘ Ayyoub (also spelled Ayoub) is primarily used in Sufi music as well as in some folk music and <em>Raqs Sharqi</em> (Belly Dance). Ayyoub is sometimes called Zar in Egypt, after a folk healing ceremony led by women who play hand-held percussion instruments. Ayyoub’s feel is rapid, short and cyclical.</p>
+                    <p>Le Iqa‘ Ayyoub (aussi écrit 'Ayoub') est surtout utilisé en musique soufie, dans certaines musiques folkloriques et dans le <em>Raqs Sharqi</em> (la danse du ventre). Le Iqa‘ Ayyoub est des fois appelé <strong>Zar</strong> en Égypte, du nom d'une cérémonie folklorique de guérison dirigée par des femmes qui jouent des instruments de percussion à main. L'ethos de Ayyoub est rapide, court et cyclique.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>

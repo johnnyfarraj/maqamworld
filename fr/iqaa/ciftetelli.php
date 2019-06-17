@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Ciftetelli 8/4</h1>
-                        <h3>(can also be played in 4/4)</h3>
+                        <h3>(peut aussi être joué en 4/4)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <div class="clearfix"></div>
@@ -43,11 +43,12 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/ciftetelli.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Ciftetelli (pronounced "shaftatalli" in Arabic) is a Turkish usul that became popular in Arabic music.
-                    It is rarely used for composed melodies; instead, its primary use is to support <a href="../form/improv.php">improvisations</a> (both vocal and instrumental).</p>
+                    <p>Le Iqa‘ Ciftetelli (prononcé 'chaftatalli' en arabe) est un <em>usul</em> turc qui est devenu très populaire en musique arabe. Il est rarement utilisé pour les mélodies composées. Il est plutôt utilisé pour les <a href="../form/improv.php">improvisations</a> (vocales et instrumentales).
+                    </p>
 
-                    <p>Ciftetelli is usually slow paced and stretched out over two 4/4 measures (see notation), and can share the same tempo and pace as <a href="masmudi_kabir.php">Masmoudi Kabir</a>. Alternatively, it can be performed faster and lighter,
-                    in which case it can be notated in 4/4 and becomes very similar to <a href="wahda_w_nuss.php">Wahda w-Nouss</a> (plus or minus some ornamentation).</p>
+                    <p>Le Iqa‘ Ciftetelli est d'habitude joué lentement et est ralenti pour être ajusté à deux mesures de 4/4 (voire la notation); il peut partager le même tempo and pas que <a href="masmudi_kabir.php">Masmoudi Kabir</a>. 
+                    Alternativement, il peut être joué d'une manière plus rapide et legère, dans lequel cas il peut être noté en 4/4 et deviendra ainsi similaire au <a href="wahda_w_nuss.php">Wahda wi Nouss</a> (avec quelques ornements de plus ou de moins).
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -85,7 +86,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Layali Rast (from ‘Addini ya M‘addawi)</b>
+                                    <b>Layali Rast (de ‘Addini ya M‘addawi)</b>
                                     <span>Abbas al-Bleidi (Égypte)</span>
                                 </div>
                             </label>
@@ -145,7 +146,7 @@ include($ROOT . 'inc/head.php');
                     <!-- Need some kind of divider here -->
                     <br>
                     <div class="heading jins text-center">
-						<h3>Examples of the faster form of Iqa‘ Ciftetelli that can be notated in 4/4</h3>
+						<h3>Examples de la version rapide du Iqa‘ Ciftetelli qui peut être notée en 4/4</h3>
                     </div>
                     <div class="clearfix"></div>
 
@@ -191,7 +192,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim au Nay en <a href="../maqam/bayati.php">Maqqam Bayati</a></b>
+                                    <b>Taqsim au Nay en <a href="../maqam/bayati.php">Maqam Bayati</a></b>
                                     <span>Mouhammad Khayri (Syrie)</span>
                                 </div>
                             </label>

@@ -4,8 +4,8 @@
 include('../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Arabic Iqa‘at";
-$page_description = "Arabic Music Rhythms Iqaa Iqa";
+$page_title = "Les Iqa‘at";
+$page_description = "Cycles Rythmiques Arabes Iqaa Iqa";
 $page_keywords = "musique arabe, maqam, instruments, jins, iqa‘, iqaa, rythme, oud, qanoun, nay, quart de ton, tarab";
 $page_language = "fr";
 
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading text-center jins">
-                        <h1>Arabic Rhythmic Cycles</h1>
-                        <h3>The Iqa‘</h3>
+                        <h1>Les Cycles Rythmiques Arabes</h1>
+                        <h3>Les Iqa‘at</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <div class="clearfix"></div>
@@ -39,13 +39,14 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/iqaa.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Iqa‘/Iqa‘at</a>
                     </div>
 
-                    <p>Arabic music is composed over rhythmic cycles called <em>iqa‘at</em> (singular <em>iqa‘</em>), which are patterns of beats that repeat every measure. A composition can switch back and forth between many different iqa‘at. Each iqa‘ is defined using a prototypal measure and the two basic sounds: <em>dum</em> (bassy and sustained) and <em>tak</em> (dry and sharp).</p>
+                    <p>La musique arabe est composée sur des cycles rythmiques appelés <em>iqa‘at</em> (<em>iqa‘</em> au singulier) qui sont des patterns rythmiques qui se répètent à chaque mesure. Une composition peut alterner entre plusieurs <em>iqa‘at</em>. Chaque <em>iqa‘</em> est défini en utilisant une mesure prototypique et les deux sons de base: <em>doum</em> (bas et soutenu) et <em>tak</em> (haut et sec).</p>
 
-                    <p>The notated <em>iqa‘</em> is meant to be a skeleton or a prototype for how to perform it. In practice, percussionists ornament an <em>iqa‘</em> (flesh it out) with additional beats: <em>dum</em>-s, <em>tak</em>-s and whatever other sounds the instrument is able to produce. That ornamentation depends a lot on the genre of Arabic music, the desired arrangement aesthetic, the instrument itself, the size of the rhythm section, and on the percussionist’s personal style.</p>
+                    <p>La notation de l'<em>iqa‘</em> est faite pour jouer le rôle de squelette ou de prototype relativement à la manière de le jouer. En pratique, les percussionnistes ornementent sur l'<em>iqa‘</em> avec des coups additionnels: des <em>doums</em> et des <em>taks</em>, en plus de tous les autres sons que l'instrument est capable de produire. Cette ornementation dépend beaucoup du genre de musique, de l'arrangement esthétique voulu, de l'instrument utilisé, de la taille de la section rythmique et du style personnel du percussionniste.</p>
 
-                    <p>Arabic <em>iqa‘at</em> come is many different time signatures, which can be even as well as odd. The smaller time signatures (2/4, 3/4, 4/4, 6/4 and 8/4) are mostly used in folk music, the tarab genre of the mid-twentieth century and contemporary popular music. Longer <em>iqa‘at</em> (7/8, 9/8, 10/8 all the way to 32/4) are mostly used in the traditional Mouachahat vocal genre.</p>
+                    <p>Les <em>iqa‘at</em> arabes viennent en beaucoup de chiffres indicateurs différents qui peuvent être pairs ou impairs. Les <em>iqa‘at</em> aux cycles courts (2/4, 3/4, 4/4, 6/4 et 8/4) sont surtout utilisés dans la musique folklorique, le genre <em>tarab</em> de la moitié du 20<sup>ième</sup> siècle et la musique contemporaine populaire. Les <em>iqa‘at</em> a cycles plus longs (7/8, 9/8, 10/8, jusqu'à 32/4) sont surtout utilisés dans le genre vocal  traditionnel des <a href="form/vocal_comp.php#muwashah">Mouwachahat</a>.</p>
 
-                    <p>You can start exploring a sample of Arabic iqa‘at using the Index des Iqa‘at (sorted alphabetically) or using the table below (sorted by number of beats per measure):</p>
+                    <p>Vous pouvez commencer à explorer des exemples de <em>iqa‘at</em> arabes en utilisant l'<strong>Index des Iqa‘at</strong> (en ordre alphabétique) ou en utilisant le tableau ci-dessous (classé en ordre croissant selon le nombre de temps par mesure):
+                    </p>
 
                     <div class="page-list-area">
                         <div class="row">
@@ -57,8 +58,8 @@ include($ROOT . 'inc/head.php');
                                     <li><a href="iqaa/karachi.php">Karachi 2/4</a></li>
                                     <li><a href="iqaa/fallahi.php">Fallahi 2/4</a></li>
                                     <li><a href="iqaa/wahda_saghira.php">Wahda Saghira 2/4</a></li>
-                                    <li><a href="iqaa/samai_darij.php">Sama`i Darej 3/4</a></li>
-                                    <li><a href="iqaa/samai_saraband.php">Sama`i Saraband 3/8</a></li>
+                                    <li><a href="iqaa/samai_darij.php">Sama‘i Darej 3/4</a></li>
+                                    <li><a href="iqaa/samai_saraband.php">Sama‘i Saraband 3/8</a></li>
                                 </ul>
                             </div>
                             <div class="col-sm-3">
@@ -67,10 +68,10 @@ include($ROOT . 'inc/head.php');
                                     <li><a href="iqaa/baladi.php">Baladi 4/4</a></li>
                                     <li><a href="iqaa/saidi.php">Sa‘idi 4/4</a></li>
                                     <li><a href="iqaa/wahda.php">Wahda 4/4</a></li>
-                                    <li><a href="iqaa/wahda_w_nuss.php">Wahda w-Nouss 4/4</a></li>
+                                    <li><a href="iqaa/wahda_w_nuss.php">Wahda wi Nouss 4/4</a></li>
                                     <li><a href="iqaa/rumba.php">Roumba 4/4</a></li>
                                     <li><a href="iqaa/zaffa.php">Zaffa 4/4</a></li>
-                                    <li><a href="iqaa/hachaa.php">Hacha` 4/4</a></li>
+                                    <li><a href="iqaa/hachaa.php">Hacha‘ 4/4</a></li>
                                     <li><a href="iqaa/katakufti.php">Katakoufti 4/4</a></li>
                                 </ul>
                             </div>
@@ -90,9 +91,9 @@ include($ROOT . 'inc/head.php');
                             </div>
                             <div class="col-sm-3">
                                 <ul class="page-list">
-                                    <li><a href="iqaa/jurjina.php">Jurjina 10/8</a></li>
+                                    <li><a href="iqaa/jurjina.php">Jourjina 10/8</a></li>
                                     <li><a href="iqaa/samai_thaqil.php">Sama‘i Thaqil 10/8</a></li>
-                                    <li><a href="iqaa/awis.php">`Awis 11/8</a></li>
+                                    <li><a href="iqaa/awis.php">‘Awis 11/8</a></li>
                                     <li><a href="iqaa/mudawwar.php">Moudawwar 12/4</a></li>
                                     <li><a href="iqaa/dharafat.php">Dharafat 13/8</a></li>
                                     <li><a href="iqaa/murabbaa.php">Mourabba‘ 13/4</a></li>
@@ -100,7 +101,7 @@ include($ROOT . 'inc/head.php');
                                     <li><a href="iqaa/mukhammas.php">Moukhammas 16/4</a></li>
                                     <li><a href="iqaa/khosh_rang.php">Khoch Rangue 17/8</a></li>
                                     <li><a href="iqaa/fakhit.php">Fakhet 20/4</a></li>
-                                    <li><a href="iqaa/sittatu_ashar.php">Sittatu ‘Achar Masri 32/4</a></li>
+                                    <li><a href="iqaa/sittatu_ashar.php">Sittatou ‘Achar Masri 32/4</a></li>
                                 </ul>
                             </div>
                         </div>

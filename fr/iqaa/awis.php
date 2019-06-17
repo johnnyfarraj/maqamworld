@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/awis.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ ‘Awisse is mostly used with the <a href="../form/vocal_comp.php#muwashah">Mouachah</a> genre. Some ‘Awisse pieces start from the 3<sup>rd</sup> beat (the first <em>tak</em>), like for example "Mouachah Munyati Man Rumtu Qurbuhu". Meanwhile "Mouachah Hibbi Da‘ani Lil-Wisal" starts the melody on the 11<sup>th</sup> beat (the last <em>tak</em>).
+                    <p>Le Iqa‘ ‘Awisse est surtout utilisé dans le genre vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a>. Certains pièces dans ce <em>iqa‘</em> commencent sur le 3<sup>ième</sup> temps (le premier <em>tak</em>), par exemple le <strong>Mouachah Mouniati Man Roumtou Qourbouhou</strong>.  Le <strong>Mouachah ibbi Da‘ani Lil-Wisal</strong> commence quant à lui sur le 11<em>ième</em> temps (le dernier <em>tak</em>).
                     </p>
 
                     <div class="player-area">
@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Mouniati Man Roumtou Qourbouh</b>
+                                    <b>Mouachah Mouniati Man Roumtou Qourbouhou</b>
                                     <span>Sabah Fakhri (Syrie)</span>
                                     <span>Musique de Omar al-Batch</span>
                                     <span><img src="/img/cd.png"> Nagham Al-Ams Vol.9 - Rast</span>
@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Muniati Sidou-l-Milah</b>
+                                    <b>Mouachah Mouniati Sidou-l-Milah</b>
                                     <span>(chanté en 11/4)</span>
                                     <span>le chantre Mahmoud Farès</span>
                                     <span>Musique de Omar al-Batch</span>

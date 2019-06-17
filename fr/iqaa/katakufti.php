@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Katakoufti 4/4</h1>
-                        <h3>(also called Nawari)</h3>
+                        <h3>(aussi appelé Nawari)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <div class="clearfix"></div>
@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/katakufti.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Katakoufti (also called Nawari) is variation on <a href="saidi.php">Iqa‘ Sa‘idi</a> and <a href="baladi.php">Baladi</a> primarily used in Levantine folk music and Dabke line dances.</p>
+                    <p>Iqa‘ Katakoufti (aussi appelé Nawari) is variation on <a href="saidi.php">Iqa‘ Sa‘idi</a> and <a href="baladi.php">Baladi</a> primarily used in Levantine folk music and Dabke line dances.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

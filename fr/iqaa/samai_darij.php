@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/samai_darij.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Sama‘i Darej (also called Darej, for short) is a general 3/4 <em>iqa‘</em> used both in vocal and instrumental genre.</p>
+                    <p>Iqa‘ Sama‘i Darej (aussi appelé Darej, for short) is a general 3/4 <em>iqa‘</em> used both in vocal and instrumental genre.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

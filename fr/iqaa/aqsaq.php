@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/aqsaq_f1.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Aqsaq is very popular in the <a href="../form/vocal_comp.php#muwashah">Mouachah</a> vocal genre. It is 1 beat short of <a href="samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a> but sometimes it can be played immediately before or after a piece in that iqa‘ without interruption, during a Wasla.
+                    <p>Le Iqa‘ Aqsaq est très populaire dans le genre vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a>. Il est comme le <a href="samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a>, moins un temps, et peut être joué immédiatement avant ou après dans une <a href="../form/vocal_comp.php#wasla">Wasla</a>, sans interruption.
 					</p>
 
                     <div class="player-area">
@@ -106,13 +106,13 @@ include($ROOT . 'inc/head.php');
                     <!-- Need some kind of divider here to start the Form 2  examples -->
                     <br>
                     <div class="heading jins text-center">
-                        <h3>The second form of Iqa‘ Aqsaq</h3>
+                        <h3>La seconde forme de Iqa‘ Aqsaq</h3>
                     </div>
                     <div class="notation">
                         <img src="/note/iqaa/aqsaq_f2.png" class="img-fluid">
                     </div>
 					<br>
-                    <p>An alternate form of Aqsaq replaces the rest on the 6<sup>the</sup> beat with another <em>dum</em>, thereby creating a sequence of 2 consecutive <em>dum</em>-s that evokes <a href="samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a>.
+                    <p>Une forme alternative de Iqa‘ Aqsaq est possible, ou le soupir sur le 6<sup>ième</sup> temps est remplacé par un autre <em>doum</em>, créant ainsi une séquence de deux <em>doums</em> consécutifs qui évoquent le <a href="samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a>.
 					</p>
 					<br>
 

@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Wahda w-Nouss";
-$page_description = "Iqa‘ Wahda w-Nouss";
+$page_title = "Iqa‘ Wahda wi Nouss";
+$page_description = "Iqa‘ Wahda wi Nouss";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, wahda w-nuss, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "fr";
 
@@ -29,20 +29,20 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Wahda w-Nouss 4/4</h1>
+                        <h1>Iqa‘ Wahda wi Nouss 4/4</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/wahda_w_nuss.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Wahda w-Nouss</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/wahda_w_nuss.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Wahda wi Nouss</a>
                     </div>
 
                     <div class="notation">
                         <img src="/note/iqaa/wahda_w_nuss.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Wahda w-Nouss (meaning "one and a half" in Arabic) is a syncopated and version of <a href="maqsum.php">Iqa‘ Maqsoum</a> with a first <em>tak</em> delayed by half of an an eighth note. It is very popular in the Tarab genre of the mid-twentieth century.</p>
+                    <p>Iqa‘ Wahda wi Nouss (meaning "one and a half" in Arabic) is a syncopated and version of <a href="maqsum.php">Iqa‘ Maqsoum</a> with a first <em>tak</em> delayed by half of an an eighth note. It is very popular in the Tarab genre of the mid-twentieth century.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

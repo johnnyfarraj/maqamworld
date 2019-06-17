@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Bambi 8/4</h1>
-                        <h3>(also called Bamb)</h3>
+                        <h3>(aussi appelé Bamb)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <div class="clearfix"></div>
@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/bambi_f1.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Bambi is a stretched-out Egyptian 8/4 <em>iqa‘</em> that beautifully accompanies improvisations and sparse vocal sections. It is customary to start playing Bambi from the 7<sup>th</sup> beat (the <em>dum</em> before last), thereby emphacizing the 3 consecutive <em>dum</em>-s that start each cycle. An alternate form of Bambi actually starts the measure with the 3 consecutive <em>dum</em>-s.
+                    <p>Iqa‘ Bambi est un <em>iqa‘</em> égyptien en 8/4 ralenti qui accompagne très bien les improvisations et  les sections vocales improvisées. Il est commun de commencer à jouer le Bambi sur le 7<sup>ième</sup>sup> temps (l'avant-dernier <em>doum</em>), en mettant de cette manière l'emphase sur les 3 <em>doums</em> consécutifs qui commencent chaque cycle. Une autre version du Bambi commence la mesure avec les 3 <em>doums</em> consécutifs.
 					</p>
 
                     <div class="player-area">
@@ -92,7 +92,7 @@ include($ROOT . 'inc/head.php');
 
                     <!-- Need some kind of divider here to start the Form 2  examples -->
                     <div class="heading jins text-center">
-                        <h3>Examples of the second form of Iqa‘ Bambi</h3>
+                        <h3>Examples de la seconde forme du Iqa‘ Bambi</h3>
                     </div>
 
                     <div class="notation">
@@ -143,7 +143,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Layali Lubnan (1954)</b>
+                                    <b>Layali Loubnan (1954)</b>
                                     <span>Composition Instrumentale</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>

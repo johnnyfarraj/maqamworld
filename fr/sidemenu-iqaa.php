@@ -14,7 +14,7 @@
     <li><a href="/fr/iqaa/fallahi.php">Fallahi 2/4</a></li>
     <li><a href="/fr/iqaa/fox.php">Fox 2/4</a></li>
     <li><a href="/fr/iqaa/hachaa.php">Hacha‘ 4/4</a></li>
-    <li><a href="/fr/iqaa/jurjina.php">Jurjina 10/8</a></li>
+    <li><a href="/fr/iqaa/jurjina.php">Jourjina 10/8</a></li>
     <li><a href="/fr/iqaa/karachi.php">Karachi 2/4</a></li>
     <li><a href="/fr/iqaa/katakufti.php">Katakoufti 4/4</a></li>
     <li><a href="/fr/iqaa/khosh_rang.php">Khoch Rangue 17/8</a></li>
@@ -31,13 +31,13 @@
     <li><a href="/fr/iqaa/samai_darij.php">Sama‘i Darej 3/4</a></li>
     <li><a href="/fr/iqaa/samai_saraband.php">Sama‘i Saraband 3/8</a></li>
     <li><a href="/fr/iqaa/samai_thaqil.php">Sama‘i Thaqil 10/8</a></li>
-    <li><a href="/fr/iqaa/sittatu_ashar.php">Sittatu ‘Achar Masri 32/4</a></li>
+    <li><a href="/fr/iqaa/sittatu_ashar.php">Sittatou ‘Achar Masri 32/4</a></li>
     <li><a href="/fr/iqaa/sudasi.php">Soudassi 6/4</a></li>
     <li><a href="/fr/iqaa/thurayya.php">Thourayya 5/8</a></li>
     <li><a href="/fr/iqaa/wahda.php">Wahda 4/4</a></li>
     <li><a href="/fr/iqaa/wahda_saghira.php">Wahda Saghira 2/4</a></li>
     <li><a href="/fr/iqaa/wahda_tawila.php">Wahda Tawila 8/4</a></li>
-    <li><a href="/fr/iqaa/wahda_w_nuss.php">Wahda w-Nouss 4/4</a></li>
+    <li><a href="/fr/iqaa/wahda_w_nuss.php">Wahda wi Nouss 4/4</a></li>
     <li><a href="/fr/iqaa/yuruk_semai.php">Yuruk Semai 6/8</a></li>
     <li><a href="/fr/iqaa/zaffa.php">Zaffa 4/4</a></li>
 </ul>

@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Baladi 4/4</h1>
-                        <h3>(also called Masmoudi Saghir)</h3>
+                        <h3>(aussi appelé Masmoudi Saghir)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <div class="clearfix"></div>
@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/baladi.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Baladi is a very common <em>iqa‘</em> in the Near Eastern Arabic vocal repertoire. It is also called <strong>Masmoudi Saghir</strong>, "saghir" meaning little in Arabic, to distinguish it from <a href="masmudi_kabir.php">Masmoudi Kabir</a>, which spans two 4/4 measures instead of one. Baladi modulates frequently to <a href="maqsum.php">Maqsoum</a> and back, as well as to <a href="malfuf.php">Malfouf</a> (using 2 measures of <a href="malfuf.php">Malfouf</a> to 1 measure of Baladi).
+                    <p>Le Iqa‘ Baladi est un <em>iqa‘</em> très commun dans le répertoire vocal de la musique arabe du Proche Orient. Il est aussi appelé <strong>Masmoudi Saghir</strong> (<em>saghir</em> veut dire petit en arabe) pour le distinguer du <a href="masmudi_kabir.php">Masmoudi Kabir</a> (grand Masmoudi) qui se développe sur deux mesures de 4/4 plutôt qu'une. Le Baladi alterne souvent avec le <a href="maqsum.php">Maqsoum</a> et aussi avec le <a href="malfuf.php">Malfouf</a> (en utilisant 2 mesures de <a href="malfuf.php">Malfouf</a> pour une mesure de Baladi).
                     </p>
 
                     <div class="player-area">

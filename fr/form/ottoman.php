@@ -87,7 +87,7 @@ include($ROOT . 'inc/head.php');
                              --><div class="info">
                                     <b>Sama‘i Hijazkar Kurd - Rohi al-Khammach</b>
                                     <span></span>
-                                    <span>Sama‘i en <a href="../maqam/hijazkar_kurd.php">Maqam Hijazkar Kurd</a> de Rohi al-Khammach (Palestine/Iraq) dans lequel il y a un <a href="../iqaa/jurjina.php">Iqa‘ Jurjina</a> dans la quatrième <em>khana</em>.</span>
+                                    <span>Sama‘i en <a href="../maqam/hijazkar_kurd.php">Maqam Hijazkar Kurd</a> de Rohi al-Khammach (Palestine/Iraq) dans lequel il y a un <a href="../iqaa/jurjina.php">Iqa‘ Jourjina</a> dans la quatrième <em>khana</em>.</span>
                                 </div>
                             </label>
                         </div>
