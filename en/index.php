@@ -34,7 +34,7 @@ include($ROOT . 'inc/head.php');
                     </p>
 
                     <ul>
-                        <li>A full translation to <a href="/ar/index.php"><strong>Arabic</strong></a> and <a href="/de/index.php"><strong>German</strong></a> (French, Spanish and Greek are under construction).</li>
+                        <li>A full translation to <a href="/ar/index.php"><strong>Arabic</strong></a>, <a href="/fr/index.php"><strong>French</strong></a> and <a href="/de/index.php"><strong>German</strong></a> (Spanish and Greek are under construction).</li>
                         <li>Support of displays of all sizes (especially smart phones).</li>
                         <li>Google Search.</li>
                         <li>Updated and more relevant content.</li>

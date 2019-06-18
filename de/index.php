@@ -35,7 +35,10 @@ include($ROOT . 'inc/head.php');
                         <li>modernisierte und relevantere Inhalte</li>
                         <li>Unterstützung aller Displaygrößen (insbesondere Smartphones)</li>
                         <li>Google-Suche</li>
-                        <li>eine komplette Übersetzung ins <a href="/en/index.php"><strong>Englisch</strong></a> und <a href="/ar/index.php"><strong>Arabische</strong></a> (Französisch, Spanisch und Griechisch sind in Arbeit)</li>
+                        <li>eine komplette Übersetzung ins 
+                            <a href="/en/index.php"><strong>Englisch</strong></a>,
+                            <a href="/fr/index.php"><strong>Französisch</strong></a> und 
+                            <a href="/ar/index.php"><strong>Arabische</strong></a> (Spanisch und Griechisch sind in Arbeit)</li>
                         <li>qualitativ bessere Bilder und Audiobeispiele</li>
                         <li>bessere Navigationsmenüs und -untermenüs</li>
                         <li>eine Kontaktseite für Nutzerfeedback</li>

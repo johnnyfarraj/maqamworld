@@ -4,8 +4,8 @@
 include('../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "";
-$page_description = "";
+$page_title = "Le Monde du Maqam";
+$page_description = "Le Monde du Maqam";
 $page_keywords = "musique arabe, maqam, instruments, jins, iqa‘, iqaa, rythme, oud, qanoun, nay, quart de ton, tarab";
 $page_language = "fr";
 include($ROOT . 'inc/head.php');
