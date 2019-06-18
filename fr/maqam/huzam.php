@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                     <p>Le Maqam Houzam est le maqam le plus courant de la <a href="f_sikah.php">famille du Maqam Sikah</a>. Il commence sur Mi<i class="icon-halfflat"></i>. Sa gamme commence avec le jins de base <a href="../jins/sikah.php">Jins Sikah</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Jins Hijaz</a> sur le 3<sup>ième</sup> degré,  et finalement du <a href="../jins/rast.php">Jins Rast</a> sur le 6<sup>ième</sup> degré.
                     </p>
 
-                    <p>La transposition du Maqam Houzam sur Si<i class="icon-halfflat"></i> porte le nom de <strong>Maqam Rahat al-Arwah</strong>. Les deux maqamat ont exactement le même <em>sayr</em>.</p>
+                    <p>La transposition du Maqam Houzam sur Si<i class="icon-halfflat"></i> porte le nom de <strong>Maqam Rahat al-Arwah</strong>. Les deux <em>maqams</em> ont exactement le même <em>sayr</em>.</p>
 
                     <p>Explorez d'autres maqams dans la <a href="f_sikah.php">Famille du Maqam Sikah</a>.</p>
 
