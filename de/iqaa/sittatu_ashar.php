@@ -46,8 +46,21 @@ include($ROOT . 'inc/head.php');
 
                     <div class="player-area">
                         <audio id="player" controls>
-                            <source src="/audio/iqaa/sittatu_ashar/badat_ghada.mp3" type="audio/mp3">
+                            <source src="/audio/iqaa/sittatu_ashar/badat_alkindi.mp3" type="audio/mp3">
                         </audio>
+                    </div>
+
+                    <div class="track " data-song="/audio/iqaa/sittatu_ashar/badat_alkindi.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1" >
+                                <div class="info">
+                                    <b>Muwashah Badat Min al-Khidri (khana)</b>
+                                    <span>Ensemble Al-Kindi</span>
+                                    <span><img src="/img/cd.png"> Les Croisades Sous Le Regard De l'Orient (Bayati)</span>
+                                </div>
+                            </label>
+                        </div>
                     </div>
 
                     <div class="track " data-song="/audio/iqaa/sittatu_ashar/badat_ghada.mp3">

@@ -46,8 +46,22 @@ include($ROOT . 'inc/head.php');
 
                     <div class="player-area">
                         <audio id="player" controls>
-                            <source src="/audio/iqaa/sittatu_ashar/badat_ghada.mp3" type="audio/mp3">
+                            <source src="/audio/iqaa/sittatu_ashar/badat_alkindi.mp3" type="audio/mp3">
                         </audio>
+                    </div>
+
+                    <div class="track " data-song="/audio/iqaa/sittatu_ashar/badat_alkindi.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1" >
+                                <div class="info">
+                                    <b>موشّح بدت من الخدر (خانة)</b>
+                                    <span>فرقة الكندي (سوريا - فرنسا)</span>
+                                    <span>مع عادل شمس الدين على الرقّ</span>
+                                    <span><img src="/img/cd.png"> أسطوانة الحروب الصليبية من منظار الشرق (مقام البياتي)</span>
+                                </div>
+                            </label>
+                        </div>
                     </div>
 
                     <div class="track " data-song="/audio/iqaa/sittatu_ashar/badat_ghada.mp3">
