@@ -46,7 +46,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>
                     I am happy to announce an upcoming book co-authored with my friend Sami Abu Shumays (creator of <a href="http://maqamlessons.com" target="_blank">MaqamLessons</a>).
-                    The book is entitled <a href="book.php">INSIDE ARABIC MUSIC</a>, and is expected to be published by <a href="https://global.oup.com/academic/product/inside-arabic-music-9780190658366" target="_blank">Oxford University Press</a> in July 2019.
+                    The book is entitled <a href="book.php">INSIDE ARABIC MUSIC</a>, and is expected to be published by <a href="https://global.oup.com/academic/product/inside-arabic-music-9780190658366" target="_blank">Oxford University Press</a> in August 2019.
                     The book will be a comprehensive reference on Arabic Music and this website will act like its companion.
                     The book project was the recipient of a 2012 grant from <a href="http://arabculturefund.org" target="_blank">AFAC</a>.
                     </p>

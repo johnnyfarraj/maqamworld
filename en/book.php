@@ -4,8 +4,8 @@
 include('../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Inside Arabic Music";
-$page_description = "Inside Arabic Music";
+$page_title = "MaqamWorld Publications";
+$page_description = "MaqamWorld Publications Inside Arabic Music";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "en"; // en / ar <!-- YOU MUST PUT THIS
 
@@ -32,7 +32,7 @@ include($ROOT . 'inc/head.php');
                     
                     <div class="clearfix"></div>
 
-                    <p>I am happy to announce an upcoming book written by myself (Johnny Farraj) and my friend Sami Abu Shumays (creator of <a href="http://maqamlessons.com" target="_blank">MaqamLessons</a>). The upcoming book is entitled <strong>INSIDE ARABIC MUSIC</strong>, and will be published by <a href="http://oup.com" target="_blank">Oxford University Press</a> in July 2019.
+                    <p>I am happy to announce an upcoming book written by myself (Johnny Farraj) and my friend Sami Abu Shumays (creator of <a href="http://maqamlessons.com" target="_blank">MaqamLessons</a>). The upcoming book is entitled <strong>INSIDE ARABIC MUSIC</strong>, and will be published by <a href="http://oup.com" target="_blank">Oxford University Press</a> in August 2019.
                     </p>
                     <p>The book project was the recipient of a 2012 grant from <a href="http://arabculturefund.org/grantees/grantee.php?id=333" target="_blank">The Arab Fund For Arts and Culture</a>.
                     </p>

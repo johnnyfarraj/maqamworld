@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
                     </div>
                     <div class="clearfix"></div>
 
-                    <p>Je suis heureux d'annoncer mon nouveau livre co-écrit par moi (Johnny Farraj) et mon ami Sami Abou Shumays (le créateur de <a href="http://maqamlessons.com" target="_blank">MaqamLessons</a>). Ce nouveau livre porte le titre de <strong>INSIDE ARABIC MUSIC</strong> et devrait être publié par les <a href="http://oup.com" target="_blank">Presses de l'Université Oxford</a> en Juillet 2019. Ce livre sera une référence complète sur la musique arabe et accompagnera ce site web. Le projet pour ce livre a reçu une bourse en 2012 de <a href="http://arabculturefund.org/grantees/grantee.php?id=333" target="_blank">la Fondation Arabe pour les Arts et la Culture</a>.
+                    <p>Je suis heureux d'annoncer mon nouveau livre co-écrit par moi (Johnny Farraj) et mon ami Sami Abou Shumays (le créateur de <a href="http://maqamlessons.com" target="_blank">MaqamLessons</a>). Ce nouveau livre porte le titre de <strong>INSIDE ARABIC MUSIC</strong> et devrait être publié par les <a href="http://oup.com" target="_blank">Presses de l'Université Oxford</a> en Août 2019. Ce livre sera une référence complète sur la musique arabe et accompagnera ce site web. Le projet pour ce livre a reçu une bourse en 2012 de <a href="http://arabculturefund.org/grantees/grantee.php?id=333" target="_blank">la Fondation Arabe pour les Arts et la Culture</a>.
                     </p>
                     <p style="margin-bottom:40px;"> Je partagerai plus d'information à propos du livre quand il sera disponible.</p>
                     
