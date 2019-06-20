@@ -44,7 +44,7 @@ include($ROOT . 'inc/head.php');
                     <p> La Trompette arabe est une trompette utilisée pour jouer le <a href="../maqam.php">Maqam</a> arabe. Certains musiciens réussissent à le faire en utilisant une trompette à laquelle est ajouté un quatrième piston (qui permet de produire les quarts de ton). D'autres réussissent à le faire en utilisant les glissières du premier et du troisième piston (qui viennent avec toute trompette professionnelle).
                     </p>
                     <p>
-                    La trompette n'est jamais devenu un instrument important dans la musique arabe, et c'est le seul instrument 'arabisé' qui n'a jamais été utilisé dans l'orchestre de Oum Koulsoum. Le trompettiste arabe le plus célèbre est l'égyptien Sami al-Babli qui a joué régulièrement avec le chanteur de <em>Cha'bi</em> Ahmad Adaweyya.
+                    La trompette n'est jamais devenu un instrument important dans la musique arabe, et c'est le seul instrument 'arabisé' qui n'a jamais été utilisé dans l'orchestre de Oum Koulthoum. Le trompettiste arabe le plus célèbre est l'égyptien Sami al-Babli qui a joué régulièrement avec le chanteur de <em>Cha'bi</em> Ahmad Adaweyya.
                     </p>
                     <p> Présentement, deux jeunes musiciens d'origine arabe poussent l'utilisation de la trompette dans de nouvelles directions, et les deux le font dans un contexte Jazz qui combine l'harmonie occidentale avec des mélodies du <a href="../maqam.php">maqam</a> arabe: <a href="http://www.amirelsaffar.com/" target="_blank">Amir Elsaffar</a> (Iraq/Etats-Unis) et <a href="http://www.ibrahimmaalouf.com/" target="_blank">Ibrahim Maalouf</a> (Liban/France).
                     </p>
@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ibrahim Maalouf</b>
-                                <span>Le trompettiste Franco-Libanais Ibrahim Maalouf jouant une interprétation de la chanson <strong>Alf Leila ou Leila</strong> de Oum Koulsoum (1969, musique de Baligh Hamdi) dans un arrangement jazz qui laisse toutefois une place au <a href="../maqam.php">maqams</a> arabe.</span>
+                                <span>Le trompettiste Franco-Libanais Ibrahim Maalouf jouant une interprétation de la chanson <strong>Alf Leila ou Leila</strong> de Oum Koulthoum (1969, musique de Baligh Hamdi) dans un arrangement jazz qui laisse toutefois une place au <a href="../maqam.php">maqams</a> arabe.</span>
                                 </div>
                             </label>
                         </div>

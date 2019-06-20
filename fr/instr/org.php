@@ -86,7 +86,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Interview avec Hani Mehanna</b>
-                                    <span>Interview avec Hani Mehanna à propos de sa rencontre avec Mouhammad Abdel Wahab et la chanteuse Oum Koulsoum et de son expérience en tant que membre de l'orchestre de cette dernière pour la chanson <strong>Leilet Hobb</strong>.</span>
+                                    <span>Interview avec Hani Mehanna à propos de sa rencontre avec Mouhammad Abdel Wahab et la chanteuse Oum Koulthoum et de son expérience en tant que membre de l'orchestre de cette dernière pour la chanson <strong>Leilet Hobb</strong>.</span>
                                 </div>
                             </label>
                         </div>

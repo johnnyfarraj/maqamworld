@@ -54,7 +54,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Omar Khorchid</b>
-                                    <span>Le pionnier de la Guitare Électrique Omar Khorchid joue la chanson <strong>Daret el-Ayyam</strong> de Oum Koulsoum (1970, musique de Mouhammad Abdel Wahab).</span>
+                                    <span>Le pionnier de la Guitare Électrique Omar Khorchid joue la chanson <strong>Daret el-Ayyam</strong> de Oum Koulthoum (1970, musique de Mouhammad Abdel Wahab).</span>
                                 </div>
                             </label>
                         </div>
@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Interview avec Omar Khorchid</b>
-                                    <span>Interview avec Omar Khorchid à propos de son expérience en tant que guitariste électrique dans l'orchestre de Oum Koulsoum.</span>
+                                    <span>Interview avec Omar Khorchid à propos de son expérience en tant que guitariste électrique dans l'orchestre de Oum Koulthoum.</span>
                                 </div>
                             </label>
                         </div>

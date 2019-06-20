@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
 
                     <p> Le Saxophone est un instrument rare dans la musique arabe malgré le fait qu'il soit en mesure de produire une bonne intonation pour les <a href="../maqam.php">maqam</a>. Il n'a jamais gagné la popularité de <a href="accordion.php">l'accordéon</a>, et n'a été utilisé que pour ajouter un nouveau son aux arrangements orchestraux arabes.
                     </p>
-                    <p> Le pionnier principal du saxophone arabe est Samir Sourour (Égypte) qui avait une expérience de musicien de fanfare militaire. Surour a joué sur quelques chansons de Oum Koulsoum et a ensuite enregistré une série d'albums solo sous le nom de <strong>Achek el-Sax</strong> (L'amoureux du Saxophone).
+                    <p> Le pionnier principal du saxophone arabe est Samir Sourour (Égypte) qui avait une expérience de musicien de fanfare militaire. Surour a joué sur quelques chansons de Oum Koulthoum et a ensuite enregistré une série d'albums solo sous le nom de <strong>Achek el-Sax</strong> (L'amoureux du Saxophone).
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=n_2qIVjgboM">
@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Fat el-Ma‘ad (1967)</b>
-                                <span>La chanson de Oum Koulsoum <strong>Fat el-Ma‘ad</strong> (1967, musique de Baligh Hamdi), avec Farouq Salama à l'Accordéon arabe, Abdel Fattah Khayri à la Guitare Électrique et Samir Sourour au Saxophone.</span>
+                                <span>La chanson de Oum Koulthoum <strong>Fat el-Ma‘ad</strong> (1967, musique de Baligh Hamdi), avec Farouq Salama à l'Accordéon arabe, Abdel Fattah Khayri à la Guitare Électrique et Samir Sourour au Saxophone.</span>
                                 </div>
                             </label>
                         </div>

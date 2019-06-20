@@ -111,6 +111,19 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
+                    
+                    <div class="track" data-song="/audio/maqam/athar_kurd/el_hobb_kida.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>el-Hobbi Kida (1959)</b>
+                                    <span>Oum Koulthoum (Égypte)</span>
+                                    <span>Musique de Riyad al-Soumbati</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
 
                     <div class="track" data-song="/audio/maqam/athar_kurd/samai_athar_kurd.mp3">
                         <div class="radio">

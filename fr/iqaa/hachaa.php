@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/hachaa_4_4.png" class="img-fluid">
                     </div>
 
-                    <p>Le Iqa‘ Hatcha‘ est très populaire en musique soufie, particulièrement pour les pièces qui n'utilisent que des instruments de percussion. Même si la version en 4/4 est la plus commune, c'est l'adaptation d'un <em>iqa‘</em> folklorique du même nom en 2/4. Une adaptation rare est la version en 6/4 composée par le compositeur Baligh Hamdi pour la chanson 'Alf Leila wi Leila' de Oum Koulsoum.
+                    <p>Le Iqa‘ Hatcha‘ est très populaire en musique soufie, particulièrement pour les pièces qui n'utilisent que des instruments de percussion. Même si la version en 4/4 est la plus commune, c'est l'adaptation d'un <em>iqa‘</em> folklorique du même nom en 2/4. Une adaptation rare est la version en 6/4 composée par le compositeur Baligh Hamdi pour la chanson 'Alf Leila wi Leila' de Oum Koulthoum.
 					</p>
 
                     <div class="player-area">
