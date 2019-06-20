@@ -53,23 +53,23 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>موشّح بدري ادِر كاس الطلا</b>
-                                    <span>فرقة الموسيقى العربية (مصر)</span>
-                                    <span>بقيادة عبد الحليم نويرة (مصر)</span>
+                                    <span>فرقة الغناء الشرقي - جامعة الروح القدس في الكسليك</span>
+                                    <span>بقيادة عايدة شلهوب زيادة</span>
+                                    <span>الحان محمد عثمان (مصر)</span>
+                                    <span><img src="/img/cd.png"> سلسلة اسطوانات اوريانتاليا: موشّح وأغنية</span>
                                 </div>
                             </label>
                         </div>
                     </div>
-
+                    
                     <div class="track" data-song="/audio/iqaa/mukhammas/wajhak_mushriq.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>موشّح وجهك مُشرق</b>
-                                    <span>فرقة الغناء الشرقي - جامعة الروح القدس في الكسليك</span>
-                                    <span>بقيادة عايدة شلهوب زيادة</span>
-                                    <span>الحان محمد عثمان (مصر)</span>
-                                    <span><img src="/img/cd.png"> سلسلة اسطوانات اوريانتاليا: موشّح وأغنية</span>
+                                    <span>فرقة الموسيقى العربية (مصر)</span>
+                                    <span>بقيادة عبد الحليم نويرة (مصر)</span>
                                 </div>
                             </label>
                         </div>

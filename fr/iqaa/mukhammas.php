@@ -56,7 +56,10 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Mouachah Badri Ader Kas al-Tila</b>
-                                    <span>Ensemble Abdel Halim Noueirah (Égypte)</span>
+                                    <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Liban)</span>
+                                    <span>Chef d'orchestre: Aïda Chalhoub Ziadé</span>
+                                    <span>Musique de by Mouhammad Outhman</span>
+                                    <span><img src="/img/cd.png"> Orientalia: Mouachah et Chansons</span>
                                 </div>
                             </label>
                         </div>
@@ -68,10 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Wajhak Moushriq</b>
-                                    <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Liban)</span>
-                                    <span>Chef d'orchestre: Aïda Chalhoub Ziadé</span>
-                                    <span>Musique de by Mouhammad Outhman</span>
-                                    <span><img src="/img/cd.png"> Orientalia: Mouachah et Chansons</span>
+                                    <span>Ensemble Abdel Halim Noueirah (Égypte)</span>
                                 </div>
                             </label>
                         </div>

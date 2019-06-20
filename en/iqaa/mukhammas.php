@@ -56,7 +56,10 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Badri Adir Kas al-Tila</b>
-                                    <span>Abdel Halim Noueira Ensemble</span>
+                                    <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
+                                    <span>Conductor: Aïda Shalhoub Ziadé</span>
+                                    <span>Music by by Muhammad ‘Uthman</span>
+                                    <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>
                             </label>
                         </div>
@@ -68,10 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Wajhak Mushriq</b>
-                                    <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
-                                    <span>Conductor: Aïda Shalhoub Ziadé</span>
-                                    <span>Music by by Muhammad ‘Uthman</span>
-                                    <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
+                                    <span>Abdel Halim Noueira Ensemble</span>
                                 </div>
                             </label>
                         </div>
