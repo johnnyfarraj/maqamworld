@@ -100,7 +100,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Fi Youm we Leila (1978)</b>
-                                    <span>Warda (France/Algerie)</span>
+                                    <span>Warda (France/Algérie)</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>

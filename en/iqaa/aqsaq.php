@@ -156,6 +156,18 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/iqaa/aqsaq_form2/bi_abi_bahil_jamal.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Muwashah Bi Abi Bahi al-Jamal</b>
+                                    <span>Muhammad Khayri (Syria)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                 </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>

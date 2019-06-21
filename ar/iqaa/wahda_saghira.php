@@ -104,6 +104,20 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/iqaa/wahda_saghira/qal_eh_biyisaluni.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>اغنية قال إيه بيسألوني</b>
+                                    <span>غناء وردة الجزائرية</span>
+                                    <span>كلمات عبدالوهاب محمد (مصر)</span>
+                                    <span>ألحان سيّد مكّاوي (مصر)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                 </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
