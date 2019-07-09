@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>جنس عَجَم</h1>
-                        <h3>جنس الجذر في
+                        <h3>جنس الأصل في
                             <a href="../maqam/f_ajam.php">عائلة مقام العجم</a>
                         </h3>
                     </div>
@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="590,62,12" href="#" alt="لا" class="playNote" data-frequency="440" data-parent="#notation1">
 					</map>
 
-                    <h5>جنس العجم هو جنس الجذر في
+                    <h5>جنس العجم هو جنس الأصل في
 					<a href="../maqam/f_ajam.php">عائلة مقام العجم</a>،
                         حجمه ٥ درجات. يقع قراره في هذا السلّم النموذجي على علامة الدو وغمّازه على علامة الصول.
  					 </h5><h5>

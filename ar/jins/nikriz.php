@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>جنس نِكريز</h1>
-                        <h3>جنس الجذر في
+                        <h3>جنس الأصل في
                             <a href="../maqam/f_nikriz.php">عائلة مقام النكريز</a>
                         </h3>
                     </div>
@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="678,50,12" href="#" alt="سي♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					</map>
 
-                    <h5>جنس النكريز هو جنس الجذر في
+                    <h5>جنس النكريز هو جنس الأصل في
 					<a href="../maqam/f_nikriz.php">عائلة مقام النكريز</a>،
                         حجمه ٥ درجات. يقع قراره في هذا السلّم النموذجي على علامة الدو وغمّازه على علامة الصول.
 					وجنس النكريز هو الجنس الاول في مقامي

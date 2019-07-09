@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>جنس سِيكاه</h1>
-                        <h3>جنس الجذر في
+                        <h3>جنس الأصل في
                             <a href="../maqam/f_sikah.php">عائلة مقام السيكاه</a>
                         </h3>
                     </div>
@@ -53,7 +53,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="425,56,12" href="#" alt="لا♭" class="playNote" data-frequency="422" data-parent="#notation1"><!-- fine tuned up from 411-->
 					</map>
 
-                    <h5>جنس السيكاه هو جنس الجذر في
+                    <h5>جنس السيكاه هو جنس الأصل في
 					<a href="../maqam/f_sikah.php">عائلة مقام السيكاه</a>،
                     حجمه ٣ درجات.
 					 يقع قراره في هذا السلّم النموذجي على علامة المي نصف بيمول وغمّازه على علامة الصول.

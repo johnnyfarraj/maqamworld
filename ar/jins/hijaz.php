@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>جنس حِجاز</h1>
-                        <h3>جنس الجذر في
+                        <h3>جنس الأصل في
                             <a href="../maqam/f_hijaz.php">عائلة مقام الحجاز</a>
                         </h3>
                     </div>
@@ -54,7 +54,7 @@ include($ROOT . 'inc/head.php');
 	  <area shape="circle" coords="636,46,12" href="#" alt="سي♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 	</map>
 
-                    <h5>جنس الحجاز هو جنس الجذر في
+                    <h5>جنس الحجاز هو جنس الأصل في
 	<a href="../maqam/f_hijaz.php">عائلة مقام الحجاز</a>،
                     حجمه ٤ درجات. يقع قراره في هذا السلّم النموذجي على علامة الري وغمّازه على علامة الصول.
 	</h5><h5>

@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>جنس بياتي</h1>
-                        <h3>جنس الجذر في
+                        <h3>جنس الأصل في
                             <a href="../maqam/f_bayati.php">عائلة مقام البياتي</a>
                         </h3>
                     </div>
@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="626,45,12" href="#" alt="سي♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					</map>
 
-                    <h5>جنس البياتي هو جنس الجذر في
+                    <h5>جنس البياتي هو جنس الأصل في
 					<a href="../maqam/f_bayati.php">عائلة مقام البياتي</a>،
                         حجمه ٤ درجات.
 					يقع قراره في هذا السلّم النموذجي على علامة الري وغمّازه على علامة الصول.
