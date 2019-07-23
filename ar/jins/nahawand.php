@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>جنس نَهاوند</h1>
-                        <h3>جنس الجذر في
+                        <h3>جنس الأصل في
                             <a href="../maqam/f_nahawand.php">عائلة مقام النهاوند</a>
                         </h3>
                     </div>
@@ -55,7 +55,7 @@ include($ROOT . 'inc/head.php');
 				      <area shape="circle" coords="611,60,12" href="#" alt="لا♭" class="playNote" data-frequency="411" data-parent="#notation1">
 					</map>
 
-                    <h5>جنس النهاوند هو جنس الجذر في
+                    <h5>جنس النهاوند هو جنس الأصل في
 					<a href="../maqam/f_nahawand.php">عائلة مقام النهاوند</a>، حجمه ٥ درجات.
 					يقع قراره في هذا السلّم النموذجي على علامة الدو وغمّازه على علامة الصول.
 					</h5><h5>
