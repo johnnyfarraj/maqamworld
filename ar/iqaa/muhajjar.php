@@ -98,6 +98,7 @@ include($ROOT . 'inc/head.php');
                                     <span>بقيادة عايدة شلهوب زيادة</span>
                                     <span>الحان سيّد درويش (مصر)</span>
                                     <span><img src="/img/cd.png"> سلسلة اسطوانات اوريانتاليا: موشّح وأغنية</span>
+                                </div>
                             </label>
                         </div>
                     </div>
