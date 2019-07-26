@@ -37,7 +37,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="notation">
-                        <img src="../note/iqaa/katakufti.png" class="img-fluid">
+                        <img src="../note/iqaa/nawari.png" class="img-fluid">
                     </div>
 
                     <h5>

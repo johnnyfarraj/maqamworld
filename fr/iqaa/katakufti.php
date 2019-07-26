@@ -40,7 +40,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="notation">
-                        <img src="/note/iqaa/katakufti.png" class="img-fluid">
+                        <img src="/note/iqaa/nawari.png" class="img-fluid">
                     </div>
 
                     <p>Le Iqa‘ Katakoufti (aussi appelé Nawari) est une variation du <a href="saidi.php">Iqa‘ Sa‘idi</a> et <a href="baladi.php">Iqa‘ Baladi</a> qui est joué surtout dans la musique folklorique du Levant et dans les danses en ligne <em>Dabké</em>.</p>

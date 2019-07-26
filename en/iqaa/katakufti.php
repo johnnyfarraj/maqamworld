@@ -40,7 +40,7 @@ include($ROOT . 'inc/head.php');
                     </div>
                     
                     <div class="notation">
-                        <img src="/note/iqaa/katakufti.png" class="img-fluid">
+                        <img src="/note/iqaa/nawari.png" class="img-fluid">
                     </div>
                     
                     <p>Iqa‘ Katakufti (also called Nawari) is variation on <a href="saidi.php">Iqa‘ Sa‘idi</a> and <a href="baladi.php">Baladi</a> primarily used in Levantine folk music and Dabke line dances.</p>
