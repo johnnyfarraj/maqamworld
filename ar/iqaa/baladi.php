@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>إيقاع بَلدي ٤/٤</h1>
-                        <h3>يُسمّى ايضاً "<em>مَصمودي صغير</em>"</h3>
+                        <h3>يُسمّى ايضاً <strong>مَصمودي صغير</strong></h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الايقاعات</a>

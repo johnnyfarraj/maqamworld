@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>إيقاع ثُريّا ٥/٨</h1>
-                        <h3>يُسمّى ايضاً "اقصاق تُركي"</h3>
+                        <h3>يُسمّى ايضاً <strong>اقصاق تُركي</strong></h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الايقاعات</a>
@@ -40,7 +40,7 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/iqaa/thurayya.png" class="img-fluid">
                     </div>
 
-                    <h5>إيقاع ثُريّا (و يُسمّى ايضاً "اقصاق تُركي") هو إيقاع نادر، وقد استُعمل في <a href="../form/vocal_comp.php#muwashah">موشّح</a> واحد فقط (في الروض انا شفت الجميل).
+                    <h5>إيقاع ثُريّا (و يُسمّى ايضاً <strong>اقصاق تُركي</strong>) هو إيقاع نادر، وقد استُعمل في <a href="../form/vocal_comp.php#muwashah">موشّح</a> واحد فقط (في الروض انا شفت الجميل).
                     </h5>
 
                     <div class="player-area">

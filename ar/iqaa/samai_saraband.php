@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>إيقاع سماعي سَرَبَند ٣/٨</h1>
-                        <h3>يُسمّى ايضاً "سماعي طائِر"</h3>
+                        <h3>يُسمّى ايضاً <strong>سماعي طائِر</strong></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الايقاعات</a>
                     <div class="clearfix"></div>
@@ -39,7 +39,7 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/iqaa/samai_saraband.png" class="img-fluid">
                     </div>
 
-                    <h5>إيقاع سماعي سَرَبَند (ويُسمّى ايضاً "سماعي طائِر") هو إيقاع خفيف وسريع شائع في <a href="../form/vocal_comp.php#muwashah">قالب الموشح</a> الغنائي. 
+                    <h5>إيقاع سماعي سَرَبَند (ويُسمّى ايضاً <strong>سماعي طائِر</strong>) هو إيقاع خفيف وسريع شائع في <a href="../form/vocal_comp.php#muwashah">قالب الموشح</a> الغنائي. 
                     </h5>
 
                     <div class="player-area">
