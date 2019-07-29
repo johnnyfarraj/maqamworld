@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "إيقاع كتاكفتي ٤/٤";
-$page_description = "إيقاع كتاكفتي ٤/٤";
+$page_title = "إيقاع قتاقوفتي ٨/٨";
+$page_description = "إيقاع قتاقوفتي ٨/٨";
 $page_keywords = "عود,موسيقى عربية,قانون,ناي,مقام,جنس,آلات,طرب,ايقاع,رقّ,طبلة,طبل البلدي,دفّ,كاتم,صاجات";
 $page_language = "ar";
 
@@ -29,60 +29,55 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>إيقاع كَتاكُفتي (قَـتاقُـفْـتي) ٤/٤</h1>
-                        <h3>يُسمّى ايضاً <strong>نَوَري</strong></h3>
+                        <h1>إيقاع قتاقوفتي ٨/٨</h1>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الايقاعات</a>
                     <div class="clearfix"></div>
 
                     <div class="notation">
-                        <img src="../note/iqaa/nawari.png" class="img-fluid">
+                        <img src="../note/iqaa/katakufti.png" class="img-fluid">
                     </div>
 
                     <h5>
-                    إيقاع كَتاكُفتي (ويُسمّى ايضاً <strong>نَوَري</strong>) هو إيقاع فولكلوري يستعمل غالباَ في الدبكات والرقص الشعبي. يشبه هذا الإيقاع إيقاعيّ <a href="saidi.php">الصعيدي</a> <a href="baladi.php">والبلدي</a> الّا انه يبدأ بالتَكّ بدلاً من الدُمّ.
+		إيقاع قتاقوفتي هو إيقاع نادر، غالباً ما يُستعمل في <a href="../form/vocal_comp.php#muwashah">قالب الموشّح</a>.
+		</h5>
+                    <h5>
+		يأتي إيقاع قتاقوفتي على شكلٍ ثانِ حيث تُستبدل علامة الإسّ على الضربة الخامسة بعلامة دُمّ.
+                    وبذلك يحصل هذا الشكل على دمّين متتاليتين تجعله شبيهاً بإيقاع <a href="aqsaq.php">الاقصاق</a>.
+		</h5>
+		<h5>
+		  يُستعمل اسم <strong>القتاقوفتي</strong> ايضاً للدلالة على <a href="nawari.php">إيقاع النَوَري</a>
+		لأن الايقاعين يتشابهان عندما يبدأ عدّ ايقاع القتاقوفتي من الضربة الثامنة (اي التك الأخيرة).
                     </h5>
 
                     <div class="player-area">
                         <audio id="player" controls>
-                            <source src="/audio/iqaa/katakufti/ya_3ein_mulayyitein.mp3" type="audio/mp3">
+                            <source src="/audio/iqaa/katakufti/khadduka_al_naddi.mp3" type="audio/mp3">
                         </audio>
                     </div>
 
-                    <div class="track " data-song="/audio/iqaa/katakufti/ya_3ein_mulayyitein.mp3">
+                    <div class="track " data-song="/audio/iqaa/katakufti/khadduka_al_naddi.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>ياعين موليتين</b>
-                                    <span>غناء سميرة توفيق (لبنان)</span>
+                                    <b>موشّح خدّك الندّي</b>
+                                    <span>خالد الحافظ (سوريا)</span>
+                                    <span>الحان عمر البطش (سوريا)</span>
                                 </div>
                             </label>
                         </div>
                     </div>
-
-                    <div class="track" data-song="/audio/iqaa/katakufti/dal3ona.mp3">
+                    
+                    <div class="track " data-song="/audio/iqaa/katakufti/ah_min_nari_jafahum.mp3">
                         <div class="radio">
                             <label>
-                                <input type="radio" name="song" value="1">
+                                <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>دلعونا</b>
-                                    <span>(من التراث الشعبي)</span>
-                                    <span>غناء فارس كرم (لبنان)</span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-
-                    <div class="track" data-song="/audio/iqaa/katakufti/el_funun.mp3">
-                        <div class="radio">
-                            <label>
-                                <input type="radio" name="song" value="1">
-                                <div class="info">
-                                    <b>مقطوعة موسيقية</b>
-                                    <span>فرقة الفنون للتراث الشعبي الفلسطيني</span>
-                                    <span><img src="/img/cd.png"> زغاريد</span>
+                                    <b>موشّح آه من نار جفاهم</b>
+                                    <span>فرقة نور الشرق للطرب الاصيل</span>
+                                    <span>الحان الشيخ علي الدرويش (سوريا)</span>
                                 </div>
                             </label>
                         </div>

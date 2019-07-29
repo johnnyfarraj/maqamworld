@@ -23,7 +23,7 @@
     <li><a href="/ar/iqaa/fakhit.php">فاخت ٢٠/٤</a></li>
     <li><a href="/ar/iqaa/fallahi.php">فلّاحي ٢/٤</a></li>
     <li><a href="/ar/iqaa/fox.php">فوكس ٢/٤</a></li>
-    <li><a href="/ar/iqaa/katakufti.php">كتاكفتي ٤/٤</a></li>
+    <li><a href="/ar/iqaa/katakufti.php">قتاقوفتي ٨/٨</a></li>
     <li><a href="/ar/iqaa/karachi.php">كراتشي ٢/٤</a></li>
     <li><a href="/ar/iqaa/muhajjar.php">محجّر ١٤/٤</a></li>
     <li><a href="/ar/iqaa/mukhammas.php">مخمّس ١٦/٤</a></li>
@@ -33,6 +33,7 @@
     <li><a href="/ar/iqaa/maqsum.php">مقسوم ٤/٤</a></li>
     <li><a href="/ar/iqaa/malfuf.php">ملفوف ٢/٤</a></li>
     <li><a href="/ar/iqaa/nawakht.php">نواخت ٧/٤</a></li>
+    <li><a href="/ar/iqaa/nawari.php">نَوَري ٤/٤</a></li>
     <li><a href="/ar/iqaa/hachaa.php">هجع ٤/٤</a></li>
     <li><a href="/ar/iqaa/wahda.php">واحدة ٤/٤</a></li>
     <li><a href="/ar/iqaa/wahda_saghira.php">واحدة صغيرة ٢/٤</a></li>

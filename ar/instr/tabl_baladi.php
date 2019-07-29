@@ -58,7 +58,7 @@ include($ROOT . 'inc/head.php');
  و
 <a href="../iqaa/saidi.php">الصعيدي</a>
 و
-<a href="../iqaa/katakufti.php">الكتاكفتي</a>.
+<a href="../iqaa/nawari.php">النَوَري</a>.
                     </h5>
 		<br>
 

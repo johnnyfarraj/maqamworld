@@ -88,7 +88,7 @@ include($ROOT . 'inc/head.php');
                                     <li><a href="iqaa/rumba.php">رومبا ٤/٤</a></li>
                                     <li><a href="iqaa/zaffa.php">زفّة ٤/٤</a></li>
                                     <li><a href="iqaa/hachaa.php">هجع ٤/٤</a></li>
-                                    <li><a href="iqaa/katakufti.php">كتاكفتي ٤/٤</a></li>
+                                    <li><a href="iqaa/nawari.php">نَوَري ٤/٤</a></li>
                                 </ul>
                             </div>
                             <div class="col-sm-3">
@@ -102,6 +102,7 @@ include($ROOT . 'inc/head.php');
                                     <li><a href="iqaa/ciftetelli.php">شفتتلّي ٨/٤</a></li>
                                     <li><a href="iqaa/wahda_tawila.php">واحدة طويلة ٨/٤</a></li>
                                     <li><a href="iqaa/bambi.php">بَمبي ٨/٤</a></li>
+                                    <li><a href="iqaa/katakufti.php">قتاقوفتي ٨/٨</a></li>
                                     <li><a href="iqaa/aqsaq.php">اقصاق ٩/٨</a></li>
                                 </ul>
                             </div>
