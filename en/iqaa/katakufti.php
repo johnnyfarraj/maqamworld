@@ -50,8 +50,21 @@ include($ROOT . 'inc/head.php');
                     
                     <div class="player-area">
                         <audio id="player" controls>
-                            <source src="/audio/iqaa/katakufti/ah_min_nari_jafahum.mp3" type="audio/mp3">
+                            <source src="/audio/iqaa/katakufti/khadduka_al_naddi.mp3" type="audio/mp3">
                         </audio>
+                    </div>
+                    
+                    <div class="track " data-song="/audio/iqaa/katakufti/khadduka_al_naddi.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1" >
+                                <div class="info">
+                                    <b>Muwashah Khadduka al-Naddi</b>
+                                    <span>Khaled al-Hafez</span>
+                                    <span>Music by Omar al-Batsh</span>
+                                </div>
+                            </label>
+                        </div>
                     </div>
                     
                     <div class="track " data-song="/audio/iqaa/katakufti/ah_min_nari_jafahum.mp3">
