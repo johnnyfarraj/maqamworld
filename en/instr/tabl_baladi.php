@@ -48,7 +48,7 @@ include($ROOT . 'inc/head.php');
                     <p> The Tabl Baladi is a large drum with wood frame and heavy skin on both sides. It is hung by a belt around the player's shoulder is and played with two sticks: the thick one is for the <em>dum</em> sound played with the dominant hand, and the thin stick is for the <em>tak</em> sound played with the other hand.
                     </p>
 
-                    <p> The <em>Tabl Baladi</em> is ideal for outdoor music in a village setting ("baladi" means "from the village") and can provide the beat for line dances such as the "Dabke" alongside equally loud instruments like the <em>Mizmar</em>. The <em>Tabl Baladi</em> does not play very complex or ornamented rhythms and is ideal for heavy 4/4 <a href="../iqaa.php">iqa‘at</a> like <a href="../iqaa/baladi.php">Baladi</a>, <a href="../iqaa/saidi.php">Sa‘idi</a> and especially <a href="../iqaa/katakufti.php">Katakufti</a>.
+                    <p> The <em>Tabl Baladi</em> is ideal for outdoor music in a village setting ("baladi" means "from the village") and can provide the beat for line dances such as the "Dabke" alongside equally loud instruments like the <em>Mizmar</em>. The <em>Tabl Baladi</em> does not play very complex or ornamented rhythms and is ideal for heavy 4/4 <a href="../iqaa.php">iqa‘at</a> like <a href="../iqaa/baladi.php">Baladi</a>, <a href="../iqaa/saidi.php">Sa‘idi</a> and especially <a href="../iqaa/nawari.php">Nawari</a>.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=D6Ex5WiW6vc">

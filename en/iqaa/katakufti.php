@@ -29,8 +29,7 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
                     
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Katakufti 4/4</h1>
-                        <h3>(also called <strong>Nawari</strong>)</h3>
+                        <h1>Iqa‘ Katakufti 8/8</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
                     <div class="clearfix"></div>
@@ -40,49 +39,29 @@ include($ROOT . 'inc/head.php');
                     </div>
                     
                     <div class="notation">
-                        <img src="/note/iqaa/nawari.png" class="img-fluid">
+                        <img src="/note/iqaa/katakufti.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Katakufti (also called Nawari) is variation on <a href="saidi.php">Iqa‘ Sa‘idi</a> and <a href="baladi.php">Baladi</a> primarily used in Levantine folk music and Dabke line dances.</p>
+                    <p>Iqa‘ Katakufti is a rare <em>iqa‘</em> used in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre.
+                    </p>
+                    <p>An alternate form of this <em>iqa‘</em> adds a <em>dum</em> on the 5<sup>th</sup> beat, creating 2 consecutive <em>dum</em>-s (similarly to the second form of <a href="aqsaq.php">Iqa‘ Aqsaq</a>).
+                    </p>
+                    <p>The name <strong>Katakufti</strong> is sometimes used as an alternate name for <a href="nawari.php">Iqa‘ Nawari</a> because they sound alike when <strong>Iqa‘ Katakufti</strong> is played in 4/4 and started from the last beat (the last <em>tak</em>).</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
-                            <source src="/audio/iqaa/katakufti/ya_3ein_mulayyitein.mp3" type="audio/mp3">
+                            <source src="/audio/iqaa/katakufti/ah_min_nari_jafahum.mp3" type="audio/mp3">
                         </audio>
                     </div>
                     
-                    <div class="track " data-song="/audio/iqaa/katakufti/ya_3ein_mulayyitein.mp3">
+                    <div class="track " data-song="/audio/iqaa/katakufti/ah_min_nari_jafahum.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Ya ‘Ein Mulayyitein</b>
-                                    <span>Samira Tawfiq</span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-                    
-                    <div class="track" data-song="/audio/iqaa/katakufti/dal3ona.mp3">
-                        <div class="radio">
-                            <label>
-                                <input type="radio" name="song" value="1">
-                                <div class="info">
-                                    <b>Dal‘ona (traditional)</b>
-                                    <span>(performer unknown)</span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-                    
-                    <div class="track" data-song="/audio/iqaa/katakufti/el_funun.mp3">
-                        <div class="radio">
-                            <label>
-                                <input type="radio" name="song" value="1">
-                                <div class="info">
-                                    <b>Initiation Of Ecstasy</b>
-                                    <span>El-Funoun Ensemble</span>
-                                    <span><img src="/img/cd.png"> Zaghareed: Music From The Palestinian Holy Land</span>
+                                    <b>Muwashah Ah Min Nari Jafahum</b>
+                                    <span>Ensemble Nour al-Charq</span>
+                                    <span>Music by Sheikh Ali al-Darwish</span>
                                 </div>
                             </label>
                         </div>
