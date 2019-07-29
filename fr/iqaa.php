@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                                     <li><a href="iqaa/rumba.php">Rumba 4/4</a></li>
                                     <li><a href="iqaa/zaffa.php">Zaffa 4/4</a></li>
                                     <li><a href="iqaa/hachaa.php">Hatcha‘ 4/4</a></li>
-                                    <li><a href="iqaa/katakufti.php">Katakoufti 4/4</a></li>
+                                    <li><a href="iqaa/nawari.php">Nawari 4/4</a></li>
                                 </ul>
                             </div>
                             <div class="col-sm-3">
@@ -86,6 +86,7 @@ include($ROOT . 'inc/head.php');
                                     <li><a href="iqaa/ciftetelli.php">Ciftetelli 8/4</a></li>
                                     <li><a href="iqaa/wahda_tawila.php">Wahda Tawila 8/4</a></li>
                                     <li><a href="iqaa/bambi.php">Bambi 8/4</a></li>
+                                    <li><a href="iqaa/katakufti.php">Katakoufti 8/8</a></li>
                                     <li><a href="iqaa/aqsaq.php">Aqsaq 9/8</a></li>
                                 </ul>
                             </div>

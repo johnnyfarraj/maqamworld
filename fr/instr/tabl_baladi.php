@@ -48,7 +48,7 @@ include($ROOT . 'inc/head.php');
                     <p> Le Tabl Baladi est un grand tambour villageois fait d'un cadre de bois avec des peaux lourdes sur les deux côtés. Il est attaché à l'épaule du musicien avec une ceinture et est joué à l'aide de deux bâtons: le bâton épais est pour les sons dum, joués avec la main dominante tandis que le bâton mince est pour les sons tak joués avec l'autre main.
                     </p>
 
-                    <p>Le Tabl Baladi est idéal pour la musique jouée en extérieur dans les villages (<em>baladi</em> veut dire villageois) et peut donner le rythme pour des danses en ligne telles que le <em>Dabké</em> à côté d'instruments très forts en volume tels que le <em>Mizmar</em>. Le Tabl Baladi ne joue pas de rythmes très complexes ou ornementés et est idéal pour des <a href="../iqaa.php">iqa‘at</a> lourds en 4/4 tels que le <a href="../iqaa/baladi.php">Baladi</a>, le <a href="../iqaa/saidi.php">Saïdi</a> et particulièrement le <a href="../iqaa/katakufti.php">Katakoufti</a>.
+                    <p>Le Tabl Baladi est idéal pour la musique jouée en extérieur dans les villages (<em>baladi</em> veut dire villageois) et peut donner le rythme pour des danses en ligne telles que le <em>Dabké</em> à côté d'instruments très forts en volume tels que le <em>Mizmar</em>. Le Tabl Baladi ne joue pas de rythmes très complexes ou ornementés et est idéal pour des <a href="../iqaa.php">iqa‘at</a> lourds en 4/4 tels que le <a href="../iqaa/baladi.php">Baladi</a>, le <a href="../iqaa/saidi.php">Saïdi</a> et particulièrement le <a href="../iqaa/nawari.php">Nawari</a>.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=D6Ex5WiW6vc">

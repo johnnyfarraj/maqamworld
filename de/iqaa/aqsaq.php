@@ -42,7 +42,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/aqsaq_f1.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Aqsaq (türkisch "aksak", was hinkend bedeutet) ist sehr populär im vokalen <a href="../form/vocal_comp.php#muwashah">Muwashah</a>-Genre. Er ist einen Schlag kürzer als <a href="samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a>. Er kann jedoch manchmal in nahtlosem Anschluss in einem Wasla direkt vor oder nach einem Stück in diesem Iqa‘ gespielt werden. Eine Variante des Aqsaq ersetzt die Pause auf dem sechsten Schlag durch ein weiteres Dum. Dadurch kommen zwei Dums hinter einander, wodurch der <a href="samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a> entsteht.
+                    <p>Iqa‘ Aqsaq (türkisch "aksak", was hinkend bedeutet) ist sehr populär im vokalen <a href="../form/vocal_comp.php#muwashah">Muwashah</a>-Genre. Er ist einen Schlag kürzer als <a href="samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a>. Er kann jedoch manchmal in nahtlosem Anschluss in einem Wasla direkt vor oder nach einem Stück in diesem Iqa‘ gespielt werden. 
+                    </p>
+                    <p>Eine Variante des Aqsaq ersetzt die Pause auf dem sechsten Schlag durch ein weiteres Dum. Dadurch kommen zwei Dums hinter einander, wodurch der <a href="samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a> entsteht.
 					</p>
 
                     <div class="player-area">

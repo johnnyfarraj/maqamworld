@@ -50,7 +50,7 @@ include($ROOT . 'inc/head.php');
                     </p>
 
                     <p>
-                        Das Tabl Baladi ist ideal für Spielsituationen draußen, etwa in Dörfern. Daher stammt auch der Name: <em>baladi</em> bedeutet “aus dem Dorf”. Es gibt den Rhythmus vor bei Reihentänzen wie dem Dabke, zumeist in Kombination mit der Mizmar, einer ägyptischen Kegeloboe. Das Tabl Baladi spielt keine komplizierten oder verzierten Rhythmen und eignet sich vor allem für Vierviertel-<a href="../iqaa.php">Iqa‘at</a> wie <a href="../iqaa/baladi.php">Baladi</a>, <a href="../iqaa/saidi.php">Sa‘idi</a> und <a href="../iqaa/katakufti.php">Katakufti</a>.
+                        Das Tabl Baladi ist ideal für Spielsituationen draußen, etwa in Dörfern. Daher stammt auch der Name: <em>baladi</em> bedeutet “aus dem Dorf”. Es gibt den Rhythmus vor bei Reihentänzen wie dem Dabke, zumeist in Kombination mit der Mizmar, einer ägyptischen Kegeloboe. Das Tabl Baladi spielt keine komplizierten oder verzierten Rhythmen und eignet sich vor allem für Vierviertel-<a href="../iqaa.php">Iqa‘at</a> wie <a href="../iqaa/baladi.php">Baladi</a>, <a href="../iqaa/saidi.php">Sa‘idi</a> und <a href="../iqaa/nawari.php">Nawari</a>.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=D6Ex5WiW6vc">

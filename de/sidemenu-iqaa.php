@@ -16,7 +16,7 @@
     <li><a href="/de/iqaa/hachaa.php">Hacha‘ 4/4</a></li>
     <li><a href="/de/iqaa/jurjina.php">Jurjina 10/8</a></li>
     <li><a href="/de/iqaa/karachi.php">Karachi 2/4</a></li>
-    <li><a href="/de/iqaa/katakufti.php">Katakufti 4/4</a></li>
+    <li><a href="/de/iqaa/katakufti.php">Katakufti 8/8</a></li>
     <li><a href="/de/iqaa/khosh_rang.php">Khosh Rang 17/8</a></li>
     <li><a href="/de/iqaa/malfuf.php">Malfuf 2/4</a></li>
     <li><a href="/de/iqaa/maqsum.php">Maqsum 4/4</a></li>
@@ -25,7 +25,8 @@
     <li><a href="/de/iqaa/muhajjar.php">Muhajjar 14/4</a></li>
     <li><a href="/de/iqaa/mukhammas.php">Mukhammas 16/4</a></li>
     <li><a href="/de/iqaa/murabbaa.php">Murabba‘ 13/4</a></li>
-    <li><a href="/de/iqaa/nawakht.php">Nawakht 7/4</a></li>
+    <li><a href="/de/iqaa/nawari.php">Nawari 4/4</a></li>
+    <li><a href="/de/iqaa/katakufti.php">Katakufti 8/8</a></li>
     <li><a href="/de/iqaa/rumba.php">Rumba 4/4</a></li>
     <li><a href="/de/iqaa/saidi.php">Sa‘idi 4/4</a></li>
     <li><a href="/de/iqaa/samai_darij.php">Sama‘i Darij 3/4</a></li>
