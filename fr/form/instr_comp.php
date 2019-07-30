@@ -44,7 +44,7 @@ include($ROOT . 'inc/head.php');
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/maqtua.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Maqtoua</a>
                     </div>
-                    <p> La Maqtoua ('pièce', au sens littéral) est un type de composition instrumental. Elle est aussi appelée <em>ma‘zufa</em>ma'zoufa (jouée sur un instrument au lieu d'être chantée). La forme <em>maqtoua</em> est très populaire dans la musique <em>Raqs Sharqi</em> (danse du ventre).
+                    <p> La Maqtoua ('pièce', au sens littéral) est une composition instrumentale. Elle est aussi appelée <em>ma'zoufa</em> (pièce jouée sur un instrument au lieu d'être chantée). La forme <em>maqtoua</em> est très populaire dans la musique <em>Raqs Sharqi</em> (danse du ventre).
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=9sxZVdKGe48">
