@@ -127,7 +127,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div id="dawr" class="heading jins text-center full-width">
-                        <h3>The Dawr</h3>
+                        <h3>Le Dawr</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/dawr.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Dawr</a>

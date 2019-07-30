@@ -37,7 +37,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
-                        <img src="/instr/tabla.jpg" alt="The Tabla">
+                        <img src="/instr/tabla.jpg" alt="La Tabla">
                         <span>Tabla en aluminium à peau de plastique de <strong>Gawharet El-Fan</strong>, Égypte.. &copy; MaqamWorld</span>
                     </div>
 

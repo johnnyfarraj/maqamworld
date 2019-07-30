@@ -37,7 +37,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
-                        <img src="/instr/org.jpg" alt="The Electric Organ">
+                        <img src="/instr/org.jpg" alt="l'Orgue Électrique">
                         <span>Le pionnier de l'Orgue Électrique Magdi el-Husseini (Égypte)</span>
                     </div>
 

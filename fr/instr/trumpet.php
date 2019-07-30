@@ -37,7 +37,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
-                        <img src="/instr/trumpet.jpg" alt="The Arabic Trumpet">
+                        <img src="/instr/trumpet.jpg" alt="La Trompette arabe">
                         <span>Le pionnier de la Trompette arabe, l'égyptien Sami al-Babli</span>
                     </div>
 

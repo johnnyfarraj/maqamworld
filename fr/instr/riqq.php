@@ -37,7 +37,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
-                        <img src="/instr/riqq.jpg" alt="The Riqq">
+                        <img src="/instr/riqq.jpg" alt="Le Riqq">
                         <span>Deux riqqs traditionnels à peaux de poisson. &copy; MaqamWorld</span>
                     </div>
 

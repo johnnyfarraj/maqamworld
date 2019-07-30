@@ -37,7 +37,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
-                        <img src="/instr/saxophone.jpg" alt="The Saxophone">
+                        <img src="/instr/saxophone.jpg" alt="Le Saxophone">
                         <span>Le pionnier du Saxophone Arabe Samir Sourour (Égypte)</span>
                     </div>
 

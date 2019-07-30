@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Le Mazhar égyptien";
-$page_description = "Le Mazhar égyptien";
+$page_title = "Le Mazhar Égyptien";
+$page_description = "Le Mazhar Égyptien";
 $page_keywords = "arabe, musique, instruments, accordéon, bouzouk, daff, mazhar, guitare électrique, katèm, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trompette, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
 $page_language = "fr";
 
@@ -29,7 +29,7 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Le Mazhar égyptien</h1>
+                        <h1>Le Mazhar Égyptien</h1>
                         <h3>Un tambour sur cadre lourd et profond muni de cymbales</h3>
                     </div>
 

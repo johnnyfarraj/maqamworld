@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Ya Hajal Sannin (1965)</b>
                                     <span>Fairouz (Liban)</span>
                                     <span>Musique et paroles par Les Frères Rahbani</span>
-                                    <span>From the movie <strong>Bayya‘ el-Khawatim</strong></span>
+                                    <span>Du film <strong>Bayya‘ el-Khawatem</strong></span>
                                 </div>
                             </label>
                         </div>

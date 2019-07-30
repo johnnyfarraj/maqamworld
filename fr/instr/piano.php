@@ -37,7 +37,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
-                        <img src="/instr/piano.jpg" alt="The Arabic Piano">
+                        <img src="/instr/piano.jpg" alt="Le Piano Arabe">
                         <span>Le pianiste libanais Ziad Rahbani (d'un poster pour un concert des années 1980)</span>
                     </div>
 

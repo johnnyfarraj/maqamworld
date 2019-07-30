@@ -150,7 +150,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Habibi Kullama Habba al-Hawa (2000)</b>
                                     <span>Fairouz (Liban)</span>
-                                    <span>Musique de Rahbani Brothers</span>
+                                    <span>Musique des Frères Rahbani</span>
                                 </div>
                             </label>
                         </div>
