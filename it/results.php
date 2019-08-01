@@ -6,7 +6,7 @@ include('../inc/config.php');
 /* SEO settings for this page */
 $page_title = "";
 $page_description = "";
-$page_keywords = "musique arabe, maqam, instruments, jins, iqa‘, iqaa, rythme, oud, qanun, nay, quart de ton, tarab";
+$page_keywords = "";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -37,11 +37,11 @@ $search_string = preg_replace('/[^A-Za-z0-9 "\']/', '', strip_tags(normalizeChar
                 <div class="col-sm-12">
                     <div id="results">
                         <div class="heading">
-                            <h1>Résultats de votre recherche</h1>
-                            <h3>Résultats de "<?php echo $search_string; ?>"</h3>
+                            <h1>Risultati di Ricerca</h1>
+                            <h3>Risultati di "<?php echo $search_string; ?>"</h3>
                         </div>
                         <i class="fa fa-fw fa-circle-o-notch fa-spin fa-2x"></i>
-                        <p>Veuillez patienter, nous consultons le site</p>
+                        <p>Per favore aspetta, consultiamo il sito</p>
                     </div>
                 </div>
             </div>
@@ -60,14 +60,14 @@ $search_string = preg_replace('/[^A-Za-z0-9 "\']/', '', strip_tags(normalizeChar
                     console.log(result);
                     $("#results").html("");
                     result = JSON.parse(result);
-                    $("#results").append('<div class="heading"><h1>Résultats de votre recherche</h1><h3>Résultats de "<?php echo addslashes($search_string); ?>"</h3></div>');
+                    $("#results").append('<div class="heading"><h1>Risultati di Ricerca</h1><h3>Risultati di "<?php echo addslashes($search_string); ?>"</h3></div>');
                     if(result.status == "error") {
                         $("#results").append("<p>" + result.message + "</p>");
                     } else {
-                        $("#results").append("<p>" + result.totalFiles + " éléments correspondants au mot clé de votre recherche.</p>");
+                        $("#results").append("<p>" + result.totalFiles + " elementi corrispondenti alla parola di ricerca.</p>");
                     }
                     for(var res in result.files) {
-                        $("#results").append('<div><a href="' + result.files[res].link + '" class="search-result">'+ result.files[res].title +'<span>' + result.files[res].link + '</span><b>Le mot clé de votre recherche a été trouvé '+ result.files[res].appereances +' fois</b></a></div>');
+                        $("#results").append('<div><a href="' + result.files[res].link + '" class="search-result">'+ result.files[res].title +'<span>' + result.files[res].link + '</span><b>La parola di ricerca è stata trovata '+ result.files[res].appereances +' volte</b></a></div>');
                     }
                 }
             })

@@ -4,9 +4,9 @@
         <div class="row">
             <div class="col-sm-4"> <img src="/img/logo-bottom.png" height="30" class="footer-logo">
                 <p>&copy; 2001-2018 MaqamWorld
-                <br>Tous droits réservés.
-                <br>Conception et codage: <a href="http://filiptodorov.com" target="_blank">Filip Todorov</a>
-                <br>Traduction française: <a href="http://independent.academia.edu/NicolasRoyerArtuso" target="_blank">Nicolas Royer-Artuso</a>
+                <br>Tutti i diritti riservati.
+                <br>Design e sviluppo: <a href="http://filiptodorov.com" target="_blank">Filip Todorov</a>
+                <br>Traduzione Italiana: Mattia Nicolò Careddu
                 </p>
                 <!--
                 <ul class="socials">
@@ -16,13 +16,13 @@
                 -->
             </div>
             <div class="col-sm-3">
-                <h3>Contactez Nous</h3>
+                <h3>Contattaci</h3>
                 <ul class="menu">
                     <!--
                     <li><a href="#"><i class="fa fa-fw fa-phone"></i> Contactez Nous</a></li>
                     <li><a href="#"><i class="fa fa-fw fa-map-marker"></i> Visitez Nous</a></li>
                     -->
-                    <li><a href="/it/contact.php"><i class="fa fa-fw fa-envelope"></i> Pour nous contacter</a></li>
+                    <li><a href="/it/contact.php"><i class="fa fa-fw fa-envelope"></i> Inviaci un messaggio</a></li>
                 </ul>
             </div>
             <div class="col-sm-5 text-right">
