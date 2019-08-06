@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Formes</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Indice del Formes</a>
                     <?php include('../sidemenu-form.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -33,7 +33,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Il Taqsim, Il Mawwal, Le Layali, La Qasida</h3>
                     </div>
 
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Formes</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Formes</a>
                     <div class="clearfix"></div>
 
                     <p>Les formes improvisées sont les véhicules les plus directs pour un <em>moutreb</em> (chanteur) ou un instrumentaliste de connecter avec son public en explorant et travaillant le <em>sayr</em> (comportement mélodique)  d'un <a href="../maqam.php">maqam</a>.
@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Le Layali</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/layali.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Layali</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/layali.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Layali</a>
                     </div>
                     <p>
                         La forme Layali est une improvisation vocale en solo sur la phrase "Ya Layl Ya ‘Ayn" (O Nuit, O Œil). "Layali" est le pluriel arabe de "layl'". C'est une phrase traditionnelle qui n'est plus utilisée dans son sens littéral mais comme un patron sonore et un véhicule à l'improvisation.
@@ -108,7 +108,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Il Mawwal</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mawwal.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Mawwal</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mawwal.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Mawwal</a>
                     </div>
                     <p>
                         Il Mawwal (Mawawil au pluriel) est une improvisation vocale solo sur un poème en arabe populaire. Le poème peut être, par exemple, en dialecte égyptien, libanais, syrien ou iraquien. Comme les autres formes vocales improvisées, le mawwal est un véhicule pour montrer sa connaissance du <em>sayr</em> du <a href="../maqam.php">maqam</a> et pour le chanteur de monter la qualité de sa voix et sa technique ornementale.
@@ -172,7 +172,7 @@ include($ROOT . 'inc/head.php');
                         <h3>La Qasida Improvisée</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qasida.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Qasida</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qasida.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Qasida</a>
                     </div>
                     <p>La Qasida (<em>Qassa'id</em> au pluriel) est un poème en mètres en arabe classique. Elle peut être utilisée dans une forme composée (voir la <a href="vocal_comp.php#qasida">qassida composée</a>) ou, dans le présent cas, utilisée comme forme pour l'improvisation. La qasida improvisée est identique au Mawwal pour l'usage du <em>sayr</em> du <a href="../maqam.php">maqam</a> et pour les nécessités artistiques auxquelles le chanteur doit faire face.
                     </p>
@@ -203,7 +203,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Qoul Lil-Maliha</b>
-                                <span>Qasida <strong>Qoul Lil-Maliha</strong> en <a href="../maqam/huzam.php">Maqam Houzam</a>, une des pièces-emblèmes du chanteur aleppin Sabah Fakhri.</span>
+                                <span>Qasida <strong>Qoul Lil-Maliha</strong> en <a href="../maqam/huzam.php">Maqam Huzam</a>, une des pièces-emblèmes du chanteur aleppin Sabah Fakhri.</span>
                                 </div>
                             </label>
                         </div>
@@ -213,7 +213,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Il Taqsim</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/taqsim.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Taqsim</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/taqsim.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Taqsim</a>
                     </div>
                     <p> Il Taqsim (<em>Taqassim</em> au pluriel) est une improvisation instrumentale guidée par un patron traditionnel qui suit le <em>sayr</em> du <a href="../maqam.php">maqam</a> (incluant l'intonation, le phrasé et les modulations). Le taqsim démontre aussi la beauté de l'instrument, ses possibilités ornementales et le talent du musicien, sa technique et sa personnalité.
                     </p>
@@ -249,7 +249,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>‘Amer ‘Ammouri</b>
-                                    <span>Taqsim au <a href="../instr/oud.php">oud</a> par 'Amer 'Ammuri (Syrie) en <a href="../maqam/huzam.php">Maqam Houzam</a> pendant un concert de Sabah Fakhri.
+                                    <span>Taqsim au <a href="../instr/oud.php">oud</a> par 'Amer 'Ammuri (Syrie) en <a href="../maqam/huzam.php">Maqam Huzam</a> pendant un concert de Sabah Fakhri.
                                     </span>
                                 </div>
                             </label>

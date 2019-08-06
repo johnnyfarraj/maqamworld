@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Instruments</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Indice del Instruments</a>
                     <?php include('../sidemenu-instr.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -33,7 +33,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Un tambour sur cadre de support rythmique</h3>
                     </div>
 
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Instruments</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Instruments</a>
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/katim.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Katèm</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/katim.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Katèm</a>
                     </div>
 
                     <p> Il Katem (du verbe <em>katama</em>, 'assourdir' ou 'étouffer') est un tambour sur cadre lourd qui produit un son étouffé. Il Katem est généralement posé entre les genoux du musicien et est fait pour être joué avec les mains plutôt qu'avec les doigts. La plupart des Katèms actuels ont des peaux de plastiques et sont accordables. Le rôle du Katèm est de supporter les autres instruments de la section rythmique en accentuant les sons <em>doum</em> et <em>tak</em> de base avec beaucoup d'ornementation.</p>

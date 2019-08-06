@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam ‘Ouchaq Masri";
-$page_description = "Maqam ‘Ouchaq Masri";
+$page_title = "Maqam ‘Ushaq Masri";
+$page_description = "Maqam ‘Ushaq Masri";
 $page_keywords = "arabic, music, arab, world, maqam, jins, nahawand murassaa, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
 $page_language = "it";
 
@@ -23,20 +23,20 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Indice del Maqam</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam ‘Ouchaq Masri</h1>
-                        <h3>Membre de la <a href="f_nahawand.php">Famille du Maqam Nahawand</a></h3>
+                        <h1>Maqam ‘Ushaq Masri</h1>
+                        <h3>Appartenente alla <a href="f_nahawand.php">Famiglia Maqam Nahawand</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Maqam</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/ushaq_masri.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de ‘Ushaq Masri</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/ushaq_masri.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di ‘Ushaq Masri</a>
                     </div>
 
 
@@ -62,9 +62,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="414,9,548,40" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Maqam ‘Ouchaq Masri est une variation du <a href="nahawand.php">Maqam Nahawand</a> avec le <a href="../jins/bayati.php">Jins Bayati</a> sur le 5<sup>ième</sup> degré (le <em>ghammaz</em>), au-dessus du Jins de base <a href="../jins/nahawand.php">Nahawand</a> sur le 1er degré.</p>
+                    <p>Le Maqam ‘Ushaq Masri est une variation du <a href="nahawand.php">Maqam Nahawand</a> avec le <a href="../jins/bayati.php">Jins Bayati</a> sur le 5<sup>ième</sup> degré (le <em>ghammaz</em>), au-dessus du Jins de base <a href="../jins/nahawand.php">Nahawand</a> sur le 1er degré.</p>
 
-                    <p>Explorez d'autres maqams dans la <a href="f_nahawand.php">Famille du Maqam Nahawand</a>.</p>
+                    <p>Scopri altri maqamat della <a href="f_nahawand.php">Famiglia Maqam Nahawand</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

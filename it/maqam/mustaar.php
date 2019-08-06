@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Mousta‘ar";
-$page_description = "Maqam Mousta‘ar";
+$page_title = "Maqam Musta‘ar";
+$page_description = "Maqam Musta‘ar";
 $page_keywords = "arabic, music, arab, world, maqam, jins, sikah, mustaar, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
 $page_language = "it";
 
@@ -23,20 +23,20 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Indice del Maqam</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Mousta‘ar (ou Moustaar)</h1>
-                        <h3>Membre de la <a href="f_sikah.php">Famille du Maqam Sikah</a></h3>
+                        <h1>Maqam Musta‘ar (ou Moustaar)</h1>
+                        <h3>Appartenente alla <a href="f_sikah.php">Famiglia Maqam Sikah</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Maqam</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mustaar.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Mousta‘ar</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mustaar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Musta‘ar</a>
                     </div>
 
                    
@@ -63,9 +63,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="488,5,597,34" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
                       
 					</map>
-                    <p>Le Maqam Mousta‘ar est un maqam très rare en tant que maqam indépendant. Il est plus commun est tant que jins ou comme sayr utilisé à l'intérieur du <a href="huzam.php">Maqam Houzam</a> et du <a href="sikah.php">Maqam Sikah</a>. Sa gamme commence avec le Jins de base <a href="../jins/mustaar.php">Mousta‘ar</a> sur la tonique (Mi<i class="icon-halfflat"></i>), suivi du <a href="../jins/nahawand.php">Jins Nahawand</a> sur le 3<sup>ième</sup> degré,  et finalement du <a href="../jins/rast.php">Jins Rast</a> sur le 6<sup>ième</sup> degré.
+                    <p>Le Maqam Musta‘ar est un maqam très rare en tant que maqam indépendant. Il est plus commun est tant que jins ou comme sayr utilisé à l'intérieur du <a href="huzam.php">Maqam Huzam</a> et du <a href="sikah.php">Maqam Sikah</a>. Sa gamme commence avec le Jins de base <a href="../jins/mustaar.php">Musta‘ar</a> sur la tonique (Mi<i class="icon-halfflat"></i>), suivi du <a href="../jins/nahawand.php">Jins Nahawand</a> sur le 3<sup>ième</sup> degré,  et finalement du <a href="../jins/rast.php">Jins Rast</a> sur le 6<sup>ième</sup> degré.
                     </p>
-                    <p>Explorez d'autres maqams dans la <a href="f_sikah.php">Famille du Maqam Sikah</a>.</p>
+                    <p>Scopri altri maqamat della <a href="f_sikah.php">Famiglia Maqam Sikah</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

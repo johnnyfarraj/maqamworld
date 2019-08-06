@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Instruments</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Indice del Instruments</a>
                     <?php include('../sidemenu-instr.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -33,7 +33,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Cymbales en laiton tenues par les doigts</h3>
                     </div>
 
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Instruments</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Instruments</a>
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
@@ -42,10 +42,10 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/sagat.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Sagat (Sajat)</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/sagat.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Sagat (Sajat)</a>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/tura.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Tura</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/tura.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Tura</a>
                     </div>
 
                     <p>Le Sagats (appelées <em>Sajat</em> à l'extérieur de l'Égypte) sont des cymbales en laiton tenues par les doigts qui ont un diamètre de 3,5 à 5 centimètres (des cymbales pouvant être jusqu'à deux fois plus larges existent aussi et sont appelées <em>Toura</em>). Elles sont portées sur le pouce et le troisième doigt de chaque main à l'aide de bandes élastiques.

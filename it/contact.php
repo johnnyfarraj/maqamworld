@@ -6,7 +6,7 @@ include('../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Contact Maqam World";
 $page_description = "";
-$page_keywords = "musique arabe, maqam, jins, iqa‘, iqaa, rythme, oud, qanun, nay, quart de ton, tarab";
+$page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay,  quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -24,26 +24,26 @@ include($ROOT . 'inc/head.php');
             <div class="row align-items-center">
                 <div class="col-sm-4 ml-auto mr-auto">
                     <div class="heading text-center">
-                        <h1>Contactez Nous</h1>
-                        <h3>MaqamWorld prend votre opinion à coeur et répondra à vos commentaires dans les plus brefs délais</h3>
+                        <h1>Contattaci</h1>
+                        <h3>MaqamWorld prende sul serio la vostra opinione e risponderà ai vostri commenti il prima possibile</h3>
                     </div>
                     <form action="contact.php" method="post" class="contact-form">
                         <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Prénom" autocomplete="off" name="firstname" required>
+                            <input type="text" class="form-control" placeholder="Nome" autocomplete="off" name="firstname" required>
                         </div>
                         <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Nom" autocomplete="off" name="lastname" required>
+                            <input type="text" class="form-control" placeholder="Cognome" autocomplete="off" name="lastname" required>
                         </div>
                         <div class="form-group">
                             <input type="email" class="form-control" placeholder="Email" autocomplete="off" name="email" required>
                         </div>
                         <div class="form-group">
-                            <textarea class="form-control" placeholder="Message" autocomplete="off" id="message-area" maxlength="500" name="message" style="min-height: 100px;" required></textarea>
+                            <textarea class="form-control" placeholder="Messaggio" autocomplete="off" id="message-area" maxlength="500" name="message" style="min-height: 100px;" required></textarea>
                             <p class="text-right characters-used"><span id="used">0</span>/500</p>
                         </div>
                         <div id="recaptcha"></div>
                         <div class="form-group text-right">
-                            <button type="submit" class="btn btn-primary">Envoyez le message</button>
+                            <button type="submit" class="btn btn-primary">Invia il messaggio</button>
                         </div>
                     </form>
                 </div>
@@ -72,11 +72,11 @@ include($ROOT . 'inc/head.php');
                         result = JSON.parse(result);
                         if(result.status == "success") {
                             $("form").hide();
-                            $(".heading h1").text("Message envoyé avec succès");
+                            $(".heading h1").text("il messaggio è stato inviato correttamente");
                             $(".heading h3").text(result.message)
                         } else {
                             alert(result.message);
-                            $(".contact-form .btn-primary").html("Envoyez le message").prop("disabled", false);
+                            $(".contact-form .btn-primary").html("Invia il messaggio").prop("disabled", false);
                         }
                     }
                 })

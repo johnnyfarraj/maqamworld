@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Formes</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Indice del Formes</a>
                     <?php include('../sidemenu-form.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -33,14 +33,14 @@ include($ROOT . 'inc/head.php');
                         <h3>Il Sama‘i, La Longa, Il Bashraf</h3>
                     </div>
 
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Formes</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Formes</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/khana.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Khana</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/khana.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Khana</a>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/taslim.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Taslim</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/taslim.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Taslim</a>
                     </div>
 
                     <p>
@@ -54,7 +54,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Il Sama‘i</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/samai.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Sama‘i</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/samai.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Sama‘i</a>
                     </div>
                     <p>
                         Il Sama‘i est une forme instrumentale composée qui consiste en quatre <em>khana</em>-s, chacune suivie du même <em>taslim</em>. La structure d'un Sama‘i est K1, T, K2, T, K3, T, K4, T. Chaque section est composée dans le <a href="../iqaa/samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a>, sauf la quatrième khana, qui est généralement composé dans un cycle rythmique asymétrique tel que le <a href="../iqaa/samai_saraband.php">Iqa‘ Sama‘i Sarabande</a> ou le <a href="../iqaa/samai_darij.php">Iqa‘ Sama‘i Darej</a>.
@@ -146,14 +146,14 @@ include($ROOT . 'inc/head.php');
                         <h3>La Longa</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/longa.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Longa</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/longa.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Longa</a>
                     </div>
                     
                     <p>
                         La Longa est la deuxième forme ottomane la plus populaire. Il est généralement composé dans le court et sautillant <a href="../iqaa/fox.php">Iqa‘ Fox</a> pour les <em>khana</em>-s et dans le <a href="../iqaa/malfuf.php">Iqa‘ Malfouf</a> pour le <em>taslim</em>.
                     </p>
                     <p>
-                        Plusieurs longas de l'ère ottomane utilisent des maqams tempérés tels que <a href="../maqam/nahawand.php">Nahawand</a>, <a href="../maqam/hijaz.php">Hijaz</a> et <a href="../maqam/nikriz.php">Nikriz</a>, et utilisent des mélodies qui évoquent la musique de l'Europe de l'Est. Beaucoup de compositeurs arabes suivent toujours cette approche.
+                        Plusieurs longas de l'ère ottomane utilisent des maqamat tempérés tels que <a href="../maqam/nahawand.php">Nahawand</a>, <a href="../maqam/hijaz.php">Hijaz</a> et <a href="../maqam/nikriz.php">Nikriz</a>, et utilisent des mélodies qui évoquent la musique de l'Europe de l'Est. Beaucoup de compositeurs arabes suivent toujours cette approche.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=JnTGci4VSXo">
@@ -208,7 +208,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Il Bashraf</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/Bachraf.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Bachraf</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/Bachraf.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Bachraf</a>
                     </div>
                     <p> 
                         Il Bashraf est la forme ottomane la moins utilisée et n'est généralement joué que dans le contexte des cours de musique et des exercices instrumentaux. Il Bashraf consiste en quatre <em>khana</em>-s, chacun suivi par le même <em>taslim</em>, et est rarement composé par des musiciens arabes.

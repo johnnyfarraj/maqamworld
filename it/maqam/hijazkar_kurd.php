@@ -23,20 +23,20 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Indice del Maqam</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
                         <h1>Maqam Hijazkar Kurd</h1>
-                        <h3>Membre de la <a href="f_kurd.php">Famille du Maqam Kurd</a></h3>
+                        <h3>Appartenente alla <a href="f_kurd.php">Famiglia Maqam Kurd</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Maqam</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/hijazkar_kurd.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Hijazkar Kurd</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/hijazkar_kurd.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Hijazkar Kurd</a>
                     </div>
 
                     <div class="notation" id="notation1">
@@ -66,7 +66,7 @@ include($ROOT . 'inc/head.php');
 					</map>
                     <p>Le Maqam Hijazkar Kurd est une version archaïque du <a href="kurd.php">Maqam Kurd</a> composé du <a href="../jins/hijazkar.php">Jins Hijazkar</a> à l'octave supérieure. Sa gamme commence avec le <a href="../jins/kurd.php">Jins Kurd</a> comme jins de base sur la tonique, suivi du <a href="../jins/nahawand.php">Jins Nahawand</a> sur le 4<sup>ième</sup> degré.</p>
 
-                    <p>Explorez d'autres maqams dans la <a href="f_kurd.php">Famille du Maqam Kurd</a>.</p>
+                    <p>Scopri altri maqamat della <a href="f_kurd.php">Famiglia Maqam Kurd</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

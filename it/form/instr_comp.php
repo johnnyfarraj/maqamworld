@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Formes</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Indice del Formes</a>
                     <?php include('../sidemenu-form.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -33,7 +33,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Il Doulab, La Maqtoua, La Muqaddima, La Tahmila, Il Darej</h3>
                     </div>
 
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Formes</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Formes</a>
                     <div class="clearfix"></div>
 
                     <p>Les formes composées instrumentales ne sont pas aussi répandues que les <a href="vocal_comp.php">Formes Vocales Composées</a> dans la musique arabe, celle-ci étant principalement de nature orale. Les performances uniquement instrumentales sont de ce fait très rares. Pourtant, la musique instrumentale est un complément très beau à la musique vocale et lui sert d'introduction, fournit des interludes entre les pièces vocales et permet aux instrumentistes de montrer leur talent au sein de l'orchestre.</p>
@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <h3>La Maqtoua</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/maqtua.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Maqtoua</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/maqtua.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Maqtoua</a>
                     </div>
                     <p> The Maqtoua ('pièce', au sens littéral) est un type de composition instrumental. Elle est aussi appelée <em>ma‘zufa</em>ma'zoufa (jouée sur un instrument au lieu d'être chantée). La forme <em>maqtoua</em> est très populaire dans la musique <em>Raqs Sharqi</em> (danse du ventre).
                     </p>
@@ -117,7 +117,7 @@ include($ROOT . 'inc/head.php');
                         <h3>The Mouqaddima</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/muqaddima.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Mouqaddima</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/muqaddima.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Mouqaddima</a>
                     </div>
                     <p> The Mouqaddima veut littéralement dire 'introduction'. Cette forme est devenue populaire autour du milieu du 20<sup>ième</sup> siècle quand les compositeurs ont commencé à ajouter de longues introductions à la forme nouvellement populaire <a href="vocal_comp.php#ughniya">Oughniya</a> (longue chanson). Les <em>Mouqaddima</em>-s élaborées peuvent durer plus de cinq minutes, avoir plusieurs sections, des modulations de <a href="../maqam.php">Maqam</a> à maqam et des solos instrumentaux.
                     </p>
@@ -178,7 +178,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Il Doulab</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/dulab.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Doulab</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/dulab.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Doulab</a>
                     </div>
                     <p> Il Doulab est une composition très courte qui élabore et introduit les caractéristiques d'un <a href="../maqam.php">Maqam</a>. Son nom veut dire 'roue' en arabe et lui est donné parce que la mélodie est répétée plusieurs fois. Le doulab peut être joué seul avant une <a href="improv.php">improvisation</a>, ou peut servir comme introduction à un <a href="vocal_comp.php#dawr">Dawr</a>.
                     </p>
@@ -221,7 +221,7 @@ include($ROOT . 'inc/head.php');
                         <h3>La Tahmila</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/tahmila.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Tahmila</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/tahmila.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Tahmila</a>
                     </div>
                     <p>La Tahmila est une pièce instrumentale qui combine un refrain répété avec des phrases qui sont en partie composées et en partie improvisées. La tahmila est généralement jouée par un petit <em>takht</em> (le petit ensemble traditionnel), et chaque musicien joue à son tour la phrase, improvise, et le refrain est joué par l'ensemble au complet.
                     </p>
@@ -264,7 +264,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Il Darej</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/darij.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Darej</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/darij.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Darej</a>
                     </div>
                     <p> La forme Darej (appelée officiellement <em>Sama'i Darej</em>) est une composition instrumentale simple nommée d'après le <a href="../iqaa/samai_darij.php">Iqa‘ Sama‘i Darej (3/4)</a> qu'elle utilise. Comme les <a href="ottoman.php">Formes Instrumentales Ottomanes</a>, la composition Darej est ancrée dans un <a href="../maqam.php">maqam</a> principal qui lui donne son nom, celui-ci suivi du nom du compositeur.
                     </p>

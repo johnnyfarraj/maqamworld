@@ -23,20 +23,20 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Indice del Maqam</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
                         <h1>Maqam Athar Kurd</h1>
-                        <h3>Membre de la <a href="f_nikriz.php">Famille du Maqam Nikriz</a></h3>
+                        <h3>Appartenente alla <a href="f_nikriz.php">Famiglia Maqam Nikriz</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Maqam</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/athar_kurd.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Athar Kurd</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/athar_kurd.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Athar Kurd</a>
                     </div>
 
 
@@ -65,7 +65,7 @@ include($ROOT . 'inc/head.php');
 		          </p>
                     <p>La gamme du Maqam Athar Kurd est un hybride entre le <a href="nawa_athar.php">Maqam Nawa Athar</a> et le <a href="kurd.php">Maqam Kurd</a>, d'où son nom.
 		          </p>
-                    <p>Explorez d'autres maqams dans la <a href="f_nikriz.php">Famille du Maqam Nikriz</a>.</p>
+                    <p>Scopri altri maqamat della <a href="f_nikriz.php">Famiglia Maqam Nikriz</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

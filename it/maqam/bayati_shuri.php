@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Bayati Chouri";
-$page_description = "Maqam Bayati Chouri";
+$page_title = "Maqam Bayati Shuri";
+$page_description = "Maqam Bayati Shuri";
 $page_keywords = "arabic, music, arab, world, maqam, jins, bayati shuri, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
 $page_language = "it";
 
@@ -23,20 +23,20 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Indice del Maqam</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Bayati Chouri</h1>
-                        <h3>Membre de la <a href="f_bayati.php">Famille du Maqam Bayati</a></h3>
+                        <h1>Maqam Bayati Shuri</h1>
+                        <h3>Appartenente alla <a href="f_bayati.php">Famiglia Maqam Bayati</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Maqam</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/bayati_shuri.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Bayati Chouri</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/bayati_shuri.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Bayati Shuri</a>
                     </div>
 
                       <div class="notation" id="notation1">
@@ -61,11 +61,11 @@ include($ROOT . 'inc/head.php');
 
 					</map>
 
-                    <p>Maqam Bayati Chouri is a variation of <a href="bayati.php">Maqam Bayati</a> with a lowered 5<sup>th</sup> degree. It starts with the root <a href="../jins/bayati.php">Jins Bayati</a> on the <em>tonic</em> followed by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 4<sup>th</sup> degree.</p>
+                    <p>Maqam Bayati Shuri is a variation of <a href="bayati.php">Maqam Bayati</a> with a lowered 5<sup>th</sup> degree. It starts with the root <a href="../jins/bayati.php">Jins Bayati</a> on the <em>tonic</em> followed by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 4<sup>th</sup> degree.</p>
                     
                     <p>C'est un maqam très populaire, surtout pour les <a href="../form/vocal_comp.php">compositions vocales</a> dans les genres Mouachahat et Adwar.</p>
                     
-                    <p>Explorez d'autres maqams dans la <a href="f_bayati.php">Famille du Maqam Bayati</a>.</p>
+                    <p>Scopri altri maqamat della <a href="f_bayati.php">Famiglia Maqam Bayati</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -78,8 +78,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Sama‘i Bayati Chouri</b>
-                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 2 (Bayati Chouri)</span>
+                                    <b>Sama‘i Bayati Shuri</b>
+                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 2 (Bayati Shuri)</span>
                                 </div>
                             </label>
                         </div>
@@ -90,8 +90,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim au Violon en Maqam Bayati Chouri</b>
-                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 2 (Bayati Chouri)</span>
+                                    <b>Taqsim au Violon en Maqam Bayati Shuri</b>
+                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 2 (Bayati Shuri)</span>
                                 </div>
                             </label>
                         </div>
@@ -105,7 +105,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Mouachah Hibbi Da‘ani Lil-Wisal</b>
                                     <span>Sabah Fakhri (Syrie)</span>
                                     <span>Musique de Sayyed Darwich</span>
-                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 2 (Bayati Chouri)</span>
+                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 2 (Bayati Shuri)</span>
                                 </div>
                             </label>
                         </div>
@@ -118,7 +118,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Talaffata al-Dhabiyu</b>
                                     <span>Sabah Fakhri (Syrie)</span>
-                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 2 (Bayati Chouri)</span>
+                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 2 (Bayati Shuri)</span>
                                 </div>
                             </label>
                         </div>
@@ -167,9 +167,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim au Qanoun en Maqam Bayati Chouri</b>
+                                    <b>Taqsim au Qanoun en Maqam Bayati Shuri</b>
                                     <span>Marie Joubran</span>
-                                    <span>Wasla en Bayati Chouri</span>
+                                    <span>Wasla en Bayati Shuri</span>
                                 </div>
                             </label>
                         </div>

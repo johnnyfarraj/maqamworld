@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Instruments</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Indice del Instruments</a>
                     <?php include('../sidemenu-instr.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -33,7 +33,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Grand Tambour Villageois avec peau sur les deux côtés</h3>
                     </div>
 
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Instruments</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Instruments</a>
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/tabl_baladi.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Tabl baladi</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/tabl_baladi.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Tabl baladi</a>
                     </div>
 
                     <p> Il Tabl Baladi est un grand tambour villageois fait d'un cadre de bois avec des peaux lourdes sur les deux côtés. Il est attaché à l'épaule du musicien avec une ceinture et est joué à l'aide de deux bâtons: le bâton épais est pour les sons dum, joués avec la main dominante tandis que le bâton mince est pour les sons tak joués avec l'autre main.
