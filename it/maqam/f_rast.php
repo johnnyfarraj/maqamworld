@@ -39,7 +39,7 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/rast.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Rast</a>
                     </div>
 
-                    <p>La Famiglia Maqam Rast comprende <em>maqamat</em>che iniziano con <a href="../jins/rast.php">Jins Rast</a>.</p>
+                    <p>La Famiglia Maqam Rast comprende <em>maqamat</em> che iniziano con <a href="../jins/rast.php">Jins Rast</a>.</p>
 
                     <!-- TODO we need to format this list in a nice way -->
                     <ul>

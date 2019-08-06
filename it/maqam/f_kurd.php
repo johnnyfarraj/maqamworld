@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Kurd</a>
                     </div>
 
-                    <p>La Famiglia Maqam Kurd comprende <em>maqamat</em>che iniziano con <a href="../jins/kurd.php">Jins Kurd</a>.</p>
+                    <p>La Famiglia Maqam Kurd comprende <em>maqamat</em> che iniziano con <a href="../jins/kurd.php">Jins Kurd</a>.</p>
 
                     <!-- TODO we need to format this list in a nice way -->
                     <ul>

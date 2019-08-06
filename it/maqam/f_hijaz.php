@@ -39,7 +39,7 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/hijaz.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Hijaz</a>
                     </div>
 
-                    <p>La Famiglia Maqam Hijaz comprende <em>maqamat</em>che iniziano con <a href="../jins/hijaz.php">Jins Hijaz</a>.</p>
+                    <p>La Famiglia Maqam Hijaz comprende <em>maqamat</em> che iniziano con <a href="../jins/hijaz.php">Jins Hijaz</a>.</p>
 
                     <!-- TODO we need to format this list in a nice way -->
                     <ul>

@@ -39,7 +39,7 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/bayati.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Bayati</a>
                     </div>
 
-                    <p>La Famiglia Maqam Bayati comprende <em>maqamat</em>che iniziano con <a href="../jins/bayati.php">Jins Bayati</a>.</p>
+                    <p>La Famiglia Maqam Bayati comprende <em>maqamat</em> che iniziano con <a href="../jins/bayati.php">Jins Bayati</a>.</p>
 
                     <!-- TODO we need to format this list in a nice way -->
                     <ul>

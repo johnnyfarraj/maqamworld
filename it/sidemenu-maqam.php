@@ -27,7 +27,6 @@
     <li><a href="/it/maqam/nairuz.php">Nairuz</a></li>
     <li><a href="/it/maqam/nawa_athar.php">Nawa Athar</a></li>
     <li><a href="/it/maqam/nikriz.php">Nikriz</a></li>
-    <li><a href="/it/maqam/ushaq_masri.php">‘Ushaq Masri</a></li>
     <li><a href="/it/maqam/huzam.php">Rahat al-Arwah</a></li>
     <li><a href="/it/maqam/hijazkar.php">Shadd ‘Araban</a></li>
     <li><a href="/it/maqam/hijazkar.php">Shahnaz</a></li>
@@ -41,6 +40,7 @@
     <li><a href="/it/maqam/suzdalara.php">Suzdalara</a></li>
     <li><a href="/it/maqam/hijazkar.php">Suzidil</a></li>
     <li><a href="/it/maqam/suznak.php">Suznak</a></li>
+    <li><a href="/it/maqam/ushaq_masri.php">‘Ushaq Masri</a></li>
     <li><a href="/it/maqam/nairuz.php">Yakah</a></li>
     <li><a href="/it/maqam/zanjaran.php">Zanjaran</a></li>
 </ul>
