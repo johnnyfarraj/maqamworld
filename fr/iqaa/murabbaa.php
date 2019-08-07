@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/murabbaa.png" class="img-fluid">
                     </div>
 
-                    <p>Le Iqa‘ Mourabba‘ est un <em>iqa‘</em>em> en général confiné au répertoire vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a>. Le mot <em>mourabba‘</em> veut dire 'carré ou basé sur le chiffre 4' en arabe, ce qui fait que le sens du nom n'est pas lié au rythme en question.
+                    <p>Le Iqa‘ Mourabba‘ est un <em>iqa‘</em> en général confiné au répertoire vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a>. Le mot <em>mourabba‘</em> veut dire 'carré ou basé sur le chiffre 4' en arabe, ce qui fait que le sens du nom n'est pas lié au rythme en question.
                     </p>
 
                     <div class="player-area">

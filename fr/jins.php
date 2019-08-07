@@ -39,7 +39,7 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/jins.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Jins/Ajnas</a>
                     </div>
 
-                    <p>Le <em>Jins</em> (<em>Ajnas</em> au pluriel) sont des fragments de gamme de 3, 4 ou 5 notes. Le Jins est l'unité mélodique de base en musique arabe dans le sens qu'un <a href="maqam.php">maqam</a> est une route entre plusieurs <em>ajnas</em>em>. Chaque <em>jins</em> est défini par ses intervalles (qui ne changent pas quand il y a transposition) qui lui donnent son caractère distinct et reconnaissable.
+                    <p>Le <em>Jins</em> (<em>Ajnas</em> au pluriel) sont des fragments de gamme de 3, 4 ou 5 notes. Le Jins est l'unité mélodique de base en musique arabe dans le sens qu'un <a href="maqam.php">maqam</a> est une route entre plusieurs <em>ajnas</em>. Chaque <em>jins</em> est défini par ses intervalles (qui ne changent pas quand il y a transposition) qui lui donnent son caractère distinct et reconnaissable.
                     </p>
 
                     <p>La tonique d'un <em>jins</em> est la note qui reçoit l'emphase principale, la note vers laquelle la mélodie retourne pour se résoudre. C'est en général la première note du <em>jins</em>. La sensible est la note qui précède la tonique du <em>jins</em>. Le <em>ghammaz</em> est la note mélodiquement la plus importante (après la tonique) et est aussi la note qui démarre en général un nouveau <em>jins</em> (changer de <em>jins</em> ou de <a href="maqam.php">maqam</a> est appelé modulation).
