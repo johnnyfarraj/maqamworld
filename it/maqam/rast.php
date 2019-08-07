@@ -65,7 +65,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="637,11,820,39" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Maqam Rast est de loin l'un des <em>maqams</em> les plus populaires du répertoire de la musique arabe, ansi que Il maqam principale nella <a href="f_rast.php">famille du Maqam Rast</a>. Sa gamme commence avec le jins de base <a href="../jins/rast.php">Rast</a> sur la tonique, suivi du <a href="../jins/upper_rast.php">Jins Haut Rast</a> (avec sa tonique sur le 8<sup>ième</sup> degré) ou du <a href="../jins/nahawand.php">Jins Nahawand</a> sur le 5<sup>ième</sup> degré.
+                    <p>Le Maqam Rast est de loin l'un des <em>maqams</em> les plus populaires du répertoire de la musique arabe, ansi que Il maqam principale nella <a href="f_rast.php">famille du Maqam Rast</a>. Sa gamme commence avec le jins de base <a href="../jins/rast.php">Rast</a> sur la tonique, suivi du <a href="../jins/upper_rast.php">Jins Rast Alto</a> (avec sa tonique sur le 8<sup>ième</sup> degré) ou du <a href="../jins/nahawand.php">Jins Nahawand</a> sur le 5<sup>ième</sup> degré.
                     </p>
 
                     <p>Scopri altri maqamat della <a href="f_rast.php">Famiglia Maqam Rast</a>.</p>

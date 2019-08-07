@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Indice del Ajnas</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Indice del Jins</a>
                     <?php include('../sidemenu-jins.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -32,7 +32,7 @@ include($ROOT . 'inc/head.php');
                         <h1>Jins Nikriz</h1>
                         <h3>Jins de base de la <a href="../maqam/f_nikriz.php">Famiglia Maqam Nikriz</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Ajnas</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Jins</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -59,7 +59,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="678,50,12" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 
 					</map>
-                    <p>Le Jins Nikriz est un <em>jins</em> de 5 notes. Il est noté ici avec sa tonique sur Do et son <em>ghammaz</em> sur Sol. Le Jins Nikriz est le premier <em>jins</em> du <a href="../maqam/nikriz.php">Maqam Nikriz</a> et du <a href="../maqam/nawa_athar.php">Maqam Nawa Athar</a>.
+                    <p>Il Jins Nikriz est un <em>jins</em> de 5 notes. Il est noté ici avec sa tonique sur Do et son <em>ghammaz</em> sur Sol. Il Jins Nikriz est le premier <em>jins</em> du <a href="../maqam/nikriz.php">Maqam Nikriz</a> et du <a href="../maqam/nawa_athar.php">Maqam Nawa Athar</a>.
                     </p>
 
                     <div class="player-area">

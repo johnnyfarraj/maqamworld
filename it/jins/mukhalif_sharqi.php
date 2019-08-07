@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Jins Moukhalef Sharqi";
-$page_description = "Jins Moukhalef Sharqi";
+$page_title = "Jins Mukhalef Sharqi";
+$page_description = "Jins Mukhalef Sharqi";
 $page_keywords = "musique arabe, maqam, instruments, jins moukhalef sharqui, iqa‘, iqaa, rythme, oud, qanun, nay, quart de ton, tarab";
 $page_language = "it";
 
@@ -23,20 +23,20 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Indice del Ajnas</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Indice del Jins</a>
                     <?php include('../sidemenu-jins.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins Moukhalef Sharqi <span class="badge badge-custom">Nouveau</span></h1>
+                        <h1>Jins Mukhalef Sharqi <span class="badge badge-custom">Nouveau</span></h1>
                         <h3>Une variation du <a href="sikah.php">Jins Sikah</a> avec une tierce abaissée</h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Ajnas</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Jins</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mukhalif_sharqi.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Moukhalef Sharqi</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mukhalif_sharqi.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Mukhalef Sharqi</a>
                     </div>
                     <div class="notation" id="notation1">
                         <img src="/note/jins/mukhalif_sharqi.png" class="img-fluid" usemap="#notemap">
@@ -50,7 +50,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="233,70,13" href="#" alt="Sol♭" class="playNote" data-frequency="365.32" data-parent="#notation1">
 
 					</map>
-                    <p>Le Jins Moukhalef Sharqi  n'a pas de <em>ghammaz</em> et donc pas de taille définie. Il est noté ici avec sa tonique sur Mi<i class="icon-halfflat"></i>. Le Jins Moukhalef Sharqi  ne fait partie d'aucun <em>maqam</em> et apparaît généralement comme une modulation à partir du <a href="sikah.php">Jins Sikah</a>.
+                    <p>Il Jins Mukhalef Sharqi  n'a pas de <em>ghammaz</em> et donc pas de taille définie. Il est noté ici avec sa tonique sur Mi<i class="icon-halfflat"></i>. Il Jins Mukhalef Sharqi  ne fait partie d'aucun <em>maqam</em> et apparaît généralement comme une modulation à partir du <a href="sikah.php">Jins Sikah</a>.
                     </p>
 
                     <div class="player-area">

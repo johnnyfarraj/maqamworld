@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Jins Saba Dalanchine";
-$page_description = "Jins Saba Dalanchine";
+$page_title = "Jins Saba Dalancin";
+$page_description = "Jins Saba Dalancin";
 $page_keywords = "musique arabe, maqam, instruments, jins saba dalanchine, iqa‘, iqaa, rythme, oud, qanun, nay, quart de ton, tarab";
 $page_language = "it";
 
@@ -23,20 +23,20 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Indice del Ajnas</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Indice del Jins</a>
                     <?php include('../sidemenu-jins.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins Saba Dalanchine <span class="badge badge-custom">Nouveau</span></h1>
+                        <h1>Jins Saba Dalancin <span class="badge badge-custom">Nouveau</span></h1>
                         <h3>Une variation spéciale du <a href="saba.php">Jins Saba</a> avec sa tonique sur le 3<sup>ième</sup> degré</h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Ajnas</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Jins</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/saba_dalanshin.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Saba Dalanchine</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/saba_dalanshin.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Saba Dalancin</a>
                     </div>
 
                      <div class="notation" id="notation1">
@@ -56,9 +56,9 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="509,21,13" href="#" alt="Fa" class="playNote" data-frequency="695.3" data-parent="#notation1">
 
 					</map>
-                    <p>Le Jins Saba Dalanchine est un type spécial du <a href="saba.php">Jins Saba</a>. Il n'a pas de <em>ghammaz</em> et par conséquent n'as pas de taille définie. Sa mélodie est concentrée sur sa tonique, notée ici sur Do. Les intervalles au dessus de la tonique sont plus ou moins identiques à ceux du <a href="hijaz.php">Jins Hijaz</a>. La note qui est 2 degrés en dessous de la tonique (La, dans le cas présent) est la tonique secondaire.</p>
+                    <p>Il Jins Saba Dalancin est un type spécial du <a href="saba.php">Jins Saba</a>. Il n'a pas de <em>ghammaz</em> et par conséquent n'as pas de taille définie. Sa mélodie est concentrée sur sa tonique, notée ici sur Do. Les intervalles au dessus de la tonique sont plus ou moins identiques à ceux du <a href="hijaz.php">Jins Hijaz</a>. La note qui est 2 degrés en dessous de la tonique (La, dans le cas présent) est la tonique secondaire.</p>
 
-                    <p>Le Jins Saba Dalanchine apparaît sur l'octave du <a href="../maqam/rast.php">Maqam Rast</a>, et dans ce cas il est appelé <a href="../maqam/dalanshin.php">Maqam Dalanshin</a>. Il apparaît aussi sur le 5<sup>ième</sup> degré du <a href="../maqam/shawq_afza.php">Maqam Shawq Afza</a>.</p>
+                    <p>Il Jins Saba Dalancin apparaît sur l'octave du <a href="../maqam/rast.php">Maqam Rast</a>, et dans ce cas il est appelé <a href="../maqam/dalanshin.php">Maqam Dalancin</a>. Il apparaît aussi sur le 5<sup>ième</sup> degré du <a href="../maqam/shawq_afza.php">Maqam Shawq Afza</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

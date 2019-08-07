@@ -49,7 +49,7 @@ include($ROOT . 'inc/head.php');
                         <li><a href="suznak.php">Maqam Suznak</a></li>
                         <li><a href="nairuz.php">Maqam Nairuz</a></li>
                         <li><a href="nairuz.php">Maqam Yakah</a></li>
-                        <li><a href="dalanshin.php">Maqam Dalanshin</a></li>
+                        <li><a href="dalanshin.php">Maqam Dalancin</a></li>
                         <li><a href="suzdalara.php">Maqam Suzdalara</a></li>
                         <li><a href="mahur.php">Maqam Mahur</a></li>
                     </ul>

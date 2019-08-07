@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Indice del Ajnas</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Indice del Jins</a>
                     <?php include('../sidemenu-jins.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -32,7 +32,7 @@ include($ROOT . 'inc/head.php');
                         <h1>Jins Sikah Baladi <span class="badge badge-custom">Nouveau</span></h1>
                         <h3>(de taille indéfinie)</h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Ajnas</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Jins</a>
                     <div class="clearfix"></div>
                     
                     <div class="text-center mt-2 mb-3">
@@ -55,7 +55,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="473,51,13" href="#" alt="Do↓" class="playNote" data-frequency="515" data-parent="#notation1"><!-- variable -->
 					</map>
 
-                    <p>Le Jins Sikah Baladi n'a pas de <em>ghammaz</em> et donc pas de taille définie. Sa mélodie est concentrée sur la tonique, notée ici sur Sol. Le Jins Sikah Baladi  est difficile à noter. Il est mieux, tant pour les intervalles que pour l'intonation, de l'apprendre par cœur. Le Jins Sikah Baladi apparaît sur l'octave du <a href="../maqam/sikah_baladi.php">Maqam Sikah Baladi</a>.
+                    <p>Il Jins Sikah Baladi n'a pas de <em>ghammaz</em> et donc pas de taille définie. Sa mélodie est concentrée sur la tonique, notée ici sur Sol. Il Jins Sikah Baladi  est difficile à noter. Il est mieux, tant pour les intervalles que pour l'intonation, de l'apprendre par cœur. Il Jins Sikah Baladi apparaît sur l'octave du <a href="../maqam/sikah_baladi.php">Maqam Sikah Baladi</a>.
                     </p>
                     
                     <div class="player-area">

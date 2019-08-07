@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Indice del Ajnas</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Indice del Jins</a>
                     <?php include('../sidemenu-jins.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -32,7 +32,7 @@ include($ROOT . 'inc/head.php');
                         <h1>Jins Saba</h1>
                         <h3>(de taille ambiguë)</h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Ajnas</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Jins</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -55,7 +55,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="532,53,13" href="#" alt="La♮" class="playNote" data-frequency="437" data-parent="#notation1"><!-- Hijaz 3rd tuned down from 440-->
 					  <area shape="circle" coords="609,45,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					</map>
-                    <p>Le Jins Saba a une taille ambiguë. Il est noté ici avec sa tonique sur Ré et deux possibilités de <em>ghammaz</em>, le 3<sup>ième</sup> degré (noté sur Fa) et le 6<sup>ième</sup> degré (noté sur Si&#x266d;). Le Jins Saba est le premier jins du <a href="../maqam/saba.php">Maqam Saba</a>.
+                    <p>Il Jins Saba a une taille ambiguë. Il est noté ici avec sa tonique sur Ré et deux possibilités de <em>ghammaz</em>, le 3<sup>ième</sup> degré (noté sur Fa) et le 6<sup>ième</sup> degré (noté sur Si&#x266d;). Il Jins Saba est le premier jins du <a href="../maqam/saba.php">Maqam Saba</a>.
                     </p>
 
                     <div class="player-area">
