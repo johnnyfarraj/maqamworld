@@ -29,26 +29,36 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>إيقاع مدوّر ١٢/٤</h1>
+                        <h1>إيقاع مدوّر مصري ١٢/٤</h1>
+                        <h1>إيقاع مدوّر شامي ١٠/٤</h1>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الايقاعات</a>
                     <div class="clearfix"></div>
 
-                    <div class="notation">
-                        <img src="../note/iqaa/mudawwar.png" class="img-fluid">
-                    </div>
-
                     <h5>إيقاع مدوّر غالباً ما يستعمل في <a href="../form/vocal_comp.php#muwashah">قالب الموشّح</a>.
                     </h5>
+                    <h5> ويأتي إيقاع المدوّر على اشكال عديدة منها المدوّر المصري (١٢/٤) والمدوّر الشامي (١٠/٤).
+                    </h5>
+                    
+                    <!-- Need some kind of divider here -->
+                    <br>
+                    <div class="heading jins text-center">
+                        <h3>إيقاع المدوّر المصري ١٢/٤</h3>
+                    </div>
+                    <br>
+                    
+                    <div class="notation">
+                        <img src="../note/iqaa/mudawwar_masri.png" class="img-fluid">
+                    </div>
 
                     <div class="player-area">
                         <audio id="player" controls>
-                            <source src="/audio/iqaa/mudawwar/adhkuru_al_hubba.mp3" type="audio/mp3">
+                            <source src="/audio/iqaa/mudawwar_12_4/adhkuru_al_hubba.mp3" type="audio/mp3">
                         </audio>
                     </div>
 
-                    <div class="track " data-song="/audio/iqaa/mudawwar/adhkuru_al_hubba.mp3">
+                    <div class="track " data-song="/audio/iqaa/mudawwar_12_4/adhkuru_al_hubba.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1" >
@@ -62,14 +72,55 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/mudawwar/fika_kullu_ma_ara.mp3">
+                    <div class="track" data-song="/audio/iqaa/mudawwar_12_4/fika_kullu_bayati.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>موشّح فيك كل ما أرى حسن</b>
+                                    <span>على <a href="../maqam/bayati.php">مقام البياتي</a></span>
                                     <span>فرقة الموسيقى العربية (مصر)</span>
                                     <span>بقيادة عبد الحليم نويرة (مصر)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <!-- Need some kind of divider here -->
+                    <br>
+                    <div class="heading jins text-center">
+                        <h3>إيقاع المدوّر الشامي ١٠/٤</h3>
+                    </div>
+                    <div class="clearfix"></div>
+                    <br>
+
+                    <div class="notation">
+                        <img src="/note/iqaa/mudawwar_shami.png" class="img-fluid">
+                    </div>
+                    <br>
+
+                    <div class="track" data-song="/audio/iqaa/mudawwar_10_4/fika_kullu_hijaz_sarmini.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>موشّح فيك كل ما أرى حسن</b>
+                                    <span>على <a href="../maqam/hijaz.php">مقام الحجاز</a></span>
+                                    <span>عمر السرميني (حلب)</span>
+                                    <span>فرقة الكندي (سوريا-فرنسا)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="track" data-song="/audio/iqaa/mudawwar_10_4/fika_kullu_hijaz_sabah.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>موشّح فيك كل ما أرى حسن</b>
+                                    <span>على <a href="../maqam/hijaz.php">مقام الحجاز</a></span>
+                                    <span>صباح فخري (حلب)</span>
                                 </div>
                             </label>
                         </div>

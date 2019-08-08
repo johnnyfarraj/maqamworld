@@ -44,6 +44,7 @@ include($ROOT . 'inc/head.php');
                     </P>
 
                     <!-- Need some kind of divider here -->
+                    <br>
                     <div class="heading jins text-center">
                         <h3>Iqa‘ Mudawwar Masri 12/4</h3>
                     </div>
@@ -85,11 +86,11 @@ include($ROOT . 'inc/head.php');
                     </div>
                     
                     <!-- Need some kind of divider here -->
-                    <p>
-                    </p>
+                    <br>
                     <div class="heading jins text-center">
                         <h3>Iqa‘ Mudawwar Shami 10/4</h3>
                     </div>
+                    <br>
 
                     <div class="notation">
                         <img src="/note/iqaa/mudawwar_shami.png" class="img-fluid">

@@ -27,7 +27,8 @@
     <li><a href="/ar/iqaa/karachi.php">كراتشي ٢/٤</a></li>
     <li><a href="/ar/iqaa/muhajjar.php">محجّر ١٤/٤</a></li>
     <li><a href="/ar/iqaa/mukhammas.php">مخمّس ١٦/٤</a></li>
-    <li><a href="/ar/iqaa/mudawwar.php">مدوّر  ١٢/٤</a></li>
+    <li><a href="/ar/iqaa/mudawwar.php">مدوّر شامي ١٠/٤</a></li>
+    <li><a href="/ar/iqaa/mudawwar.php">مدوّر مصري ١٢/٤</a></li>
     <li><a href="/ar/iqaa/murabbaa.php">مربّع ١٣/٤</a></li>
     <li><a href="/ar/iqaa/masmudi_kabir.php">مصمودي كبير ٨/٤</a></li>
     <li><a href="/ar/iqaa/maqsum.php">مقسوم ٤/٤</a></li>

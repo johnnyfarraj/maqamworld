@@ -108,10 +108,11 @@ include($ROOT . 'inc/head.php');
                             </div>
                             <div class="col-sm-3">
                                 <ul class="page-list">
+                                    <li><a href="iqaa/mudawwar.php">مدوَّر شامي ١٠/٤</a></li>
                                     <li><a href="iqaa/jurjina.php">جورجينا ١٠/٨</a></li>
                                     <li><a href="iqaa/samai_thaqil.php">سماعي ثقيل ١٠/٨</a></li>
                                     <li><a href="iqaa/awis.php">عويص ١١/٨</a></li>
-                                    <li><a href="iqaa/mudawwar.php">مدوَّر ١٢/٤</a></li>
+                                    <li><a href="iqaa/mudawwar.php">مدوَّر مصري ١٢/٤</a></li>
                                     <li><a href="iqaa/dharafat.php">ظرافات ١٣/٨</a></li>
                                     <li><a href="iqaa/murabbaa.php">مربّع ١٣/٤</a></li>
                                     <li><a href="iqaa/muhajjar.php">محجّر ١٤/٤</a></li>
