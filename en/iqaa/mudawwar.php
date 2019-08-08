@@ -85,6 +85,8 @@ include($ROOT . 'inc/head.php');
                     </div>
                     
                     <!-- Need some kind of divider here -->
+                    <p>
+                    </p>
                     <div class="heading jins text-center">
                         <h3>Iqa‘ Mudawwar Shami 10/4</h3>
                     </div>
