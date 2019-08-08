@@ -29,7 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Mudawwar 12/4</h1>
+                        <h1>Iqa‘ Mudawwar Masri 12/4</h1>
+                        <h1>Iqa‘ Mudawwar Shami 10/4</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
                     <div class="clearfix"></div>
@@ -38,12 +39,18 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/mudawwar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Mudawwar</a>
                     </div>
 
-                    <div class="notation">
-                        <img src="/note/iqaa/mudawwar.png" class="img-fluid">
+                    <p>Iqa‘ Mudawwar is a popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> repertoire. The word "mudawwar" in Arabic means round/circular.</p>
+                    <P>Many forms of Iqa‘ Mudawwar are in use, among which Mudawwar Masri (Egyptian Mudawwar) and Mudawwar Shami (Damascene/pan-Syrian Mudawwar).
+                    </P>
+
+                    <!-- Need some kind of divider here -->
+                    <div class="heading jins text-center">
+                        <h3>Iqa‘ Mudawwar Masri 12/4</h3>
                     </div>
 
-                    <p>Iqa‘ Mudawwar is a popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> repertoire. The word "mudawwar" in Arabic means round/circular.</p>
-                    <!-- Many Mudawwar pieces start from the 11<sup>th</sup> beat (the last <em>tak</em>).  -->
+                    <div class="notation">
+                        <img src="/note/iqaa/mudawwar_masri.png" class="img-fluid">
+                    </div>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -64,13 +71,43 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/mudawwar/fika_kullu_ma_ara.mp3">
+                    <div class="track" data-song="/audio/iqaa/mudawwar/fika_kullu_bayati.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Fika Kullu Ma Ara Hasan</b>
+                                    <span>Composed in <a href="../maqam/bayati.php">Maqam Bayati</a></span>
                                     <span>Abdel Halim Noueira Ensemble</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+                    
+                    <!-- Need some kind of divider here -->
+                    <div class="heading jins text-center">
+                        <h3>Iqa‘ Mudawwar Shami 10/4</h3>
+                    </div>
+
+                    <div class="notation">
+                        <img src="/note/iqaa/mudawwar_shami.png" class="img-fluid">
+                    </div>
+
+                    <div class="player-area">
+                        <audio id="player" controls>
+                            <source src="/audio/iqaa/mudawwar/fika_kullu_hijaz.mp3" type="audio/mp3">
+                        </audio>
+                    </div>
+
+                    <div class="track" data-song="/audio/iqaa/mudawwar/fika_kullu_hijaz.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Muwashah Fika Kullu Ma Ara Hasan</b>
+                                    <span>Composed in <a href="../maqam/hijaz.php">Maqam Hijaz</a></span>
+                                    <span>Omar al-Sarmini</span>
+                                    <span>Al-Kindi Ensemble</span>
                                 </div>
                             </label>
                         </div>
