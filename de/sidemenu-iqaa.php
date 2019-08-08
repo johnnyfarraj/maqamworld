@@ -21,7 +21,8 @@
     <li><a href="/de/iqaa/malfuf.php">Malfuf 2/4</a></li>
     <li><a href="/de/iqaa/maqsum.php">Maqsum 4/4</a></li>
     <li><a href="/de/iqaa/masmudi_kabir.php">Masmudi Kabir 8/4</a></li>
-    <li><a href="/de/iqaa/mudawwar.php">Mudawwar 12/4</a></li>
+    <li><a href="/de/iqaa/mudawwar.php">Mudawwar Masri 12/4</a></li>
+    <li><a href="/de/iqaa/mudawwar.php">Mudawwar Shami 10/4</a></li>
     <li><a href="/de/iqaa/muhajjar.php">Muhajjar 14/4</a></li>
     <li><a href="/de/iqaa/mukhammas.php">Mukhammas 16/4</a></li>
     <li><a href="/de/iqaa/murabbaa.php">Murabba‘ 13/4</a></li>

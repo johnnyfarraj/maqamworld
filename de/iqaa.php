@@ -94,10 +94,11 @@ include($ROOT . 'inc/head.php');
                             </div>
                             <div class="col-sm-3">
                                 <ul class="page-list">
+                                    <li><a href="iqaa/mudawwar.php">Mudawwar Shami 10/4</a></li>
                                     <li><a href="iqaa/jurjina.php">Jurjina 10/8</a></li>
                                     <li><a href="iqaa/samai_thaqil.php">Sama‘i Thaqil 10/8</a></li>
                                     <li><a href="iqaa/awis.php">`Awis 11/8</a></li>
-                                    <li><a href="iqaa/mudawwar.php">Mudawwar 12/4</a></li>
+                                    <li><a href="iqaa/mudawwar.php">Mudawwar Masri 12/4</a></li>
                                     <li><a href="iqaa/dharafat.php">Dharafat 13/8</a></li>
                                     <li><a href="iqaa/murabbaa.php">Murabba‘ 13/4</a></li>
                                     <li><a href="iqaa/muhajjar.php">Muhajjar 14/4</a></li>

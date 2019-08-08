@@ -40,10 +40,9 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <p>Iqa‘ Mudawwar is a popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> repertoire. The word "mudawwar" in Arabic means round/circular.</p>
-                    <P>Many forms of Iqa‘ Mudawwar are in use, among which Mudawwar Masri (Egyptian Mudawwar) and Mudawwar Shami (Damascene/pan-Syrian Mudawwar).
-                    </P>
+                    <p>Many forms of Iqa‘ Mudawwar are in use, among which Mudawwar Masri (Egyptian) in 12/4 and Mudawwar Shami (Damascene/pan-Syrian) in 10/4.
+                    </p>
 
-                    <!-- Need some kind of divider here -->
                     <br>
                     <div class="heading jins text-center">
                         <h3>Iqa‘ Mudawwar Masri 12/4</h3>
