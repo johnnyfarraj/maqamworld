@@ -54,11 +54,11 @@ include($ROOT . 'inc/head.php');
 
                     <div class="player-area">
                         <audio id="player" controls>
-                            <source src="/audio/iqaa/mudawwar/adhkuru_al_hubba.mp3" type="audio/mp3">
+                            <source src="/audio/iqaa/mudawwar_12_4/adhkuru_al_hubba.mp3" type="audio/mp3">
                         </audio>
                     </div>
 
-                    <div class="track " data-song="/audio/iqaa/mudawwar/adhkuru_al_hubba.mp3">
+                    <div class="track " data-song="/audio/iqaa/mudawwar_12_4/adhkuru_al_hubba.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1" >
@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/mudawwar/fika_kullu_bayati.mp3">
+                    <div class="track" data-song="/audio/iqaa/mudawwar_12_4/fika_kullu_bayati.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
@@ -93,13 +93,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/mudawwar_shami.png" class="img-fluid">
                     </div>
 
-                    <div class="player-area">
-                        <audio id="player" controls>
-                            <source src="/audio/iqaa/mudawwar/fika_kullu_hijaz.mp3" type="audio/mp3">
-                        </audio>
-                    </div>
-
-                    <div class="track" data-song="/audio/iqaa/mudawwar/fika_kullu_hijaz.mp3">
+                    <div class="track" data-song="/audio/iqaa/mudawwar_10_4/fika_kullu_hijaz_sarmini.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
@@ -108,6 +102,19 @@ include($ROOT . 'inc/head.php');
                                     <span>Composed in <a href="../maqam/hijaz.php">Maqam Hijaz</a></span>
                                     <span>Omar al-Sarmini</span>
                                     <span>Al-Kindi Ensemble</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="track" data-song="/audio/iqaa/mudawwar_10_4/fika_kullu_hijaz_sabah.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Muwashah Fika Kullu Ma Ara Hasan</b>
+                                    <span>Composed in <a href="../maqam/hijaz.php">Maqam Hijaz</a></span>
+                                    <span>Sabah Fakhri</span>
                                 </div>
                             </label>
                         </div>
