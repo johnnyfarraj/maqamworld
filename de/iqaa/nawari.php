@@ -29,14 +29,14 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Katakufti 8/8</h1>
-                        <h3>(also called Nawari)</h3>
+                        <h1>Iqa‘ Nawari 8/8</h1>
+                        <h3>(auch <strong>Katakufti</strong> genannt)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Iqa‘-Verzeichnis</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/katakufti.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Katakufti</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/katakufti.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Nawari</a>
                     </div>
 
                     <div class="notation">
@@ -44,6 +44,9 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <p>Iqa‘at Katakufti (auch Nawari genannt) ist eine Variation auf <a href="saidi.php">Iqa‘ Sa‘idi</a> und <a href="baladi.php">Baladi</a>, die vor allem in der levantinischen Volksmusik und im Dabke-Reihentanz Verwendung findet.</p>
+
+                    <!-- TODO -->
+                    <p>Iqa‘ Nawari is often called <strong>Katakufti</strong> by percussionists, although the original <a href="katakufti.php">Iqa‘ Katakufti</a> has a different signature. The reason for this alternate name is because Iqa‘ Katakufti sounds exactly like Nawari when it is started from the last <em>tak</em>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
