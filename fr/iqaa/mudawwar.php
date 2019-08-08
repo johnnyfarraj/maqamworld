@@ -29,7 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Moudawwar 12/4</h1>
+                        <h1>Iqa‘ Moudawwar Masri 12/4</h1>
+                        <h1>Iqa‘ Moudawwar Chami 10/4</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <div class="clearfix"></div>
@@ -38,21 +39,29 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/mudawwar.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Moudawwar</a>
                     </div>
 
-                    <div class="notation">
-                        <img src="/note/iqaa/mudawwar.png" class="img-fluid">
-                    </div>
-
                     <p>Le Iqa‘ Moudawwar est un <em>iqa‘</em> populaire dans le répertoire vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a>. Le mot 'moudawwar' veut dire 'rond/circulaire' en arabe.
                     </p>
-                    <!-- Many Moudawwar pieces start from the 11<sup>th</sup> beat (the last <em>tak</em>).  -->
+                    <p>Le Iqa‘ Moudawwar a plusieurs formes, dont les plus courantes Moudawwar Masri (égyptien) en 12/4, et Moudawwar Chami (de Damas, ou plus généralement de la Syrie) en 10/4.
+                    </p>
+                   
+                    <!-- Need some kind of divider here -->
+                    <br>
+                    <div class="heading jins text-center">
+                        <h3>Iqa‘ Moudawwar Masri 12/4</h3>
+                    </div>
+                    <br>
+                    
+                    <div class="notation">
+                        <img src="/note/iqaa/mudawwar_masri.png" class="img-fluid">
+                    </div>
 
                     <div class="player-area">
                         <audio id="player" controls>
-                            <source src="/audio/iqaa/mudawwar/adhkuru_al_hubba.mp3" type="audio/mp3">
+                            <source src="/audio/iqaa/mudawwar_12_4/adhkuru_al_hubba.mp3" type="audio/mp3">
                         </audio>
                     </div>
 
-                    <div class="track " data-song="/audio/iqaa/mudawwar/adhkuru_al_hubba.mp3">
+                    <div class="track " data-song="/audio/iqaa/mudawwar_12_4/adhkuru_al_hubba.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1" >
@@ -65,13 +74,52 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/mudawwar/fika_kullu_ma_ara.mp3">
+                    <div class="track" data-song="/audio/iqaa/mudawwar_12_4/fika_kullu_bayati.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Fika Koullou Ma Ara Hassan</b>
+                                    <span>Version en <a href="../maqam/bayati.php">Maqam Bayati</a></span>
                                     <span>Ensemble Abdel Halim Noueirah (Égypte)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <!-- Need some kind of divider here -->
+                    <br>
+                    <div class="heading jins text-center">
+                        <h3>Iqa‘ Moudawwar Chami 10/4</h3>
+                    </div>
+                    <br>
+
+                    <div class="notation">
+                        <img src="/note/iqaa/mudawwar_shami.png" class="img-fluid">
+                    </div>
+
+                    <div class="track" data-song="/audio/iqaa/mudawwar_10_4/fika_kullu_hijaz_sarmini.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Mouachah Fika Koullou Ma Ara Hassan</b>
+                                    <span>Version en <a href="../maqam/hijaz.php">Maqam Hijaz</a></span>
+                                    <span>Omar al-Sarmini</span>
+                                    <span>Ensemble Al-Kindi</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="track" data-song="/audio/iqaa/mudawwar_10_4/fika_kullu_hijaz_sabah.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Mouachah Fika Koullou Ma Ara Hassan</b>
+                                    <span>Version en <a href="../maqam/hijaz.php">Maqam Hijaz</a></span>
+                                    <span>Sabah Fakhri</span>
                                 </div>
                             </label>
                         </div>
