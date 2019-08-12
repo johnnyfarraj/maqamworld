@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Malfouf";
-$page_description = "Iqa‘ Malfouf";
+$page_title = "Iqa‘ Malfuf";
+$page_description = "Iqa‘ Malfuf";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, malfuf, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "it";
 
@@ -29,21 +29,21 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Malfouf 2/4</h1>
+                        <h1>Iqa‘ Malfuf 2/4</h1>
                         <h3>(aussi appelé <strong>Laff</strong>)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/malfuf.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Malfouf</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/malfuf.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Malfuf</a>
                     </div>
 
                     <div class="notation">
                         <img src="/note/iqaa/malfuf.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Malfouf (aussi appelé <strong>Laff</strong>) est un <em>iqa‘</em> utilisé surtout dans le folklore et la musique populaire arabe. Son ethos est court et cyclique et alterne souvent avec d'autres <em>iqa‘at</em> en 2/4 tels que le <a href="karachi.php">Karatchi</a> ou le <a href="fox.php">Fox</a>.  Il est aussi possible d'alterner deux mesures de Malfuf avec une mesure d'un <em>iqa‘</em> en 4/4 tels que le <a href="baladi.php">Baladi</a> et le <a href="maqsum.php">Maqsoum</a>.
+                    <p>Iqa‘ Malfuf (aussi appelé <strong>Laff</strong>) est un <em>iqa‘</em> utilisé surtout dans le folklore et la musique populaire arabe. Son ethos est court et cyclique et alterne souvent avec d'autres <em>iqa‘at</em> en 2/4 tels que le <a href="karachi.php">Karatchi</a> ou le <a href="fox.php">Fox</a>.  Il est aussi possible d'alterner deux mesures de Malfuf avec une mesure d'un <em>iqa‘</em> en 4/4 tels que le <a href="baladi.php">Baladi</a> et le <a href="maqsum.php">Maqsum</a>.
                     </p>
 
                     <div class="player-area">

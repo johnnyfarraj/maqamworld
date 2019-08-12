@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Sittatou ‘Achar Masri";
-$page_description = "Iqa‘ Sittatou ‘Achar Masri";
+$page_title = "Iqa‘ Sittatu ‘Achar Masri";
+$page_description = "Iqa‘ Sittatu ‘Achar Masri";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, sittatu ashar masri, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "it";
 
@@ -29,20 +29,20 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Sittatou ‘Achar Masri 32/4</h1>
+                        <h1>Iqa‘ Sittatu ‘Achar Masri 32/4</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/sittatu_ashar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Sittatou ‘Achar Masri</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/sittatu_ashar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Sittatu ‘Achar Masri</a>
                     </div>
 
                     <div class="notation">
                         <img src="/note/iqaa/sittatu_ashar.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Sittatou ‘Achar Masri (<em>Sittatou ‘Achar</em> veut dire 'seize', <em>masri</em> veut dire 'égyptien') est un <em>iqa‘</em> rare utilisé surtout dans le genre vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a>. Il est composé de 8 mesures de 4/4, en faisant une signature métriques de 32/4.</p>
+                    <p>Iqa‘ Sittatu ‘Achar Masri (<em>Sittatu ‘Achar</em> veut dire 'seize', <em>masri</em> veut dire 'égyptien') est un <em>iqa‘</em> rare utilisé surtout dans le genre vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a>. Il est composé de 8 mesures de 4/4, en faisant une signature métriques de 32/4.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

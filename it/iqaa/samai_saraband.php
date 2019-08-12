@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Sama‘i Sarabande";
-$page_description = "Iqa‘ Sama‘i Sarabande";
+$page_title = "Iqa‘ Sama‘i Saraband";
+$page_description = "Iqa‘ Sama‘i Saraband";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, sama‘i, samai saraband, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "it";
 
@@ -29,21 +29,21 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Sama‘i Sarabande 3/8</h1>
+                        <h1>Iqa‘ Sama‘i Saraband 3/8</h1>
                         <h3>(aussi appelé <strong>Sama‘i Ta’ir</strong>)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/samai_saraband.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Sama‘i Sarabande</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/samai_saraband.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Sama‘i Saraband</a>
                     </div>
 
                     <div class="notation">
                         <img src="/note/iqaa/samai_saraband.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Sama‘i Sarabande, aussi appelé <strong>Sama‘i Ta’ir</strong> (<em>ta’ir</em> veut dire 'volant' en arabe), est un <em>iqa‘</em> léger et rapide, populaire dans le genre vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a>.
+                    <p>Iqa‘ Sama‘i Saraband, aussi appelé <strong>Sama‘i Ta’ir</strong> (<em>ta’ir</em> veut dire 'volant' en arabe), est un <em>iqa‘</em> léger et rapide, populaire dans le genre vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a>.
                     </p>
 
                     <div class="player-area">

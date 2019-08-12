@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Maqsoum";
-$page_description = "Iqa‘ Maqsoum";
+$page_title = "Iqa‘ Maqsum";
+$page_description = "Iqa‘ Maqsum";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, maqsum, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "it";
 
@@ -29,20 +29,20 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Maqsoum 4/4</h1>
+                        <h1>Iqa‘ Maqsum 4/4</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/maqsum.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Maqsoum</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/maqsum.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Maqsum</a>
                     </div>
 
                     <div class="notation">
                         <img src="/note/iqaa/maqsum.png" class="img-fluid">
                     </div>
 
-                    <p>Le Iqa‘ Maqsoum  est de loin le <em>iqa‘</em> le plus utilisé en musique arabe. Il peut alterner avec d'autres <em>iqa‘at</em> en 4/4 tels que le <a href="baladi.php">Baladi</a> et le <a href="wahda.php">Wahda</a>.
+                    <p>Le Iqa‘ Maqsum  est de loin le <em>iqa‘</em> le plus utilisé en musique arabe. Il peut alterner avec d'autres <em>iqa‘at</em> en 4/4 tels que le <a href="baladi.php">Baladi</a> et le <a href="wahda.php">Wahda</a>.
                     </p>
 
                     <div class="player-area">

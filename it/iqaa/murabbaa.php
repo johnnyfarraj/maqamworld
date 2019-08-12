@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Mourabba";
-$page_description = "Iqa‘ Mourabba";
+$page_title = "Iqa‘ Murabba";
+$page_description = "Iqa‘ Murabba";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, murabbaa, murabba‘, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "it";
 
@@ -29,20 +29,20 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Mourabba‘ 13/4</h1>
+                        <h1>Iqa‘ Murabba‘ 13/4</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/murabbaa.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Mourabba‘</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/murabbaa.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Murabba‘</a>
                     </div>
 
                     <div class="notation">
                         <img src="/note/iqaa/murabbaa.png" class="img-fluid">
                     </div>
 
-                    <p>Le Iqa‘ Mourabba‘ est un <em>iqa‘</em> en général confiné au répertoire vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a>. Le mot <em>mourabba‘</em> veut dire 'carré ou basé sur le chiffre 4' en arabe, ce qui fait que le sens du nom n'est pas lié au rythme en question.
+                    <p>Le Iqa‘ Murabba‘ est un <em>iqa‘</em> en général confiné au répertoire vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a>. Le mot <em>mourabba‘</em> veut dire 'carré ou basé sur le chiffre 4' en arabe, ce qui fait que le sens du nom n'est pas lié au rythme en question.
                     </p>
 
                     <div class="player-area">

@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Soudassi";
-$page_description = "Iqa‘ Soudassi";
+$page_title = "Iqa‘ Sudasi";
+$page_description = "Iqa‘ Sudasi";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, sudasi, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "it";
 
@@ -29,20 +29,20 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Soudassi 6/4</h1>
+                        <h1>Iqa‘ Sudasi 6/4</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/sudasi.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Soudassi</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/sudasi.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Sudasi</a>
                     </div>
 
                     <div class="notation">
                         <img src="/note/iqaa/sudasi.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Soudassi (dont le nom veut dire 'basé sur le nombre 6') est un  <em>iqa‘</em> très populaire pour accompagner les danses en ligne folkloriques du Liban à la Palestine, telles que le <em>Dabké</em>. Il peut alterner avec 3 mesures de <a href="malfuf.php">Iqa‘ Malfouf</a> jouées une après l'autre.
+                    <p>Iqa‘ Sudasi (dont le nom veut dire 'basé sur le nombre 6') est un  <em>iqa‘</em> très populaire pour accompagner les danses en ligne folkloriques du Liban à la Palestine, telles que le <em>Dabké</em>. Il peut alterner avec 3 mesures de <a href="malfuf.php">Iqa‘ Malfuf</a> jouées une après l'autre.
                     </p>
 
                     <div class="player-area">

@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Jourjina";
-$page_description = "Iqa‘ Jourjina";
+$page_title = "Iqa‘ Jurjina";
+$page_description = "Iqa‘ Jurjina";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, jurjina, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "it";
 
@@ -29,20 +29,20 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Jourjina 10/8</h1>
+                        <h1>Iqa‘ Jurjina 10/8</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/jurjina.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Jourjina</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/jurjina.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Jurjina</a>
                     </div>
 
                     <div class="notation">
                         <img src="/note/iqaa/jurjina.png" class="img-fluid">
                     </div>
 
-                    <p>Le Iqa‘ Jourjina est un <em>iqa‘</em> très utilisé en Iraq et en Iran, ainsi que dans le répertoire turc et kurde, tant au niveau du répertoire classique que folklorique. Même s'il est généralement absent du répertoire du Proche Orient, on le retrouve toutefois dans quelques compositions du Malouf tunisien.
+                    <p>Le Iqa‘ Jurjina est un <em>iqa‘</em> très utilisé en Iraq et en Iran, ainsi que dans le répertoire turc et kurde, tant au niveau du répertoire classique que folklorique. Même s'il est généralement absent du répertoire du Proche Orient, on le retrouve toutefois dans quelques compositions du Malouf tunisien.
                     </p>
 
                     <div class="player-area">

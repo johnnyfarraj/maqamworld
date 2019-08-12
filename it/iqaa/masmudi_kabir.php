@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Masmoudi Kabir";
-$page_description = "Iqa‘ Masmoudi Kabir";
+$page_title = "Iqa‘ Masmudi Kabir";
+$page_description = "Iqa‘ Masmudi Kabir";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, masmudi kabir, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "it";
 
@@ -29,20 +29,20 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Masmoudi Kabir 8/4</h1>
+                        <h1>Iqa‘ Masmudi Kabir 8/4</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/masmudi_kabir.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Masmoudi Kabir</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/masmudi_kabir.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Masmudi Kabir</a>
                     </div>
 
                     <div class="notation">
                         <img src="/note/iqaa/masmudi_kabir.png" class="img-fluid">
                     </div>
 
-                    <p>Le Iqa‘ Masmoudi Kabir (or Masmoudi, tour court) est un des <em>iqa‘at</em> les plus populaires du répertoire du <em>tarab</em> du 20<sup>ième</sup> siècle. Le mot 'kabir' veut dire 'grand/large' en arabe, pour le distinguer du <a href="baladi.php">Masmoudi Saghir</a> (petit Masmoudi, plus généralement appelé <strong>Baladi</strong>).
+                    <p>Le Iqa‘ Masmudi Kabir (or Masmudi, tour court) est un des <em>iqa‘at</em> les plus populaires du répertoire du <em>tarab</em> du 20<sup>ième</sup> siècle. Le mot 'kabir' veut dire 'grand/large' en arabe, pour le distinguer du <a href="baladi.php">Masmudi Saghir</a> (petit Masmudi, plus généralement appelé <strong>Baladi</strong>).
                     </p>
 
                     <div class="player-area">

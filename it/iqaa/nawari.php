@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Nawari 4/4</h1>
-                        <h3>(aussi appelé <strong>Katakoufti</strong>)</h3>
+                        <h3>(aussi appelé <strong>Katakufti</strong>)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Iqa‘at</a>
                     <div class="clearfix"></div>
@@ -46,7 +46,7 @@ include($ROOT . 'inc/head.php');
                     <p>Le Iqa‘ Nawari est une variation du <a href="saidi.php">Iqa‘ Sa‘idi</a> et <a href="baladi.php">Iqa‘ Baladi</a> qui est joué surtout dans la musique folklorique du Levant et dans les danses en ligne <em>Dabké</em>.
                     </p>
                     <p>
-                    Le Iqa‘ Nawari est aussi appelé <strong>Katakoufti</strong>, malgré le fait que le <a href="katakufti.php">Iqa‘ Katakoufti</a> original a une signature differente. La raison pour cette appelation alternative est le fait que le <a href="katakufti.php">Iqa‘ Katakoufti</a> sonne exactement comme <strong>Nawari</strong> lorse qu'il commence par le dernier <em>tak</em>.
+                    Le Iqa‘ Nawari est aussi appelé <strong>Katakufti</strong>, malgré le fait que le <a href="katakufti.php">Iqa‘ Katakufti</a> original a une signature differente. La raison pour cette appelation alternative est le fait que le <a href="katakufti.php">Iqa‘ Katakufti</a> sonne exactement comme <strong>Nawari</strong> lorse qu'il commence par le dernier <em>tak</em>.
                     </p>
 
                     <div class="player-area">

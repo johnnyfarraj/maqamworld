@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Ayyoub";
-$page_description = "Iqa‘ Ayyoub";
+$page_title = "Iqa‘ Ayyub";
+$page_description = "Iqa‘ Ayyub";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, aqsaq, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "it";
 
@@ -29,20 +29,20 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Ayyoub 2/4</h1>
+                        <h1>Iqa‘ Ayyub 2/4</h1>
                         <h3>(aussi appelé <strong>Zar</strong>)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/ayyub.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Ayyoub</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/ayyub.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Ayyub</a>
                     </div>
 
                     <div class="notation">
                         <img src="/note/iqaa/ayyub.png" class="img-fluid">
                     </div>
-                    <p>Le Iqa‘ Ayyoub (aussi écrit 'Ayoub') est surtout utilisé en musique soufie, dans certaines musiques folkloriques et dans le <em>Raqs Sharqi</em> (la danse du ventre). Le Iqa‘ Ayyoub est des fois appelé <strong>Zar</strong> en Égypte, du nom d'une cérémonie folklorique de guérison dirigée par des femmes qui jouent des instruments de percussion à main. L'ethos de Ayyoub est rapide, court et cyclique.
+                    <p>Le Iqa‘ Ayyub (aussi écrit 'Ayoub') est surtout utilisé en musique soufie, dans certaines musiques folkloriques et dans le <em>Raqs Sharqi</em> (la danse du ventre). Le Iqa‘ Ayyub est des fois appelé <strong>Zar</strong> en Égypte, du nom d'une cérémonie folklorique de guérison dirigée par des femmes qui jouent des instruments de percussion à main. L'ethos de Ayyub est rapide, court et cyclique.
                     </p>
 
                     <div class="player-area">

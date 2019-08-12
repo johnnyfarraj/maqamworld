@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Mouhajjar";
-$page_description = "Iqa‘ Mouhajjar";
+$page_title = "Iqa‘ Muhajjar";
+$page_description = "Iqa‘ Muhajjar";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, muhajjar, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "it";
 
@@ -29,20 +29,20 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Mouhajjar 14/4</h1>
+                        <h1>Iqa‘ Muhajjar 14/4</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/muhajjar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Mouhajjar</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/muhajjar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Muhajjar</a>
                     </div>
 
                     <div class="notation">
                         <img src="/note/iqaa/muhajjar.png" class="img-fluid">
                     </div>
 
-                    <p>Le Iqa‘ Mouhajjar est un <em>iqa‘</em> très populaire dans le répertoire vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a>. Il est immédiatement reconnaissable par ses 3 <em>doums</em> consécutifs qui ouvrent la mesure. Le mot 'mouhajjar' veut dire 'fait de/transformé en pierre' en arabe.
+                    <p>Le Iqa‘ Muhajjar est un <em>iqa‘</em> très populaire dans le répertoire vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a>. Il est immédiatement reconnaissable par ses 3 <em>doums</em> consécutifs qui ouvrent la mesure. Le mot 'mouhajjar' veut dire 'fait de/transformé en pierre' en arabe.
                     </p>
 
                     <div class="player-area">

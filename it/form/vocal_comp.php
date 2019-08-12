@@ -194,7 +194,7 @@ include($ROOT . 'inc/head.php');
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/taqtuqa.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Taqtuqa</a>
                     </div>
-                    <p> La Taqtuqa (<em>Taqatiq</em> au pluriel) est la chanson standard arabe de 3-4 minutes et comprend plusieurs couplets et un refrain qui se répète. Les Taqatiq sont en général dans un <a href="../iqaa.php">iqa‘a</a> simple et bien connu comme le <a href="../iqaa/maqsum.php">Iqa‘ Maqsoum</a> et ont des paroles accessibles et une mélodie simple, facilement mémorisable et chantable.
+                    <p> La Taqtuqa (<em>Taqatiq</em> au pluriel) est la chanson standard arabe de 3-4 minutes et comprend plusieurs couplets et un refrain qui se répète. Les Taqatiq sont en général dans un <a href="../iqaa.php">iqa‘a</a> simple et bien connu comme le <a href="../iqaa/maqsum.php">Iqa‘ Maqsum</a> et ont des paroles accessibles et une mélodie simple, facilement mémorisable et chantable.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=uO8eElxaaUY">

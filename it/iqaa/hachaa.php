@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Hatcha‘";
-$page_description = "Iqa‘ Hatcha‘";
+$page_title = "Iqa‘ Haccia";
+$page_description = "Iqa‘ Haccia";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, hachaa, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "it";
 
@@ -29,21 +29,21 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Hatcha‘ 4/4</h1>
+                        <h1>Iqa‘ Haccia 4/4</h1>
                         <h3>(aussi joué en 2/4 et 6/4)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/hachaa.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Hatcha‘</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/hachaa.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Haccia</a>
                     </div>
 
                     <div class="notation">
                         <img src="/note/iqaa/hachaa_4_4.png" class="img-fluid">
                     </div>
 
-                    <p>Le Iqa‘ Hatcha‘ est très populaire en musique soufie, particulièrement pour les pièces qui n'utilisent que des instruments de percussion. Même si la version en 4/4 est la plus commune, c'est l'adaptation d'un <em>iqa‘</em> folklorique du même nom en 2/4. Une adaptation rare est la version en 6/4 composée par le compositeur Baligh Hamdi pour la chanson 'Alf Leila wi Leila' de Oum Koulthoum.
+                    <p>Le Iqa‘ Haccia est très populaire en musique soufie, particulièrement pour les pièces qui n'utilisent que des instruments de percussion. Même si la version en 4/4 est la plus commune, c'est l'adaptation d'un <em>iqa‘</em> folklorique du même nom en 2/4. Une adaptation rare est la version en 6/4 composée par le compositeur Baligh Hamdi pour la chanson 'Alf Leila wi Leila' de Oum Koulthoum.
 					</p>
 
                     <div class="player-area">
@@ -130,7 +130,7 @@ include($ROOT . 'inc/head.php');
 
                     <!-- Need some kind of divider here -->
                     <div class="heading jins text-center">
-                        <h3>Examples de la forme du Iqa‘ Hatcha‘ notée en 2/4</h3>
+                        <h3>Examples de la forme du Iqa‘ Haccia notée en 2/4</h3>
                     </div>
 
                     <div class="notation">
@@ -152,7 +152,7 @@ include($ROOT . 'inc/head.php');
 
                     <!-- Need some kind of divider here -->
                     <div class="heading jins text-center">
-                        <h3>Examples de la forme du Iqa‘ Hatcha‘ notée en 6/4</h3>
+                        <h3>Examples de la forme du Iqa‘ Haccia notée en 6/4</h3>
                     </div>
 
                     <div class="notation">

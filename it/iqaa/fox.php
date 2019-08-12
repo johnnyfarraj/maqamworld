@@ -44,7 +44,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>Le Iqa‘ Fox (probablement dérivé du 'Foxtrot') est un <em>iqa‘</em> simple en 2/4 qui est généralement joué sans trop d'ornements sur des sections instrumentales. Ceci, plus le fait d'être souvent joué très vite, donnent un ethos de rapidité et d'urgence. 
                     </p>
-                    <p>Le Iqa‘ Fox est le <em>iqa‘</em> principal pour la <a href="../form/ottoman.php#longa">forme ottomane Longa</a> turque/européenne de l'Est. Le Fox peut alterner avec le <a href="malfuf.php">Malfouf</a>. Une version très lente du Fox (voir les 2 derniers exemples) pourrait être notée en 4/4.
+                    <p>Le Iqa‘ Fox est le <em>iqa‘</em> principal pour la <a href="../form/ottoman.php#longa">forme ottomane Longa</a> turque/européenne de l'Est. Le Fox peut alterner avec le <a href="malfuf.php">Malfuf</a>. Une version très lente du Fox (voir les 2 derniers exemples) pourrait être notée en 4/4.
                     </p>
 
                     <div class="player-area">

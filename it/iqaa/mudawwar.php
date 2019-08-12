@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Moudawwar";
-$page_description = "Iqa‘ Moudawwar";
+$page_title = "Iqa‘ Mudawwar";
+$page_description = "Iqa‘ Mudawwar";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, mudawwar, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "it";
 
@@ -29,17 +29,17 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Moudawwar Masri 12/4</h1>
-                        <h1>Iqa‘ Moudawwar Chami 10/4</h1>
+                        <h1>Iqa‘ Mudawwar Masri 12/4</h1>
+                        <h1>Iqa‘ Mudawwar Chami 10/4</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mudawwar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Moudawwar</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mudawwar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Mudawwar</a>
                     </div>
 
-                    <p>Le Iqa‘ Moudawwar est un <em>iqa‘</em> populaire dans le répertoire vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a>. Le mot 'moudawwar' veut dire 'rond/circulaire' en arabe.
+                    <p>Le Iqa‘ Mudawwar est un <em>iqa‘</em> populaire dans le répertoire vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a>. Le mot 'moudawwar' veut dire 'rond/circulaire' en arabe.
                     </p>
                     <p>Many forms of Iqa‘ Mudawwar are in use, among which Mudawwar Masri (Egyptian Mudawwar) and Mudawwar Chami (Damascene/pan-Syrian Mudawwar).
                     </p>

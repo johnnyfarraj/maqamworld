@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Moukhammas";
-$page_description = "Iqa‘ Moukhammas";
+$page_title = "Iqa‘ Mukhammas";
+$page_description = "Iqa‘ Mukhammas";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, mukhammas, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "it";
 
@@ -29,20 +29,20 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Moukhammas 16/4</h1>
+                        <h1>Iqa‘ Mukhammas 16/4</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mukhammas.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Moukhammas</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mukhammas.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Mukhammas</a>
                     </div>
 
                     <div class="notation">
                         <img src="/note/iqaa/mukhammas.png" class="img-fluid">
                     </div>
 
-                    <p>Le Iqa‘ Moukhammas est un <em>iqa‘</em> en général confiné au répertoire vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a>. Le mot 'moukhammas' veut dire 'basé sur le chiffre 5' en arabe, ce qui fait que le sens du nom n'est pas lié au rythme en question.</p>
+                    <p>Le Iqa‘ Mukhammas est un <em>iqa‘</em> en général confiné au répertoire vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a>. Le mot 'moukhammas' veut dire 'basé sur le chiffre 5' en arabe, ce qui fait que le sens du nom n'est pas lié au rythme en question.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

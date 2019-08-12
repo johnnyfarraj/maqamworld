@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/karachi.png" class="img-fluid">
                     </div>
 
-                    <p>Le Iqa‘ Karatchi est un <em>iqa‘a</em> de la famille des <em>iqa‘at</em> en 2/4 qui possède un ethos paresseux et qui peut être joué très lentement. Même s'il alterne souvent avec le <a href="malfuf.php">Malfouf</a>, le Karatchi ne partage pas son caractère de rapidité et d'urgence.
+                    <p>Le Iqa‘ Karatchi est un <em>iqa‘a</em> de la famille des <em>iqa‘at</em> en 2/4 qui possède un ethos paresseux et qui peut être joué très lentement. Même s'il alterne souvent avec le <a href="malfuf.php">Malfuf</a>, le Karatchi ne partage pas son caractère de rapidité et d'urgence.
 					</p>
 
                     <div class="player-area">

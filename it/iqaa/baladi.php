@@ -5,7 +5,7 @@ include('../../inc/config.php');
 
 /* SEO settings for this page */
 $page_title = "Iqa‘ Baladi";
-$page_description = "Iqa‘ Baladi (Masmoudi Saghir)";
+$page_description = "Iqa‘ Baladi (Masmudi Saghir)";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, baladi, masmudi saghir, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "it";
 
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Baladi 4/4</h1>
-                        <h3>(aussi appelé <strong>Masmoudi Saghir</strong>)</h3>
+                        <h3>(aussi appelé <strong>Masmudi Saghir</strong>)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Iqa‘at</a>
                     <div class="clearfix"></div>
@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/baladi.png" class="img-fluid">
                     </div>
 
-                    <p>Le Iqa‘ Baladi est un <em>iqa‘</em> très commun dans le répertoire vocal de la musique arabe du Proche Orient. Il est aussi appelé <strong>Masmoudi Saghir</strong> (<em>saghir</em> veut dire petit en arabe) pour le distinguer du <a href="masmudi_kabir.php">Masmoudi Kabir</a> (grand Masmoudi) qui se développe sur deux mesures de 4/4 plutôt qu'une. Le Baladi alterne souvent avec le <a href="maqsum.php">Maqsoum</a> et aussi avec le <a href="malfuf.php">Malfouf</a> (en utilisant 2 mesures de <a href="malfuf.php">Malfouf</a> pour une mesure de Baladi).
+                    <p>Le Iqa‘ Baladi est un <em>iqa‘</em> très commun dans le répertoire vocal de la musique arabe du Proche Orient. Il est aussi appelé <strong>Masmudi Saghir</strong> (<em>saghir</em> veut dire petit en arabe) pour le distinguer du <a href="masmudi_kabir.php">Masmudi Kabir</a> (grand Masmudi) qui se développe sur deux mesures de 4/4 plutôt qu'une. Le Baladi alterne souvent avec le <a href="maqsum.php">Maqsum</a> et aussi avec le <a href="malfuf.php">Malfuf</a> (en utilisant 2 mesures de <a href="malfuf.php">Malfuf</a> pour une mesure de Baladi).
                     </p>
 
                     <div class="player-area">

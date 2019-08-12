@@ -46,8 +46,8 @@ include($ROOT . 'inc/head.php');
                     <p>Le Iqa‘ Ciftetelli (prononcé 'chaftatalli' en arabe) est un <em>usul</em> turc qui est devenu très populaire en musique arabe. Il est rarement utilisé pour les mélodies composées. Il est plutôt utilisé pour les <a href="../form/improv.php">improvisations</a> (vocales et instrumentales).
                     </p>
 
-                    <p>Le Iqa‘ Ciftetelli est d'habitude joué lentement et est ralenti pour être ajusté à deux mesures de 4/4 (voire la notation); il peut partager le même tempo and pas que <a href="masmudi_kabir.php">Masmoudi Kabir</a>. 
-                    Alternativement, il peut être joué d'une manière plus rapide et legère, dans lequel cas il peut être noté en 4/4 et deviendra ainsi similaire au <a href="wahda_w_nuss.php">Wahda wi Nouss</a> (avec quelques ornements de plus ou de moins).
+                    <p>Le Iqa‘ Ciftetelli est d'habitude joué lentement et est ralenti pour être ajusté à deux mesures de 4/4 (voire la notation); il peut partager le même tempo and pas que <a href="masmudi_kabir.php">Masmudi Kabir</a>. 
+                    Alternativement, il peut être joué d'une manière plus rapide et legère, dans lequel cas il peut être noté en 4/4 et deviendra ainsi similaire au <a href="wahda_w_nuss.php">Wahda wi Nuss</a> (avec quelques ornements de plus ou de moins).
                     </p>
 
                     <div class="player-area">

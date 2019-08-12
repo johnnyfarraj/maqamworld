@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/fallahi.png" class="img-fluid">
                     </div>
 
-                    <p>Le Iqa‘ Fallahi est un <em>iqa‘</em> égyptien rapide qui fonctionne bien pour la musique folklorique. Même s'il ressemble à un <a href="maqsum.php">Maqsoum</a> joué deux fois plus vite, il a un ethos très différent du fait qu'il n'y a pas de contraste très grand entre les accents des <em>doums</em> et des <em>taks</em>.
+                    <p>Le Iqa‘ Fallahi est un <em>iqa‘</em> égyptien rapide qui fonctionne bien pour la musique folklorique. Même s'il ressemble à un <a href="maqsum.php">Maqsum</a> joué deux fois plus vite, il a un ethos très différent du fait qu'il n'y a pas de contraste très grand entre les accents des <em>doums</em> et des <em>taks</em>.
                     </p>
 
                     <div class="player-area">
