@@ -66,7 +66,7 @@ $search_string = strip_tags(normalizeChars(addslashes($_GET['search'])));
                         $("#results").append("<p>عدد النتائج لهذا البحث: " + result.totalFiles + "</p>");
                     }
                     for(var res in result.files) {
-                        $("#results").append('<div><a href="' + result.files[res].link + '" class="search-result">'+ result.files[res].title +'<span>' + result.files[res].link + '</span><b>وُجدَت كلمة البحث '+ result.files[res].appereances +' مرّات</b></a></div>');
+                        $("#results").append('<div><a href="' + result.files[res].link + '" class="search-result">'+ result.files[res].title +'<span>' + result.files[res].link + '</span><b>وُجدَت كلمة البحث '+ result.files[res].appearances +' مرّات</b></a></div>');
                     }
                 }
             })

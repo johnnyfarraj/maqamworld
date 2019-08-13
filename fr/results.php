@@ -67,7 +67,7 @@ $search_string = preg_replace('/[^A-Za-z0-9 "\']/', '', strip_tags(normalizeChar
                         $("#results").append("<p>" + result.totalFiles + " éléments correspondants au mot clé de votre recherche.</p>");
                     }
                     for(var res in result.files) {
-                        $("#results").append('<div><a href="' + result.files[res].link + '" class="search-result">'+ result.files[res].title +'<span>' + result.files[res].link + '</span><b>Le mot clé de votre recherche a été trouvé '+ result.files[res].appereances +' fois</b></a></div>');
+                        $("#results").append('<div><a href="' + result.files[res].link + '" class="search-result">'+ result.files[res].title +'<span>' + result.files[res].link + '</span><b>Le mot clé de votre recherche a été trouvé '+ result.files[res].appearances +' fois</b></a></div>');
                     }
                 }
             })

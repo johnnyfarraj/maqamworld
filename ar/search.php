@@ -56,7 +56,7 @@ function searchDirectoryIterator($path, $string){
 
                 $appeardTotal = substr_count($content, strtolower($string));
 
-                array_push($files, array("title" => $title, "link" => str_replace('./', 'http://maqamworld.com/ar/', $file->getPathname()), "appereances" => $appeardTotal));
+                array_push($files, array("title" => $title, "link" => str_replace('./', 'http://maqamworld.com/ar/', $file->getPathname()), "appearances" => $appeardTotal));
                 $cont++;
             }
         }
@@ -73,7 +73,7 @@ if(isset($_GET['q']) && strip_tags($_GET['q']) != "" && strlen(strip_tags($_GET[
         $array = array('status' => "error", 'message' => "لم يعثر البحث على اي نتائج.");
     } else {
         usort($files, function($a, $b) {
-            return $b['appereances'] - $a['appereances'];
+            return $b['appearances'] - $a['appearances'];
         });
         $array = array('status' => "success", 'files' => $files, 'totalFiles' => $cont);
     }
