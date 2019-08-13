@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Famiglia Maqam ‘Ajam";
 $page_description = "Famiglia Maqam ‘Ajam";
-$page_keywords = "musica tradizionale araba, famiglia, maqam, ajam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay,  quarti di tono, tarab";
+$page_keywords = "musica tradizionale araba, famiglia, maqam, ajam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');

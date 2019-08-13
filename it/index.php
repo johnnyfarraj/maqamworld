@@ -6,7 +6,7 @@ include('../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Il Mondo del Maqam";
 $page_description = "Il Mondo del Maqam";
-$page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay,  quarti di tono, tarab";
+$page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 include($ROOT . 'inc/head.php');
 ?>
@@ -34,7 +34,7 @@ include($ROOT . 'inc/head.php');
 					</p>
 
                     <ul>
-                        <li>Una traduzione completa verso <a href="/en/index.php"><strong>l'inglese</strong></a>, <a href="/ar/index.php"><strong>l'arabo</strong></a>, <a href="/fr/index.php"><strong>il francese</strong></a> e <a href="/en/index.php"><strong>il tedesco</strong></a> (spagnolo e greco sono in corso di realizzazione).</li>
+                        <li>Una traduzione completa verso <a href="/en/index.php"><strong>l'inglese</strong></a>, <a href="/ar/index.php"><strong>l'arabo</strong></a>, <a href="/fr/index.php"><strong>il francese</strong></a> e <a href="/de/index.php"><strong>il tedesco</strong></a> (spagnolo e greco sono in corso di realizzazione).</li>
                         <li>Supporto per tutti i dispositivi (in particolare per gli smartphone).</li>
                         <li>Ricerca su google.</li>
                         <li>Contenuti aggiornati e più rilevanti.</li>

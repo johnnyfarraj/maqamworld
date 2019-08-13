@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Famiglia Maqam Sikah";
 $page_description = "Famiglia Maqam Sikah";
-$page_keywords = "musica tradizionale araba, famiglia, maqam, sikah, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay,  quarti di tono, tarab";
+$page_keywords = "musica tradizionale araba, famiglia, maqam, sikah, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');

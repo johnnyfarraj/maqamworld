@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Famiglia Maqam Rast";
 $page_description = "Famiglia Maqam Rast";
-$page_keywords = "musica tradizionale araba, famiglia, maqam, rast, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay,  quarti di tono, tarab";
+$page_keywords = "musica tradizionale araba, famiglia, maqam, rast, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');

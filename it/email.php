@@ -10,17 +10,17 @@ if(isset($firstname) && $firstname != "" && isset($lastname) && $lastname != "" 
 
     /* PHP MAIl FUNCTION */
     $to      = 'johnnyfarraj@gmail.com';
-    $subject = 'Nouveau message de MaqamWorld';
-    $message = 'Bonjour,<br><br>Vous avez un nouveau message de MaqamWorld:<br><br>Name: '.$firstname.' '.$lastname.'<br>Email: '.$email.'<br>Message: '.$ms;
+    $subject = 'Nuovo Messaggio da MaqamWorld';
+    $message = 'Bonjour,<br><br>Hai un nuovo messaggio da MaqamWorld:<br><br>Name: '.$firstname.' '.$lastname.'<br>Email: '.$email.'<br>Message: '.$ms;
     $headers = 'From: no-reply@maqamworld.com' . "\r\n" .
     'Reply-To: johnnyfarraj@gmail.com' . "\r\n" .
     'Content-Type: text/html; charset=UTF-8\r\n';
 
     mail($to, $subject, $message, $headers);
 
-    echo json_encode(array("status" => "success", "message" => "Merci de nous avoir contactés. Nous tacherons de vous répondre dans les prochaines 24 - 48 heures."));
+    echo json_encode(array("status" => "success", "message" => "Grazie per averci contattato. proveremo a contattarti entro 24-48 ore."));
 } else {
-    echo json_encode(array("status" => "error", "message" => "Prière de tout remplir avant d'envoyer le document."));
+    echo json_encode(array("status" => "error", "message" => "si prega di compilare tutti i campi prima di inviare il documento."));
 }
 
 ?>

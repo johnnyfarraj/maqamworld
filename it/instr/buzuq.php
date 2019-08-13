@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Il Buzuq";
 $page_description = "Il Buzuq";
-$page_keywords = "arabe, musique, instruments, accordéon, bouzouk, daff, mazhar, guitare électrique, katèm, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, tromba, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
+$page_keywords = "arabe, musique, instruments, accordéon, buzuq, daff, mazhar, guitare électrique, katèm, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, tromba, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/buzuq.jpg" alt="Il Buzuq">
-                        <span>Deux bouzouks du Liban. &copy; MaqamWorld</span>
+                        <span>Deux buzuqs du Liban. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
@@ -48,7 +48,7 @@ include($ROOT . 'inc/head.php');
                     <p>Il Buzuq est un instrument à cordes de la famille du <a href="oud.php">Oud</a> avec un corps plus petit et un manche plus long et fretté. Il est plus proche pour la forme du <em>Bouzouki</em> grec et du <em>Saz</em> turc. Il Buzuq est à l'origine un instrument folklorique de l'Est de la Méditerranée (Palestine, Jordanie, Liban et Syrie) qui est en général joué en solo. Il est dans la présente liste des instruments traditionnels parce qu'il est devenu partie prenante de la musique arabe populaire dominante au milieu du 20<sup>ième</sup> siècle. Depuis, il est apparu dans de nombreux enregistrements et performances et a pris place dans l'ensemble arabe.
                     </p>
                     <p>
-                    Il Buzuq traditionnel a deux cœurs de cordes de métal, un double Do4 et un triple Sol3, et il est joué à l'aide d'un fin morceau de corne ou d'un plectre en plastique. De nos jours, le bouzouk est construit avec trois cœurs de cordes de manière à avoir un ambitus plus ample. Les cordes en métal et les clés de métal pour accorder l'instrument (pareilles à celles d'une guitare) lui donne une sonorité claire. La distribution des frettes couvre les quarts de ton les plus communs. Ceci, et le fait que le musicien peut déplacer les frettes pour changer la fréquence (le pitch) des notes, permet au bouzouk de jouer les gammes les plus communes du <a href="../maqam.php">maqam</a> arabe avec une précision acceptable.
+                    Il Buzuq traditionnel a deux cœurs de cordes de métal, un double Do4 et un triple Sol3, et il est joué à l'aide d'un fin morceau de corne ou d'un plectre en plastique. De nos jours, le buzuq est construit avec trois cœurs de cordes de manière à avoir un ambitus plus ample. Les cordes en métal et les clés de métal pour accorder l'instrument (pareilles à celles d'une guitare) lui donne une sonorité claire. La distribution des frettes couvre les quarts de ton les plus communs. Ceci, et le fait que le musicien peut déplacer les frettes pour changer la fréquence (le pitch) des notes, permet au buzuq de jouer les gammes les plus communes du <a href="../maqam.php">maqam</a> arabe avec une précision acceptable.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=isAhZyRcA0M&t=0s">
@@ -61,7 +61,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Mouhyiddine Ba‘youn</b>
-                                    <span>Le joueur de bouzouk et chanteur libanias Mouhyiddine Ba'youn jouant un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/bayati.php">Maqam Bayati</a>.</span>
+                                    <span>Le joueur de buzuq et chanteur libanias Mouhyiddine Ba'youn jouant un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/bayati.php">Maqam Bayati</a>.</span>
                                 </div>
                             </label>
                         </div>
@@ -77,7 +77,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Mouhammad Abdel Karim</b>
-                                    <span>Le joueur de bouzouk syrien Mouhammad Abdel Karim (appelé le Prince du Bouzouk) jouant un <a href="../form/improv.php#taqsim">Taqsim</a> au bouzouk. Abdel Karim a laissé de nombreux enregistrements. Son style était doux et méditatif.</span>
+                                    <span>Le joueur de buzuq syrien Mouhammad Abdel Karim (appelé le Prince du Bouzouk) jouant un <a href="../form/improv.php#taqsim">Taqsim</a> au buzuq. Abdel Karim a laissé de nombreux enregistrements. Son style était doux et méditatif.</span>
                                 </div>
                             </label>
                         </div>
@@ -93,7 +93,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Matar Mouhammad</b>
-                                    <span>Le virtuose du bouzouk libanias Matar Mouhammad joue un <a href="../form/improv.php#taqsim">Taqsim</a> dans un concert. Son Taqsim met le bouzouk au même niveau que les autres instruments traditionnels arabes pour ce qui a trait à la complexité, la technique, l'ornementation, les modulations en <a href="../maqam.php">maqam</a>, et la longueur.</span>
+                                    <span>Le virtuose du buzuq libanias Matar Mouhammad joue un <a href="../form/improv.php#taqsim">Taqsim</a> dans un concert. Son Taqsim met le buzuq au même niveau que les autres instruments traditionnels arabes pour ce qui a trait à la complexité, la technique, l'ornementation, les modulations en <a href="../maqam.php">maqam</a>, et la longueur.</span>
                                 </div>
                             </label>
                         </div>
@@ -109,7 +109,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Zoro Youssef</b>
-                                    <span>Le joueur de bouzouk kurdo-libanais Zoro Yussef (Zoro Seîd Yûsiv) jouant un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/rast.php">Maqam Rast</a>. Enregistré en direct par la télévision libanaise.</span>
+                                    <span>Le joueur de buzuq kurdo-libanais Zoro Yussef (Zoro Seîd Yûsiv) jouant un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/rast.php">Maqam Rast</a>. Enregistré en direct par la télévision libanaise.</span>
                                 </div>
                             </label>
                         </div>
@@ -125,7 +125,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Marhabtayn</b>
-                                    <span>La diva libanaise Sabah dans sa chanson <strong>Marhabtayn</strong> (enregistré au Koweït). Avec un bouzouk dans l'orchestre (dirigé par le violoniste libanias Abboud Abdel 'Al).</span>
+                                    <span>La diva libanaise Sabah dans sa chanson <strong>Marhabtayn</strong> (enregistré au Koweït). Avec un buzuq dans l'orchestre (dirigé par le violoniste libanias Abboud Abdel 'Al).</span>
                                 </div>
                             </label>
                         </div>
