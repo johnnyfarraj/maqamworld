@@ -98,7 +98,7 @@ include($ROOT . 'inc/head.php');
                              --><div class="info">
                                     <b>Reda Bdeir</b>
                                     <span>Reda Bdeir (Égypte) jouant la chanson <strong>Kulli Da Kan Leh</strong>
-                                    (1954, musique de Mouhammad Abdel Wahab).</span>
+                                    (1954, musique de Muhammad Abdel Wahab).</span>
                                 </div>
                             </label>
                         </div>

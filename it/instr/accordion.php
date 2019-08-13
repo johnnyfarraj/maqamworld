@@ -41,7 +41,7 @@ include($ROOT . 'inc/head.php');
                         <span>Farouq Salama jouant de l'accordéon sur la chanson <strong>Ya Msahharni</strong> de Oum Koulhoum, 1971</span>
                     </div>
 
-                    <p>L'accordéon est entré dans la scène musicale arabe en Égypte au début du 20ième siècle et était au début utilisé sans modification pour donner une touche exotique à la musique (par exemple sur la chanson '<em>Sahirtou</em>' de Mouhammad Abdel Wahab en 1935). Plus tard, l'instrument a été modifié pour y ajouter quelques notes (les quarts de ton), ce qui a permis de jouer plus de gammes (<a href="../maqam.php">maqams</a>) arabes avec une intonation plus ou moins précise.</p>
+                    <p>L'accordéon est entré dans la scène musicale arabe en Égypte au début du 20ième siècle et était au début utilisé sans modification pour donner une touche exotique à la musique (par exemple sur la chanson '<em>Sahirtou</em>' de Muhammad Abdel Wahab en 1935). Plus tard, l'instrument a été modifié pour y ajouter quelques notes (les quarts de ton), ce qui a permis de jouer plus de gammes (<a href="../maqam.php">maqams</a>) arabes avec une intonation plus ou moins précise.</p>
                     <p>
                         L'accordéon est très populaire dans les genres <em>Raqs Charqi</em> (danse du ventre) et <em>Cha‘bi</em>.
                     </p>

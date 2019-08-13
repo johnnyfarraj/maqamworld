@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>il-Wardi Gamil (1946)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Zakaria Ahmad</span>
+                                    <span>Musica di Zakaria Ahmad</span>
                                 </div>
                             </label>
                         </div>

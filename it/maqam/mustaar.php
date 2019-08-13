@@ -80,7 +80,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Aktiblak Gawabat</b>
                                     <span>Leila Mourad (Égypte)</span>
-                                    <span>Musique de Mouhammad al-Mougi</span>
+                                    <span>Musica di Muhammad al-Mougi</span>
                                 </div>
                             </label>
                         </div>
@@ -93,7 +93,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Haramouha Minni</b>
                                     <span>Fathiyya Ahmad (Égypte)</span>
-                                    <span>Musique de Mouhammad al-Qasabgi</span>
+                                    <span>Musica di Muhammad al-Qasabgi</span>
                                 </div>
                             </label>
                         </div>
@@ -106,7 +106,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Raqq el-Habib (1944)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Mouhammad al-Qasabgi</span>
+                                    <span>Musica di Muhammad al-Qasabgi</span>
                                 </div>
                             </label>
                         </div>

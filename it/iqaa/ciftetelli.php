@@ -23,32 +23,31 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Indice del Iqa‘at</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Ciftetelli 8/4</h1>
-                        <h3>(peut aussi être joué en 4/4)</h3>
+                        <h3>(can also be played in 4/4)</h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Iqa‘at</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/ciftetelli.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Ciftetelli</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/ciftetelli.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Ciftetelli</a>
                     </div>
 
                     <div class="notation">
                         <img src="/note/iqaa/ciftetelli.png" class="img-fluid">
                     </div>
 
-                    <p>Le Iqa‘ Ciftetelli (prononcé 'chaftatalli' en arabe) est un <em>usul</em> turc qui est devenu très populaire en musique arabe. Il est rarement utilisé pour les mélodies composées. Il est plutôt utilisé pour les <a href="../form/improv.php">improvisations</a> (vocales et instrumentales).
-                    </p>
+                    <p>Iqa‘ Ciftetelli (pronounced "shaftatalli" in Arabic) is a Turkish usul that became popular in Arabic music.
+                    It is rarely used for composed melodies; instead, its primary use is to support <a href="../form/improv.php">improvisations</a> (both vocal and instrumental).</p>
 
-                    <p>Le Iqa‘ Ciftetelli est d'habitude joué lentement et est ralenti pour être ajusté à deux mesures de 4/4 (voire la notation); il peut partager le même tempo and pas que <a href="masmudi_kabir.php">Masmudi Kabir</a>. 
-                    Alternativement, il peut être joué d'une manière plus rapide et legère, dans lequel cas il peut être noté en 4/4 et deviendra ainsi similaire au <a href="wahda_w_nuss.php">Wahda wi Nuss</a> (avec quelques ornements de plus ou de moins).
-                    </p>
+                    <p>Ciftetelli is usually slow paced and stretched out over two 4/4 measures (see notation), and can share the same tempo and pace as <a href="masmudi_kabir.php">Masmudi Kabir</a>. Alternatively, it can be performed faster and lighter,
+                    in which case it can be notated in 4/4 and becomes very similar to <a href="wahda_w_nuss.php">Wahda w-Nuss</a> (plus or minus some ornamentation).</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -61,8 +60,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Ichta'tillak (1962)</b>
-                                    <span>Interprétation et Musique de Farid al-Atrache</span>
+                                    <b>Ishta'tillak (1962)</b>
+                                    <span>Vocals and Musica di Farid al-Atrash</span>
                                 </div>
                             </label>
                         </div>
@@ -73,7 +72,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qasida Ja'at Mouadhibati</b>
+                                    <b>Qasida Ja'at Mu‘adhibati</b>
                                     <span>Fatima Serhan</span>
                                     <span><img src="/img/cd.png"> The Queen of Balady</span>
                                 </div>
@@ -86,8 +85,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Layali Rast (de ‘Addini ya M‘addawi)</b>
-                                    <span>Abbas al-Bleidi (Égypte)</span>
+                                    <b>Layali Rast (from ‘Addini ya M‘addawi)</b>
+                                    <span>‘Abbas al-Bleidi</span>
                                 </div>
                             </label>
                         </div>
@@ -98,8 +97,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mawwal Khoullin Sagani Kasat al-Sabr</b>
-                                    <span>Mouhammad Khayri (Syrie)</span>
+                                    <b>Mawwal Khullin Sagani Kasat al-Sabr</b>
+                                    <span>Muhammad Khayri</span>
                                 </div>
                             </label>
                         </div>
@@ -111,8 +110,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Dala‘ Dalla‘ (1974)</b>
-                                    <span>Sabah (Liban)</span>
-                                    <span>Musique de Farid al-Atrache</span>
+                                    <span>Sabah</span>
+                                    <span>Musica di Farid al-Atrash</span>
                                 </div>
                             </label>
                         </div>
@@ -124,7 +123,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Qasida ‘Ayni Li Ghayri Jamalikum</b>
-                                    <span>Ensemble Al-Tourath (Syrie)</span>
+                                    <span>Al-Turath Ensemble</span>
                                 </div>
                             </label>
                         </div>
@@ -136,8 +135,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Tile‘ Li el-Biki</b>
-                                    <span>Fairouz (Liban)</span>
-                                    <span>Musique de Philémon Wéhbé</span>
+                                    <span>Fairouz</span>
+                                    <span>Musica di Philemon Wehbe</span>
                                 </div>
                             </label>
                         </div>
@@ -146,7 +145,7 @@ include($ROOT . 'inc/head.php');
                     <!-- Need some kind of divider here -->
                     <br>
                     <div class="heading jins text-center">
-						<h3>Examples de la version rapide du Iqa‘ Ciftetelli qui peut être notée en 4/4</h3>
+						<h3>Examples of the faster form of Iqa‘ Ciftetelli that can be notated in 4/4</h3>
                     </div>
                     <div class="clearfix"></div>
 
@@ -156,8 +155,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>‘Aziza (1955)</b>
-                                    <span>Composition Instrumentale</span>
-                                    <span>Musique de Mouhammad Abdel Wahab (du film <strong>‘Aziza</strong>)</span>
+                                    <span>Instrumental Composition</span>
+                                    <span>Musica di Muhammad Abdel Wahab (from the movie <strong>‘Aziza</strong>)</span>
                                 </div>
                             </label>
                         </div>
@@ -168,8 +167,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mawwal Ya Man Bounoudak Harir</b>
-                                    <span>Mouhammad Khayri (Syrie)</span>
+                                    <b>Mawwal Ya Man Bunudak Harir</b>
+                                    <span>Muhammad Khayri</span>
                                 </div>
                             </label>
                         </div>
@@ -180,8 +179,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Noura Noura (1953)</b>
-                                    <span>Interprétation et Musique de Farid al-Atrache</span>
+                                    <b>Nura Nura (1953)</b>
+                                    <span>Vocals and Musica di Farid al-Atrash</span>
                                 </div>
                             </label>
                         </div>
@@ -192,8 +191,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim au Nay en <a href="../maqam/bayati.php">Maqam Bayati</a></b>
-                                    <span>Mouhammad Khayri (Syrie)</span>
+                                    <b>Taqsim Nay Bayati</b>
+                                    <span>Muhammad Khayri</span>
                                 </div>
                             </label>
                         </div>
@@ -204,9 +203,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Touta</b>
-                                    <span>Composition Instrumentale</span>
-                                    <span>Musique de Farid al-Atrache</span>
+                                    <b>Tuta</b>
+                                    <span>Instrumental Composition</span>
+                                    <span>Musica di Farid al-Atrash</span>
                                 </div>
                             </label>
                         </div>
@@ -217,9 +216,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Dara Douri Fina</b>
-                                    <span>Fairouz (Liban)</span>
-                                    <span>Musique de Philémon Wéhbé</span>
+                                    <b>Ya Dara Duri Fina</b>
+                                    <span>Fairouz</span>
+                                    <span>Musica di Philemon Wehbe</span>
                                 </div>
                             </label>
                         </div>

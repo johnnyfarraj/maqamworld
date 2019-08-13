@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Habibaha (1965)</b>
                                     <span>Abdel Halim Hafez (Égypte)</span>
-                                    <span>Musique de Mouhammad al-Mougi</span>
+                                    <span>Musica di Muhammad al-Mougi</span>
                                 </div>
                             </label>
                         </div>
@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Raydak (1950)</b>
                                     <span>Leila Mourad (Égypte)</span>
-                                    <span>Musique de Ahmad Sidqi</span>
+                                    <span>Musica di Ahmad Sidqi</span>
                                 </div>
                             </label>
                         </div>
@@ -98,7 +98,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Fagr Nourak Halli We Ban (c.1952)</b>
                                     <span>Baligh Hamdi (Égypte)</span>
-                                    <span>Musique de Youssef Chawqi</span>
+                                    <span>Musica di Youssef Chawqi</span>
                                 </div>
                             </label>
                         </div>

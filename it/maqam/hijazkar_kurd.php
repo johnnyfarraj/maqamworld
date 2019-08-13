@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Mouachah Tif Ya Dourri</b>
                                     <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Liban)</span>
                                     <span>Chef d'orchestre: Aïda Chalhoub Ziadé</span>
-                                    <span>Musique de Sayyed Darwich/Omar al-Batch</span>
+                                    <span>Musica di Sayyed Darwich/Omar al-Batch</span>
                                     <span><img src="/img/cd.png"> Orientalia: Mouachah et Chansons</span>
                                 </div>
                             </label>
@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Mouachah Hibbi Zourni Ma Tayassar</b>
                                     <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Liban)</span>
                                     <span>Chef d'orchestre: Aïda Chalhoub Ziadé</span>
-                                    <span>Musique de Darwich al-Hariri</span>
+                                    <span>Musica di Darwich al-Hariri</span>
                                     <span><img src="/img/cd.png"> Orientalia: Mouachah et Chansons</span>
                                 </div>
                             </label>

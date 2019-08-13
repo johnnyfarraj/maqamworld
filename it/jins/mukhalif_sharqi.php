@@ -66,7 +66,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr Emta el-Hawa (1936)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Zakaria Ahmad</span>
+                                    <span>Musica di Zakaria Ahmad</span>
                                 </div>
                             </label>
                         </div>
@@ -79,7 +79,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ghannili Chwayy Chwayy (1945)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Zakaria Ahmad</span>
+                                    <span>Musica di Zakaria Ahmad</span>
                                 </div>
                             </label>
                         </div>
@@ -129,7 +129,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Ya Samiri Da‘a Sabri</b>
-                                    <span>Mouhammad Khayri (Syrie)</span>
+                                    <span>Muhammad Khayri (Syrie)</span>
                                 </div>
                             </label>
                         </div>
@@ -154,7 +154,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya ‘Ammi Ya Saheb el-Gamal</b>
-                                    <span>Interprétation et Musique de Ahmed Adaweyah</span>
+                                    <span>Interprétation et Musica di Ahmed Adaweyah</span>
                                 </div>
                             </label>
                         </div>
@@ -179,7 +179,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Layli Ma Birda Bukra</b>
-                                    <span>Interprétation et Musique de Wadih al-Safi (Liban)</span>
+                                    <span>Interprétation et Musica di Wadih al-Safi (Liban)</span>
                                 </div>
                             </label>
                         </div>
@@ -192,7 +192,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ib‘id ‘Anni ‘Ouyounak</b>
                                     <span>Yasmine al-Khayyam (Égypte)</span>
-                                    <span>Musique de Mouhammad Abdel Wahab</span>
+                                    <span>Musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -205,7 +205,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ib‘id ‘Anni ‘Ouyounak (Solo de Nay)</b>
                                     <span>Yasmine al-Khayyam (Égypte)</span>
-                                    <span>Musique de Mouhammad Abdel Wahab</span>
+                                    <span>Musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>

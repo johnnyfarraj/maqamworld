@@ -104,7 +104,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Hibbi Da‘ani Lil-Wisal</b>
                                     <span>Sabah Fakhri (Syrie)</span>
-                                    <span>Musique de Sayyed Darwich</span>
+                                    <span>Musica di Sayyed Darwich</span>
                                     <span><img src="/img/cd.png"> Nagham al-Ams Vol. 2 (Bayati Shuri)</span>
                                 </div>
                             </label>
@@ -130,7 +130,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr Dayya‘ti Mustaqbal Hayati</b>
-                                    <span>Interprétation et Musique de Sayyed Darwich</span>
+                                    <span>Interprétation et Musica di Sayyed Darwich</span>
                                 </div>
                             </label>
                         </div>
@@ -155,7 +155,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Qadd Habibi Ghab</b>
-                                    <span>Mouhammad Khayri (Syrie)</span>
+                                    <span>Muhammad Khayri (Syrie)</span>
                                     <span>(chanson traditionelle)</span>
                                 </div>
                             </label>

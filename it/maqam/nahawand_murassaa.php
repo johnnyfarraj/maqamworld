@@ -79,7 +79,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Gari (1958)</b>
                                     <span>Horeyya Hassan (Égypte)</span>
-                                    <span>Musique de Mouhammad al-Mougi</span>
+                                    <span>Musica di Muhammad al-Mougi</span>
                                 </div>
                             </label>
                         </div>
@@ -92,7 +92,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Khousara (1957)</b>
                                     <span>Abdel Halim Hafez (Égypte)</span>
-                                    <span>Musique de Baligh Hamdi</span>
+                                    <span>Musica di Baligh Hamdi</span>
                                 </div>
                             </label>
                         </div>
@@ -117,7 +117,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Sama‘i Nahawand</b>
                                     <span>Simon Shaheen (Palestine)</span>
-                                    <span>Musique de Mesut Cemil (Turquie)</span>
+                                    <span>Musica di Mesut Cemil (Turquie)</span>
                                 </div>
                             </label>
                         </div>
@@ -143,7 +143,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Doulab Nahawand Murassa‘</b>
                                     <span>Zikrayat Ensemble (États Unis)</span>
-                                    <span>Musique de Sami Abou Shumays</span>
+                                    <span>Musica di Sami Abou Shumays</span>
                                 </div>
                             </label>
                         </div>

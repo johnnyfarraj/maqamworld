@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Ya Shadi al-Alhan</b>
                                     <span>Sabah Fakhri (Syrie)</span>
-                                    <span>Musique de Sayyed Darwich</span>
+                                    <span>Musica di Sayyed Darwich</span>
                                 </div>
                             </label>
                         </div>
@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Hann el-Hadid (1974)</b>
                                     <span>Joseph Saqr</span>
-                                    <span>Musique de Ziad Rahbani</span>
+                                    <span>Musica di Ziad Rahbani</span>
                                     <span>De la pièce de théatre <strong>Nazl el-Surur</strong></span>
                                 </div>
                             </label>
@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Arouh Li Mine (1958)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Riyad al-Soumbati</span>
+                                    <span>Musica di Riyad al-Soumbati</span>
                                 </div>
                             </label>
                         </div>
@@ -112,7 +112,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Asamina</b>
                                     <span>Fairouz (Liban)</span>
-                                    <span>Musique de Philémon Wéhbé</span>
+                                    <span>Musica di Philémon Wéhbé</span>
                                 </div>
                             </label>
                         </div>
@@ -125,7 +125,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Atani Zamani</b>
                                     <span>Sabah Fakhri (Syrie)</span>
-                                    <span>Musique de Mouhammad Outhman</span>
+                                    <span>Musica di Muhammad Outhman</span>
                                 </div>
                             </label>
                         </div>
@@ -138,7 +138,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Hayrana Leh (1930)</b>
                                     <span>Leila Mourad (Égypte)</span>
-                                    <span>Musique de Daoud Housni</span>
+                                    <span>Musica di Daoud Housni</span>
                                 </div>
                             </label>
                         </div>
@@ -150,7 +150,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Min ‘Azzibak (1931)</b>
-                                    <span>Interprétation et Musique de Mouhammad Abdel Wahab</span>
+                                    <span>Interprétation et Musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>

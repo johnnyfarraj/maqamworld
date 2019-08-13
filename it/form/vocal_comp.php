@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Mouachah Mala al-Kasat</b>
-                                    <span>Enregistrement de Mouhammad Khayri chantant le <strong>Mouachah Mala al-Kasat</strong>dans le <a href="../maqam/rast.php">Maqam Rast</a> (musique de Mouhammad 'Outhman).</span>
+                                    <span>Enregistrement de Muhammad Khayri chantant le <strong>Mouachah Mala al-Kasat</strong>dans le <a href="../maqam/rast.php">Maqam Rast</a> (musique de Muhammad 'Outhman).</span>
                                 </div>
                             </label>
                         </div>
@@ -119,8 +119,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Mouhammad Khayri - suite de Qoudoud</b>
-                                    <span>A la suite d'un <a href="improv.php#mawwal">Mawwal Baghdadien</a>, Mouhammad Khayri chante les Qoudoud <strong>Awwal ‘Ishrit Mahboubi</strong>, <strong>Zaman Zaman</strong> et <strong>Ah Ya Hilou</strong> en <a href="../maqam/bayati.php">Maqam Bayati</a>.</span>
+                                    <b>Muhammad Khayri - suite de Qoudoud</b>
+                                    <span>A la suite d'un <a href="improv.php#mawwal">Mawwal Baghdadien</a>, Muhammad Khayri chante les Qoudoud <strong>Awwal ‘Ishrit Mahboubi</strong>, <strong>Zaman Zaman</strong> et <strong>Ah Ya Hilou</strong> en <a href="../maqam/bayati.php">Maqam Bayati</a>.</span>
                                 </div>
                             </label>
                         </div>
@@ -149,7 +149,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Dawr Inta Fahem</b>
-                                    <span>Sou'ad Mouhammad (Liban) interprète le D<strong>Dawr Inta Fahem</strong> dans le <a href="../maqam/huzam.php">Maqam Huzam</a>, composé par Zakaria Ahmad.</span>
+                                    <span>Sou'ad Muhammad (Liban) interprète le D<strong>Dawr Inta Fahem</strong> dans le <a href="../maqam/huzam.php">Maqam Huzam</a>, composé par Zakaria Ahmad.</span>
                                 </div>
                             </label>
                         </div>
@@ -165,7 +165,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Dawr Ahibb Ashoufak Kulli Yom (1931)</b>
-                                    <span>Mouhammad Abdel Wahab interprète le <strong>Dawr Ahibb Ashoufak Kulli Yom</strong> (1931), en <a href="../maqam/nahawand.php">Maqam Nahawand</a>.
+                                    <span>Muhammad Abdel Wahab interprète le <strong>Dawr Ahibb Ashoufak Kulli Yom</strong> (1931), en <a href="../maqam/nahawand.php">Maqam Nahawand</a>.
                                 </span>
                                 </div>
                             </label>
@@ -240,7 +240,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Min Azzibak (c.1930s)</b>
-                                    <span>La chanson <strong>Min Azzibak</strong> de Mouhammad Adbel Wahab dans le <a href="../maqam/rast.php">Maqam Rast</a>(années 1930).</span>
+                                    <span>La chanson <strong>Min Azzibak</strong> de Muhammad Adbel Wahab dans le <a href="../maqam/rast.php">Maqam Rast</a>(années 1930).</span>
                                 </div>
                             </label>
                         </div>
@@ -281,7 +281,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Qari'at al-Fingan (1976)</b>
-                                    <span>Le chanteur égyptien Adel Halim Hafez interprète <strong>Qari'at al-Fingan</strong> (1976, composée par Mouhammad al-Mougi).
+                                    <span>Le chanteur égyptien Adel Halim Hafez interprète <strong>Qari'at al-Fingan</strong> (1976, composée par Muhammad al-Mougi).
                                 </span>
                                 </div>
                             </label>
@@ -329,7 +329,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ya Touyour (1941)</b>
-                                    <span>Le monologue de Asmahan <strong>Ya Touyour</strong> (1941) composé par Mouhammad al-Qasabgi.</span>
+                                    <span>Le monologue de Asmahan <strong>Ya Touyour</strong> (1941) composé par Muhammad al-Qasabgi.</span>
                                 </div>
                             </label>
                         </div>
@@ -351,7 +351,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ya Din-Na‘im</b>
-                                    <span>Mouhammad Abdel Wahab et Leila Mourad interprétant <strong>Ya Din-Na‘im</strong> de Mouhammad Abdel Wahab, du film <strong>Yahya al-Hubb</strong> (1938).</span>
+                                    <span>Muhammad Abdel Wahab et Leila Mourad interprétant <strong>Ya Din-Na‘im</strong> de Muhammad Abdel Wahab, du film <strong>Yahya al-Hubb</strong> (1938).</span>
                                 </div>
                             </label>
                         </div>
@@ -410,7 +410,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Dawr ‘Ishna wi Shoufna</b>
-                                    <span> Une wasla en <a href="../maqam/rast.php">Maqam Rast</a> par le chanteur égyptien 'Abbass al-Bleidi comprenant un <a href="improv.php#taqsim">Taqsim</a> au <a href="../instr/oud.php">oud</a> par George Michel, une partie du <a href="ottoman.php#samai">Sama‘i</a> Rast de Tatyos Effendi, un taqsim au <a href="../instr/violin.php">Violon</a> par Mouhammad al-'Aqqad, le Mouachah Atani Zamani, un taqsim au <a href="../instr/qanun.php">qanun</a> par Fihmi 'Awad, un Layali et finalement, le <strong>Dawr ‘Ishna wi Shoufna</strong> (composé par Mouhammad 'Outhman).</span>
+                                    <span> Une wasla en <a href="../maqam/rast.php">Maqam Rast</a> par le chanteur égyptien 'Abbass al-Bleidi comprenant un <a href="improv.php#taqsim">Taqsim</a> au <a href="../instr/oud.php">oud</a> par George Michel, une partie du <a href="ottoman.php#samai">Sama‘i</a> Rast de Tatyos Effendi, un taqsim au <a href="../instr/violin.php">Violon</a> par Muhammad al-'Aqqad, le Mouachah Atani Zamani, un taqsim au <a href="../instr/qanun.php">qanun</a> par Fihmi 'Awad, un Layali et finalement, le <strong>Dawr ‘Ishna wi Shoufna</strong> (composé par Muhammad 'Outhman).</span>
                                 </div>
                             </label>
                         </div>

@@ -79,7 +79,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ghouloubti Asaleh Fi Rouhi (1948)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Riyad al-Soumbati</span>
+                                    <span>Musica di Riyad al-Soumbati</span>
                                 </div>
                             </label>
                         </div>
@@ -91,7 +91,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" checked>
                                 <div class="info">
                                     <b>Gamil Gamal (1952)</b>
-                                    <span>Interprétation et Musique de Farid al-Atrache</span>
+                                    <span>Interprétation et Musica di Farid al-Atrache</span>
                                 </div>
                             </label>
                         </div>
@@ -104,7 +104,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Fakkarouni (1966)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Mouhammad Abdel Wahab</span>
+                                    <span>Musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -117,7 +117,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Adhkourou al-Houbba</b>
                                     <span>Ensemble Abdel Halim Noueirah (Égypte)</span>
-                                    <span>Musique de Daoud Housni</span>
+                                    <span>Musica di Daoud Housni</span>
                                 </div>
                             </label>
                         </div>
@@ -130,7 +130,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Sama‘i Nawa Athar</b>
                                     <span>Ensemble Syrien de Homs</span>
-                                    <span>Musique de Jamil ‘Ouways (Syrie)</span>
+                                    <span>Musica di Jamil ‘Ouways (Syrie)</span>
                                 </div>
                             </label>
                         </div>

@@ -88,7 +88,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Mouachah Sihtou Wajdan</b>
                                     <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Liban)</span>
                                     <span>Chef d'orchestre: Aïda Chalhoub Ziadé</span>
-                                    <span>Musique de Sayyed Darwich</span>
+                                    <span>Musica di Sayyed Darwich</span>
                                     <span><img src="/img/cd.png"> Orientalia: Mouachah et Chansons</span>
                                 </div>
                             </label>
@@ -102,7 +102,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Ya Shadi al-Alhan</b>
                                     <span>Sabah Fakhri (Syrie)</span>
-                                    <span>Musique de Sayyed Darwich</span>
+                                    <span>Musica di Sayyed Darwich</span>
                                 </div>
                             </label>
                         </div>
@@ -115,7 +115,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Hayrana Leh (1930)</b>
                                     <span>Leila Mourad (Égypte)</span>
-                                    <span>Musique de Daoud Housni</span>
+                                    <span>Musica di Daoud Housni</span>
                                 </div>
                             </label>
                         </div>

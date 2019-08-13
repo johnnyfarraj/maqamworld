@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Zalamu (1957)</b>
                                     <span>Abdel Halim Hafez (Égypte)</span>
-                                    <span>Musique de Mouhammad Abdel Wahab</span>
+                                    <span>Musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -98,7 +98,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ahl el-Hawa (1958)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Zakaria Ahmad</span>
+                                    <span>Musica di Zakaria Ahmad</span>
                                 </div>
                             </label>
                         </div>
@@ -111,7 +111,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Inti Fakrani (1938)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Mouhammad al-Qasabgi</span>
+                                    <span>Musica di Muhammad al-Qasabgi</span>
                                 </div>
                             </label>
                         </div>
@@ -125,7 +125,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Mouachah Anshidi Ya Saba</b>
                                     <span>Orchestre Palestinien National Arabe</span>
                                     <span>Director Ramzi Abou Radwan (Palestine)</span>
-                                    <span>Musique de Yehiya al-Saoudi</span>‘
+                                    <span>Musica di Yehiya al-Saoudi</span>‘
                                 </div>
                             </label>
                         </div>
@@ -138,8 +138,8 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Aqbala al-Soubhou Youghanni</b>
                                     <span>Ensemble Ornina (Syrie)</span>
-                                    <span>Chef d'orchestre Dr. Mouhammad Qadri Dalal</span>
-                                    <span>Musique de Bakri al-Kurdi</span>
+                                    <span>Chef d'orchestre Dr. Muhammad Qadri Dalal</span>
+                                    <span>Musica di Bakri al-Kurdi</span>
                                 </div>
                             </label>
                         </div>
@@ -163,7 +163,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Taqsim Oud en Maqam Bastanikar</b>
-                                    <span>Mouhammad Qadri Dalal (Syrie)</span>
+                                    <span>Muhammad Qadri Dalal (Syrie)</span>
                                     <span><img src="/img/cd.png"> Maqams Insolites</span>
                                 </div>
                             </label>

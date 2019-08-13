@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Zayy el-Hawa (1970)</b>
                                     <span>Abdel Halim Hafez (Égypte)</span>
-                                    <span>Musique de Baligh Hamdi</span>
+                                    <span>Musica di Baligh Hamdi</span>
                                 </div>
                             </label>
                         </div>
@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Lissa Faker (1963)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Riyad al-Soumbati</span>
+                                    <span>Musica di Riyad al-Soumbati</span>
                                 </div>
                             </label>
                         </div>
@@ -96,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Houwa Sahih el-Hawa Ghallab (1960)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Zakaria Ahmad</span>
+                                    <span>Musica di Zakaria Ahmad</span>
                                 </div>
                             </label>
                         </div>
@@ -120,7 +120,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sharrafti Ya Nixon Baba (1974)</b>
-                                    <span>Interprétation et Musique de Cheikh Imam (Égypte)</span>
+                                    <span>Interprétation et Musica di Cheikh Imam (Égypte)</span>
                                 </div>
                             </label>
                         </div>

@@ -78,7 +78,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Dawr Ahib Ashoufak (1930)</b>
-                                    <span>Interprétation et Musique de Mouhammad Abdel Wahab</span>
+                                    <span>Interprétation et Musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -90,7 +90,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ba‘d el-Khisam</b>
-                                    <span>Cheikh Abou el-Éla Mouhammad (Égypte)</span>
+                                    <span>Cheikh Abou el-Éla Muhammad (Égypte)</span>
                                 </div>
                             </label>
                         </div>
@@ -102,7 +102,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Layali Nahawand</b>
-                                    <span>Cheikh Abou el-Éla Mouhammad (Égypte)</span>
+                                    <span>Cheikh Abou el-Éla Muhammad (Égypte)</span>
                                 </div>
                             </label>
                         </div>

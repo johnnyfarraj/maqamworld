@@ -64,7 +64,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Aw‘idak</b>
-                                    <span>L'Orchestre Arabe National (États-Unis) jouant la chanson <strong>Aw‘idak</strong> de Souad Mouhammad dans un arrangement incluant le Clavier Oriental et la Guitare Électrique à côté d'instruments traditionnels arabes.</span>
+                                    <span>L'Orchestre Arabe National (États-Unis) jouant la chanson <strong>Aw‘idak</strong> de Souad Muhammad dans un arrangement incluant le Clavier Oriental et la Guitare Électrique à côté d'instruments traditionnels arabes.</span>
                                 </div>
                             </label>
                         </div>

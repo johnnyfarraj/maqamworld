@@ -79,7 +79,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Msahharni (1972)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Sayyed Makkawi</span>
+                                    <span>Musica di Sayyed Makkawi</span>
                                 </div>
                             </label>
                         </div>
@@ -92,7 +92,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ba‘id ‘Annak (1965)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Baligh Hamdi</span>
+                                    <span>Musica di Baligh Hamdi</span>
                                 </div>
                             </label>
                         </div>
@@ -104,7 +104,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr el-Alb Yama Intazar (1931)</b>
-                                    <span>Interprétation et Musique de Mouhammad Abdel Wahab</span>
+                                    <span>Interprétation et Musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -116,7 +116,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Saga al-Laylou (1939)</b>
-                                    <span>Interprétation et Musique de Mouhammad Abdel Wahab</span>
+                                    <span>Interprétation et Musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -129,7 +129,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Bayna Qasiyoun Wa Rabwa</b>
                                     <span>Hassan al-Haffar (Syrie)</span>
-                                    <span>Musique de Omar al-Batch</span>
+                                    <span>Musica di Omar al-Batch</span>
                                 </div>
                             </label>
                         </div>
@@ -141,8 +141,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Zarani Taht al-Ghayahib</b>
-                                    <span>Mouhammad Khayri (Syrie)</span>
-                                    <span>Musique de Omar al-Batch</span>
+                                    <span>Muhammad Khayri (Syrie)</span>
+                                    <span>Musica di Omar al-Batch</span>
                                 </div>
                             </label>
                         </div>
@@ -155,7 +155,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr Yalli Qawamak Ya‘gibni</b>
                                     <span>Karem Mahmoud (Égypte)</span>
-                                    <span>Musique de Sayyed Darwich</span>
+                                    <span>Musica di Sayyed Darwich</span>
                                 </div>
                             </label>
                         </div>

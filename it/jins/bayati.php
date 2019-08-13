@@ -74,7 +74,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>‘Ala Allah Téoud (1970)</b>
                                     <span>Wadih al-Safi (Liban)</span>
-                                    <span>Musique de Farid al-Atrache</span>
+                                    <span>Musica di Farid al-Atrache</span>
                                 </div>
                             </label>
                         </div>
@@ -87,7 +87,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>‘Ataba - Malaffat (1995)</b>
                                     <span>Joseph Saqr (Liban)</span>
-                                    <span>Musique de Ziad Rahbani</span>
+                                    <span>Musica di Ziad Rahbani</span>
                                     <span><img src="/img/cd.png"> Bema Énno</span>
                                 </div>
                             </label>
@@ -101,7 +101,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Awwidti Eini (1957)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Riyad al-Soumbati</span>
+                                    <span>Musica di Riyad al-Soumbati</span>
                                 </div>
                             </label>
                         </div>
@@ -114,7 +114,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>el-Wardi Gamil (1946)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Zakaria Ahmad</span>
+                                    <span>Musica di Zakaria Ahmad</span>
                                 </div>
                             </label>
                         </div>
@@ -126,7 +126,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ba‘id Annak (1965)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Baligh Hamdi</span>
+                                    <span>Musica di Baligh Hamdi</span>
                                 </div>
                             </label>
                         </div>
@@ -139,7 +139,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Lamma ‘al-Bab</b>
                                     <span>Fairouz (Liban)</span>
-                                    <span>Musique de Philémon Wéhbé</span>
+                                    <span>Musica di Philémon Wéhbé</span>
                                 </div>
                             </label>
                         </div>

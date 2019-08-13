@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Kallili Ya Souhbou</b>
                                     <span>Sabah Fakhri (Syrie)</span>
-                                    <span>Musique de Mouhammad Outhman</span>
+                                    <span>Musica di Muhammad Outhman</span>
                                 </div>
                             </label>
                         </div>
@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Bein Chattein we Mayya</b>
-                                    <span>Mouhammad Qandil</span>
+                                    <span>Muhammad Qandil</span>
                                 </div>
                             </label>
                         </div>
@@ -94,7 +94,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mawwal Ya Ma‘char al-Nas</b>
-                                    <span>Mouhammad Khayri (Syrie)</span>
+                                    <span>Muhammad Khayri (Syrie)</span>
                                 </div>
                             </label>
                         </div>
@@ -106,7 +106,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Qasida ‘Umri Fi Hubbihi Inqada</b>
-                                    <span>Mouhammad Khayri (Syrie)</span>
+                                    <span>Muhammad Khayri (Syrie)</span>
                                 </div>
                             </label>
                         </div>
@@ -132,7 +132,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Nibtidi Mnein el-Hikaya (1975)</b>
                                     <span>Abdel Halim Hafez (Égypte)</span>
-                                    <span>Musique de Mouhammad Abdel Wahab</span>
+                                    <span>Musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -145,7 +145,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Qari'at al-Fingan (1976)</b>
                                     <span>Abdel Halim Hafez (Égypte)</span>
-                                    <span>Musique de Mouhammad al-Mougi</span>
+                                    <span>Musica di Muhammad al-Mougi</span>
                                 </div>
                             </label>
                         </div>
@@ -169,7 +169,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Taqsim de Oud</b>
-                                    <span>Mouhammad Qadri Dalal (Syrie)</span>
+                                    <span>Muhammad Qadri Dalal (Syrie)</span>
                                     <p><img src="/img/cd.png"> Maqamat Insolites</p>
                                 </div>
                             </label>

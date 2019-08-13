@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Ayyouha al-Saqi</b>
                                     <span>Sabah Fakhri (Syrie)</span>
-                                    <span>Musique de Majdi al-‘Aqili</span>
+                                    <span>Musica di Majdi al-‘Aqili</span>
                                     <span><img src="/img/cd.png"> Nagham al-Ams Vol. 13 Houzam</span>
                                 </div>
                             </label>
@@ -113,7 +113,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr Emta el-Hawa (1936)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Zakaria Ahmad</span>
+                                    <span>Musica di Zakaria Ahmad</span>
                                 </div>
                             </label>
                         </div>
@@ -145,7 +145,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>el-Ward Gamil (1947)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Zakaria Ahmad</span>
+                                    <span>Musica di Zakaria Ahmad</span>
                                 </div>
                             </label>
                         </div>
@@ -171,7 +171,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr Inta Fahim</b>
                                     <span>(Maqam Rahat al-Arwah)</span>
-                                    <span>Interprétation et Musique de Zakaria Ahmad</span>
+                                    <span>Interprétation et Musica di Zakaria Ahmad</span>
                                 </div>
                             </label>
                         </div>

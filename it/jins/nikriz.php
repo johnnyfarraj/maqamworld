@@ -75,7 +75,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Bayna Qasiyoun wa Rabwa</b>
                                     <span>Orchestre National Syrien</span>
-                                    <span>Musique de Omar al-Batch</span>
+                                    <span>Musica di Omar al-Batch</span>
                                 </div>
                             </label>
                         </div>
@@ -88,7 +88,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Awwidti Eini (1957)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Riyad al-Soumbati</span>
+                                    <span>Musica di Riyad al-Soumbati</span>
                                 </div>
                             </label>
                         </div>
@@ -101,7 +101,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Hawwil Ya Ghannam</b>
                                     <span>Najah Salam</span>
-                                    <span>Musique de Eliya al-Matni</span>
+                                    <span>Musica di Eliya al-Matni</span>
                                 </div>
                             </label>
                         </div>
@@ -114,7 +114,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ba‘id Annak (1965)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Baligh Hamdi</span>
+                                    <span>Musica di Baligh Hamdi</span>
                                 </div>
                             </label>
                         </div>
@@ -127,7 +127,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Fi Youm We Leila (1978)</b>
                                     <span>Warda (France/Algérie)</span>
-                                    <span>Musique de Mouhammad Abdel Wahab</span>
+                                    <span>Musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>

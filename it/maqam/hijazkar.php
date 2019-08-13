@@ -100,7 +100,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ana Fi-ntizarak (1943)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Zakariya Ahmad</span>
+                                    <span>Musica di Zakariya Ahmad</span>
                                 </div>
                             </label>
                         </div>
@@ -113,7 +113,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr Yama-nta Wahishni</b>
                                     <span>Ensemble Abdel Halim Noueirah (Égypte)</span>
-                                    <span>Musique de Mouhammad Outhman</span>
+                                    <span>Musica di Muhammad Outhman</span>
                                 </div>
                             </label>
                         </div>
@@ -126,7 +126,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Nas Ana Moutti Fi Hobbi</b>
                                     <span>Sabah Fakhri (Syrie)</span>
-                                    <span>Musique de Sayyed Darwich</span>
+                                    <span>Musica di Sayyed Darwich</span>
                                 </div>
                             </label>
                         </div>
@@ -152,7 +152,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Ya ‘Ouyounan Ramiyat</b>
                                     <span>Sabri al-Moudallal (Syrie)</span>
-                                    <span>Musique de Omar al-Batch</span>
+                                    <span>Musica di Omar al-Batch</span>
                                 </div>
                             </label>
                         </div>
@@ -165,7 +165,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Maria</b>
                                     <span>Sabah Fakhri (Syrie)</span>
-                                    <span>Musique de Sayyed Darwich</span>
+                                    <span>Musica di Sayyed Darwich</span>
                                 </div>
                             </label>
                         </div>
@@ -205,7 +205,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Mouachah Laha Badrou-t-Timm</b>
                                     <span>(Maqam Suzidil)</span>
                                     <span>Ensemble de la Musique Arabe (Égypte)</span>
-                                    <span>Musique de Mahmoud Soubh</span>
+                                    <span>Musica di Mahmoud Soubh</span>
                                 </div>
                             </label>
                         </div>
@@ -219,7 +219,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Ba‘attilak Ya Habib el-Rouh</b>
                                     <span>(Maqam Shadd Araban)</span>
                                     <span>Fairouz (Liban)</span>
-                                    <span>Musique de Ziad Rahbani</span>
+                                    <span>Musica di Ziad Rahbani</span>
                                 </div>
                             </label>
                         </div>
@@ -232,7 +232,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Sama‘i Chadd ‘Arabane</b>
                                     <span>Ensemble Omar Sarmini</span>
-                                    <span>Musique de Tanburi Cemil Bey</span>
+                                    <span>Musica di Tanburi Cemil Bey</span>
                                 </div>
                             </label>
                         </div>

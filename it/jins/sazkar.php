@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Qasida Moudnaka Gafahu Marqadouhou (1938)</b>
-                                    <span>Interprétation et Musique de Mouhammad Abdel Wahab</span>
+                                    <span>Interprétation et Musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Dala‘ Dalla‘ (1974)</b>
                                     <span>Sabah (Liban)</span>
-                                    <span>Musique de Farid al-Atrache</span>
+                                    <span>Musica di Farid al-Atrache</span>
                                 </div>
                             </label>
                         </div>

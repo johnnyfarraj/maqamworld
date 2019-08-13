@@ -76,8 +76,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Mouhammad Abdel Karim</b>
-                                    <span>Le joueur de buzuq syrien Mouhammad Abdel Karim (appelé le Prince du Bouzouk) jouant un <a href="../form/improv.php#taqsim">Taqsim</a> au buzuq. Abdel Karim a laissé de nombreux enregistrements. Son style était doux et méditatif.</span>
+                                    <b>Muhammad Abdel Karim</b>
+                                    <span>Le joueur de buzuq syrien Muhammad Abdel Karim (appelé le Prince du Bouzouk) jouant un <a href="../form/improv.php#taqsim">Taqsim</a> au buzuq. Abdel Karim a laissé de nombreux enregistrements. Son style était doux et méditatif.</span>
                                 </div>
                             </label>
                         </div>
@@ -92,8 +92,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Matar Mouhammad</b>
-                                    <span>Le virtuose du buzuq libanias Matar Mouhammad joue un <a href="../form/improv.php#taqsim">Taqsim</a> dans un concert. Son Taqsim met le buzuq au même niveau que les autres instruments traditionnels arabes pour ce qui a trait à la complexité, la technique, l'ornementation, les modulations en <a href="../maqam.php">maqam</a>, et la longueur.</span>
+                                    <b>Matar Muhammad</b>
+                                    <span>Le virtuose du buzuq libanias Matar Muhammad joue un <a href="../form/improv.php#taqsim">Taqsim</a> dans un concert. Son Taqsim met le buzuq au même niveau que les autres instruments traditionnels arabes pour ce qui a trait à la complexité, la technique, l'ornementation, les modulations en <a href="../maqam.php">maqam</a>, et la longueur.</span>
                                 </div>
                             </label>
                         </div>

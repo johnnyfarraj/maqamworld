@@ -54,7 +54,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Omar Khorchid</b>
-                                    <span>Le pionnier de la Guitare Électrique Omar Khorchid joue la chanson <strong>Daret el-Ayyam</strong> de Oum Koulthoum (1970, musique de Mouhammad Abdel Wahab).</span>
+                                    <span>Le pionnier de la Guitare Électrique Omar Khorchid joue la chanson <strong>Daret el-Ayyam</strong> de Oum Koulthoum (1970, musique de Muhammad Abdel Wahab).</span>
                                 </div>
                             </label>
                         </div>

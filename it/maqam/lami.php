@@ -75,8 +75,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>el-Bortoqal (1938)</b>
-                                    <span>Interprétation de Ra'isa ‘Afifi and Mouhammad Abdel Wahab</span>
-                                    <span>Musique de Mouhammad Abdel Wahab</span>
+                                    <span>Interprétation de Ra'isa ‘Afifi and Muhammad Abdel Wahab</span>
+                                    <span>Musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -88,8 +88,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Tislam Idein Elli-shtara (c. 1960)</b>
-                                    <span>Interprétation de Mouhammad Abdel Mouttaleb</span>
-                                    <span>Musique de Mahmoud Kamel (Égypte)</span>
+                                    <span>Interprétation de Muhammad Abdel Mouttaleb</span>
+                                    <span>Musica di Mahmoud Kamel (Égypte)</span>
                                 </div>
                             </label>
                         </div>
@@ -101,7 +101,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Albi Bi Oulli Kalam (c.1954)</b>
-                                    <span>Interprétation et Musique de Mouhammad Abdel Wahab</span>
+                                    <span>Interprétation et Musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -113,7 +113,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ahmad Ya Habibi</b>
-                                    <span>Interprétation et Musique de Sabri al-Moudallal</span>
+                                    <span>Interprétation et Musica di Sabri al-Moudallal</span>
                                     <span><img src="/img/cd.png"> Songs from Aleppo</span>
                                 </div>
                             </label>
@@ -127,7 +127,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Rl-Najmat Sarou Yis'alou (1964)</b>
                                     <span>Wadih al-Safi (Liban)</span>
-                                    <span>Musique de Mouhammad Mouhsin</span>
+                                    <span>Musica di Muhammad Mouhsin</span>
                                 </div>
                             </label>
                         </div>

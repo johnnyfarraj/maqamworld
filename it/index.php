@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                                 <img class="card-img-top" src="/img/vladimir_tamari.png" alt="L'oud arabe">
                                 <div class="card-body">
                                     <h5 class="card-title">Pubblicazioni</h5>
-                                    <p class="card-text">Scopri il nuovo libro <strong>Inside Arabic Music</strong> (scritto con Sami Abu Shumays) che sarà pubblicato a Luglio 2019.</p>
+                                    <p class="card-text">Scopri il nuovo libro <strong>Inside Arabic Music</strong> (scritto con Sami Abu Shumays) che è stato pubblicato in Agosto 2019.</p>
                                     <a href="/it/book.php" class="btn btn-primary">Pubblicazioni<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>

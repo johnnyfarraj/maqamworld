@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Qadd Ya Mal el-Sham</b>
                                     <span>Sabah Fakhri (Syrie)</span>
-                                    <span>Musique de Ahmad Abou Khalil al-Qabbani</span>
+                                    <span>Musica di Ahmad Abou Khalil al-Qabbani</span>
                                 </div>
                             </label>
                         </div>
@@ -96,8 +96,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Mala el-Kasat</b>
-                                    <span>Mouhammad Khayri (Syrie)</span>
-                                    <span>Musique de Mouhammad Outhman</span>
+                                    <span>Muhammad Khayri (Syrie)</span>
+                                    <span>Musica di Muhammad Outhman</span>
                                 </div>
                             </label>
                         </div>
@@ -109,7 +109,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Koull Illi Habb Itnasaf (1931)</b>
-                                    <span>Interprétation et Musique de Mouhammad Abdel Wahab</span>
+                                    <span>Interprétation et Musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -122,7 +122,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr ‘Ishna wi Shoufna</b>
                                     <span>Saleh Abdel Hayy (Égypte)</span>
-                                    <span>Musique de Mouhammad Outhman</span>
+                                    <span>Musica di Muhammad Outhman</span>
                                 </div>
                             </label>
                         </div>

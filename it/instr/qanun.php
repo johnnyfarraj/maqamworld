@@ -79,8 +79,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Mouhammad Abdou Saleh</b>
-                                    <span>Le joueur de qanun pour Oum Koulthoum pendant des décennies, Mouhammad Abdou Saleh (Égypte)
+                                    <b>Muhammad Abdou Saleh</b>
+                                    <span>Le joueur de qanun pour Oum Koulthoum pendant des décennies, Muhammad Abdou Saleh (Égypte)
                                     dans un pot-pourri de ses chansons les plus connues.
                                     </span>
                                 </div>
@@ -97,8 +97,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Mouhammad Abdou Saleh</b>
-                                    <span>Mouhammad Abdou Saleh (Égypte) jouant un <a href="../form/improv.php#taqsim">Taqsim</a>
+                                    <b>Muhammad Abdou Saleh</b>
+                                    <span>Muhammad Abdou Saleh (Égypte) jouant un <a href="../form/improv.php#taqsim">Taqsim</a>
                                     en <a href="../maqam/saba.php">Maqam Saba</a></span>
                                 </div>
                             </label>

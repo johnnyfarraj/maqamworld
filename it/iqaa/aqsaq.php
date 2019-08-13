@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Iqa‘ Aqsaq";
 $page_description = "Iqa‘ Aqsaq";
-$page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, aqsaq, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
+$page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, aqsaq, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/aqsaq_f1.png" class="img-fluid">
                     </div>
 
-                    <p>Le Iqa‘ Aqsaq est très populaire dans le genre vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a>. Il est comme le <a href="samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a>, moins un temps, et peut être joué immédiatement avant ou après dans une <a href="../form/vocal_comp.php#wasla">Wasla</a>, sans interruption.
+                    <p>L'Iqa‘ Aqsaq è molto popolare nel genere vocale <a href="../form/vocal_comp.php#muwashah">Muwashah</a>. E' un battito più breve dell'<a href="samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a> ma a volte può essere suonato subito dopo quest'ultimo iqa‘ senza interruzioni, durante un <a href="../form/vocal_comp.php#wasla">Wasla</a>.
 					</p>
 
                     <div class="player-area">
@@ -56,9 +56,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Ma-htiyali</b>
-                                    <span>Louis Hage &amp; Aïda Chalhoub Ziadé</span>
-                                    <span><img src="/img/cd.png"> Mouachah - Chants Arabo-andalous</span>
+                                    <b>Muwashah Ma-htiyali</b>
+                                    <span>Louis Hage &amp; Aida Chalhoub</span>
+                                    <span><img src="/img/cd.png"> Mouwashah - Chants Arabo-andalous</span>
                                 </div>
                             </label>
                         </div>
@@ -69,9 +69,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ana Min Wajdi Ana</b>
-                                    <span>Aïcha Redouane (Maroc)</span>
-                                    <span><img src="/img/cd.png"> Égypte</span>
+                                    <b>Muwashah Ana Min Wajdi Ana</b>
+                                    <span>Aicha Redouane</span>
+                                    <span><img src="/img/cd.png"> Egypte</span>
                                 </div>
                             </label>
                         </div>
@@ -82,9 +82,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Jalla Man Bil Housni Sawwar</b>
-                                    <span>Ensemble Abdel Halim Noueirah (Égypte)</span>
-                                    <span>Musique de Kamel al-Khula‘i</span>
+                                    <b>Muwashah Jalla Man Bil Husni Sawwar</b>
+                                    <span>Abdel Halim Noueira Ensemble</span>
+                                    <span>Musica di Kamel al-Khula‘i</span>
                                 </div>
                             </label>
                         </div>
@@ -95,9 +95,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Bashraf Boulboul al-Afrah</b>
-                                    <span>Ensemble Morkos (Liban)</span>
-                                    <span><img src="/img/cd.png"> Cèdre</span>
+                                    <b>Bashraf Bulbul al-Afrah</b>
+                                    <span>Ensemble Morkos</span>
                                 </div>
                             </label>
                         </div>
@@ -106,13 +105,13 @@ include($ROOT . 'inc/head.php');
                     <!-- Need some kind of divider here to start the Form 2  examples -->
                     <br>
                     <div class="heading jins text-center">
-                        <h3>La seconde forme de Iqa‘ Aqsaq</h3>
+                        <h3>La seconda forma dell' Iqa‘ Aqsaq</h3>
                     </div>
                     <div class="notation">
                         <img src="/note/iqaa/aqsaq_f2.png" class="img-fluid">
                     </div>
 					<br>
-                    <p>Une forme alternative de Iqa‘ Aqsaq est possible, ou le soupir sur le 6<sup>ième</sup> temps est remplacé par un autre <em>doum</em>, créant ainsi une séquence de deux <em>doums</em> consécutifs qui évoquent le <a href="samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a>.
+                    <p>Una forma diversa Aqsaq che sostituisce la pausa sul sesto battito con un altro <em>dum</em>, in modo da creare una sequenza di 2 <em>dum</em>-s consecutivi che richiamano  l'<a href="samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a>.
 					</p>
 					<br>
 
@@ -121,8 +120,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ma-htiyali</b>
-                                    <span>Ensemble Al-Tourath (Syrie)</span>
+                                    <b>Muwashah Ma-htiyali</b>
+                                    <span>Al-Turath Ensemble</span>
                                     <span><img src="/img/cd.png"> The Music In Spanish Al Andalus - Hijaz</span>
                                 </div>
                             </label>
@@ -134,10 +133,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ayyouha al-Saqi</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
-                                    <span>Musique de Majdi al-‘Aqili</span>
+                                    <b>Muwashah Ayyuha al-Saqi</b>
+                                    <span>Sabah Fakhri</span>
                                     <span><img src="/img/cd.png"> Beiteddine Festival Vol. 1</span>
+                                    <span>Musica di Majdi al-‘Aqili</span>
                                 </div>
                             </label>
                         </div>
@@ -148,28 +147,27 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah ‘Adhibouni</b>
-                                    <span>Ensemble Al-Kindi (Syrie/France)</span>
-                                    <span>Musique de Omar al-Batch</span>
+                                    <b>Muwashah ‘Adhibuni</b>
+                                    <span>Ensemble Al-Kindi</span>
                                     <span><img src="/img/cd.png"> The Aleppian Music Room Vol. 1 - Hijazkar Kurd &amp; Saba</span>
+                                    <span>Musica di ‘Umar al-Batsh</span>
                                 </div>
                             </label>
                         </div>
                     </div>
-                    
+
                     <div class="track" data-song="/audio/iqaa/aqsaq_form2/bi_abi_bahil_jamal.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Bi Abi Bahi al-Jamal</b>
-                                    <span>Mouhammad Khayri (Syrie)</span>
+                                    <b>Muwashah Bi Abi Bahi al-Jamal</b>
+                                    <span>Muhammad Khayri (Syria)</span>
                                 </div>
                             </label>
                         </div>
                     </div>
-
-
+                    
                 </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>

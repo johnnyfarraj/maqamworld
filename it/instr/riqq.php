@@ -62,7 +62,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Hassan Anwar</b>
-                                <span>Le joueur de riqq Hasan Anwar (le <em>dabet al-iqa‘</em> officiel de l'Orchestre Diamant d'Égypte) échange des solos avec le joueur d'orgue pendant la chanson <strong>Qari'at al-Fingan</strong> de Abdel Halim Hafez (1976, musique de Mouhammad al-Mougi).</span>
+                                <span>Le joueur de riqq Hasan Anwar (le <em>dabet al-iqa‘</em> officiel de l'Orchestre Diamant d'Égypte) échange des solos avec le joueur d'orgue pendant la chanson <strong>Qari'at al-Fingan</strong> de Abdel Halim Hafez (1976, musique de Muhammad al-Mougi).</span>
                                 </div>
                             </label>
                         </div>
@@ -77,8 +77,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Mouhammad al-‘Arabi</b>
-                                <span>Le joueur de riqq égyptien Mouhammad al-‘Arabi joue un solo sur un riqq à peau de plastique dans lequel il explore plusieurs <a href="../iqaa.php">iqa‘at</a>.</span>
+                                    <b>Muhammad al-‘Arabi</b>
+                                <span>Le joueur de riqq égyptien Muhammad al-‘Arabi joue un solo sur un riqq à peau de plastique dans lequel il explore plusieurs <a href="../iqaa.php">iqa‘at</a>.</span>
                                 </div>
                             </label>
                         </div>

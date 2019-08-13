@@ -80,7 +80,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Msafir wi Albi Ma‘ak (1950)</b>
                                     <span>Leila Mourad (Égypte)</span>
-                                    <span>Musique de Ahmad Sidqi</span>
+                                    <span>Musica di Ahmad Sidqi</span>
                                 </div>
                             </label>
                         </div>
@@ -93,7 +93,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>el-Hana wel-Widd (1975)</b>
                                     <span>Leila Mourad (Égypte)</span>
-                                    <span>Musique de Abdel Moun‘im al-Hariri</span>
+                                    <span>Musica di Abdel Moun‘im al-Hariri</span>
                                 </div>
                             </label>
                         </div>
@@ -106,7 +106,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Fagr Nurak Hall wi Bane (c.1952)</b>
                                     <span>Interprétation de Baligh Hamdi (Égypte)</span>
-                                    <span>Musique de Youssef Shawqi</span>
+                                    <span>Musica di Youssef Shawqi</span>
                                 </div>
                             </label>
                         </div>
@@ -119,7 +119,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>el-Hobbi Kida (1959)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Riyad al-Soumbati</span>
+                                    <span>Musica di Riyad al-Soumbati</span>
                                 </div>
                             </label>
                         </div>
@@ -133,7 +133,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Sama‘i Hijazkar Kurd</b>
                                     <span>Ensemble Al-Kindi (Syrie/France)</span>
                                     <span><img src="/img/cd.png"> Les Derviches Tourneurs of Damas Vol. 2</span>
-                                    <span>Musique de Salah al-Mahdi (Tunisia)</span>
+                                    <span>Musica di Salah al-Mahdi (Tunisia)</span>
                                 </div>
                             </label>
                         </div>
@@ -158,7 +158,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Taqsim de Oud en Maqam Athar Kurd</b>
-                                    <span>Mouhammad Qadri Dalal (Syrie)</span>
+                                    <span>Muhammad Qadri Dalal (Syrie)</span>
                                     <span><img src="/img/cd.png"> Maqams Insolites</span>
                                 </div>
                             </label>

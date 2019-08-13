@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Iqa‘ Ayyub";
 $page_description = "Iqa‘ Ayyub";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, aqsaq, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "it";
+$page_language = "it"; // YOU MUST DEFINE LANGUAGE
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -23,27 +23,27 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Indice del Iqa‘at</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Ayyub 2/4</h1>
-                        <h3>(aussi appelé <strong>Zar</strong>)</h3>
+                        <h3>(also called <strong>Zar</strong>)</h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Iqa‘at</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/ayyub.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Ayyub</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/ayyub.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Ayyub</a>
                     </div>
 
                     <div class="notation">
                         <img src="/note/iqaa/ayyub.png" class="img-fluid">
                     </div>
-                    <p>Le Iqa‘ Ayyub (aussi écrit 'Ayoub') est surtout utilisé en musique soufie, dans certaines musiques folkloriques et dans le <em>Raqs Sharqi</em> (la danse du ventre). Le Iqa‘ Ayyub est des fois appelé <strong>Zar</strong> en Égypte, du nom d'une cérémonie folklorique de guérison dirigée par des femmes qui jouent des instruments de percussion à main. L'ethos de Ayyub est rapide, court et cyclique.
-                    </p>
+
+                    <p>Iqa‘ Ayyub (also spelled Ayoub) is primarily used in Sufi music as well as in some folk music and <em>Raqs Sharqi</em> (Belly Dance). Ayyub is sometimes called Zar in Egypt, after a folk healing ceremony led by women who play hand-held percussion instruments. Ayyub’s feel is rapid, short and cyclical.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -56,8 +56,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Atani Zamani</b>
-                                    <span>Noureddine Khourchid et Les Derviches De Damas</span>
+                                    <b>Muwashah Atani Zamani</b>
+                                    <span>Noureddine Khourshid Et Les Derviches De Damas</span>
                                 </div>
                             </label>
                         </div>
@@ -68,8 +68,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ya Man Nasha</b>
-                                    <span>Rima Khcheich et l'Orchestre Salim Sahhab</span>
+                                    <b>Muwashah Ya Man Nasha</b>
+                                    <span>Rima Khcheich and Salim Sahhab Orchestra</span>
                                 </div>
                             </label>
                         </div>
@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Tajallat Wa-njalat Laylan</b>
-                                    <span>Cheikh Hamza Chakkour et l'Ensemble Al-Kindi</span>
+                                    <span>Sheikh Hamza Shakkur and Ensemble Al Kindi</span>
                                 </div>
                             </label>
                         </div>

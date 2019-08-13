@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Zikrayati (1944)</b>
-                                    <span>La composition instrumentale Zikrayati (1944) de Mouhammad al-Qasabji en <a href="../maqam/nahawand.php">Maqam Nahawand</a>, enregistrée par l'Orchestre National Arabe (Etats-Unis).
+                                    <span>La composition instrumentale Zikrayati (1944) de Muhammad al-Qasabji en <a href="../maqam/nahawand.php">Maqam Nahawand</a>, enregistrée par l'Orchestre National Arabe (Etats-Unis).
                                     </span>
                                 </div>
                             </label>
@@ -74,7 +74,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>‘Aziza (1955)</b>
-                                    <span>La composition instrumentale ‘Aziza de Mouhammad Abdel Wahab (du film <strong>‘Aziza</strong>, 1955).
+                                    <span>La composition instrumentale ‘Aziza de Muhammad Abdel Wahab (du film <strong>‘Aziza</strong>, 1955).
                                     </span>
                                 </div>
                             </label>
@@ -150,7 +150,7 @@ include($ROOT . 'inc/head.php');
                              --><div class="info">
                                     <b>Qari'at al-Fingan (1976)</b>
                                     <span>Abdel Halim</span>
-                                    <span>L'introduction de la longue chanson <em>Qari'at al-Fingan</em> (1976) de Abdel Halim Hafez, composée par Mouhammad al-Mougi.
+                                    <span>L'introduction de la longue chanson <em>Qari'at al-Fingan</em> (1976) de Abdel Halim Hafez, composée par Muhammad al-Mougi.
                                     </span>
                                 </div>
                             </label>
@@ -167,7 +167,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Fi Youm wi Leila (1978)</b>
-                                    <span>L'introduction de la longue chanson <strong>Fi Youm wi Leila</strong> (1978) de Warda, composée par Mouhammad Abdel Wahab.
+                                    <span>L'introduction de la longue chanson <strong>Fi Youm wi Leila</strong> (1978) de Warda, composée par Muhammad Abdel Wahab.
                                     </span>
                                 </div>
                             </label>

@@ -80,7 +80,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Ayqadha al-Houbbou Fou'adi</b>
                                     <span>Hassan al-Haffar (Syrie)</span>
-                                    <span>Musique de Bahjat Hassan</span>
+                                    <span>Musica di Bahjat Hassan</span>
                                     <span><img src="/img/cd.png"> The Aleppo Suites Vol.2</span>
                                 </div>
                             </label>
@@ -94,7 +94,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Da‘i al-Hawa Qad Sah</b>
                                     <span>Sabah Fakhri (Syrie)</span>
-                                    <span>Musique de Omar al-Batch</span>
+                                    <span>Musica di Omar al-Batch</span>
                                 </div>
                             </label>
                         </div>
@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>el-Hobbi Fi Albi Amana</b>
                                     <span>Fathiyya Ahmad (Égypte)</span>
-                                    <span>Musique de Mouhammad al-Qasabgi</span>
+                                    <span>Musica di Muhammad al-Qasabgi</span>
                                 </div>
                             </label>
                         </div>

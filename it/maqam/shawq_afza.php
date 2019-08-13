@@ -76,7 +76,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Lissa Faker (1960)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Riyad al-Soumbati</span>
+                                    <span>Musica di Riyad al-Soumbati</span>
                                 </div>
                             </label>
                         </div>
@@ -89,7 +89,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>‘Ala Allah Téoud (1970)</b>
                                     <span>Wadih al-Safi (Liban)</span>
-                                    <span>Musique de Farid al-Atrache</span>
+                                    <span>Musica di Farid al-Atrache</span>
                                 </div>
                             </label>
                         </div>
@@ -101,7 +101,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Longa ‘Ajam</b>
-                                    <span>Musique de Abdou Dagher (Égypte)</span>
+                                    <span>Musica di Abdou Dagher (Égypte)</span>
                                     <span><img src="/img/cd.png"> Malik al-Taqasim</span>
                                 </div>
                             </label>
@@ -115,7 +115,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Iswarit el-‘Arouss (1989)</b>
                                     <span>Fairouz (Liban)</span>
-                                    <span>Musique de Philémon Wéhbé</span>
+                                    <span>Musica di Philémon Wéhbé</span>
                                 </div>
                             </label>
                         </div>

@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/oud.jpg" alt="L'Oud">
-                        <span>Un oud syrien construit par les frères Nahat (droite), et un oud iraqien construit par Mouhammad Fadel (gauche). &copy; 2018 MaqamWorld</span>
+                        <span>Un oud syrien construit par les frères Nahat (droite), et un oud iraqien construit par Muhammad Fadel (gauche). &copy; 2018 MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
@@ -85,8 +85,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Mouhammad al-Qasabgi</b>
-                                    <span>Virtuose du oud et compositeur égyptien, Mouhammad al-Qasabgi joue ici
+                                    <b>Muhammad al-Qasabgi</b>
+                                    <span>Virtuose du oud et compositeur égyptien, Muhammad al-Qasabgi joue ici
                                     un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/rast.php">Maqam Rast</a>
                                     (enregistré au Conservatoire de Musique Arabe au Caire, en 1955).
                                     </span>

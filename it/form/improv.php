@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
                              --><div class="info">
                                     <b>Dawr Kadni el-Hawa</b>
                                     <span>
-                                        L'enregistrement de Marie Joubran du <a href="vocal_comp.php#dawr">Dawr</a> <strong>Kadni el-Hawa</strong> (musique de Mouhammad Outhman) commence avec un taqsim de <a href="../instr/qanun.php">qanun</a> suivi de layali en <a href="../maqam/nahawand.php">Maqam Nahawand</a>.
+                                        L'enregistrement de Marie Joubran du <a href="vocal_comp.php#dawr">Dawr</a> <strong>Kadni el-Hawa</strong> (musique de Muhammad Outhman) commence avec un taqsim de <a href="../instr/qanun.php">qanun</a> suivi de layali en <a href="../maqam/nahawand.php">Maqam Nahawand</a>.
                                     </span>
                                 </div>
                             </label>
@@ -97,8 +97,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Mouhammad Khayri - Layali</b>
-                                    <span>Le chanteur aleppin Mouhammad Khayri commence sa <a href="vocal_comp.php#wasla">Wasla</a> en <a href="../maqam/rast.php">Maqam Rast</a> avec des Layali puis chante une <a href="#qasida">Qasida improvisée</a> et quelques <a href="vocal_comp.php#qadd">Qoudoud</a>.</span>
+                                    <b>Muhammad Khayri - Layali</b>
+                                    <span>Le chanteur aleppin Muhammad Khayri commence sa <a href="vocal_comp.php#wasla">Wasla</a> en <a href="../maqam/rast.php">Maqam Rast</a> avec des Layali puis chante une <a href="#qasida">Qasida improvisée</a> et quelques <a href="vocal_comp.php#qadd">Qoudoud</a>.</span>
                                 </div>
                             </label>
                         </div>
@@ -127,7 +127,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Saddouk ‘Anni el-‘Ida</b>
-                                    <span>Le chanteur aleppin Mouhammad Khayri commence sa <a href="vocal_comp.php#wasla">Wasla</a> en <a href="../maqam/bayati.php">Maqam Bayati</a> avec un <a href="ottoman.php/samai">Sama‘i</a>, suivi par le Mawwal <strong>Saddouk ‘Anni el-‘Ida</strong>.</span>
+                                    <span>Le chanteur aleppin Muhammad Khayri commence sa <a href="vocal_comp.php#wasla">Wasla</a> en <a href="../maqam/bayati.php">Maqam Bayati</a> avec un <a href="ottoman.php/samai">Sama‘i</a>, suivi par le Mawwal <strong>Saddouk ‘Anni el-‘Ida</strong>.</span>
                                 </div>
                             </label>
                         </div>
@@ -144,7 +144,7 @@ include($ROOT . 'inc/head.php');
                              --><div class="info">
                                     <b>Achki Li Min el-Hawa</b>
                                     <span>
-                                        Il Mawwal <strong>Ashki Li Min el-Hawa</strong> en <a href="../maqam/kurd.php">Maqam Kurd</a> par Mouhammad Abdel Wahab (1931).
+                                        Il Mawwal <strong>Ashki Li Min el-Hawa</strong> en <a href="../maqam/kurd.php">Maqam Kurd</a> par Muhammad Abdel Wahab (1931).
                                     </span>
                                 </div>
                             </label>
@@ -187,7 +187,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ya Man Yara Admu‘i</b>
-                                    <span>Qasida de Mouhammad Khayri intitulée <strong>Ya Man Yara Admou‘i</strong> en <a href="../maqam/rast.php">Maqam Rast</a>.</span>
+                                    <span>Qasida de Muhammad Khayri intitulée <strong>Ya Man Yara Admou‘i</strong> en <a href="../maqam/rast.php">Maqam Rast</a>.</span>
                                 </div>
                             </label>
                         </div>

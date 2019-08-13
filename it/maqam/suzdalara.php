@@ -77,7 +77,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Yana Yana (1969)</b>
                                     <span>Sabah (Liban)</span>
-                                    <span>Musique de Baligh Hamdi</span>
+                                    <span>Musica di Baligh Hamdi</span>
                                 </div>
                             </label>
                         </div>

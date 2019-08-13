@@ -41,7 +41,7 @@ include($ROOT . 'inc/head.php');
                         <span>Le pianiste libanais Ziad Rahbani (d'un poster pour un concert des années 1980)</span>
                     </div>
 
-                    <p> Bien que le piano ait été intégré à la musique arabe au début du 20ième siècle, il a été utilisé en tant qu'instrument européen pour ajouter une couleur classique à des compositions arabes (par exemple dans al-Siba wal-Gamal de Mouhammad Abdel Wahab, en 1939). Par 'Piano Arabe', par contre, nous référons à un piano joué mélodiquement (sans harmonie) dans un cadre de musique utilisant le <a href="../maqam.php">maqam</a> arabe.
+                    <p> Bien que le piano ait été intégré à la musique arabe au début du 20ième siècle, il a été utilisé en tant qu'instrument européen pour ajouter une couleur classique à des compositions arabes (par exemple dans al-Siba wal-Gamal de Muhammad Abdel Wahab, en 1939). Par 'Piano Arabe', par contre, nous référons à un piano joué mélodiquement (sans harmonie) dans un cadre de musique utilisant le <a href="../maqam.php">maqam</a> arabe.
                     </p>
                     <p>Le premier pionnier du piano arabe a été le libanais Wadih Sabri qui a ajouté des notes au piano (quarts de ton) pendant le Congrès de la Musique Arabe du Caire en 1932. Plus tard, le libanais Abdallah Chahine a aussi modifié le piano pour être en mesure de jouer les quarts de ton et a enregistré un album appelé 'al-Nagham al-Khalid' avec des <a href="../form/improv.php#taqsim">taqsims</a> dans les <a href="../maqam.php">maqams</a> les plus communs.
                     </p>
