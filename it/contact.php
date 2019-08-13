@@ -62,7 +62,7 @@ include($ROOT . 'inc/head.php');
             })
             $(".contact-form").submit(function(e) {
                 e.preventDefault();
-                $(".contact-form .btn-primary").html("<i class='fa fa-fw fa-circle-o-notch fa-spin'></i> en cours d'envoi...").prop("disabled", true);
+                $(".contact-form .btn-primary").html("<i class='fa fa-fw fa-circle-o-notch fa-spin'></i> il messaggio è stato inviato...").prop("disabled", true);
                 $.ajax({
                     url: 'email.php',
                     data: $(".contact-form").serialize(),

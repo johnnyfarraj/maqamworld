@@ -4,9 +4,9 @@
 include('../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Inside Arabic Music";
-$page_description = "Inside Arabic Music";
-$page_keywords = "Maqam-Welt Inside Arabic Music";
+$page_title = "Veröffentlichungen";
+$page_description = "Maqam-Wely Veröffentlichungen - Inside Arabic Music";
+$page_keywords = "Maqam-Welt, Inside Arabic Music";
 $page_language = "de"; // en / ar / de <!-- YOU MUST PUT THIS -->
 
 include($ROOT . 'inc/head.php');
@@ -32,12 +32,15 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <p>Ich freue mich, das Erscheinen eines Buches ankündigen zu können, das ich gemeinsam mit meinem Freund Sami Abu Shumays (Schöpfer von <a href="http://maqamlessons.com" target="_blank">MaqamLessons</a>) geschrieben habe.
-                    Es trägt den Titel <strong>INSIDE ARABIC MUSIC</strong> und soll bei <a href="http://oup.com" target="_blank">Oxford University Press</a> im August 2019 erscheinen.
+                    Es trägt den Titel <strong>Inside Arabic Music</strong> und wurde im August 2019 von <a href="http://oup.com" target="_blank">Oxford University Press</a> veröffentlicht.
+                    Dieses Buch wird eine vollständige Referenz zur arabischen Musik sein und diese Website begleiten.
                     </p>
+                    
                     <p>Das Buchprojekt wurde vom <a href="http://arabculturefund.org/grantees/grantee.php?id=333" target=_blank>Arab Fund for Arts and Culture</a> gefördert. 
                     </p>
+                    
                     <p style="margin-bottom:40px;">
-                    Sie können eine Kopie des Buches bei <a href="https://www.amazon.com/Inside-Arabic-Music-Performance-Century/dp/0190658363/ref=sr_1_1" target="_blank">Amazon.com</a> vorbestellen.
+                    Sie können eine Kopie des Buches bei <a href="https://www.amazon.com/Inside-Arabic-Music-Performance-Century/dp/0190658363/ref=sr_1_1" target="_blank">Amazon.com</a> oder direkt beim <a href="https://global.oup.com/academic/product/inside-arabic-music-9780190658366" target="_blank">Oxford University Press</a> bestellen.
                     </p>
                     
                     <div class="row">
