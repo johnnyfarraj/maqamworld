@@ -111,6 +111,19 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
+                    
+                    <div class="track" data-song="/audio/maqam/mustaar/ya_3adhili_la_talumni.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Qasida Ya ‘Adhili La Taloumni (1924)</b>
+                                    <span>Cheikh Abou el-Éla Mouhammad (Égypte)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
 
                 </div>
                 <div class="col-sm-12">
