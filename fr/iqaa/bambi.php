@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/bambi_f1.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Bambi est un <em>iqa‘</em> égyptien en 8/4 ralenti qui accompagne très bien les improvisations et  les sections vocales improvisées. Il est commun de commencer à jouer le Bambi sur le 7<sup>ième</sup>sup> temps (l'avant-dernier <em>doum</em>), en mettant de cette manière l'emphase sur les 3 <em>doums</em> consécutifs qui commencent chaque cycle. Une autre version du Bambi commence la mesure avec les 3 <em>doums</em> consécutifs.
+                    <p>Iqa‘ Bambi est un <em>iqa‘</em> égyptien en 8/4 ralenti qui accompagne très bien les <a href="../form/improv.php">improvisations</a> et  les sections vocales improvisées. Il est commun de commencer à jouer le Bambi sur le 7<sup>ième</sup>sup> temps (l'avant-dernier <em>doum</em>), en mettant de cette manière l'emphase sur les 3 <em>doums</em> consécutifs qui commencent chaque cycle. Une autre version du Bambi commence la mesure avec les 3 <em>doums</em> consécutifs.
 					</p>
 
                     <div class="player-area">
@@ -89,11 +89,11 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-
-                    <!-- Need some kind of divider here to start the Form 2  examples -->
+                    <br>
                     <div class="heading jins text-center">
                         <h3>Examples de la seconde forme du Iqa‘ Bambi</h3>
                     </div>
+                    <br>
 
                     <div class="notation">
                         <img src="/note/iqaa/bambi_f2.png" class="img-fluid">

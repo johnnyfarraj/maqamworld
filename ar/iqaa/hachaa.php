@@ -133,7 +133,6 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <!-- Need some kind of divider here -->
                     <br>
                     <div class="heading jins text-center">
                         <h3>الشكل الثاني لإيقاع هجع على وزن ٢/٤</h3>
@@ -159,7 +158,6 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <!-- Need some kind of divider here -->
                     <br>
                     <div class="heading jins text-center">
                         <h3>الشكل الثالث لإيقاع هجع على وزن ٦/٤</h3>

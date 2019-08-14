@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Murabba";
-$page_description = "Iqa‘ Murabba";
+$page_title = "Iqa‘ Murabba‘";
+$page_description = "Iqa‘ Murabba‘";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, murabbaa, murabba‘, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "en";
 

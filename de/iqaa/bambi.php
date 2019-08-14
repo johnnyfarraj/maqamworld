@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/bambi_f1.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Bambi ist ein ausgedehnter ägyptischer Achtviertel, der sehr hübsch Improvisationen und karge Vokalpassagen begleitet. Gewöhnlich startet der Bambi auf dem siebten Schlag (dem vorletzten <em>Dum</em>), wodurch die drei aufeinander folgenden <em>Dums</em> betont werden, die am Anfang eines jeden Zyklus stehen.
+                    <p>Iqa‘ Bambi ist ein ausgedehnter ägyptischer Achtviertel, der sehr hübsch <a href="../form/improv.php">Improvisationen</a> und karge Vokalpassagen begleitet. Gewöhnlich startet der Bambi auf dem siebten Schlag (dem vorletzten <em>Dum</em>), wodurch die drei aufeinander folgenden <em>Dums</em> betont werden, die am Anfang eines jeden Zyklus stehen.
 					</p>
 
                     <div class="player-area">
@@ -89,12 +89,12 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-
-                    <!-- Need some kind of divider here to start the Form 2  examples -->
-                    <p></p>
+                    
+                    <br>
                     <div class="heading jins text-center">
                         <h3>Beispiele für die zweite Form von Iqa‘ Bambi</h3>
                     </div>
+                    <br>
 
                     <div class="notation">
                         <img src="/note/iqaa/bambi_f2.png" class="img-fluid">

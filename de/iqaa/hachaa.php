@@ -128,13 +128,12 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <!-- Need some kind of divider here -->
-                    <br>
                     <br>
                     <div class="heading jins text-center">
                         <h3>Beispiel für die 2/4-Form von Iqa‘ Hacha‘</h3>
                     </div>
-
+                    <br>
+                    
                     <div class="notation">
                         <img src="/note/iqaa/hachaa_2_4.png" class="img-fluid">
                     </div>
@@ -152,12 +151,12 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <!-- Need some kind of divider here -->
-                    <br><br>
+                    <br>
                     <div class="heading jins text-center">
                         <h3>Beispiele für die 6/4-Form von Iqa‘ Hacha‘</h3>
                     </div>
-
+                    <br>
+                    
                     <div class="notation">
                         <img src="/note/iqaa/hachaa_6_4.png" class="img-fluid">
                     </div>
