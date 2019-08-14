@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
                     
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Sama‘i Saraband 3/8</h1>
-                        <h3>(also called Sama‘i Ta’ir)</h3>
+                        <h3>(also called <strong>Sama‘i Ta’ir</strong>)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Iqa‘-Verzeichnis</a>
                     <div class="clearfix"></div>
@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/samai_saraband.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Sama‘i Saraband, auch Sama‘i Ta'ir genannt ("ta'ir" bedeutet fliegend auf Arabisch) ist ein leichter und schneller Iqa‘ im vokalen <a href="../form/vocal_comp.php#muwashah">Muwashah</a>-Genre.</p>
+                    <p>Iqa‘ Sama‘i Saraband, auch <strong>Sama‘i Ta’ir</strong> genannt ("ta'ir" bedeutet fliegend auf Arabisch) ist ein leichter und schneller Iqa‘ im vokalen <a href="../form/vocal_comp.php#muwashah">Muwashah</a>-Genre.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>

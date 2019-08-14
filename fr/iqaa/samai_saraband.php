@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Sama‘i Sarabande 3/8</h1>
-                        <h3>(aussi appelé <strong>Sama‘i Ta’ir</strong>)</h3>
+                        <h3>(aussi appelé <strong>Sama‘i Ta’er</strong>)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <div class="clearfix"></div>
@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/samai_saraband.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Sama‘i Sarabande, aussi appelé <strong>Sama‘i Ta’ir</strong> (<em>ta’ir</em> veut dire 'volant' en arabe), est un <em>iqa‘</em> léger et rapide, populaire dans le genre vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a>.
+                    <p>Iqa‘ Sama‘i Sarabande, aussi appelé <strong>Sama‘i Ta’er</strong> (<em>ta’er</em> veut dire 'volant' en arabe), est un <em>iqa‘</em> léger et rapide, populaire dans le genre vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a>.
                     </p>
 
                     <div class="player-area">
