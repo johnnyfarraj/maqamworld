@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Jadaka al-Gaythou</b>
+                                    <b>Mouachah Jadaka al-Ghaythou</b>
                                     <span>Sabah Fakhri (Syrie)</span>
                                     <span>Musique de Majdi al-‘Aqili</span>
                                     <span><img src="/img/cd.png"> Beiteddine Festival Vol I</span>
