@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Hacha‘";
-$page_description = "Iqa‘ Hacha‘";
-$page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, hachaa, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
+$page_title = "Iqa‘ Haccia";
+$page_description = "Iqa‘ Haccia";
+$page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, haccia, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it"; // YOU MUST DEFINE LANGUAGE
 
 include($ROOT . 'inc/head.php');
@@ -23,27 +23,27 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Indice del Iqa‘</a>
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Hacha‘ 4/4</h1>
-                        <h3>(also in 2/4 and 6/4)</h3>
+                        <h1>Iqa‘ Haccia 4/4</h1>
+                        <h3>(also in 2/4 e 6/4)</h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Iqa‘</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/hachaa.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Hacha‘</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/hachaa.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Haccia</a>
                     </div>
 
                     <div class="notation">
                         <img src="/note/iqaa/hachaa_4_4.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Hacha‘ in 4/4 is very popular in Sufi music, especially in pieces that only use percussion instruments. Although the 4/4 version is by far the most prevalent, it is an adaptation of a more folkloric <em>iqa‘</em> by the same name in 2/4. A rare adaptation is the 6/4 version used by composer Baligh Hamdi in Umm Kulthum's "Alf Leila w Leila".
+                    <p>L'Iqa‘ Hacha‘ in 4/4 è molto popolare nella musica Sufi, specialmente nei pezzi che usano solo strumenti percussivi. Anche se la versione in 4/4 è di gran lunga la più usata, c'è un adattamento a un iqa‘ più folk con lo stesso nome in 2/4. Un raro adattamento è una versione in 6/4 usata dal compositore Baligh Hamdi in "Alf Leila w Leila" di Umm Kulthum.
 					</p>
 
                     <div class="player-area">
@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Subhana</b>
-                                    <span>Sheikh Habboush &amp; Ensemble Al Kindi</span>
+                                    <span>Sheikh Habboush e Ensemble Al Kindi</span>
                                     <span><img src="/img/cd.png"> Transe Soufie d'Aleppe Vol.2</span>
                                 </div>
                             </label>
@@ -128,10 +128,11 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <!-- Need some kind of divider here -->
+                    <br>
                     <div class="heading jins text-center">
-                        <h3>Examples of the 2/4 form of Iqa‘ Hacha‘</h3>
+                        <h3>Esempi di Iqa‘ Haccia in 2/4</h3>
                     </div>
+                    <br>
 
                     <div class="notation">
                         <img src="/note/iqaa/hachaa_2_4.png" class="img-fluid">
@@ -150,15 +151,15 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
                     
-                    <!-- Need some kind of divider here -->
+                    <br>
                     <div class="heading jins text-center">
-                        <h3>Examples of the 6/4 form of Iqa‘ Hacha‘</h3>
+                        <h3>Esempi di Iqa‘ Haccia in 6/4</h3>
                     </div>
+                    <br>
 
                     <div class="notation">
                         <img src="/note/iqaa/hachaa_6_4.png" class="img-fluid">
                     </div>
-
 
                     <div class="track" data-song="/audio/iqaa/hachaa_6_4/alf_leila.mp3">
                         <div class="radio">

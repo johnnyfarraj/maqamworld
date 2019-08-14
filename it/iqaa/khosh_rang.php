@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Iqa‘ Khosh Rang";
 $page_description = "Iqa‘ Khosh Rang";
-$page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, khosh rang, khush rank, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
+$page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, Khosh Rang, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it"; // YOU MUST DEFINE LANGUAGE
 
 include($ROOT . 'inc/head.php');
@@ -23,27 +23,27 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Indice del Iqa‘</a>
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
                     
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Khosh Rang 17/8</h1>
-                        <h3>(also spelled Khush Rank)</h3>
+                        <h3>(anche scritto Khush Rank)</h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Iqa‘</a>
                     <div class="clearfix"></div>
                     
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/khosh_rang.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Khosh Rang</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/khosh_rang.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Khosh Rang</a>
                     </div>
                     
                     <div class="notation">
                         <img src="/note/iqaa/khosh_rang.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Khosh Rang (also spelled Khush Rank) is a very rare <em>iqa‘</em> that is only used in one known <a href="../form/vocal_comp.php#muwashah">Muwashah</a> and a few rare modern compositions.</p>
+                    <p>L'Iqa‘ Khosh Rang (anche scritto Khush Rank) è un  iqa‘ raro che viene usato in un solo <a href="../form/vocal_comp.php#muwashah">Muwashah</a> noto e in poche composizioni moderne.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -82,8 +82,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Khush-Rank (Oud and Riqq)</b>
-                                    <span>Tarek Abdallah, Adel Shams El-Din</span>
+                                    <b>Khush-Rank (Oud e Riqq)</b>
+                                    <span>Tarek Abdallah e Adel Shams El-Din</span>
                                     <span><img src="/img/cd.png"> Wasla (Suites musicales égyptiennes)</span>
                                 </div>
                             </label>

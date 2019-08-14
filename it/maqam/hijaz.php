@@ -134,7 +134,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Foug el-Nakhal</b>
-                                    <span>Mounir Bachir and Omar Bachir</span>
+                                    <span>Mounir Bachir e Omar Bachir</span>
                                     <span>(folklore traditionel de l'Irak)</span>
                                 </div>
                             </label>
@@ -200,7 +200,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Doulab Hijaz</b>
                                     <span>Sabah Fakhri (Syrie)</span>
-                                    <span><img src="/img/cd.png"> Mawawil and Mouachahat</span>
+                                    <span><img src="/img/cd.png"> Mawawil e Mouachahat</span>
                                 </div>
                             </label>
                         </div>

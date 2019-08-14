@@ -16,7 +16,7 @@ function page_title($url) {
         if (!$res)
             return null;
 
-        // Clean up title: remove EOL's and excessive whitespace.
+        // Clean up title: remove EOL's e excessive whitespace.
         $title = preg_replace('/\s+/', ' ', $title_matches[1]);
         $title = trim($title);
         return $title;

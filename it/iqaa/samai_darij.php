@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Iqa‘ Sama‘i Darij";
 $page_description = "Iqa‘ Sama‘i Darij";
-$page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, sama‘i, samai darij, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
+$page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, sama‘i darij, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it"; // YOU MUST DEFINE LANGUAGE
 
 include($ROOT . 'inc/head.php');
@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Indice del Iqa‘</a>
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -31,18 +31,18 @@ include($ROOT . 'inc/head.php');
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Sama‘i Darij 3/4</h1>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Iqa‘</a>
                     <div class="clearfix"></div>
                     
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/samai_darij.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Sama‘i Darij</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/samai_darij.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Sama‘i Darij</a>
                     </div>
                     
                     <div class="notation">
                         <img src="/note/iqaa/samai_darij.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Sama‘i Darij (also called Darij, for short) is a general 3/4 <em>iqa‘</em> used both in vocal and instrumental genre. Iqa‘ Sama‘i Darij is also the principal <em>iqa‘</em> used in the <a href="../form/instr_comp.php#darij">Darij</a> instrumental composed form.
+                    <p>Iqa‘ Sama‘i Darij (anche chiamato Darij, for short) is a general 3/4 <em>iqa‘</em> used both in vocal e instrumental genre. Iqa‘ Sama‘i Darij is also the principal <em>iqa‘</em> used in the <a href="../form/instr_comp.php#darij">Darij</a> instrumental composed form.
                     </p>
                     
                     <div class="player-area">

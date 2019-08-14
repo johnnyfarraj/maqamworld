@@ -75,7 +75,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>el-Bortoqal (1938)</b>
-                                    <span>Interprétation de Ra'isa ‘Afifi and Muhammad Abdel Wahab</span>
+                                    <span>Interprétation de Ra'isa ‘Afifi e Muhammad Abdel Wahab</span>
                                     <span>Musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>

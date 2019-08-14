@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Wahda w-Nuss";
-$page_description = "Iqa‘ Wahda w-Nuss";
-$page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, wahda w-nuss, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
+$page_title = "Iqa‘ Wahda wi Nuss";
+$page_description = "Iqa‘ Wahda wi Nuss";
+$page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, wahda wi nuss, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it"; // YOU MUST DEFINE LANGUAGE
 
 include($ROOT . 'inc/head.php');
@@ -23,26 +23,26 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Indice del Iqa‘</a>
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
                     
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Wahda w-Nuss 4/4</h1>
+                        <h1>Iqa‘ Wahda wi Nuss 4/4</h1>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Iqa‘</a>
                     <div class="clearfix"></div>
                     
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/wahda_w_nuss.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Wahda w-Nuss</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/wahda_w_nuss.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Wahda wi Nuss</a>
                     </div>
                     
                     <div class="notation">
                         <img src="/note/iqaa/wahda_w_nuss.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Wahda w-Nuss (meaning "one and a half" in Arabic) is a syncopated and version of <a href="maqsum.php">Iqa‘ Maqsum</a> with a first <em>tak</em> delayed by half of an an eighth note. It is very popular in the Tarab genre of the mid-twentieth century.</p>
+                    <p>Iqa‘ Wahda wi Nuss (meaning "one e a half" in Arabic) is a syncopated e version of <a href="maqsum.php">Iqa‘ Maqsum</a> with a first <em>tak</em> delayed by half of an an eighth note. It is very popular in the Tarab genre of the mid-twentieth century.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Nura Nura (1953)</b>
-                                    <span>Vocals and Musica di Farid al-Atrash</span>
+                                    <span>Voce e musica di Farid al-Atrash</span>
                                 </div>
                             </label>
                         </div>

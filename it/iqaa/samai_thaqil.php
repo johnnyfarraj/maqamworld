@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Iqa‘ Sama‘i Thaqil";
 $page_description = "Iqa‘ Sama‘i Thaqil";
-$page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, sama‘i, samai thaqil, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
+$page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, sama‘i thaqil, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it"; // YOU MUST DEFINE LANGUAGE
 
 include($ROOT . 'inc/head.php');
@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Indice del Iqa‘</a>
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -31,18 +31,18 @@ include($ROOT . 'inc/head.php');
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Sama‘i Thaqil 10/8</h1>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Iqa‘</a>
                     <div class="clearfix"></div>
                     
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/samai_thaqil.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Sama‘i Thaqil</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/samai_thaqil.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Sama‘i Thaqil</a>
                     </div>
                     
                     <div class="notation">
                         <img src="/note/iqaa/samai_thaqil.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Sama‘i Thaqil (also called Sama‘i, for short) is a very popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre, as well as the principal iqa‘ used in the <a href="../form/ottoman.php#samai">Sama‘i</a> Turkish/Ottoman instrumental form. </p>
+                    <p>Iqa‘ Sama‘i Thaqil (anche chiamato Sama‘i, for short) is a very popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre, as well as the principal iqa‘ used in the <a href="../form/ottoman.php#samai">Sama‘i</a> Turkish/Ottoman instrumental form. </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Imlali al-Aqdaha Sirfan</b>
-                                    <span>Sheikh Hamza Shakkur and Ensemble Al Kindi</span>
+                                    <span>Sheikh Hamza Shakkur e Ensemble Al Kindi</span>
                                 </div>
                             </label>
                         </div>
