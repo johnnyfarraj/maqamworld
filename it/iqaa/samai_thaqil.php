@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/samai_thaqil.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Sama‘i Thaqil (anche chiamato Sama‘i, for short) is a very popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre, as well as the principal iqa‘ used in the <a href="../form/ottoman.php#samai">Sama‘i</a> Turkish/Ottoman instrumental form. </p>
+                    <p>L' Iqa‘ Sama‘i Thaqil (anche abbreviato in <strong>Sama‘i</strong>) è un iqa‘ molto popolare nel genere vocale <a href="../form/vocal_comp.php#muwashah">Muwashah</a>, e come principale  iqa‘ usato nel <a href="../form/ottoman.php#samai">Sama‘i</a> forma strumentale Turca/Ottomana.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -81,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Imlali al-Aqdaha Sirfan</b>
-                                    <span>Sheikh Hamza Shakkur e Ensemble Al Kindi</span>
+                                    <span>Sheikh Hamza Shakkur e Ensemble Al-Kindi</span>
                                 </div>
                             </label>
                         </div>

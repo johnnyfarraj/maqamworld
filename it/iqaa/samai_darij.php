@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Sama‘i Darij";
-$page_description = "Iqa‘ Sama‘i Darij";
+$page_title = "Iqa‘ Sama‘i Darej";
+$page_description = "Iqa‘ Sama‘i Darej";
 $page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, sama‘i darij, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it"; // YOU MUST DEFINE LANGUAGE
 
@@ -29,20 +29,20 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
                     
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Sama‘i Darij 3/4</h1>
+                        <h1>Iqa‘ Sama‘i Darej 3/4</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Iqa‘</a>
                     <div class="clearfix"></div>
                     
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/samai_darij.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Sama‘i Darij</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/samai_darij.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Sama‘i Darej</a>
                     </div>
                     
                     <div class="notation">
                         <img src="/note/iqaa/samai_darij.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Sama‘i Darij (anche chiamato Darij, for short) is a general 3/4 <em>iqa‘</em> used both in vocal e instrumental genre. Iqa‘ Sama‘i Darij is also the principal <em>iqa‘</em> used in the <a href="../form/instr_comp.php#darij">Darij</a> instrumental composed form.
+                    <p>L' Iqa‘ Sama‘i Darej (anche abbreviato in Darej) è un iqa‘ comune in 3/4 usato sia in generi vocali che strumentali. Iqa‘ Sama‘i Darej è anche l'<em>iqa‘</em> principale utilizzato nella forme di composizioni strumentali <a href="../form/instr_comp.php#darij">Darej</a>.
                     </p>
                     
                     <div class="player-area">

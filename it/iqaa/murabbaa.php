@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/murabbaa.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Murabba‘ is mostly confined to the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> repertoire. Unrelated to its time signature, the word <em>murabba‘</em> in Arabic means squared or based on the number 4.</p>
+                    <p>L' Iqa‘ Murabba‘ è principalmente confinata al repertorio del <a href="../form/vocal_comp.php#muwashah">Muwashah</a>. Al contrario della sua indicazione di tempo, la parola murabba‘ in arabo significa basato sul numero 4.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

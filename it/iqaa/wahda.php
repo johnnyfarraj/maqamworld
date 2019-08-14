@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/wahda.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Wahda is the principal <em>iqa‘</em> used in vocal phrases in the Tarab genre of the twentieth century. "Wahda" is Arabic for one, referring to the single <em>dum</em> per measure, which leaves a lot of room for the singer to ornament e gives them some control over speed.</p>
+                    <p>L'Iqa‘ Wahda è il principale iqa‘ usato nelle frasi vocali nel genere Tarab del XX secolo. "Wahda" è il significato di "uno" in arabo,e si riferisce al singolo <em>dum</em> nella misura, che lascia molto spazio al cantante per l'arricchimento e gli da un pò di libertà di modulazione della velocità.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>

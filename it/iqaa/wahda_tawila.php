@@ -47,7 +47,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/wahda_tawila.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Wahda Tawila ("tawila" is Arabic for long), also known as <strong>Wahda Sunbati</strong>, is a stretched out version of <a href="wahda.php">Iqa‘ Wahda</a> over two measures. It is very popular in the vocal e instrumental music of the mid-twentieth century.</p>
+                    <p>L' Iqa‘ Wahda Tawila ("tawila" significa lungo in arabo), anche conosciuto come Wahda Sunbati, è una versione allungata dell' <a href="wahda.php">Iqa‘ Wahda</a> di più di due misure. E' molto popolare nella musica sia strumentale che vocale della metà del XX secolo.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -61,7 +61,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Khatwit Habibi (1953)</b>
-                                    <span>Instrumental by Muhammad Abdel Wahab</span>
+                                    <span>Composizione strumentale di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>

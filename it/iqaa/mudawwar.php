@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Mudawwar Masri 12/4</h1>
-                        <h1>Iqa‘ Mudawwar Shami 10/4</h1>
+                        <h1>Iqa‘ Mudawwar Chami 10/4</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Iqa‘</a>
                     <div class="clearfix"></div>
@@ -39,8 +39,9 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/mudawwar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Mudawwar</a>
                     </div>
 
-                    <p>Iqa‘ Mudawwar is a popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> repertoire. The word "mudawwar" in Arabic means round/circular.</p>
-                    <p>Many forms of Iqa‘ Mudawwar are in use, among which Mudawwar Masri (Egyptian) in 12/4 e Mudawwar Shami (Damascene/pan-Syrian) in 10/4.
+                    <p>L' Iqa‘ Mudawwar è un iqa‘ popolare nel repertorio del <a href="../form/vocal_comp.php#muwashah">Muwashah</a>. La parola "mudawwar" in arabo significa rotondo/circolare.</p>
+                    
+                    <p>molte forme di Iqa‘ Mudawwar sono in uso, ad esempio <strong>Mudawwar Masri</strong> (egiziano) in 12/4 e Mudawwar Chami (da Damasco o dalla Siria) in 10/4.
                     </p>
 
                     <br>
@@ -77,7 +78,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Fika Kullu Ma Ara Hasan</b>
-                                    <span>Composed in <a href="../maqam/bayati.php">Maqam Bayati</a></span>
+                                    <span>Composto in <a href="../maqam/bayati.php">Maqam Bayati</a></span>
                                     <span>Abdel Halim Noueira Ensemble</span>
                                 </div>
                             </label>
@@ -87,7 +88,7 @@ include($ROOT . 'inc/head.php');
                     <!-- Need some kind of divider here -->
                     <br>
                     <div class="heading jins text-center">
-                        <h3>Iqa‘ Mudawwar Shami 10/4</h3>
+                        <h3>Iqa‘ Mudawwar Chami 10/4</h3>
                     </div>
                     <br>
 
@@ -101,7 +102,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Fika Kullu Ma Ara Hasan</b>
-                                    <span>Composed in <a href="../maqam/hijaz.php">Maqam Hijaz</a></span>
+                                    <span>Composto in <a href="../maqam/hijaz.php">Maqam Hijaz</a></span>
                                     <span>Omar al-Sarmini</span>
                                     <span>Al-Kindi Ensemble</span>
                                 </div>

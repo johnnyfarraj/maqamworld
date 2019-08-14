@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/sudasi.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Sudasi (whose name means based on the number "six") is a very popular <em>iqa‘</em> to accompany folk line dances from Lebanon e Palestine, like the Dabke. It can modulate to 3 back-to-back measures of <a href="malfuf.php">Iqa‘ Malfuf</a>.</p>
+                    <p>L' Iqa‘ Sudasi (il cui nome significa basato sul numero 6) è un iqa‘ molto popolare per accompagnare canzoni folk di danze del Libano e della Palestina, come il <em>Dabke</em>.  Può modulare a 3 battute consecutive di <a href="malfuf.php">Iqa‘ Malfuf</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dal‘ona</b>
                                     <span>Fairouz</span>
-                                    <span>(traditional Lebanese folk song)</span>
+                                    <span>(una canzone popolare libanese tradizionale)</span>
                                 </div>
                             </label>
                         </div>
@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Mahla Layali el-Hawa (1963)</b>
                                     <span>Fairouz</span>
-                                    <span>Music e lyrics by the Rahbani Brothers</span>
+                                    <span>Musica e parole di Fratelli Rahbani</span>
                                 </div>
                             </label>
                         </div>
@@ -83,8 +83,8 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Hajal Sannin (1965)</b>
                                     <span>Fairouz</span>
-                                    <span>Music e lyrics by the Rahbani Brothers</span>
-                                    <span>From the movie <strong>Bayya‘ el-Khawatim</strong></span>
+                                    <span>Musica e parole di Fratelli Rahbani</span>
+                                    <span>Da film <strong>Bayya‘ el-Khawatim</strong></span>
                                 </div>
                             </label>
                         </div>

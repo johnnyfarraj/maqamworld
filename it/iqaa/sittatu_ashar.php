@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/sittatu_ashar.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Sittatu ‘Ashar Masri ("sittatu ‘ashar" means sixteen, "masri" means Egyptian) is a rare <em>iqa‘</em> mostly used in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre. It spans 8 measures of 4/4, bringing its time signature to 32/4.</p>
+                    <p>L'Iqa‘ Sittatu ‘Ashar Masri ("sittatu ‘ashar" significa sedici, "masri" significa egiziano) è un iqa‘ raro usato principalmente nel genere vocale <a href="../form/vocal_comp.php#muwashah">Muwashah</a>. Dura 8 misure di 4/4, portando il suo tempo a un 32/4.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>

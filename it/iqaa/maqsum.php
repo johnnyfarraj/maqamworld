@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/maqsum.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Maqsum is by far the most widely used <em>iqa‘</em> in Arabic music. It modulates to other 4/4 <em>iqa‘at</em> like <a href="baladi.php">Baladi</a> e <a href="wahda.php">Wahda</a>.</p>
+                    <p>L'Iqa‘ Maqsum è di gran lunga l'iqa‘ più usato nella musica araba. Modula ad altri iqa‘at in 4/4 come il <a href="baladi.php">Baladi</a> e il <a href="wahda.php">Wahda</a>.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>

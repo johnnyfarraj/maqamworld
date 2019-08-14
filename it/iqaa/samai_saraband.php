@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/samai_saraband.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Sama‘i Saraband, si chiama anche Sama‘i Ta’ir ("ta’ir" means flying in Arabic), is a light e fast <em>iqa‘</em> that is popular <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre.</p>
+                    <p>L' Iqa‘ Sama‘i Saraband, anche chiamato <strong>Sama‘i Ta’ir</strong> ("ta’ir" significa "volare" in arabo), è un iqa‘ leggero e veloce, popolare nel genere vocale <a href="../form/vocal_comp.php#muwashah">Muwashah</a>.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>

@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/wahda_saghira.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Wahda Saghira is a simple 2/4 <em>iqa‘</em> used in both vocals e instrumental phrases. "Wahda" means one in Arabic, referring to the single <em>dum</em> per measure, while "saghira" means small. It is also known as Wahda Basita ("basita" is Arabic for simple).</p>
+                    <p>L' Iqa‘ Wahda Saghira è un iqa‘ semplice in 2/4 usato sia nelle parti vocali che in quelle strumentali. "Wahda" significa "uno" in arabo, e si riferisce al singolo <em>dum</em> per ogni misura, mentre "saghira" significa piccolo. E' anche conosciuto come <strong>Wahda Basita</strong> ("basita" significa semplice in arabo).</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>

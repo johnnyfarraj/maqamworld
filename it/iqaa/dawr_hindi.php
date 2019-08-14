@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Jalla Man Qad Sawwarak</b>
                                     <span>Sheikh Hamza Shakkur</span>
-                                    <span>Ensemble Al Kindi</span>
+                                    <span>Ensemble Al-Kindi</span>
                                 </div>
                             </label>
                         </div>

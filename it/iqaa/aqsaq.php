@@ -111,7 +111,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/aqsaq_f2.png" class="img-fluid">
                     </div>
 					<br>
-                    <p>Una forma diversa Aqsaq che sostituisce la pausa sul sesto battito con un altro <em>dum</em>, in modo da creare una sequenza di 2 <em>dum</em>-s consecutivi che richiamano  l'<a href="samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a>.
+                    <p>Una forma diversa Aqsaq che sostituisce la pausa sul sesto battito con un altro <em>dum</em>, in modo da creare una sequenza di 2 <em>dum</em> consecutivi che richiamano  l'<a href="samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a>.
 					</p>
 					<br>
 

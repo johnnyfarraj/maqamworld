@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/wahda_w_nuss.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Wahda wi Nuss (meaning "one e a half" in Arabic) is a syncopated e version of <a href="maqsum.php">Iqa‘ Maqsum</a> with a first <em>tak</em> delayed by half of an an eighth note. It is very popular in the Tarab genre of the mid-twentieth century.</p>
+                    <p>L'Iqa‘ Wahda w-Nuss (in arabo significa "uno e mezzo") è una versione sincopata dell'<a href="maqsum.php">Iqa‘ Maqsum</a> con il primo tak ritardato di 1/16. E' molto popolare nel genere <em>Tarab</em> della metà del XX secolo.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>

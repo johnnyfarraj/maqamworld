@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/nawakht.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Nawakht is a very popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> repertoire, e tends to be played at mellow speed.</p>
+                    <p>L' Iqa‘ Nawakht è un iqa‘ molto popolare nel repertorio del <a href="../form/vocal_comp.php#muwashah">Muwashah</a>, e tende a essere suonato ad una velocità dolce.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
