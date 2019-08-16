@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Ya Ghusna Naqa</b>
+                                    <b>Mouachah Ya Ghousna Naqa</b>
                                     <span>(Maqam Houzam)</span>
                                     <span>Ensemble de la Musique Arabe (Égypte)</span>
                                 </div>

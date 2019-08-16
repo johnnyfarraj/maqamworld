@@ -116,7 +116,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Talaffata al-Dhabiyu</b>
+                                    <b>Mouachah Talaffata al-Dhabiyou</b>
                                     <span>Sabah Fakhri (Syrie)</span>
                                     <span><img src="/img/cd.png"> Nagham al-Ams Vol. 2 (Bayati Chouri)</span>
                                 </div>
@@ -141,7 +141,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qadd Ah Ya Hilu</b>
+                                    <b>Qadd Ah Ya Hilou</b>
                                     <span>Nay Barghouti</span>
                                     <span>(chanson traditionelle)</span>
                                 </div>
