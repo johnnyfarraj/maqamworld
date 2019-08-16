@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="425,56,12" href="#" alt="La♭" class="playNote" data-frequency="422" data-parent="#notation1"><!-- fine tuned up from 411-->
 					</map>
 
-                    <p>Il Jins Sikah è un <em>jins</em> di 3 note. E' scritto qui considerando il Mi<i class='icon-halfflat'></i> come sua tonica e il Sol come suo <em>ghammaz</em>. Il Jins Sikah è il primo <em>jins</em> del <a href="../maqam/sikah.php">Maqam Sikah</a>, del <a href="../maqam/huzam.php">Maqam Huzam</a>, del <a href="../maqam/iraq.php">Maqam ‘Iraq</a>, e del <a href="../maqam/bastanikar.php">Maqam Bastanikar</a>.
+                    <p>Il Jins Sikah è un <em>jins</em> di 3 note. È scritto qui considerando il Mi<i class='icon-halfflat'></i> come sua tonica e il Sol come suo <em>ghammaz</em>. Il Jins Sikah è il primo <em>jins</em> del <a href="../maqam/sikah.php">Maqam Sikah</a>, del <a href="../maqam/huzam.php">Maqam Huzam</a>, del <a href="../maqam/iraq.php">Maqam ‘Iraq</a>, e del <a href="../maqam/bastanikar.php">Maqam Bastanikar</a>.
                     </p>
 
                     <div class="player-area">

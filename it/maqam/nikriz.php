@@ -155,7 +155,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr Yalli Qawamak Ya‘gibni</b>
                                     <span>Karem Mahmud (Egitto)</span>
-                                    <span>Musica di Sayyed Darwich</span>
+                                    <span>Musica di Sayyed Darwish</span>
                                 </div>
                             </label>
                         </div>

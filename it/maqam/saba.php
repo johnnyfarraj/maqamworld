@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Saba</h1>
-                        <h3>(n'apartient pas à une famille de maqams)</h3>
+                        <h3>(non appartenente ad alcuna famiglia)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Maqam</a>
                     <div class="clearfix"></div>
@@ -67,7 +67,7 @@ include($ROOT . 'inc/head.php');
 					</map>
                     <p>Le Maqam Saba est un maqam très commun et très populaire dans le répertoire de la musique arabe. Sa gamme commence avec le <a href="../jins/saba.php">Jins Saba</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Jins Hijaz</a> sur le 3<sup>ième</sup> degré, et finalement du <a href="../jins/ajam.php">Jins ‘Ajam</a> ou du <a href="../jins/nikriz.php">Jins Nikriz</a> sur le 6<sup>ième</sup> degré.</p>
 
-                    <p>Maqam Saba ne fait pas partie d'une famille de maqams.</p>
+                    <p>Maqam Saba non appartenente ad alcuna famiglia</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

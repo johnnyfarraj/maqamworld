@@ -37,7 +37,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/kirdan.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Kirdane</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/kirdan.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Kirdan</a>
                     </div>
                     <div class="text-center mt-2 mb-3">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/sazkar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Sazkar</a>
@@ -67,9 +67,10 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="400,173,528,202" href="../jins/sazkar.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Maqam Kirdan est une version du <a href="rast.php">Maqam Rast</a> dans laquelle le <em>sayr</em> commence à l'octave et redescend vers la tonique. Sa gamme commence avec le <a href="../jins/rast.php">Jins Rast</a> sur la tonique, suivi du <a href="../jins/upper_rast.php">Jins Rast Alto</a> sur le 5<sup>ième</sup> degré (avec sa tonique sur le 8<sup>ième</sup> degré).
+                    <p>Il <strong>Maqam Kirdan</strong> è una versione del <a href="rast.php">Maqam Rast</a> il cui sayr inizia sull'ottava e alla fine discende alla tonica. La sua scala inizia in basso con il <a href="../jins/rast.php">Jins Rast</a> (root) sulla tonica, seguito dal <a href="../jins/upper_rast.php">Jins Rast Alto</a> sul quinto grado (con la tonica sopra sull'ottavo grado).
                     </p>
-                    <p>Le <strong>Maqam Sazkar</strong> est presque identique au Maqam Kirdan à part pour le fait de mettre l'emphase sur le 2<sup>ième</sup> degré dans certains passages mélodiques, ce qui fait en sorte d'avoir le <a href="../jins/sazkar.php">Jins Sazkar</a> sur la tonique.
+                    
+                    <p>Il <strong>Maqam Sazkar</strong> è quasi identico al Maqam Kirdan, ad eccezione dell'importanza del secondo grado alzato che si presente in alcuni passaggi melodici, che risulta nel <a href="../jins/sazkar.php">Jins Sazkar</a> sulla tonica.
                     </p>
 
                     <p>Scopri altri maqamat della <a href="f_rast.php">Famiglia Maqam Rast</a>.</p>
@@ -85,10 +86,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Sihtou Wajdan</b>
-                                    <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Lebano)</span>
+                                    <b>Muwashah Sihtu Wajdan</b>
+                                    <span>Coro della facoltà di musica - Université Saint-Esprit de Kaslik (Lebano)</span>
                                     <span>Direttore d'orchestra: Aïda Chalhoub Ziadé</span>
-                                    <span>Musica di Sayyed Darwich</span>
+                                    <span>Musica di Sayyed Darwish</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah et Chansons</span>
                                 </div>
                             </label>
@@ -102,7 +103,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Ya Shadi al-Alhan</b>
                                     <span>Sabah Fakhri (Siria)</span>
-                                    <span>Musica di Sayyed Darwich</span>
+                                    <span>Musica di Sayyed Darwish</span>
                                 </div>
                             </label>
                         </div>
@@ -115,7 +116,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Hayrana Leh (1930)</b>
                                     <span>Leila Murad (Egitto)</span>
-                                    <span>Musica di Dawud Housni</span>
+                                    <span>Musica di Dawud Husni</span>
                                 </div>
                             </label>
                         </div>

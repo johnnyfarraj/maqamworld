@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="599,61,12" href="#" alt="La♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- variable: Hijaz 2nd -->
 					</map>
 
-                    <p>Il Jins Athar Kurd è un <em>jins</em> di 5 note.E' scritto qui considerando come tonica il C e come <em>ghammaz</em> il G. Il Jins Athar Kurd è il primo <em>jins</em> del <a href="../maqam/athar_kurd.php">Maqam Athar Kurd</a>.
+                    <p>Il Jins Athar Kurd è un <em>jins</em> di 5 note.È scritto qui considerando come tonica il C e come <em>ghammaz</em> il G. Il Jins Athar Kurd è il primo <em>jins</em> del <a href="../maqam/athar_kurd.php">Maqam Athar Kurd</a>.
                     </p>
 
                     <div class="player-area">

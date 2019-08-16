@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="636,46,12" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					</map>
 
-                    <p>Il jins hijaz è un <em>jins</em> di 4 note. E' scritto qui considerando il Re come sua tonica e il Sol come suo <em>ghammaz</em>. L'intervallo tra il secondo e il terzo grado è solitamente suonato più "piccolo" di come è scritto alzando di poco il secondo grado e abbassando di poco il terzo grado. Il Jins Hijaz è il primo jins del <a href="../maqam/hijaz.php">Maqam Hijaz</a>, del <a href="../maqam/hijazkar.php">Maqam Hijazkar</a> e del <a href="../maqam/zanjaran.php">Maqam Zanjaran</a>.
+                    <p>Il jins hijaz è un <em>jins</em> di 4 note. È scritto qui considerando il Re come sua tonica e il Sol come suo <em>ghammaz</em>. L'intervallo tra il secondo e il terzo grado è solitamente suonato più "piccolo" di come è scritto alzando di poco il secondo grado e abbassando di poco il terzo grado. Il Jins Hijaz è il primo jins del <a href="../maqam/hijaz.php">Maqam Hijaz</a>, del <a href="../maqam/hijazkar.php">Maqam Hijazkar</a> e del <a href="../maqam/zanjaran.php">Maqam Zanjaran</a>.
                     </p>
 
                     <div class="player-area">

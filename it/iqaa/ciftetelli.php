@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/ciftetelli.png" class="img-fluid">
                     </div>
 
-                    <p>L'Iqa‘ Ciftetelli (pronunciato "sciaftatalli" in arabo) è un <em>usul</em> (iqa’ Turco) che è diventato popolare nella musica araba. E' raramente usato per le melodie composte; invece, la sua funzione primaria, è quella di accompagnare le <a href="../form/improv.php">improvisations</a> (sia vocali che strumentali).</p>
+                    <p>L'Iqa‘ Ciftetelli (pronunciato "sciaftatalli" in arabo) è un <em>usul</em> (iqa’ Turco) che è diventato popolare nella musica araba. È raramente usato per le melodie composte; invece, la sua funzione primaria, è quella di accompagnare le <a href="../form/improv.php">improvisations</a> (sia vocali che strumentali).</p>
 
                     <p>Il Ciftetelli è solitamente un ritmo lento e allungato di due battute da 4/4 (vedi l'annotazione), e può condividere lo stesso tempo e ritmo con il <a href="masmudi_kabir.php">Masmudi Kabir</a>. In alternativa, può essere eseguito più veloce e leggero, in questo caso può essere segnato come 4/4 e diventare simile al <a href="wahda_w_nuss.php">Wahda wi Nuss</a> (con o senza degli arricchimenti).</p>
 

@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
 
 					</map>
                     
-                    <p>Il Jins Saba Zamzam (come il <a href="saba.php">Jins Saba</a>) ha una dimensione ambigua. E' scritto qui considerando il Re come sua tonica e con due possibili <em>ghammaz</em>: il terzo grado (in questo caso Fa) o il sesto grado (in questo caso il Si&#x266d;). Il Jins Saba Zamzam è il primo jins del <a href="../maqam/saba_zamzam.php">Maqam Saba Zamzam</a>.</p>
+                    <p>Il Jins Saba Zamzam (come il <a href="saba.php">Jins Saba</a>) ha una dimensione ambigua. È scritto qui considerando il Re come sua tonica e con due possibili <em>ghammaz</em>: il terzo grado (in questo caso Fa) o il sesto grado (in questo caso il Si&#x266d;). Il Jins Saba Zamzam è il primo jins del <a href="../maqam/saba_zamzam.php">Maqam Saba Zamzam</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

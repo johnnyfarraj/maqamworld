@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Ya Shadi al-Alhan</b>
                                     <span>Sabah Fakhri (Siria)</span>
-                                    <span>Musica di Sayyed Darwich</span>
+                                    <span>Musica di Sayyed Darwish</span>
                                 </div>
                             </label>
                         </div>
@@ -108,9 +108,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Ya ‘Oudhayb al-Marshaf</b>
-                                    <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Lebano)</span>
+                                    <span>Coro della facoltà di musica - Université Saint-Esprit de Kaslik (Lebano)</span>
                                     <span>Direttore d'orchestra: Aïda Chalhoub Ziadé</span>
-                                    <span>Musica di Sayyed Darwich</span>
+                                    <span>Musica di Sayyed Darwish</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah et Chansons</span>
                                 </div>
                             </label>

@@ -55,7 +55,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="455,40,12" href="#" alt="Re" class="playNote" data-frequency="586.66" data-parent="#notation1">
 					</map>
                     
-                    <p>Il Jins ‘Ajam Alto è una versione a 4 note del <a href="ajam.php">Jins ‘Ajam</a>, con la situazione inusuale  (condivisa con il <a href="upper_rast.php">Jins Rast Alto</a>) della tonica come ultimo grado della scala invece che come prima. E' scritto qui considerando il Sol come suo <em>ghammaz</em> e il Do come sua tonica. Il Jins ‘Ajam Alto è il secondo jins del <a href="../maqam/ajam.php">Maqam ‘Ajam</a> e si presenta anche sul terzo grado del <a href="../maqam/bayati.php">Maqam Bayati</a>.
+                    <p>Il Jins ‘Ajam Alto è una versione a 4 note del <a href="ajam.php">Jins ‘Ajam</a>, con la situazione inusuale  (condivisa con il <a href="upper_rast.php">Jins Rast Alto</a>) della tonica come ultimo grado della scala invece che come prima. È scritto qui considerando il Sol come suo <em>ghammaz</em> e il Do come sua tonica. Il Jins ‘Ajam Alto è il secondo jins del <a href="../maqam/ajam.php">Maqam ‘Ajam</a> e si presenta anche sul terzo grado del <a href="../maqam/bayati.php">Maqam Bayati</a>.
                     </p>
                     
                     <div class="player-area">

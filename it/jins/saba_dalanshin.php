@@ -59,7 +59,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>Il Jins Saba Dalanshin è un caso speciale del <a href="saba.php">Jins Saba</a>, non ha alcun <em>ghammaz</em>, e per questo non ha una dimensione definita. La sua melodia è incentrata sulla tonica, in questo caso il Do. Gli intervalli sopra la tonica sono quasi identici al <a href="hijaz.php">Jins Hijaz</a>. Le nota che è due gradi sotto la tonica (in questo caos il La) è la tonica secondaria.</p>
 
-                    <p>Il Jins Saba Dalanshin si presenta sull'ottava del <a href="../maqam/rast.php">Maqam Rast</a>, che in questo caso è conosciuto come <a href="../maqam/dalanshin.php">Maqam Dalancin</a>. E' presente anche sul quinto grado del <a href="../maqam/shawq_afza.php">Maqam Shawq Afza</a>.</p>
+                    <p>Il Jins Saba Dalanshin si presenta sull'ottava del <a href="../maqam/rast.php">Maqam Rast</a>, che in questo caso è conosciuto come <a href="../maqam/dalanshin.php">Maqam Dalancin</a>. È presente anche sul quinto grado del <a href="../maqam/shawq_afza.php">Maqam Shawq Afza</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

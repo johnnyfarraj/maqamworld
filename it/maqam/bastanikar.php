@@ -124,8 +124,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Anshidi Ya Saba</b>
-                                    <span>Orchestre Palestinien National Arabe</span>
-                                    <span>Director Ramzi Abu Radwan (Palestine)</span>
+                                    <span>Orchestra Palestinien National Arabe</span>
+                                    <span>Director Ramzi Abu Radwan (Palestina)</span>
                                     <span>Musica di Yehiya al-Saoudi</span>‘
                                 </div>
                             </label>

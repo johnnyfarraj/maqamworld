@@ -58,7 +58,7 @@ include($ROOT . 'inc/head.php');
 				      <area shape="circle" coords="611,60,12" href="#" alt="La♭" class="playNote" data-frequency="411" data-parent="#notation1">
 					</map>
 
-                    <p>Il jins Nahawand è un <em>jins</em> di 5 note. E' scritto qui considerando il Do come sua tonica e il Sol come suo <em>ghammaz</em>. Il Jins Nahawand è il primo <em>jins</em> del <a href="../maqam/nahawand.php">Maqam Nahawand</a>.
+                    <p>Il jins Nahawand è un <em>jins</em> di 5 note. È scritto qui considerando il Do come sua tonica e il Sol come suo <em>ghammaz</em>. Il Jins Nahawand è il primo <em>jins</em> del <a href="../maqam/nahawand.php">Maqam Nahawand</a>.
                     </p>
 
                     <div class="player-area">

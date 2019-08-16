@@ -55,7 +55,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="518,37,12" href="#" alt="Re" class="playNote" data-frequency="586.66" data-parent="#notation1">
 					</map>
 
-                    <p>Il Jins ‘Ajam Murassa‘ è un <em>jins</em> di 5 note. E' scritto qui considerando come tonica il Fa e come <em>ghammaz</em> il Do. Il Jins ‘Ajam Murassa‘ non fa parte di alcun <a href="../maqam.php">maqam</a> e solitamente viene usato come modulazione dal <a href="ajam.php">Jins ‘Ajam</a>.</p>
+                    <p>Il Jins ‘Ajam Murassa‘ è un <em>jins</em> di 5 note. È scritto qui considerando come tonica il Fa e come <em>ghammaz</em> il Do. Il Jins ‘Ajam Murassa‘ non fa parte di alcun <a href="../maqam.php">maqam</a> e solitamente viene usato come modulazione dal <a href="ajam.php">Jins ‘Ajam</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

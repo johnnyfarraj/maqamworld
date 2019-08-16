@@ -64,7 +64,7 @@ include($ROOT . 'inc/head.php');
                     <p>Il Maqam Bayati Shuri è una variazione del <a href="bayati.php">Maqam Bayati</a> con il quinto grado abbassato. Inizia con il <a href="../jins/bayati.php">Jins Bayati</a> (radice) sulla tonica seguito dal <a href="../jins/hijaz.php">Jins Hijaz</a> sul quarto grado.
                     </p>
                     
-                    <p>E' un maqam molto popolare, specialmente nelle <a href="../form/vocal_comp.php">composizioni vocali</a> Muwashahat e Adwar.
+                    <p>È un maqam molto popolare, specialmente nelle <a href="../form/vocal_comp.php">composizioni vocali</a> Muwashahat e Adwar.
                     </p>
                     
                     <p>Scopri altri maqamat della <a href="f_bayati.php">Famiglia Maqam Bayati</a>.</p>
@@ -106,7 +106,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Hibbi Da‘ani Lil-Wisal</b>
                                     <span>Sabah Fakhri (Siria)</span>
-                                    <span>Musica di Sayyed Darwich</span>
+                                    <span>Musica di Sayyed Darwish</span>
                                     <span><img src="/img/cd.png"> Nagham al-Ams Vol. 2 (Bayati Shuri)</span>
                                 </div>
                             </label>
@@ -132,7 +132,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr Dayya‘ti Mustaqbal Hayati</b>
-                                    <span>Voce e musica di Sayyed Darwich</span>
+                                    <span>Voce e musica di Sayyed Darwish</span>
                                 </div>
                             </label>
                         </div>

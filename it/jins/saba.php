@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="609,45,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					</map>
                     
-                    <p>Il Jins Saba ha una dimensione incerta. E' scritto qui considerando il Re come sua tonica e con due possibili <em>ghammaz</em>: il terzo grado (il Fa) o il 6 grado (il Si&#x266d;). Il Jins Saba è il primo <em>jins</em> del <a href="../maqam/saba.php">Maqam Saba</a>.
+                    <p>Il Jins Saba ha una dimensione incerta. È scritto qui considerando il Re come sua tonica e con due possibili <em>ghammaz</em>: il terzo grado (il Fa) o il 6 grado (il Si&#x266d;). Il Jins Saba è il primo <em>jins</em> del <a href="../maqam/saba.php">Maqam Saba</a>.
                     </p>
 
                     <div class="player-area">

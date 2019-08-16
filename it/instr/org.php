@@ -54,7 +54,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Magdi el-Husseini</b>
-                                <span>La chanson <strong>Qari'at al-Fingan</strong> de Abdel Halim Hafez (1976, musique de Muhammad al-Mugi) avec les égyptiens Magdi el-Husseini et Hani Mehanna à l'orgue électrique (les deux membres de l'Orchestre Diamant).</span>
+                                <span>La chanson <strong>Qari'at al-Fingan</strong> de Abdel Halim Hafez (1976, musique de Muhammad al-Mugi) avec les égyptiens Magdi el-Husseini et Hani Mehanna à l'orgue électrique (les deux membres de l'Orchestra Diamant).</span>
                                 </div>
                             </label>
                         </div>

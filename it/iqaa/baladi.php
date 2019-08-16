@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/baladi.png" class="img-fluid">
                     </div>
 
-                    <p>L'Iqa‘ Baladi è un iqa‘ molto popolare nella repertorio vocale del vicino oriente arabo. E' anche chiamato <strong>Masmudi Saghir</strong>, "saghir" che significa "piccolo" in arabo, per distinguerlo dal <a href="masmudi_kabir.php">Masmudi Kabir</a>, che è lungo due misure di 4/4 invece che una. Il Baladi modula frequentemente al <a href="maqsum.php">Maqsum</a> per tornare indietro, come anche al <a href="malfuf.php">Malfuf</a> (usando 2 misure di Malfuf e 1 misura di Baladi).
+                    <p>L'Iqa‘ Baladi è un iqa‘ molto popolare nella repertorio vocale del vicino oriente arabo. È anche chiamato <strong>Masmudi Saghir</strong>, "saghir" che significa "piccolo" in arabo, per distinguerlo dal <a href="masmudi_kabir.php">Masmudi Kabir</a>, che è lungo due misure di 4/4 invece che una. Il Baladi modula frequentemente al <a href="maqsum.php">Maqsum</a> per tornare indietro, come anche al <a href="malfuf.php">Malfuf</a> (usando 2 misure di Malfuf e 1 misura di Baladi).
                     </p>
 
                     <div class="player-area">

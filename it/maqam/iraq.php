@@ -91,7 +91,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Jalla Man Ansha Jamalak</b>
                                     <span>Ensemble Ornina (Siria)</span>
-                                    <span>Chef d'Orchestre Dr. Muhammad Qadri Dalal</span>
+                                    <span>Chef d'Orchestra Dr. Muhammad Qadri Dalal</span>
                                 </div>
                             </label>
                         </div>
@@ -103,7 +103,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i ‘Iraq</b>
-                                    <span>Orchestre de la Radio Tunisienne</span>
+                                    <span>Orchestra de la Radio Tunisienne</span>
                                     <span>Musica di Youssof Basha</span>
                                 </div>
                             </label>

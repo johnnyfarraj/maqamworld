@@ -82,9 +82,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Tif Ya Durri</b>
-                                    <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Lebano)</span>
+                                    <span>Coro della facoltà di musica - Université Saint-Esprit de Kaslik (Lebano)</span>
                                     <span>Direttore d'orchestra: Aïda Chalhoub Ziadé</span>
-                                    <span>Musica di Sayyed Darwich/Omar al-Batch</span>
+                                    <span>Musica di Sayyed Darwish/Omar al-Batch</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah et Chansons</span>
                                 </div>
                             </label>
@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Muwashah Hibbi Zurni Ma Tayassar</b>
                                     <span>Coro della facoltà di musica - Université Saint-Esprit de Kaslik (Lebano)</span>
                                     <span>Direttore d'orchestra: Aïda Chalhoub Ziadé</span>
-                                    <span>Musica di Darwich al-Hariri</span>
+                                    <span>Musica di Darwish al-Hariri</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah et Chansons</span>
                                 </div>
                             </label>

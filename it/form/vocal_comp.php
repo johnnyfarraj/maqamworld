@@ -182,7 +182,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Dawr Dayya‘ti Moustaqbal Hayati (1914)</b>
-                                    <span>Sabah Fakhri interprète le <strong>Dawr Dayya'ti Moustaqbal Hayati</strong> en <a href="../maqam/bayati_shuri.php">Maqam Bayati Shuri</a> (1914, musique de Sayyed Darwich).</span>
+                                    <span>Sabah Fakhri interprète le <strong>Dawr Dayya'ti Moustaqbal Hayati</strong> en <a href="../maqam/bayati_shuri.php">Maqam Bayati Shuri</a> (1914, musique de Sayyed Darwish).</span>
                                 </div>
                             </label>
                         </div>
@@ -207,7 +207,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Hayrana Leh (1930)</b>
-                                    <span>La chanteuse égypyienne Leila Murad interprète la tqatouqa <strong>Hayrana Leh</strong> en <a href="../maqam/rast.php">Maqam Rast</a> (1930), composée par Dawud Housni.</span>
+                                    <span>La chanteuse égypyienne Leila Murad interprète la tqatouqa <strong>Hayrana Leh</strong> en <a href="../maqam/rast.php">Maqam Rast</a> (1930), composée par Dawud Husni.</span>
                                 </div>
                             </label>
                         </div>

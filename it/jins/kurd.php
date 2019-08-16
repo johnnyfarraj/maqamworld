@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
 
 					</map>
                     
-                    <p>Il jins Kurd è un <em>jins</em> di 4 note. E' scritto qui considerando il Re come sua tonica e il Sol come suo <em>ghammaz</em>. Il jins Kurd è il primo <em>jins</em> del <a href="../maqam/kurd.php">Maqam Kurd</a>.
+                    <p>Il jins Kurd è un <em>jins</em> di 4 note. È scritto qui considerando il Re come sua tonica e il Sol come suo <em>ghammaz</em>. Il jins Kurd è il primo <em>jins</em> del <a href="../maqam/kurd.php">Maqam Kurd</a>.
                     </p>
 
                     <div class="player-area">

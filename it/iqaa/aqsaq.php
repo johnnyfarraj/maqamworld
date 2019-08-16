@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/aqsaq_f1.png" class="img-fluid">
                     </div>
 
-                    <p>L'Iqa‘ Aqsaq è molto popolare nel genere vocale <a href="../form/vocal_comp.php#muwashah">Muwashah</a>. E' un battito più breve dell'<a href="samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a> ma a volte può essere suonato subito dopo quest'ultimo iqa‘ senza interruzioni, durante un <a href="../form/vocal_comp.php#wasla">Wasla</a>.
+                    <p>L'Iqa‘ Aqsaq è molto popolare nel genere vocale <a href="../form/vocal_comp.php#muwashah">Muwashah</a>. È un battito più breve dell'<a href="samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a> ma a volte può essere suonato subito dopo quest'ultimo iqa‘ senza interruzioni, durante un <a href="../form/vocal_comp.php#wasla">Wasla</a>.
 					</p>
 
                     <div class="player-area">

@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="450,65,12" href="#" alt="La♭" class="playNote" data-frequency="422" data-parent="#notation1">
 
 					</map>
-                    <p>Il jins hijaz murassa‘ è un <em>jins</em> di 4 note. E' scritto qui considerando il Re come sua tonica e il Sol come suo <em>ghammaz</em>. Il Jins Hijaz Murassa‘ non fa parte di alcun <a href="../maqam.php">maqam</a> e solitamente viene usato come modulazione dal <a href="hijaz.php">Jins Hijaz</a>, soprattutto nel <a href="../maqam/hijazkar.php">Maqam Hijazkar</a>.
+                    <p>Il jins hijaz murassa‘ è un <em>jins</em> di 4 note. È scritto qui considerando il Re come sua tonica e il Sol come suo <em>ghammaz</em>. Il Jins Hijaz Murassa‘ non fa parte di alcun <a href="../maqam.php">maqam</a> e solitamente viene usato come modulazione dal <a href="hijaz.php">Jins Hijaz</a>, soprattutto nel <a href="../maqam/hijazkar.php">Maqam Hijazkar</a>.
                     </p>
 
                     <div class="player-area">

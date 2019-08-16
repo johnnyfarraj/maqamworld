@@ -55,7 +55,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="473,51,13" href="#" alt="Do↓" class="playNote" data-frequency="515" data-parent="#notation1"><!-- variable -->
 					</map>
 
-                    <p>Il Jins Sikah Baladi non ha un <em>ghammaz</em>, e per questo non ha una dimensione definita. La sua melodia è incentrata sulla sua tonica, indicata qui come Sol. E' molto difficile scrivere correttamente il Jins Sikah Baladi; è meglio imparare i suoi intervalli e la sua intonazione ad orecchio. Il Jins Sikah Baladi si presente sull'ottava del <a href="../maqam/sikah_baladi.php">Maqam Sikah Baladi</a>.
+                    <p>Il Jins Sikah Baladi non ha un <em>ghammaz</em>, e per questo non ha una dimensione definita. La sua melodia è incentrata sulla sua tonica, indicata qui come Sol. È molto difficile scrivere correttamente il Jins Sikah Baladi; è meglio imparare i suoi intervalli e la sua intonazione ad orecchio. Il Jins Sikah Baladi si presente sull'ottava del <a href="../maqam/sikah_baladi.php">Maqam Sikah Baladi</a>.
                     </p>
                     
                     <div class="player-area">

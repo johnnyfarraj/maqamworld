@@ -113,7 +113,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr Yama-nta Wahishni</b>
-                                    <span>Ensemble Abdel Halim Noueirah (Egitto)</span>
+                                    <span>Ensemble Abdel Halim Nuera (Egitto)</span>
                                     <span>Musica di Muhammad Uthman</span>
                                 </div>
                             </label>
@@ -127,7 +127,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Nas Ana Mutti Fi Hobbi</b>
                                     <span>Sabah Fakhri (Siria)</span>
-                                    <span>Musica di Sayyed Darwich</span>
+                                    <span>Musica di Sayyed Darwish</span>
                                 </div>
                             </label>
                         </div>
@@ -166,7 +166,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Maria</b>
                                     <span>Sabah Fakhri (Siria)</span>
-                                    <span>Musica di Sayyed Darwich</span>
+                                    <span>Musica di Sayyed Darwish</span>
                                 </div>
                             </label>
                         </div>
