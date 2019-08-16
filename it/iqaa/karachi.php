@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Karachi";
-$page_description = "Iqa‘ Karachi";
+$page_title = "Iqa‘ Karacci";
+$page_description = "Iqa‘ Karacci";
 $page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, karachi, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
@@ -29,20 +29,20 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Karachi 2/4</h1>
+                        <h1>Iqa‘ Karacci 2/4</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Iqa‘</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/karachi.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Karachi</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/karachi.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Karacci</a>
                     </div>
 
                     <div class="notation">
                         <img src="/note/iqaa/karachi.png" class="img-fluid">
                     </div>
 
-                    <p>L'Iqa‘ Karachi appartiene alla famiglia dei 2/4 e ha una senso di pigrizia e può essere suonato in tempi lenti. Anche se modula spesso a e dal <a href="malfuf.php">Malfuf</a>, il Karachi non condivide il senso di rapitidà e urgenza.
+                    <p>L'Iqa‘ Karacci appartiene alla famiglia dei 2/4 e ha una senso di pigrizia e può essere suonato in tempi lenti. Anche se modula spesso a e dal <a href="malfuf.php">Malfuf</a>, il Karacci non condivide il senso di rapitidà e urgenza.
 					</p>
 
                     <div class="player-area">

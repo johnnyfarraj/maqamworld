@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Mudawwar Masri 12/4</h1>
-                        <h1>Iqa‘ Mudawwar Chami 10/4</h1>
+                        <h1>Iqa‘ Mudawwar Shami 10/4</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Iqa‘</a>
                     <div class="clearfix"></div>
@@ -41,7 +41,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>L' Iqa‘ Mudawwar è un iqa‘ popolare nel repertorio del <a href="../form/vocal_comp.php#muwashah">Muwashah</a>. La parola "mudawwar" in arabo significa rotondo/circolare.</p>
                     
-                    <p>molte forme di Iqa‘ Mudawwar sono in uso, ad esempio <strong>Mudawwar Masri</strong> (egiziano) in 12/4 e Mudawwar Chami (da Damasco o dalla Siria) in 10/4.
+                    <p>molte forme di Iqa‘ Mudawwar sono in uso, ad esempio <strong>Mudawwar Masri</strong> (egiziano) in 12/4 e Mudawwar Shami (da Damasco o dalla Siria) in 10/4.
                     </p>
 
                     <br>
@@ -88,7 +88,7 @@ include($ROOT . 'inc/head.php');
                     <!-- Need some kind of divider here -->
                     <br>
                     <div class="heading jins text-center">
-                        <h3>Iqa‘ Mudawwar Chami 10/4</h3>
+                        <h3>Iqa‘ Mudawwar Shami 10/4</h3>
                     </div>
                     <br>
 

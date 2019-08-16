@@ -75,7 +75,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Bayna Qasiyun wa Rabwa</b>
                                     <span>Orchestre National Syrien</span>
-                                    <span>Musica di Omar al-Batch</span>
+                                    <span>Musica di Omar al-Batsh</span>
                                 </div>
                             </label>
                         </div>

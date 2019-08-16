@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Hibbi Zurni Ma Tayassar</b>
                                     <span>Karem Mahmud (Egitto)</span>
-                                    <span>Musica di Darwich al-Hariri</span>
+                                    <span>Musica di Darwish al-Hariri</span>
                                 </div>
                             </label>
                         </div>

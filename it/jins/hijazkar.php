@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Hibbi Zurni My Tayassar</b>
                                     <span>Karem Mahmud (Egitto)</span>
-                                    <span>Musica di Darwich al-Hariri</span>
+                                    <span>Musica di Darwish al-Hariri</span>
                                 </div>
                             </label>
                         </div>
@@ -136,7 +136,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr Ya Nas Ana Mutti Fi Hubbi</b>
                                     <span>Ghada Chbeir (Lebano)</span>
-                                    <span>Musica di Sayyed Darwich</span>
+                                    <span>Musica di Sayyed Darwish</span>
                                 </div>
                             </label>
                         </div>

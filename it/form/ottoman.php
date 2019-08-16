@@ -44,7 +44,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <p>
-                        Trois formes instrumentales composées ont été empruntées à la musique ottomane qui font encore partie de la musique arabe d'aujourd'hui: le Sama‘i, la Longa et le Bachraf. De ces trois formes, le Sama‘i est celle qui a le mieux survécu et les musiciens arabes continuent de nos jours à composer dans cette forme.
+                        Trois formes instrumentales composées ont été empruntées à la musique ottomane qui font encore partie de la musique arabe d'aujourd'hui: le Sama‘i, la Longa et le Bashraf. De ces trois formes, le Sama‘i est celle qui a le mieux survécu et les musiciens arabes continuent de nos jours à composer dans cette forme.
                     </p>
                     <p>
                         Ces trois formes sont basées sur un refrain répété appelé <em>taslim</em> et un nombre de couplets différents appelés <em>khana</em>. Les trois formes sont aussi ancrées dans un <a href="../maqam.php">maqam</a> et suivent le <em>sayr</em> du maqam ainsi que ses modulations les plus populaires. Pour cette raison, le maqam -et le compositeur - font partie du nom de la composition.
@@ -204,17 +204,17 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div id="Bachraf" class="heading jins text-center full-width">
+                    <div id="bashraf" class="heading jins text-center full-width">
                         <h3>Il Bashraf</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/Bachraf.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Bachraf</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/Bashraf.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Bashraf</a>
                     </div>
                     <p> 
                         Il Bashraf est la forme ottomane la moins utilisée et n'est généralement joué que dans le contexte des cours de musique et des exercices instrumentaux. Il Bashraf consiste en quatre <em>khana</em>-s, chacun suivi par le même <em>taslim</em>, et est rarement composé par des musiciens arabes.
                     </p>
                     <p>
-                        Contrairement au Samai, le Bachraf est composé dans le même <a href="../iqaa.php">iqa‘</a> pour toute la composition, dans la plupart des cas un Iqa' au rythme pair tels que le <a href="../iqaa/masmudi_kabir.php">Masmudi Kabir (8/4)</a> (8/4), le <a href="../iqaa/mukhammas.php">Mukhammas (16/4)</a>, le Chanbar (24/4), le Dawr al-Kabir (28/4) ou des cycles rythmiques ottomans plus longs.
+                        Contrairement au Samai, le Bashraf est composé dans le même <a href="../iqaa.php">iqa‘</a> pour toute la composition, dans la plupart des cas un Iqa' au rythme pair tels que le <a href="../iqaa/masmudi_kabir.php">Masmudi Kabir (8/4)</a> (8/4), le <a href="../iqaa/mukhammas.php">Mukhammas (16/4)</a>, le Chanbar (24/4), le Dawr al-Kabir (28/4) ou des cycles rythmiques ottomans plus longs.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=NmNMjWyhiyE">
@@ -226,8 +226,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Bachraf Farahfaza</b>
-                                    <span>Bachraf en <a href="../maqam/nahawand.php">Maqam Farahfaza</a> de Ismail Hakki Bey (Ottoman), enregistré par l'Ensemble Simon Shaheen.</span>
+                                    <b>Bashraf Farahfaza</b>
+                                    <span>Bashraf en <a href="../maqam/nahawand.php">Maqam Farahfaza</a> de Ismail Hakki Bey (Ottoman), enregistré par l'Ensemble Simon Shaheen.</span>
                                 </div>
                             </label>
                         </div>
@@ -242,14 +242,14 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Bachraf Kara Batak Sikah (1929)</b>
-                                    <span>Ancient Bachraf Kara Batak en <a href="../maqam/sikah.php">Maqam Sikah</a>, enregistré en 1929 par Sami al-Chawwa (Siria) au <a href="../instr/violin.php">violon</a> et Muhammad al-Qasabgi (Egitto) au <a href="../instr/oud.php">oud</a>.</span>
+                                    <b>Bashraf Kara Batak Sikah (1929)</b>
+                                    <span>Ancient Bashraf Kara Batak en <a href="../maqam/sikah.php">Maqam Sikah</a>, enregistré en 1929 par Sami al-Chawwa (Siria) au <a href="../instr/violin.php">violon</a> et Muhammad al-Qasabgi (Egitto) au <a href="../instr/oud.php">oud</a>.</span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
-                    <!-- add Bachraf Rast Tatyos Effendi -->
+                    <!-- add Bashraf Rast Tatyos Effendi -->
 
                     <p>Explorez d'autres groupes de formes:</p>
                     <ul>

@@ -1,7 +1,7 @@
 <?php defined('_DEFVAR') or exit('Restricted Access'); ?>
 <ul class="sub-menu">
     <li class="d-block d-sm-none"><a href="#" class="hide-side-menu"><i class="fa fa-fw fa-times"></i></a></li>
-    <li><a href="/it/form/ottoman.php#Bachraf">Il Bashraf</a></li>
+    <li><a href="/it/form/ottoman.php#bashraf">Il Bashraf</a></li>
     <li><a href="/it/form/instr_comp.php#darij">Il Darej</a></li>
     <li><a href="/it/form/vocal_comp.php#dawr">Il Dawr</a></li>
     <li><a href="/it/form/vocal_comp.php#duet">Il Duetto</a></li>

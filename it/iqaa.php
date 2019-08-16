@@ -92,7 +92,7 @@ include($ROOT . 'inc/head.php');
                             </div>
                             <div class="col-sm-3">
                                 <ul class="page-list">
-                                    <li><a href="iqaa/mudawwar.php">Mudawwar Chami 10/4</a></li>
+                                    <li><a href="iqaa/mudawwar.php">Mudawwar Shami 10/4</a></li>
                                     <li><a href="iqaa/jurjina.php">Jurjina 10/8</a></li>
                                     <li><a href="iqaa/samai_thaqil.php">Sama‘i Thaqil 10/8</a></li>
                                     <li><a href="iqaa/awis.php">‘Awis 11/8</a></li>
@@ -103,7 +103,7 @@ include($ROOT . 'inc/head.php');
                                     <li><a href="iqaa/mukhammas.php">Mukhammas 16/4</a></li>
                                     <li><a href="iqaa/khosh_rang.php">Khosh Rang 17/8</a></li>
                                     <li><a href="iqaa/fakhit.php">Fakhet 20/4</a></li>
-                                    <li><a href="iqaa/sittatu_ashar.php">Sittatu ‘Achar Masri 32/4</a></li>
+                                    <li><a href="iqaa/sittatu_ashar.php">Sittatu ‘Ashar Masri 32/4</a></li>
                                 </ul>
                             </div>
                         </div>

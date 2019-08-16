@@ -94,7 +94,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Hayya Wa Nadim</b>
-                                    <span>Interprétation de Samer Nachar (Siria)</span>
+                                    <span>Interprétation de Samer NAshar (Siria)</span>
                                 </div>
                             </label>
                         </div>

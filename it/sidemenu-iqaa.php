@@ -15,13 +15,13 @@
     <li><a href="/it/iqaa/fox.php">Fox 2/4</a></li>
     <li><a href="/it/iqaa/hachaa.php">Haccia 4/4</a></li>
     <li><a href="/it/iqaa/jurjina.php">Jurjina 10/8</a></li>
-    <li><a href="/it/iqaa/karachi.php">Karaci 2/4</a></li>
+    <li><a href="/it/iqaa/karachi.php">Karacci 2/4</a></li>
     <li><a href="/it/iqaa/katakufti.php">Katakufti 8/8</a></li>
     <li><a href="/it/iqaa/khosh_rang.php">Khosh Rang 17/8</a></li>
     <li><a href="/it/iqaa/malfuf.php">Malfuf 2/4</a></li>
     <li><a href="/it/iqaa/maqsum.php">Maqsum 4/4</a></li>
     <li><a href="/it/iqaa/masmudi_kabir.php">Masmudi Kabir 8/4</a></li>
-    <li><a href="/it/iqaa/mudawwar.php">Mudawwar Chami 10/4</a></li>
+    <li><a href="/it/iqaa/mudawwar.php">Mudawwar Shami 10/4</a></li>
     <li><a href="/it/iqaa/mudawwar.php">Mudawwar Masri 12/4</a></li>
     <li><a href="/it/iqaa/muhajjar.php">Muhajjar 14/4</a></li>
     <li><a href="/it/iqaa/mukhammas.php">Mukhammas 16/4</a></li>

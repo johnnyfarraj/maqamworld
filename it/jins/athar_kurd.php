@@ -98,7 +98,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Fagr Nurak Halli We Ban (c.1952)</b>
                                     <span>Baligh Hamdi (Egitto)</span>
-                                    <span>Musica di Yussef Chawqi</span>
+                                    <span>Musica di Yussef Shawqi</span>
                                 </div>
                             </label>
                         </div>
