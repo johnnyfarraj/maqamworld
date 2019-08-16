@@ -39,7 +39,6 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/dalanshin.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Dalancin</a>
                     </div>
 
-
                      <div class="notation" id="notation1">
                         <img src="/note/maqam/dalanshin.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
@@ -63,10 +62,10 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="260,142,443,171" href="../jins/upper_rast.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="573,4,682,34" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 					</map>
-                    <p>Le Maqam Dalancin commence avec le <a href="../jins/saba_dalanshin.php">Jins Saba Dalancin</a> à l'octave du <a href="rast.php">Maqam Rast</a>, puis retourne à la gamme du Maqam Rast avec le <a href="../jins/upper_rast.php">Jins Rast Alto</a> sur le 5<sup>ième</sup> degré (avec sa tonique sur le 8<sup>ième</sup> degré), puis termine avec le <a href="../jins/rast.php">Jins Rast</a> sur la tonique.
+                    
+                    <p>Il Maqam Dalanshin inizia con il <a href="../jins/saba_dalanshin.php">Jins Saba Dalancin</a> sull'ottava del <a href="rast.php">Maqam Rast</a> per poi transitare di nuovo sulla scala del <a href="rast.php">Maqam Rast</a> con il <a href="../jins/upper_rast.php">Jins Rast Alto</a> sul quinto grado (con la tonica sull'ottavo grado), e il <a href="../jins/rast.php">Jins Rast</a> sulla tonica.
                     </p>
-                    <p>
-                    Il n'y a pas beaucoup de chansons dans ce maqam. Il est plutôt utilisé comme une modulation à partir du <a href="rast.php">Maqam Rast</a>.
+                    <p>Non ci sono molto canzoni che utilizzano questo maqam, è usato più spesso come modulazione dal <a href="rast.php">Maqam Rast</a>.
                     </p>
 
                     <p>Scopri altri maqamat della <a href="f_rast.php">Famiglia Maqam Rast</a>.</p>
@@ -108,7 +107,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Koull Illi Habb Itnasaf (1931)</b>
+                                    <b>Kull Illi Habb Itnasaf (1931)</b>
                                     <span>Voce e musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -120,7 +119,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr ‘Ishna wi Shoufna</b>
+                                    <b>Dawr ‘Ishna wi Shufna</b>
                                     <span>Saleh Abdel Hayy (Egitto)</span>
                                     <span>Musica di Muhammad Uthman</span>
                                 </div>

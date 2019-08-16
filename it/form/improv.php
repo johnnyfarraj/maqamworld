@@ -160,9 +160,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Min Youm Firgak</b>
+                                    <b>Min Yom Firgak</b>
                                     <span>
-                                        Il Mawwal Baghdadien <strong>Min Youm Firgak</strong> par le chanteur aleppin Sabah Fakhri.</span>
+                                        Il Mawwal Baghdadien <strong>Min Yom Firgak</strong> par le chanteur aleppin Sabah Fakhri.</span>
                                 </div>
                             </label>
                         </div>

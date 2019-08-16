@@ -47,16 +47,16 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-		  <area shape="circle" coords="79,67,13" href="#" alt="Mi♮" class="playNote" data-frequency="656" data-parent="#notation1"><!-- Hijaz 3 tune down from 660 -->
-		  <area shape="circle" coords="158,75,13" href="#" alt="Re♭" class="playNote" data-frequency="554" data-parent="#notation1"><!-- Hijaz 2 tuned up from 548 -->
-		  <area shape="circle" coords="234,85,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1"><!-- Hijazkar tonic -->
-		  <area shape="circle" coords="313,93,13" href="#" alt="Si♮" class="playNote" data-frequency="493.33" data-parent="#notation1"><!-- vartiable -->
-		  <area shape="circle" coords="365,93,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
-		  <area shape="circle" coords="417,101,13" href="#" alt="La♭" class="playNote" data-frequency="420" data-parent="#notation1">
-		  <area shape="circle" coords="494,109,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
-		<area shape="circle" coords="570,118,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
+                      <area shape="circle" coords="79,67,13" href="#" alt="Mi♮" class="playNote" data-frequency="656" data-parent="#notation1"><!-- Hijaz 3 tune down from 660 -->
+                      <area shape="circle" coords="158,75,13" href="#" alt="Re♭" class="playNote" data-frequency="554" data-parent="#notation1"><!-- Hijaz 2 tuned up from 548 -->
+                      <area shape="circle" coords="234,85,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1"><!-- Hijazkar tonic -->
+                      <area shape="circle" coords="313,93,13" href="#" alt="Si♮" class="playNote" data-frequency="493.33" data-parent="#notation1"><!-- vartiable -->
+                      <area shape="circle" coords="365,93,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
+                      <area shape="circle" coords="417,101,13" href="#" alt="La♭" class="playNote" data-frequency="420" data-parent="#notation1">
+                      <area shape="circle" coords="494,109,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+                    <area shape="circle" coords="570,118,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
                        <area shape="circle" coords="649,126,13" href="#" alt="Mi♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
-		  <area shape="circle" coords="728,134,13" href="#" alt="Re♭" class="playNote" data-frequency="274" data-parent="#notation1">
+		              <area shape="circle" coords="728,134,13" href="#" alt="Re♭" class="playNote" data-frequency="274" data-parent="#notation1">
                       <area shape="circle" coords="803,142,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
                        <!-- Links -->
                       <area shape="rect" coords="170,8,322,38" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
@@ -64,7 +64,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="323,146,495,172" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Maqam Hijazkar Kurd est une version archaïque du <a href="kurd.php">Maqam Kurd</a> composé du <a href="../jins/hijazkar.php">Jins Hijazkar</a> à l'octave supérieure. Sa gamme commence avec le <a href="../jins/kurd.php">Jins Kurd</a> comme jins de base sur la tonique, suivi du <a href="../jins/nahawand.php">Jins Nahawand</a> sur le 4<sup>ième</sup> degré.</p>
+                    
+                    <p>Il Maqam Hijazkar Kurd è una versione arcaica del <a href="kurd.php">Maqam Kurd</a> con il <a href="../jins/hijazkar.php">Jins Hijazkar</a> sull'ottava. La sua scala inizia con il <a href="../jins/kurd.php">Jins Kurd</a> (radice) sulla tonica seguito dal <a href="../jins/nahawand.php">Jins Nahawand</a> sul quarto grado.
+                    </p>
 
                     <p>Scopri altri maqamat della <a href="f_kurd.php">Famiglia Maqam Kurd</a>.</p>
 
@@ -79,9 +81,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Tif Ya Dourri</b>
+                                    <b>Muwashah Tif Ya Durri</b>
                                     <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Lebano)</span>
-                                    <span>Chef d'orchestre: Aïda Chalhoub Ziadé</span>
+                                    <span>Direttore d'orchestra: Aïda Chalhoub Ziadé</span>
                                     <span>Musica di Sayyed Darwich/Omar al-Batch</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah et Chansons</span>
                                 </div>
@@ -94,9 +96,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Hibbi Zourni Ma Tayassar</b>
-                                    <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Lebano)</span>
-                                    <span>Chef d'orchestre: Aïda Chalhoub Ziadé</span>
+                                    <b>Muwashah Hibbi Zurni Ma Tayassar</b>
+                                    <span>Coro della facoltà di musica - Université Saint-Esprit de Kaslik (Lebano)</span>
+                                    <span>Direttore d'orchestra: Aïda Chalhoub Ziadé</span>
                                     <span>Musica di Darwich al-Hariri</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah et Chansons</span>
                                 </div>

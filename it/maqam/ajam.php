@@ -64,7 +64,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="639,14,806,40" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
 		          </map>
 
-                   <p>Le Maqam 'Ajam (aussi connu sous le nom de <strong>‘Ajam égyptien</strong>) est le maqam principal de la <a href="f_ajam.php">Famiglia Maqam ‘Ajam</a>. Il commence avec comme iins de base le <a href="../jins/ajam.php">Jins ‘Ajam</a> sur la tonique, suivi du <a href="../jins/upper_ajam.php">Jins ‘Ajam Alto</a> sur le 5<sup>ième</sup> degré (avec sa tonique sur le 8<sup>ième</sup> degré), ou du <a href="../jins/nahawand.php">Jins Nahawand</a> sur le 5<sup>ième</sup> degré.</p>
+                    <p>Il Maqam ‘Ajam (anche conosciuto come <strong>‘Ajam Egiziano</strong>) è il maqam principale della <a href="f_ajam.php">Famiglia Maqam ‘Ajam</a>, e inizia con il <a href="../jins/ajam.php">Jins ‘Ajam</a> sulla tonica, seguito dal <a href="../jins/upper_ajam.php">Jins ‘Ajam Alto</a> sul quinto grado (con la sua tonica, fino all'ottava) o dal <a href="../jins/nahawand.php">Jins Nahawand</a> sul quinto grado.</p>
                     
                     <p>Scopri altri maqamat della <a href="f_ajam.php">Famiglia Maqam ‘Ajam</a>.</p>
 
@@ -104,7 +104,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Fi Youm Wi Leila (1978)</b>
+                                    <b>Fi Yom Wi Leila (1978)</b>
                                     <span>Warda (Francia/Algeria)</span>
                                     <span>Musica di Muhammad Abdel Wahab</span>
                                 </div>
@@ -130,7 +130,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Zourouni Koulli Sana Marra</b>
+                                    <b>Zuruni Kulli Sana Marra</b>
                                     <span>Karem Mahmud (Egitto)</span>
                                     <span>Musica di Sayyed Darwich</span>
                                 </div>

@@ -68,7 +68,8 @@ include($ROOT . 'inc/head.php');
 
 				      </map>
 
-                    <p>Le Maqam Bastanikar est en fait le <a href="../jins/sikah.php">Jins Sikah</a> suivi du <a href="saba.php">Maqam Saba</a>. Il commence avec le <a href="../jins/sikah.php">Jins Sikah</a> comme jins de base sur la tonique, suivi du <a href="../jins/saba.php">Jins Saba</a> sur le 3<sup>ième</sup> degré, un <a href="../jins/hijaz.php">Jins Hijaz</a> *overlapping* sur le 5<sup>ième</sup> degré et finalement, un <a href="../jins/nikriz.php">Jins Nikriz</a> à l'octave supérieure.</p>
+                    <p>Il Maqam Bastanikar è formato dal <a href="../jins/sikah.php">Jins Sikah</a> seguito dal <a href="saba.php">Maqam Saba</a>. La sua scala inizia con il <a href="../jins/sikah.php">Jins Sikah</a> (radice) sulla tonica, seguito dal <a href="../jins/saba.php">Jins Saba</a> sul terzo grado, il <a href="../jins/hijaz.php">Jins Hijaz</a> sovrapposto sul quinto grado, e infine il <a href="../jins/nikriz.php">Jins Nikriz</a> sull'ottava.
+                    </p>
 
                     <p>Scopri altri maqamat della <a href="f_sikah.php">Famiglia Maqam Sikah</a>.</p>
 
@@ -136,9 +137,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Aqbala al-Soubhou Youghanni</b>
+                                    <b>Muwashah Aqbala al-Subhu Yughanni</b>
                                     <span>Ensemble Ornina (Siria)</span>
-                                    <span>Chef d'orchestre Dr. Muhammad Qadri Dalal</span>
+                                    <span>Direttore d'orchestra Dr. Muhammad Qadri Dalal</span>
                                     <span>Musica di Bakri al-Kurdi</span>
                                 </div>
                             </label>
@@ -150,8 +151,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Nouzhatou al-Arwahi Badri</b>
-                                    <span>(interprète inconnu)</span>
+                                    <b>Muwashah Nuzhatu al-Arwahi Badri</b>
+                                    <span>(musicista sconosciuto)</span>
                                 </div>
                             </label>
                         </div>
@@ -162,7 +163,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Oud en Maqam Bastanikar</b>
+                                    <b>Taqsim con l'Oud en <a href="../maqam/bastanikar.php">Maqam Bastanikar</a></b>
                                     <span>Muhammad Qadri Dalal (Siria)</span>
                                     <span><img src="/img/cd.png"> Maqams Insolites</span>
                                 </div>
@@ -177,7 +178,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Taqsim con l'Oud en <a href="../maqam/sikah.php">Maqam Sikah</a></b>
                                     <span>Riyad al-Sunbati (Egitto)</span>
-                                    <span><img src="/img/cd.png"> Taqaseem Oud</span>
+                                    <span><img src="/img/cd.png"> Taqasim Oud</span>
                                 </div>
                             </label>
                         </div>

@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Douqqou el-Mazaher</b>
-                                    <span>La chanson de mariage <strong>Douqqou el-Mazaher</strong> ('jouez aux tambours') de Farid al-Atrache utilise plusieurs tambours sur cadre utilisés dans les célébrations de mariage.</span>
+                                    <span>La chanson de mariage <strong>Douqqou el-Mazaher</strong> ('jouez aux tambours') de Farid al-Atrash utilise plusieurs tambours sur cadre utilisés dans les célébrations de mariage.</span>
                                 </div>
                             </label>
                         </div>

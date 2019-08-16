@@ -61,9 +61,10 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="272,155,390,184" href="../jins/kurd.php" class="mapLink" data-parent="#notation1">
 		              </map>
 
-                    <p>Le Maqam ‘Ajam ‘Ushayran est une version archaïque du <a href="ajam.php">Maqam ‘Ajam</a>, avec un <em>sayr</em> différent et une emphase tonale totalement différente: au lieu d'avoir la tonique du deuxième <em>jins</em> sur le 5<sup>ième</sup> degré, il utilise plutôt la tierce et la sixte à cet effet.
+                    <p>Il Maqam ‘Ajam ‘Ushayran è una versione arcaica del <a href="ajam.php">Maqam ‘Ajam</a> con un <em>sayr</em> diverso, e con un'enfasi completamente diversa. Invece che tonicizzare il quinto grado (come punto di partenza del nuovo jins) tonicizza il terzo e il sesto grado.
                     </p>
-                    <p>Le Maqam ‘Ajam ‘Ushayran commence avec comme jins de base le <a href="../jins/ajam.php">Jins ‘Ajam</a> sur la tonique, suivi du <a href="../jins/kurd.php">Jins Kurd</a> sur le 3<sup>ième</sup> degré, puis du <a href="../jins/nahawand.php">Jins Nahawand</a> sur le 6<sup>ième</sup> degré.
+                    
+                    <p>La scala del Maqam ‘Ajam ‘Ushayran inizia con il <a href="../jins/ajam.php">Jins ‘Ajam</a> sulla tonica, seguito dal <a href="../jins/kurd.php">Jins Kurd</a> sul terzo grado e dal <a href="../jins/nahawand.php">Jins Nahawand</a> sul sesto grado.
                     </p>
                     <p>Scopri altri maqamat della <a href="f_ajam.php">Famiglia Maqam ‘Ajam</a>.</p>
 
@@ -78,7 +79,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Ayqadha al-Houbbou Fou'adi</b>
+                                    <b>Muwashah Ayqadha al-Hubbu Fu'adi</b>
                                     <span>Hassan al-Haffar (Siria)</span>
                                     <span>Musica di Bahjat Hassan</span>
                                     <span><img src="/img/cd.png"> The Aleppo Suites Vol.2</span>

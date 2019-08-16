@@ -45,7 +45,7 @@ include($ROOT . 'inc/head.php');
 
           <p>Tradizionalmente ogni <em>maqam</em> è basato su una scala. La prima nota della scala è chiamata tonica. La scala del <em>maqam</em> è solitamente formata da 7 note e si ripete sull'ottavo grado, anche se alcuni <em>maqam</em> si estendono oltre le 8 note. Altre scale non raggiungono l'ottava equivalente sull'ottava nota.</p>
 
-          <p>Secondo la tradizione, i <em>maqamat</em> sono classificati in famiglie in base al primo <em>jins</em> (root) che condividono. Il <em>jins</em> fondamentale ha un ruolo importante nel definire il carattere del <em>maqam</em>. Il <em>maqam</em> più popolare all'interno della famiglia di solito ha lo stesso nome del primo <em>jins</em>. Gli altri <em>maqamat</em> sono chiamati branch <em>maqamat</em>, e sono basati sull'uso di un secondo (upper) <em>jins</em>.</p>
+          <p>Secondo la tradizione, i <em>maqamat</em> sono classificati in famiglie in base al primo <em>jins</em> (radice) che condividono. Il <em>jins</em> fondamentale ha un ruolo importante nel definire il carattere del <em>maqam</em>. Il <em>maqam</em> più popolare all'interno della famiglia di solito ha lo stesso nome del primo <em>jins</em>. Gli altri <em>maqamat</em> sono chiamati branch <em>maqamat</em>, e sono basati sull'uso di un secondo (upper) <em>jins</em>.</p>
 
             <p>Puoi iniziare a scoprire i <em>maqamat</em> in base alla famiglia, o uno per volta, utilizzando <strong>l'indice</strong>.
             </p>

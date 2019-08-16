@@ -60,7 +60,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="392,7,504,35" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 
                     </map>
-                    <p>Le Maqam Suzdalara est un maqam assez archaïque et presque inexistant en tant que maqam indépendant, même si son sayr est obligatoire pour presque toute performance et chanson dans le <a href="rast.php">Maqam Rast</a>: le <a href="../jins/nahawand.php">Jins Nahawand</a> sur le 5<sup>ième</sup> degré du <a href="rast.php">Maqam Rast</a> est une transition obligatoire à partir d'autres modulations pour signaler le retour vers le Jins de base <a href="../jins/rast.php">Rast</a> sur la tonique.</p>
+                    <p>Le Maqam Suzdalara est un maqam assez archaïque et presque inexistant en tant que maqam indépendant, même si son <em>sayr</em> est obligatoire pour presque toute performance et chanson dans le <a href="rast.php">Maqam Rast</a>: le <a href="../jins/nahawand.php">Jins Nahawand</a> sur le 5<sup>ième</sup> degré du <a href="rast.php">Maqam Rast</a> est une transition obligatoire à partir d'autres modulations pour signaler le retour vers le Jins de base <a href="../jins/rast.php">Rast</a> sur la tonique.</p>
 
                     <p>Scopri altri maqamat della <a href="f_rast.php">Famiglia Maqam Rast</a>.</p>
 

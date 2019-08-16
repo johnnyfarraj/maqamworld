@@ -61,9 +61,10 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="337,144,483,175" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
                     </map>
 
-                    <p>Le Maqam Athar Kurd est un <em>maqam</em> très rare qui semble être une invention du 20<sup>ième</sup> siècle. Sa gamme commence avec le <a href="../jins/athar_kurd.php">Athar Kurd</a> sur la tonique, suivi du <a href="../jins/hijazkar.php">Jins Hijazkar</a> concentré autour du 5<sup>ième</sup> degré.
+                    <p>Il Maqam Athar Kurd è un <em>maqam</em> molto raro che sembra essere uno sviluppo del XX secolo. La scala inizia con il <a href="../jins/athar_kurd.php">Athar Kurd</a> sulla tonica seguito dal <a href="../jins/hijazkar.php">Jins Hijazkar</a> intorno al quinto grado.
 		          </p>
-                    <p>La gamme du Maqam Athar Kurd est un hybride entre le <a href="nawa_athar.php">Maqam Nawa Athar</a> et le <a href="kurd.php">Maqam Kurd</a>, d'où son nom.
+                    
+                    <p>La scala del Maqam Athar Kurd è un ibrido tra il <a href="nawa_athar.php">Maqam Nawa Athar</a> e il <a href="kurd.php">Maqam Kurd</a>, da qui il nome.
 		          </p>
                     <p>Scopri altri maqamat della <a href="f_nikriz.php">Famiglia Maqam Nikriz</a>.</p>
 
@@ -93,7 +94,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>el-Hana wel-Widd (1975)</b>
                                     <span>Leila Murad (Egitto)</span>
-                                    <span>Musica di Abdel Moun‘im al-Hariri</span>
+                                    <span>Musica di Abdel Mun‘im al-Hariri</span>
                                 </div>
                             </label>
                         </div>
@@ -104,7 +105,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Fagr Nurak Hall wi Bane (c.1952)</b>
+                                    <b>Ya Fagr Nurak Hall wi Ban (c.1952)</b>
                                     <span>Interprétation de Baligh Hamdi (Egitto)</span>
                                     <span>Musica di Yussef Shawqi</span>
                                 </div>
@@ -144,9 +145,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Oud</b>
+                                    <b>Taqsim con l'Oud</b>
                                     <span>Riyad al-Sunbati (Egitto)</span>
-                                    <span><img src="/img/cd.png"> Taqaseem Oud</span>
+                                    <span><img src="/img/cd.png"> Taqasim Oud</span>
                                 </div>
                             </label>
                         </div>

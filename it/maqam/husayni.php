@@ -47,24 +47,25 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-	  <area shape="circle" coords="55,95,13" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
-	  <area shape="circle" coords="131,87,13" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="480" data-parent="#notation1"><!--Bayati LA 2nd, variable -->
-	  <area shape="circle" coords="183,87,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
-	  <area shape="circle" coords="233,79,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
-	  <area shape="circle" coords="313,71,13" href="#" alt="Re" class="playNote" data-frequency="586.66" data-parent="#notation1">
-	  <area shape="circle" coords="391,103,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
-	  <area shape="circle" coords="470,111,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
-	  <area shape="circle" coords="551,121,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!-- Bayati RE 2nd, variable -->
-	  <area shape="circle" coords="630,129,13" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
+                      <area shape="circle" coords="55,95,13" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
+                      <area shape="circle" coords="131,87,13" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="480" data-parent="#notation1"><!--Bayati LA 2nd, variable -->
+                      <area shape="circle" coords="183,87,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
+                      <area shape="circle" coords="233,79,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
+                      <area shape="circle" coords="313,71,13" href="#" alt="Re" class="playNote" data-frequency="586.66" data-parent="#notation1">
+                      <area shape="circle" coords="391,103,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+                      <area shape="circle" coords="470,111,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
+                      <area shape="circle" coords="551,121,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!-- Bayati RE 2nd, variable -->
+                      <area shape="circle" coords="630,129,13" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
                        <!-- Links -->
-		<!-- Houssayni is not a Jins, it's a special case (documented in IAM)
+                        <!-- Houssayni is not a Jins, it's a special case (documented in IAM)
                       <area shape="rect" coords="116,8,304,39" href="../jins/husayni.php" class="mapLink" data-parent="#notation1">
-		-->
+		              -->
                       <area shape="rect" coords="450,8,580,39" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
-
 					</map>
-                    <p>Le Maqam Hussayni n'est pas un maqam très commun en tant que maqam indépendant dans la tradition de la musique arabe, même si son <em>sayr</em> (mettre l'emphase sur le 5<sup>ième</sup> degré comme note de tension qui se résout sur le 4<sup>ième</sup> degré) est obligatoire dans le <a href="bayati.php">Maqam Bayati</a>. Dans la musique folklorique de la région, c'est pourtant la variante la plus commune du Maqam Bayati, avec sa gamme commençant sur le <a href="../jins/bayati.php">Jins Bayati</a> de base sur la tonique.
+                    
+                    <p>Il Maqam Husayni non è molto comune come maqam indipendente nella tradizione araba, ma il suo <em>sayr</em> (enfatizzare il quinto grado della scala come nota che risolve sotto sul quarto grado) è obbligatorio nel <a href="bayati.php">Maqam Bayati</a>. Nella musica folk nelle regioni più distanti, è la variazione più comune del Bayati, con la sua scala che inizia con il <a href="../jins/bayati.php">Jins Bayati</a> sulla tonica.
                     </p>
+                    
                     <p>Scopri altri maqamat della <a href="f_bayati.php">Famiglia Maqam Bayati</a>.</p>
 
                     <div class="player-area">
@@ -78,7 +79,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Bil-ladhi Askara</b>
+                                    <b>Muwashah Bil-Ladhi Askara</b>
                                     <span>Sabah Fakhri (Siria)</span>
                                     <span><img src="/img/cd.png"> Nagham al-Ams Vol. 12 (Bayati)</span>
                                 </div>
@@ -116,8 +117,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Noura Noura (1953)</b>
-                                    <span>Voce e musica di Farid al-Atrache</span>
+                                    <b>Nura Nura (1953)</b>
+                                    <span>Voce e musica di Farid al-Atrash</span>
                                 </div>
                             </label>
                         </div>

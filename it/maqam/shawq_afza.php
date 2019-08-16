@@ -89,7 +89,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>‘Ala Allah Téoud (1970)</b>
                                     <span>Wadih al-Safi (Lebano)</span>
-                                    <span>Musica di Farid al-Atrache</span>
+                                    <span>Musica di Farid al-Atrash</span>
                                 </div>
                             </label>
                         </div>

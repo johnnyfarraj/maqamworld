@@ -37,12 +37,11 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/huzam.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Houzam</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/huzam.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Huzam</a>
                     </div>
                     <div class="text-center mt-2 mb-3">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/rahat_al_arwah`.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Rahat al-Arwah</a>
                     </div>
-
 
                      <div class="notation" id="notation1">
                         <img src="/note/maqam/huzam.png" class="img-fluid" usemap="#notemap">
@@ -64,12 +63,12 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="78,13,200,43" href="../jins/sikah.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="277,13,395,43" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="484,7,591,35" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
-		</map>
+		          </map>
 
-                    <p>Le Maqam Huzam est le maqam le plus courant de la <a href="f_sikah.php">famille du Maqam Sikah</a>. Il commence sur Mi<i class="icon-halfflat"></i>. Sa gamme commence avec le jins de base <a href="../jins/sikah.php">Jins Sikah</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Jins Hijaz</a> sur le 3<sup>ième</sup> degré,  et finalement du <a href="../jins/rast.php">Jins Rast</a> sur le 6<sup>ième</sup> degré.
+                    <p>Il Maqam Huzam è di gran lunga il maqam più popolare nella <a href="f_sikah.php">famille du Maqam Sikah</a>, e inizia sul Mi<i class="icon-halfflat"></i>. La sua scala inizia con il <a href="../jins/sikah.php">Jins Sikah</a> (radice) sulla tonica, seguito dal <a href="../jins/hijaz.php">Jins Hijaz</a> sul quarto grado e dal <a href="../jins/rast.php">Jins Rast</a> sul sesto grado.
                     </p>
 
-                    <p>La transposition du Maqam Huzam sur Si<i class="icon-halfflat"></i> porte le nom de <strong>Maqam Rahat al-Arwah</strong>. Les deux <em>maqams</em> ont exactement le même <em>sayr</em>.</p>
+                    <p>La trasposizione del Maqam Huzam in Si<i class="icon-halfflat"></i> ha un suo nome: <strong>Maqam Rahat al-Arwah</strong>. Entrambi i <em>maqams</em> hanno lo stesso <em>sayr</em>.</p>
 
                     <p>Scopri altri maqamat della <a href="f_sikah.php">Famiglia Maqam Sikah</a>.</p>
 
@@ -97,10 +96,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ayyouha al-Saqi</b>
+                                    <b>Muwashah Ayyuha al-Saqi</b>
                                     <span>Sabah Fakhri (Siria)</span>
                                     <span>Musica di Majdi al-‘Aqili</span>
-                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 13 Houzam</span>
+                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 13 Huzam</span>
                                 </div>
                             </label>
                         </div>
@@ -134,7 +133,7 @@ include($ROOT . 'inc/head.php');
 
                     <!-- Start Rahat al-Arwah section -->
                     <div class="heading jins text-center">
-                        <h3>Maqam Rahat al-Arwah examples</h3>
+                        <h3>esempi di Maqam Rahat al-Arwah</h3>
                     </div>
                     <div class="clearfix"></div>
 

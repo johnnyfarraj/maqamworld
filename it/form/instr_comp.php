@@ -166,8 +166,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Fi Youm wi Leila (1978)</b>
-                                    <span>L'introduction de la longue chanson <strong>Fi Youm wi Leila</strong> (1978) de Warda, composée par Muhammad Abdel Wahab.
+                                    <b>Fi Yom wi Leila (1978)</b>
+                                    <span>L'introduction de la longue chanson <strong>Fi Yom wi Leila</strong> (1978) de Warda, composée par Muhammad Abdel Wahab.
                                     </span>
                                 </div>
                             </label>

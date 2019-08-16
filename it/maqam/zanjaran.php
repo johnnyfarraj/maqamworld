@@ -117,7 +117,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Layali Zanjarane</b>
                                     <span>Ahmad Khabbari</span>
-                                    <span>Ensemble Al-Tourath (Siria)</span>
+                                    <span>Ensemble Al-Turath (Siria)</span>
                                     <span><img src="/img/cd.png"> The Music In Spanish Al-Andalus - Hijaz</span>
                                 </div>
                             </label>
@@ -142,7 +142,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim au Qanun en Zanjarane</b>
+                                    <b>Taqsim di Qanun sul Zanjarane</b>
                                     <span>Abraham Salman (Irak)</span>
                                     <span><img src="/img/cd.png"> Saltanah</span>
                                 </div>

@@ -66,7 +66,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="783,8,890,37" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 
 				     </map>
-                    <p>Le Maqam Bayati est de loin l'un des maqamat les plus populaires du répertoire de la musique arabe. C'est aussi le <em>maqam</em> principal de la <a href="f_bayati.php">Famille Bayati</a>. Il commence avec comme jins de base le <a href="../jins/bayati.php">Jins Bayati</a> sur la tonique, suivi du <a href="../jins/nahawand.php">Jins Nahawand</a> ou du <a href="../jins/rast.php">Jins Rast</a> sur le 4<sup>ième</sup> degré.
+                    <p>Il Maqam Bayati è di molto il più famoso e più usato tra i maqamat del reportorio arabo. E' anche il maqam principale della <a href="f_bayati.php">Famiglia Maqam Bayati</a>. La sua scala inizia con il <a href="../jins/bayati.php">Jins Bayati</a> sulla tonica seguito dal <a href="../jins/nahawand.php">Jins Nahawand</a> o dal <a href="../jins/rast.php">Jins Rast</a> sul quarto grado.
                     </p>
                     <p>Scopri altri maqamat della <a href="f_bayati.php">Famiglia Maqam Bayati</a>.</p>
 
@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>‘Ala Balad el-Mahboub Waddini (1935)</b>
+                                    <b>‘Ala Balad el-Mahbub Waddini (1935)</b>
                                     <span>Umm Kulthum (Egitto)</span>
                                     <span>Musica di Riyad al-Sunbati</span>
                                 </div>
@@ -94,7 +94,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Akoun Sa‘id (1932)</b>
+                                    <b>Akun Sa‘id (1932)</b>
                                     <span>Umm Kulthum (Egitto)</span>
                                     <span>Musica di Zakaria Ahmad</span>
                                 </div>
@@ -121,7 +121,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mijana e ‘Ataba</b>
                                     <span>Wadih al-Safi (Lebano)</span>
-                                    <span>(folklore libanais)</span>
+                                    <span>(Musica del Lebanese Folklore)</span>
                                 </div>
                             </label>
                         </div>
@@ -134,7 +134,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Imlali al-Aqdaha Sirfan</b>
                                     <span>Sabah Fakhri (Siria)</span>
-                                    <span>(composition traditionnelle)</span>
+                                    <span>(Tradizionale)</span>
                                 </div>
                             </label>
                         </div>
@@ -145,8 +145,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Noura Noura (1953)</b>
-                                    <span>Voce e musica di Farid al-Atrache</span>
+                                    <b>Nura Nura (1953)</b>
+                                    <span>Voce e musica di Farid al-Atrash</span>
                                 </div>
                             </label>
                         </div>
@@ -157,7 +157,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Rayt Minnoun (Taqsim au Qanun)</b>
+                                    <b>Ya Rayt Minnun (Taqsim al Qanun)</b>
                                     <span>Fairouz (Lebano)</span>
                                     <span>Musica di Philemon Wehbe</span>
                                 </div>
@@ -170,7 +170,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Rayt Minnoun</b>
+                                    <b>Ya Rayt Minnun</b>
                                     <span>Fairouz (Lebano)</span>
                                     <span>Musica di Philemon Wehbe</span>
                                 </div>
@@ -184,7 +184,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Bayati Ibrahim al-‘Aryan</b>
-                                    <span>Farhan Sabbagh (solo de Oud)</span>
+                                    <span>Farhan Sabbagh (solo di Oud)</span>
                                 </div>
                             </label>
                         </div>
@@ -195,7 +195,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Bayati d'Iskandar Shalfoun</b>
+                                    <b>Sama‘i Bayati Iskandar Shalfun</b>
                                     <span>Ensemble Morkos (Lebano)</span>
                                     <span><img src="/img/cd.png"> Cèdre</span>
                                 </div>

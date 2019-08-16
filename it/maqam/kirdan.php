@@ -67,7 +67,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="400,173,528,202" href="../jins/sazkar.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Maqam Kirdan est une version du <a href="rast.php">Maqam Rast</a> dans laquelle le sayr commence à l'octave et redescend vers la tonique. Sa gamme commence avec le <a href="../jins/rast.php">Jins Rast</a> sur la tonique, suivi du <a href="../jins/upper_rast.php">Jins Rast Alto</a> sur le 5<sup>ième</sup> degré (avec sa tonique sur le 8<sup>ième</sup> degré).
+                    <p>Le Maqam Kirdan est une version du <a href="rast.php">Maqam Rast</a> dans laquelle le <em>sayr</em> commence à l'octave et redescend vers la tonique. Sa gamme commence avec le <a href="../jins/rast.php">Jins Rast</a> sur la tonique, suivi du <a href="../jins/upper_rast.php">Jins Rast Alto</a> sur le 5<sup>ième</sup> degré (avec sa tonique sur le 8<sup>ième</sup> degré).
                     </p>
                     <p>Le <strong>Maqam Sazkar</strong> est presque identique au Maqam Kirdan à part pour le fait de mettre l'emphase sur le 2<sup>ième</sup> degré dans certains passages mélodiques, ce qui fait en sorte d'avoir le <a href="../jins/sazkar.php">Jins Sazkar</a> sur la tonique.
                     </p>
@@ -87,7 +87,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Sihtou Wajdan</b>
                                     <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Lebano)</span>
-                                    <span>Chef d'orchestre: Aïda Chalhoub Ziadé</span>
+                                    <span>Direttore d'orchestra: Aïda Chalhoub Ziadé</span>
                                     <span>Musica di Sayyed Darwich</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah et Chansons</span>
                                 </div>

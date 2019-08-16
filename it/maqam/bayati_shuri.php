@@ -61,9 +61,11 @@ include($ROOT . 'inc/head.php');
 
 					</map>
 
-                    <p>Maqam Bayati Shuri is a variation of <a href="bayati.php">Maqam Bayati</a> with a lowered 5<sup>th</sup> degree. It starts with the root <a href="../jins/bayati.php">Jins Bayati</a> on the <em>tonic</em> followed by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 4<sup>th</sup> degree.</p>
+                    <p>Il Maqam Bayati Shuri è una variazione del <a href="bayati.php">Maqam Bayati</a> con il quinto grado abbassato. Inizia con il <a href="../jins/bayati.php">Jins Bayati</a> (radice) sulla tonica seguito dal <a href="../jins/hijaz.php">Jins Hijaz</a> sul quarto grado.
+                    </p>
                     
-                    <p>C'est un maqam très populaire, surtout pour les <a href="../form/vocal_comp.php">compositions vocales</a> dans les genres Muwashahat et Adwar.</p>
+                    <p>E' un maqam molto popolare, specialmente nelle <a href="../form/vocal_comp.php">composizioni vocali</a> Muwashahat e Adwar.
+                    </p>
                     
                     <p>Scopri altri maqamat della <a href="f_bayati.php">Famiglia Maqam Bayati</a>.</p>
 
@@ -90,7 +92,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim au Violon en Maqam Bayati Shuri</b>
+                                    <b>Taqsim di violino sul Maqam Bayati Shuri</b>
                                     <span><img src="/img/cd.png"> Nagham al-Ams Vol. 2 (Bayati Shuri)</span>
                                 </div>
                             </label>
@@ -142,7 +144,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Qadd Ah Ya Hilu</b>
-                                    <span>Nay Barghouti</span>
+                                    <span>Nay Barghuti</span>
                                     <span>(chanson traditionelle)</span>
                                 </div>
                             </label>
@@ -167,7 +169,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim au Qanun en Maqam Bayati Shuri</b>
+                                    <b>Taqsim di Qanun sul Maqam Bayati Shuri</b>
                                     <span>Marie Joubran</span>
                                     <span>Wasla en Bayati Shuri</span>
                                 </div>

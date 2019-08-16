@@ -39,7 +39,6 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/hijaz.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Hijaz</a>
                     </div>
 
-
                      <div class="notation" id="notation1">
                         <img src="/note/maqam/hijaz.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
@@ -67,7 +66,8 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="775,5,886,36" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 
 				     </map>
-                    <p>Le Maqam Hijaz est le maqam principal de la <a href="f_hijaz.php">Famiglia Maqam Hijaz</a>. Sa gamme commence avec le <a href="../jins/hijaz.php">Jins Hijaz</a> comme jins de base sur la tonique, suivi du <a href="../jins/nahawand.php">Jins Nahawand</a> ou du <a href="../jins/rast.php">Jins Rast</a> sur le <em>ghammaz</em> au 4<sup>ième</sup> degré.</p>
+                    
+                    <p>Il Maqam Hijaz è il maqam principale della <a href="f_hijaz.php">Famiglia Maqam Hijaz</a>. La sua scala inizia con il <a href="../jins/hijaz.php">Jins Hijaz</a> (radice) sulla tonica seguito dal <a href="../jins/nahawand.php">Jins Nahawand</a> o dal <a href="../jins/rast.php">Jins Rast</a> sul 4 grado.</p>
 
                     <p>Scopri altri maqamat della <a href="f_hijaz.php">Famiglia Maqam Hijaz</a>.</p>
 
@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Ma-Htiyali</b>
-                                    <span>Ensemble Al-Tourath (Siria)</span>
+                                    <span>Ensemble Al-Turath (Siria)</span>
                                     <span><img src="/img/cd.png"> The Music In Spanish Al Andalus - Hijaz</span>
                                 </div>
                             </label>
@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Badri Adir</b>
                                     <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Lebano)</span>
-                                    <span>Chef d'orchestre: Aïda Chalhoub Ziadé</span>
+                                    <span>Direttore d'orchestra: Aïda Chalhoub Ziadé</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah et Chansons</span>
                                 </div>
                             </label>
@@ -109,7 +109,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Moudnaka Gafahou Marqadouhou (1938)</b>
+                                    <b>Mudnaka Gafahu Marqaduhu (1938)</b>
                                     <span>Voce e musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -122,7 +122,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Hibbina (1975)</b>
-                                    <span>Voce e musica di Farid al-Atrache</span>
+                                    <span>Voce e musica di Farid al-Atrash</span>
                                 </div>
                             </label>
                         </div>
@@ -133,9 +133,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Foug el-Nakhal</b>
+                                    <b>Fog el-Nakhal</b>
                                     <span>Mounir Bachir e Omar Bachir</span>
-                                    <span>(folklore traditionel de l'Irak)</span>
+                                    <span>(Folklore tradizionale dell'Irak)</span>
                                 </div>
                             </label>
                         </div>
@@ -148,7 +148,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Qasida Mawlaya Ajfani</b>
                                     <span>Sabah Fakhri (Siria)</span>
-                                    <span>Du Fasil Isqi al-‘Itach</span>
+                                    <span>Du Fasil Isqi al-‘Itash</span>
                                 </div>
                             </label>
                         </div>
@@ -159,7 +159,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qaddouka al-Mayyas</b>
+                                    <b>Qadduka al-Mayyas</b>
                                     <span>Sabah Fakhri (Siria)</span>
                                     <span><img src="/img/cd.png"> Nagham al-Ams Vol. 14 Hijaz</span>
                                 </div>
@@ -173,8 +173,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Hijaz</b>
-                                    <span>Ensemble Al-Tourath (Siria)</span>
-                                    <span>Musica di Muhammad ‘Abdou</span>
+                                    <span>Ensemble Al-Turath (Siria)</span>
+                                    <span>Musica di Muhammad ‘Abdu</span>
                                 </div>
                             </label>
                         </div>
@@ -185,7 +185,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dulab et Taqsim au Nay en Maqam Hijaz</b>
+                                    <b>Dulab e Taqsim al Nay sul Maqam Hijaz</b>
                                     <span>Sabah Fakhri (Siria)</span>
                                     <span><img src="/img/cd.png"> Nagham al-Ams Vol. 14 Hijaz</span>
                                 </div>

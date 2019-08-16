@@ -91,7 +91,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" checked>
                                 <div class="info">
                                     <b>Gamil Gamal (1952)</b>
-                                    <span>Voce e musica di Farid al-Atrache</span>
+                                    <span>Voce e musica di Farid al-Atrash</span>
                                 </div>
                             </label>
                         </div>

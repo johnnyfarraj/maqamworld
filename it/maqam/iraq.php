@@ -62,7 +62,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="485,5,592,33" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 	</map>
 
-                    <p>Le Maqam 'Iraq est un maqam de la <a href="f_sikah.php">famille Sikah</a> plutôt rare. Il est en général utilisé comme une modulation dans le sayr du <a href="huzam.php">Maqam Huzam</a>. Sa gamme commence avec le Jins de base <a href="../jins/sikah.php">Sikah</a> sur la tonique (Si<i class="icon-halfflat"></i>), suivi du <a href="../jins/bayati.php">Jins Bayati</a> sur le 3<sup>ième</sup> degré, et finalement du <a href="../jins/rast.php">Jins Rast</a> sur le 6<sup>ième</sup> degré.
+                    <p>Le Maqam 'Iraq est un maqam de la <a href="f_sikah.php">famille Sikah</a> plutôt rare. Il est en général utilisé comme une modulation dans le <em>sayr</em> du <a href="huzam.php">Maqam Huzam</a>. Sa gamme commence avec le Jins de base <a href="../jins/sikah.php">Sikah</a> sur la tonique (Si<i class="icon-halfflat"></i>), suivi du <a href="../jins/bayati.php">Jins Bayati</a> sur le 3<sup>ième</sup> degré, et finalement du <a href="../jins/rast.php">Jins Rast</a> sur le 6<sup>ième</sup> degré.
                     </p>
                     <p>Scopri altri maqamat della <a href="f_sikah.php">Famiglia Maqam Sikah</a>.</p>
 

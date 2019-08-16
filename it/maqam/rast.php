@@ -109,7 +109,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Ya ‘Oudhayb al-Marshaf</b>
                                     <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Lebano)</span>
-                                    <span>Chef d'orchestre: Aïda Chalhoub Ziadé</span>
+                                    <span>Direttore d'orchestra: Aïda Chalhoub Ziadé</span>
                                     <span>Musica di Sayyed Darwich</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah et Chansons</span>
                                 </div>
