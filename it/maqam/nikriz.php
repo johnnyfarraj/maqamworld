@@ -44,18 +44,18 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/nikriz.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="53,68,13" href="#" alt="Ré" class="playNote" data-frequency="586.66" data-parent="#notation1">
+					  <area shape="circle" coords="53,68,13" href="#" alt="Re" class="playNote" data-frequency="586.66" data-parent="#notation1">
 					  <area shape="circle" coords="130,77,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
 					  <area shape="circle" coords="209,84,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					  <area shape="circle" coords="285,93,13" href="#" alt="La♮" class="playNote" data-frequency="440" data-parent="#notation1">
 					  <area shape="circle" coords="364,101,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
 					  <area shape="circle" coords="440,110,13" href="#" alt="Fa♯" class="playNote" data-frequency="375" data-parent="#notation1"><!-- Nikriz 4th -->
 					  <area shape="circle" coords="517,118,13" href="#" alt="Mi♭" class="playNote" data-frequency="315" data-parent="#notation1"><!-- Nikriz 3rd -->
-					  <area shape="circle" coords="594,125,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="594,125,13" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
                       <area shape="circle" coords="672,134,13" href="#" alt="Do" class="playNote" data-frequency=" 260.74" data-parent="#notation1"><!-- tonic -->
                       <!-- Links -->
                       <area shape="rect" coords="130,6,305,34" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
@@ -78,7 +78,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" checked>
                                 <div class="info">
                                     <b>Ya Msahharni (1972)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
+                                    <span>Umm Kulthum (Egitto)</span>
                                     <span>Musica di Sayyed Makkawi</span>
                                 </div>
                             </label>
@@ -91,7 +91,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ba‘id ‘Annak (1965)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
+                                    <span>Umm Kulthum (Egitto)</span>
                                     <span>Musica di Baligh Hamdi</span>
                                 </div>
                             </label>
@@ -104,7 +104,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr el-Alb Yama Intazar (1931)</b>
-                                    <span>Interprétation et Musica di Muhammad Abdel Wahab</span>
+                                    <span>Voce e musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -116,7 +116,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Saga al-Laylou (1939)</b>
-                                    <span>Interprétation et Musica di Muhammad Abdel Wahab</span>
+                                    <span>Voce e musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -127,8 +127,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Bayna Qasiyoun Wa Rabwa</b>
-                                    <span>Hassan al-Haffar (Syrie)</span>
+                                    <b>Muwashah Bayna Qasiyoun Wa Rabwa</b>
+                                    <span>Hassan al-Haffar (Siria)</span>
                                     <span>Musica di Omar al-Batch</span>
                                 </div>
                             </label>
@@ -140,8 +140,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Zarani Taht al-Ghayahib</b>
-                                    <span>Muhammad Khayri (Syrie)</span>
+                                    <b>Muwashah Zarani Taht al-Ghayahib</b>
+                                    <span>Muhammad Khayri (Siria)</span>
                                     <span>Musica di Omar al-Batch</span>
                                 </div>
                             </label>
@@ -154,7 +154,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr Yalli Qawamak Ya‘gibni</b>
-                                    <span>Karem Mahmoud (Égypte)</span>
+                                    <span>Karem Mahmud (Egitto)</span>
                                     <span>Musica di Sayyed Darwich</span>
                                 </div>
                             </label>

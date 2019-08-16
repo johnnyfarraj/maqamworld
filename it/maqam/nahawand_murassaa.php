@@ -44,12 +44,12 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/nahawand_murassaa.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
                     </div>
 
                     <map name="notemap">
 					  <area shape="circle" coords="44,137,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
-					  <area shape="circle" coords="120,128,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="120,128,13" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
 					  <area shape="circle" coords="197,121,13" href="#" alt="Mi♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
 					  <area shape="circle" coords="275,112,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1"><!-- Hijaz tonic-->
 					  <area shape="circle" coords="352,104,13" href="#" alt="Sol♭" class="playNote" data-frequency="368" data-parent="#notation1"><!-- Hijaz 2nd tuned up from 365.32 -->
@@ -78,8 +78,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Ya Gari (1958)</b>
-                                    <span>Horeyya Hassan (Égypte)</span>
-                                    <span>Musica di Muhammad al-Mougi</span>
+                                    <span>Horeyya Hassan (Egitto)</span>
+                                    <span>Musica di Muhammad al-Mugi</span>
                                 </div>
                             </label>
                         </div>
@@ -91,7 +91,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Khousara (1957)</b>
-                                    <span>Abdel Halim Hafez (Égypte)</span>
+                                    <span>Abdel Halim Hafez (Egitto)</span>
                                     <span>Musica di Baligh Hamdi</span>
                                 </div>
                             </label>
@@ -104,7 +104,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Taht el-Shibbak</b>
-                                    <span>Aziz Outhman (Égypte)</span>
+                                    <span>Aziz Uthman (Egitto)</span>
                                 </div>
                             </label>
                         </div>
@@ -128,9 +128,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Doulab Nahawand</b>
-                                    <span>Aïcha Redouane (Maroc)</span>
-                                    <span><img src="/img/cd.png"> Égypte</span>
+                                    <b>Dulab Nahawand</b>
+                                    <span>Aïcha Redouane (Marocco)</span>
+                                    <span><img src="/img/cd.png"> Egitto</span>
                                 </div>
                             </label>
                         </div>
@@ -141,9 +141,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Doulab Nahawand Murassa‘</b>
+                                    <b>Dulab Nahawand Murassa‘</b>
                                     <span>Zikrayat Ensemble (États Unis)</span>
-                                    <span>Musica di Sami Abou Shumays</span>
+                                    <span>Musica di Sami Abu Shumays</span>
                                 </div>
                             </label>
                         </div>

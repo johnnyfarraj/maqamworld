@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Jins Nahawand Murassa‘";
 $page_description = "Jins Nahawand Murassa‘";
-$page_keywords = "musique arabe, maqam, instruments, jins nahawand mourassa‘, iqa‘, iqaa, rythme, oud, qanun, nay, quart de ton, tarab";
+$page_keywords = "Jins Nahawand Murassa‘, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins Nahawand Murassa‘ (ou Mourassaa)</h1>
-                        <h3>Une variation du <a href="nahawand.php">Jins Nahawand</a> avec quinte abaissée</h3>
+                        <h1>Jins Nahawand Murassa‘</h1>
+                        <h3>Una variazione del <a href="nahawand.php">Jins Nahawand</a> con la quinta abbassata.</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Jins</a>
                     <div class="clearfix"></div>
@@ -39,24 +39,24 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/nahawand_murassaa.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Nahawand Murassa‘</a>
                     </div>
 
-
                      <div class="notation" id="notation1">
                         <img src="/note/jins/nahawand_murassaa.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
                     </div>
 
                     <map name="notemap">
 					  <area shape="circle" coords="55,110,12" href="#" alt="Si♮" class="playNote" data-frequency="247.5" data-parent="#notation1">
 					  <area shape="circle" coords="126,102,14" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
-					  <area shape="circle" coords="202,94,13" href="#" alt="Ré" class="playNote" data-frequency="293.33"  data-parent="#notation1">
+					  <area shape="circle" coords="202,94,13" href="#" alt="Re" class="playNote" data-frequency="293.33"  data-parent="#notation1">
 					  <area shape="circle" coords="280,86,13" href="#" alt="Mi♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
 					  <area shape="circle" coords="357,78,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1"><!-Hijaz 1st-->
 					  <area shape="circle" coords="434,70,13" href="#" alt="Sol♭" class="playNote" data-frequency="373.33" data-parent="#notation1"><!--variable-->
 					  <area shape="circle" coords="509,62,12" href="#" alt="La♮" class="playNote" data-frequency="444" data-parent="#notation1"><!--var-->
 
 					</map>
-                    <p>Il Jins Nahawand Murassa‘ n'a pas de <em>ghammaz</em> et donc pas de taille définie. Il est noté ici avec sa tonique sur Do. Il Jins Nahawand Murassa‘ est le premier <em>jins</em> du <a href="../maqam/nahawand_murassaa.php">Maqam Nahawand Murassa‘</a>.
+                    
+                    <p>Il Jins Nahawand Murassa‘ non ha un <em>ghammaz</em>, per questo non ha una dimensione definita. E' scritto qui considerando il Do come sua tonica. Il Jins Nahawand Murassa‘ è il primo <em>jins</em> del <a href="../maqam/nahawand_murassaa.php">Maqam Nahawand Murassa‘</a>.
                     </p>
 
                     <div class="player-area">
@@ -70,8 +70,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Doulab Nahawand (de Sibouni Ya Nas)</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <b>Dulab Nahawand (de Sibuni Ya Nas)</b>
+                                    <span>Sabah Fakhri (Siria)</span>
                                 </div>
                             </label>
                         </div>
@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" checked>
                                 <div class="info">
                                     <b>Habbeit Gamalak</b>
-                                    <span>Leila Mourad (Égypte)</span>
+                                    <span>Leila Murad (Egitto)</span>
                                     <span>Musica di Muhammad al-Qasabgi</span>
                                 </div>
                             </label>
@@ -95,8 +95,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" checked>
                                 <div class="info">
-                                    <b>Khousara (1957)</b>
-                                    <span>Abdel Halim Hafez (Égypte)</span>
+                                    <b>Khusara (1957)</b>
+                                    <span>Abdel Halim Hafez (Egitto)</span>
                                     <span>Musica di Baligh Hamdi</span>
                                 </div>
                             </label>
@@ -108,9 +108,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" checked>
                                 <div class="info">
-                                    <b>Taht el-Chibbak (Accordion Solo)</b>
+                                    <b>Taht el-Shibbak (Assolo di fisarmonica)</b>
                                     <span>Fatima Serhan</span>
-                                    <span>Musica di ‘Aziz Outhman</span>
+                                    <span>Musica di ‘Aziz Uthman</span>
                                 </div>
                             </label>
                         </div>
@@ -123,7 +123,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Min Hobbi Fik Ya Gari (1958)</b>
                                     <span>Horeyya Hassan</span>
-                                    <span>Musica di Muhammad al-Mougi</span>
+                                    <span>Musica di Muhammad al-Mugi</span>
                                 </div>
                             </label>
                         </div>

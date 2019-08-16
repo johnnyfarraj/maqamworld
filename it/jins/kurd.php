@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Jins Kurd";
 $page_description = "Jins Kurd";
-$page_keywords = "musique arabe, maqam, instruments, jins kurd, iqa‘, iqaa, rythme, oud, qanun, nay, quart de ton, tarab";
+$page_keywords = "jins Kurd, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Jins Kurd</h1>
-                        <h3>Jins de base de la <a href="../maqam/f_kurd.php">Famiglia Maqam Kurd</a></h3>
+                        <h3>Il jins fondamentale della <a href="../maqam/f_kurd.php">Famiglia Maqam Kurd</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Jins</a>
                     <div class="clearfix"></div>
@@ -43,12 +43,12 @@ include($ROOT . 'inc/head.php');
                     <div class="notation" id="notation1">
                         <img src="/note/jins/kurd.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
                     </div>
 
                     <map name="notemap">
 					  <area shape="circle" coords="37,97,12" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
-					  <area shape="circle" coords="109,89,14" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="109,89,14" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
 					  <area shape="circle" coords="183,81,13" href="#" alt="Mi♭" class="playNote" data-frequency="308.25" data-parent="#notation1"><!--minor 2nd-->
 					  <area shape="circle" coords="261,73,13" href="#" alt="Fa♮" class="playNote" data-frequency="347.65" data-parent="#notation1">
 					  <area shape="circle" coords="339,65,14" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
@@ -56,7 +56,8 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="488,49,12" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 
 					</map>
-                    <p>Il Jins Kurd est un <em>jins</em> de 4 notes. Il est noté ici avec sa tonique sur Ré et son <em>ghammaz</em> sur Sol. Il Jins Kurd est le premier jins du <a href="../maqam/kurd.php">Maqam Kurd</a>.
+                    
+                    <p>Il jins Kurd è un <em>jins</em> di 4 note. E' scritto qui considerando il Re come sua tonica e il Sol come suo <em>ghammaz</em>. Il jins Kurd è il primo <em>jins</em> del <a href="../maqam/kurd.php">Maqam Kurd</a>.
                     </p>
 
                     <div class="player-area">
@@ -71,8 +72,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Awwidti Eini (1957)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musica di Riyad al-Soumbati</span>
+                                    <span>Umm Kulthum (Egitto)</span>
+                                    <span>Musica di Riyad al-Sunbati</span>
                                 </div>
                             </label>
                         </div>
@@ -84,8 +85,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Hayyarti Albi Ma‘ak (1961)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musica di Riyad al-Soumbati</span>
+                                    <span>Umm Kulthum (Egitto)</span>
+                                    <span>Musica di Riyad al-Sunbati</span>
                                 </div>
                             </label>
                         </div>
@@ -96,8 +97,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Hibbi Zurni Ma Tayassar</b>
-                                    <span>Karem Mahmoud (Égypte)</span>
+                                    <b>Muwashah Hibbi Zurni Ma Tayassar</b>
+                                    <span>Karem Mahmud (Egitto)</span>
                                     <span>Musica di Darwich al-Hariri</span>
                                 </div>
                             </label>
@@ -110,7 +111,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Inta ‘Omri (1964)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
+                                    <span>Umm Kulthum (Egitto)</span>
                                     <span>Musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -122,8 +123,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mashghoul ‘Aleik</b>
-                                    <span>Interprétation et Musica di Karem Mahmoud</span>
+                                    <b>Mashghul ‘Aleik</b>
+                                    <span>Voce e musica di Karem Mahmud</span>
                                 </div>
                             </label>
                         </div>
@@ -134,8 +135,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ya Bahjet el-Rouh</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <b>Muwashah Ya Bahjet el-Ruh</b>
+                                    <span>Sabah Fakhri (Siria)</span>
                                 </div>
                             </label>
                         </div>
@@ -147,8 +148,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Zalimni (1951)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musica di Riyad al-Soumbati (Égypte)</span>
+                                    <span>Umm Kulthum (Egitto)</span>
+                                    <span>Musica di Riyad al-Sunbati (Egitto)</span>
                                 </div>
                             </label>
                         </div>

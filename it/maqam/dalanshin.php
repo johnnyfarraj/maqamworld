@@ -44,19 +44,19 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/dalanshin.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
                     </div>
 
                     <map name="notemap">
 					  <area shape="circle" coords="84,58,13" href="#" alt="Mi♮" class="playNote" data-frequency="660" data-parent="#notation1"><!--Hijaz 3-->
-					  <area shape="circle" coords="161,66,13" href="#" alt="Ré♭" class="playNote" data-frequency="560  " data-parent="#notation1"><!--Hijaz 2-->
+					  <area shape="circle" coords="161,66,13" href="#" alt="Re♭" class="playNote" data-frequency="560  " data-parent="#notation1"><!--Hijaz 2-->
 					  <area shape="circle" coords="240,74,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1"><!-- Hijaz Tonic-->
 					  <area shape="circle" coords="317,83,13" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!-- var -->
 					  <area shape="circle" coords="393,90,13" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
 					  <area shape="circle" coords="471,99,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
 					  <area shape="circle" coords="548,107,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
 					  <area shape="circle" coords="626,115,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
-                       <area shape="circle" coords="704,123,13" href="#" alt="Ré♮" class="playNote" data-frequency="293.33" data-parent="#notation1">
+                       <area shape="circle" coords="704,123,13" href="#" alt="Re♮" class="playNote" data-frequency="293.33" data-parent="#notation1">
 					  <area shape="circle" coords="780,133,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
                        <!-- Links -->
                       <area shape="rect" coords="132,5,362,34" href="../jins/saba_dalanshin.php" class="mapLink" data-parent="#notation1">
@@ -83,8 +83,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Qadd Ya Mal el-Sham</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
-                                    <span>Musica di Ahmad Abou Khalil al-Qabbani</span>
+                                    <span>Sabah Fakhri (Siria)</span>
+                                    <span>Musica di Ahmad Abu Khalil al-Qabbani</span>
                                 </div>
                             </label>
                         </div>
@@ -95,9 +95,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Mala el-Kasat</b>
-                                    <span>Muhammad Khayri (Syrie)</span>
-                                    <span>Musica di Muhammad Outhman</span>
+                                    <b>Muwashah Mala el-Kasat</b>
+                                    <span>Muhammad Khayri (Siria)</span>
+                                    <span>Musica di Muhammad Uthman</span>
                                 </div>
                             </label>
                         </div>
@@ -109,7 +109,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Koull Illi Habb Itnasaf (1931)</b>
-                                    <span>Interprétation et Musica di Muhammad Abdel Wahab</span>
+                                    <span>Voce e musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -121,8 +121,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr ‘Ishna wi Shoufna</b>
-                                    <span>Saleh Abdel Hayy (Égypte)</span>
-                                    <span>Musica di Muhammad Outhman</span>
+                                    <span>Saleh Abdel Hayy (Egitto)</span>
+                                    <span>Musica di Muhammad Uthman</span>
                                 </div>
                             </label>
                         </div>

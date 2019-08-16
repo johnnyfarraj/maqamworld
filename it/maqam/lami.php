@@ -43,17 +43,17 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/lami.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
                     </div>
                      <map name="notemap">
-					  <area shape="circle" coords="53,130,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="53,130,13" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
 					  <area shape="circle" coords="130,122,13" href="#" alt="Mi♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
 					  <area shape="circle" coords="208,113,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
 					  <area shape="circle" coords="286,105,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
 					  <area shape="circle" coords="364,97,13" href="#" alt="La♭" class="playNote" data-frequency="420" data-parent="#notation1">
 					  <area shape="circle" coords="440,88,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					  <area shape="circle" coords="517,80,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
-					  <area shape="circle" coords="594,72,13" href="#" alt="Ré" class="playNote" data-frequency="586.66" data-parent="#notation1">
+					  <area shape="circle" coords="594,72,13" href="#" alt="Re" class="playNote" data-frequency="586.66" data-parent="#notation1">
                       <!-- Links -->
                       <area shape="rect" coords="100,9,220,37" href="../jins/lami.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="340,140,460,167" href="../jins/kurd.php" class="mapLink" data-parent="#notation1">
@@ -89,7 +89,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Tislam Idein Elli-shtara (c. 1960)</b>
                                     <span>Interprétation de Muhammad Abdel Mouttaleb</span>
-                                    <span>Musica di Mahmoud Kamel (Égypte)</span>
+                                    <span>Musica di Mahmud Kamel (Egitto)</span>
                                 </div>
                             </label>
                         </div>
@@ -101,7 +101,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Albi Bi Oulli Kalam (c.1954)</b>
-                                    <span>Interprétation et Musica di Muhammad Abdel Wahab</span>
+                                    <span>Voce e musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -113,7 +113,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ahmad Ya Habibi</b>
-                                    <span>Interprétation et Musica di Sabri al-Moudallal</span>
+                                    <span>Voce e musica di Sabri al-Mudallal</span>
                                     <span><img src="/img/cd.png"> Songs from Aleppo</span>
                                 </div>
                             </label>
@@ -126,7 +126,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Rl-Najmat Sarou Yis'alou (1964)</b>
-                                    <span>Wadih al-Safi (Liban)</span>
+                                    <span>Wadih al-Safi (Lebano)</span>
                                     <span>Musica di Muhammad Mouhsin</span>
                                 </div>
                             </label>

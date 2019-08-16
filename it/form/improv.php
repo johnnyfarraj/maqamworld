@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
                              --><div class="info">
                                     <b>Dawr Kadni el-Hawa</b>
                                     <span>
-                                        L'enregistrement de Marie Joubran du <a href="vocal_comp.php#dawr">Dawr</a> <strong>Kadni el-Hawa</strong> (musique de Muhammad Outhman) commence avec un taqsim de <a href="../instr/qanun.php">qanun</a> suivi de layali en <a href="../maqam/nahawand.php">Maqam Nahawand</a>.
+                                        L'enregistrement de Marie Joubran du <a href="vocal_comp.php#dawr">Dawr</a> <strong>Kadni el-Hawa</strong> (musique de Muhammad Uthman) commence avec un taqsim de <a href="../instr/qanun.php">qanun</a> suivi de layali en <a href="../maqam/nahawand.php">Maqam Nahawand</a>.
                                     </span>
                                 </div>
                             </label>
@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                              --><div class="info">
                                     <b>Taqtuqa Leh Ya Banafseg</b>
                                     <span>
-                                        L'enregistrement de Saleh Abdel Hayy de la <a href="vocal_comp.php#taqtuqa">Taqtuqa</a> <strong>Leh Ya Banafseg</strong> (musique de Riyad al-Soumbati) est une longue <a href="vocal_comp.php#wasla">Wasla</a> qui commence avec un <a href="#taqsim">Taqsim</a> de <a href="../instr/oud.php">oud</a>, un <a href="ottoman.php/samai">Sama‘i</a>, un taqsim de <a href="../instr/qanun.php">qanun</a>, une répétition du <em>taslim</em> du Sama‘i et des <em>Layali</em>, tous en <a href="../maqam/rast.php">Maqam Rast</a>.
+                                        L'enregistrement de Saleh Abdel Hayy de la <a href="vocal_comp.php#taqtuqa">Taqtuqa</a> <strong>Leh Ya Banafseg</strong> (musique de Riyad al-Sunbati) est une longue <a href="vocal_comp.php#wasla">Wasla</a> qui commence avec un <a href="#taqsim">Taqsim</a> de <a href="../instr/oud.php">oud</a>, un <a href="ottoman.php/samai">Sama‘i</a>, un taqsim de <a href="../instr/qanun.php">qanun</a>, une répétition du <em>taslim</em> du Sama‘i et des <em>Layali</em>, tous en <a href="../maqam/rast.php">Maqam Rast</a>.
                                 </span>
                                 </div>
                             </label>
@@ -114,7 +114,7 @@ include($ROOT . 'inc/head.php');
                         Il Mawwal (Mawawil au pluriel) est une improvisation vocale solo sur un poème en arabe populaire. Le poème peut être, par exemple, en dialecte égyptien, libanais, syrien ou iraquien. Comme les autres formes vocales improvisées, le mawwal est un véhicule pour montrer sa connaissance du <em>sayr</em> du <a href="../maqam.php">maqam</a> et pour le chanteur de monter la qualité de sa voix et sa technique ornementale.
                     </p>
                     <p>
-                        Un genre important de mawwal est le "Mawwal Baghdadien" aussi appelé <em>Sab‘awi</em> (du mot <em>sab‘a</em>, sept) parce qu'il comprend sept lignes qui riment dans le patrons suivant: A, A, A, B, B, B, A. Il Mawwal Baghdadi est très populaire dans le répertoire aleppin aux côtés des <a href="vocal_comp.php#muwashah">Mouachahat</a> et des <a href="vocal_comp.php#qadd">Qoudoud</a>.
+                        Un genre important de mawwal est le "Mawwal Baghdadien" aussi appelé <em>Sab‘awi</em> (du mot <em>sab‘a</em>, sept) parce qu'il comprend sept lignes qui riment dans le patrons suivant: A, A, A, B, B, B, A. Il Mawwal Baghdadi est très populaire dans le répertoire aleppin aux côtés des <a href="vocal_comp.php#muwashah">Muwashahat</a> et des <a href="vocal_comp.php#qadd">Qoudoud</a>.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=zX7gJKlDDyY">
@@ -249,7 +249,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>‘Amer ‘Ammouri</b>
-                                    <span>Taqsim au <a href="../instr/oud.php">oud</a> par 'Amer 'Ammuri (Syrie) en <a href="../maqam/huzam.php">Maqam Huzam</a> pendant un concert de Sabah Fakhri.
+                                    <span>Taqsim au <a href="../instr/oud.php">oud</a> par 'Amer 'Ammuri (Siria) en <a href="../maqam/huzam.php">Maqam Huzam</a> pendant un concert de Sabah Fakhri.
                                     </span>
                                 </div>
                             </label>

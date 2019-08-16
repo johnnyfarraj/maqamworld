@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Jins Rast Alto";
 $page_description = "Jins Rast Alto";
-$page_keywords = "musique arabe, maqam, instruments, jins haut rast, iqa‘, iqaa, rythme, oud, qanun, nay, quart de ton, tarab";
+$page_keywords = "Jins Rast Alto, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins Rast Alto <span class="badge badge-custom">Nouveau</span></h1>
-                        <h3>Une version de 4 notes du <a href="rast.php">Jins Rast</a> avec la tonique en haut</h3>
+                        <h1>Jins Rast Alto <span class="badge badge-custom">Nuovo</span></h1>
+                        <h3>Una versione a 4 note del <a href="rast.php">Jins Rast</a> con la tonica il alto.</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Jins</a>
                     <div class="clearfix"></div>
@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                      <div class="notation" id="notation1">
                         <img src="/note/jins/upper_rast.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
                     </div>
 
                     <map name="notemap">
@@ -52,11 +52,11 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="219,67,13" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
 					  <area shape="circle" coords="297,58,13" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!--var-->
 					  <area shape="circle" coords="378,50,14" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1"><!--tonic-->
-					  <area shape="circle" coords="448,42,12" href="#" alt="Ré" class="playNote" data-frequency="586.66" data-parent="#notation1">
+					  <area shape="circle" coords="448,42,12" href="#" alt="Re" class="playNote" data-frequency="586.66" data-parent="#notation1">
 					 
 					  </map>
 
-                    <p>Il Jins Rast Alto est une version de 4 notes du <a href="rast.php">Jins Rast</a> qui a la particularité (partagée avec le <a href="upper_ajam.php">Jins ‘Ajam Alto</a>) d'avoir comme tonique la dernière note de la gamme au lieu de la première. Il est noté ici avec sa tonique sur Do et son <em>ghammaz</em> sur Sol. Il Jins Rast Alto est le deuxième jins du <a href="../maqam/rast.php">Maqam Rast</a> et apparaît aussi sur le 5<sup>ième</sup> degré du <a href="../maqam/jiharkah.php">Maqam Jiharkah</a>.
+                    <p>Il Jins Rast Alto è una versione a 4 note del <a href="rast.php">Jins Rast</a>, con la caratteristica inusuale (condivisa con il <a href="upper_ajam.php">Jins ‘Ajam Alto</a>) della tonica come ultimo grado della scala invece che come primo. E' scritto qui considerando il Sol come suo <em>ghammaz</em> e il Do come sua tonica. Il Jins Rast Alto è il secondo jins del <a href="../maqam/rast.php">Maqam Rast</a> e si presenta anche come quinto grado del <a href="../maqam/jiharkah.php">Maqam Jiharkah</a>.
                     </p>
 
                     <div class="player-area">
@@ -70,8 +70,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Ya Shadi al-Alhan</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <b>Muwashah Ya Shadi al-Alhan</b>
+                                    <span>Sabah Fakhri (Siria)</span>
                                     <span>Musica di Sayyed Darwich</span>
                                 </div>
                             </label>
@@ -86,7 +86,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Hann el-Hadid (1974)</b>
                                     <span>Joseph Saqr</span>
                                     <span>Musica di Ziad Rahbani</span>
-                                    <span>De la pièce de théatre <strong>Nazl el-Surur</strong></span>
+                                    <span>Dal musical <strong>Nazl el-Surur</strong></span>
                                 </div>
                             </label>
                         </div>
@@ -97,9 +97,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Arouh Li Mine (1958)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musica di Riyad al-Soumbati</span>
+                                    <b>Aruh Li Min (1958)</b>
+                                    <span>Umm Kulthum (Egitto)</span>
+                                    <span>Musica di Riyad al-Sunbati</span>
                                 </div>
                             </label>
                         </div>
@@ -111,8 +111,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Asamina</b>
-                                    <span>Fairouz (Liban)</span>
-                                    <span>Musica di Philémon Wéhbé</span>
+                                    <span>Fairouz (Lebano)</span>
+                                    <span>Musica di Philemon Wehbe</span>
                                 </div>
                             </label>
                         </div>
@@ -123,9 +123,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Atani Zamani</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
-                                    <span>Musica di Muhammad Outhman</span>
+                                    <b>Muwashah Atani Zamani</b>
+                                    <span>Sabah Fakhri (Siria)</span>
+                                    <span>Musica di Muhammad Uthman</span>
                                 </div>
                             </label>
                         </div>
@@ -137,8 +137,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Hayrana Leh (1930)</b>
-                                    <span>Leila Mourad (Égypte)</span>
-                                    <span>Musica di Daoud Housni</span>
+                                    <span>Leila Murad (Egitto)</span>
+                                    <span>Musica di Dawud Husni</span>
                                 </div>
                             </label>
                         </div>
@@ -150,7 +150,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Min ‘Azzibak (1931)</b>
-                                    <span>Interprétation et Musica di Muhammad Abdel Wahab</span>
+                                    <span>Voce e musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>

@@ -55,19 +55,19 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/hijazkar.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
                     </div>
 
                     <map name="notemap">
                       <area shape="circle" coords="78,63,13" href="#" alt="Mi♮" class="playNote" data-frequency="656" data-parent="#notation1"><!-- Hijaz 3 tune down from 660 -->
-                      <area shape="circle" coords="155,71,13" href="#" alt="Ré♭" class="playNote" data-frequency="554" data-parent="#notation1"><!-- Hijaz 2 tuned up from 548 -->
+                      <area shape="circle" coords="155,71,13" href="#" alt="Re♭" class="playNote" data-frequency="554" data-parent="#notation1"><!-- Hijaz 2 tuned up from 548 -->
                       <area shape="circle" coords="233,79,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1"><!-- Hijazkar tonic -->
                       <area shape="circle" coords="309,87,13" href="#" alt="Si♮" class="playNote" data-frequency="493.33" data-parent="#notation1"><!-- vartiable -->
                       <area shape="circle" coords="386,95,13" href="#" alt="La♭" class="playNote" data-frequency="420" data-parent="#notation1">
                       <area shape="circle" coords="465,103,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
                       <area shape="circle" coords="542,111,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
                       <area shape="circle" coords="618,120,13" href="#" alt="Mi♮" class="playNote" data-frequency="328" data-parent="#notation1"><!-- Hijaz 3 tune down from 330 -->
-                      <area shape="circle" coords="696,128,13" href="#" alt="Ré♭" class="playNote" data-frequency="277" data-parent="#notation1"><!-- Hijaz 2 tune up from 274 -->
+                      <area shape="circle" coords="696,128,13" href="#" alt="Re♭" class="playNote" data-frequency="277" data-parent="#notation1"><!-- Hijaz 2 tune up from 274 -->
                       <area shape="circle" coords="774,136,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
                        <!-- Links -->
                       <area shape="rect" coords="165,3,320,30" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Ana Fi-ntizarak (1943)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
+                                    <span>Umm Kulthum (Egitto)</span>
                                     <span>Musica di Zakariya Ahmad</span>
                                 </div>
                             </label>
@@ -112,8 +112,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr Yama-nta Wahishni</b>
-                                    <span>Ensemble Abdel Halim Noueirah (Égypte)</span>
-                                    <span>Musica di Muhammad Outhman</span>
+                                    <span>Ensemble Abdel Halim Noueirah (Egitto)</span>
+                                    <span>Musica di Muhammad Uthman</span>
                                 </div>
                             </label>
                         </div>
@@ -125,7 +125,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Nas Ana Moutti Fi Hobbi</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <span>Sabah Fakhri (Siria)</span>
                                     <span>Musica di Sayyed Darwich</span>
                                 </div>
                             </label>
@@ -137,8 +137,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Afdihi Dhabiyan Ibtasam</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <b>Muwashah Afdihi Dhabiyan Ibtasam</b>
+                                    <span>Sabah Fakhri (Siria)</span>
                                     <span><img src="/img/cd.png"> Au Theatre Des Amandiers</span>
                                 </div>
                             </label>
@@ -150,8 +150,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ya ‘Ouyounan Ramiyat</b>
-                                    <span>Sabri al-Moudallal (Syrie)</span>
+                                    <b>Muwashah Ya ‘Ouyounan Ramiyat</b>
+                                    <span>Sabri al-Mudallal (Siria)</span>
                                     <span>Musica di Omar al-Batch</span>
                                 </div>
                             </label>
@@ -164,7 +164,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Maria</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <span>Sabah Fakhri (Siria)</span>
                                     <span>Musica di Sayyed Darwich</span>
                                 </div>
                             </label>
@@ -176,8 +176,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim au Qanoun en Maqam Hijaz</b>
-                                    <span>Ensemble Sabri al-Moudallal</span>
+                                    <b>Taqsim au Qanun en Maqam Hijaz</b>
+                                    <span>Ensemble Sabri al-Mudallal</span>
                                     <span><img src="/img/cd.png"> Chansons d'Alep</span>
                                 </div>
                             </label>
@@ -189,7 +189,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Doulab Hijazkar</b>
+                                    <b>Dulab Hijazkar</b>
                                     <span>Ensemble Sabah Fakhri</span>
                                     <span><img src="/img/cd.png"> Nagham al-Ams Vol. 04 Hijazkar</span>
                                 </div>
@@ -202,10 +202,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Laha Badrou-t-Timm</b>
+                                    <b>Muwashah Laha Badrou-t-Timm</b>
                                     <span>(Maqam Suzidil)</span>
-                                    <span>Ensemble de la Musique Arabe (Égypte)</span>
-                                    <span>Musica di Mahmoud Soubh</span>
+                                    <span>Ensemble de la Musique Arabe (Egitto)</span>
+                                    <span>Musica di Mahmud Soubh</span>
                                 </div>
                             </label>
                         </div>
@@ -218,7 +218,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ba‘attilak Ya Habib el-Rouh</b>
                                     <span>(Maqam Shadd Araban)</span>
-                                    <span>Fairouz (Liban)</span>
+                                    <span>Fairouz (Lebano)</span>
                                     <span>Musica di Ziad Rahbani</span>
                                 </div>
                             </label>

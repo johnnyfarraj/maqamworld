@@ -49,7 +49,7 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/bendir.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Béndir</a>
                     </div>
 
-                    <p> 'Daf' est un mot générique pour le tambour sur cadre en arabe, et plusieurs variétés locales peuvent avoir d'autres noms, comme le <em>Mazhar</em> en Syrie et en Égypte, ou le <em>Béndir</em> en Afrique du Nord.
+                    <p> 'Daf' est un mot générique pour le tambour sur cadre en arabe, et plusieurs variétés locales peuvent avoir d'autres noms, comme le <em>Mazhar</em> en Syrie et en Egitto, ou le <em>Béndir</em> en Afrique du Nord.
                     </p>
 
                     <p> Il Daf a un cadre circulaire en bois qui a un diamètre de 30 à 60 centimètres (plus il est large, plus les fréquences sont basses). Le cadre peut avoir 10 centimètres de profondeur pour les petits diamètres et 5 à 7 centimètres de profondeur pour les plus grands diamètres. La peau est généralement celle d'une chèvre, d'un cerf ou autre peau naturelle, et est collée de façon permanente au cadre. Les Dafs modernes ont une peau de plastique et sont accordables.

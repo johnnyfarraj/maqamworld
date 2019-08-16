@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Jins Saba Zamzam";
 $page_description = "Jins Saba Zamzam";
-$page_keywords = "musique arabe, maqam, instruments, jins Saba Zamzam, iqa‘, iqaa, rythme, oud, qanun, nay, quart de ton, tarab";
+$page_keywords = "Jins Saba Zamzam, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Jins Saba Zamzam</h1>
-                        <h3>(de taille ambiguë)</h3>
+                        <h3>(dimensione ambigua)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Jins</a>
                     <div class="clearfix"></div>
@@ -43,12 +43,12 @@ include($ROOT . 'inc/head.php');
                      <div class="notation" id="notation1">
                         <img src="/note/jins/saba_zamzam.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
                     </div>
 
                     <map name="notemap">
 					  <area shape="circle" coords="39,100,12" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
-					  <area shape="circle" coords="120,92,14" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="120,92,14" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
 					  <area shape="circle" coords="196,84,13" href="#" alt="Mi♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
 					  <area shape="circle" coords="274,76,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1"><!-- Hijaz tonic -->
 					  <area shape="circle" coords="349,68,13" href="#" alt="Sol♭" class="playNote" data-frequency="368" data-parent="#notation1"><!-- Hijaz 2nd tuned up from 365.32 -->
@@ -56,7 +56,8 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="504,52,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 
 					</map>
-                    <p>Il Jins Saba Zamzam (comme le <a href="saba.php">Jins Saba</a>) a une taille ambiguë. Il est noté ici avec sa tonique sur Ré et deux possibilités de <em>ghammaz</em> : le 3<sup>ième</sup> degré (noté sur Fa) et le 6<sup>ième</sup> degré (noté sur Si&#x266d;). Il Jins Saba Zamzam est le premier jins du <a href="../maqam/saba_zamzam.php">Maqam Saba Zamzam</a>.</p>
+                    
+                    <p>Il Jins Saba Zamzam (come il <a href="saba.php">Jins Saba</a>) ha una dimensione ambigua. E' scritto qui considerando il Re come sua tonica e con due possibili <em>ghammaz</em>: il terzo grado (in questo caso Fa) o il sesto grado (in questo caso il Si&#x266d;). Il Jins Saba Zamzam è il primo jins del <a href="../maqam/saba_zamzam.php">Maqam Saba Zamzam</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -70,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>‘Ala Hisb Widad Albi (1953)</b>
-                                    <span>Abdel Halim Hafez (Égypte)</span>
+                                    <span>Abdel Halim Hafez (Egitto)</span>
                                     <span>Musica di Baligh Hamdi</span>
                                 </div>
                             </label>
@@ -83,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Gana el-Hawa (1969)</b>
-                                    <span>Abdel Halim Hafez (Égypte)</span>
+                                    <span>Abdel Halim Hafez (Egitto)</span>
                                     <span>Musica di Baligh Hamdi</span>
                                 </div>
                             </label>
@@ -96,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Zayy el-Hawa (1970)</b>
-                                    <span>Abdel Halim Hafez (Égypte)</span>
+                                    <span>Abdel Halim Hafez (Egitto)</span>
                                     <span>Musica di Baligh Hamdi</span>
                                 </div>
                             </label>
@@ -109,7 +110,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Nibtidi Mnein el-Hikaya (1975)</b>
-                                    <span>Abdel Halim Hafez (Égypte)</span>
+                                    <span>Abdel Halim Hafez (Egitto)</span>
                                     <span>Musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -121,7 +122,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Bint el-Soultan</b>
+                                    <b>Ya Bint el-Sultan</b>
                                     <span>Interprétation de Ahmed Adaweya</span>
                                 </div>
                             </label>

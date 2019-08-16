@@ -38,12 +38,12 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/saxophone.jpg" alt="Il Sassofono">
-                        <span>Le pionnier du Saxophone Arabe Samir Sourour (Égypte)</span>
+                        <span>Le pionnier du Saxophone Arabe Samir Sourour (Egitto)</span>
                     </div>
 
                     <p> Il Sassofono est un instrument rare dans la musique arabe malgré le fait qu'il soit en mesure de produire une bonne intonation pour les <a href="../maqam.php">maqam</a>. Il n'a jamais gagné la popularité de <a href="accordion.php">l'accordéon</a>, et n'a été utilisé que pour ajouter un nouveau son aux arrangements orchestraux arabes.
                     </p>
-                    <p> Le pionnier principal du saxophone arabe est Samir Sourour (Égypte) qui avait une expérience de musicien de fanfare militaire. Surour a joué sur quelques chansons de Oum Koulthoum et a ensuite enregistré une série d'albums solo sous le nom de <strong>Achek el-Sax</strong> (L'amoureux du Saxophone).
+                    <p> Le pionnier principal du saxophone arabe est Samir Sourour (Egitto) qui avait une expérience de musicien de fanfare militaire. Surour a joué sur quelques chansons de Oum Koulthoum et a ensuite enregistré une série d'albums solo sous le nom de <strong>Achek el-Sax</strong> (L'amoureux du Saxophone).
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=n_2qIVjgboM">

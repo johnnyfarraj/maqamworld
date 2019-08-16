@@ -47,12 +47,12 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/nahawand.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
                     </div>
 
                     <map name="notemap">
 					  <area shape="circle" coords="67,137,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
-					  <area shape="circle" coords="144,129,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="144,129,13" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
 					  <area shape="circle" coords="221,121,13" href="#" alt="Mi♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
 					  <area shape="circle" coords="298,113,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
 					  <area shape="circle" coords="376,105,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Alf Leila w-Leila (1969)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
+                                    <span>Umm Kulthum (Egitto)</span>
                                     <span>Musica di Baligh Hamdi</span>
                                 </div>
                             </label>
@@ -123,8 +123,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Hat Isqiniha</b>
-                                    <span>Hassan al-Haffar (Syrie)</span>
+                                    <b>Muwashah Hat Isqiniha</b>
+                                    <span>Hassan al-Haffar (Siria)</span>
                                     <span>Musica di Yehya al-Saoudi</span>
                                     <span><img src="/img/cd.png"> The Aleppo Suites</span>
                                 </div>
@@ -137,9 +137,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ramani Bi Sahmi Hawahu</b>
-                                    <span>Khaled al-Hafez (Syrie)</span>
-                                    <span>Musica di Daoud Housni</span>
+                                    <b>Muwashah Ramani Bi Sahmi Hawahu</b>
+                                    <span>Khaled al-Hafez (Siria)</span>
+                                    <span>Musica di Dawud Housni</span>
                                 </div>
                             </label>
                         </div>
@@ -164,7 +164,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Nahawand</b>
-                                    <span>Ensemble Abdel Halim Noueirah (Égypte)</span>
+                                    <span>Ensemble Abdel Halim Noueirah (Egitto)</span>
                                     <span>Musica di Safar Ali</span>
                                 </div>
                             </label>
@@ -178,7 +178,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Longa Farahfaza</b>
                                     <span>Ensemble Simon Shaheen</span>
-                                    <span>Musica di Riyad al-Soumbati</span>
+                                    <span>Musica di Riyad al-Sunbati</span>
                                 </div>
                             </label>
                         </div>
@@ -215,8 +215,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Doulab Nahawand</b>
-                                    <span>Cheikh Abou el-Éla Muhammad (Égypte)</span>
+                                    <b>Dulab Nahawand</b>
+                                    <span>Sheikh Abu el-Éla Muhammad (Egitto)</span>
                                 </div>
                             </label>
                         </div>

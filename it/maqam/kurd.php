@@ -44,17 +44,17 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/kurd.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
                     </div>
                      <map name="notemap">
-					  <area shape="circle" coords="63,129,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="63,129,13" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
 					  <area shape="circle" coords="141,121,13" href="#" alt="Mi♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
 					  <area shape="circle" coords="218,112,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
 					  <area shape="circle" coords="296,104,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
 					  <area shape="circle" coords="373,96,13" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
 					  <area shape="circle" coords="450,88,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					  <area shape="circle" coords="528,80,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
-					  <area shape="circle" coords="605,72,13" href="#" alt="Ré" class="playNote" data-frequency="586.66" data-parent="#notation1">
+					  <area shape="circle" coords="605,72,13" href="#" alt="Re" class="playNote" data-frequency="586.66" data-parent="#notation1">
                        <!-- Links -->
                       <area shape="rect" coords="112,8,230,35" href="../jins/kurd.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="364,7,545,35" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
@@ -77,8 +77,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Awwedti Ayni (1958)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musica di Riyad al-Soumbati</span>
+                                    <span>Umm Kulthum (Egitto)</span>
+                                    <span>Musica di Riyad al-Sunbati</span>
                                 </div>
                             </label>
                         </div>
@@ -90,8 +90,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Zalimni (1951)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musica di Riyad al-Soumbati</span>
+                                    <span>Umm Kulthum (Egitto)</span>
+                                    <span>Musica di Riyad al-Sunbati</span>
                                 </div>
                             </label>
                         </div>
@@ -102,8 +102,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Doulab Kurd</b>
-                                    <span>Ensemble Sabah Fakhri (Syrie)</span>
+                                    <b>Dulab Kurd</b>
+                                    <span>Ensemble Sabah Fakhri (Siria)</span>
                                     <span><img src="/img/cd.png"> Au Palais Des Congrès (1995)</span>
                                 </div>
                             </label>
@@ -115,8 +115,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Yamourrou Oujouban</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <b>Muwashah Yamourrou Oujouban</b>
+                                    <span>Sabah Fakhri (Siria)</span>
                                     <span>Musica di Omar al-Batch</span>
                                     <span><img src="/img/cd.png"> Au Palais Des Congrès (1995)</span>
                                 </div>
@@ -129,8 +129,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ya Bahjet el-Rouh</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <b>Muwashah Ya Bahjet el-Rouh</b>
+                                    <span>Sabah Fakhri (Siria)</span>
                                     <span>Musica di Sayyed Darwich</span>
                                     <span><img src="/img/cd.png"> Au Palais Des Congrès (1995)</span>
                                 </div>
@@ -144,7 +144,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mashghoul ‘Aleik</b>
-                                    <span>Karem Mahmoud (Égypte)</span>
+                                    <span>Karem Mahmud (Egitto)</span>
                                     <span>Musica di Ahmad Sidqi</span>
                                 </div>
                             </label>
@@ -157,7 +157,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sanatein</b>
-                                    <span>Leila Mourad (Égypte)</span>
+                                    <span>Leila Murad (Egitto)</span>
                                     <span>Musica di Raouf Dhihni</span>
                                 </div>
                             </label>
@@ -170,7 +170,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Kurd</b>
-                                    <span>Abdou Dagher (Égypte)</span>
+                                    <span>Abdo Dagher (Egitto)</span>
                                 </div>
                             </label>
                         </div>
@@ -195,7 +195,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr ‘Ishiqti Rouhak (1930)</b>
-                                    <span>Interprétation et Musica di Muhammad Abdel Wahab</span>
+                                    <span>Voce e musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>

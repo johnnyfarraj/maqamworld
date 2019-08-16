@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sama‘i Bayati - Ibrahim al-‘Aryan</b>
-                                    <span>Sama‘i en <a href="../maqam/bayati.php">Maqam Bayati</a> de Ibrahim al-'Aryan (Égypte), enregistré par l'Orchestre de la Radio Tunisienne.</span>
+                                    <span>Sama‘i en <a href="../maqam/bayati.php">Maqam Bayati</a> de Ibrahim al-'Aryan (Egitto), enregistré par l'Orchestre de la Radio Tunisienne.</span>
                                 </div>
                             </label>
                         </div>
@@ -102,9 +102,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Sama‘i Kurd - Abdou Dagher</b>
+                                    <b>Sama‘i Kurd - Abdo Dagher</b>
                                     <span></span>
-                                    <span>Sama‘i in <a href="../maqam/kurd.php">Maqam Kurd</a> by Abdou Dagher(Égypte), which features a long <a href="instr_comp.php#muqaddima">muqaddima</a> (composed introduction).</span>
+                                    <span>Sama‘i in <a href="../maqam/kurd.php">Maqam Kurd</a> by Abdo Dagher(Egitto), which features a long <a href="instr_comp.php#muqaddima">muqaddima</a> (composed introduction).</span>
                                 </div>
                             </label>
                         </div>
@@ -120,7 +120,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sama‘i Rast - George Michel</b>
-                                    <span>Sama‘i en <a href="../maqam/rast.php">Maqam Rast</a> de George Michel (Égypte), enregistré par l'Orchestre de la Radio Tunisienne.</span>
+                                    <span>Sama‘i en <a href="../maqam/rast.php">Maqam Rast</a> de George Michel (Egitto), enregistré par l'Orchestre de la Radio Tunisienne.</span>
                                 </div>
                             </label>
                         </div>
@@ -136,7 +136,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sama‘i Nawa Athar - Jamil ‘Uways</b>
-                                    <span>Sama‘i en <a href="../maqam/nawa_athar.php">Maqam Nawa Athar</a> de Jamil 'Uways (Syrie).</span>
+                                    <span>Sama‘i en <a href="../maqam/nawa_athar.php">Maqam Nawa Athar</a> de Jamil 'Uways (Siria).</span>
                                 </div>
                             </label>
                         </div>
@@ -165,8 +165,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Longa Farahfaza - Riyad al-Soumbati</b>
-                                    <span>Longa en <a href="../maqam/nahawand.php">Maqam Farahfaza</a> de Riyad al-Soumbati (Égypte), enregistré par l'Ensemble Simon Shaheen.</span>
+                                    <b>Longa Farahfaza - Riyad al-Sunbati</b>
+                                    <span>Longa en <a href="../maqam/nahawand.php">Maqam Farahfaza</a> de Riyad al-Sunbati (Egitto), enregistré par l'Ensemble Simon Shaheen.</span>
                                 </div>
                             </label>
                         </div>
@@ -181,8 +181,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Longa ‘Ajam - Abdou Dagher</b>
-                                    <span>Longa en <a href="../maqam/ajam.php">Maqam ‘Ajam</a> de Abdou Dagher(Égypte), enregistré par son ensemble.</span>
+                                    <b>Longa ‘Ajam - Abdo Dagher</b>
+                                    <span>Longa en <a href="../maqam/ajam.php">Maqam ‘Ajam</a> de Abdo Dagher(Egitto), enregistré par son ensemble.</span>
                                 </div>
                             </label>
                         </div>
@@ -198,7 +198,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Longa Nahawand - Dr. Alfred Gamil</b>
-                                    <span>Longa en <a href="../maqam/nahawand.php">Maqam Nahawand</a> du Dr. Alfred Gamil (Égypte), enregistré par son ensemble.</span>
+                                    <span>Longa en <a href="../maqam/nahawand.php">Maqam Nahawand</a> du Dr. Alfred Gamil (Egitto), enregistré par son ensemble.</span>
                                 </div>
                             </label>
                         </div>
@@ -243,7 +243,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Bachraf Kara Batak Sikah (1929)</b>
-                                    <span>Ancient Bachraf Kara Batak en <a href="../maqam/sikah.php">Maqam Sikah</a>, enregistré en 1929 par Sami al-Chawwa (Syrie) au <a href="../instr/violin.php">violon</a> et Muhammad al-Qasabgi (Égypte) au <a href="../instr/oud.php">oud</a>.</span>
+                                    <span>Ancient Bachraf Kara Batak en <a href="../maqam/sikah.php">Maqam Sikah</a>, enregistré en 1929 par Sami al-Chawwa (Siria) au <a href="../instr/violin.php">violon</a> et Muhammad al-Qasabgi (Egitto) au <a href="../instr/oud.php">oud</a>.</span>
                                 </div>
                             </label>
                         </div>

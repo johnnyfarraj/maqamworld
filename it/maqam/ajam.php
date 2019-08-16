@@ -43,12 +43,12 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/ajam.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
                     </div>
 
                     <map name="notemap">
                       <area shape="circle" coords="68,140,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
-                      <area shape="circle" coords="144,131,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+                      <area shape="circle" coords="144,131,13" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
                       <area shape="circle" coords="221,125,13" href="#" alt="Mi" class="playNote" data-frequency="328" data-parent="#notation1"><!-- Ajam 3rd, tuned down from 330 -->
                       <area shape="circle" coords="298,116,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
                       <area shape="circle" coords="377,108,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
@@ -80,7 +80,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Aghadan Alqak (1971)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
+                                    <span>Umm Kulthum (Egitto)</span>
                                     <span>Musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -93,7 +93,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Bahr Biyidhak</b>
-                                    <span>Interprétation et Musica di Cheikh Imam (Égypte)</span>
+                                    <span>Voce e musica di Sheikh Imam (Egitto)</span>
                                 </div>
                             </label>
                         </div>
@@ -105,7 +105,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Fi Youm Wi Leila (1978)</b>
-                                    <span>Warda (France/Algérie)</span>
+                                    <span>Warda (Francia/Algeria)</span>
                                     <span>Musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -117,7 +117,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Tal‘a Min Beit Abouha</b>
+                                    <b>Tal‘a Min Beit Abuha</b>
                                     <span>Nazem al-Ghazali (Irak)</span>
                                     <span>(Chanson traditionnelle de l'Irak)</span>
                                 </div>
@@ -131,7 +131,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Zourouni Koulli Sana Marra</b>
-                                    <span>Karem Mahmoud (Égypte)</span>
+                                    <span>Karem Mahmud (Egitto)</span>
                                     <span>Musica di Sayyed Darwich</span>
                                 </div>
                             </label>

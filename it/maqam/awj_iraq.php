@@ -43,18 +43,18 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/awj_iraq.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="54,69,13" href="#" alt="Ré" class="playNote" data-frequency="586.66" data-parent="#notation1">
+					  <area shape="circle" coords="54,69,13" href="#" alt="Re" class="playNote" data-frequency="586.66" data-parent="#notation1">
 					  <area shape="circle" coords="123,77,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
 					  <area shape="circle" coords="212,85,13" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!--var-->
 					  <area shape="circle" coords="289,93,13" href="#" alt="La♯" class="playNote" data-frequency="463.54" data-parent="#notation1"><!-- B4♭ -->
 					  <area shape="circle" coords="367,102,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
 					  <area shape="circle" coords="444,110,13" href="#" alt="Fa♯" class="playNote" data-frequency="372" data-parent="#notation1"><!-- Hijaz 3 down from 375 -->
 					  <area shape="circle" coords="521,117,13" href="#" alt="Mi♭" class="playNote" data-frequency="312" data-parent="#notation1"><!-- Hijaz 2 up from 308.25 -->
-					  <area shape="circle" coords="599,126,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="599,126,13" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
 					  <area shape="circle" coords="676,134,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
 					  <area shape="circle" coords="752,142,13" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="241" data-parent="#notation1"><!--variable-->
                        <!-- Links -->
@@ -81,8 +81,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Ya Samiri Da‘a Sabri</b>
-                                    <span>Interprétation de Muhammad Khayri (Syrie)</span>
+                                    <b>Muwashah Ya Samiri Da‘a Sabri</b>
+                                    <span>Interprétation de Muhammad Khayri (Siria)</span>
                                 </div>
                             </label>
                         </div>
@@ -93,8 +93,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Hayya Wa Nadim</b>
-                                    <span>Interprétation de Samer Nachar (Syrie)</span>
+                                    <b>Muwashah Hayya Wa Nadim</b>
+                                    <span>Interprétation de Samer Nachar (Siria)</span>
                                 </div>
                             </label>
                         </div>

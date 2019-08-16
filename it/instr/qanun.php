@@ -38,11 +38,11 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/qanun.jpg" alt="Il Qanun">
-                        <span>Qanoun syrien construit par Bachir Bij. &copy; MaqamWorld</span>
+                        <span>Qanun syrien construit par Bachir Bij. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qanun.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Qanoun</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qanun.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Qanun</a>
                     </div>
 
                     <p>Il Qanun est le descendant de l'ancienne harpe égyptienne.
@@ -79,8 +79,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Muhammad Abdou Saleh</b>
-                                    <span>Le joueur de qanun pour Oum Koulthoum pendant des décennies, Muhammad Abdou Saleh (Égypte)
+                                    <b>Muhammad Abdo Saleh</b>
+                                    <span>Le joueur de qanun pour Oum Koulthoum pendant des décennies, Muhammad Abdo Saleh (Egitto)
                                     dans un pot-pourri de ses chansons les plus connues.
                                     </span>
                                 </div>
@@ -97,8 +97,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Muhammad Abdou Saleh</b>
-                                    <span>Muhammad Abdou Saleh (Égypte) jouant un <a href="../form/improv.php#taqsim">Taqsim</a>
+                                    <b>Muhammad Abdo Saleh</b>
+                                    <span>Muhammad Abdo Saleh (Egitto) jouant un <a href="../form/improv.php#taqsim">Taqsim</a>
                                     en <a href="../maqam/saba.php">Maqam Saba</a></span>
                                 </div>
                             </label>
@@ -115,7 +115,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Abdel Fattah Mansi</b>
-                                    <span>Abdel Fattah Mansi (Égypte) joue la chanson <strong>Ana Fi-ntizarak</strong>
+                                    <span>Abdel Fattah Mansi (Egitto) joue la chanson <strong>Ana Fi-ntizarak</strong>
                                     de Oum Koulthoum (1943, musique de Zakaria Ahmad).
                                     </span>
                                 </div>
@@ -133,7 +133,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Abdel Halim Noueyra</b>
-                                    <span>Abdel Halim Noueyra (Égypte), le directeur musical de l'Ensemble de Musique Arabe,
+                                    <span>Abdel Halim Noueyra (Egitto), le directeur musical de l'Ensemble de Musique Arabe,
                                     joue un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/bayati.php">Maqam Bayati</a>.
                                     </span>
                                 </div>

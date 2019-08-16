@@ -92,7 +92,7 @@ include($ROOT . 'inc/head.php');
                                 </ul>
                             </div>
                             <div class="col-sm-3">
-                                <div class="page-list-header">(dimensione non definita)</div>
+                                <div class="page-list-header">(dimensione<br>indefinita)</div>
                                 <!-- Header Cell: "undefined size" -->
                                 <ul class="page-list">
                                     <li><a href="jins/hijazkar.php">Jins Hijazkar</a></li>

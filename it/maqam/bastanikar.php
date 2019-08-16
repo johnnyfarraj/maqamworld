@@ -44,20 +44,20 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/bastanikar.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
                     </div>
 
                     <map name="notemap">
 					  <area shape="circle" coords="85,147,13" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="243" data-parent="#notation1"><!-- variable -->
 					  <area shape="circle" coords="162,139,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
-					  <area shape="circle" coords="239,131,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="239,131,13" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
 					  <area shape="circle" coords="316,123,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable 318~324-->
 					  <area shape="circle" coords="394,114,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
 					  <area shape="circle" coords="470,106,13" href="#" alt="Sol♭" class="playNote" data-frequency="368" data-parent="#notation1"><!-- Hijaz 2- tuned up from 365.32 -->
 					  <area shape="circle" coords="548,98,13" href="#" alt="La♮" class="playNote" data-frequency="437" data-parent="#notation1"><!-- hijaz 3 tuned down from 440-->
 					  <area shape="circle" coords="625,90,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					  <area shape="circle" coords="702,82,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
-					  <area shape="circle" coords="781,74,13" href="#" alt="Ré♭" class="playNote" data-frequency="548" data-parent="#notation1">
+					  <area shape="circle" coords="781,74,13" href="#" alt="Re♭" class="playNote" data-frequency="548" data-parent="#notation1">
 					  <area shape="circle" coords="857,65,13" href="#" alt="Mi♮" class="playNote" data-frequency="660" data-parent="#notation1">
 					  <area shape="circle" coords="934,57,13" href="#" alt="Fa" class="playNote" data-frequency="695.3" data-parent="#notation1">
                        <!-- Links -->
@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Zalamu (1957)</b>
-                                    <span>Abdel Halim Hafez (Égypte)</span>
+                                    <span>Abdel Halim Hafez (Egitto)</span>
                                     <span>Musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ahl el-Hawa (1958)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
+                                    <span>Umm Kulthum (Egitto)</span>
                                     <span>Musica di Zakaria Ahmad</span>
                                 </div>
                             </label>
@@ -110,7 +110,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Inti Fakrani (1938)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
+                                    <span>Umm Kulthum (Egitto)</span>
                                     <span>Musica di Muhammad al-Qasabgi</span>
                                 </div>
                             </label>
@@ -122,9 +122,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Anshidi Ya Saba</b>
+                                    <b>Muwashah Anshidi Ya Saba</b>
                                     <span>Orchestre Palestinien National Arabe</span>
-                                    <span>Director Ramzi Abou Radwan (Palestine)</span>
+                                    <span>Director Ramzi Abu Radwan (Palestine)</span>
                                     <span>Musica di Yehiya al-Saoudi</span>‘
                                 </div>
                             </label>
@@ -136,8 +136,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Aqbala al-Soubhou Youghanni</b>
-                                    <span>Ensemble Ornina (Syrie)</span>
+                                    <b>Muwashah Aqbala al-Soubhou Youghanni</b>
+                                    <span>Ensemble Ornina (Siria)</span>
                                     <span>Chef d'orchestre Dr. Muhammad Qadri Dalal</span>
                                     <span>Musica di Bakri al-Kurdi</span>
                                 </div>
@@ -150,7 +150,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Nouzhatou al-Arwahi Badri</b>
+                                    <b>Muwashah Nouzhatou al-Arwahi Badri</b>
                                     <span>(interprète inconnu)</span>
                                 </div>
                             </label>
@@ -163,7 +163,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Taqsim Oud en Maqam Bastanikar</b>
-                                    <span>Muhammad Qadri Dalal (Syrie)</span>
+                                    <span>Muhammad Qadri Dalal (Siria)</span>
                                     <span><img src="/img/cd.png"> Maqams Insolites</span>
                                 </div>
                             </label>
@@ -175,8 +175,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim de Oud en <a href="../maqam/sikah.php">Maqam Sikah</a></b>
-                                    <span>Riyad al-Soumbati (Égypte)</span>
+                                    <b>Taqsim con l'Oud en <a href="../maqam/sikah.php">Maqam Sikah</a></b>
+                                    <span>Riyad al-Sunbati (Egitto)</span>
                                     <span><img src="/img/cd.png"> Taqaseem Oud</span>
                                 </div>
                             </label>

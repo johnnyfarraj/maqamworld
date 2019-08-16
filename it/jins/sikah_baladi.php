@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Jins Sikah Baladi";
 $page_description = "Jins Sikah Baladi";
-$page_keywords = "musique arabe, maqam, instruments, jins sikah baladi, iqa‘, iqaa, rythme, oud, qanun, nay, quart de ton, tarab";
+$page_keywords = "Jins Sikah Baladi, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
                     
                     <div class="heading jins text-center">
-                        <h1>Jins Sikah Baladi <span class="badge badge-custom">Nouveau</span></h1>
-                        <h3>(de taille indéfinie)</h3>
+                        <h1>Jins Sikah Baladi <span class="badge badge-custom">Nuovo</span></h1>
+                        <h3>(dimensione indefinita)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Jins</a>
                     <div class="clearfix"></div>
@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                      <div class="notation" id="notation1">
                         <img src="/note/jins/sikah_baladi.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
                     </div>
 
                     <map name="notemap">
@@ -55,7 +55,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="473,51,13" href="#" alt="Do↓" class="playNote" data-frequency="515" data-parent="#notation1"><!-- variable -->
 					</map>
 
-                    <p>Il Jins Sikah Baladi n'a pas de <em>ghammaz</em> et donc pas de taille définie. Sa mélodie est concentrée sur la tonique, notée ici sur Sol. Il Jins Sikah Baladi  est difficile à noter. Il est mieux, tant pour les intervalles que pour l'intonation, de l'apprendre par cœur. Il Jins Sikah Baladi apparaît sur l'octave du <a href="../maqam/sikah_baladi.php">Maqam Sikah Baladi</a>.
+                    <p>Il Jins Sikah Baladi non ha un <em>ghammaz</em>, e per questo non ha una dimensione definita. La sua melodia è incentrata sulla sua tonica, indicata qui come Sol. E' molto difficile scrivere correttamente il Jins Sikah Baladi; è meglio imparare i suoi intervalli e la sua intonazione ad orecchio. Il Jins Sikah Baladi si presente sull'ottava del <a href="../maqam/sikah_baladi.php">Maqam Sikah Baladi</a>.
                     </p>
                     
                     <div class="player-area">
@@ -69,8 +69,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Qasida Man Mithloukoum</b>
-                                    <span>Hassan al-Haffar (Syrie)</span>
+                                    <b>Qasida Man Mithlukum</b>
+                                    <span>Hassan al-Haffar (Siria)</span>
                                     <span><img src="/img/cd.png"> Muezzins D'Alep - Chants Religieux De L'Islam</span>
                                 </div>
                             </label>
@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Hakam Aleina el-Hawa (1973)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
+                                    <span>Umm Kulthum (Egitto)</span>
                                     <span>Musica di Baligh Hamdi</span>
                                 </div>
                             </label>
@@ -96,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Tal Intizari (1937)</b>
-                                    <span>Interprétation et Musica di Muhammad Abdel Wahab</span>
+                                    <span>Voce e musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -108,7 +108,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Fantaisie Nahawand</b>
-                                    <span>Composition Instrumentale</span>
+                                    <span>Composizioni strumentali</span>
                                     <span>Musica di Muhammad Abdel Wahab</span>
                                     <span><img src="/img/cd.png"> Qamar 14</span>
                                 </div>
@@ -121,9 +121,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim de Oud</b>
+                                    <b>Taqsim con l'Oud</b>
                                     <span>Wasla en <a href="../maqam/rast.php">Maqam Rast</a></span>
-                                    <span>Ibrahim al-Haggar (Égypte)</span>
+                                    <span>Ibrahim al-Haggar (Egitto)</span>
                                 </div>
                             </label>
                         </div>

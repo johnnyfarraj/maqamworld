@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/husayni.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
                     </div>
 
                     <map name="notemap">
@@ -51,11 +51,11 @@ include($ROOT . 'inc/head.php');
 	  <area shape="circle" coords="131,87,13" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="480" data-parent="#notation1"><!--Bayati LA 2nd, variable -->
 	  <area shape="circle" coords="183,87,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 	  <area shape="circle" coords="233,79,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
-	  <area shape="circle" coords="313,71,13" href="#" alt="Ré" class="playNote" data-frequency="586.66" data-parent="#notation1">
+	  <area shape="circle" coords="313,71,13" href="#" alt="Re" class="playNote" data-frequency="586.66" data-parent="#notation1">
 	  <area shape="circle" coords="391,103,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
 	  <area shape="circle" coords="470,111,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
 	  <area shape="circle" coords="551,121,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!-- Bayati RE 2nd, variable -->
-	  <area shape="circle" coords="630,129,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+	  <area shape="circle" coords="630,129,13" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
                        <!-- Links -->
 		<!-- Houssayni is not a Jins, it's a special case (documented in IAM)
                       <area shape="rect" coords="116,8,304,39" href="../jins/husayni.php" class="mapLink" data-parent="#notation1">
@@ -78,8 +78,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Bil-ladhi Askara</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <b>Muwashah Bil-ladhi Askara</b>
+                                    <span>Sabah Fakhri (Siria)</span>
                                     <span><img src="/img/cd.png"> Nagham al-Ams Vol. 12 (Bayati)</span>
                                 </div>
                             </label>
@@ -91,9 +91,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Hal ‘Ala al-Astar</b>
-                                    <span>Ghada Chbeir (Liban)</span>
-                                    <span><img src="/img/cd.png"> Al Mouachahat</span>
+                                    <b>Muwashah Hal ‘Ala al-Astar</b>
+                                    <span>Ghada Chbeir (Lebano)</span>
+                                    <span><img src="/img/cd.png"> Al Muwashahat</span>
                                 </div>
                             </label>
                         </div>
@@ -104,8 +104,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Khala al-‘Idhar</b>
-                                    <span>Khaled al-Hafez (Syrie)</span>
+                                    <b>Muwashah Khala al-‘Idhar</b>
+                                    <span>Khaled al-Hafez (Siria)</span>
                                 </div>
                             </label>
                         </div>
@@ -117,7 +117,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Noura Noura (1953)</b>
-                                    <span>Interprétation et Musica di Farid al-Atrache</span>
+                                    <span>Voce e musica di Farid al-Atrache</span>
                                 </div>
                             </label>
                         </div>
@@ -129,7 +129,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Bayati Ibrahim al-‘Aryan (Khana 2)</b>
-                                    <span>Ensemble Salah ‘Arram (Égypte)</span>
+                                    <span>Ensemble Salah ‘Arram (Egitto)</span>
                                 </div>
                             </label>
                         </div>

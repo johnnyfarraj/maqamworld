@@ -38,10 +38,10 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/guitar.jpg" alt="La Guitare Électriqu">
-                        <span>Omar Khorchid, le pionnier de la Guitare Électrique en Égypte</span>
+                        <span>Omar Khorchid, le pionnier de la Guitare Électrique en Egitto</span>
                     </div>
 
-                    <p>La guitare électrique a été utilisée pour la première fois dans la musique arabe vers la fin des années 1960 en Égypte. Le pionnier a été Omar Khorchid. Certaines guitares électriques ont été modifiées par l'ajout de frettes supplémentaires (à la manière du <a href="buzuq.php">Bouzouk</a>) de manière à être en mesure de jouer les <a href="../maqam.php">Maqams</a> arabes et leurs quarts de ton. La plupart du temps, la guitare électrique a été utilisée sans être modifiée et sans effet, et a acquis son 'arabité' grâce au style ornemental. La guitare électrique a été utilisée pour jouer une combinaison de lignes mélodiques et d'accords simples (par exemple, majeurs et mineurs).
+                    <p>La guitare électrique a été utilisée pour la première fois dans la musique arabe vers la fin des années 1960 en Egitto. Le pionnier a été Omar Khorchid. Certaines guitares électriques ont été modifiées par l'ajout de frettes supplémentaires (à la manière du <a href="buzuq.php">Bouzouk</a>) de manière à être en mesure de jouer les <a href="../maqam.php">Maqams</a> arabes et leurs quarts de ton. La plupart du temps, la guitare électrique a été utilisée sans être modifiée et sans effet, et a acquis son 'arabité' grâce au style ornemental. La guitare électrique a été utilisée pour jouer une combinaison de lignes mélodiques et d'accords simples (par exemple, majeurs et mineurs).
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=3uBB1pxeirw">

@@ -44,7 +44,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/zanjaran.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
                     </div>
 
                     <map name="notemap">
@@ -54,7 +54,7 @@ include($ROOT . 'inc/head.php');
 	  <area shape="circle" coords="280,105,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
 	  <area shape="circle" coords="358,114,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
 	  <area shape="circle" coords="434,122,13" href="#" alt="Mi♮" class="playNote" data-frequency="328" data-parent="#notation1"><!-- Hijaz 3 tune down from 330 -->
-	  <area shape="circle" coords="512,130,13" href="#" alt="Ré♭" class="playNote" data-frequency="277" data-parent="#notation1"><!-- Hijaz 2 tune up from 274 -->
+	  <area shape="circle" coords="512,130,13" href="#" alt="Re♭" class="playNote" data-frequency="277" data-parent="#notation1"><!-- Hijaz 2 tune up from 274 -->
 	  <area shape="circle" coords="590,139,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
 	  <!-- Links -->
                       <area shape="rect" coords="135,9,263,40" href="../jins/ajam.php" class="mapLink" data-parent="#notation1">
@@ -78,7 +78,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Ya Halawit el-Dounya (c.1950)</b>
-                                    <span>Sayyed Makkawi (Égypte)</span>
+                                    <span>Sayyed Makkawi (Egitto)</span>
                                     <span>Musica di Zakariya Ahmad</span>
                                 </div>
                             </label>
@@ -90,8 +90,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Aya Daraha Bil-Houzn</b>
-                                    <span>Hassan al-Haffar (Syrie)</span>
+                                    <b>Muwashah Aya Daraha Bil-Houzn</b>
+                                    <span>Hassan al-Haffar (Siria)</span>
                                     <span>Musica di Majdi al-‘Aqili</span>
                                 </div>
                             </label>
@@ -104,7 +104,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mawwal Amana Ya Leil (1931)</b>
-                                    <span>Interprétation et Musica di Muhammad Abdel Wahab</span>
+                                    <span>Voce e musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -117,7 +117,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Layali Zanjarane</b>
                                     <span>Ahmad Khabbari</span>
-                                    <span>Ensemble Al-Tourath (Syrie)</span>
+                                    <span>Ensemble Al-Tourath (Siria)</span>
                                     <span><img src="/img/cd.png"> The Music In Spanish Al-Andalus - Hijaz</span>
                                 </div>
                             </label>
@@ -130,7 +130,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Semiramis (Taqsim Oud en Maqam Zanjaran)</b>
-                                    <span>‘Amer ‘Ammouri (Syrie)</span>
+                                    <span>‘Amer ‘Ammouri (Siria)</span>
                                     <span><img src="/img/cd.png"> Takasim Oud</span>
                                 </div>
                             </label>
@@ -142,7 +142,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim au Qanoun en Zanjarane</b>
+                                    <b>Taqsim au Qanun en Zanjarane</b>
                                     <span>Abraham Salman (Irak)</span>
                                     <span><img src="/img/cd.png"> Saltanah</span>
                                 </div>

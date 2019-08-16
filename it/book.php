@@ -25,7 +25,7 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-6 col-sm-9 ml-auto mr-auto">
                     <div class="heading text-center jins">
                         <h1>Inside Arabic Music</h1>
-                        <h3>&copy; 2019 Johnny Farraj e Sami Abou Shumays</h3>
+                        <h3>&copy; 2019 Johnny Farraj e Sami Abu Shumays</h3>
                         <h3>Oxford University Press</h3>
                     </div>
                     <div class="clearfix"></div>

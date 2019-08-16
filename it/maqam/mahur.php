@@ -44,7 +44,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/mahur.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
                     </div>
 
                     <map name="notemap">
@@ -54,7 +54,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="290,105,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
 					  <area shape="circle" coords="368,113,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
 					  <area shape="circle" coords="445,122,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
-					  <area shape="circle" coords="522,130,13" href="#" alt="Ré♮" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="522,130,13" href="#" alt="Re♮" class="playNote" data-frequency="293.33" data-parent="#notation1">
 					  <area shape="circle" coords="599,138,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
                       <!-- Links -->
                       <area shape="rect" coords="75,5,277,35" href="../jins/upper_ajam.php" class="mapLink" data-parent="#notation1">
@@ -76,8 +76,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Hayyar al-Afkar Badri</b>
-                                    <span>Cheikh Sayyed al-Safti</span>
+                                    <b>Muwashah Hayyar al-Afkar Badri</b>
+                                    <span>Sheikh Sayyed al-Safti</span>
                                 </div>
                             </label>
                         </div>
@@ -88,8 +88,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Bi Sifatin Ja‘alatni</b>
-                                    <span>Charbel Rouhana (Liban)</span>
+                                    <b>Muwashah Bi Sifatin Ja‘alatni</b>
+                                    <span>Charbel Rouhana (Lebano)</span>
                                 </div>
                             </label>
                         </div>

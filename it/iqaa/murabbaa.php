@@ -118,7 +118,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Ramani Bi Sahmi Hawahu</b>
-                                    <span>Hasan al-Haffar</span>
+                                    <span>Hassan al-Haffar</span>
                                     <span>Musica di Dawud Husni</span>
                                 </div>
                             </label>

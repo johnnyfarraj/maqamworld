@@ -77,7 +77,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Fika Kullu Ma Ara Hasan</b>
+                                    <b>Muwashah Fika Kullu Ma Ara Hassan</b>
                                     <span>Composto in <a href="../maqam/bayati.php">Maqam Bayati</a></span>
                                     <span>Abdel Halim Noueira Ensemble</span>
                                 </div>
@@ -101,7 +101,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Fika Kullu Ma Ara Hasan</b>
+                                    <b>Muwashah Fika Kullu Ma Ara Hassan</b>
                                     <span>Composto in <a href="../maqam/hijaz.php">Maqam Hijaz</a></span>
                                     <span>Omar al-Sarmini</span>
                                     <span>Al-Kindi Ensemble</span>
@@ -115,7 +115,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Fika Kullu Ma Ara Hasan</b>
+                                    <b>Muwashah Fika Kullu Ma Ara Hassan</b>
                                     <span>Composed in <a href="../maqam/hijaz.php">Maqam Hijaz</a></span>
                                     <span>Sabah Fakhri</span>
                                 </div>

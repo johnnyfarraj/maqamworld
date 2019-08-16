@@ -80,7 +80,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Salametha Ummu Hasan</b>
+                                    <b>Salametha Ummu Hassan</b>
                                     <span>Ahmad Adaweya</span>
                                     <span>Musica di Faruq Salamah</span>
                                 </div>

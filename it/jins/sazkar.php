@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Jins Sazkar";
 $page_description = "Jins Sazkar";
-$page_keywords = "musique arabe, maqam, instruments, jins sazkar, iqa‘, iqaa, rythme, oud, qanun, nay, quart de ton, tarab";
+$page_keywords = "Jins Sazkar, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Jins Sazkar</h1>
-                        <h3>Une variation du <a href="rast.php">Jins Rast</a> avec seconde augmentée</h3>
+                        <h3>Una variazione del <a href="rast.php">Jins Rast</a> con la seconda aumentata.</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Jins</a>
                     <div class="clearfix"></div>
@@ -41,13 +41,13 @@ include($ROOT . 'inc/head.php');
                      <div class="notation" id="notation1">
                         <img src="/note/jins/sazkar.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
                     </div>
 
                     <map name="notemap">
 					  <area shape="circle" coords="68,106,12" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="241" data-parent="#notation1"><!--variable-->
 					  <area shape="circle" coords="139,98,14" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
-					  <area shape="circle" coords="213,89,13" href="#" alt="Ré♯" class="playNote" data-frequency="310" data-parent="#notation1"><!-- var sikah leading tone-->
+					  <area shape="circle" coords="213,89,13" href="#" alt="Re♯" class="playNote" data-frequency="310" data-parent="#notation1"><!-- var sikah leading tone-->
 					  <area shape="circle" coords="290,82,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320"  data-parent="#notation1"><!-- var -->
 					  <area shape="circle" coords="368,73,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
 					  <area shape="circle" coords="447,65,14" href="#" alt="Sol " class="playNote" data-frequency="391.11" data-parent="#notation1">
@@ -55,7 +55,7 @@ include($ROOT . 'inc/head.php');
 
 					</map>
 
-                    <p>Il Jins Sazkar est un jins de 5 notes. Il est noté ici avec sa tonique sur Do et son <em>ghammaz</em> sur Sol. Il Jins Sazkar est le premier jins du <a href="../maqam/kirdan.php">Maqam Sazkar</a>.
+                    <p>iL Jins Sazkar è un <em>jins</em> di 5 note. E' scritto qui considerando il Do come sua tonica e il Sol come suo <em>ghammaz</em>. Il Jins Sazkar è il primo <em>jins</em> del <a href="../maqam/kirdan.php">Maqam Sazkar</a>.
                     </p>
 
                     <div class="player-area">
@@ -69,8 +69,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qasida Moudnaka Gafahu Marqadouhou (1938)</b>
-                                    <span>Interprétation et Musica di Muhammad Abdel Wahab</span>
+                                    <b>Qasida Mudnaka Gafahu Marqaduhu (1938)</b>
+                                    <span>Voce e musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Ya Dala‘ Dalla‘ (1974)</b>
-                                    <span>Sabah (Liban)</span>
+                                    <span>Sabah (Lebano)</span>
                                     <span>Musica di Farid al-Atrache</span>
                                 </div>
                             </label>

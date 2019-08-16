@@ -48,7 +48,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/huzam.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
                     </div>
 
                     <map name="notemap">
@@ -58,7 +58,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="circle" coords="301,100,13" href="#" alt="La♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- Hijaz 2 tuned up from 420 -->
                       <area shape="circle" coords="378,92,13" href="#" alt="Si♮" class="playNote" data-frequency="492" data-parent="#notation1"><!-- Hijaz 3 tuned down from 495 -->
                       <area shape="circle" coords="455,84,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
-                      <area shape="circle" coords="533,76,13" href="#" alt="Ré" class="playNote" data-frequency="586.66" data-parent="#notation1">
+                      <area shape="circle" coords="533,76,13" href="#" alt="Re" class="playNote" data-frequency="586.66" data-parent="#notation1">
                       <area shape="circle" coords="610,68,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="644" data-parent="#notation1"><!--variable-->
                       <!-- Links -->
                       <area shape="rect" coords="78,13,200,43" href="../jins/sikah.php" class="mapLink" data-parent="#notation1">
@@ -84,9 +84,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Ya Ghusna Naqa</b>
+                                    <b>Muwashah Ya Ghusna Naqa</b>
                                     <span>(Maqam Huzam)</span>
-                                    <span>Ensemble de la Musique Arabe (Égypte)</span>
+                                    <span>Ensemble de la Musique Arabe (Egitto)</span>
                                 </div>
                             </label>
                         </div>
@@ -97,8 +97,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ayyouha al-Saqi</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <b>Muwashah Ayyouha al-Saqi</b>
+                                    <span>Sabah Fakhri (Siria)</span>
                                     <span>Musica di Majdi al-‘Aqili</span>
                                     <span><img src="/img/cd.png"> Nagham al-Ams Vol. 13 Houzam</span>
                                 </div>
@@ -112,7 +112,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr Emta el-Hawa (1936)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
+                                    <span>Umm Kulthum (Egitto)</span>
                                     <span>Musica di Zakaria Ahmad</span>
                                 </div>
                             </label>
@@ -125,7 +125,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Marmar Zamani</b>
-                                    <span>Fairouz (Liban)</span>
+                                    <span>Fairouz (Lebano)</span>
                                     <span>(chanson traditionnelle)</span>
                                 </div>
                             </label>
@@ -144,7 +144,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Ward Gamil (1947)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
+                                    <span>Umm Kulthum (Egitto)</span>
                                     <span>Musica di Zakaria Ahmad</span>
                                 </div>
                             </label>
@@ -156,8 +156,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ya Wahid al-Ghid</b>
-                                    <span>Fairouz (Liban)</span>
+                                    <b>Muwashah Ya Wahid al-Ghid</b>
+                                    <span>Fairouz (Lebano)</span>
                                     <span><img src="/img/cd.png"> Andalousiyyat</span>
                                 </div>
                             </label>
@@ -171,7 +171,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr Inta Fahim</b>
                                     <span>(Maqam Rahat al-Arwah)</span>
-                                    <span>Interprétation et Musica di Zakaria Ahmad</span>
+                                    <span>Voce e musica di Zakaria Ahmad</span>
                                 </div>
                             </label>
                         </div>
@@ -182,9 +182,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Doulab Rahat al-Arwah</b>
-                                    <span>Aïcha Redouane (Maroc)</span>
-                                    <span><img src="/img/cd.png"> Égypte</span>
+                                    <b>Dulab Rahat al-Arwah</b>
+                                    <span>Aïcha Redouane (Marocco)</span>
+                                    <span><img src="/img/cd.png"> Egitto</span>
                                 </div>
                             </label>
                         </div>
@@ -195,9 +195,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Doulab Rahat al-Arwah</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
-                                    <span><img src="/img/cd.png"> Festival de Beiteddine (Liban)</span>
+                                    <b>Dulab Rahat al-Arwah</b>
+                                    <span>Sabah Fakhri (Siria)</span>
+                                    <span><img src="/img/cd.png"> Festival de Beiteddine (Lebano)</span>
                                 </div>
                             </label>
                         </div>

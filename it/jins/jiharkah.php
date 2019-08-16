@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Jins Jiharkah";
 $page_description = "Jins Jiharkah";
-$page_keywords = "musique arabe, maqam, instruments, jins jiharkah, iqa‘, iqaa, rythme, oud, qanun, nay, quart de ton, tarab";
+$page_keywords = "jins Jiharkah, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Jins Jiharkah</h1>
-                        <h3>Un Jins de 5 notes</h3>
+                        <h3>Un Jins di 5 note</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Jins</a>
                     <div class="clearfix"></div>
@@ -43,11 +43,11 @@ include($ROOT . 'inc/head.php');
                     <div class="notation" id="notation1">
                         <img src="/note/jins/jiharkah.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="27,91,12" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="27,91,12" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
 					  <area shape="circle" coords="106,82,12" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="321.33" data-parent="#notation1"><!--variable-->
 					  <area shape="circle" coords="187,74,14" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
 					  <area shape="circle" coords="262,66,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="496,42,14" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
 
 					</map>
-                    <p>Il Jins Jiharkah est un <em>jins</em> de 5 notes. Il est noté ici avec sa tonique sur Fa et son <em>ghammaz</em> sur Do. L'intervalle entre le 3<em>ième</em> et le 4<em>ième</em> degré est généralement joué plus court que noté. Il Jins Jiharkah est le premier jins du <a href="../maqam/jiharkah.php">Maqam Jiharkah</a>.
+                    <p>Il jins Jiharkahè un <em>jins</em> di 5 note. E' scritto qui considerando il Fa come sua tonica e il Do come suo <em>ghammaz</em>. Il terzo e il quarto grado sono solitamente suonati più bassi di come sono scritti. Il Jins Jiharkah è il primo <em>jins</em> nel <a href="../maqam/jiharkah.php">Maqam Jiharkah</a>.
                     </p>
 
                     <div class="player-area">
@@ -70,8 +70,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Anta Soultan al-Milah</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <b>Muwashah Anta Sultan al-Milah</b>
+                                    <span>Sabah Fakhri (Siria)</span>
                                 </div>
                             </label>
                         </div>
@@ -83,8 +83,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Awwidti Eini (1957)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musica di Riyad al-Soumbati</span>
+                                    <span>Umm Kulthum (Egitto)</span>
+                                    <span>Musica di Riyad al-Sunbati</span>
                                 </div>
                             </label>
                         </div>
@@ -96,8 +96,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Shams el-Asil (1958)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musica di Riyad al-Soumbati</span>
+                                    <span>Umm Kulthum (Egitto)</span>
+                                    <span>Musica di Riyad al-Sunbati</span>
                                 </div>
                             </label>
                         </div>
@@ -108,8 +108,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim de Oud en <a href="../maqam/rast.php">Maqam Rast</a></b>
-                                    <span>Ibrahim al-Haggar (Égypte)</span>
+                                    <b>Taqsim con l'Oud en <a href="../maqam/rast.php">Maqam Rast</a></b>
+                                    <span>Ibrahim al-Haggar (Egitto)</span>
                                     <span>Wasla en Maqam Rast</span>
                                 </div>
                             </label>
@@ -122,8 +122,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Mal el-Cham</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
-                                    <span>Musica di Ahmad Abou Khalil al-Qabbani</span>
+                                    <span>Sabah Fakhri (Siria)</span>
+                                    <span>Musica di Ahmad Abu Khalil al-Qabbani</span>
                                 </div>
                             </label>
                         </div>

@@ -46,7 +46,7 @@ include($ROOT . 'inc/head.php');
                     <p>
                     La tromba n'est jamais devenu un instrument important dans la musique arabe, et c'est le seul instrument 'arabisé' qui n'a jamais été utilisé dans l'orchestre de Oum Koulthoum. Le trompettiste arabe le plus célèbre est l'égyptien Sami al-Babli qui a joué régulièrement avec le chanteur de <em>Cha'bi</em> Ahmad Adaweyya.
                     </p>
-                    <p> Présentement, deux jeunes musiciens d'origine arabe poussent l'utilisation de la tromba dans de nouvelles directions, et les deux le font dans un contexte Jazz qui combine l'harmonie occidentale avec des mélodies du <a href="../maqam.php">maqam</a> arabe: <a href="http://www.amirelsaffar.com/" target="_blank">Amir Elsaffar</a> (Iraq/Etats-Unis) et <a href="http://www.ibrahimmaalouf.com/" target="_blank">Ibrahim Maalouf</a> (Liban/France).
+                    <p> Présentement, deux jeunes musiciens d'origine arabe poussent l'utilisation de la tromba dans de nouvelles directions, et les deux le font dans un contexte Jazz qui combine l'harmonie occidentale avec des mélodies du <a href="../maqam.php">maqam</a> arabe: <a href="http://www.amirelsaffar.com/" target="_blank">Amir Elsaffar</a> (Iraq/Etats-Unis) et <a href="http://www.ibrahimmaalouf.com/" target="_blank">Ibrahim Maalouf</a> (Liban/Francia).
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=29lYX1bQ8ns">
@@ -59,7 +59,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sami al-Babli</b>
-                                    <span>Une rare vidéo du trompettiste arabe Sami al-Babli (Égypte) jouant un <a href="../form/improv.php#taqsim">taqsim</a> dans le <a href="../maqam/nahawand.php">Maqam Nahawand</a> pendant une fête de mariage.</span>
+                                    <span>Une rare vidéo du trompettiste arabe Sami al-Babli (Egitto) jouant un <a href="../form/improv.php#taqsim">taqsim</a> dans le <a href="../maqam/nahawand.php">Maqam Nahawand</a> pendant une fête de mariage.</span>
                                 </div>
                             </label>
                         </div>

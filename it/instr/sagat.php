@@ -48,9 +48,9 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/tura.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Tura</a>
                     </div>
 
-                    <p>Le Sagats (appelées <em>Sajat</em> à l'extérieur de l'Égypte) sont des cymbales en laiton tenues par les doigts qui ont un diamètre de 3,5 à 5 centimètres (des cymbales pouvant être jusqu'à deux fois plus larges existent aussi et sont appelées <em>Toura</em>). Elles sont portées sur le pouce et le troisième doigt de chaque main à l'aide de bandes élastiques.
+                    <p>Le Sagats (appelées <em>Sajat</em> à l'extérieur de l'Egitto) sont des cymbales en laiton tenues par les doigts qui ont un diamètre de 3,5 à 5 centimètres (des cymbales pouvant être jusqu'à deux fois plus larges existent aussi et sont appelées <em>Toura</em>). Elles sont portées sur le pouce et le troisième doigt de chaque main à l'aide de bandes élastiques.
                     </p>
-                    <p>Le Sagats sont très populaires chez les <em>Raqs Charqi</em> professionnelles (les danseuses du ventre) parce qu'elles accentuent joliment et ajoutent de la couleur aux autres instruments de percussion de la section rythmique. Pour cette raison, beaucoup de vidéos YouTube existent sur les techniques de doigté pour les cymbales et sur la performance.
+                    <p>Le Sagats sont très populaires chez les <em>Raqs Sharqi</em> professionnelles (les danseuses du ventre) parce qu'elles accentuent joliment et ajoutent de la couleur aux autres instruments de percussion de la section rythmique. Pour cette raison, beaucoup de vidéos YouTube existent sur les techniques de doigté pour les cymbales et sur la performance.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=UpG__9CAiVE&t=0s">
@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Karim Nagi</b>
-                                    <span>Karim Nagi(percussionniste de l'Égypte/Etats-Unis) joue un solo de Sagat. </span>
+                                    <span>Karim Nagi(percussionniste de l'Egitto/Etats-Unis) joue un solo de Sagat. </span>
                                 </div>
                             </label>
                         </div>

@@ -43,12 +43,12 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/hijazkar_kurd.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
                     </div>
 
                     <map name="notemap">
 		  <area shape="circle" coords="79,67,13" href="#" alt="Mi♮" class="playNote" data-frequency="656" data-parent="#notation1"><!-- Hijaz 3 tune down from 660 -->
-		  <area shape="circle" coords="158,75,13" href="#" alt="Ré♭" class="playNote" data-frequency="554" data-parent="#notation1"><!-- Hijaz 2 tuned up from 548 -->
+		  <area shape="circle" coords="158,75,13" href="#" alt="Re♭" class="playNote" data-frequency="554" data-parent="#notation1"><!-- Hijaz 2 tuned up from 548 -->
 		  <area shape="circle" coords="234,85,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1"><!-- Hijazkar tonic -->
 		  <area shape="circle" coords="313,93,13" href="#" alt="Si♮" class="playNote" data-frequency="493.33" data-parent="#notation1"><!-- vartiable -->
 		  <area shape="circle" coords="365,93,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
 		  <area shape="circle" coords="494,109,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
 		<area shape="circle" coords="570,118,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
                        <area shape="circle" coords="649,126,13" href="#" alt="Mi♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
-		  <area shape="circle" coords="728,134,13" href="#" alt="Ré♭" class="playNote" data-frequency="274" data-parent="#notation1">
+		  <area shape="circle" coords="728,134,13" href="#" alt="Re♭" class="playNote" data-frequency="274" data-parent="#notation1">
                       <area shape="circle" coords="803,142,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
                        <!-- Links -->
                       <area shape="rect" coords="170,8,322,38" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
@@ -79,11 +79,11 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Tif Ya Dourri</b>
-                                    <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Liban)</span>
+                                    <b>Muwashah Tif Ya Dourri</b>
+                                    <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Lebano)</span>
                                     <span>Chef d'orchestre: Aïda Chalhoub Ziadé</span>
                                     <span>Musica di Sayyed Darwich/Omar al-Batch</span>
-                                    <span><img src="/img/cd.png"> Orientalia: Mouachah et Chansons</span>
+                                    <span><img src="/img/cd.png"> Orientalia: Muwashah et Chansons</span>
                                 </div>
                             </label>
                         </div>
@@ -94,11 +94,11 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Hibbi Zourni Ma Tayassar</b>
-                                    <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Liban)</span>
+                                    <b>Muwashah Hibbi Zourni Ma Tayassar</b>
+                                    <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Lebano)</span>
                                     <span>Chef d'orchestre: Aïda Chalhoub Ziadé</span>
                                     <span>Musica di Darwich al-Hariri</span>
-                                    <span><img src="/img/cd.png"> Orientalia: Mouachah et Chansons</span>
+                                    <span><img src="/img/cd.png"> Orientalia: Muwashah et Chansons</span>
                                 </div>
                             </label>
                         </div>
@@ -109,8 +109,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ya Dhal-Qawam al-Samhari</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <b>Muwashah Ya Dhal-Qawam al-Samhari</b>
+                                    <span>Sabah Fakhri (Siria)</span>
                                     <span><img src="/img/cd.png"> Au Palais Des Congrès (1995)</span>
                                 </div>
                             </label>
@@ -123,7 +123,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Izzay Tibi‘ni w-Ana Ashterik</b>
-                                    <span>Saleh Abdel Hayy (Égypte)</span>
+                                    <span>Saleh Abdel Hayy (Egitto)</span>
                                 </div>
                             </label>
                         </div>

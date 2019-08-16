@@ -79,7 +79,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ahmad al-Hifnaoui</b>
-                                    <span>Le violoniste égyptien Ahmad al-Hifnaoui (qui était premier violon dans l'orchestre de Oum Koulthoum) joue la pièce traditionnelle instrumentale <strong>Tahmila Rast (Suznak)</strong> qui est pleine d'improvisations. L'ensemble est composé aussi de George Michel au <a href="oud.php">oud</a>, Mahmoud ‘Effat au <a href="nay.php">nay</a> et Hassan Anouar au <a href="riqq.php">riqq</a>.</span>
+                                    <span>Le violoniste égyptien Ahmad al-Hifnaoui (qui était premier violon dans l'orchestre de Oum Koulthoum) joue la pièce traditionnelle instrumentale <strong>Tahmila Rast (Suznak)</strong> qui est pleine d'improvisations. L'ensemble est composé aussi de George Michel au <a href="oud.php">oud</a>, Mahmud ‘Effat au <a href="nay.php">nay</a> et Hassan Anouar au <a href="riqq.php">riqq</a>.</span>
                                 </div>
                             </label>
                         </div>
@@ -110,8 +110,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Abdou Dagher</b>
-                                    <span>Le violoniste égyptien Abdou Dagher et son ensemble jouant sa composition Sama‘i <a href="../maqam/kurd.php">Maqam Kurd</a>, avec solos de <a href="violon.php">violon</a> et de <a href="qanun.php">qanun</a>.</span>
+                                    <b>Abdo Dagher</b>
+                                    <span>Le violoniste égyptien Abdo Dagher et son ensemble jouant sa composition Sama‘i <a href="../maqam/kurd.php">Maqam Kurd</a>, avec solos de <a href="violon.php">violon</a> et de <a href="qanun.php">qanun</a>.</span>
                                 </div>
                             </label>
                         </div>
@@ -127,7 +127,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Simon Shaheen</b>
-                                    <span>Le violoniste palestinien Simon Shaheen jouant un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/rast.php">Maqam Rast</a> sur l'<a href="../iqaa/rumba.php">Iqa‘ Rumba</a>, finissant par la deuxième partie de la composition instrumentale Longa<a href="../maqam/nahawand.php">Farahfaza</a> de Riyad al-Soumbati.</span>
+                                    <span>Le violoniste palestinien Simon Shaheen jouant un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/rast.php">Maqam Rast</a> sur l'<a href="../iqaa/rumba.php">Iqa‘ Rumba</a>, finissant par la deuxième partie de la composition instrumentale Longa<a href="../maqam/nahawand.php">Farahfaza</a> de Riyad al-Sunbati.</span>
                                 </div>
                             </label>
                         </div>

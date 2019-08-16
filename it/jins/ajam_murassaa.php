@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Jins ‘Ajam Murassa‘";
 $page_description = "Jins ‘Ajam Murassa‘";
-$page_keywords = "musique arabe, maqam, instruments, jins ‘ajam mourassa‘, jins ajam mourassaa, iqa‘, iqaa, rythme, oud, qanun, nay, quart de ton, tarab";
+$page_keywords = "jins ‘ajam murassa‘, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins ‘Ajam Murassa‘ <span class="badge badge-custom">Nouveau</span></h1>
-                        <h3>Une variation du <a href="ajam.php">Jins ‘Ajam</a> avec une quarte augmentée</h3>
+                        <h1>Jins ‘Ajam Murassa‘ <span class="badge badge-custom">Nuovo</span></h1>
+                        <h3>Una variazione del <a href="ajam.php">Jins ‘Ajam</a> con la quarta aumentata.</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Jins</a>
                     <div class="clearfix"></div>
@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     <div class="notation" id="notation1">
                         <img src="/note/jins/ajam_murassaa.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
                     </div>
 
                     <map name="notemap">
@@ -52,10 +52,10 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="289,61,13" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1"><!-- TODO should that be lowered a bit to match 'Ajam's 3rd? -->
 					  <area shape="circle" coords="365,53,13" href="#" alt="Si♮" class="playNote" data-frequency="495" data-parent="#notation1">
 					  <area shape="circle" coords="444,45,14" href="#" alt="Do" class="playNote" data-frequency="521.5" data-parent="#notation1">
-					  <area shape="circle" coords="518,37,12" href="#" alt="Ré" class="playNote" data-frequency="586.66" data-parent="#notation1">
+					  <area shape="circle" coords="518,37,12" href="#" alt="Re" class="playNote" data-frequency="586.66" data-parent="#notation1">
 					</map>
 
-                    <p>Il Jins 'Ajam Mourassa est un <em>jins</em> de 5 notes. Il est noté ici avec sa tonique sur Fa et son <em>ghammaz</em> sur Do. Il Jins 'Ajam Mourassa ne fait partie d'aucun <a href="../maqam.php">maqam</a> et apparaît en général comme une modulation à partir du <a href="ajam.php">Jins ‘Ajam</a>.</p>
+                    <p>Il Jins ‘Ajam Murassa‘ è un <em>jins</em> di 5 note. E' scritto qui considerando come tonica il Fa e come <em>ghammaz</em> il Do. Il Jins ‘Ajam Murassa‘ non fa parte di alcun <a href="../maqam.php">maqam</a> e solitamente viene usato come modulazione dal <a href="ajam.php">Jins ‘Ajam</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -68,9 +68,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Kallili Ya Souhbou</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
-                                    <span>Musica di Muhammad Outhman</span>
+                                    <b>Muwashah Kallili Ya Suhbu</b>
+                                    <span>Sabah Fakhri (Siria)</span>
+                                    <span>Musica di Muhammad Uthman</span>
                                 </div>
                             </label>
                         </div>
@@ -94,7 +94,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mawwal Ya Ma‘char al-Nas</b>
-                                    <span>Muhammad Khayri (Syrie)</span>
+                                    <span>Muhammad Khayri (Siria)</span>
                                 </div>
                             </label>
                         </div>
@@ -106,7 +106,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Qasida ‘Umri Fi Hubbihi Inqada</b>
-                                    <span>Muhammad Khayri (Syrie)</span>
+                                    <span>Muhammad Khayri (Siria)</span>
                                 </div>
                             </label>
                         </div>
@@ -117,8 +117,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Qanoun en <a href="../maqam/ajam.php">Maqam 'Ajam</a></b>
-                                    <span>Abdou Dagher (Égypte)</span>
+                                    <b>Taqsim Qanun en <a href="../maqam/ajam.php">Maqam 'Ajam</a></b>
+                                    <span>Abdo Dagher (Egitto)</span>
                                     <span><img src="/img/cd.png"> Al-Gibali</span>
                                 </div>
                             </label>
@@ -131,7 +131,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Nibtidi Mnein el-Hikaya (1975)</b>
-                                    <span>Abdel Halim Hafez (Égypte)</span>
+                                    <span>Abdel Halim Hafez (Egitto)</span>
                                     <span>Musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -144,8 +144,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Qari'at al-Fingan (1976)</b>
-                                    <span>Abdel Halim Hafez (Égypte)</span>
-                                    <span>Musica di Muhammad al-Mougi</span>
+                                    <span>Abdel Halim Hafez (Egitto)</span>
+                                    <span>Musica di Muhammad al-Mugi</span>
                                 </div>
                             </label>
                         </div>
@@ -157,7 +157,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr Sabbahti Min ‘Ichqi Abki</b>
-                                    <span>Abdel Hayy Hilmi (Égypte)</span>
+                                    <span>Abdel Hayy Hilmi (Egitto)</span>
                                 </div>
                             </label>
                         </div>
@@ -168,8 +168,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim de Oud</b>
-                                    <span>Muhammad Qadri Dalal (Syrie)</span>
+                                    <b>Taqsim con l'Oud</b>
+                                    <span>Muhammad Qadri Dalal (Siria)</span>
                                     <p><img src="/img/cd.png"> Maqamat Insolites</p>
                                 </div>
                             </label>
@@ -182,8 +182,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Layali Zaman</b>
-                                    <span>Composition instrumentale de Abdou Dagher (Égypte)</span>
-                                    <span>Enregistrée avec son ensemble à l'Opéra du Caire.</span>
+                                    <span>Composizione strumentale di Abdo Dagher (Egitto)</span>
+                                    <span>Registrata con il suo gruppo al l'Opera del Cairo.</span>
                                 </div>
                             </label>
                         </div>

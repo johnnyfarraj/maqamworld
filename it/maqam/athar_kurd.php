@@ -44,12 +44,12 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/athar_kurd.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
                     </div>
 
                     <map name="notemap">
                   <area shape="circle" coords="63,131,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
-                  <area shape="circle" coords="141,123,13" href="#" alt="Ré♭" class="playNote" data-frequency="274" data-parent="#notation1">
+                  <area shape="circle" coords="141,123,13" href="#" alt="Re♭" class="playNote" data-frequency="274" data-parent="#notation1">
                   <area shape="circle" coords="218,115,13" href="#" alt="Mi♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
                   <area shape="circle" coords="296,107,13" href="#" alt="Fa♯" class="playNote" data-frequency="375" data-parent="#notation1">
                   <area shape="circle" coords="373,99,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
@@ -79,7 +79,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Ya Msafir wi Albi Ma‘ak (1950)</b>
-                                    <span>Leila Mourad (Égypte)</span>
+                                    <span>Leila Murad (Egitto)</span>
                                     <span>Musica di Ahmad Sidqi</span>
                                 </div>
                             </label>
@@ -92,7 +92,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Hana wel-Widd (1975)</b>
-                                    <span>Leila Mourad (Égypte)</span>
+                                    <span>Leila Murad (Egitto)</span>
                                     <span>Musica di Abdel Moun‘im al-Hariri</span>
                                 </div>
                             </label>
@@ -105,8 +105,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Fagr Nurak Hall wi Bane (c.1952)</b>
-                                    <span>Interprétation de Baligh Hamdi (Égypte)</span>
-                                    <span>Musica di Youssef Shawqi</span>
+                                    <span>Interprétation de Baligh Hamdi (Egitto)</span>
+                                    <span>Musica di Yussef Shawqi</span>
                                 </div>
                             </label>
                         </div>
@@ -118,8 +118,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Hobbi Kida (1959)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musica di Riyad al-Soumbati</span>
+                                    <span>Umm Kulthum (Egitto)</span>
+                                    <span>Musica di Riyad al-Sunbati</span>
                                 </div>
                             </label>
                         </div>
@@ -131,7 +131,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Hijazkar Kurd</b>
-                                    <span>Ensemble Al-Kindi (Syrie/France)</span>
+                                    <span>Ensemble Al-Kindi (Syrie/Francia)</span>
                                     <span><img src="/img/cd.png"> Les Derviches Tourneurs of Damas Vol. 2</span>
                                     <span>Musica di Salah al-Mahdi (Tunisia)</span>
                                 </div>
@@ -145,7 +145,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Taqsim Oud</b>
-                                    <span>Riyad al-Soumbati (Égypte)</span>
+                                    <span>Riyad al-Sunbati (Egitto)</span>
                                     <span><img src="/img/cd.png"> Taqaseem Oud</span>
                                 </div>
                             </label>
@@ -157,8 +157,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim de Oud en Maqam Athar Kurd</b>
-                                    <span>Muhammad Qadri Dalal (Syrie)</span>
+                                    <b>Taqsim con l'Oud en Maqam Athar Kurd</b>
+                                    <span>Muhammad Qadri Dalal (Siria)</span>
                                     <span><img src="/img/cd.png"> Maqams Insolites</span>
                                 </div>
                             </label>

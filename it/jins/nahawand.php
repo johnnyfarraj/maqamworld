@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Jins Nahawand";
 $page_description = "Jins Nahawand";
-$page_keywords = "musique arabe, maqam, instruments, jins nahawand, iqa‘, iqaa, rythme, oud, qanun, nay, quart de ton, tarab";
+$page_keywords = "Jins Nahawand, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Jins Nahawand</h1>
-                        <h3>Jins de base de la <a href="../maqam/f_nahawand.php">Famiglia Maqam Nahawand</a></h3>
+                        <h3>Il jins fondamentale della <a href="../maqam/f_nahawand.php">Famiglia Maqam Nahawand</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Jins</a>
                     <div class="clearfix"></div>
@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                      <div class="notation" id="notation1">
                         <img src="/note/jins/nahawand.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
                     </div>
 
                     <map name="notemap">
@@ -51,14 +51,14 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="113,118,12" href="#" alt="La♮" class="playNote" data-frequency="220" data-parent="#notation1">
 					  <area shape="circle" coords="162,110,12" href="#" alt="Si♮" class="playNote" data-frequency="247.5" data-parent="#notation1">
 					  <area shape="circle" coords="230,102,14" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
-					  <area shape="circle" coords="306,94,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="306,94,13" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
 					  <area shape="circle" coords="383,86,13" href="#" alt="Mi♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
 					  <area shape="circle" coords="460,78,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
 					  <area shape="circle" coords="539,69,14" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
 				      <area shape="circle" coords="611,60,12" href="#" alt="La♭" class="playNote" data-frequency="411" data-parent="#notation1">
 					</map>
 
-                    <p>Il Jins Nahawand est un <em>jins</em> de 5 notes. Il est noté ici avec sa tonique sur Do et son <em>ghammaz</em> sur Sol. Il Jins Nahawand est le premier <em>jins</em> du <a href="../maqam/nahawand.php">Maqam Nahawand</a>.
+                    <p>Il jins Nahawand è un <em>jins</em> di 5 note. E' scritto qui considerando il Do come sua tonica e il Sol come suo <em>ghammaz</em>. Il Jins Nahawand è il primo <em>jins</em> del <a href="../maqam/nahawand.php">Maqam Nahawand</a>.
                     </p>
 
                     <div class="player-area">
@@ -73,7 +73,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Alf Leila wi Leila (1969)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
+                                    <span>Umm Kulthum (Egitto)</span>
                                     <span>Musica di Baligh Hamdi</span>
                                 </div>
                             </label>
@@ -85,8 +85,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Balad el-Mahboub</b>
-                                    <span>Composition Instrumentale</span>
+                                    <b>Balad el-Mahbub</b>
+                                    <span>Composizioni strumentali</span>
                                     <span>Musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Darit el-Ayyam (1970)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
+                                    <span>Umm Kulthum (Egitto)</span>
                                     <span>Musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -111,8 +111,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr Ahibb Ashufak Kulli Youm (1930)</b>
-                                    <span>Interprétation et Musica di Muhammad Abdel Wahab</span>
+                                    <b>Dawr Ahibb Ashufak Kulli Yom (1930)</b>
+                                    <span>Voce e musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -123,9 +123,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Gaddidti Houbbak Leh (1952)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musica di Riyad al-Soumbati</span>
+                                    <b>Gaddidti Hubbak Leh (1952)</b>
+                                    <span>Umm Kulthum (Egitto)</span>
+                                    <span>Musica di Riyad al-Sunbati</span>
                                 </div>
                             </label>
                         </div>
@@ -136,8 +136,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Dounia Ya Gharami (1938)</b>
-                                    <span>Interprétation et Musica di Muhammad Abdel Wahab</span>
+                                    <b>Ya Dunia Ya Gharami (1938)</b>
+                                    <span>Voce e musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -149,7 +149,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Habibi Kullama Habba al-Hawa (2000)</b>
-                                    <span>Fairouz (Liban)</span>
+                                    <span>Fairouz (Lebano)</span>
                                     <span>Musica di Fratelli Rahbani</span>
                                 </div>
                             </label>

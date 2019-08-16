@@ -48,12 +48,12 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/nairuz.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
                     </div>
 
                     <map name="notemap">
 					  <area shape="circle" coords="74,135,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
-					  <area shape="circle" coords="150,126,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="150,126,13" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
 					  <area shape="circle" coords="228,118,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
 					  <area shape="circle" coords="305,110,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
 					  <area shape="circle" coords="383,102,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
@@ -85,8 +85,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Ya Hilalan</b>
-                                    <span>Ensemble de la Musique Arabe (Égypte)</span>
+                                    <b>Muwashah Ya Hilalan</b>
+                                    <span>Ensemble de la Musique Arabe (Egitto)</span>
                                 </div>
                             </label>
                         </div>
@@ -97,8 +97,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Moubarqaou al-Jamal</b>
-                                    <span>Hassan al-Haffar (Syrie)</span>
+                                    <b>Muwashah Moubarqaou al-Jamal</b>
+                                    <span>Hassan al-Haffar (Siria)</span>
                                     <span>Musica di Omar al-Batch</span>
                                 </div>
                             </label>
@@ -112,7 +112,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr Asl el-Gharam (1945)</b>
                                     <span>Nour el-Hoda</span>
-                                    <span>Musica di Muhammad Outhman</span>
+                                    <span>Musica di Muhammad Uthman</span>
                                 </div>
                             </label>
                         </div>
@@ -123,8 +123,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ghannili Chwayy Chwayy (1945)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
+                                    <b>Ghannili Shwayy Shwayy (1945)</b>
+                                    <span>Umm Kulthum (Egitto)</span>
                                     <span>Musica di Zakaria Ahmad</span>
                                 </div>
                             </label>

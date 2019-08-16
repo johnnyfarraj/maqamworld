@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Jins Rast";
 $page_description = "Jins Rast";
-$page_keywords = "musique arabe, maqam, instruments, jins rast, iqa‘, iqaa, rythme, oud, qanun, nay, quart de ton, tarab";
+$page_keywords = "Jins Rast, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Jins Rast</h1>
-                        <h3>Jins de base de la <a href="../maqam/f_rast.php">Famiglia Maqam Rast</a></h3>
+                        <h3>Il jins fondamentale della <a href="../maqam/f_rast.php">Famiglia Maqam Rast</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Jins</a>
                     <div class="clearfix"></div>
@@ -43,14 +43,14 @@ include($ROOT . 'inc/head.php');
                      <div class="notation" id="notation1">
                         <img src="/note/jins/rast.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
                     </div>
 
                     <map name="notemap">
 					  <area shape="circle" coords="41,110,12" href="#" alt="La" class="playNote" data-frequency="220" data-parent="#notation1">
 					  <area shape="circle" coords="121,102,12" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="241" data-parent="#notation1"><!--variable-->
 					  <area shape="circle" coords="203,94,14" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
-					  <area shape="circle" coords="280,85,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="280,85,13" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
 					  <area shape="circle" coords="359,77,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
 					  <area shape="circle" coords="436,69,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
 					  <area shape="circle" coords="514,61,14" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
@@ -58,7 +58,7 @@ include($ROOT . 'inc/head.php');
 				      <area shape="circle" coords="630,52,12" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
 					</map>
 
-                    <p>Il Jins Rast est un <em>jins</em> de 5 notes. Il est noté ici avec sa tonique sur Do et son <em>ghammaz</em> sur Sol. Il Jins 'Rast est le premier <em>jins</em> du <a href="../maqam/rast.php">Maqam Rast</a>, du <a href="../maqam/suznak.php">Maqam Suznak</a> et d'autres maqamat de la <a href="../maqam/f_rast.php">Famiglia Maqam Rast</a>.
+                    <p>Il Jins Rast è un <em>jins</em> di 5 note molto popolare. E' scritto qui considerando come sua tonica il Do e come suo <em>ghammaz</em> il Sol. Il Jins Rast è il primo <em>jins</em> del <a href="../maqam/rast.php">Maqam Rast</a>, del <a href="../maqam/suznak.php">Maqam Suznak</a>, e di altri maqamat nella <a href="../maqam/f_rast.php">Famiglia Maqam Rast</a>.
                     </p>
 
                     <div class="player-area">
@@ -72,8 +72,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Ghannili Chwayy Chwayy (1945)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
+                                    <b>Ghannili Shwayy Shwayy (1945)</b>
+                                    <span>Umm Kulthum (Egitto)</span>
                                     <span>Musica di Zakaria Ahmad</span>
                                 </div>
                             </label>
@@ -85,8 +85,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>‘Ala Allah Teoud (1970)</b>
-                                    <span>Wadih al-Safi (Liban)</span>
+                                    <b>‘Ala Allah Teud (1970)</b>
+                                    <span>Wadih al-Safi (Lebano)</span>
                                     <span>Musica di Farid al-Atrache</span>
                                 </div>
                             </label>
@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Min ‘Azzibak</b>
-                                    <span>Interprétation et Musica di Muhammad Abdel Wahab</span>
+                                    <span>Voce e musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -111,8 +111,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Min ‘Izz el-Nawm</b>
-                                    <span>Fairouz (Liban)</span>
-                                    <span>Musica di Philémon Wéhbé</span>
+                                    <span>Fairouz (Lebano)</span>
+                                    <span>Musica di Philemon Wehbe</span>
                                 </div>
                             </label>
                         </div>
@@ -123,8 +123,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Nas el-Dinye Doulab</b>
-                                    <span>Sabah (Liban)</span>
+                                    <b>Ya Nas el-Dinye Dulab</b>
+                                    <span>Sabah (Lebano)</span>
                                 </div>
                             </label>
                         </div>

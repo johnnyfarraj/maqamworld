@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Jins Mukhalef Sharqi";
 $page_description = "Jins Mukhalef Sharqi";
-$page_keywords = "musique arabe, maqam, instruments, jins moukhalef sharqui, iqa‘, iqaa, rythme, oud, qanun, nay, quart de ton, tarab";
+$page_keywords = "Jins Mukhalef Sharqi, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins Mukhalef Sharqi <span class="badge badge-custom">Nouveau</span></h1>
-                        <h3>Une variation du <a href="sikah.php">Jins Sikah</a> avec une tierce abaissée</h3>
+                        <h1>Jins Mukhalef Sharqi <span class="badge badge-custom">Nuovo</span></h1>
+                        <h3>Una variazione del <a href="sikah.php">Jins Sikah</a> con la terza abbassata.</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Jins</a>
                     <div class="clearfix"></div>
@@ -41,7 +41,7 @@ include($ROOT . 'inc/head.php');
                     <div class="notation" id="notation1">
                         <img src="/note/jins/mukhalif_sharqi.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
                     </div>
 
                     <map name="notemap">
@@ -50,7 +50,8 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="233,70,13" href="#" alt="Sol♭" class="playNote" data-frequency="365.32" data-parent="#notation1">
 
 					</map>
-                    <p>Il Jins Mukhalef Sharqi  n'a pas de <em>ghammaz</em> et donc pas de taille définie. Il est noté ici avec sa tonique sur Mi<i class="icon-halfflat"></i>. Il Jins Mukhalef Sharqi  ne fait partie d'aucun <em>maqam</em> et apparaît généralement comme une modulation à partir du <a href="sikah.php">Jins Sikah</a>.
+                    
+                    <p>Il jins Mukhalif Sharqi non ha un <em>ghammaz</em>, e per questo non ha una dimensione definita. E' scritto qua considerando il Mi<i class="icon-halfflat"></i> come sua tonica. Il Jins Mukhalif Sharqi non fa parte di alcun <a href="../maqam.php">maqam</a> e solitamente si presenta come modulazione dal <a href="sikah.php">Jins Sikah</a>.
                     </p>
 
                     <div class="player-area">
@@ -65,7 +66,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Dawr Emta el-Hawa (1936)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
+                                    <span>Umm Kulthum (Egitto)</span>
                                     <span>Musica di Zakaria Ahmad</span>
                                 </div>
                             </label>
@@ -77,8 +78,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ghannili Chwayy Chwayy (1945)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
+                                    <b>Ghannili Shwayy Shwayy (1945)</b>
+                                    <span>Umm Kulthum (Egitto)</span>
                                     <span>Musica di Zakaria Ahmad</span>
                                 </div>
                             </label>
@@ -90,9 +91,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Raqsat al-Sous (1974)</b>
-                                    <span>Musique des Frères Rahbani (Liban)</span>
-                                    <span>De l'opérette "Loulou"</span>
+                                    <b>Raqsat al-Sus (1974)</b>
+                                    <span>Musica dei Fratelli Rahbani (Lebano)</span>
+                                    <span>Dall'operetta "Lulu"</span>
                                 </div>
                             </label>
                         </div>
@@ -104,7 +105,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr Lisan el-Dam‘i</b>
-                                    <span>Youssof al-Manyalawi (Égypte)</span>
+                                    <span>Yussof al-Manyalawi (Egitto)</span>
                                 </div>
                             </label>
                         </div>
@@ -115,8 +116,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ma-htiyali (khana)</b>
-                                    <span>Aïcha Redouane (Maroc/France)</span>
+                                    <b>Muwashah Ma-htiyali (khana)</b>
+                                    <span>Aïcha Redouane (Marocco/Francia)</span>
                                     <span><img src="/img/cd.png"> Arabesques Vocales &copy; 2000</span>
                                 </div>
                             </label>
@@ -128,8 +129,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ya Samiri Da‘a Sabri</b>
-                                    <span>Muhammad Khayri (Syrie)</span>
+                                    <b>Muwashah Ya Samiri Da‘a Sabri</b>
+                                    <span>Muhammad Khayri (Siria)</span>
                                 </div>
                             </label>
                         </div>
@@ -141,7 +142,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Tahmila Rast (Suznak)</b>
-                                    <span>Aïcha Redouane (Maroc/France)</span>
+                                    <span>Aïcha Redouane (Marocco/Francia)</span>
                                     <span><img src="/img/cd.png"> Arabesques Vocales &copy; 2000</span>
                                 </div>
                             </label>
@@ -154,7 +155,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya ‘Ammi Ya Saheb el-Gamal</b>
-                                    <span>Interprétation et Musica di Ahmed Adaweyah</span>
+                                    <span>Voce e musica di Ahmed Adaweyah</span>
                                 </div>
                             </label>
                         </div>
@@ -166,7 +167,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Taqsim au Violon</b>
-                                    <span>Abdou Dagher (Égypte)</span>
+                                    <span>Abdo Dagher (Egitto)</span>
                                     <span><img src="/img/cd.png"> Al-Gibali</span>
                                 </div>
                             </label>
@@ -179,7 +180,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Layli Ma Birda Bukra</b>
-                                    <span>Interprétation et Musica di Wadih al-Safi (Liban)</span>
+                                    <span>Voce e musica di Wadih al-Safi (Lebano)</span>
                                 </div>
                             </label>
                         </div>
@@ -190,8 +191,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ib‘id ‘Anni ‘Ouyounak</b>
-                                    <span>Yasmine al-Khayyam (Égypte)</span>
+                                    <b>Ib‘id ‘Anni ‘Uyunak</b>
+                                    <span>Yasmin al-Khayyam (Egitto)</span>
                                     <span>Musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -203,8 +204,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ib‘id ‘Anni ‘Ouyounak (Solo de Nay)</b>
-                                    <span>Yasmine al-Khayyam (Égypte)</span>
+                                    <b>Ib‘id ‘Anni ‘Uyunak (Assolo di Nay)</b>
+                                    <span>Yasmine al-Khayyam (Egitto)</span>
                                     <span>Musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>

@@ -45,18 +45,18 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/ushaq_masri.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
                     </div>
 
                     <map name="notemap">
-                      <area shape="circle" coords="55,131,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+                      <area shape="circle" coords="55,131,13" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
                       <area shape="circle" coords="131,123,13" href="#" alt="Mi" class="playNote" data-frequency="330" data-parent="#notation1">
                       <area shape="circle" coords="209,115,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
                       <area shape="circle" coords="287,106,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
                       <area shape="circle" coords="365,98,13" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
                       <area shape="circle" coords="441,90,13" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="480" data-parent="#notation1"><!-- Bayati 2nd var-->
                       <area shape="circle" coords="518,82,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
-                      <area shape="circle" coords="595,73,13" href="#" alt="Ré" class="playNote" data-frequency="586.66" data-parent="#notation1">
+                      <area shape="circle" coords="595,73,13" href="#" alt="Re" class="playNote" data-frequency="586.66" data-parent="#notation1">
                        <!-- Links -->
                       <area shape="rect" coords="114,10,292,39" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="414,9,548,40" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
@@ -78,7 +78,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Dawr Ahib Ashoufak (1930)</b>
-                                    <span>Interprétation et Musica di Muhammad Abdel Wahab</span>
+                                    <span>Voce e musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -90,7 +90,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ba‘d el-Khisam</b>
-                                    <span>Cheikh Abou el-Éla Muhammad (Égypte)</span>
+                                    <span>Sheikh Abu el-Éla Muhammad (Egitto)</span>
                                 </div>
                             </label>
                         </div>
@@ -102,7 +102,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Layali Nahawand</b>
-                                    <span>Cheikh Abou el-Éla Muhammad (Égypte)</span>
+                                    <span>Sheikh Abu el-Éla Muhammad (Egitto)</span>
                                 </div>
                             </label>
                         </div>

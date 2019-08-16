@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/ajam_ushayran.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
                     </div>
 
                     <map name="notemap">
@@ -52,7 +52,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="circle" coords="221,101,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
                       <area shape="circle" coords="298,109,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
                       <area shape="circle" coords="376,118,13" href="#" alt="Mi♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
-                      <area shape="circle" coords="453,126,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+                      <area shape="circle" coords="453,126,13" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
                       <area shape="circle" coords="530,134,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
                       <area shape="circle" coords="608,142,13" href="#" alt="Si♭" class="playNote" data-frequency="231.77" data-parent="#notation1">
                       <!-- Links -->
@@ -78,8 +78,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Ayqadha al-Houbbou Fou'adi</b>
-                                    <span>Hassan al-Haffar (Syrie)</span>
+                                    <b>Muwashah Ayqadha al-Houbbou Fou'adi</b>
+                                    <span>Hassan al-Haffar (Siria)</span>
                                     <span>Musica di Bahjat Hassan</span>
                                     <span><img src="/img/cd.png"> The Aleppo Suites Vol.2</span>
                                 </div>
@@ -92,8 +92,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Da‘i al-Hawa Qad Sah</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <b>Muwashah Da‘i al-Hawa Qad Sah</b>
+                                    <span>Sabah Fakhri (Siria)</span>
                                     <span>Musica di Omar al-Batch</span>
                                 </div>
                             </label>
@@ -106,7 +106,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Hobbi Fi Albi Amana</b>
-                                    <span>Fathiyya Ahmad (Égypte)</span>
+                                    <span>Fathiyya Ahmad (Egitto)</span>
                                     <span>Musica di Muhammad al-Qasabgi</span>
                                 </div>
                             </label>
@@ -118,8 +118,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ma Li ‘Ayni Absarat</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <b>Muwashah Ma Li ‘Ayni Absarat</b>
+                                    <span>Sabah Fakhri (Siria)</span>
                                 </div>
                             </label>
                         </div>

@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/tabla.jpg" alt="The Tabla">
-                        <span>Tabla en aluminium à peau de plastique de <strong>Gawharet El-Fan</strong>, Égypte.. &copy; MaqamWorld</span>
+                        <span>Tabla en aluminium à peau de plastique de <strong>Gawharet El-Fan</strong>, Egitto.. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
@@ -65,7 +65,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Houssam Ramzi</b>
-                                    <span>Le vétéran de la Tabla Houssam Ramzi (Égypte) parle de l'instrument dans une interview lors de l'exposition Analogue to Digital Music en 2013.</span>
+                                    <span>Le vétéran de la Tabla Houssam Ramzi (Egitto) parle de l'instrument dans une interview lors de l'exposition Analogue to Digital Music en 2013.</span>
                                 </div>
                             </label>
                         </div>
@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Saïd el-Artiste</b>
-                                    <span>Le maître et enseignant de Tabla Saïd el-Artiste (Égypte) avec son ensemble de percussion.</span>
+                                    <span>Le maître et enseignant de Tabla Saïd el-Artiste (Egitto) avec son ensemble de percussion.</span>
                                 </div>
                             </label>
                         </div>

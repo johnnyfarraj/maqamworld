@@ -44,7 +44,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/jiharkah.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
                     </div>
 
                     <map name="notemap">
@@ -54,7 +54,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="circle" coords="301,102,13" href="#" alt="La♮↓" class="playNote" data-frequency="433" data-parent="#notation1"><!--variable down from 440 -->
                       <area shape="circle" coords="378,94,13" href="#" alt="Si♭↓" class="playNote" data-frequency="454" data-parent="#notation1"><!--variable down from 463.53 -->
                       <area shape="circle" coords="456,86,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1"><!-- Jins Rast Alto -->
-                      <area shape="circle" coords="533,78,13" href="#" alt="Ré" class="playNote" data-frequency="586.66" data-parent="#notation1">
+                      <area shape="circle" coords="533,78,13" href="#" alt="Re" class="playNote" data-frequency="586.66" data-parent="#notation1">
                       <area shape="circle" coords="610,69,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="642.66" data-parent="#notation1"><!-- identical yo Jins Rast Alto 3rd -->
                       <area shape="circle" coords="688,61,13" href="#" alt="Fa" class="playNote" data-frequency="695.3" data-parent="#notation1">
                        <!-- Links -->
@@ -77,9 +77,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Kallili ya Souhbou</b>
-                                    <span>Ensemble Abdel Halim Noueirah (Égypte)</span>
-                                    <span>Musica di Muhammad Outhman</span>
+                                    <b>Muwashah Kallili ya Souhbou</b>
+                                    <span>Ensemble Abdel Halim Noueirah (Egitto)</span>
+                                    <span>Musica di Muhammad Uthman</span>
                                 </div>
                             </label>
                         </div>
@@ -91,8 +91,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Dawr ‘Ishna wi Shoufna</b>
-                                    <span>Saleh Abdel Hayy (Égypte)</span>
-                                    <span>Musica di Muhammad Outhman</span>
+                                    <span>Saleh Abdel Hayy (Egitto)</span>
+                                    <span>Musica di Muhammad Uthman</span>
                                 </div>
                             </label>
                         </div>
@@ -116,7 +116,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Doulab Jiharkah</b>
+                                    <b>Dulab Jiharkah</b>
                                     <span>Orchestre Sabah Fakhri</span>
                                     <span><img src="/img/cd.png"> Au Théatre Des Amandiers</span>
                                 </div>
@@ -130,7 +130,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>‘al-Rozana</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <span>Sabah Fakhri (Siria)</span>
                                     <span><img src="/img/cd.png"> Au Théatre Des Amandiers</span>
                                 </div>
                             </label>

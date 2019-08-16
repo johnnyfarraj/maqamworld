@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Formes Composées Instrumentales";
 $page_description = "Formes Composées Instrumentales";
-$page_keywords = "musique, arabe, formes, qawaleb, Il Doulab, La Maqtoua, La Muqaddima, La Tahmila, Il Darej";
+$page_keywords = "musique, arabe, formes, qawaleb, Il Dulab, La Maqtoua, La Muqaddima, La Tahmila, Il Darej";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Formes Composées Instrumentales</h1>
-                        <h3>Il Doulab, La Maqtoua, La Muqaddima, La Tahmila, Il Darej</h3>
+                        <h3>Il Dulab, La Maqtoua, La Muqaddima, La Tahmila, Il Darej</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Formes</a>
@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Layali Zaman</b>
-                                    <span>La composition instrumentale <strong>Layali Zaman</strong> du violoniste égyptien Abdou Dagher.</span>
+                                    <span>La composition instrumentale <strong>Layali Zaman</strong> du violoniste égyptien Abdo Dagher.</span>
                                 </div>
                             </label>
                         </div>
@@ -150,7 +150,7 @@ include($ROOT . 'inc/head.php');
                              --><div class="info">
                                     <b>Qari'at al-Fingan (1976)</b>
                                     <span>Abdel Halim</span>
-                                    <span>L'introduction de la longue chanson <em>Qari'at al-Fingan</em> (1976) de Abdel Halim Hafez, composée par Muhammad al-Mougi.
+                                    <span>L'introduction de la longue chanson <em>Qari'at al-Fingan</em> (1976) de Abdel Halim Hafez, composée par Muhammad al-Mugi.
                                     </span>
                                 </div>
                             </label>
@@ -175,12 +175,12 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div id="dulab" class="heading jins text-center full-width">
-                        <h3>Il Doulab</h3>
+                        <h3>Il Dulab</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/dulab.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Doulab</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/dulab.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Dulab</a>
                     </div>
-                    <p> Il Doulab est une composition très courte qui élabore et introduit les caractéristiques d'un <a href="../maqam.php">Maqam</a>. Son nom veut dire 'roue' en arabe et lui est donné parce que la mélodie est répétée plusieurs fois. Le doulab peut être joué seul avant une <a href="improv.php">improvisation</a>, ou peut servir comme introduction à un <a href="vocal_comp.php#dawr">Dawr</a>.
+                    <p> Il Dulab est une composition très courte qui élabore et introduit les caractéristiques d'un <a href="../maqam.php">Maqam</a>. Son nom veut dire 'roue' en arabe et lui est donné parce que la mélodie est répétée plusieurs fois. Le doulab peut être joué seul avant une <a href="improv.php">improvisation</a>, ou peut servir comme introduction à un <a href="vocal_comp.php#dawr">Dawr</a>.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=n60D-Mnodms">
@@ -192,8 +192,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Doulab Kurd</b>
-                                    <span>Cette Wasla de Sabah Fakhri en <a href="../maqam/hijazkar_kurd.php">Maqam Hijazkar Kurd</a> commence avec un Doulab traditionnel en Maqam Kurd.
+                                    <b>Dulab Kurd</b>
+                                    <span>Cette Wasla de Sabah Fakhri en <a href="../maqam/hijazkar_kurd.php">Maqam Hijazkar Kurd</a> commence avec un Dulab traditionnel en Maqam Kurd.
                                     </span>
                                 </div>
                             </label>
@@ -210,7 +210,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Dawr Inta Fahem</b>
-                                    <span>Il Dawr <strong>Inta Fahem</strong> de Zakaria Ahmad commence avec une simple répétition d'un Doulab dans le <a href="../maqam/huzam.php">Maqam Rahat al-Arwah</a>.
+                                    <span>Il Dawr <strong>Inta Fahem</strong> de Zakaria Ahmad commence avec une simple répétition d'un Dulab dans le <a href="../maqam/huzam.php">Maqam Rahat al-Arwah</a>.
                                     </span>
                                 </div>
                             </label>
@@ -236,7 +236,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Tahmila Souznak</b>
-                                    <span>La Tahmila <a href="../maqam/suznak.php">Souznak</a> (la plus connue des tahmilas), enregistrée par Ahmad al-Hifnawi au <a href="../instr/violin.php">violon</a>, George Michel au <a href="../instr/oud.php">oud</a>, Mahmoud 'Effat au <a href="../instr/nay.php">nay</a> et Hassan Anwar au <a href="../instr/riqq.php">riqq</a>.
+                                    <span>La Tahmila <a href="../maqam/suznak.php">Souznak</a> (la plus connue des tahmilas), enregistrée par Ahmad al-Hifnawi au <a href="../instr/violin.php">violon</a>, George Michel au <a href="../instr/oud.php">oud</a>, Mahmud 'Effat au <a href="../instr/nay.php">nay</a> et Hassan Anwar au <a href="../instr/riqq.php">riqq</a>.
                                     </span>
                                 </div>
                             </label>

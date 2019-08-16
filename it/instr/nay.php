@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sayyed Salem</b>
-                                    <span>Sayyed Salem (Égypte), pendant de nombreuses années membre de l'Orchestre de Oum Koulthoum, dans un solo pendant la pièce <strong>Ba‘id Annak</strong> (1965, musique de Baligh Hamdi).</span>
+                                    <span>Sayyed Salem (Egitto), pendant de nombreuses années membre de l'Orchestre de Oum Koulthoum, dans un solo pendant la pièce <strong>Ba‘id Annak</strong> (1965, musique de Baligh Hamdi).</span>
                                 </div>
                             </label>
                         </div>
@@ -78,9 +78,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Mahmoud ‘Effat</b>
+                                    <b>Mahmud ‘Effat</b>
                                     <span>
-                                    Mahmoud 'Effat (Égypte),  grand joueur de nay et professeur, membre pendant de nombreuses années de l'Orchestre Diamant, jouant un <a href="../form/improv.php#taqsim">Taqsim</a>
+                                    Mahmud 'Effat (Egitto),  grand joueur de nay et professeur, membre pendant de nombreuses années de l'Orchestre Diamant, jouant un <a href="../form/improv.php#taqsim">Taqsim</a>
                                     en <a href="../maqam/saba.php">Maqam Saba</a>.</span>
                                 </div>
                             </label>
@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Reda Bdeir</b>
-                                    <span>Reda Bdeir (Égypte) jouant la chanson <strong>Kulli Da Kan Leh</strong>
+                                    <span>Reda Bdeir (Egitto) jouant la chanson <strong>Kulli Da Kan Leh</strong>
                                     (1954, musique de Muhammad Abdel Wahab).</span>
                                 </div>
                             </label>
@@ -115,7 +115,7 @@ include($ROOT . 'inc/head.php');
                              --><div class="info">
                                     <b>Michael Ibrahim</b>
                                     <span>
-                                    Michael Ibrahim (Syrie), directeur de l'Orchestre National Arabe (Etats-Unis),
+                                    Michael Ibrahim (Siria), directeur de l'Orchestre National Arabe (Etats-Unis),
                                     jouant un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/saba.php">Maqam Saba</a>. Pendant une performance de l'orchestre.</span>
                                 </div>
                             </label>

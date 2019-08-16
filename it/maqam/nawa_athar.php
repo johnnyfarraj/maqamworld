@@ -44,12 +44,12 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/nawa_athar.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
                     </div>
 
                     <map name="notemap">
 					  <area shape="circle" coords="60,136,13" href="#" alt="Do" class="playNote" data-frequency=" 260.74" data-parent="#notation1"><!-- tonic -->
-					  <area shape="circle" coords="136,128,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="136,128,13" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
 					  <area shape="circle" coords="213,120,13" href="#" alt="Mi♭" class="playNote" data-frequency="315" data-parent="#notation1"><!-- Nikriz 3rd -->
 					  <area shape="circle" coords="291,112,13" href="#" alt="Fa♯" class="playNote" data-frequency="375" data-parent="#notation1"><!-- Nikriz 4th -->
 					  <area shape="circle" coords="368,104,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
@@ -78,8 +78,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ghouloubti Asaleh Fi Rouhi (1948)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musica di Riyad al-Soumbati</span>
+                                    <span>Umm Kulthum (Egitto)</span>
+                                    <span>Musica di Riyad al-Sunbati</span>
                                 </div>
                             </label>
                         </div>
@@ -91,7 +91,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" checked>
                                 <div class="info">
                                     <b>Gamil Gamal (1952)</b>
-                                    <span>Interprétation et Musica di Farid al-Atrache</span>
+                                    <span>Voce e musica di Farid al-Atrache</span>
                                 </div>
                             </label>
                         </div>
@@ -103,7 +103,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Fakkarouni (1966)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
+                                    <span>Umm Kulthum (Egitto)</span>
                                     <span>Musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -115,9 +115,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Adhkourou al-Houbba</b>
-                                    <span>Ensemble Abdel Halim Noueirah (Égypte)</span>
-                                    <span>Musica di Daoud Housni</span>
+                                    <b>Muwashah Adhkourou al-Houbba</b>
+                                    <span>Ensemble Abdel Halim Noueirah (Egitto)</span>
+                                    <span>Musica di Dawud Housni</span>
                                 </div>
                             </label>
                         </div>
@@ -130,7 +130,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Sama‘i Nawa Athar</b>
                                     <span>Ensemble Syrien de Homs</span>
-                                    <span>Musica di Jamil ‘Ouways (Syrie)</span>
+                                    <span>Musica di Jamil ‘Ouways (Siria)</span>
                                 </div>
                             </label>
                         </div>
@@ -141,8 +141,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Doulab Nawa Athar</b>
-                                    <span>George Abyad (Liban)</span>
+                                    <b>Dulab Nawa Athar</b>
+                                    <span>George Abyad (Lebano)</span>
                                     <span><img src="/img/cd.png"> Impovisations Orientales</span>
                                 </div>
                             </label>

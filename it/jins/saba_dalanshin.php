@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Jins Saba Dalancin";
 $page_description = "Jins Saba Dalancin";
-$page_keywords = "musique arabe, maqam, instruments, jins saba dalanchine, iqa‘, iqaa, rythme, oud, qanun, nay, quart de ton, tarab";
+$page_keywords = "Jins Saba Dalancin, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins Saba Dalancin <span class="badge badge-custom">Nouveau</span></h1>
-                        <h3>Une variation spéciale du <a href="saba.php">Jins Saba</a> avec sa tonique sur le 3<sup>ième</sup> degré</h3>
+                        <h1>Jins Saba Dalancin <span class="badge badge-custom">Nuovo</span></h1>
+                        <h3>Una versione speciale del <a href="saba.php">Jins Saba</a> con la tonica sul terzo grado.</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Jins</a>
                     <div class="clearfix"></div>
@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                      <div class="notation" id="notation1">
                         <img src="/note/jins/saba_dalanshin.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
                     </div>
 
                     <map name="notemap">
@@ -51,14 +51,15 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="133,62,14" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
 					  <area shape="circle" coords="208,55,13" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="477" data-parent="#notation1"><!--Bayati 2-->
 					  <area shape="circle" coords="281,46,14" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1"><!-- Hijaz Tonic-->
-					  <area shape="circle" coords="355,38,13" href="#" alt="Ré♭" class="playNote" data-frequency="560  " data-parent="#notation1"><!--Hijaz 2-->
+					  <area shape="circle" coords="355,38,13" href="#" alt="Re♭" class="playNote" data-frequency="560  " data-parent="#notation1"><!--Hijaz 2-->
 					  <area shape="circle" coords="432,29,13" href="#" alt="Mi♮" class="playNote" data-frequency="660" data-parent="#notation1"><!--Hijaz 3-->
 					  <area shape="circle" coords="509,21,13" href="#" alt="Fa" class="playNote" data-frequency="695.3" data-parent="#notation1">
 
 					</map>
-                    <p>Il Jins Saba Dalancin est un type spécial du <a href="saba.php">Jins Saba</a>. Il n'a pas de <em>ghammaz</em> et par conséquent n'as pas de taille définie. Sa mélodie est concentrée sur sa tonique, notée ici sur Do. Les intervalles au dessus de la tonique sont plus ou moins identiques à ceux du <a href="hijaz.php">Jins Hijaz</a>. La note qui est 2 degrés en dessous de la tonique (La, dans le cas présent) est la tonique secondaire.</p>
 
-                    <p>Il Jins Saba Dalancin apparaît sur l'octave du <a href="../maqam/rast.php">Maqam Rast</a>, et dans ce cas il est appelé <a href="../maqam/dalanshin.php">Maqam Dalancin</a>. Il apparaît aussi sur le 5<sup>ième</sup> degré du <a href="../maqam/shawq_afza.php">Maqam Shawq Afza</a>.</p>
+                    <p>Il Jins Saba Dalanshin è un caso speciale del <a href="saba.php">Jins Saba</a>, non ha alcun <em>ghammaz</em>, e per questo non ha una dimensione definita. La sua melodia è incentrata sulla tonica, in questo caso il Do. Gli intervalli sopra la tonica sono quasi identici al <a href="hijaz.php">Jins Hijaz</a>. Le nota che è due gradi sotto la tonica (in questo caos il La) è la tonica secondaria.</p>
+
+                    <p>Il Jins Saba Dalanshin si presenta sull'ottava del <a href="../maqam/rast.php">Maqam Rast</a>, che in questo caso è conosciuto come <a href="../maqam/dalanshin.php">Maqam Dalancin</a>. E' presente anche sul quinto grado del <a href="../maqam/shawq_afza.php">Maqam Shawq Afza</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -72,8 +73,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Ya Mal el-Cham</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
-                                    <span>Musica di Ahmad Abou Khalil al-Qabbani</span>
+                                    <span>Sabah Fakhri (Siria)</span>
+                                    <span>Musica di Ahmad Abu Khalil al-Qabbani</span>
                                 </div>
                             </label>
                         </div>
@@ -85,7 +86,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Qasida Ya Jirat al-Cha‘b al-Yamani</b>
-                                    <span>Hassan al-Haffar (Syrie)</span>
+                                    <span>Hassan al-Haffar (Siria)</span>
                                 </div>
                             </label>
                         </div>
@@ -96,9 +97,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Mala al-Kasat (khana)</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
-                                    <span>Musica di Muhammad Outhman</span>
+                                    <b>Muwashah Mala al-Kasat (khana)</b>
+                                    <span>Sabah Fakhri (Siria)</span>
+                                    <span>Musica di Muhammad Uthman</span>
                                 </div>
                             </label>
                         </div>
@@ -109,8 +110,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim au Qanoun (de Layali Rast)</b>
-                                    <span>Abbas al-Bleidi (Égypte)</span>
+                                    <b>Taqsim di <a href="../instr/qanun.php">Qanun</a> (da Layali <a href="../maqam/rast.php"></a>Maqam Rast)</b>
+                                    <span>Abbas al-Bleidi (Egitto)</span>
                                 </div>
                             </label>
                         </div>
@@ -121,8 +122,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Halawit el-Dounia</b>
-                                    <span>Sayyed Makkawi (Égypte)</span>
+                                    <b>Ya Halawit el-Dunia</b>
+                                    <span>Sayyed Makkawi (Egitto)</span>
                                     <span>Musica di Zakaria Ahmad</span>
                                 </div>
                             </label>
@@ -134,9 +135,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Iswaret el-‘Arous (1989)</b>
-                                    <span>Fairouz (Liban)</span>
-                                    <span>Musica di Philémon Wéhbé</span>
+                                    <b>Iswaret el-‘Arus (1989)</b>
+                                    <span>Fairouz (Lebano)</span>
+                                    <span>Musica di Philemon Wehbe</span>
                                 </div>
                             </label>
                         </div>
