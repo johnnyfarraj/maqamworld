@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam ‘Ushaq Masri";
 $page_description = "Maqam ‘Ushaq Masri";
-$page_keywords = "arabic, music, arab, world, maqam, jins, nahawand murassaa, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "Maqam ‘Ushaq Masri, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -39,8 +39,6 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/ushaq_masri.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di ‘Ushaq Masri</a>
                     </div>
 
-
-
                      <div class="notation" id="notation1">
                         <img src="/note/maqam/ushaq_masri.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
@@ -62,7 +60,8 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="414,9,548,40" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Maqam ‘Ushaq Masri est une variation du <a href="nahawand.php">Maqam Nahawand</a> avec le <a href="../jins/bayati.php">Jins Bayati</a> sur le 5<sup>ième</sup> degré (le <em>ghammaz</em>), au-dessus du Jins de base <a href="../jins/nahawand.php">Nahawand</a> sur le 1er degré.</p>
+                    
+                    <p>Il Maqam ‘Ushaq Masri è una variazione del <a href="nahawand.php">Maqam Nahawand</a> con il <a href="../jins/bayati.php">Jins Bayati</a> sul quinto grado (il <em>ghammaz</em>), sopra il <a href="../jins/nahawand.php">Nahawand</a> (la radice) sul primo grado.</p>
 
                     <p>Scopri altri maqamat della <a href="f_nahawand.php">Famiglia Maqam Nahawand</a>.</p>
 
@@ -77,7 +76,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Dawr Ahib Ashoufak (1930)</b>
+                                    <b>Dawr Ahib Ashufak (1930)</b>
                                     <span>Voce e musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -90,7 +89,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ba‘d el-Khisam</b>
-                                    <span>Sheikh Abu el-Éla Muhammad (Egitto)</span>
+                                    <span>Sheikh Abu el-Ela Muhammad (Egitto)</span>
                                 </div>
                             </label>
                         </div>
@@ -102,7 +101,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Layali Nahawand</b>
-                                    <span>Sheikh Abu el-Éla Muhammad (Egitto)</span>
+                                    <span>Sheikh Abu el-Ela Muhammad (Egitto)</span>
                                 </div>
                             </label>
                         </div>

@@ -74,7 +74,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Ah Min Nari Jafahum</b>
-                                    <span>Ensemble Nour al-Charq</span>
+                                    <span>Ensemble Nur al-Charq</span>
                                     <span>Musica di Sheikh Ali al-Darwish</span>
                                 </div>
                             </label>

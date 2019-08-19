@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Nahawand";
 $page_description = "Maqam Nahawand";
-$page_keywords = "arabic, music, arab, world, maqam, jins, nahawand, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "Maqam Nahawand, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -66,11 +66,12 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="135,11,308,39" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="440,7,558,37" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="670,11,786,39" href="../jins/kurd.php" class="mapLink" data-parent="#notation1">
-
 					</map>
-                    <p>Le Maqam Nahawand est le maqam principal de la <a href="f_nahawand.php">famille du Maqam Nahawand</a>. Sa gamme commence avec le jins de base <a href="../jins/nahawand.php">Jins Nahawand</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Jins Hijaz</a> ou du <a href="../jins/kurd.php">Jins Kurd</a> sur le 5<sup>ième</sup> degré. 
+                    
+                    <p>Il Maqam Nahawand è il maqam principale della <a href="f_nahawand.php">Famiglia Nahawand</a>. La sua scala inizia con il <a href="../jins/nahawand.php">Jins Nahawand</a> (la radice) sulla tonica, seguito dal <a href="../jins/hijaz.php">Jins Hijaz</a> o dal <a href="../jins/kurd.php">Jins Kurd</a> sul quinto grado.
                     </p>
-                    <p>Le <strong>Maqam Farahfaza</strong> est le Maqam Nahawand transposé sur Sol.
+                    
+                    <p>Il <strong>Maqam Farahfaza</strong> è il Maqam Nahawand trasposto con la tonica sul Sol.
                     </p>
 
                     <p>Scopri altri maqamat della <a href="f_nahawand.php">Famiglia Maqam Nahawand</a>.</p>
@@ -98,7 +99,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Alf Leila w-Leila (1969)</b>
+                                    <b>Alf Leila wi Leila (1969)</b>
                                     <span>Umm Kulthum (Egitto)</span>
                                     <span>Musica di Baligh Hamdi</span>
                                 </div>
@@ -112,7 +113,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dhikrayati (1944)</b>
-                                    <span>Musica di Muhammad al-Qasabgi</span>
+                                    <span>Musica di Muhammad al-Qassabgi</span>
                                 </div>
                             </label>
                         </div>
@@ -125,7 +126,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Hat Isqiniha</b>
                                     <span>Hassan al-Haffar (Siria)</span>
-                                    <span>Musica di Yehya al-Saoudi</span>
+                                    <span>Musica di Yehya al-Saudi</span>
                                     <span><img src="/img/cd.png"> The Aleppo Suites</span>
                                 </div>
                             </label>
@@ -139,7 +140,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Ramani Bi Sahmi Hawahu</b>
                                     <span>Khaled al-Hafez (Siria)</span>
-                                    <span>Musica di Dawud Housni</span>
+                                    <span>Musica di Daud Husni</span>
                                 </div>
                             </label>
                         </div>
@@ -164,7 +165,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Nahawand</b>
-                                    <span>Ensemble Abdel Halim Noueirah (Egitto)</span>
+                                    <span>Ensemble Abdel Halim Nuera (Egitto)</span>
                                     <span>Musica di Safar Ali</span>
                                 </div>
                             </label>
@@ -190,7 +191,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Longa Nahawand</b>
-                                    <span>Anouar Brahem</span>
+                                    <span>Anouar Brahem (Tunisia)</span>
                                     <span>Musica di Tanburi Cemil Bey</span>
                                 </div>
                             </label>
@@ -203,7 +204,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Longa Nahawand</b>
-                                    <span>Abdel Halim Noueirah Ensemble</span>
+                                    <span>Ensemble Abdel Halim Nuera (Egitto)</span>
                                     <span>Musica di Yorgo Baganos</span>
                                 </div>
                             </label>
@@ -216,7 +217,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dulab Nahawand</b>
-                                    <span>Sheikh Abu el-Éla Muhammad (Egitto)</span>
+                                    <span>Sheikh Abu el-Ela Muhammad (Egitto)</span>
                                 </div>
                             </label>
                         </div>

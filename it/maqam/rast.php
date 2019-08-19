@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Rast";
 $page_description = "Maqam Rast";
-$page_keywords = "arabic, music, arab, world, maqam, jins, rast, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "Maqam Rast, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -39,7 +39,6 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/rast.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Rast</a>
                     </div>
 
-
                      <div class="notation" id="notation1">
                         <img src="/note/maqam/rast.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
@@ -63,9 +62,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="160,6,273,37" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="400,6,586,37" href="../jins/upper_rast.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="637,11,820,39" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
-
 					</map>
-                    <p>Le Maqam Rast est de loin l'un des <em>maqams</em> les plus populaires du répertoire de la musique arabe, ansi que Il maqam principale nella <a href="f_rast.php">famille du Maqam Rast</a>. Sa gamme commence avec le jins de base <a href="../jins/rast.php">Rast</a> sur la tonique, suivi du <a href="../jins/upper_rast.php">Jins Rast Alto</a> (avec sa tonique sur le 8<sup>ième</sup> degré) ou du <a href="../jins/nahawand.php">Jins Nahawand</a> sur le 5<sup>ième</sup> degré.
+
+                    <p>Il Maqam Rast è il maqam principale della <a href="f_rast.php">Famiglia Rast</a>, e di gran lunga uno dei maqam più popolari e usati nel repertorio arabo. La sua scala inizia con il <a href="../jins/rast.php">Rast</a> (la radice) sulla tonica, seguito sul quinto grado dal <a href="../jins/upper_rast.php">Jins Rast Alto</a> (con la sua tonica sopra sull'ottavo grado) o dal <a href="../jins/nahawand.php">Jins Nahawand</a>.
                     </p>
 
                     <p>Scopri altri maqamat della <a href="f_rast.php">Famiglia Maqam Rast</a>.</p>
@@ -83,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Ya Shadi al-Alhan</b>
                                     <span>Sabah Fakhri (Siria)</span>
-                                    <span>Musica di Sayyed Darwich</span>
+                                    <span>Musica di Sayyed Darwish</span>
                                 </div>
                             </label>
                         </div>
@@ -107,10 +106,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ya ‘Oudhayb al-Marshaf</b>
-                                    <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Lebano)</span>
-                                    <span>Direttore d'orchestra: Aïda Chalhoub Ziadé</span>
-                                    <span>Musica di Sayyed Darwich</span>
+                                    <b>Muwashah Ya ‘Udhayb al-Marshaf</b>
+                                    <span>Coro della Facoltà di Musica - Università di Kaslik (Lebano)</span>
+                                    <span>Musica di Sayyed Darwish</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah et Chansons</span>
                                 </div>
                             </label>
@@ -122,7 +120,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Waraqou el-Asfar Shaher Ayloul</b>
+                                    <b>Waraqu el-Asfar Shaher Ayloul</b>
                                     <span>Fairouz (Lebano)</span>
                                     <span>Musica di Philemon Wehbe</span>
                                 </div>
@@ -135,7 +133,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qasida Salabat Souad</b>
+                                    <b>Qasida Salabat Suad</b>
                                     <span>Muhammad Khayri (Siria)</span>
                                 </div>
                             </label>
@@ -161,7 +159,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Lah Tilaw‘ini (1938)</b>
                                     <span>Umm Kulthum (Egitto)</span>
-                                    <span>Musica di Muhammad al-Qasabgi</span>
+                                    <span>Musica di Muhammad al-Qassabgi</span>
                                 </div>
                             </label>
                         </div>

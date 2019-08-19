@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Suznak";
 $page_description = "Maqam Suznak";
-$page_keywords = "arabic, music, arab, world, maqam, jins, suznak, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "Maqam Suznak, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -59,9 +59,9 @@ include($ROOT . 'inc/head.php');
                       <!-- Links -->
                       <area shape="rect" coords="154,9,265,36" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="422,8,546,35" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
-
-					</map>
-                    <p>Le Maqam Suznak est la modulation la plus populaire à partir du <a href="rast.php">Maqam Rast</a>. La modulation vers le <a href="../jins/hjaz.php">Jins Hijaz</a>sur la quinte est pratiquement obligatoire dans toute <a href="../form/improv.php">improvisation</a> commençant avec le <a href="jns/rast.php">Jins Rast</a> de base.</p>
+				</map>
+                    
+                    <p>Il Maqam Suznak è la modulazione più popolare del <a href="rast.php">Maqam Rast</a>, dove la modulazione al <a href="../jins/hjaz.php">Jins Hijaz</a> sul quinto grado della scala è praticamente obbligatorio in <a href="../form/improv.php">ogni taqsim o nei mawwal</a> che iniziano sul <a href="jns/rast.php">Jins Rast</a> (la radice).</p>
 
                     <p>Scopri altri maqamat della <a href="f_rast.php">Famiglia Maqam Rast</a>.</p>
 
@@ -89,7 +89,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr Asl el-Gharam</b>
-                                    <span>Nour el-Hoda (Liban/Egitto)</span>
+                                    <span>Nur el-Hoda (Liban/Egitto)</span>
                                     <span>Musica di Muhammad Uthman</span>
                                 </div>
                             </label>

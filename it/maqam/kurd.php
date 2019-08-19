@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Kurd";
 $page_description = "Maqam Kurd";
-$page_keywords = "arabic, music, arab, world, maqam, jins, ajam, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "Maqam Kurd, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -61,7 +61,7 @@ include($ROOT . 'inc/head.php');
 
 				     </map>
 
-                    <p>Le Maqam Kurd est le maqam principal de la <a href="f_kurd.php">famille du Maqam Kurd</a>. Il commence avec le jins de base <a href="../jins/kurd.php">Kurd</a> sur la tonique, suivi du <a href="../jins/nahawand.php">Jins Nahawand</a> sur le 4<sup>ième</sup> degré.</p>
+                    <p>Il Maqam Kurd è il maqam principale della <a href="f_kurd.php">Famiglia Kurd</a>. La sua scala inizia con il <a href="../jins/kurd.php">Kurd</a> (la radice) sulla tonica, seguito dal <a href="../jins/nahawand.php">Jins Nahawand</a> sul quarto grado.</p>
 
                     <p>Scopri altri maqamat della <a href="f_kurd.php">Famiglia Maqam Kurd</a>.</p>
 
@@ -115,9 +115,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Yamourrou Oujouban</b>
+                                    <b>Muwashah Yamurru Ujuban</b>
                                     <span>Sabah Fakhri (Siria)</span>
-                                    <span>Musica di Omar al-Batch</span>
+                                    <span>Musica di Omar al-Batsh</span>
                                     <span><img src="/img/cd.png"> Au Palais Des Congrès (1995)</span>
                                 </div>
                             </label>
@@ -129,9 +129,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ya Bahjet el-Rouh</b>
+                                    <b>Muwashah Ya Bahjet el-Ruh</b>
                                     <span>Sabah Fakhri (Siria)</span>
-                                    <span>Musica di Sayyed Darwich</span>
+                                    <span>Musica di Sayyed Darwish</span>
                                     <span><img src="/img/cd.png"> Au Palais Des Congrès (1995)</span>
                                 </div>
                             </label>
@@ -143,7 +143,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mashghoul ‘Aleik</b>
+                                    <b>Mashghul ‘Aleik</b>
                                     <span>Karem Mahmud (Egitto)</span>
                                     <span>Musica di Ahmad Sidqi</span>
                                 </div>
@@ -182,7 +182,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Kurd</b>
-                                    <span>Abraham Salman</span>
+                                    <span>Abraham Salman (Irak)</span>
                                     <span><img src="/img/cd.png"> Saltanah</span>
                                 </div>
                             </label>
@@ -194,7 +194,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr ‘Ishiqti Rouhak (1930)</b>
+                                    <b>Dawr ‘Ishiqti Ruhak (1930)</b>
                                     <span>Voce e musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>

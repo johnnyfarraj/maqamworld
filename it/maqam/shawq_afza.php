@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Shawq Afza";
 $page_description = "Maqam Shawq Afza";
-$page_keywords = "arabic, music, arab, world, maqam, jins, shawq afza, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "Maqam Shawq Afza, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -59,7 +59,8 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="137,5,263,36" href="../jins/ajam.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="425,5,544,36" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
 					</map>
-                    <p>Le Maqam Shawq Afza est la version la plus commune du <a href="ajam.php">Maqam ‘Ajam</a>. Sa gamme commence avec le jins de base <a href="../jins/ajam.php">‘Ajam</a> sur la tonique. Le fait qu'il ait le <a href="../jins/hijaz.php">Jins Hijaz</a> sur le 5<sup>ième</sup> degré est ce qui le distingue du <a href="ajam.php">Maqam ‘Ajam</a>, en plus du fait de fréquemment moduler vers le <a href="../jins/saba_dalanshin.php">Jins Saba Dalancin</a> sur le 3<sup>ième</sup>/5<sup>ième</sup> degré.</p>
+                    
+                    <p>Il Maqam Shawq Afza è la variante più comune del<a href="ajam.php">Maqam ‘Ajam</a>. La sua scala inizia con il  <a href="../jins/ajam.php">‘Ajam</a> (la radice) sulla tonica, mentre il <a href="../jins/hijaz.php">Jins Hijaz</a> sul quinto grado è la sua caratteristica distintiva, come una frequente modulazione sul <a href="../jins/saba_dalanshin.php">Jins Saba Dalancin</a> sul terzo/quinto grado.</p>
 
                     <p>Scopri altri maqamat della <a href="f_ajam.php">Famiglia Maqam ‘Ajam</a>.</p>
 
@@ -87,7 +88,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>‘Ala Allah Téoud (1970)</b>
+                                    <b>‘Ala Allah Teud (1970)</b>
                                     <span>Wadih al-Safi (Lebano)</span>
                                     <span>Musica di Farid al-Atrash</span>
                                 </div>
@@ -113,7 +114,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Iswarit el-‘Arouss (1989)</b>
+                                    <b>Iswarit el-‘Aruss (1989)</b>
                                     <span>Fairouz (Lebano)</span>
                                     <span>Musica di Philemon Wehbe</span>
                                 </div>

@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Jiharkah";
 $page_description = "Maqam Jiharkah";
-$page_keywords = "arabic, music, arab, world, maqam, jins, ajam, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "Maqam Jiharkah, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Jiharkah</h1>
-                        <h3>(n'apartient pas à une famille de maqams)</h3>
+                        <h3>(non appartenente ad alcuna famiglia)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Maqam</a>
                     <div class="clearfix"></div>
@@ -62,9 +62,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="490,149,672,182" href="../jins/upper_rast.php" class="mapLink" data-parent="#notation1">
 					</map>
 
-                    <p>Le Maqam Jiharkah est un maqam très rare qui commence avec le <a href="../jins/jiharkah.php">Jins Jiharkah</a> sur la tonique, suivi du <a href="../jins/upper_rast.php">Jins Rast Alto</a> sur le 5<sup>ième</sup> degré (avec sa tonique sur le 8<sup>ième</sup> degré).
+                    <p>Il Maqam Jiharkah è un maqam raro che inizia con il <a href="../jins/jiharkah.php">Jins Jiharkah</a> sulla tonica, seguito dal <a href="../jins/upper_rast.php">Jins Rast Alto</a> sul quinto grado (con la sua tonica isopra sull'ottavo grado).
                     </p>
-                    <p>Le Maqam Jiharkah ne fait pas partie d'une famille de maqams.</p>
+                    <p>Le Maqam Jiharkah non appartenente ad alcuna famiglia.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -77,8 +77,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Kallili ya Souhbou</b>
-                                    <span>Ensemble Abdel Halim Noueirah (Egitto)</span>
+                                    <b>Muwashah Kallili ya Suhbu</b>
+                                    <span>Ensemble Abdel Halim Nuera (Egitto)</span>
                                     <span>Musica di Muhammad Uthman</span>
                                 </div>
                             </label>
@@ -90,7 +90,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Dawr ‘Ishna wi Shoufna</b>
+                                    <b>Dawr ‘Ishna wi Shufna</b>
                                     <span>Saleh Abdel Hayy (Egitto)</span>
                                     <span>Musica di Muhammad Uthman</span>
                                 </div>

@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Bayati";
 $page_description = "Maqam Bayati";
-$page_keywords = "musique arabe, maqam, instruments, jins, iqa‘, iqaa, rythme, oud, qanun, nay, quart de ton, tarab";
+$page_keywords = "Maqam Bayati, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -66,7 +66,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="783,8,890,37" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 
 				     </map>
-                    <p>Il Maqam Bayati è di molto il più famoso e più usato tra i maqamat del reportorio arabo. E' anche il maqam principale della <a href="f_bayati.php">Famiglia Maqam Bayati</a>. La sua scala inizia con il <a href="../jins/bayati.php">Jins Bayati</a> sulla tonica seguito dal <a href="../jins/nahawand.php">Jins Nahawand</a> o dal <a href="../jins/rast.php">Jins Rast</a> sul quarto grado.
+                    <p>Il Maqam Bayati è di molto il più famoso e più usato tra i maqamat del reportorio arabo. E' anche il maqam principale della <a href="f_bayati.php">Famiglia Bayati</a>. La sua scala inizia con il <a href="../jins/bayati.php">Jins Bayati</a> sulla tonica seguito dal <a href="../jins/nahawand.php">Jins Nahawand</a> o dal <a href="../jins/rast.php">Jins Rast</a> sul quarto grado.
                     </p>
                     <p>Scopri altri maqamat della <a href="f_bayati.php">Famiglia Maqam Bayati</a>.</p>
 

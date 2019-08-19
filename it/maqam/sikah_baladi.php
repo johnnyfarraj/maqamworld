@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Sikah Baladi";
 $page_description = "Maqam Sikah Baladi";
-$page_keywords = "arabic, music, arab, world, maqam, jins, sikah baladi, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "Maqam Sikah Baladi, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Sikah Baladi</h1>
-                        <h3>(n'apartient pas à une famille de maqams)</h3>
+                        <h3>(non appartenente ad alcuna famiglia)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Maqam</a>
                     <div class="clearfix"></div>
@@ -63,9 +63,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="174,8,374,38" href="../jins/sikah_baladi.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="675,16,874,46" href="../jins/sikah_baladi.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="272,184,636,213" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
-
-                      </map>
-                    <p>Le Maqam Sikah Baladi est probablement le maqam arabe le plus difficile. Sa gamme (et son <em>sayr</em>) est en quelque sorte un hybride entre le <a href="huzam.php">Maqam Huzam</a> sur une note Sikah non conventionnelle, et du <a href="hijazkar.php">Maqam Hijazkar</a>. Les intervalles sont différents de ces derniers quoiqu'ils qu'ils sonnent un peu comme eux. Aucun des intervalles qui le composent ne correspond à une intonation juste ou à tempérament égale, ce qui rend ce maqam impossible à jouer sur un instrument autre qu'un <a href="../instr.php">instrument traditionnel arabe</a>.</p>
+                  </map>
+                    
+                    <p>Il Maqam Sikah Baladi è probabilmente il maqam arabo più complesso. La sua scala (e il suo <em>sayr</em>) è un ibrido tra una trasposizione del <a href="huzam.php">Maqam Huzam</a> a una nota che non è un quarto di tono, e il <a href="hijazkar.php">Maqam Hijazkar</a> – gli intervalli non sono esattamente gli stessi, ma suona un pò come entrambi i maqam. Nessuno dei suoi intervalli corrisponde a un intervallo del sistema temperato equabile, rendendolo impossibile da suonare se non con la voce o con <a href="../instr.php">strumenti tradizionali arabi</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -78,7 +78,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Sahirtou Minhou al-Layali (1935)</b>
+                                    <b>Sahirtu Minhu al-Layali (1935)</b>
                                     <span>Voce e musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -116,7 +116,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Yalli Kan Yichgik Anini (1949)</b>
+                                    <b>Yalli Kan Yishgik Anini (1949)</b>
                                     <span>Umm Kulthum (Egitto)</span>
                                     <span>Musica di Riyad al-Sunbati</span>
                                 </div>
@@ -142,7 +142,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Koulli Da Kan Leh (1954)</b>
+                                    <b>Kulli Da Kan Leh (1954)</b>
                                     <span>Voce e musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -154,7 +154,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>el-Habib el-Majhoul(1972)</b>
+                                    <b>el-Habib el-Majhul(1972)</b>
                                     <span>Voce e musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -166,7 +166,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim au Bouzouk</b>
+                                    <b>Taqsim al Buzuk</b>
                                     <span>Matar Muhammad (Lebanon)</span>
                                 </div>
                             </label>
@@ -178,7 +178,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim au Qanun</b>
+                                    <b>Taqsim al Qanun</b>
                                     <span>Abraham Salman (Irak)</span>
                                     <span><img src="/img/cd.png"> Saltanah</span>
                                 </div>

@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam ‘Ajam ‘Ushayran";
 $page_description = "Maqam ‘Ajam ‘Ushayran";
-$page_keywords = "musique arabe, maqam, instruments, jins, iqa‘, iqaa, rythme, oud, qanun, nay, quart de ton, tarab";
+$page_keywords = "Maqam ‘Ajam ‘Ushayran, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -95,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Da‘i al-Hawa Qad Sah</b>
                                     <span>Sabah Fakhri (Siria)</span>
-                                    <span>Musica di Omar al-Batch</span>
+                                    <span>Musica di Omar al-Batsh</span>
                                 </div>
                             </label>
                         </div>
@@ -108,7 +108,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>el-Hobbi Fi Albi Amana</b>
                                     <span>Fathiyya Ahmad (Egitto)</span>
-                                    <span>Musica di Muhammad al-Qasabgi</span>
+                                    <span>Musica di Muhammad al-Qassabgi</span>
                                 </div>
                             </label>
                         </div>

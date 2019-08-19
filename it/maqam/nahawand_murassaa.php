@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Nahawand Murassa‘";
 $page_description = "Maqam Nahawand Murassa‘";
-$page_keywords = "arabic, music, arab, world, maqam, jins, nahawand murassaa, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "Maqam Murassa‘, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -59,9 +59,9 @@ include($ROOT . 'inc/head.php');
                        <!-- Links -->
                       <area shape="rect" coords="53,7,331,36" href="../jins/nahawand_murassaa.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="337,141,454,174" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
-
 					</map>
-                    <p>Le Maqam Nahawand Murassa' est en gros le <a href="nahawand.php">Maqam Nahawand</a> avec une quinte abaissée. Sa gamme commence avec le <a href="../jins/nahawand_murassaa.php">Jins Nahawand Murassa‘</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Jins Hijaz</a> sur le 4<sup>ième</sup> degré.
+                    
+                    <p>Il Maqam Nahawand Murassa‘ è semplicemente il <a href="nahawand.php">Maqam Nahawand</a> con il quinto grado della scala abbassato. La sua scala inizia con il <a href="../jins/nahawand_murassaa.php">Jins Nahawand Murassa‘</a> sulla tonica, sovrapposto con il <a href="../jins/hijaz.php">Jins Hijaz</a> sul quarto grado.
                     </p>
 
                     <p>Scopri altri maqamat della <a href="f_nahawand.php">Famiglia Maqam Nahawand</a>.</p>
@@ -90,7 +90,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Khousara (1957)</b>
+                                    <b>Khusara (1957)</b>
                                     <span>Abdel Halim Hafez (Egitto)</span>
                                     <span>Musica di Baligh Hamdi</span>
                                 </div>
@@ -117,7 +117,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Sama‘i Nahawand</b>
                                     <span>Simon Shaheen (Palestine)</span>
-                                    <span>Musica di Mesut Cemil (Turquie)</span>
+                                    <span>Musica di Mesut Cemil (Turchia)</span>
                                 </div>
                             </label>
                         </div>
@@ -130,7 +130,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dulab Nahawand</b>
                                     <span>Aïcha Redouane (Marocco)</span>
-                                    <span><img src="/img/cd.png"> Egitto</span>
+                                    <span><img src="/img/cd.png"> Égypte</span>
                                 </div>
                             </label>
                         </div>

@@ -85,8 +85,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Muhammad al-Qasabgi</b>
-                                    <span>Virtuose du oud et compositeur égyptien, Muhammad al-Qasabgi joue ici
+                                    <b>Muhammad al-Qassabgi</b>
+                                    <span>Virtuose du oud et compositeur égyptien, Muhammad al-Qassabgi joue ici
                                     un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/rast.php">Maqam Rast</a>
                                     (enregistré au Conservatoire de Musique Arabe au Caire, en 1955).
                                     </span>

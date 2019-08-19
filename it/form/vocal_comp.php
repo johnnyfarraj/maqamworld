@@ -95,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Hassan al-Haffar Wasla</b>
-                                    <span>Enregistrement de Hassan al-Haffar chantant une <a href="#wasla">wasla</a> de Mouashahat en <a href="../maqam/nahawand.php">Maqam Nahawand</a>, tous composés par ‘Omar al-Batch.</span>
+                                    <span>Enregistrement de Hassan al-Haffar chantant une <a href="#wasla">wasla</a> de Mouashahat en <a href="../maqam/nahawand.php">Maqam Nahawand</a>, tous composés par ‘Omar al-Batsh.</span>
                                 </div>
                             </label>
                         </div>
@@ -182,7 +182,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Dawr Dayya‘ti Moustaqbal Hayati (1914)</b>
-                                    <span>Sabah Fakhri interprète le <strong>Dawr Dayya'ti Moustaqbal Hayati</strong> en <a href="../maqam/bayati_shuri.php">Maqam Bayati Shuri</a> (1914, musique de Sayyed Darwich).</span>
+                                    <span>Sabah Fakhri interprète le <strong>Dawr Dayya'ti Moustaqbal Hayati</strong> en <a href="../maqam/bayati_shuri.php">Maqam Bayati Shuri</a> (1914, musique de Sayyed Darwish).</span>
                                 </div>
                             </label>
                         </div>
@@ -207,7 +207,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Hayrana Leh (1930)</b>
-                                    <span>La chanteuse égypyienne Leila Murad interprète la tqatouqa <strong>Hayrana Leh</strong> en <a href="../maqam/rast.php">Maqam Rast</a> (1930), composée par Dawud Housni.</span>
+                                    <span>La chanteuse égypyienne Leila Murad interprète la tqatouqa <strong>Hayrana Leh</strong> en <a href="../maqam/rast.php">Maqam Rast</a> (1930), composée par Daud Husni.</span>
                                 </div>
                             </label>
                         </div>
@@ -329,7 +329,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ya Touyour (1941)</b>
-                                    <span>Le monologue de Asmahan <strong>Ya Touyour</strong> (1941) composé par Muhammad al-Qasabgi.</span>
+                                    <span>Le monologue de Asmahan <strong>Ya Touyour</strong> (1941) composé par Muhammad al-Qassabgi.</span>
                                 </div>
                             </label>
                         </div>

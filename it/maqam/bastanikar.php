@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Bastanikar";
 $page_description = "Maqam Bastanikar";
-$page_keywords = "arabic, music, arab, world, maqam, jins, sikah, bastanikar, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "Maqam Bastanikar, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -68,7 +68,7 @@ include($ROOT . 'inc/head.php');
 
 				      </map>
 
-                    <p>Il Maqam Bastanikar è formato dal <a href="../jins/sikah.php">Jins Sikah</a> seguito dal <a href="saba.php">Maqam Saba</a>. La sua scala inizia con il <a href="../jins/sikah.php">Jins Sikah</a> (radice) sulla tonica, seguito dal <a href="../jins/saba.php">Jins Saba</a> sul terzo grado, il <a href="../jins/hijaz.php">Jins Hijaz</a> sovrapposto sul quinto grado, e infine il <a href="../jins/nikriz.php">Jins Nikriz</a> sull'ottava.
+                    <p>Il Maqam Bastanikar è formato dal <a href="../jins/sikah.php">Jins Sikah</a> seguito dal <a href="saba.php">Maqam Saba</a>. La sua scala inizia con il <a href="../jins/sikah.php">Jins Sikah</a> (la radice) sulla tonica, seguito dal <a href="../jins/saba.php">Jins Saba</a> sul terzo grado, il <a href="../jins/hijaz.php">Jins Hijaz</a> sovrapposto sul quinto grado, e infine il <a href="../jins/nikriz.php">Jins Nikriz</a> sull'ottava.
                     </p>
 
                     <p>Scopri altri maqamat della <a href="f_sikah.php">Famiglia Maqam Sikah</a>.</p>
@@ -112,7 +112,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Inti Fakrani (1938)</b>
                                     <span>Umm Kulthum (Egitto)</span>
-                                    <span>Musica di Muhammad al-Qasabgi</span>
+                                    <span>Musica di Muhammad al-Qassabgi</span>
                                 </div>
                             </label>
                         </div>
@@ -163,7 +163,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim con l'Oud en <a href="../maqam/bastanikar.php">Maqam Bastanikar</a></b>
+                                    <b>Taqsim con l'Oud sul <a href="../maqam/bastanikar.php">Maqam Bastanikar</a></b>
                                     <span>Muhammad Qadri Dalal (Siria)</span>
                                     <span><img src="/img/cd.png"> Maqams Insolites</span>
                                 </div>
@@ -176,7 +176,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim con l'Oud en <a href="../maqam/sikah.php">Maqam Sikah</a></b>
+                                    <b>Taqsim con l'Oud sul <a href="../maqam/sikah.php">Maqam Sikah</a></b>
                                     <span>Riyad al-Sunbati (Egitto)</span>
                                     <span><img src="/img/cd.png"> Taqasim Oud</span>
                                 </div>

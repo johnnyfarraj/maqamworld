@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Saba Zamzam";
 $page_description = "Maqam Saba Zamzam";
-$page_keywords = "arabic, music, arab, world, maqam, jins, saba zamzam, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "Maqam Saba Zamzam, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Saba Zamzam</h1>
-                        <h3>(n'apartient pas à une famille de maqams)</h3>
+                        <h3>(non appartenente ad alcuna famiglia)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Maqam</a>
                     <div class="clearfix"></div>
@@ -64,12 +64,12 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="476,6,610,35" href="../jins/ajam.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="264,145,387,176" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="548,145,680,174" href="../jins/nikriz.php" class="mapLink" data-parent="#notation1">
-
 					</map>
-                    <p>Le Maqam Saba Zamzam est un maqam très rare dans le répertoire de la musique arabe. Sa gamme commence avec le <a href="../jins/saba_zamzam.php">Jins Saba Zamzam</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Jins Hijaz</a> sur le 3<sup>ième</sup> degré, et finalement du <a href="../jins/ajam.php">Jins ‘Ajam</a> ou du <a href="../jins/nikriz.php">Jins Nikriz</a> sur le 6<sup>ième</sup> degré.
+                    
+                    <p>Il Maqam Saba è un maqam raro nel repertorio arabo. La sua scala inizia con il <a href="../jins/saba_zamzam.php">Jins Saba Zamzam</a> sulla tonica, sovrapposto al <a href="../jins/hijaz.php">Jins Hijaz</a> sul terzo grado, seguito dal <a href="../jins/ajam.php">Jins ‘Ajam</a> o dal <a href="../jins/nikriz.php">Jins Nikriz</a> sul sesto grado.
                     </p>
-                    <p>
-                    Maqam Saba Zamzam ne fait pas partie d'une famille de maqams.</p>
+                    
+                    <p>Maqam Saba Zamzam non fa parte di una famiglia.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

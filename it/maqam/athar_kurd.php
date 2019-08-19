@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Athar Kurd";
 $page_description = "Maqam Athar Kurd";
-$page_keywords = "musique arabe, maqam, instruments, jins, iqa‘, iqaa, rythme, oud, qanun, nay, quart de ton, tarab";
+$page_keywords = "Maqam Athar Kurd, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -158,7 +158,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim con l'Oud en Maqam Athar Kurd</b>
+                                    <b>Taqsim con l'Oud sul Maqam Athar Kurd</b>
                                     <span>Muhammad Qadri Dalal (Siria)</span>
                                     <span><img src="/img/cd.png"> Maqams Insolites</span>
                                 </div>

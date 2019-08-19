@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam ‘Ajam";
 $page_description = "Maqam ‘Ajam";
-$page_keywords = "arabic, music, arab, world, maqam, jins, ajam, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "Maqam ‘Ajam, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -64,7 +64,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="639,14,806,40" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
 		          </map>
 
-                    <p>Il Maqam ‘Ajam (anche conosciuto come <strong>‘Ajam Egiziano</strong>) è il maqam principale della <a href="f_ajam.php">Famiglia Maqam ‘Ajam</a>, e inizia con il <a href="../jins/ajam.php">Jins ‘Ajam</a> sulla tonica, seguito dal <a href="../jins/upper_ajam.php">Jins ‘Ajam Alto</a> sul quinto grado (con la sua tonica, fino all'ottava) o dal <a href="../jins/nahawand.php">Jins Nahawand</a> sul quinto grado.</p>
+                    <p>Il Maqam ‘Ajam (anche conosciuto come <strong>‘Ajam Egiziano</strong>) è il maqam principale della <a href="f_ajam.php">Famiglia ‘Ajam</a>, e inizia con il <a href="../jins/ajam.php">Jins ‘Ajam</a> sulla tonica, seguito dal <a href="../jins/upper_ajam.php">Jins ‘Ajam Alto</a> sul quinto grado (con la sua tonica, fino all'ottava) o dal <a href="../jins/nahawand.php">Jins Nahawand</a> sul quinto grado.</p>
                     
                     <p>Scopri altri maqamat della <a href="f_ajam.php">Famiglia Maqam ‘Ajam</a>.</p>
 
@@ -132,7 +132,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Zuruni Kulli Sana Marra</b>
                                     <span>Karem Mahmud (Egitto)</span>
-                                    <span>Musica di Sayyed Darwich</span>
+                                    <span>Musica di Sayyed Darwish</span>
                                 </div>
                             </label>
                         </div>

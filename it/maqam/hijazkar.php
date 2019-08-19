@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Hijazkar";
 $page_description = "Maqam Hijazkar";
-$page_keywords = "arabic, music, arab, world, maqam, jins, hijaz kar, hijazkar, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "Maqam Hijazkar, Maqam Shadd ‘Araban, Maqam Suzidil, Maqam Shahnaz, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -76,7 +76,7 @@ include($ROOT . 'inc/head.php');
 
 					</map>
                     
-                    <p>Il Maqam Hijazkar è la variazione più comune del <a href="hijaz.php">Maqam Hijaz</a>. La sua scala inizia con il <a href="../jins/hijaz.php">Jins Hijaz</a> (radice) sulla tonica, seguito dal <a href="../jins/nikriz.php">Jins Nikriz</a> sul quatro grado e il <a href="../jins/hijazkar.php">Jins Hijazkar</a> sull'ottava.
+                    <p>Il Maqam Hijazkar è la variazione più comune del <a href="hijaz.php">Maqam Hijaz</a>. La sua scala inizia con il <a href="../jins/hijaz.php">Jins Hijaz</a> (la radice) sulla tonica, seguito dal <a href="../jins/nikriz.php">Jins Nikriz</a> sul quatro grado e il <a href="../jins/hijazkar.php">Jins Hijazkar</a> sull'ottava.
                     </p>
                     
                     <p>Per ragioni storiche, tre trasposizioni di questo maqam hanno nomi differenti (e erano soliti avere differenti <em>sayr</em> molto tempo fa):</p>
@@ -113,7 +113,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr Yama-nta Wahishni</b>
-                                    <span>Ensemble Abdel Halim Noueirah (Egitto)</span>
+                                    <span>Ensemble Abdel Halim Nuera (Egitto)</span>
                                     <span>Musica di Muhammad Uthman</span>
                                 </div>
                             </label>
@@ -127,7 +127,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Nas Ana Mutti Fi Hobbi</b>
                                     <span>Sabah Fakhri (Siria)</span>
-                                    <span>Musica di Sayyed Darwich</span>
+                                    <span>Musica di Sayyed Darwish</span>
                                 </div>
                             </label>
                         </div>
@@ -153,7 +153,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Ya ‘Uyunan Ramiyat</b>
                                     <span>Sabri al-Mudallal (Siria)</span>
-                                    <span>Musica di Omar al-Batch</span>
+                                    <span>Musica di Omar al-Batsh</span>
                                 </div>
                             </label>
                         </div>
@@ -166,7 +166,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Maria</b>
                                     <span>Sabah Fakhri (Siria)</span>
-                                    <span>Musica di Sayyed Darwich</span>
+                                    <span>Musica di Sayyed Darwish</span>
                                 </div>
                             </label>
                         </div>
@@ -205,7 +205,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Laha Badru-t-Timm</b>
                                     <span>(Maqam Suzidil)</span>
-                                    <span>Ensemble de la Musique Arabe (Egitto)</span>
+                                    <span>Orchestra di Musica Araba (Egitto)</span>
                                     <span>Musica di Mahmud Subh</span>
                                 </div>
                             </label>

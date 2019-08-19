@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Hijazkar Kurd";
 $page_description = "Maqam Hijazkar Kurd";
-$page_keywords = "arabic, music, arab, world, maqam, jins, ajam, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "Maqam Hijazkar Kurd, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -65,7 +65,7 @@ include($ROOT . 'inc/head.php');
 
 					</map>
                     
-                    <p>Il Maqam Hijazkar Kurd è una versione arcaica del <a href="kurd.php">Maqam Kurd</a> con il <a href="../jins/hijazkar.php">Jins Hijazkar</a> sull'ottava. La sua scala inizia con il <a href="../jins/kurd.php">Jins Kurd</a> (radice) sulla tonica seguito dal <a href="../jins/nahawand.php">Jins Nahawand</a> sul quarto grado.
+                    <p>Il Maqam Hijazkar Kurd è una versione arcaica del <a href="kurd.php">Maqam Kurd</a> con il <a href="../jins/hijazkar.php">Jins Hijazkar</a> sull'ottava. La sua scala inizia con il <a href="../jins/kurd.php">Jins Kurd</a> (la radice) sulla tonica seguito dal <a href="../jins/nahawand.php">Jins Nahawand</a> sul quarto grado.
                     </p>
 
                     <p>Scopri altri maqamat della <a href="f_kurd.php">Famiglia Maqam Kurd</a>.</p>
@@ -82,9 +82,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Tif Ya Durri</b>
-                                    <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Lebano)</span>
-                                    <span>Direttore d'orchestra: Aïda Chalhoub Ziadé</span>
-                                    <span>Musica di Sayyed Darwich/Omar al-Batch</span>
+                                    <span>Coro della Facoltà di Musica - Università di Kaslik (Lebano)</span>
+                                    <span>Musica di Sayyed Darwish/Omar al-Batsh</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah et Chansons</span>
                                 </div>
                             </label>
@@ -98,8 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Hibbi Zurni Ma Tayassar</b>
                                     <span>Coro della facoltà di musica - Université Saint-Esprit de Kaslik (Lebano)</span>
-                                    <span>Direttore d'orchestra: Aïda Chalhoub Ziadé</span>
-                                    <span>Musica di Darwich al-Hariri</span>
+                                    <span>Musica di Darwish al-Hariri</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah et Chansons</span>
                                 </div>
                             </label>

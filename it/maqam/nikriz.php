@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Nikriz";
 $page_description = "Maqam Nikriz";
-$page_keywords = "arabic, music, arab, world, maqam, jins, nikriz, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "Maqam Nikriz, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -60,9 +60,9 @@ include($ROOT . 'inc/head.php');
                       <!-- Links -->
                       <area shape="rect" coords="130,6,305,34" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="454,6,584,34" href="../jins/nikriz.php" class="mapLink" data-parent="#notation1">
-
 					</map>
-                    <p>Le Maqam Nikriz est le maqam principal de la <a href="f_nikriz.php">famille du Maqam Nikriz</a>. Sa gamme commence à la base avec le <a href="../jins/nikriz.php">Jins Nikriz</a> sur la tonique, suivi du <a href="../jins/nahawand.php">Jins Nahawand</a> sur le 5<sup>ième</sup> degré.
+                    
+                    <p>Il Maqam Nikriz è il maqam principale della <a href="f_nikriz.php">Famiglia Nikriz</a>. La sua scala inizia con il <a href="../jins/nikriz.php">Jins Nikriz</a> (il radice) sulla tonica, seguito dal <a href="../jins/nahawand.php">Jins Nahawand</a> sul quinto grado.
                     </p>
                     <p>Scopri altri maqamat della <a href="f_nikriz.php">Famiglia Maqam Nikriz</a>.</p>
 
@@ -115,7 +115,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Saga al-Laylou (1939)</b>
+                                    <b>Saga al-Laylu (1939)</b>
                                     <span>Voce e musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -127,9 +127,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Bayna Qasiyoun Wa Rabwa</b>
+                                    <b>Muwashah Bayna Qasiun Wa Rabwa</b>
                                     <span>Hassan al-Haffar (Siria)</span>
-                                    <span>Musica di Omar al-Batch</span>
+                                    <span>Musica di Omar al-Batsh</span>
                                 </div>
                             </label>
                         </div>
@@ -142,7 +142,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Zarani Taht al-Ghayahib</b>
                                     <span>Muhammad Khayri (Siria)</span>
-                                    <span>Musica di Omar al-Batch</span>
+                                    <span>Musica di Omar al-Batsh</span>
                                 </div>
                             </label>
                         </div>
@@ -155,7 +155,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr Yalli Qawamak Ya‘gibni</b>
                                     <span>Karem Mahmud (Egitto)</span>
-                                    <span>Musica di Sayyed Darwich</span>
+                                    <span>Musica di Sayyed Darwish</span>
                                 </div>
                             </label>
                         </div>

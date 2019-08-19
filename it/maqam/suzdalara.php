@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Suzdalara";
 $page_description = "Maqam Suzdalara";
-$page_keywords = "arabic, music, arab, world, maqam, jins, suzdalara, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "Maqam Suzdalara, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -58,9 +58,9 @@ include($ROOT . 'inc/head.php');
                       <!-- Links -->
                       <area shape="rect" coords="79,7,257,35" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="392,7,504,35" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
-
-                    </map>
-                    <p>Le Maqam Suzdalara est un maqam assez archaïque et presque inexistant en tant que maqam indépendant, même si son <em>sayr</em> est obligatoire pour presque toute performance et chanson dans le <a href="rast.php">Maqam Rast</a>: le <a href="../jins/nahawand.php">Jins Nahawand</a> sur le 5<sup>ième</sup> degré du <a href="rast.php">Maqam Rast</a> est une transition obligatoire à partir d'autres modulations pour signaler le retour vers le Jins de base <a href="../jins/rast.php">Rast</a> sur la tonique.</p>
+                </map>
+                    
+                    <p>Il Maqam Suzdalara è abbastanza arcaico e quasi inesistente come maqam indipentende, invece il suo <em>sayr</em> although its sayr è obbligatorio in ogni esibizione e in ogni canzone in qualunque branch del <a href="rast.php">Maqam Rast</a>: il <a href="../jins/nahawand.php">Jins Nahawand</a> sul quinto grado del <a href="rast.php">Maqam Rast</a> è una transizione universale dalle altre modulazioni, segnando in ritorno al radice <a href="../jins/rast.php">Jins Rast</a> sulla tonica.</p>
 
                     <p>Scopri altri maqamat della <a href="f_rast.php">Famiglia Maqam Rast</a>.</p>
 

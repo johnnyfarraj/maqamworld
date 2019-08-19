@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Huzam/Rahat al-Arwah";
 $page_description = "Maqam Huzam/Rahat al-Arwah";
-$page_keywords = "arabic, music, arab, world, maqam, jins, sikah, huzam, rahat al-arwah, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "Maqam Huzam, Maqam Rahat al-Arwah, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -65,7 +65,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="484,7,591,35" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 		          </map>
 
-                    <p>Il Maqam Huzam è di gran lunga il maqam più popolare nella <a href="f_sikah.php">famille du Maqam Sikah</a>, e inizia sul Mi<i class="icon-halfflat"></i>. La sua scala inizia con il <a href="../jins/sikah.php">Jins Sikah</a> (radice) sulla tonica, seguito dal <a href="../jins/hijaz.php">Jins Hijaz</a> sul quarto grado e dal <a href="../jins/rast.php">Jins Rast</a> sul sesto grado.
+                    <p>Il Maqam Huzam è di gran lunga il maqam più popolare nella <a href="f_sikah.php">famille du Maqam Sikah</a>, e inizia sul Mi<i class="icon-halfflat"></i>. La sua scala inizia con il <a href="../jins/sikah.php">Jins Sikah</a> (la radice) sulla tonica, seguito dal <a href="../jins/hijaz.php">Jins Hijaz</a> sul quarto grado e dal <a href="../jins/rast.php">Jins Rast</a> sul sesto grado.
                     </p>
 
                     <p>La trasposizione del Maqam Huzam in Si<i class="icon-halfflat"></i> ha un suo nome: <strong>Maqam Rahat al-Arwah</strong>. Entrambi i <em>maqams</em> hanno lo stesso <em>sayr</em>.</p>
@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Ya Ghusna Naqa</b>
                                     <span>(Maqam Huzam)</span>
-                                    <span>Ensemble de la Musique Arabe (Egitto)</span>
+                                    <span>Orchestra di Musica Araba (Egitto)</span>
                                 </div>
                             </label>
                         </div>
@@ -133,7 +133,7 @@ include($ROOT . 'inc/head.php');
 
                     <!-- Start Rahat al-Arwah section -->
                     <div class="heading jins text-center">
-                        <h3>esempi di Maqam Rahat al-Arwah</h3>
+                        <h3>Esempi di Maqam Rahat al-Arwah</h3>
                     </div>
                     <div class="clearfix"></div>
 
@@ -183,7 +183,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dulab Rahat al-Arwah</b>
                                     <span>Aïcha Redouane (Marocco)</span>
-                                    <span><img src="/img/cd.png"> Egitto</span>
+                                    <span><img src="/img/cd.png"> Égypte</span>
                                 </div>
                             </label>
                         </div>

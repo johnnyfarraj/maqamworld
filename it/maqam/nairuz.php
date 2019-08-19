@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Nairuz/ Maqam Yakah";
-$page_description = "Maqam Nairuz/ Maqam Yakah";
-$page_keywords = "arabic, music, arab, world, maqam, jins, nairuz, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_title = "Maqam Nairuz/Maqam Yakah";
+$page_description = "Maqam Nairuz/Maqam Yakah";
+$page_keywords = "Maqam Nairuz, Maqam Yakah, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -65,11 +65,13 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="438,5,570,34" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
 					</map>
 
-                    <p>Le <strong>Maqam Nairuz</strong> commence avec le jins de base <a href="../jins/rast.php">Rast</a> sur la tonique, suivi du <a href="../jins/bayati.php">Jins Bayati</a> sur le 5<sup>ième</sup> degré.
+                    <p>Il <strong>Maqam Nairuz</strong> inizia con il <a href="../jins/rast.php">Rast</a> (la radice) sulla tonica, seguito dal <a href="../jins/bayati.php">Jins Bayati</a> sul quinto grado.
                     </p>
-                    <p>Le Maqam Nairuz est assez rare en tant que maqam indépendant mais est utilisé souvent en tant que <em>sayr</em> à l'intérieur du <a href="suznak.php">Maqam Suznak</a>/<a href="rast.php">Maqam Rast</a> à cause des affinités entre le <a href="../jins/bayati.php">Jins Bayati</a> et le <a href="../jins/hijaz.php">Jins Hijaz</a> sur le 5<sup>ième</sup> degré de la gamme.
+                    
+                    <p>Il Maqam Nairuz è abbastanza raro come maqam a se stante, ma è più usato come <em>sayr</em> del <a href="suznak.php">Maqam Suznak</a>/<a href="rast.php">Maqam Rast</a> – a causa dell'affinità tra il <a href="../jins/bayati.php">Jins Bayati</a> e il <a href="../jins/hijaz.php">Jins Hijaz</a> sul quinto grado.
                     </p>
-                    <p>Le <strong>Maqam Yakah</strong> est une version archaïque du Maqam Nairuz, construit sur la note Sol-3 dans la gamme de 24 notes arabe archaïque (note appelée <strong>Yakah</strong>) plutôt que sur la note Do-4.
+                    
+                    <p>Il <strong>Maqam Yakah</strong> è una versione arcaica del Maqam Nairuz, basato sulla nota Sol-3 nella scala araba arcaica di 24 note (chiamata “<strong>Yakah</strong>”) invece che sul Do-4.
                     </p>
 
                     <p>Scopri altri maqamat della <a href="f_rast.php">Famiglia Maqam Rast</a>.</p>
@@ -86,7 +88,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Ya Hilalan</b>
-                                    <span>Ensemble de la Musique Arabe (Egitto)</span>
+                                    <span>Orchestra di Musica Araba (Egitto)</span>
                                 </div>
                             </label>
                         </div>
@@ -97,9 +99,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Moubarqaou al-Jamal</b>
+                                    <b>Muwashah Mubarqau al-Jamal</b>
                                     <span>Hassan al-Haffar (Siria)</span>
-                                    <span>Musica di Omar al-Batch</span>
+                                    <span>Musica di Omar al-Batsh</span>
                                 </div>
                             </label>
                         </div>
@@ -111,7 +113,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr Asl el-Gharam (1945)</b>
-                                    <span>Nour el-Hoda</span>
+                                    <span>Nur el-Hoda</span>
                                     <span>Musica di Muhammad Uthman</span>
                                 </div>
                             </label>

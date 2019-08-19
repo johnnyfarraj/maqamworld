@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Musta‘ar";
 $page_description = "Maqam Musta‘ar";
-$page_keywords = "arabic, music, arab, world, maqam, jins, sikah, mustaar, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "Maqam Musta‘ar, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -61,10 +61,12 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="73,13,226,41" href="../jins/mustaar.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="258,13,433,41" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="488,5,597,34" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
-                      
 					</map>
+                    
                     <p>Le Maqam Musta‘ar est un maqam très rare en tant que maqam indépendant. Il est plus commun est tant que jins ou comme <em>sayr</em> utilisé à l'intérieur du <a href="huzam.php">Maqam Huzam</a> et du <a href="sikah.php">Maqam Sikah</a>. Sa gamme commence avec le Jins de base <a href="../jins/mustaar.php">Musta‘ar</a> sur la tonique (Mi<i class="icon-halfflat"></i>), suivi du <a href="../jins/nahawand.php">Jins Nahawand</a> sur le 3<sup>ième</sup> degré,  et finalement du <a href="../jins/rast.php">Jins Rast</a> sur le 6<sup>ième</sup> degré.
                     </p>
+                    
+                    
                     <p>Scopri altri maqamat della <a href="f_sikah.php">Famiglia Maqam Sikah</a>.</p>
 
                     <div class="player-area">
@@ -93,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Haramouha Minni</b>
                                     <span>Fathiyya Ahmad (Egitto)</span>
-                                    <span>Musica di Muhammad al-Qasabgi</span>
+                                    <span>Musica di Muhammad al-Qassabgi</span>
                                 </div>
                             </label>
                         </div>
@@ -106,7 +108,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Raqq el-Habib (1944)</b>
                                     <span>Umm Kulthum (Egitto)</span>
-                                    <span>Musica di Muhammad al-Qasabgi</span>
+                                    <span>Musica di Muhammad al-Qassabgi</span>
                                 </div>
                             </label>
                         </div>

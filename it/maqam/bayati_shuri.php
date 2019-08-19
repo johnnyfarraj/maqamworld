@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Bayati Shuri";
 $page_description = "Maqam Bayati Shuri";
-$page_keywords = "arabic, music, arab, world, maqam, jins, bayati shuri, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "Maqam Bayati Shuri, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -61,7 +61,7 @@ include($ROOT . 'inc/head.php');
 
 					</map>
 
-                    <p>Il Maqam Bayati Shuri è una variazione del <a href="bayati.php">Maqam Bayati</a> con il quinto grado abbassato. Inizia con il <a href="../jins/bayati.php">Jins Bayati</a> (radice) sulla tonica seguito dal <a href="../jins/hijaz.php">Jins Hijaz</a> sul quarto grado.
+                    <p>Il Maqam Bayati Shuri è una variazione del <a href="bayati.php">Maqam Bayati</a> con il quinto grado abbassato. Inizia con il <a href="../jins/bayati.php">Jins Bayati</a> (la radice) sulla tonica seguito dal <a href="../jins/hijaz.php">Jins Hijaz</a> sul quarto grado.
                     </p>
                     
                     <p>E' un maqam molto popolare, specialmente nelle <a href="../form/vocal_comp.php">composizioni vocali</a> Muwashahat e Adwar.
@@ -106,7 +106,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Hibbi Da‘ani Lil-Wisal</b>
                                     <span>Sabah Fakhri (Siria)</span>
-                                    <span>Musica di Sayyed Darwich</span>
+                                    <span>Musica di Sayyed Darwish</span>
                                     <span><img src="/img/cd.png"> Nagham al-Ams Vol. 2 (Bayati Shuri)</span>
                                 </div>
                             </label>
@@ -132,7 +132,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr Dayya‘ti Mustaqbal Hayati</b>
-                                    <span>Voce e musica di Sayyed Darwich</span>
+                                    <span>Voce e musica di Sayyed Darwish</span>
                                 </div>
                             </label>
                         </div>
@@ -145,7 +145,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Qadd Ah Ya Hilu</b>
                                     <span>Nay Barghuti</span>
-                                    <span>(chanson traditionelle)</span>
+                                    <span>(canzone tradizionale)</span>
                                 </div>
                             </label>
                         </div>
@@ -158,7 +158,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Qadd Habibi Ghab</b>
                                     <span>Muhammad Khayri (Siria)</span>
-                                    <span>(chanson traditionelle)</span>
+                                    <span>(canzone tradizionale)</span>
                                 </div>
                             </label>
                         </div>

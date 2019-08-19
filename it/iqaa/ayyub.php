@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Atani Zamani</b>
-                                    <span>Noureddine Khourshid Et Les Derviches De Damas</span>
+                                    <span>Nureddine Khourshid Et Les Derviches De Damas</span>
                                 </div>
                             </label>
                         </div>

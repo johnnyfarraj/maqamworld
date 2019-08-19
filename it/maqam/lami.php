@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Lami";
 $page_description = "Maqam Lami";
-$page_keywords = "arabic, music, arab, world, maqam, jins, ajam, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "Maqam Lami, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Lami</h1>
-                        <h3>(n'apartient pas à une famille de maqams)</h3>
+                        <h3>(non appartenente ad alcuna famiglia)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Maqam</a>
                     <div class="clearfix"></div>
@@ -57,10 +57,9 @@ include($ROOT . 'inc/head.php');
                       <!-- Links -->
                       <area shape="rect" coords="100,9,220,37" href="../jins/lami.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="340,140,460,167" href="../jins/kurd.php" class="mapLink" data-parent="#notation1">
-
 				     </map>
 
-                    <p>Le Maqam Lami est un maqam très rare au Moyen-Orient et a été emprunté au Maqam Iraquien. Il commence avec le <a href="../jins/lami.php">Jins Lami</a> sur la tonique, suivi du <a href="../jins/kurd.php">Jins Kurd</a> sur le 4<sup>ième</sup> degré.
+                    <p>Le Maqam Lami è un <em>maqam</em> molto raro in medio oriente, e è stato preso in prestito dal <strong>Maqam Iracheno</strong>. Il Maqam Lami inizia con il <a href="../jins/lami.php">Jins Lami</a> sulla tonica, seguito dal <a href="../jins/kurd.php">Jins Kurd</a> sul quarto grado. 
                     </p>
 
                     <div class="player-area">
@@ -75,7 +74,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>el-Bortoqal (1938)</b>
-                                    <span>Interprétation de Ra'isa ‘Afifi e Muhammad Abdel Wahab</span>
+                                    <span>Voce di Ra'isa ‘Afifi e Muhammad Abdel Wahab</span>
                                     <span>Musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -88,7 +87,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Tislam Idein Elli-shtara (c. 1960)</b>
-                                    <span>Interprétation de Muhammad Abdel Mouttaleb</span>
+                                    <span>Voce di Muhammad Abdel Muttaleb</span>
                                     <span>Musica di Mahmud Kamel (Egitto)</span>
                                 </div>
                             </label>
@@ -100,7 +99,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Albi Bi Oulli Kalam (c.1954)</b>
+                                    <b>Albi Bi Ulli Kalam (c.1954)</b>
                                     <span>Voce e musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -125,7 +124,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Rl-Najmat Sarou Yis'alou (1964)</b>
+                                    <b>Rl-Najmat Saru Yis'alu (1964)</b>
                                     <span>Wadih al-Safi (Lebano)</span>
                                     <span>Musica di Muhammad Mouhsin</span>
                                 </div>
@@ -138,9 +137,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Goulli Ya Hilou</b>
+                                    <b>Gulli Ya Hilu</b>
                                     <span>Nazem al-Ghazali (Irak)</span>
-                                    <span>(Chanson traditionnelle de l'Irak)</span>
+                                    <span>(Folklore tradizionale dell'Irak)</span>
                                 </div>
                             </label>
                         </div>

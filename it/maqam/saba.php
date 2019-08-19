@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Saba";
 $page_description = "Maqam Saba";
-$page_keywords = "arabic, music, arab, world, maqam, jins, saba, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "Maqam Saba, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Saba</h1>
-                        <h3>(n'apartient pas à une famille de maqams)</h3>
+                        <h3>(non appartenente ad alcuna famiglia)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Maqam</a>
                     <div class="clearfix"></div>
@@ -63,11 +63,12 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="485,4,615,33" href="../jins/ajam.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="265,143,382,173" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="548,143,680,173" href="../jins/nikriz.php" class="mapLink" data-parent="#notation1">
-
 					</map>
-                    <p>Le Maqam Saba est un maqam très commun et très populaire dans le répertoire de la musique arabe. Sa gamme commence avec le <a href="../jins/saba.php">Jins Saba</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Jins Hijaz</a> sur le 3<sup>ième</sup> degré, et finalement du <a href="../jins/ajam.php">Jins ‘Ajam</a> ou du <a href="../jins/nikriz.php">Jins Nikriz</a> sur le 6<sup>ième</sup> degré.</p>
+                    
+                    <p>Il Maqam Saba è un maqam molto popolare e usato nel repertorio arabo. La sua scala inizia con il <a href="../jins/saba.php">Jins Saba</a> sulla tonica, sovrapposto dal <a href="../jins/hijaz.php">Jins Hijaz</a> sul terzo grado, seguito dal <a href="../jins/ajam.php">Jins ‘Ajam</a> o dal <a href="../jins/nikriz.php">Jins Nikriz</a> sul sesto grado.
+                    </p>
 
-                    <p>Maqam Saba ne fait pas partie d'une famille de maqams.</p>
+                    <p>Maqam Saba non fa parte di una famiglia.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -80,7 +81,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dulab, Taqsim au Nay et Layai en Maqam Saba</b>
+                                    <b>Dulab, Taqsim di Nay e Layai sul Maqam Saba</b>
                                     <span>L'ensemble de Sabri al-Mudallal (Siria)</span>
                                 </div>
                             </label>
@@ -130,7 +131,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ghouddi Joufounik</b>
+                                    <b>Muwashah Ghuddi Jufunik</b>
                                     <span>Khaled al-Hafez (Siria)</span>
                                 </div>
                             </label>
@@ -157,7 +158,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Tishuf Umuri (1930)</b>
                                     <span>Umm Kulthum (Egitto)</span>
-                                    <span>Musica di Muhammad al-Qasabgi</span>
+                                    <span>Musica di Muhammad al-Qassabgi</span>
                                 </div>
                             </label>
                         </div>

@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Sikah";
 $page_description = "Maqam Sikah";
-$page_keywords = "arabic, music, arab, world, maqam, jins, sikah, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "Maqam Sikah, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -39,7 +39,6 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/sikah.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Sikah</a>
                     </div>
 
-
                      <div class="notation" id="notation1">
                         <img src="/note/maqam/sikah.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
@@ -60,10 +59,11 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="95,14,218,43" href="../jins/sikah.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="260,10,444,43" href="../jins/upper_rast.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="494,7,600,35" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
-
 					</map>
-                    <p>Le Maqam Sikah est un membre rare de la <a href="f_sikah.php">Famiglia Maqam Sikah</a> même si il porte le nom de son Jins de base. Sa gamme commence avec le jins de base <a href="../jins/sikah.php">Sikah</a> sur la tonique, suivi du <a href="../jins/upper_rast.php">Jins Rast Alto</a> sur le 3<sup>ième</sup> degré (avec sa tonique sur le 6<sup>ième</sup> degré), et finalement du <a href="../jins/rast.php">Jins Rast</a> sur le 6<sup>ième</sup> degré (qui est un <em>ghammaz</em> secondaire).
+                    
+                    <p>Il Maqam Sikah è usato raramente e fa parte della <a href="f_sikah.php">Famiglia Sikah</a>. La sua scala inizia con il <a href="../jins/sikah.php">Sikah</a> (la radice) sulla tonica, seguito dal <a href="../jins/upper_rast.php">Jins Rast Alto</a> sul terzo grado (con la sua tonica sul sesto grado) e dal <a href="../jins/rast.php">Jins Rast</a> sul sesto grado (che è un <em>ghammaz</em> secondario).
                     </p>
+                    
                     <p>Scopri altri maqamat della <a href="f_sikah.php">Famiglia Maqam Sikah</a>.</p>
 
                     <div class="player-area">
@@ -77,7 +77,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Jadaka al-Ghaithou</b>
+                                    <b>Muwashah Jadaka al-Ghaithu</b>
                                     <span>Voce e musica di Wajdi al-‘Aqili (Siria)</span>
                                 </div>
                             </label>
@@ -91,7 +91,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Inti Fakrani (1938)</b>
                                     <span>Umm Kulthum (Egitto)</span>
-                                    <span>Musica di Muhammad al-Qasabgi</span>
+                                    <span>Musica di Muhammad al-Qassabgi</span>
                                 </div>
                             </label>
                         </div>

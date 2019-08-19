@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Hijaz";
 $page_description = "Maqam Hijaz";
-$page_keywords = "arabic, music, arab, world, maqam, jins, ajam, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "Maqam Hijaz, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -67,7 +67,7 @@ include($ROOT . 'inc/head.php');
 
 				     </map>
                     
-                    <p>Il Maqam Hijaz è il maqam principale della <a href="f_hijaz.php">Famiglia Maqam Hijaz</a>. La sua scala inizia con il <a href="../jins/hijaz.php">Jins Hijaz</a> (radice) sulla tonica seguito dal <a href="../jins/nahawand.php">Jins Nahawand</a> o dal <a href="../jins/rast.php">Jins Rast</a> sul 4 grado.</p>
+                    <p>Il Maqam Hijaz è il maqam principale della <a href="f_hijaz.php">Famiglia Hijaz</a>. La sua scala inizia con il <a href="../jins/hijaz.php">Jins Hijaz</a> (la radice) sulla tonica seguito dal <a href="../jins/nahawand.php">Jins Nahawand</a> o dal <a href="../jins/rast.php">Jins Rast</a> sul quarto grado.</p>
 
                     <p>Scopri altri maqamat della <a href="f_hijaz.php">Famiglia Maqam Hijaz</a>.</p>
 
@@ -96,8 +96,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Badri Adir</b>
-                                    <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Lebano)</span>
-                                    <span>Direttore d'orchestra: Aïda Chalhoub Ziadé</span>
+                                    <span>Coro della Facoltà di Musica - Università di Kaslik (Lebano)</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah et Chansons</span>
                                 </div>
                             </label>

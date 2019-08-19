@@ -108,7 +108,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim con l'Oud en <a href="../maqam/rast.php">Maqam Rast</a></b>
+                                    <b>Taqsim con l'Oud sul <a href="../maqam/rast.php">Maqam Rast</a></b>
                                     <span>Ibrahim al-Haggar (Egitto)</span>
                                     <span>Wasla en Maqam Rast</span>
                                 </div>

@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam ‘Iraq";
 $page_description = "Maqam ‘Iraq";
-$page_keywords = "arabic, music, arab, world, maqam, jins, ajam, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "Maqam ‘Iraq, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -62,7 +62,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="485,5,592,33" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 	</map>
 
-                    <p>Le Maqam 'Iraq est un maqam de la <a href="f_sikah.php">famille Sikah</a> plutôt rare. Il est en général utilisé comme une modulation dans le <em>sayr</em> du <a href="huzam.php">Maqam Huzam</a>. Sa gamme commence avec le Jins de base <a href="../jins/sikah.php">Sikah</a> sur la tonique (Si<i class="icon-halfflat"></i>), suivi du <a href="../jins/bayati.php">Jins Bayati</a> sur le 3<sup>ième</sup> degré, et finalement du <a href="../jins/rast.php">Jins Rast</a> sur le 6<sup>ième</sup> degré.
+                    <p>Il Maqam ‘Iraq è un raro maqam della <a href="f_sikah.php">Famiglia Sikah</a>, è invece più comune come modulazione del <em>sayr</em> del <a href="huzam.php">Maqam Huzam</a>. La sua scala inizia sul <a href="../jins/sikah.php">Sikah</a> (la radice) sulla tonica (Si<i class="icon-halfflat"></i>), seguito dal <a href="../jins/bayati.php">Jins Bayati</a> sul terzo grado e dal <a href="../jins/rast.php">Jins Rast</a> sul sesto grado.
                     </p>
                     <p>Scopri altri maqamat della <a href="f_sikah.php">Famiglia Maqam Sikah</a>.</p>
 
@@ -103,8 +103,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i ‘Iraq</b>
-                                    <span>Orchestre de la Radio Tunisienne</span>
-                                    <span>Musica di Youssof Basha</span>
+                                    <span>Orchestra Radiofonica Tunisina</span>
+                                    <span>Musica di Yussf Basha</span>
                                 </div>
                             </label>
                         </div>
