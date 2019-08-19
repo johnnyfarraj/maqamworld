@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Jins Saba Dalancin";
-$page_description = "Jins Saba Dalancin";
-$page_keywords = "Jins Saba Dalancin, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
+$page_title = "Jins Saba Dalanshin";
+$page_description = "Jins Saba Dalanshin";
+$page_keywords = "Jins Saba Dalanshin, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -29,14 +29,14 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins Saba Dalancin <span class="badge badge-custom">Nuovo</span></h1>
+                        <h1>Jins Saba Dalanshin <span class="badge badge-custom">Nuovo</span></h1>
                         <h3>Una versione speciale del <a href="saba.php">Jins Saba</a> con la tonica sul terzo grado.</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Jins</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/saba_dalanshin.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Saba Dalancin</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/saba_dalanshin.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Saba Dalanshin</a>
                     </div>
 
                      <div class="notation" id="notation1">
@@ -59,7 +59,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>Il Jins Saba Dalanshin è un caso speciale del <a href="saba.php">Jins Saba</a>, non ha alcun <em>ghammaz</em>, e per questo non ha una dimensione definita. La sua melodia è incentrata sulla tonica, in questo caso il Do. Gli intervalli sopra la tonica sono quasi identici al <a href="hijaz.php">Jins Hijaz</a>. Le nota che è due gradi sotto la tonica (in questo caos il La) è la tonica secondaria.</p>
 
-                    <p>Il Jins Saba Dalanshin si presenta sull'ottava del <a href="../maqam/rast.php">Maqam Rast</a>, che in questo caso è conosciuto come <a href="../maqam/dalanshin.php">Maqam Dalancin</a>. È presente anche sul quinto grado del <a href="../maqam/shawq_afza.php">Maqam Shawq Afza</a>.</p>
+                    <p>Il Jins Saba Dalanshin si presenta sull'ottava del <a href="../maqam/rast.php">Maqam Rast</a>, che in questo caso è conosciuto come <a href="../maqam/dalanshin.php">Maqam Dalanshin</a>. È presente anche sul quinto grado del <a href="../maqam/shawq_afza.php">Maqam Shawq Afza</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

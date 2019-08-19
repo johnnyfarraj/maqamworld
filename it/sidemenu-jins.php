@@ -13,7 +13,7 @@
     <li><a href="/it/jins/jiharkah.php">Jiharkah</a></li>
     <li><a href="/it/jins/kurd.php">Kurd</a></li>
     <li><a href="/it/jins/lami.php">Lami</a></li>
-    <li><a href="/it/jins/mukhalif_sharqi.php">Mukhalef Sharqi</a></li>
+    <li><a href="/it/jins/mukhalif_sharqi.php">Mukhalif Sharqi</a></li>
     <li><a href="/it/jins/mustaar.php">Musta‘ar</a></li>
     <li><a href="/it/jins/nahawand.php">Nahawand</a></li>
     <li><a href="/it/jins/nahawand_murassaa.php">Nahawand Murassa‘</a></li>
@@ -21,7 +21,7 @@
     <li><a href="/it/jins/rast.php">Rast</a></li>
     <li><a href="/it/jins/upper_rast.php">Rast Alto</a></li>
     <li><a href="/it/jins/saba.php">Saba</a></li>
-    <li><a href="/it/jins/saba_dalanshin.php">Saba Dalancin</a></li>
+    <li><a href="/it/jins/saba_dalanshin.php">Saba Dalanshin</a></li>
     <li><a href="/it/jins/saba_zamzam.php">Saba Zamzam</a></li>
     <li><a href="/it/jins/sazkar.php">Sazkar</a></li>
     <li><a href="/it/jins/sikah.php">Sikah</a></li>

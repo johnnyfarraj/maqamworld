@@ -8,7 +8,7 @@
     <li><a href="/it/maqam/bastanikar.php">Bastanikar</a></li>
     <li><a href="/it/maqam/bayati.php">Bayati</a></li>
     <li><a href="/it/maqam/bayati_shuri.php">Bayati Shuri</a></li>
-    <li><a href="/it/maqam/dalanshin.php">Dalancin</a></li>
+    <li><a href="/it/maqam/dalanshin.php">Dalanshin</a></li>
     <li><a href="/it/maqam/nahawand.php">Farahfaza</a></li>
     <li><a href="/it/maqam/hijaz.php">Hijaz</a></li>
     <li><a href="/it/maqam/hijazkar.php">Hijazkar</a></li>

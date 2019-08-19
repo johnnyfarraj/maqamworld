@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Jins Mukhalef Sharqi";
-$page_description = "Jins Mukhalef Sharqi";
-$page_keywords = "Jins Mukhalef Sharqi, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
+$page_title = "Jins Mukhalif Sharqi";
+$page_description = "Jins Mukhalif Sharqi";
+$page_keywords = "Jins Mukhalif Sharqi, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -29,14 +29,14 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins Mukhalef Sharqi <span class="badge badge-custom">Nuovo</span></h1>
+                        <h1>Jins Mukhalif Sharqi <span class="badge badge-custom">Nuovo</span></h1>
                         <h3>Una variazione del <a href="sikah.php">Jins Sikah</a> con la terza abbassata.</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Jins</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mukhalif_sharqi.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Mukhalef Sharqi</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mukhalif_sharqi.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Mukhalif Sharqi</a>
                     </div>
                     <div class="notation" id="notation1">
                         <img src="/note/jins/mukhalif_sharqi.png" class="img-fluid" usemap="#notemap">

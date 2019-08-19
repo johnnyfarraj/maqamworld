@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Dalancin";
-$page_description = "Maqam Dalancin";
-$page_keywords = "Maqam Dalancin, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
+$page_title = "Maqam Dalanshin";
+$page_description = "Maqam Dalanshin";
+$page_keywords = "Maqam Dalanshin, musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -29,18 +29,18 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Dalancin</h1>
+                        <h1>Maqam Dalanshin</h1>
                         <h3>Appartenente alla <a href="f_rast.php">Famiglia Maqam Rast</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Maqam</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/dalanshin.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Dalancin</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/dalanshin.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Dalanshin</a>
                     </div>
 
                      <div class="notation" id="notation1">
-                        <img src="/note/maqam/dalanshin.png" class="img-fluid" usemap="#notemap">
+                        <img src="../note/maqam/dalanshin.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
                         <p class="clicknotes">Clicca sulle note e tieni premuto usando il mouse per sentire il suono.</p>
@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="573,4,682,34" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 					</map>
                     
-                    <p>Il Maqam Dalanshin inizia con il <a href="../jins/saba_dalanshin.php">Jins Saba Dalancin</a> sull'ottava del <a href="rast.php">Maqam Rast</a> per poi transitare di nuovo sulla scala del <a href="rast.php">Maqam Rast</a> con il <a href="../jins/upper_rast.php">Jins Rast Alto</a> sul quinto grado (con la tonica sull'ottavo grado), e il <a href="../jins/rast.php">Jins Rast</a> sulla tonica.
+                    <p>Il Maqam Dalanshin inizia con il <a href="../jins/saba_dalanshin.php">Jins Saba Dalanshin</a> sull'ottava del <a href="rast.php">Maqam Rast</a> per poi transitare di nuovo sulla scala del <a href="rast.php">Maqam Rast</a> con il <a href="../jins/upper_rast.php">Jins Rast Alto</a> sul quinto grado (con la tonica sull'ottavo grado), e il <a href="../jins/rast.php">Jins Rast</a> sulla tonica.
                     </p>
                     <p>Non ci sono molto canzoni che utilizzano questo maqam, è usato più spesso come modulazione dal <a href="rast.php">Maqam Rast</a>.
                     </p>
