@@ -41,7 +41,7 @@ include($ROOT . 'inc/head.php');
 
 
                      <div class="notation" id="notation1">
-                        <img src="/note/maqam/dalanshin.png" class="img-fluid" usemap="#notemap">
+                        <img src="../note/maqam/dalanshin.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
                         <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
@@ -59,7 +59,7 @@ include($ROOT . 'inc/head.php');
                        <area shape="circle" coords="704,123,13" href="#" alt="Ré♮" class="playNote" data-frequency="293.33" data-parent="#notation1">
 					  <area shape="circle" coords="780,133,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
                        <!-- Links -->
-                      <area shape="rect" coords="132,5,362,34" href="../jins/saba_dalanshin.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="132,5,375,34" href="../jins/saba_dalanshin.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="260,142,443,171" href="../jins/upper_rast.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="573,4,682,34" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 					</map>

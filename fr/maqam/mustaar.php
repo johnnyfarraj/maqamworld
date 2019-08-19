@@ -38,11 +38,9 @@ include($ROOT . 'inc/head.php');
                     <div class="text-center mt-2 mb-3">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/mustaar.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Mousta‘ar</a>
                     </div>
-
-                   
                     
                      <div class="notation" id="notation1">
-                        <img src="/note/maqam/mustaar.png" class="img-fluid" usemap="#notemap">
+                        <img src="../note/maqam/mustaar.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
                         <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
@@ -58,7 +56,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="543,76,13" href="#" alt="Ré" class="playNote" data-frequency="586.66" data-parent="#notation1">
 					  <area shape="circle" coords="619,67,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="640" data-parent="#notation1"><!-- var -->
                         <!-- Links -->
-                      <area shape="rect" coords="73,13,226,41" href="../jins/mustaar.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="62,13,233,41" href="../jins/mustaar.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="258,13,433,41" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="488,5,597,34" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
                       

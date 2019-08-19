@@ -39,9 +39,8 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/nahawand_murassaa.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Nahawand Mourassa‘</a>
                     </div>
 
-
                     <div class="notation" id="notation1">
-                        <img src="/note/maqam/nahawand_murassaa.png" class="img-fluid" usemap="#notemap">
+                        <img src="../note/maqam/nahawand_murassaa.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
                         <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
@@ -57,7 +56,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="506,88,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					  <area shape="circle" coords="585,79,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
                        <!-- Links -->
-                      <area shape="rect" coords="53,7,331,36" href="../jins/nahawand_murassaa.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="48,7,338,36" href="../jins/nahawand_murassaa.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="337,141,454,174" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
 
 					</map>

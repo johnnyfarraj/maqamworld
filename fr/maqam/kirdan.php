@@ -43,9 +43,8 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/sazkar.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Sazkar</a>
                     </div>
 
-
                      <div class="notation" id="notation1">
-                        <img src="/note/maqam/kirdan.png" class="img-fluid" usemap="#notemap">
+                        <img src="../note/maqam/kirdan.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
                         <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
