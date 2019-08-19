@@ -61,7 +61,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="422,8,546,35" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Maqam Suznak est la modulation la plus populaire à partir du <a href="rast.php">Maqam Rast</a>. La modulation vers le <a href="../jins/hjaz.php">Jins Hijaz</a>sur la quinte est pratiquement obligatoire dans toute <a href="../form/improv.php">improvisation</a> commençant avec le <a href="jns/rast.php">Jins Rast</a> de base.</p>
+                    <p>Le Maqam Suznak est la modulation la plus populaire à partir du <a href="rast.php">Maqam Rast</a>. La modulation vers le <a href="../jins/hjaz.php">Jins Hijaz</a> sur la quinte est pratiquement obligatoire dans toute <a href="../form/improv.php">improvisation</a> commençant avec le <a href="jns/rast.php">Jins Rast</a> de base.</p>
 
                     <p>Explorez d'autres maqams dans la <a href="f_rast.php">Famille du Maqam Rast</a>.</p>
 
