@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sayyed Salem</b>
-                                    <span>Sayyed Salem (Egitto), pendant de nombreuses années membre de l'Orchestre de Oum Koulthoum, dans un solo pendant la pièce <strong>Ba‘id Annak</strong> (1965, musique de Baligh Hamdi).</span>
+                                    <span>Sayyed Salem (Egitto), pendant de nombreuses années membre de l'Orchestra de Oum Koulthoum, dans un solo pendant la pièce <strong>Ba‘id Annak</strong> (1965, musique de Baligh Hamdi).</span>
                                 </div>
                             </label>
                         </div>
@@ -80,7 +80,7 @@ include($ROOT . 'inc/head.php');
                              --><div class="info">
                                     <b>Mahmud ‘Effat</b>
                                     <span>
-                                    Mahmud 'Effat (Egitto),  grand joueur de nay et professeur, membre pendant de nombreuses années de l'Orchestre Diamant, jouant un <a href="../form/improv.php#taqsim">Taqsim</a>
+                                    Mahmud 'Effat (Egitto),  grand joueur de nay et professeur, membre pendant de nombreuses années de l'Orchestra Diamant, jouant un <a href="../form/improv.php#taqsim">Taqsim</a>
                                     en <a href="../maqam/saba.php">Maqam Saba</a>.</span>
                                 </div>
                             </label>
@@ -115,7 +115,7 @@ include($ROOT . 'inc/head.php');
                              --><div class="info">
                                     <b>Michael Ibrahim</b>
                                     <span>
-                                    Michael Ibrahim (Siria), directeur de l'Orchestre National Arabe (Etats-Unis),
+                                    Michael Ibrahim (Siria), directeur de l'Orchestra National Arabe (Etats-Unis),
                                     jouant un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/saba.php">Maqam Saba</a>. Pendant une performance de l'orchestre.</span>
                                 </div>
                             </label>

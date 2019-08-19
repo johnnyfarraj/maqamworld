@@ -64,7 +64,7 @@ include($ROOT . 'inc/head.php');
                     <p>Il Maqam Bayati Shuri è una variazione del <a href="bayati.php">Maqam Bayati</a> con il quinto grado abbassato. Inizia con il <a href="../jins/bayati.php">Jins Bayati</a> (la radice) sulla tonica seguito dal <a href="../jins/hijaz.php">Jins Hijaz</a> sul quarto grado.
                     </p>
                     
-                    <p>E' un maqam molto popolare, specialmente nelle <a href="../form/vocal_comp.php">composizioni vocali</a> Muwashahat e Adwar.
+                    <p>È un maqam molto popolare, specialmente nelle <a href="../form/vocal_comp.php">composizioni vocali</a> Muwashahat e Adwar.
                     </p>
                     
                     <p>Scopri altri maqamat della <a href="f_bayati.php">Famiglia Maqam Bayati</a>.</p>

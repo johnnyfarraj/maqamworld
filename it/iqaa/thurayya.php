@@ -47,7 +47,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/thurayya.png" class="img-fluid">
                     </div>
                     
-                    <p>L' Iqa‘ Thurayya è chiamato anche <strong>Aqsaq Turki</strong> (Aqsaq Turco). E' un iqa‘ molto raro usato principalmente nel genere vocale <a href="../form/vocal_comp.php#muwashah">Muwashah</a>.
+                    <p>L' Iqa‘ Thurayya è chiamato anche <strong>Aqsaq Turki</strong> (Aqsaq Turco). È un iqa‘ molto raro usato principalmente nel genere vocale <a href="../form/vocal_comp.php#muwashah">Muwashah</a>.
                     </p>
                     
                     <div class="player-area">

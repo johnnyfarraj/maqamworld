@@ -59,7 +59,7 @@ include($ROOT . 'inc/head.php');
 
 					</map>
                     
-                    <p>Il Jins Nikriz è un <em>jins</em> di 5 note. E' scritto qui considerando il Do come sua tonica e il Sol come suo <em>ghammaz</em>. Il Jins Nikriz è il primo <em>jins</em> del <a href="../maqam/nikriz.php">Maqam Nikriz</a> e del <a href="../maqam/nawa_athar.php">Maqam Nawa Athar</a>.
+                    <p>Il Jins Nikriz è un <em>jins</em> di 5 note. È scritto qui considerando il Do come sua tonica e il Sol come suo <em>ghammaz</em>. Il Jins Nikriz è il primo <em>jins</em> del <a href="../maqam/nikriz.php">Maqam Nikriz</a> e del <a href="../maqam/nawa_athar.php">Maqam Nawa Athar</a>.
                     </p>
 
                     <div class="player-area">
@@ -74,7 +74,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Bayna Qasiyun wa Rabwa</b>
-                                    <span>Orchestre National Syrien</span>
+                                    <span>Orchestra National Syrien</span>
                                     <span>Musica di Omar al-Batsh</span>
                                 </div>
                             </label>

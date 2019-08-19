@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sama‘i Bayati - Ibrahim al-‘Aryan</b>
-                                    <span>Sama‘i en <a href="../maqam/bayati.php">Maqam Bayati</a> de Ibrahim al-'Aryan (Egitto), enregistré par l'Orchestre de la Radio Tunisienne.</span>
+                                    <span>Sama‘i en <a href="../maqam/bayati.php">Maqam Bayati</a> de Ibrahim al-'Aryan (Egitto), enregistré par l'Orchestra de la Radio Tunisienne.</span>
                                 </div>
                             </label>
                         </div>
@@ -87,7 +87,7 @@ include($ROOT . 'inc/head.php');
                              --><div class="info">
                                     <b>Sama‘i Hijazkar Kurd - Rohi al-Khammach</b>
                                     <span></span>
-                                    <span>Sama‘i en <a href="../maqam/hijazkar_kurd.php">Maqam Hijazkar Kurd</a> de Rohi al-Khammach (Palestine/Iraq) dans lequel il y a un <a href="../iqaa/jurjina.php">Iqa‘ Jurjina</a> dans la quatrième <em>khana</em>.</span>
+                                    <span>Sama‘i en <a href="../maqam/hijazkar_kurd.php">Maqam Hijazkar Kurd</a> de Rohi al-Khammach (Palestina/Iraq) dans lequel il y a un <a href="../iqaa/jurjina.php">Iqa‘ Jurjina</a> dans la quatrième <em>khana</em>.</span>
                                 </div>
                             </label>
                         </div>
@@ -120,7 +120,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sama‘i Rast - George Michel</b>
-                                    <span>Sama‘i en <a href="../maqam/rast.php">Maqam Rast</a> de George Michel (Egitto), enregistré par l'Orchestre de la Radio Tunisienne.</span>
+                                    <span>Sama‘i en <a href="../maqam/rast.php">Maqam Rast</a> de George Michel (Egitto), enregistré par l'Orchestra de la Radio Tunisienne.</span>
                                 </div>
                             </label>
                         </div>

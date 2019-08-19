@@ -65,7 +65,7 @@ include($ROOT . 'inc/head.php');
                     <p>Il Maqam Jiharkah è un maqam raro che inizia con il <a href="../jins/jiharkah.php">Jins Jiharkah</a> sulla tonica, seguito dal <a href="../jins/upper_rast.php">Jins Rast Alto</a> sul quinto grado (con la sua tonica isopra sull'ottavo grado).
                     </p>
                     <p>Le Maqam Jiharkah non appartenente ad alcuna famiglia.</p>
-
+                    
                     <div class="player-area">
                         <audio id="player" controls>
                             <source src="/audio/maqam/jiharkah/kallili_ya_suhbu.mp3" type="audio/mp3">
@@ -104,8 +104,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Jiharkah</b>
-                                    <span>Orchestre Sabah Fakhri</span>
-                                    <span><img src="/img/cd.png"> Au Théatre Des Amandiers</span>
+                                    <span>Orchestra Sabah Fakhri</span>
+                                    <span><img src="/img/cd.png"> Concerto al Théatre Des Amandiers</span>
                                 </div>
                             </label>
                         </div>
@@ -117,8 +117,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dulab Jiharkah</b>
-                                    <span>Orchestre Sabah Fakhri</span>
-                                    <span><img src="/img/cd.png"> Au Théatre Des Amandiers</span>
+                                    <span>Orchestra Sabah Fakhri</span>
+                                    <span><img src="/img/cd.png"> Concerto al Théatre Des Amandiers</span>
                                 </div>
                             </label>
                         </div>
@@ -131,7 +131,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>‘al-Rozana</b>
                                     <span>Sabah Fakhri (Siria)</span>
-                                    <span><img src="/img/cd.png"> Au Théatre Des Amandiers</span>
+                                    <span><img src="/img/cd.png"> Concerto al Théatre Des Amandiers</span>
                                 </div>
                             </label>
                         </div>

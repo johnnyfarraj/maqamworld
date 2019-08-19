@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/rumba.png" class="img-fluid">
                     </div>
                     
-                    <p>L'Iqa‘ Rumba è un adattamento arabo del ritmo di danza latino americano con lo stesso nome. E' diventato di tendenza a partire dal 1930 e fu usato per aggiungere un sapore straniero agli arrangiamenti arabi.
+                    <p>L'Iqa‘ Rumba è un adattamento arabo del ritmo di danza latino americano con lo stesso nome. È diventato di tendenza a partire dal 1930 e fu usato per aggiungere un sapore straniero agli arrangiamenti arabi.
                     </p>
                     
                     <div class="player-area">

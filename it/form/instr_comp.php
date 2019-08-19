@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Zikrayati (1944)</b>
-                                    <span>La composition instrumentale Zikrayati (1944) de Muhammad al-Qasabji en <a href="../maqam/nahawand.php">Maqam Nahawand</a>, enregistrée par l'Orchestre National Arabe (Etats-Unis).
+                                    <span>La composition instrumentale Zikrayati (1944) de Muhammad al-Qasabji en <a href="../maqam/nahawand.php">Maqam Nahawand</a>, enregistrée par l'Orchestra National Arabe (Etats-Unis).
                                     </span>
                                 </div>
                             </label>

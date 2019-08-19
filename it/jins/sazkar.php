@@ -55,7 +55,7 @@ include($ROOT . 'inc/head.php');
 
 					</map>
 
-                    <p>iL Jins Sazkar è un <em>jins</em> di 5 note. E' scritto qui considerando il Do come sua tonica e il Sol come suo <em>ghammaz</em>. Il Jins Sazkar è il primo <em>jins</em> del <a href="../maqam/kirdan.php">Maqam Sazkar</a>.
+                    <p>iL Jins Sazkar è un <em>jins</em> di 5 note. È scritto qui considerando il Do come sua tonica e il Sol come suo <em>ghammaz</em>. Il Jins Sazkar è il primo <em>jins</em> del <a href="../maqam/kirdan.php">Maqam Sazkar</a>.
                     </p>
 
                     <div class="player-area">

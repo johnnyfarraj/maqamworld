@@ -58,7 +58,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="626,45,12" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					</map>
 
-                    <p>Il jins bayate è un <em>jins</em> di 4 note. E' scritto quai consideranto il Re come sua tonica e il Sol come suo <em>ghammaz</em>. Il jins bayati è il primo <em>jins</em> nel <a href="../maqam/bayati.php">Maqam Bayati</a>.
+                    <p>Il jins bayate è un <em>jins</em> di 4 note. È scritto quai consideranto il Re come sua tonica e il Sol come suo <em>ghammaz</em>. Il jins bayati è il primo <em>jins</em> nel <a href="../maqam/bayati.php">Maqam Bayati</a>.
                     </p>
 
                     <div class="player-area">

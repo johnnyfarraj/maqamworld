@@ -54,7 +54,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="449,52,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 
 					</map>
-                    <p>Il Jins Musta‘ar è un <em>jins</em> di 3 note. E' scritto qui considerando il Mi<i class="icon-halfflat"></i> come sua tonica e il Sol come suo <em>ghammaz</em>. Il Jins Musta‘ar è il primo <em>jins</em> del <a href="../maqam/mustaar.php">Maqam Musta‘ar</a>.
+                    <p>Il Jins Musta‘ar è un <em>jins</em> di 3 note. È scritto qui considerando il Mi<i class="icon-halfflat"></i> come sua tonica e il Sol come suo <em>ghammaz</em>. Il Jins Musta‘ar è il primo <em>jins</em> del <a href="../maqam/mustaar.php">Maqam Musta‘ar</a>.
                     </p>
 
                     <div class="player-area">

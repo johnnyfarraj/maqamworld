@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
 
 					</map>
                     
-                    <p>Il jins Lami è un <em>jins</em> di 4 note. E' scritto qui considerando il Re come sua tonica e il Sol come suo <em>ghammaz</em>. Il Jins Lami è il primo <em>jins</em> del <a href="../maqam/lami.php">Maqam Lami</a>.
+                    <p>Il jins Lami è un <em>jins</em> di 4 note. È scritto qui considerando il Re come sua tonica e il Sol come suo <em>ghammaz</em>. Il Jins Lami è il primo <em>jins</em> del <a href="../maqam/lami.php">Maqam Lami</a>.
                     </p>
 
                     <div class="player-area">

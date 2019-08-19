@@ -37,7 +37,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/kirdan.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Kirdane</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/kirdan.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Kirdan</a>
                     </div>
                     <div class="text-center mt-2 mb-3">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/sazkar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Sazkar</a>
@@ -66,7 +66,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="400,173,528,202" href="../jins/sazkar.php" class="mapLink" data-parent="#notation1">
 					</map>
                     
-                    <p>Il Maqam Kirdan è una versione del <a href="rast.php">Maqam Rast</a> il cui <em>sayr</em> inizia sull'ottava e alla fine discende alla tonica. La sua scala inizia in basso con il <a href="../jins/rast.php">Jins Rast</a> (la radice) sulla tonica, seguito dal <a href="../jins/upper_rast.php">Jins Rast Alto</a> sul quinto grado (con la tonica sopra sull'ottavo grado).
+                    <p>Il <strong>Maqam Kirdan</strong> è una versione del <a href="rast.php">Maqam Rast</a> il cui <em>sayr</em> inizia sull'ottava e alla fine discende alla tonica. La sua scala inizia in basso con il <a href="../jins/rast.php">Jins Rast</a> (la radice) sulla tonica, seguito dal <a href="../jins/upper_rast.php">Jins Rast Alto</a> sul quinto grado (con la tonica sopra sull'ottavo grado).
                     </p>
                     
                     <p>Il <strong>Maqam Sazkar</strong> è quasi identico al Maqam Kirdan, ad eccezione dell'importanza del secondo grado alzato che si presente in alcuni passaggi melodici, che risulta nel <a href="../jins/sazkar.php">Jins Sazkar</a> sulla tonica.
@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Sihtou Wajdan</b>
+                                    <b>Muwashah Sihtu Wajdan</b>
                                     <span>Coro della Facoltà di Musica - Università di Kaslik (Lebano)</span>
                                     <span>Musica di Sayyed Darwish</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah et Chansons</span>

@@ -118,7 +118,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ramani Bi Sahmi Hawahu</b>
+                                    <b>Mouachah Ramani Bi Sahmi Hawahou</b>
                                     <span>Hassan al-Haffar (Syrie)</span>
                                     <span>Musique de Daoud Housni</span>
                                 </div>

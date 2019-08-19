@@ -58,7 +58,7 @@ include($ROOT . 'inc/head.php');
 				      <area shape="circle" coords="630,52,12" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
 					</map>
 
-                    <p>Il Jins Rast è un <em>jins</em> di 5 note molto popolare. E' scritto qui considerando come sua tonica il Do e come suo <em>ghammaz</em> il Sol. Il Jins Rast è il primo <em>jins</em> del <a href="../maqam/rast.php">Maqam Rast</a>, del <a href="../maqam/suznak.php">Maqam Suznak</a>, e di altri maqamat nella <a href="../maqam/f_rast.php">Famiglia Maqam Rast</a>.
+                    <p>Il Jins Rast è un <em>jins</em> di 5 note molto popolare. È scritto qui considerando come sua tonica il Do e come suo <em>ghammaz</em> il Sol. Il Jins Rast è il primo <em>jins</em> del <a href="../maqam/rast.php">Maqam Rast</a>, del <a href="../maqam/suznak.php">Maqam Suznak</a>, e di altri maqamat nella <a href="../maqam/f_rast.php">Famiglia Maqam Rast</a>.
                     </p>
 
                     <div class="player-area">

@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 /* Must be relative path */
 include('../../inc/config.php');
@@ -70,7 +70,6 @@ include($ROOT . 'inc/head.php');
                     
                     <p>Il Maqam Nahawand è il maqam principale della <a href="f_nahawand.php">Famiglia Nahawand</a>. La sua scala inizia con il <a href="../jins/nahawand.php">Jins Nahawand</a> (la radice) sulla tonica, seguito dal <a href="../jins/hijaz.php">Jins Hijaz</a> o dal <a href="../jins/kurd.php">Jins Kurd</a> sul quinto grado.
                     </p>
-                    
                     <p>Il <strong>Maqam Farahfaza</strong> è il Maqam Nahawand trasposto con la tonica sul Sol.
                     </p>
 
@@ -87,7 +86,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Balad el-Mahboub (1951)</b>
+                                    <b>Balad el-Mahbub (1951)</b>
                                     <span>Musica di Muhammad Abdel Wahab</span>
                                 </div>
                             </label>

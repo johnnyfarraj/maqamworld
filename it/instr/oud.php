@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                     </p>
 
                     <p>Le oud arabe est plus ou moins le même instrument que celui que l'on peut trouver dans plusieurs autres pays de la région
-                    (par exemple la Turquie, la Grèce, l'Iran) avec quelques différences au niveau des dimensions,
+                    (par exemple la Turchia, la Grèce, l'Iran) avec quelques différences au niveau des dimensions,
                     du style et du timbre. Le "lute" européen est le descendant du oud dont il a pris le nom (al-oud).
                     </p>
 

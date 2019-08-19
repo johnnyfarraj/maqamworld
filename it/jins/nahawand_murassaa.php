@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
 
 					</map>
                     
-                    <p>Il Jins Nahawand Murassa‘ non ha un <em>ghammaz</em>, per questo non ha una dimensione definita. E' scritto qui considerando il Do come sua tonica. Il Jins Nahawand Murassa‘ è il primo <em>jins</em> del <a href="../maqam/nahawand_murassaa.php">Maqam Nahawand Murassa‘</a>.
+                    <p>Il Jins Nahawand Murassa‘ non ha un <em>ghammaz</em>, per questo non ha una dimensione definita. È scritto qui considerando il Do come sua tonica. Il Jins Nahawand Murassa‘ è il primo <em>jins</em> del <a href="../maqam/nahawand_murassaa.php">Maqam Nahawand Murassa‘</a>.
                     </p>
 
                     <div class="player-area">

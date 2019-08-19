@@ -120,7 +120,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Elias Lammam</b>
-                                <span>L'Orchestre National Arabe (Etats-Unis) jouant la composition de Farid al-Atrach <strong>Kahramana</strong> dans un arrangement dans lequel fait place l'accordéon arabe aux côtés d'instruments traditionnels arabes.</span>
+                                <span>L'Orchestra National Arabe (Etats-Unis) jouant la composition de Farid al-Atrach <strong>Kahramana</strong> dans un arrangement dans lequel fait place l'accordéon arabe aux côtés d'instruments traditionnels arabes.</span>
                                 </div>
                             </label>
                         </div>

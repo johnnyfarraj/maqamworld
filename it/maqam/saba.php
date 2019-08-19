@@ -68,7 +68,7 @@ include($ROOT . 'inc/head.php');
                     <p>Il Maqam Saba è un maqam molto popolare e usato nel repertorio arabo. La sua scala inizia con il <a href="../jins/saba.php">Jins Saba</a> sulla tonica, sovrapposto dal <a href="../jins/hijaz.php">Jins Hijaz</a> sul terzo grado, seguito dal <a href="../jins/ajam.php">Jins ‘Ajam</a> o dal <a href="../jins/nikriz.php">Jins Nikriz</a> sul sesto grado.
                     </p>
 
-                    <p>Maqam Saba non fa parte di una famiglia.</p>
+                    <p>Maqam Saba non appartenente ad alcuna famiglia</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

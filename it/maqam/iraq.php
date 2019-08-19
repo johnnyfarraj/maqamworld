@@ -91,7 +91,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Jalla Man Ansha Jamalak</b>
                                     <span>Ensemble Ornina (Siria)</span>
-                                    <span>Chef d'Orchestre Dr. Muhammad Qadri Dalal</span>
+                                    <span>Chef d'Orchestra Dr. Muhammad Qadri Dalal</span>
                                 </div>
                             </label>
                         </div>

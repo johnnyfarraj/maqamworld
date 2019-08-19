@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="496,42,14" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
 
 					</map>
-                    <p>Il jins Jiharkahè un <em>jins</em> di 5 note. E' scritto qui considerando il Fa come sua tonica e il Do come suo <em>ghammaz</em>. Il terzo e il quarto grado sono solitamente suonati più bassi di come sono scritti. Il Jins Jiharkah è il primo <em>jins</em> nel <a href="../maqam/jiharkah.php">Maqam Jiharkah</a>.
+                    <p>Il jins Jiharkahè un <em>jins</em> di 5 note. È scritto qui considerando il Fa come sua tonica e il Do come suo <em>ghammaz</em>. Il terzo e il quarto grado sono solitamente suonati più bassi di come sono scritti. Il Jins Jiharkah è il primo <em>jins</em> nel <a href="../maqam/jiharkah.php">Maqam Jiharkah</a>.
                     </p>
 
                     <div class="player-area">
