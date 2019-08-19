@@ -44,7 +44,7 @@ include($ROOT . 'inc/head.php');
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/maqtua.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Maqtoua</a>
                     </div>
-                    <p> La Maqtoua ('pièce', au sens littéral) est une composition instrumentale. Elle est aussi appelée <em>ma'zoufa</em> (pièce jouée sur un instrument au lieu d'être chantée). La forme <em>maqtoua</em> est très populaire dans la musique <em>Raqs Sharqi</em> (danse du ventre).
+                    <p> La Maqtoua ('pièce', au sens littéral) est une composition instrumentale. Elle est aussi appelée <em>ma'zoufa</em> (pièce jouée sur un instrument au lieu d'être chantée). La forme <em>maqtoua</em> est très populaire dans la musique <em>Raqs Charqi</em> (danse du ventre).
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=9sxZVdKGe48">
@@ -253,7 +253,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Tahmila Saba</b>
-                                    <span>Le violoniste syrien Sami al-Shawwa a enregistré de nombreuses tahmilas dont cette tahmila en <a href="../maqam/saba.php">Maqam Saba</a>.
+                                    <span>Le violoniste syrien Sami al-Chawwa a enregistré de nombreuses tahmilas dont cette tahmila en <a href="../maqam/saba.php">Maqam Saba</a>.
                                     </span>
                                 </div>
                             </label>
@@ -281,7 +281,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Darej Bayati</b>
-                                    <span>Le <em>darej</em> le plus connu est celui composé par le violoniste syrien Sami al-Shawwa en <a href="../maqam/bayati.php">Maqam Bayati</a></span>
+                                    <span>Le <em>darej</em> le plus connu est celui composé par le violoniste syrien Sami al-Chawwa en <a href="../maqam/bayati.php">Maqam Bayati</a></span>
                                 </div>
                             </label>
                         </div>

@@ -105,7 +105,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Qad Hala Shourb al-Moudam</b>
+                                    <b>Mouachah Qad Hala Chourb al-Moudam</b>
                                     <span>Ensemble Al-Tourath (Syrie)</span>
                                 </div>
                             </label>

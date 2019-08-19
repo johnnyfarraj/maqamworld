@@ -106,7 +106,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Fagr Nurak Hall wi Bane (c.1952)</b>
                                     <span>Interprétation de Baligh Hamdi (Égypte)</span>
-                                    <span>Musique de Youssef Shawqi</span>
+                                    <span>Musique de Youssef Chawqi</span>
                                 </div>
                             </label>
                         </div>

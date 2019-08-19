@@ -61,7 +61,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Fil-Roud Ana Shouft el-Gamil</b>
+                                    <b>Mouachah Fil-Roud Ana Chouft el-Gamil</b>
                                     <span>Sabah Fakhri (Syrie)</span>
                                     <span>Musique de Omar al-Batch</span>
                                 </div>

@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     <div class="notation">
                         <img src="/note/iqaa/ayyub.png" class="img-fluid">
                     </div>
-                    <p>Le Iqa‘ Ayyoub (aussi écrit 'Ayoub') est surtout utilisé en musique soufie, dans certaines musiques folkloriques et dans le <em>Raqs Sharqi</em> (la danse du ventre). Le Iqa‘ Ayyoub est des fois appelé <strong>Zar</strong> en Égypte, du nom d'une cérémonie folklorique de guérison dirigée par des femmes qui jouent des instruments de percussion à main. L'ethos de Ayyoub est rapide, court et cyclique.
+                    <p>Le Iqa‘ Ayyoub (aussi écrit 'Ayoub') est surtout utilisé en musique soufie, dans certaines musiques folkloriques et dans le <em>Raqs Charqi</em> (la danse du ventre). Le Iqa‘ Ayyoub est des fois appelé <strong>Zar</strong> en Égypte, du nom d'une cérémonie folklorique de guérison dirigée par des femmes qui jouent des instruments de percussion à main. L'ethos de Ayyoub est rapide, court et cyclique.
                     </p>
 
                     <div class="player-area">

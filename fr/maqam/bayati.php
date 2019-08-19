@@ -195,7 +195,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Bayati d'Iskandar Shalfoun</b>
+                                    <b>Sama‘i Bayati d'Iskandar Chalfoune</b>
                                     <span>Ensemble Morkos (Liban)</span>
                                     <span><img src="/img/cd.png"> Cèdre</span>
                                 </div>

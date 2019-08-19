@@ -133,7 +133,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Shou‘ouri Nahiyetak (1981)</b>
+                                    <b>Chou‘ouri Nahiyetak (1981)</b>
                                     <span>Warda (France/Algérie)</span>
                                     <span>Musique de Sayyed Makkawi</span>
                                 </div>

@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Jins Moukhalef Sharqi";
-$page_description = "Jins Moukhalef Sharqi";
+$page_title = "Jins Moukhalef Charqi";
+$page_description = "Jins Moukhalef Charqi";
 $page_keywords = "musique arabe, maqam, instruments, jins moukhalef sharqui, iqa‘, iqaa, rythme, oud, qanoun, nay, quart de ton, tarab";
 $page_language = "fr";
 
@@ -29,14 +29,14 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins Moukhalef Sharqi <span class="badge badge-custom">Nouveau</span></h1>
+                        <h1>Jins Moukhalef Charqi <span class="badge badge-custom">Nouveau</span></h1>
                         <h3>Une variation du <a href="sikah.php">Jins Sikah</a> avec une tierce abaissée</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Ajnas</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mukhalif_sharqi.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Moukhalef Sharqi</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mukhalif_sharqi.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Moukhalef Charqi</a>
                     </div>
                     <div class="notation" id="notation1">
                         <img src="/note/jins/mukhalif_sharqi.png" class="img-fluid" usemap="#notemap">
@@ -50,7 +50,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="233,70,13" href="#" alt="Sol♭" class="playNote" data-frequency="365.32" data-parent="#notation1">
 
 					</map>
-                    <p>Le Jins Moukhalef Sharqi  n'a pas de <em>ghammaz</em> et donc pas de taille définie. Il est noté ici avec sa tonique sur Mi<i class="icon-halfflat"></i>. Le Jins Moukhalef Sharqi  ne fait partie d'aucun <em>maqam</em> et apparaît généralement comme une modulation à partir du <a href="sikah.php">Jins Sikah</a>.
+                    <p>Le Jins Moukhalef Charqi  n'a pas de <em>ghammaz</em> et donc pas de taille définie. Il est noté ici avec sa tonique sur Mi<i class="icon-halfflat"></i>. Le Jins Moukhalef Charqi  ne fait partie d'aucun <em>maqam</em> et apparaît généralement comme une modulation à partir du <a href="sikah.php">Jins Sikah</a>.
                     </p>
 
                     <div class="player-area">
