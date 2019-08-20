@@ -125,7 +125,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Marhabtayn</b>
-                                    <span>La diva libanaise Sabah dans sa chanson <strong>Marhabtayn</strong> (enregistré au Koweït). Avec un buzuq dans l'orchestre (dirigé par le violoniste libanias Abboud Abdel 'Al).</span>
+                                    <span>La diva libanaise Sabah dans sa chanson <strong>Marhabtayn</strong> (enregistré au Koweït). Avec un buzuq dans l'orchestre (dirigé par le violoniste libanias Abbud Abdel 'Al).</span>
                                 </div>
                             </label>
                         </div>

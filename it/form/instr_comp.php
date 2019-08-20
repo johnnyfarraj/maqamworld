@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Formes Composées Instrumentales";
-$page_description = "Formes Composées Instrumentales";
-$page_keywords = "musique, arabe, formes, qawaleb, Il Dulab, La Maqtoua, La Muqaddima, La Tahmila, Il Darej";
+$page_title = "Forme di Composizioni Strumentali";
+$page_description = "Forme di Composizioni Strumentali";
+$page_keywords = "musica tradizionale araba, maqam, strumenti, forme, qawaleb, Il Dulab, La Maqtoua, La Muqaddima, La Tahmila, Il Darej";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -23,20 +23,20 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Indice del Formes</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Indice per le Forme</a>
                     <?php include('../sidemenu-form.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Formes Composées Instrumentales</h1>
+                        <h1>Forme di Composizioni Strumentali</h1>
                         <h3>Il Dulab, La Maqtoua, La Muqaddima, La Tahmila, Il Darej</h3>
                     </div>
 
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice del Formes</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice per le Forme</a>
                     <div class="clearfix"></div>
 
-                    <p>Les formes composées instrumentales ne sont pas aussi répandues que les <a href="vocal_comp.php">Formes Vocales Composées</a> dans la musique arabe, celle-ci étant principalement de nature orale. Les performances uniquement instrumentales sont de ce fait très rares. Pourtant, la musique instrumentale est un complément très beau à la musique vocale et lui sert d'introduction, fournit des interludes entre les pièces vocales et permet aux instrumentistes de montrer leur talent au sein de l'orchestre.</p>
+                    <p>Les formes composées instrumentales ne sont pas aussi répandues que les <a href="vocal_comp.php">Forme per Composizioni Vocali</a> dans la musique arabe, celle-ci étant principalement de nature orale. Les performances uniquement instrumentales sont de ce fait très rares. Pourtant, la musique instrumentale est un complément très beau à la musique vocale et lui sert d'introduction, fournit des interludes entre les pièces vocales et permet aux instrumentistes de montrer leur talent au sein de l'orchestre.</p>
 
                     <div id="maqtua" class="heading jins text-center full-width">
                         <h3>La Maqtoua</h3>
@@ -266,7 +266,7 @@ include($ROOT . 'inc/head.php');
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/darij.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Darej</a>
                     </div>
-                    <p> La forme Darej (appelée officiellement <em>Sama'i Darej</em>) est une composition instrumentale simple nommée d'après le <a href="../iqaa/samai_darij.php">Iqa‘ Sama‘i Darej (3/4)</a> qu'elle utilise. Comme les <a href="ottoman.php">Formes Instrumentales Ottomanes</a>, la composition Darej est ancrée dans un <a href="../maqam.php">maqam</a> principal qui lui donne son nom, celui-ci suivi du nom du compositeur.
+                    <p> La forme Darej (appelée officiellement <em>Sama'i Darej</em>) est une composition instrumentale simple nommée d'après le <a href="../iqaa/samai_darij.php">Iqa‘ Sama‘i Darej (3/4)</a> qu'elle utilise. Comme les <a href="ottoman.php">Forme Strumentali Composte Ottomane</a>, la composition Darej est ancrée dans un <a href="../maqam.php">maqam</a> principal qui lui donne son nom, celui-ci suivi du nom du compositeur.
                     </p>
                     <p>Les compositions <em>darej</em> étaient très répandues dans le monde arabe avant le 20<sup>ième</sup> siècle. Elles ne sont plus très jouées et composées de nos jours.
                     </p>
@@ -289,10 +289,10 @@ include($ROOT . 'inc/head.php');
 
                     <p>Explorez d'autres groupes de formes:</p>
                     <ul>
-                        <li><a href="vocal_comp.php">Formes Vocales Composées</a></li>
-                        <!-- <li><a href="instr_comp.php">Formes Composées Instrumentales</a></li> -->
-                        <li><a href="ottoman.php">Formes Instrumentales Ottomanes</a></li>
-                        <li><a href="improv.php">Formes Improvisées</a></li>
+                        <li><a href="vocal_comp.php">Forme per Composizioni Vocali</a></li>
+                        <!-- <li><a href="instr_comp.php">Forme di Composizioni Strumentali</a></li> -->
+                        <li><a href="ottoman.php">Forme Strumentali Composte Ottomane</a></li>
+                        <li><a href="improv.php">Forme Improvisate</a></li>
                     </ul>
 
                 </div>

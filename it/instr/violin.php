@@ -94,8 +94,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Abboud Abdel ‘Al</b>
-                                    <span>Le violoniste palestino-libanais Abboud Abdel ‘Al joue un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/bayati.php">Maqam Bayati</a> sur le <a href="../iqaa/samai.php">Iqa‘ Sama‘i Thaqil</a> (enregistré sur la télévision libanaise).</span>
+                                    <b>Abbud Abdel ‘Al</b>
+                                    <span>Le violoniste palestino-libanais Abbud Abdel ‘Al joue un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/bayati.php">Maqam Bayati</a> sur le <a href="../iqaa/samai.php">Iqa‘ Sama‘i Thaqil</a> (enregistré sur la télévision libanaise).</span>
                                 </div>
                             </label>
                         </div>

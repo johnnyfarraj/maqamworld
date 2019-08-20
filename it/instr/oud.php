@@ -159,8 +159,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>‘Amer ‘Ammouri</b>
-                                    <span>Le joueur de oud syrien 'Amer 'Ammouri jouant un <a href="../form/improv.php#taqsim">Taqsim</a>
+                                    <b>‘Amer ‘Ammuri</b>
+                                    <span>Le joueur de oud syrien 'Amer 'Ammuri jouant un <a href="../form/improv.php#taqsim">Taqsim</a>
                                     en <a href="../maqam/bayati.php">Maqam Bayati</a>.
                                     Avec l'orchestre de Sabah Fakhri (enregistré à l'Opera del Cairo).
                                     </span>
