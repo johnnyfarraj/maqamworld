@@ -416,7 +416,7 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <p>Explorez d'autres groupes de formes:</p>
+                    <p>Esplora altri gruppi di forme:</p>
                     <ul>
                         <!-- <li><a href="vocal_comp.php">Forme per Composizioni Vocali</a></li> -->
                         <li><a href="instr_comp.php">Forme di Composizioni Strumentali</a></li>
