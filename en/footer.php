@@ -5,7 +5,9 @@
             <div class="col-sm-4"> <img src="/img/logo-bottom.png" height="30" class="footer-logo">
                 <p>&copy; 2001-2018 MaqamWorld
                 <br>All rights reserved.
-                <br>Designed and coded by <a href="http://filiptodorov.com" target="_blank">Filip Todorov</a></p>
+                <br>Concept, content and design: <a href="https://www.amazon.com/Johnny-Farraj/e/B07SD841D2" target="_blank">Johnny Farraj</a>
+                <br>Web development and coding: <a href="http://filiptodorov.com" target="_blank">Filip Todorov</a>
+                </p>
                 <!--
                 <ul class="socials">
                     <li><a href="#"><i class="fa fa-fw fa-facebook"></i></a></li>

@@ -5,7 +5,8 @@
             <div class="col-sm-4"> <img src="/img/logo-bottom.png" height="30" class="footer-logo">
                 <p>&copy; 2001-2018 MaqamWorld
                 <br>Tutti i diritti riservati.
-                <br>Design e sviluppo: <a href="http://filiptodorov.com" target="_blank">Filip Todorov</a>
+                <br>Concetto, testo e design: <a href="https://www.amazon.com/Johnny-Farraj/e/B07SD841D2" target="_blank">Johnny Farraj</a>                
+                <br>Sviluppo: <a href="http://filiptodorov.com" target="_blank">Filip Todorov</a>
                 <br>Traduzione Italiana: Mattia Nicolò Careddu
                 </p>
                 <!--

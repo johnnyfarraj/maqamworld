@@ -4,10 +4,11 @@
         <div class="row">
             <div class="col-sm-4"> <img src="/img/logo-bottom.png" height="30" class="footer-logo">
                 <p>&copy;
-                    عالم المقامات  ٢٠٠١ - ٢٠١٨
+                    عالم المقامات ٢٠٠١ - ٢٠١٨
                     <br>جميع الحقوق محفوظة
-                    <br>تصميم وبناء <a href="http://filiptodorov.com" target="_blank">Filip Todorov</a>
-                    <br>ساهم في الترجمة الى العربية الدكتور <a href="http://samerali.com" target="_blank">سامر علي</a>.
+                    <br>تصميم ونصّ: <a href="https://www.amazon.com/Johnny-Farraj/e/B07SD841D2" target="_blank">جوني فرّاج</a>
+                    <br>بناء وبرمجة: <a href="http://filiptodorov.com" target="_blank">Filip Todorov</a>
+                    <br>ساهم في الترجمة الى العربية: <a href="http://samerali.com" target="_blank">الدكتور سامر علي</a>.
                     <br>مراجعة وتدقيق: سامر ابو طه
                 </p>
                 <!--
