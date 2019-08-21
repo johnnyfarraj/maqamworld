@@ -50,7 +50,7 @@ include($ROOT . 'inc/head.php');
                                 <img class="card-img-top" src="/img/riqq1.png" alt="Antique Riqq Pattern">
                                 <div class="card-body">
                                     <h5 class="card-title">Forme di Composizioni Vocali</h5>
-                                    <p class="card-text">Scopri le forme Dawr, Muwashah, Qadd, Taqtuqa, Ughniya, Qasida, Monologo e Duetto.</p>
+                                    <p class="card-text">Scopri le forme Dawr, Muwashah, Qadd, Taqtuqa, Ughnia, Qasida, Monologo e Duetto.</p>
                                     <a href="form/vocal_comp.php" class="btn btn-primary">Scopri...<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>

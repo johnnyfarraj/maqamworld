@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Idha Da‘ana al-Siba</b>
                                     <span>Khaled al-Hafez</span>
-                                    <span>Musica di ‘Umar al-Batsh</span>
+                                    <span>Musica di Omar al-Batsh</span>
                                 </div>
                             </label>
                         </div>
@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Zarani Taht al-Ghayahib</b>
                                     <span>Firqat Usama Bin Zayd</span>
-                                    <span>Musica di ‘Umar al-Batsh</span>
+                                    <span>Musica di Omar al-Batsh</span>
                                 </div>
                             </label>
                         </div>

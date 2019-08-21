@@ -58,7 +58,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Tif Ya Durri Bil Qanani</b>
                                     <span>Al-Kindi Ensemble</span>
-                                    <span>Musica di ‘Umar al-Batsh</span>
+                                    <span>Musica di Omar al-Batsh</span>
                                     <span><img src="/img/cd.png"> The Aleppian Music Room I - Maqam Hijazkar Kurd</span>
                                 </div>
                             </label>
@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Tif Ya Durri Bil Qanani</b>
                                     <span>Coro della Facoltà di Musica - Università di Kaslik (Lebano)</span>
-                                    <span>Musica di ‘Umar al-Batsh</span>
+                                    <span>Musica di Omar al-Batsh</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah e Song series</span>
                                 </div>
                             </label>

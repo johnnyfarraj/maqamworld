@@ -95,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Ya Fatin al-Ghuzlan</b>
                                     <span>Al-Turath Ensemble</span>
-                                    <span>Musica di ‘Umar al-Batsh</span>
+                                    <span>Musica di Omar al-Batsh</span>
                                 </div>
                             </label>
                         </div>

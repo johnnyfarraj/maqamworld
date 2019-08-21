@@ -150,7 +150,7 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/longa.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Longa</a>
                     </div>
                     
-                    <p>La longa è la seconda forma musicale ottomana più popolare. E' solitamente composta sul breve e saltellando <a href="../iqaa/fox.php">Iqa‘ Fox</a> per i <em>khana</em>-s, e sull' <a href="../iqaa/malfuf.php">Iqa‘ Malfuf</a> per il <em>taslim</em>.
+                    <p>La longa è la seconda forma musicale ottomana più popolare. È solitamente composta sul breve e saltellando <a href="../iqaa/fox.php">Iqa‘ Fox</a> per i <em>khana</em>-s, e sull' <a href="../iqaa/malfuf.php">Iqa‘ Malfuf</a> per il <em>taslim</em>.
                     </p>
                     <p>Molte longa dell'era ottomana usavano dei maqam formati da semintoni come il <a href="../maqam/nahawand.php">Nahawand</a>, <a href="../maqam/hijaz.php">Hijaz</a> e <a href="../maqam/nikriz.php">Nikriz</a>, e usavano melodie che richiamavano la musica europea orientale.Molto compositori arabi seguono ancora questo sistema.
                     </p>

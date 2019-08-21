@@ -20,6 +20,6 @@
     <li><a href="/it/form/instr_comp.php#tahmila">La Tahmila</a></li>
     <li><a href="/it/form/improv.php#taqsim">Il Taqsim</a></li>
     <li><a href="/it/form/vocal_comp.php#taqtuqa">La Taqtuqa</a></li>
-    <li><a href="/it/form/vocal_comp.php#ughniya">L'Ughniya</a></li>
+    <li><a href="/it/form/vocal_comp.php#ughniya">L'Ughnia</a></li>
     <li><a href="/it/form/vocal_comp.php#wasla">La Wasla</a></li>
 </ul>

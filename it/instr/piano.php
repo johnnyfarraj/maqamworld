@@ -90,7 +90,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                 <b>W'Qamh</b>
-                                <span>La composition instrumentale <strong>W'Qamh</strong> de Ziad Rahbani dans le <a href="../maqam/hijaz.php">Maqam Hijaz</a> utilise le piano arabe dans un arrangement jazz-fusion. De l'album de Fairouz <strong>Mich Kayin Hayk Tkoun</strong> (1987).</span>
+                                <span>La composizione strumentale <strong>W'Qamh</strong> de Ziad Rahbani dans le <a href="../maqam/hijaz.php">Maqam Hijaz</a> utilise le piano arabe dans un arrangement jazz-fusion. De l'album de Fairouz <strong>Mich Kayin Hayk Tkoun</strong> (1987).</span>
                                 </div>
                             </label>
                         </div>
