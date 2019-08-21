@@ -272,13 +272,12 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div id="ughniya" class="heading jins text-center full-width">
-                        <h3>L'ughniya (chanson longue)</h3>
+                        <h3>L'Ughniya (canzone lunga)</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/ughniya.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Oughnia</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/ughniya.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Ughniya</a>
                     </div>
-                    <p>La
-                        Oughnia (<em>aghani</em> au pluriel) est une chanson longue, forme développée au milieu du 20<sup>ième</sup> siècle. L'ughniya peut durer jusqu'à une heure et a une longue introduction (voir <a href="instr_comp.php#muqaddima">la mouqaddima</a>) ainsi que plusieurs sections avec des modulations de <a href="../maqam.php">maqam</a> à maqam. L'ughniya est généralement interprétée par un grand orchestre et par des superstars telles que Oum Koulthoum, Adel Halim Hafez et Warda.
+                    <p>L'Ughniya (plurale <em>aghani</em>) è una canzone lunga sviluppata attraverso la metà del XX secolo. L' ughniya può durare fino a un ora durante i concerti e ha una lunga introduzione (vedi <a href="instr_comp.php#muqaddima">la muqaddima</a>) e diverse sezioni con modulazioni di <a href="../maqam.php">maqam</a> complete. L' ughniya è eseguita solitamente da una grande orchestra insieme a dei cantanti molto famosi come Umm Kulthum, Abdel Halim Hafez e Warda.
                     </p>
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=Ptd3R51Qj-s&t=723s">
                         <div class="radio">
@@ -290,7 +289,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Qari'at al-Fingan (1976)</b>
-                                    <span>Le chanteur égyptien Adel Halim Hafez interprète <strong>Qari'at al-Fingan</strong> (1976, composée par Muhammad al-Mugi).
+                                    <span><strong>Qari'at al-Fingan</strong> di Abdel Halim Hafez (1976, composizione di Muhammad al-Mugi).
                                 </span>
                                 </div>
                             </label>
@@ -303,7 +302,7 @@ include($ROOT . 'inc/head.php');
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/qasida.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Qasida</a>
                     </div>
-                    <p> La Qasida (<em>Qassa'id</em> au pluriel) réfère à un poème en mètres en arabe classique ainsi qu'à la forme musicale composée utilisant ce type de poème et ses paroles. La qassida est en général interprétée par un chanteur soliste accompagné d'un ensemble. Cette forme tend à être longue et élaborée de manière à mettre en lumière le chanteur.
+                    <p>La Qasida (plurale <em>Qasa'ed</em>) è il metro di un poema arabo calssico, e la forma della composizione utilizza questo poema come testo. La Qasida è solitamente eseguito da un cantante solista acoompagnato da un gruppo, e tende ad essere lungo ed elaborato per esaltare le abilità del cantante.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=5z8LvG5tfOE">
@@ -316,7 +315,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Qasida al-Atlal (1966)</b>
-                                    <span>La Qasida <strong>al-Atlal</strong> (les ruines) interprétée par Oum Koulthoum, composée par Riyad al Soumbati en 1966.</span>
+                                    <span>La Qasida <strong>al-Atlal</strong> di Umm Kulthum (1966) composto da Riyad al-Sunbati.</span>
                                 </div>
                             </label>
                         </div>
@@ -325,7 +324,7 @@ include($ROOT . 'inc/head.php');
                     <div id="monologue" class="heading jins text-center full-width">
                         <h3>Il Monologo</h3>
                     </div>
-                    <p> Le monologue est une forme de chanson composée inspirée de l'aria de la musique d'Opéra. Cette forme était populaire autour du milieu du 20<sup>ième</sup> siècle. Le monologue est interprété par un chanteur et un ensemble qui l'accompagne et n'a aucune section qui se répète, ce qui implique que de nouvelles phrases et mélodies sont ajoutées constamment du début à la fin du monologue.
+                    <p> Il monologo è una composizione basata, vagamente, sull'aria dell'opera. Era una forma molto popolare verso la metà del XX secolo. Il monologo è eseguito da un cantante accompagnato da un gruppo, non ha nessuna sezione ripetuta, il che vuol dire introdurre nuove frasi e melodie dall'inizio alla fine.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=r3mrDcKXxd0">
@@ -337,8 +336,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Ya Touyour (1941)</b>
-                                    <span>Le monologue de Asmahan <strong>Ya Touyour</strong> (1941) composé par Muhammad al-Qassabgi.</span>
+                                    <b>Ya Tuyur (1941)</b>
+                                    <span><strong>Ya Tuyur</strong> monologo di Asmahan (1941) composto da Muhammad al-Qasabgi.</span>
                                 </div>
                             </label>
                         </div>
@@ -347,7 +346,7 @@ include($ROOT . 'inc/head.php');
                     <div id="duet" class="heading jins text-center full-width">
                         <h3>Il Duetto</h3>
                     </div>
-                    <p>Le duo est une pièce composée pour deux chanteurs, souvent un homme et une femme, qui chantent chacun leur tour ou en même temps. Cette forme était populaire surtout dans le théâtre musical et les films du début du 20<sup>ième</sup> siècle. Les paroles sont en général romantiques, dramatiques et théâtrales.
+                    <p>Il duetto è un pezzo composto per due cantanti, spesso un uomo e una donna, che cantano insieme o uno per volta. Il duetto era molto popolare all'inizio del XX secolo nei drammi e nei film. Il testo di un duetto tende ad essere, romantico, drammatico e teatrale.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=is-xYmL9YVc">
@@ -360,7 +359,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ya Din-Na‘im</b>
-                                    <span>Muhammad Abdel Wahab et Leila Murad interprétant <strong>Ya Din-Na‘im</strong> de Muhammad Abdel Wahab, du film <strong>Yahya al-Hubb</strong> (1938).</span>
+                                    <span><strong>Ya Din-Na‘im</strong> di Muhammad Abdel Wahab e Leila Murad composto da Muhammad Abdel Wahab, tratto dal film <strong>Yahya al-Hubb</strong> (1938).
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -375,8 +375,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Ya Salam ‘Ala Houbbi wi Houbbak (1957)</b>
-                                    <span>Farid al-Atrach et Chadia interprétant <strong>Ya Salam ‘Ala Houbbi wi Houbbak</strong>de Farid al-Atrach, du film <strong>Inta Habibi</strong> (1957).</span>
+                                    <b>Ya Salam ‘Ala Hubbi wi Hubbak (1957)</b>
+                                    <span><strong>Ya Salam ‘Ala Hubbi wi Hubbak</strong> di Farid al-Atrash and Shadia composto da Farid al-Atrash, tratto dal film <strong>Inta Habibi</strong> (1957).
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -388,9 +389,9 @@ include($ROOT . 'inc/head.php');
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/wasla.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Wasla</a>
                     </div>
-                    <p> La Wasla (<em>waslat</em> au pluriel) est une forme qui contient plusieurs formes interprétées de façon consécutive en tant qu'unité, généralement dans un même <a href="../maqam.php">maqam</a>. Une wasla courte peut durer de 5 à 10 minutes alors qu'une wasla longue peut durer jusqu'à une heure. Les pièces composant la wasla sont organisées de manière à commencer lentement et à établir le maqam (souvent à l'aide de pièces instrumentales). Ensuite sont ajoutées les pièces vocales complexes et difficiles à chanter. La wasla se termine en général par des pièces courtes et simples. Tout ceci crée une pièce qui a la forme d'un arc avec un sommet au milieu.
+                    
+                    <p> Il wasla (plurale <em>waslat</em>) è una forma che contiene altre forme che sono eseguite in modo consecutivo come fossero una singola forma, solitamente basate sullo stesso <a href="../maqam.php">maqam</a>. Un wasla corto può durare 5-10 minuti, mentre un wasla più lungo può arrivare fino a un'ora. I pezzi all'interno del wasla sono ordinati in modo che inizi in modo lento e definisca il maqam (spesso con pezzi strumentali) per poi presentare pezzi complessi e difficile da cantare. Il wasla finisce con un pezzo semplice e corto, creando così un picco a metà della sua esecuzione.
                     </p>
-                    <p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=D0DQxDwgDw8&t=1103s">
                         <div class="radio">
@@ -402,7 +403,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Leh Ya Banafseg (1961)</b>
-                                    <span>Wasla de Saleh Abdel Hayy en <a href="../maqam/rast.php">Maqam Rast</a> avec <a href="improv.php#taqsim">Taqsim</a> de <a href="../instr/oud.php">oud</a>, une partie du <a href="ottoman.php#samai">Sama‘i</a> Rast de Tatyos Effendi, un Taqsim au <a href="../instr/violin.php">violon</a>, des <a href="improv.php#layali">Layali</a> accompagnés au <a href="../instr/qanun.php">qanun</a> et, finalement, la <a href="vocal_comp.php#taqtuqa">Taqtuqa</a> <strong>Leh Ya Banafseg</strong> (1961), composée par Riyad al-Sunbati.
+                                    <span>Un wasla di Saleh Abdel Hayy sul <a href="../maqam/rast.php">Maqam Rast</a> con un <a href="improv.php#taqsim">Taqsim</a> sull'<a href="../instr/oud.php">oud</a>, una parte di <a href="ottoman.php#samai">Sama‘i</a> Rast di Tatyos Effendi, un taqsim sul <a href="../instr/violin.php">violino</a>, <a href="improv.php#layali">Layali</a> accompagnato dal <a href="../instr/qanun.php">qanun</a>, e per finire la <a href="vocal_comp.php#taqtuqa">Taqtuqa</a> <strong>Leh Ya Banafseg</strong>  (1961), composto da Riyad al-Sunbati.
                                 </span>
                                 </div>
                             </label>
@@ -418,8 +419,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Dawr ‘Ishna wi Shoufna</b>
-                                    <span> Une wasla en <a href="../maqam/rast.php">Maqam Rast</a> par le chanteur égyptien 'Abbass al-Bleidi comprenant un <a href="improv.php#taqsim">Taqsim</a> au <a href="../instr/oud.php">oud</a> par George Michel, une partie du <a href="ottoman.php#samai">Sama‘i</a> Rast de Tatyos Effendi, un taqsim au <a href="../instr/violin.php">Violon</a> par Muhammad al-'Aqqad, le Muwashah Atani Zamani, un taqsim au <a href="../instr/qanun.php">qanun</a> par Fihmi 'Awad, un Layali et finalement, le <strong>Dawr ‘Ishna wi Shoufna</strong> (composé par Muhammad 'Uthman).</span>
+                                    <b>Dawr ‘Ishna wi Shufna</b>
+                                    <span> Un wasla sul <a href="../maqam/rast.php">Maqam Rast</a> del cantante egiziano ‘Abbas al-Bleidi che include un <a href="improv.php#taqsim">Taqsim</a> sull'<a href="../instr/oud.php">oud</a> di George Michel, una parte di <a href="ottoman.php#samai">Sama‘i</a> Rast di Tatyos Effendi, un taqsim sul <a href="../instr/violin.php">violino</a> di Muhammad al-‘Aqqad, Muwashah Atani Zamani, un taqsim sul <a href="../instr/qanun.php">qanun</a> di Fihmi ‘Awad, Layali, e per finire il <strong>Dawr ‘Ishna wi Shufna</strong> (composto da Muhammad ‘Uthman).
+                                    </span>
                                 </div>
                             </label>
                         </div>

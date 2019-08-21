@@ -254,7 +254,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>‘Amer ‘Ammuri</b>
-                                    <span>Taqsim sul' '<a href="../instr/oud.php">oud</a> di 'Amer 'Ammuri (Siria) sul <a href="../maqam/huzam.php">Maqam Huzam</a> durante un concerto di Sabah Fakhri.
+                                    <span>Taqsim sul'<a href="../instr/oud.php">oud</a> di ‘Amer ‘Ammuri (Siria) sul <a href="../maqam/huzam.php">Maqam Huzam</a> durante un concerto di Sabah Fakhri.
                                     </span>
                                 </div>
                             </label>
