@@ -109,7 +109,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Zoro Youssef</b>
-                                    <span>Le joueur de bouzouk kurdo-libanais Zoro Yussef (Zoro Seîd Yûsiv) jouant un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/rast.php">Maqam Rast</a>. Enregistré en direct par la télévision libanaise.</span>
+                                    <span>Le joueur de bouzouk kurdo-libanais Zoro Youssef (Zoro Seîd Yûsiv) jouant un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/rast.php">Maqam Rast</a>. Enregistré en direct par la télévision libanaise.</span>
                                 </div>
                             </label>
                         </div>

@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Zaffa (fête de mariage)</b>
-                                    <span>Une Zaffa égyptienne (fête de mariage) avec un grand groupe de percussionnistes utilisant une combinaison de <a href="mazhar.php">Mazhars</a> égyptiens, de Katims et de <a href="tabla.php">Tablas</a>, tous munis de peaux synthétiques.</span>
+                                    <span>Une Zaffa égyptienne (fête de mariage) avec un grand groupe de percussionnistes utilisant une combinaison de <a href="mazhar.php">Mazhars</a> égyptiens, de Katèms et de <a href="tabla.php">Tablas</a>, tous munis de peaux synthétiques.</span>
                                 </div>
                             </label>
                         </div>
