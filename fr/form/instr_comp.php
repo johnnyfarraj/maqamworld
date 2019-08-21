@@ -132,7 +132,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Alf Leila wi Leila (1969)</b>
-                                    <span>L'introduction de la pièce de Oum Koulthoum <strong>Alf Leila wi Leila</strong>strong> (1969), composée par Baligh Hamdi.
+                                    <span>L'introduction de la pièce de Oum Koulthoum <strong>Alf Leila wi Leila</strong> (1969), composée par Baligh Hamdi.
                                     </span>
                                 </div>
                             </label>

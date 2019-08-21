@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Mouachah Mala al-Kasat</b>
-                                    <span>Enregistrement de Mouhammad Khayri chantant le <strong>Mouachah Mala al-Kasat</strong>dans le <a href="../maqam/rast.php">Maqam Rast</a> (musique de Mouhammad 'Outhman).</span>
+                                    <span>Enregistrement de Mouhammad Khayri chantant le <strong>Mouachah Mala al-Kasat</strong> dans le <a href="../maqam/rast.php">Maqam Rast</a> (musique de Mouhammad 'Outhman).</span>
                                 </div>
                             </label>
                         </div>
@@ -240,7 +240,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Min Azzibak (c.1930s)</b>
-                                    <span>La chanson <strong>Min Azzibak</strong> de Mouhammad Adbel Wahab dans le <a href="../maqam/rast.php">Maqam Rast</a>(années 1930).</span>
+                                    <span>La chanson <strong>Min Azzibak</strong> de Mouhammad Adbel Wahab dans le <a href="../maqam/rast.php">Maqam Rast</a> (années 1930).</span>
                                 </div>
                             </label>
                         </div>
