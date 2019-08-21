@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Il Daff";
 $page_description = "Il Daff";
-$page_keywords = "arabe, musique, instruments, accordéon, buzuq, daff, mazhar, guitare électrique, katèm, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, tromba, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
+$page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab, Daff";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Il Daff</h1>
-                        <h3>Le tambour sur cadre générique</h3>
+                        <h3>Il generico tamburo a cornice</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice Degli Strumenti</a>
@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/daff.jpg" alt="Daf">
-                        <span>Trois Dafs à peaux de chèvre et de cerf. &copy; MaqamWorld</span>
+                        <span>Tre daf in pelle di capra e cervo. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
@@ -46,15 +46,16 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/bendir.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Béndir</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/bendir.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Bandir</a>
                     </div>
 
-                    <p> 'Daf' est un mot générique pour le tambour sur cadre en arabe, et plusieurs variétés locales peuvent avoir d'autres noms, comme le <em>Mazhar</em> en Syrie et en Egitto, ou le <em>Béndir</em> en Afrique du Nord.
+                    <p>Daf è una parola generica per definire il tamburo a cornice usato nel mondo Arabo, ma può avere differenti nomi in base alla località: Mazhar in Siria e Egitto o <em>Bandir</em> in Nord Africa.
                     </p>
 
-                    <p> Il Daf a un cadre circulaire en bois qui a un diamètre de 30 à 60 centimètres (plus il est large, plus les fréquences sont basses). Le cadre peut avoir 10 centimètres de profondeur pour les petits diamètres et 5 à 7 centimètres de profondeur pour les plus grands diamètres. La peau est généralement celle d'une chèvre, d'un cerf ou autre peau naturelle, et est collée de façon permanente au cadre. Les Dafs modernes ont une peau de plastique et sont accordables.
+                    <p>Il daf è un tamburo a cornice circolare del diamentro di 30 cm nel lato più èiccolo e di 60 cm nel lato più largo (e basso). La cornice può essere profonda 10 cm per i diametri più piccoli e tra i 5 e i 7,5 cm per i diametri più grandi. La pelle è generalemente di capra, cervo o altre pelli naturali, ed è permanentemente incollata alla corcnice, mentre i daf moderni hanno generalemte una pelle di plastica e sono accordabili.
                     </p>
-                    <p>Il Daf est particulièrement populaire dans la musique Soufie (dans laquelle c'est souvent le seul instrument qui accompagne le chant) et est aussi utilisé dans les genres classiques, folkloriques et populaires pour créer une section rythmique plus grande.
+                    
+                    <p>Il daf è molto popolare nella musica Sufi (dove è spesso l'unico strumento usato per accompagnare il cantante), ed è anche usato nei generi classici, folk e pop per aver una sezione ritmica più ricca.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=FFViUJriwXE&t=515s">
@@ -66,8 +67,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>L'ensemble Hassan al-Haffar</b>
-                                    <span>Il Daf est utilisé dans l'ensemble du <em>mounched</em> (chantre islamique) aleppin Hassan al-Haffar dans un concert enregistré à Paris.</span>
+                                    <b>Il complesso di Hassan al-Haffar</b>
+                                <span>Utilizzo del <em>daf</em> dal complesso di <em>Munshid</em> (cantore islamico) Hassan al-Haffar, registrato in concerto a Parigi.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -82,8 +84,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Douqqou el-Mazaher</b>
-                                    <span>La chanson de mariage <strong>Douqqou el-Mazaher</strong> ('jouez aux tambours') de Farid al-Atrash utilise plusieurs tambours sur cadre utilisés dans les célébrations de mariage.</span>
+                                    <b>Duqqu el-Mazaher</b>
+                                    <span>La canzone di matrimonio <strong>Duqqu el-Mazaher</strong> ("Suoana il tamburo a cornice", 1952)  di Farid al-Atrash insieme a molti tamburi a cornice usati nella celebrazione dei matrimoni.
+                                    </span>
                                 </div>
                             </label>
                         </div>

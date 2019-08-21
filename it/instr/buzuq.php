@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Il Buzuq";
 $page_description = "Il Buzuq";
-$page_keywords = "arabe, musique, instruments, accordéon, buzuq, daff, mazhar, guitare électrique, katèm, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, tromba, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
+$page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab, Buzuq";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Il Buzuq</h1>
-                        <h3>Un petit lute avec un long manche fretté</h3>
+                        <h3>Un piccolo liuto con un lungo manico avente tasti.</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice Degli Strumenti</a>
@@ -38,17 +38,17 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/buzuq.jpg" alt="Il Buzuq">
-                        <span>Deux buzuqs du Liban. &copy; MaqamWorld</span>
+                        <span>Due buzuq fatti in Lebano. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/buzuq.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Bouzouk</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/buzuq.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Buzuq</a>
                     </div>
 
-                    <p>Il Buzuq est un instrument à cordes de la famille du <a href="oud.php">Oud</a> avec un corps plus petit et un manche plus long et fretté. Il est plus proche pour la forme du <em>Bouzouki</em> grec et du <em>Saz</em> turc. Il Buzuq est à l'origine un instrument folklorique de l'Est de la Méditerranée (Palestina, Jordanie, Liban et Syrie) qui est en général joué en solo. Il est dans la présente liste des instruments traditionnels parce qu'il est devenu partie prenante de la musique arabe populaire dominante au milieu du 20<sup>ième</sup> siècle. Depuis, il est apparu dans de nombreux enregistrements et performances et a pris place dans l'ensemble arabe.
+                    <p>Il buzuq è uno strumento a corda della famiglia degli <a href="oud.php">Oud</a> con un piccolo corpo e un lungo manico avente tasti. E' simile, nella forma, al bouzouki, strumento greco, e al saz, strumento turco. Il bazuq è originariamente uno strumento popolare del mediterraneo orientale (Palestina, Giordania, Lebano e Siria) e viene spesso suonato da solo. Viene comunque inserito nella lista degli altri strumenti tradizionali in quanto è stato usato nella musica pop araba nel corso del XX secolo. Da allora è stato usato in molte registrazione e concerti diventando parte del complesso musicale arabo.
                     </p>
                     <p>
-                    Il Buzuq traditionnel a deux cœurs de cordes de métal, un double Do4 et un triple Sol3, et il est joué à l'aide d'un fin morceau de corne ou d'un plectre en plastique. De nos jours, le buzuq est construit avec trois cœurs de cordes de manière à avoir un ambitus plus ample. Les cordes en métal et les clés de métal pour accorder l'instrument (pareilles à celles d'une guitare) lui donne une sonorité claire. La distribution des frettes couvre les quarts de ton les plus communs. Ceci, et le fait que le musicien peut déplacer les frettes pour changer la fréquence (le pitch) des notes, permet au buzuq de jouer les gammes les plus communes du <a href="../maqam.php">maqam</a> arabe avec une précision acceptable.
+                    Il buzuq tradizionale è formato da due insiemi di corde metalliche, una doppia (C4) e una tripla (G3), suonato da un sottile pezzo di corno o un plettro di plastica. I buzuq al giorno d'oggi invece sono formati da tre insiemi di corde in modo da espandere la qualità sonora. Le corde metalliche, insieme alle chiavi di accordatura metalliche (identiche a quelle della chitarra) danno allo strumento un suono brillante, mentre i tasti sul manico coprono la maggior parte dei quarti di tono. Questo, e il fatto che il musicista possa muovere leggermente i tasti in modo da aggiustare la tonalità, fanno si che il buzuq possa suonare la maggior parte delle scale dei <a href="../maqam.php">maqam</a> con una buona precisione.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=isAhZyRcA0M&t=0s">
@@ -60,8 +60,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Mouhyiddine Ba‘youn</b>
-                                    <span>Le joueur de buzuq et chanteur libanias Mouhyiddine Ba'youn jouant un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/bayati.php">Maqam Bayati</a>.</span>
+                                    <b>Muhyiddin Ba‘yun</b>
+                                    <span>Il suonatore di buzuq e cantante libanese Muhyiddin Ba‘yun durante un <a href="../form/improv.php#taqsim">Taqsim</a> con il buzuq sul <a href="../maqam/bayati.php">Maqam Bayati</a>.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -77,7 +78,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Muhammad Abdel Karim</b>
-                                    <span>Le joueur de buzuq syrien Muhammad Abdel Karim (appelé le Prince du Bouzouk) jouant un <a href="../form/improv.php#taqsim">Taqsim</a> au buzuq. Abdel Karim a laissé de nombreux enregistrements. Son style était doux et méditatif.</span>
+                                    <span>Il suonatore di buzuq siriano Muhammad Abdel Karim (soprannominato "il Principe del Buzuq") durante un <a href="../form/improv.php#taqsim">Taqsim</a> con il Buzuq. Abdel ha lasciato molte registrazioni e il suo stile è stato dolce e meditativo.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -93,7 +95,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Matar Muhammad</b>
-                                    <span>Le virtuose du buzuq libanias Matar Muhammad joue un <a href="../form/improv.php#taqsim">Taqsim</a> dans un concert. Son Taqsim met le buzuq au même niveau que les autres instruments traditionnels arabes pour ce qui a trait à la complexité, la technique, l'ornementation, les modulations en <a href="../maqam.php">maqam</a>, et la longueur.</span>
+                                    <span>Il libanese Matar Muhammad, virtuoso del buzuq, suona un <a href="../form/improv.php#taqsim">Taqsim</a> con il buzuq in un concerto. Il taqasim di Muhammad porta il buzuq allo stesso livello degli altri strumenti tradizionali arabi per la loro complessità, tecnica, abbellimento, modulazione del <a href="../maqam.php">maqam</a> e lunghezza.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -109,7 +112,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Zoro Yussef</b>
-                                    <span>Le joueur de buzuq kurdo-libanais Zoro Yussef (Zoro Seîd Yûsiv) jouant un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/rast.php">Maqam Rast</a>. Enregistré en direct par la télévision libanaise.</span>
+                                    <span>Il suonatore di buzuq curdo-libanese Zoro Yussed suona un <a href="../form/improv.php#taqsim">Taqsim</a> con il buzuq sul <a href="../maqam/rast.php">Maqam Rast</a>, registrato in diretta sulla televisione libanese.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -125,7 +129,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Marhabtayn</b>
-                                    <span>La diva libanaise Sabah dans sa chanson <strong>Marhabtayn</strong> (enregistré au Koweït). Avec un buzuq dans l'orchestre (dirigé par le violoniste libanias Abbud Abdel 'Al).</span>
+                                    <span>La diva libanese Sabah durante la sua canzone <strong>Marhabtayn</strong> (registrata in diretta in Kuwait) insieme al buzuq della sua orchestra (condotta dal violinista Abbud Abdel ‘Al).</span>
                                 </div>
                             </label>
                         </div>

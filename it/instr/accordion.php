@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "La Fisarmonica Arabe";
-$page_description = "La Fisarmonica Arabe";
-$page_keywords = "arabe, musique, instruments, accordéon, buzuq, daff, mazhar, guitare électrique, katèm, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, tromba, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
+$page_title = "La Fisarmonica Araba";
+$page_description = "La Fisarmonica Araba";
+$page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab, Fisarmonica Arabe";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -29,21 +29,22 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>La Fisarmonica Arabe</h1>
-                        <h3>Un accordéon modifié pour obtenir les quarts de ton</h3>
+                        <h1>La Fisarmonica Araba</h1>
+                        <h3>Una fisarmonica alterata per includere i quarti di tono.</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice Degli Strumenti</a>
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
-                        <img src="/instr/accordion.jpg" alt="La Fisarmonica Arabe">
-                        <span>Farouq Salama jouant de l'accordéon sur la chanson <strong>Ya Msahharni</strong> de Oum Koulhoum, 1971</span>
+                        <img src="/instr/accordion.jpg" alt="La Fisarmonica Araba">
+                        <span>Faruq Salama mentre suona la fisarmonica durante <strong>Ya Msahharni</strong> di Umm Kulthum, Cairo, 1971
+                        </span>
                     </div>
 
-                    <p>L'accordéon est entré dans la scène musicale arabe en Egitto au début du 20ième siècle et était au début utilisé sans modification pour donner une touche exotique à la musique (par exemple sur la chanson '<em>Sahirtou</em>' de Muhammad Abdel Wahab en 1935). Plus tard, l'instrument a été modifié pour y ajouter quelques notes (les quarts de ton), ce qui a permis de jouer plus de gammes (<a href="../maqam.php">maqams</a>) arabes avec une intonation plus ou moins précise.</p>
-                    <p>
-                        L'accordéon est très populaire dans les genres <em>Raqs Sharqi</em> (danse du ventre) et <em>Cha‘bi</em>.
+                    <p>La fisaromica fece la sua comparsa nella musica araba in Egitto agli inizi del XX secolo e fu originariamente usata senza alcuna alterazione in modo da aggiungere un colore estraneo alla musica (e.g. "<em>Sahirtu</em>" di Muhammad Abdel Wahab nel 1935). Successivamente vennero aggiunte nuove note (i quarti di tono) che permisero di suonare molti dei <a href="../maqam.php">maqams</a> arabi con la corretta intonazione.
+                    </p>
+                    <p>La fisarmonica è estremamente popolare nel genere <em>Raqs Sharqi</em> (danza del ventre) e nel <em>Sha‘bi</em>.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=_0JgmVgSa94&t=376s">
@@ -56,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ya Msahharni</b>
-                                    <span>Le pionnier de l'accordéon arabe égyptien Farouq Salama jouant l'introduction à la pièce de Oum Koulthoum <strong>Ya Msahharni</strong> (1972, musique de Sayyed Makkawi).</span>
+                                    <span>Faruq Salama, pioniere egiziano della fisarmonica araba, mentre suona l'introduzione della canzone degli Umm Kukthum <strong>Ya Msahharni</strong> (1972, musica di Sayyed Makkawi.)</span>
                                 </div>
                             </label>
                         </div>
@@ -71,8 +72,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Interview avec Farouq Salama</b>
-                                    <span>Interview avec Farouq Salama à propos de son expérience en tant qu'accordéoniste dans l'orchestre de Oum Koulthoum.</span>
+                                    <b>Intervista a Faruq Salama</b>
+                                    <span>Invervista a Faruq Salama sulla sua esperienza da fisarmonicista con la Umm Kulthum's orchestra.</span>
                                 </div>
                             </label>
                         </div>
@@ -88,7 +89,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Fifi ‘Abdou</b>
-                                    <span>Un vidéo de la danseuse du ventre Fifi 'Abdo qui commence avec de l'accordéon arabe.</span>
+                                    <span>Un video della danzatrice del ventre <strong>Fifi ‘Abdo</strong> che inizia con una fisarmonica araba.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -104,7 +106,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                 <b>Ahmed ‘Adaweya</b>
-                                <span>La chanson de Ahmed ‘Adaweya <strong>Yi Hilu el-Malamih</strong> (dans le genre égyptien <em>Cha‘bi</em>) avec accompagnement par une danseuse.</span>
+                                <span>La canzone <strong>Ya Hilu el-Malamih</strong> (nel genere egizio <em>Sha‘bi</em>) di Ahmed ‘Adaweya con una danzatrice del ventre.
+                                </span>
                                 </div>
                             </label>
                         </div>
@@ -120,7 +123,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Elias Lammam</b>
-                                <span>L'Orchestra National Arabe (Etats-Unis) jouant la composition de Farid al-Atrach <strong>Kahramana</strong> dans un arrangement dans lequel fait place l'accordéon arabe aux côtés d'instruments traditionnels arabes.</span>
+                                    <span>L'Orchestra Nazionale Araba (USA) mentre suona <strong>Kahramana</strong>, composizione strumentale di Farid al-Atrash, in un arrangiamento che include la fisarmonica araba con altri strumenti tradizionali arabi.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -129,7 +133,7 @@ include($ROOT . 'inc/head.php');
                     <p>Explorer d'autres instruments arabisés:</p>
                     <ul>
                     	<!--
-						<li><a href="accordion.php">La Fisarmonica Arabe</a></li>
+						<li><a href="accordion.php">La Fisarmonica Araba</a></li>
 						-->
 						<li><a href="guitar.php">La Chitarra Elettrica Arabe</a></li>
 						<li><a href="org.php">L'Orgue Électrique Arabe</a></li>

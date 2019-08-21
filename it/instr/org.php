@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "L'Orgue Électrique Arabe";
 $page_description = "L'Orgue Électrique Arabe";
-$page_keywords = "arabe, musique, instruments, accordéon, buzuq, daff, mazhar, guitare électrique, katèm, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, tromba, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
+$page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab, Oud, Qanun, Nay, Violino, Buzuq, Fisarmonica Arabe, Chitarra Elettrica Arabe, Organo Elettrico Arabe, Tastiera Orientale, Piano Arabo, Sassofono, Tromba, Riqq, Tabla, Tabl Baladi, Daff, Mazhar, Katem, Sagat";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -69,8 +69,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Interview avec Magdi el-Husseini</b>
-                                    <span>Interview avec Magdi el-Husseini à propos de sa rencontre avec Abdel Halim Hafez et de son expérience en tant que membre de son orchestre.</span>
+                                    <b>Intervista a Magdi el-Husseini</b>
+                                    <span>Intervista a Magdi el-Husseini à propos de sa rencontre avec Abdel Halim Hafez et de son expérience en tant que membre de son orchestre.</span>
                                 </div>
                             </label>
                         </div>
@@ -85,8 +85,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Interview avec Hani Mehanna</b>
-                                    <span>Interview avec Hani Mehanna à propos de sa rencontre avec Muhammad Abdel Wahab et la chanteuse Oum Koulthoum et de son expérience en tant que membre de l'orchestre de cette dernière pour la chanson <strong>Leilet Hobb</strong>.</span>
+                                    <b>Intervista a Hani Mehanna</b>
+                                    <span>Intervista a Hani Mehanna à propos de sa rencontre avec Muhammad Abdel Wahab et la chanteuse Oum Koulthoum et de son expérience en tant que membre de l'orchestre de cette dernière pour la chanson <strong>Leilet Hobb</strong>.</span>
                                 </div>
                             </label>
                         </div>
@@ -94,7 +94,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>Explorer d'autres instruments arabisés:</p>
                     <ul>
-						<li><a href="accordion.php">La Fisarmonica Arabe</a></li>
+						<li><a href="accordion.php">La Fisarmonica Araba</a></li>
 						<li><a href="guitar.php">La Chitarra Elettrica Arabe</a></li>
                     	<!--
 						<li><a href="org.php">L'Orgue Électrique Arabe</a></li>

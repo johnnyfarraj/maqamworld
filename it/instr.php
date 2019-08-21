@@ -6,7 +6,7 @@ include('../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Strumenti Musicali Arabi";
 $page_description = "Strumenti Musicali Arabi";
-$page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab";
+$page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab, Oud, Qanun, Nay, Violino, Buzuq, Fisarmonica Arabe, Chitarra Elettrica Arabe, Organo Elettrico Arabe, Tastiera Orientale, Piano Arabo, Sassofono, Tromba, Riqq, Tabla, Tabl Baladi, Daff, Mazhar, Katem, Sagat";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -67,7 +67,7 @@ include($ROOT . 'inc/head.php');
                                 <img class="card-img-top" src="/img/rosette_khalaf.png" alt="Oud Rosette Khalaf">
                                 <div class="card-body">
                                     <h5 class="card-title">Strumenti Tradizionali</h5>
-                                    <p class="card-text"><a href="instr/oud.php">L'e 'Oud</a></p>
+                                    <p class="card-text"><a href="instr/oud.php">L'Oud</a></p>
                                     <p class="card-text"><a href="instr/qanun.php">Il Qanun</a></p>
                                     <p class="card-text"><a href="instr/nay.php">Il Nay</a></p>
                                     <p class="card-text"><a href="instr/violin.php">Il Violino</a></p>
@@ -80,7 +80,7 @@ include($ROOT . 'inc/head.php');
                                 <img class="card-img-top" src="/img/nahat_girgi.png" alt="Oud Rosette Nahhat">
                                 <div class="card-body">
                                     <h5 class="card-title">Strumenti Arabizzati</h5>
-                                    <p class="card-text"><a href="instr/accordion.php">La Fisarmonica Arabe</a></p>
+                                    <p class="card-text"><a href="instr/accordion.php">La Fisarmonica Araba</a></p>
                                     <p class="card-text"><a href="instr/guitar.php">La Chitarra Elettrica Arabe</a></p>
                                     <p class="card-text"><a href="instr/org.php">L'Organo Elettrico Arabe</a></p>
                                     <p class="card-text"><a href="instr/keyboard.php">La Tastiera Orientale</a></p>
@@ -100,7 +100,7 @@ include($ROOT . 'inc/head.php');
                                     <p class="card-text"><a href="instr/tabl_baladi.php">Il Tabl Baladi</a></p>
                                     <p class="card-text"><a href="instr/daff.php">Il Daff</a></p>
                                     <p class="card-text"><a href="instr/mazhar.php">Il Mazhar</a></p>
-                                    <p class="card-text"><a href="instr/katim.php">Le Katem</a></p>
+                                    <p class="card-text"><a href="instr/katim.php">Il Katem</a></p>
                                     <p class="card-text"><a href="instr/sagat.php">Le Sagat</a></p>
                                 </div>
                             </div>

@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "La Chitarra Elettrica Arabe";
 $page_description = "La Chitarra Elettrica Arabe";
-$page_keywords = "arabe, musique, instruments, accordéon, buzuq, daff, mazhar, guitare électrique, katèm, nay, synthétiseur oriental, orgue électrique, oud, ‘ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, tromba, violon, monde arabe, maqam, jins, iqa‘, iqaa, rythme, quart de ton, tetrachord, modal, moyen orient, tarab";
+$page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab, Chitarra Elettrica Arabe";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>La Chitarra Elettrica Arabe</h1>
-                        <h3>Joue des mélodies et des accords simples</h3>
+                        <h3>Suona melodie e accordi semplici</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice Degli Strumenti</a>
@@ -38,10 +38,12 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/guitar.jpg" alt="La Guitare Électriqu">
-                        <span>Omar Khorchid, le pionnier de la Guitare Électrique en Egitto</span>
+                        <span>Omar Khorshid, il pioniere della chitarra elettrica in Egitto</span>
                     </div>
 
-                    <p>La guitare électrique a été utilisée pour la première fois dans la musique arabe vers la fin des années 1960 en Egitto. Le pionnier a été Omar Khorchid. Certaines guitares électriques ont été modifiées par l'ajout de frettes supplémentaires (à la manière du <a href="buzuq.php">Bouzouk</a>) de manière à être en mesure de jouer les <a href="../maqam.php">Maqams</a> arabes et leurs quarts de ton. La plupart du temps, la guitare électrique a été utilisée sans être modifiée et sans effet, et a acquis son 'arabité' grâce au style ornemental. La guitare électrique a été utilisée pour jouer une combinaison de lignes mélodiques et d'accords simples (par exemple, majeurs et mineurs).
+                    <p>La chitarra elettrica fu usata per la prima volta nella musica araba verso la fine del 1960 in Egitto, il suo pioniere fu Omar Khorshid. Ad alcune chitarre elettriche usate nella musica araba venivano aggiunti dei tasti (come per il <a href="buzuq.php">Buzuq</a>) in modo da suonare alcune scale dei <a href="../maqam.php">Maqams</a> arabi con i quarti di tono.
+                    </p>
+                    <p>Ma la maggior parte delle chitarre elettriche venivano usate senza nessuna alterazione o effetti e acquisirono la loro caratteristica araba dall'abbellimento . La chitarra elettrica viene usata per suonare una combinazione di linee melodiche e accordi semplici (e.g. maggiori e minori).
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=3uBB1pxeirw">
@@ -53,8 +55,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Omar Khorchid</b>
-                                    <span>Le pionnier de la Guitare Électrique Omar Khorchid joue la chanson <strong>Daret el-Ayyam</strong> de Oum Koulthoum (1970, musique de Muhammad Abdel Wahab).</span>
+                                    <b>Omar Khorshid</b>
+                                    <span>Il pioniere della chitarra elettrica nella musica araba Omar Khorshid mentre suona <strong>Daret el-Ayyam</strong> di Umm Kukthum (1970, musica di Muhammad Abdel Wahab).</span>
                                 </div>
                             </label>
                         </div>
@@ -69,8 +71,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Interview avec Omar Khorchid</b>
-                                    <span>Interview avec Omar Khorchid à propos de son expérience en tant que guitariste électrique dans l'orchestre de Oum Koulthoum.</span>
+                                    <b>Intervista con Omar Khorshid</b>
+                                    <span>Invervista con Omar Khorshid sulla sua esperienza come chitarrista elettrico nell'Orchestra di Umm Kulthum.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -78,7 +81,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>Explorer d'autres instruments arabisés:</p>
                     <ul>
-						<li><a href="accordion.php">La Fisarmonica Arabe</a></li>
+						<li><a href="accordion.php">La Fisarmonica Araba</a></li>
                     	<!--
 						<li><a href="guitar.php">La Chitarra Elettrica Arabe</a></li>
 						-->
