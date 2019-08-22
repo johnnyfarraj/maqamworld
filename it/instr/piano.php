@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Il Piano Arabo</h1>
-                        <h3>Un piano qui joue les <a href="../maqam.php">Maqams</a> sans harmonie</h3>
+                        <h3>Un piano che suona dei <a href="../maqam.php">Maqamat</a> senza armonia</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice Degli Strumenti</a>
@@ -38,14 +38,17 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/piano.jpg" alt="The Arabic Piano">
-                        <span>Le pianiste libanais Ziad Rahbani (d'un poster pour un concert des années 1980)</span>
+                        <span>Il pianista libanese Ziad Rahbani (da un poster di un concerto del 1980)</span>
                     </div>
 
-                    <p> Bien que le piano ait été intégré à la musique arabe au début du 20ième siècle, il a été utilisé en tant qu'instrument européen pour ajouter une couleur classique à des compositions arabes (par exemple dans al-Siba wal-Gamal de Muhammad Abdel Wahab, en 1939). Par 'Piano Arabe', par contre, nous référons à un piano joué mélodiquement (sans harmonie) dans un cadre de musique utilisant le <a href="../maqam.php">maqam</a> arabe.
+                    <p> 
+                    Anche se il piano è stato usato nella musica arabo fin dall'inizio del XX secolo, è stato usato come strumento occidentale per aggiungere colori classici alle composizioni arabe (e.g. "al-Siba wal-Gamal" di Muhammad Abdel Wahab, 1939). Con piano arabo ci riferiamno a tutti al piano suonato in modo melodico (senza armonia) coin i framework di <a href="../maqam.php">maqam</a> arabi.
                     </p>
-                    <p>Le premier pionnier du piano arabe a été le libanais Wadih Sabri qui a ajouté des notes au piano (quarts de ton) pendant le Congrès de la Musique Arabe du Caire en 1932. Plus tard, le libanais Abdallah Chahine a aussi modifié le piano pour être en mesure de jouer les quarts de ton et a enregistré un album appelé 'al-Nagham al-Khalid' avec des <a href="../form/improv.php#taqsim">taqsims</a> dans les <a href="../maqam.php">maqams</a> les plus communs.
+                    <p>
+                    Il pioniere del piano arabo fu il libanese Wadih Sabra che ha suonato il piano con delle note aggiuntive (quarti di tono) durante al Cairo Arabic Music Congress del 1932. Più tardi anche il libanese Abdallah Chahine ha alterato il piano per suonare i quarti di tono e ha registrato l'album <strong>al-Nagham al-Khalid</strong> con dei <a href="../form/improv.php#taqsim">taqasim</a> sui più comuni <a href="../maqam.php">maqams</a>.
                     </p>
-                    <p>Vers la fin du 20<sup>ième</sup> siècle, le musicien et écrivain de théâtre Ziad Rahbani a enregistré de nombreuses chansons et compositions instrumentales avec un piano ou piano électrique (un Fender Rhodes) pour jouer soit des lignes mélodiques de <a href="../maqam.php">maqam</a>, soit des harmonies dans le genre jazz-fusion.
+                    <p>
+                    Verso la fine del XX secolo il musicista e drammaturgo libanese Ziad Rahbani ha registrato molte canzoni strumentali utilizzando un piano elettrico (un Fender Rhodes) per suonare sia linee melodiche dei <a href="../maqam.php">maqam</a> che armonie Jazz-fusion.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=3v9u-h4Vr5A">
@@ -58,7 +61,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Abdallah Chahine</b>
-                                <span>Le pianiste libanais Abdallah Chahine jouant un <a href="../form/improv.php#taqsim">taqsim</a> au piano dans le <a href="../maqam/saba.php">Maqam Saba</a> suivi de la chanson <strong>Batét Ouyouni</strong> de son album <strong>Angham Min al-Charq</strong> (melodies de l'orient).</span>
+                                    <span>
+                                    Il pianista libanese Abdallah Chahine mentre suona un <a href="../form/improv.php#taqsim">taqsim</a> con il piano su un <a href="../maqam/saba.php">Maqam Saba</a> nella canzone <strong>Batet ‘Uyuni</strong> dal suo album <strong>Angham Min al-Sharq</strong>.</span>
                                 </div>
                             </label>
                         </div>
@@ -74,7 +78,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ziad Rahbani</b>
-                                    <span>Le pianiste libanais Ziad Rahbani jouant du piano dans sa chanson <strong>Chou Hal-Iyyam</strong>, de son album <strong>Ana Mouch Kafer</strong> (1985).</span>
+                                    <span>Il pianista libanese Ziad Rahbani suona un piano arabo durante la sua canzone <strong>Shu Hal-Iyyam</strong> dal suo CD Ana Moush Kafer, 1985.</span>
                                 </div>
                             </label>
                         </div>
@@ -90,7 +94,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                 <b>W'Qamh</b>
-                                <span>La composizione strumentale <strong>W'Qamh</strong> de Ziad Rahbani dans le <a href="../maqam/hijaz.php">Maqam Hijaz</a> utilise le piano arabe dans un arrangement jazz-fusion. De l'album de Fairouz <strong>Mich Kayin Hayk Tkoun</strong> (1987).</span>
+                                <span>La composizione strumentale <strong>W'Qamh</strong> di Ziad Rahbani su un <a href="../maqam/hijaz.php">Maqam Hijaz</a> usa il piano arabo in un arrangiamento jazz-fusion. Dal CD di Fairouz <strong>Mish Kayin Hayk Tkun</strong>, 1987.
+                                </span>
                                 </div>
                             </label>
                         </div>

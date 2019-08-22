@@ -138,8 +138,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Gulli Ya Hilu</b>
-                                    <span>Nazem al-Ghazali (Irak)</span>
-                                    <span>(Folklore tradizionale dell'Irak)</span>
+                                    <span>Nazem al-Ghazali (Iraq)</span>
+                                    <span>(Folklore tradizionale dell'Iraq)</span>
                                 </div>
                             </label>
                         </div>

@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Il Qanun</h1>
-                        <h3>Une cithare à cordes pincées</h3>
+                        <h3>Una cetra da tavolo</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice Degli Strumenti</a>
@@ -38,36 +38,23 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/qanun.jpg" alt="Il Qanun">
-                        <span>Qanun syrien construit par Bachir Bij. &copy; MaqamWorld</span>
+                        <span>Un qanum siriano fatto da Bashir Bij. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/qanun.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Qanun</a>
                     </div>
 
-                    <p>Il Qanun est le descendant de l'ancienne harpe égyptienne.
-                    Il fait partie intégrante de la musique arabe depuis le 10<sup>ième</sup> siècle.
-                    Le mot <em>qanun</em> veut dire 'loi' en arabe et le mot existe en anglais sous la forme "canon".
-                    Ce nom a probablement été donné au qanun parce que c'est l'instrument qui établit la loi
-                    en ce qui a trait aux fréquences (pitch) pour les autres instruments et chanteurs.
+                    <p>
+                    Il qanum è un discendente dell'antica arpa egizia. È presente nella musica araba dal X secolo. La parola <em>qanun</em> signifca "legge" in arabo. Questa parola fu scelta per il qanum perchè era lo strumento che stabiliva il tono per gli altri strumenti e per i cantanti.
                     </p>
 
-                    <p>Le corps du qanun consiste en une planche de bois plate en forme de trapèze sur laquelle
-                    81 cordes sont tendues en groupes de trois, avec 24 cordes aigües consistant en trois cordes pour chaque note.
-                    L'instrument est placé à plat sur les genoux du musicien ou sur une petite table.
-                    Les cordes du qanun sont pincées avec deux plectres attachés à l'index de chaque main.
-                    Un long pont sur la droite de l'instrument est installé sur des fenêtres couvertes de peau de chèvre (ou de poisson)
-                    permettant de transmettre la résonance vers la boîte.
-                    Sur le côté gauche, chaque corde passe au dessus d'une série de petits leviers
-                    en laiton qui sont utilisés pour changer microtonalement la fréquence (le pitch).
+                    <p>
+                    Il corpo del qanum è costituito da una tavolo a forma di trapezio piatta in legno dove 81 corde sono tese in gruppi da tre, con 24  corde acute formate da 3 corde ognuna. Lo strumento viene disteso sulle ginocchia del musicista o su un piccolo tavolo. Le corde del qanum sono pizzicate da due plettri, ognuno attaccato al dito indice di ogni mano. Un lungo ponte sul lato destro dello strumento poggia su una finestra rivestita in pelle di capra (o di pesce) e consentono la risonanza delle cavità. Sul lato sinistro ogni corda passa attraverso una serie di leve di ottone che sono usate per effettuare micro variazioni tonali.
                     </p>
 
-                    <p>Parce que le qanun a seulement 8 notes par octave, le musicien accorde l'instrument à l'aide
-                    des leviers pour obtenir le maqam de départ désiré.
-                    Quand le musicien a besoin de moduler vers un autre <a href="../maqam.php">maqam</a>,
-                    il faut changer les leviers avec la main gauche en même temps que l'on continue de jouer avec la main droite.
-                    Des modulations rapides peuvent aussi être obtenues en utilisant l'ongle du pouce gauche
-                    pour monter temporairement la fréquence (le pitch) de certaines cordes.
+                    <p>
+                    Siccome il qanum include solo 8 note per ogni ottava, il musicista inizialmente imposta le leve per creare la scala del <a href="../maqam.php">maqam</a> iniziale. Quando il musicista ha bisogno di modulare per un altro maqam, deve modificare l'impostazione delle leve, spostandole verso l'alto o verso il basso, con la mano sinistra mentre suona con la mano destra. Semplici alterazioni possono essere fatte usando l'unghia del pollice sinistro per aumentare temporaneamente la tonalità di alcune corde.
                     </p>
 
                      <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=fZPY3or3D-Y&t=0s">
@@ -80,8 +67,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Muhammad Abdo Saleh</b>
-                                    <span>Le joueur de qanun pour Oum Koulthoum pendant des décennies, Muhammad Abdo Saleh (Egitto)
-                                    dans un pot-pourri de ses chansons les plus connues.
+                                    <span>Muhammad Abdu Saleh (Egitto) suonatore di qanum con Umm Kulthum per decenni, mentre suona un medley delle sue canzoni più famose.
                                     </span>
                                 </div>
                             </label>
@@ -98,8 +84,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Muhammad Abdo Saleh</b>
-                                    <span>Muhammad Abdo Saleh (Egitto) jouant un <a href="../form/improv.php#taqsim">Taqsim</a>
-                                    en <a href="../maqam/saba.php">Maqam Saba</a></span>
+                                    <span>Muhammad ‘Abdu Saleh (Egitto) mentre suona un <a href="../form/improv.php#taqsim">taqsim</a> con il qanum su un <a href="../maqam/saba.php">Maqam Saba</a>.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -115,8 +101,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Abdel Fattah Mansi</b>
-                                    <span>Abdel Fattah Mansi (Egitto) joue la chanson <strong>Ana Fi-ntizarak</strong>
-                                    de Oum Koulthoum (1943, musique de Zakaria Ahmad).
+                                    <span>Abdel Fattah Mansi (Egitto) suona una canzone di Umm Kuklthum, <strong>Ana Fi-ntizarak</strong> (1943, musica di Zakariyya Ahmad).
                                     </span>
                                 </div>
                             </label>
@@ -132,9 +117,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Abdel Halim Noueyra</b>
-                                    <span>Abdel Halim Noueyra (Egitto), le directeur musical de l'Ensemble de Musique Arabe,
-                                    joue un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/bayati.php">Maqam Bayati</a>.
+                                    <b>Abdel Halim Nuera</b>
+                                    <span>Abdel Halim Nuwayra (Egitto), il dierttore d'orchestra del Gruppo di Musica Araba, mentre suona un <a href="../form/improv.php#taqsim">taqsim</a> con il qanum sul <a href="../maqam/bayati.php">Maqam Bayati</a>.
                                     </span>
                                 </div>
                             </label>
@@ -151,8 +135,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Abraham Salman</b>
-                                    <span>Abraham Salman (Irak) jouant un <a href="../form/improv.php#taqsim">Taqsim</a>
-                                    en <a href="../maqam/rast.php">Maqam Rast</a>. De son CD Saltanah (1998).</span>
+                                    <span>Abraham Salman (Iraq) durante un <a href="../form/improv.php#taqsim">taqsim</a> con il qanum sul <a href="../maqam/rast.php">Maqam Rast</a> dal suo CD Saltanah (1998).
+                                    </span>
                                 </div>
                             </label>
                         </div>

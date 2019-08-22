@@ -91,7 +91,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Amir Elsaffar</b>
-                                <span>Le trompettiste et joueur de <em>Santour</em> Irako-Américain Amir Elsaffar dans un enregistrement par la radio NPR jouant une de ses compositions qui mélange des éléments du système de Maqam arabe et du Jazz.</span>
+                                <span>Le trompettiste et joueur de <em>Santour</em> Iraqo-Américain Amir Elsaffar dans un enregistrement par la radio NPR jouant une de ses compositions qui mélange des éléments du système de Maqam arabe et du Jazz.</span>
                                 </div>
                             </label>
                         </div>

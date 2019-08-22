@@ -134,7 +134,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Fog el-Nakhal</b>
                                     <span>Mounir Bachir e Omar Bachir</span>
-                                    <span>(Folklore tradizionale dell'Irak)</span>
+                                    <span>(Folklore tradizionale dell'Iraq)</span>
                                 </div>
                             </label>
                         </div>

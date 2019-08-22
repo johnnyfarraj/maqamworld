@@ -118,8 +118,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Tal‘a Min Beit Abuha</b>
-                                    <span>Nazem al-Ghazali (Irak)</span>
-                                    <span>(Chanson traditionnelle de l'Irak)</span>
+                                    <span>Nazem al-Ghazali (Iraq)</span>
+                                    <span>(Cansone tradizionale dell'Iraq)</span>
                                 </div>
                             </label>
                         </div>

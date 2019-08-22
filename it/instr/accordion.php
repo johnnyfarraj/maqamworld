@@ -88,7 +88,7 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Fifi ‘Abdou</b>
+                                    <b>Fifi ‘Abdo</b>
                                     <span>Un video della danzatrice del ventre <strong>Fifi ‘Abdo</strong> che inizia con una fisarmonica araba.
                                     </span>
                                 </div>
