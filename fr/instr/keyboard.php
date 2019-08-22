@@ -80,7 +80,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Shamstep</b>
-                                <span>Le groupe pan-palestinien<strong>47Soul</strong> a ajouté des effets sonores au clavier oriental et a ainsi créé un nouveau genre de techno-<em>dabké</em> avec leur chanson <strong>Shamstep</strong>.</span>
+                                <span>Le groupe pan-palestinien <strong>47Soul</strong> a ajouté des effets sonores au clavier oriental et a ainsi créé un nouveau genre de techno-<em>dabké</em> avec leur chanson <strong>Shamstep</strong>.</span>
                                 </div>
                             </label>
                         </div>
