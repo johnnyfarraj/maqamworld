@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Le Sagat</h1>
-                        <h3>Cymbales en laiton tenues par les doigts</h3>
+                        <h3>Cimbalini a dita in ottone</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice Degli Strumenti</a>
@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/sagat.jpg" alt="Sagat">
-                        <span>Une paire de Sagat en laiton. &copy; MaqamWorld.</span>
+                        <span>Un paio di sagat in ottone. &copy; MaqamWorld.</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
@@ -48,9 +48,11 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/tura.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Tura</a>
                     </div>
 
-                    <p>Le Sagats (appelées <em>Sajat</em> à l'extérieur de l'Egitto) sont des cymbales en laiton tenues par les doigts qui ont un diamètre de 3,5 à 5 centimètres (des cymbales pouvant être jusqu'à deux fois plus larges existent aussi et sont appelées <em>Toura</em>). Elles sont portées sur le pouce et le troisième doigt de chaque main à l'aide de bandes élastiques.
+                    <p>
+                        I sagat (chiamati <em>Sajat</em> al di fuori dell'Egitto) sono dei cimbalini a dita in ottone di circa 1,25 fino a 5cm di diametro (cimbalini più larghi fino al doppio del diametro esistono e sono chiamati <em>Tura</em>). Si indossano sul pollice e sul medio di ogni mano usando una fascia elastica. I sagat sono a volte chiamati con il loro nome turco, "zills".
                     </p>
-                    <p>Le Sagats sont très populaires chez les <em>Raqs Sharqi</em> professionnelles (les danseuses du ventre) parce qu'elles accentuent joliment et ajoutent de la couleur aux autres instruments de percussion de la section rythmique. Pour cette raison, beaucoup de vidéos YouTube existent sur les techniques de doigté pour les cymbales et sur la performance.
+                    <p>
+                        I sagat sono molto popolari tra i professionisti del <em>Raqs Sharqi</em> (danza del ventre) grazie al loro accento e all'aggiunta di colore che danno agli altri strumenti percussivi. Per questa ragione esistono moltissimi video su YouTube sulla tecnica e sulle performance di questo strumento.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=UpG__9CAiVE&t=0s">
@@ -63,7 +65,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Karim Nagi</b>
-                                    <span>Karim Nagi(percussionniste de l'Egitto/Etats-Unis) joue un solo de Sagat. </span>
+                                    <span>Il percussionista egiziano/americano Karim Nagi mentre esegue un solo con il Sagat. </span>
                                 </div>
                             </label>
                         </div>

@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "La Tromba";
-$page_description = "La Tromba";
+$page_title = "La Tromba Arabe";
+$page_description = "La Tromba Arabe";
 $page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab, Tromba";
 $page_language = "it";
 
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>La Tromba</h1>
-                        <h3>Une Tromba utilisée pour jouer les <a href="../maqam.php">Maqams</a> arabes</h3>
+                        <h1>La Tromba Arabe</h1>
+                        <h3>Una tromba usata per suonare le scale dei maqam <a href="../maqam.php">Maqams</a> arabi</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice Degli Strumenti</a>
@@ -38,15 +38,17 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/trumpet.jpg" alt="The Arabic Trumpet">
-                        <span>Le pionnier de la Tromba arabe, l'égyptien Sami al-Babli</span>
+                        <span>Sami al-Babli (Egitto), pioniere della tromba araba.</span>
                     </div>
 
-                    <p> La Tromba arabe est une tromba utilisée pour jouer le <a href="../maqam.php">Maqam</a> arabe. Certains musiciens réussissent à le faire en utilisant une tromba à laquelle est ajouté un quatrième piston (qui permet de produire les quarts de ton). D'autres réussissent à le faire en utilisant les glissières du premier et du troisième piston (qui viennent avec toute tromba professionnelle).
+                    <p>
+                        La tromba araba è una tromba usata per suonare le scale dei <a href="../maqam.php">maqam</a> arabi. Alcuni musicisti ottengono questo usando una tromba con una quarta valvola (che produce i quarti di tono), altri invece usando dei "fermagli" presenti sulla prima e sulla terza valvola (disponibile su tutte le trombe professionali).
                     </p>
                     <p>
-                    La tromba n'est jamais devenu un instrument important dans la musique arabe, et c'est le seul instrument 'arabisé' qui n'a jamais été utilisé dans l'orchestre de Oum Koulthoum. Le trompettiste arabe le plus célèbre est l'égyptien Sami al-Babli qui a joué régulièrement avec le chanteur de <em>Cha'bi</em> Ahmad Adaweyya.
+                        La tromba non divenne mai uno strumento popolare nella musica araba, e fu l'unico strumento arabizzato che non fu mai usato nella  Umm Kulthum orchestra. Il trombettista più conosciuto, e pioniere dello strumento, fu l'egiziano Sami al-Babli che suonò regolarmente con il cantante <em>Sha‘bi</em>, Ahmed Adaweyya.
                     </p>
-                    <p> Présentement, deux jeunes musiciens d'origine arabe poussent l'utilisation de la tromba dans de nouvelles directions, et les deux le font dans un contexte Jazz qui combine l'harmonie occidentale avec des mélodies du <a href="../maqam.php">maqam</a> arabe: <a href="http://www.amirelsaffar.com/" target="_blank">Amir Elsaffar</a> (Iraq/Etats-Unis) et <a href="http://www.ibrahimmaalouf.com/" target="_blank">Ibrahim Maalouf</a> (Liban/Francia).
+                    <p>
+                        Al giorno d'oggi due giovani musicisti arabi portano avanti l'uso della tromba araba, e entrambi lo fanno con un arrangiamento jazz che combina l'armonia occidentale con le melodie dei <a href="../maqam.php">maqam</a> arabi: <a href="http://www.amirelsaffar.com/" target="_blank">Amir Elsaffar</a> (Iraq/U.S.A) e <a href="http://www.ibrahimmaalouf.com/" target="_blank">Ibrahim Maalouf</a> (Libano/Francia).
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=29lYX1bQ8ns">
@@ -59,7 +61,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sami al-Babli</b>
-                                    <span>Une rare vidéo du trompettiste arabe Sami al-Babli (Egitto) jouant un <a href="../form/improv.php#taqsim">taqsim</a> dans le <a href="../maqam/nahawand.php">Maqam Nahawand</a> pendant une fête de mariage.</span>
+                                    <span>Una rara registrazione del trombettista egiziano Sami al-Babli durante un <a href="../form/improv.php#taqsim">taqsim</a> sul <a href="../maqam/nahawand.php">Maqam Nahawand</a> durante una festa di matrimonio.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -75,7 +78,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sami al-Babli</b>
-                                    <span>Une autre rare vidéo de Sami al-Babli jouant un <a href="../form/improv.php#taqsim">taqsim</a> dans le <a href="../maqam/saba.php">Maqam Saba</a> pendant l'introduction d'une chanson du chanteur de <em>Cha‘bi</em> Ahmad Adaweyya. Al-Babli apparaissait souvent dans l'orchestre de Adaweyya..</span>
+                                    <span>Un'altra registrazione rara di Sami al-Babli durate un <a href="../form/improv.php#taqsim">taqsim</a> sul <a href="../maqam/saba.php">Maqam Saba</a> durante l'introduzione di una canzone del cantante <em>Sha‘bi</em>, Ahmed Adaweyya. Al-Babli suonò regolarmente nel gruppo di Adaweyya.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -91,7 +95,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Amir Elsaffar</b>
-                                <span>Le trompettiste et joueur de <em>Santour</em> Iraqo-Américain Amir Elsaffar dans un enregistrement par la radio NPR jouant une de ses compositions qui mélange des éléments du système de Maqam arabe et du Jazz.</span>
+                                    <span>Il trombettista iraniano/americano e suonatore di <em>Santur</em> Amir Elsaffar in una registrazione dell'NPR music all'aperto mentre suona una sua composizione che unisce elementi dei <a href="../maqam.php">maqam</a> arabi con il jazz.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -107,7 +112,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ibrahim Maalouf</b>
-                                <span>Le trompettiste Franco-Libanais Ibrahim Maalouf jouant une interprétation de la chanson <strong>Alf Leila ou Leila</strong> de Oum Koulthoum (1969, musique de Baligh Hamdi) dans un arrangement jazz qui laisse toutefois une place au <a href="../maqam.php">maqams</a> arabe.</span>
+                                    <span>Il trombettista franco-libanese  Ibrahim Maalouf mentre suona una cover di una canzone di Umm Kulthum, <strong>Alf Leila wi Leila</strong> (1969, musica di Baligh Hamdi)  in un arrangiamento jazz che consente l'utilizzo delle scale dei <a href="../maqam.php">maqam</a> arabi.
+                                    </span>
                                 </div>
                             </label>
                         </div>

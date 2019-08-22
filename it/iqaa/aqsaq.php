@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Ma-htiyali</b>
-                                    <span>Louis Hage &amp; Aida Chalhoub</span>
+                                    <span>Louis Hage &amp; Aida Shalhoub</span>
                                     <span><img src="/img/cd.png"> Mouwashah - Chants Arabo-andalous</span>
                                 </div>
                             </label>

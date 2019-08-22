@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Il Sassofono</h1>
-                        <h3>Un Saxophone utilisé pour jouer les <a href="../maqam.php">Maqams</a> Arabes</h3>
+                        <h1>Il Sassofono Arabo</h1>
+                        <h3>Un sassfono utilizzato per suonare le scale dei <a href="../maqam.php">maqam</a> arabi.</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice Degli Strumenti</a>
@@ -38,12 +38,14 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/saxophone.jpg" alt="Il Sassofono">
-                        <span>Le pionnier du Saxophone Arabe Samir Sourour (Egitto)</span>
+                        <span>Il pioniere del sassofono arabo, Samir Surur (Egitto)</span>
                     </div>
 
-                    <p> Il Sassofono est un instrument rare dans la musique arabe malgré le fait qu'il soit en mesure de produire une bonne intonation pour les <a href="../maqam.php">maqam</a>. Il n'a jamais gagné la popularité de <a href="accordion.php">l'accordéon</a>, et n'a été utilisé que pour ajouter un nouveau son aux arrangements orchestraux arabes.
+                    <p> 
+                        Il sassofono è uno strumento raro nella musica araba, nonostante possa produrre una buona intonazione nelle scale dei <a href="../maqam.php">maqam</a>. Non diventò mai popolare come fece la <a href="accordion.php">fisarmonica</a> e fu usato per aggiungere un suono innovativo agli arrangiamenti delle orchestre arabe.
                     </p>
-                    <p> Le pionnier principal du saxophone arabe est Samir Sourour (Egitto) qui avait une expérience de musicien de fanfare militaire. Surour a joué sur quelques chansons de Oum Koulthoum et a ensuite enregistré une série d'albums solo sous le nom de <strong>Achek el-Sax</strong> (L'amoureux du Saxophone).
+                    <p>
+                        Il principale pioniere del sassofono arabo fu l'egiziano Samir Surour la cui esperienza fu nella banda militare. Surour suonò in alcune canzoni di Umm Kulthum e successivamente registrò degli album strumentali sotto il nome di <strong>Ashek el-Sax</strong> (l'amante del sax).
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=n_2qIVjgboM">
@@ -56,7 +58,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                 <b>Hawel Tiftikirni (1973)</b>
-                                <span>La chanson de Abdel Halim Hafez <strong>Hawel Tiftikirni</strong> (1973, musique de Baligh Hamdi) commence avec l'Orgue Arabe, la Guitare Électrique, puis un solo de Samir Sourour.</span>
+                                <span><strong>Hawel Tiftikirni</strong>, canzone di Abdel Halim Hafez (1973, musica di Baligh Hamdi) inizia con l'organo, la chitarra elettrica e poi con il solo di sax di Samir Surur.</span>
                                 </div>
                             </label>
                         </div>
@@ -72,7 +74,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Fat el-Ma‘ad (1967)</b>
-                                <span>La chanson de Oum Koulthoum <strong>Fat el-Ma‘ad</strong> (1967, musique de Baligh Hamdi), avec Farouq Salama à l'Accordéon arabe, Abdel Fattah Khayri à la Guitare Électrique et Samir Sourour au Saxophone.</span>
+                                    <span><strong>Fat el-Ma‘ad</strong>, canzone di Umm Kulthum (1967, musica di Baligh Hamdi) include nell'arrangiamento Farq Salama con la fisarmonica, Abdel Fattah Khayri alla chitarra elettrica e Samir Surour al sax.
+                                    </span>
                                 </div>
                             </label>
                         </div>

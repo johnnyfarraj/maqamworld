@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Il Tabl Baladi</h1>
-                        <h3>Grand Tambour Villageois avec peau sur les deux côtés</h3>
+                        <h3>Grande tamburo con la pelle su entrambi i lati</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice Degli Strumenti</a>
@@ -38,17 +38,18 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/tabl_baladi.jpg" alt="Tabl Baladi">
-                        <span>Un Tabl Baladi à peau de chèvre. &copy; MaqamWorld</span>
+                        <span>Un tabl baladi con la pelle in capra. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/tabl_baladi.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Tabl baladi</a>
                     </div>
 
-                    <p> Il Tabl Baladi est un grand tambour villageois fait d'un cadre de bois avec des peaux lourdes sur les deux côtés. Il est attaché à l'épaule du musicien avec une ceinture et est joué à l'aide de deux bâtons: le bâton épais est pour les sons dum, joués avec la main dominante tandis que le bâton mince est pour les sons tak joués avec l'autre main.
+                    <p>
+                        Il tabl baladi è un grande tamburo con la struttura in legno e una pesante pelle su entrambi i lati. È legato attorno alle spalle del musicista tramite una cintura ed è suonato con due bacchette: La bacchetta spessa è usata per il suono <em>dum</em> ed è suonato con la mano predominante mentre la bacchetta più sottile è usata per ottenere il suono <em>tak</em> ed è suonata con l'altra mano.
                     </p>
 
-                    <p>Il Tabl Baladi est idéal pour la musique jouée en extérieur dans les villages (<em>baladi</em> veut dire villageois) et peut donner le rythme pour des danses en ligne telles que le <em>Dabké</em> à côté d'instruments très forts en volume tels que le <em>Mizmar</em>. Il Tabl Baladi ne joue pas de rythmes très complexes ou ornementés et est idéal pour des <a href="../iqaa.php">iqa‘at</a> lourds en 4/4 tels que le <a href="../iqaa/baladi.php">Baladi</a>, le <a href="../iqaa/saidi.php">Saïdi</a> et particulièrement le <a href="../iqaa/nawari.php">Nawari</a>.
+                    <p>Il tabl baladi è ideale per gli ambienti aperti (<em>baladi</em> significa "dal villaggio") e può produrre un ritmo adatto  per le danze come la <em>Dabke</em> insieme ad altri strumenti che producono un suono ad alto volume come il <em>Mizmar</em>. Il Tabl Baladi non suona <a href="../iqaa.php">ritmi</a> complessi ed è ideali per un ritmo "pesante" in 4/4 come il <a href="../iqaa/baladi.php">Baladi</a>, il <a href="../iqaa/saidi.php">Saïdi</a>,  e specialmente per il <a href="../iqaa/nawari.php">Nawari</a>.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=D6Ex5WiW6vc">
@@ -60,8 +61,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Tabl Baladi et Mizmar</b>
-                                    <span>Le joueur de Tabl Baladi arméno-libanais Setrak Sarkissian commence à jouer le rythme pour la chanson <strong>‘al-‘Ein Moulayyitein</strong> chantée par la chanteuse Samira Tawfiq, accompagné au Riqq et Tabl Baladi. Enregistré à la Télévision Libanaise avec le violoniste Rafik Hobeika dirigeant l'orchestre.</span>
+                                    <b>Un Tabl Baladi con il mizmar</b>
+                                    <span>Il libanese armeno Setrak Sarkissian, suonatore di tabl baladi, esegue un ritmo per la cantante Samira Tawfiq nella sua canzone <strong>‘al-‘Ein Mulayyitein</strong>, accompagnato da un riqq e un tabl baladi. Registrato dalla televisione libanese con il violinista Rafik Hobeika che dirige l'orchestra.</span>
                                 </div>
                             </label>
                         </div>

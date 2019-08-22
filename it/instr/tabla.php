@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "La Tabla";
 $page_description = "La Tabla";
-$page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab, Tabla";
+$page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab, Tabla, Dirbakki, Darbuka";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>La Tabla</h1>
-                        <h3>Aussi appelée Dérbakki ou Darbuka</h3>
+                        <h3>Chiamata anche Dirbakki o Darbuka</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice Degli Strumenti</a>
@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/tabla.jpg" alt="The Tabla">
-                        <span>Tabla en aluminium à peau de plastique de <strong>Gawharet El-Fan</strong>, Egitto.. &copy; MaqamWorld</span>
+                        <span>Un tabla con il corpo in alluminio e la pelle in plastica di <strong>Gawharet El-Fan</strong>, Egitto. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
@@ -48,11 +48,14 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/dirbakki.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Dirbakki</a>
                     </div>
 
-                    <p> La Tabla (aussi appelée Dérbakki en dialecte levantin ou Darbuka en Occident) est un tambour en forme de gobelet avec une peau fixée sur le côté large.
+                    <p> 
+                        La Tabla (anchye chiamato "dirbakki" in dialetto levantino o "darbuka" nelle regioni occidentali) è un tamburo a forma di calice, con la pelle fissata su un lato.
                     </p>
-                    <p>Les Tablas traditionnelles sont faites en argile et ont une peau de chèvre ou de poisson collée et tenue par un système de fils tissés. Les tablas modernes ont un corps en aluminium avec une peau de plastique (mylar) pouvant être accordée et changée.
+                    <p>
+                        La Tabla tradizionali sono fatti di argilla e hanno la pelle di capra o pesce incollata e tenuta insieme saldamente con un sistema di intreccio dei fili. I tabla moderni sono costituiti da un corpo in alluminio e da una testa (Mylar) in plastica, sostituibile e accordabile.
                     </p>
-                    <p> La Tabla est un instrument très populaire dans la musique folklorique et populaire et particulièrement dans le genre de musique utilisée pour la danse du ventre. Elle est aussi parfois utilisée dans les genres de musique plus classiques.
+                    <p>
+                        La Tabla è uno strumento molto popolare nella musica folk e pop, ed è soprattutto popolare nella danza del ventre. È usato parzialmente nei generi più classici.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=dpSa2SEnFh8">
@@ -65,7 +68,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Houssam Ramzi</b>
-                                    <span>Le vétéran de la Tabla Houssam Ramzi (Egitto) parle de l'instrument dans une interview lors de l'exposition Analogue to Digital Music en 2013.</span>
+                                    <span>L'esperto suonatore di tabla Hossam Ramzi (egiziano) parla dello strumento in un intervista a Anologue to Digital Music Expo, 2013.</span>
                                 </div>
                             </label>
                         </div>
@@ -81,7 +84,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Saïd el-Artiste</b>
-                                    <span>Le maître et enseignant de Tabla Saïd el-Artiste (Egitto) avec son ensemble de percussion.</span>
+                                    <span>Il maestro egiziano di tabla Sa‘id al-Artist con il suo gruppo di percussioni.
+                                </span>
                                 </div>
                             </label>
                         </div>

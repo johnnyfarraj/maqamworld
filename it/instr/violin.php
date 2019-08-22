@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Il Violino Arabe</h1>
-                        <h3>Appelé <em>Kamanja</em> ou <em>Kamane</em> en arabe</h3>
+                        <h3>Chiamato anche <em>Kamanja</em> o <em>Kaman</em> in arabo</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice Degli Strumenti</a>
@@ -45,12 +45,14 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/kamanja.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Kamanja</a>
                     </div>
 
-                    <p>Le violon (appelé <em>kamanja</em> ou <em>kamane</em> en arabe) a été incorporé à l'ensemble arabe autour de la fin du 19<sup>ième</sup> siècle et a remplacé les variétés locales d'instruments à cordes frottées tels que la <em>kamanja</em>, la <em>rababa</em>, et la <em>jowza</em>. Même si l'on peut argumenter que le violon est l'exemple le plus notoire d'un instrument qui a été arabisé, il a depuis longtemps été naturalisé et a acquis un accordage, une technique de jeu, et un style ornemental, particuliers. Le son du violon arabe est aussi essentiel à la musique arabe que celui du <a href="oud.php">oud</a> et du <a href="qanun.php">qanun</a>.
+                    <p>
+                        Il violino (chiamato <em>kamanja</em> o <em>kaman</em> in arabo) è stato aggiunto ai gruppi arabi verso la fine del IXX secolo e sostituì strumenti simili locali come la <em>kamanja</em>, la <em>rababa</em> e la <em>joza</em>. Il violino può essere considerato l'esempio migliore di strumento arabizzato, è stato a lungo naturalizzato, e ha ottenuto la sua accordatura, la sua tecnica e il suo stile. Il violino da un suono essenziale alla musica araba allo stesso livello dell'<a href="oud.php">oud</a> e del <a href="qanun.php">qanun</a>.
                     </p>
                     <p>
-                    Plusieurs types d'accordage du violon arabe existent. L'accordage traditionnel arabe est en quartes et en quintes (Sol3, Ré4, Sol4, Ré5). En tant qu'instrument non fretté, le violon est en mesure de produire toutes les nuances de l'intonation du système du <a href="../maqam.php">maqam</a> arabe.
+                        Anche se vengono utilizzate varie accordature quella tradizionale araba è formata da quarte e quinte (Sol3, Re4, Sol4, Re5). Essendo uno strumento senza tasti il violino può produrre tutte le sfumature di intonazione del sistema di <a href="../maqam.php">maqam</a> arabi.
                     </p>
-                    <p>Le style du violon arabe est très ornementé, avec des glissandos, des trilles, un vibrato large, des doubles cordes et l'usage de cordes ouvertes comme bourdon. Le timbre du violon arabe va du riche et chaud, tel qu'utilisé au violon occidental, au nasal et pénétrant.
+                    <p>
+                        Il modo di suonare il violino arabo è molto ricco, usa spesso effetti come slide, trilli, vibrati, raddoppi e utilizza spesso una corda aperta come suono ripetitivo. Il timbro del violino arabo varia da un suono ricco e caldo, simile a quello del violino occidentale, a un suono nasale e acuto.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=_ZWvLygSqkY&t=0s">
@@ -62,7 +64,7 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Sami al-Chawwa</b>
+                                    <b>Sami al-Shawwa</b>
                                     <span>Un des pionniers du violon arabe du début du 20<sup>ième</sup> siècle, le violoniste syrien Sami al-Shawwa (connu aussi comme le Prince du Violon) jouant un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/hijazkar.php">Maqam Hijazkar</a>.</span>
                                 </div>
                             </label>
