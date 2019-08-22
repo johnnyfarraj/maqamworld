@@ -41,7 +41,7 @@ include($ROOT . 'inc/head.php');
                         <span>Le pionnier de l'Orgue Électrique Magdi el-Husseini (Égypte)</span>
                     </div>
 
-                    <p>L'Orgue Électrique (généralement appelé <em>org</em> en arabe, du français 'orgue')  est devenu très populaire dans la musique arabe, de la fin des années 1960 aux années 1970. Son pionnier a été le claviériste superstar égyptien Magdi el-Husseini. L'orgue a été modifié de manière à être en mesure de jouer des quarts de tons satisfaisants (comme ceux de l'accordéon), lui permettant de jouer la plupart des <a href="../maqam.php">maqams</a>. L'orgue a été utilisée pour jouer une combinaison de lignes mélodiques et d'accords simples.  Avec <a href="guitar.php">la guitare électrique</a>, l'accordéon a permis de créer un son distinctif qui a marqué la musique arabe de cette décennie.
+                    <p>L'Orgue Électrique (généralement appelé <em>org</em> en arabe, du français 'orgue') est devenu très populaire dans la musique arabe, de la fin des années 1960 aux années 1970. Son pionnier a été le claviériste superstar égyptien Magdi el-Husseini. L'orgue a été modifié de manière à être en mesure de jouer des quarts de tons satisfaisants (comme ceux de l'accordéon), lui permettant de jouer la plupart des <a href="../maqam.php">maqams</a>. L'orgue a été utilisée pour jouer une combinaison de lignes mélodiques et d'accords simples.  Avec <a href="guitar.php">la guitare électrique</a>, l'accordéon a permis de créer un son distinctif qui a marqué la musique arabe de cette décennie.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=Ptd3R51Qj-s&t=2126">
