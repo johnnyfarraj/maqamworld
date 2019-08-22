@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "L'Organo Elettrico Arabe";
 $page_description = "L'Organo Elettrico Arabe";
-$page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab, Oud, Qanun, Nay, Violino, Buzuq, Fisarmonica Arabe, Chitarra Elettrica Arabe, Organo Elettrico Arabe, Tastiera Orientale, Piano Arabo, Sassofono, Tromba, Riqq, Tabla, Tabl Baladi, Daff, Mazhar, Katem, Sagat";
+$page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab, Organo Elettrico Arabe";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>L'Organo Elettrico Arabe</h1>
-                        <h3>L'Orgue Électrique des années 1970 avec quelques quarts de ton</h3>
+                        <h3>Organo elettrico del 1970 con l'aggiunta dei quarti di tono</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice Degli Strumenti</a>
@@ -38,10 +38,10 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/org.jpg" alt="The Electric Organ">
-                        <span>Le pionnier de l'Orgue Électrique Magdi el-Husseini (Egitto)</span>
+                        <span>Il pioniere dell'organo Magdi el-Husseini (Egitto)</span>
                     </div>
 
-                    <p>L'Orgue Électrique (généralement appelé <em>org</em> en arabe, du français 'orgue')  est devenu très populaire dans la musique arabe, de la fin des années 1960 aux années 1970. Son pionnier a été le claviériste superstar égyptien Magdi el-Husseini. L'organoa été modifié de manière à être en mesure de jouer des quarts de tons satisfaisants (comme ceux de l'accordéon), lui permettant de jouer la plupart des <a href="../maqam.php">maqams</a>. L'organoa été utilisée pour jouer une combinaison de lignes mélodiques et d'accords simples.  Avec <a href="guitar.php">la guitare électrique</a>, l'accordéon a permis de créer un son distinctif qui a marqué la musique arabe de cette décennie.
+                    <p>L'organo elettrico (chiamato comunemente <em>org</em> in arabo, dal francese "orgue") divenne molto popolare nella musica araba dalla fine degli anni '60 e poi negli anni '70. Il suo pioniere e superstar fu il pianista egiziano Magdi el-Husseini. L'organo fu alterato per poter suonare correttamente i quarti di tono (come per la fisarmonica) in modo da permettere di suonare la maggior parte delle scale dei <a href="../maqam.php">maqams</a>. L'organo fu usato per suonare una combinazione di frasi melodiche e accordi semplici. L''organo e <a href="guitar.php">la chitarra elettrica</a> hanno creato un suono distintivo che ha contrasegnato la musica araba da quel decennio.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=Ptd3R51Qj-s&t=2126">
@@ -54,7 +54,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Magdi el-Husseini</b>
-                                <span>La chanson <strong>Qari'at al-Fingan</strong> de Abdel Halim Hafez (1976, musique de Muhammad al-Mugi) avec les égyptiens Magdi el-Husseini et Hani Mehanna à l'orgue électrique (les deux membres de l'Orchestra Diamant).</span>
+                                    <span><strong>Qari'at al-Fingan</strong> canzone di Abdel Halim Hafez (1976, musica di Muhammad al-Mugi) insieme a un organista egizione Magdi el_Husseini e Hani Mehanna (entambi parte dell'Orchestra di Diamanti).</span>
                                 </div>
                             </label>
                         </div>
@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Intervista a Magdi el-Husseini</b>
-                                    <span>Intervista a Magdi el-Husseini à propos de sa rencontre avec Abdel Halim Hafez et de son expérience en tant que membre de son orchestre.</span>
+                                    <span>Intervista a Magdi el-Husseini sulla sua esperienza nell'incontrare il cantante Abdel Halim Hafez e nel suonare nella sua orchestra.</span>
                                 </div>
                             </label>
                         </div>
@@ -86,7 +86,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Intervista a Hani Mehanna</b>
-                                    <span>Intervista a Hani Mehanna à propos de sa rencontre avec Muhammad Abdel Wahab et la chanteuse Oum Koulthoum et de son expérience en tant que membre de l'orchestre de cette dernière pour la chanson <strong>Leilet Hobb</strong>.</span>
+                                    <span>Intervista a Hani Mehanna sulla sua esperienza nell'incontro con il compositore Muhammad Abdel Wahab e la cantante Umm Kulthum e aver suonato <strong>Leilet Hobb</strong> con la sua orchestra.
+                                    </span>
                                 </div>
                             </label>
                         </div>

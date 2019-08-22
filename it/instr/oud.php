@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Le Oud Arabe";
 $page_description = "Le Oud Arabe";
-$page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab, Oud, Qanun, Nay, Violino, Buzuq, Fisarmonica Arabe, Chitarra Elettrica Arabe, Organo Elettrico Arabe, Tastiera Orientale, Piano Arabo, Sassofono, Tromba, Riqq, Tabla, Tabl Baladi, Daff, Mazhar, Katem, Sagat";
+$page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab, Oud";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Le Oud Arabe</h1>
-                        <h3>Un lute non fretté</h3>
+                        <h1>L'Oud (L'Ud)</h1>
+                        <h3>Un liuto senza tasti</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice Degli Strumenti</a>
@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/oud.jpg" alt="L'Oud">
-                        <span>Un oud syrien construit par les frères Nahat (droite), et un oud iraqien construit par Muhammad Fadel (gauche). &copy; 2018 MaqamWorld</span>
+                        <span>Un oud siriano prodotto dalla Nahat Brother (sulla destra) e un Iraqi oud prodotto da Muhammad Fadil (sulla sinistra). &copy; 2018 MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
@@ -46,34 +46,19 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <p>
-                    Le Oud (aussi orthographié ‘Ud) est un des instruments les plus populaires de la musique arabe.
-                    Son nom signifie "une mince bande de bois" en arabe et ceci réfère aux bandes de bois utilisées pour fabriquer
-                    le corps en forme de poire de l'instrument.
-                    Le manche du oud est court en comparaison de son corps et n'a pas de frette.
-                    Ceci permet au oud de produire une bonne intonation et en fait un instrument
-                    idéal pour jouer les <a href="../maqam.php">maqams/a> arabes.
+                    L'Oud è un degli strumenti più popolari nella musica araba. Il suo nome significa "una sottile striscia di legno" in arabo, e si riferisce alla striscia di legno utilizzato per fare il suo corpo a forma di pera. Il manico dell'oud è corto rispetto alla grandezza del suo corpo ed è senza tasti. Questo permetto all'oud di avere un'intonazione eccellente e lo rende ideale per suonare i <a href="../maqam.php">maqams</a> arabi.
 					</p>
 
-                    <p>Le oud a en général cinq paires de cordes accordées à l'unisson plus une corde plus basse que les autres et non doublée.
-                    Certains ouds ont une paire de cordes en plus. L'accordage le plus courant est, du plus grave au plus
-                    aigüe: Do, Fa, La, Ré, Sol, Do, ce qui fait de tous les intervalles (mis à part l'intervalle de Fa à La) des quartes.
-                    Les cordes étaient historiquement faites de boyau d'animal et étaient pincées à l'aide d'un plectre appelé
-                    <em>richa</em> (le mot arabe pour 'plume').
-                    Les cordes modernes sont faites d'acier enroulé sur du nylon et les risha modernes sont faits de plastique,
-                    d'écaille de tortue, de corne d'animal ou même de bambou.
+                    <p>
+                    L'oud di solito è formato da 5 paia di corde accordate all'unisono e una singola corda bassa, anche se alcuni oud hanno una coppia di corde un più. L'accordatura più comune (dal basso verso l'alto) è Do, Fa, La, Re, Sol, Do, il che rende tutti gli intervalli (tranne tra il F e il A) delle quarte perfette. Le corde storicamente venivano ricavate da viscere di animali e pizzicate da un plettro chiamato <em>risha</em> (traduzione araba di piuma). Le corde moderne sono fatte in acciaio arrotolato sopra il nylon e i risha moderni vengono fatti in plastica, guscio di tartaruga, corno di animali o anche in bamboo.
                     </p>
 
                     <p>
-                    Le oud a un timbre chaud ainsi qu'un large ambitus (à peu près trois octaves).
-                    Il peut interpréter la mélodie aussi bien que le rythme parce qu'il est percussif.
-                    Ceci en fait l'instrument idéal pour accompagner un chanteur.
-                    C'est aussi l'instrument préféré des compositeurs pour écrire de nouvelles mélodies.
-                    Les <a href="../form/improv.php#taqsim">taqasim</a> de oud sont aussi très populaires dans les concerts ainsi que dans les enregistrements.
+                    L'oud ha un timbro caldo e un ampio intervallo tonale (circa 3 ottave), ed è possibile unire la parte melodica con quella ritmica grazie alla sua percussione. Questo lo rende perfetto per accompagnare un cantante. È lo strumento preferito dai compositori per scrivere nuove melodie. I <a href="../form/improv.php#taqsim">taqasim</a> di oud sono molto popolari nei concerti e nelle registrazioni.
                     </p>
 
-                    <p>Le oud arabe est plus ou moins le même instrument que celui que l'on peut trouver dans plusieurs autres pays de la région
-                    (par exemple la Turchia, la Grèce, l'Iran) avec quelques différences au niveau des dimensions,
-                    du style et du timbre. Le "lute" européen est le descendant du oud dont il a pris le nom (al-oud).
+                    <p>
+                    L'oud arabo è lo stesso strumento che esiste in molte altre nazioni (come il Turchia, Grecia, Iran) con qualche differenza nella dimensione, nello stile e nel timbro. Il liuto europea è un discendente dell'oud, da cui prende il nome (al-oud).
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=dDrVYyoMi-4&t=0s">
@@ -86,9 +71,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Muhammad al-Qassabgi</b>
-                                    <span>Virtuose du oud et compositeur égyptien, Muhammad al-Qassabgi joue ici
-                                    un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/rast.php">Maqam Rast</a>
-                                    (enregistré au Conservatoire de Musique Arabe au Caire, en 1955).
+                                    <span>Il compositore e virtuoso egiziano Muhammad al-Qasabgi mentre suona dei <a href="../form/improv.php#taqsim">Taqsim</a> sul <a href="../maqam/rast.php">Maqam Rast</a> (registrato presso il conservatorio di musica araba al Cairo, 1955).
                                     </span>
                                 </div>
                             </label>
@@ -105,9 +88,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Farid al-Atrach</b>
-                                    <span>Virtuose du oud syrien, Farid al-Atrach (connu aussi comme le 'Roi du Oud)
-                                    joue ici un <a href="../form/improv.php#taqsim">Taqsim</a> très connu,
-                                    en <a href="../maqam/bayati.php">Maqam Bayati</a>, avant de jouer sa composition <strong>al-Rabi‘</strong> (1949).
+                                    <span>Il virtuoso di oud sirian Farid al-Atrash (conosciuto come "Il re dell'oud") mentre suona un <a href="../form/improv.php#taqsim">Taqsim</a> famoso con l'oud sul <a href="../maqam/bayati.php">Maqam Bayati</a> prima della sua composizione "<strong>al-Rabi‘</strong>" (1949).
                                     </span>
                                 </div>
                             </label>
@@ -124,8 +105,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Simon Shaheen</b>
-                                    <span>Le joueur de oud palestinien Simon Shaheen joue en <a href="../maqam/hijaz.php">Maqam Hijaz</a>.
-                                    Enregistré au Musée Métropolitain de New York en 1987.
+                                    <span>Il suonatore di oud palestinese Simon Shaheen mentre suona un <a href="../maqam/hijaz.php">Maqam Hijaz</a>, registrato al Metropolitan Museum a New York, 1987.
                                     </span>
                                 </div>
                             </label>
@@ -142,8 +122,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>George Michel</b>
-                                    <span>Le joueur de oud égyptien George Michel jouant un <a href="../form/improv.php#taqsim">Taqsim</a> dans le
-                                    <a href="../maqam/nahawand.php">Maqam Nahawand</a>.
+                                    <span>Il suonatore di oud egiziano George Michel mentre suona un oud <a href="../form/improv.php#taqsim">Taqsim</a> sul <a href="../maqam/nahawand.php">Maqam Nahawand</a>.
                                     </span>
                                 </div>
                             </label>
@@ -160,9 +139,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>‘Amer ‘Ammuri</b>
-                                    <span>Le joueur de oud syrien 'Amer 'Ammuri jouant un <a href="../form/improv.php#taqsim">Taqsim</a>
-                                    en <a href="../maqam/bayati.php">Maqam Bayati</a>.
-                                    Avec l'orchestre de Sabah Fakhri (enregistré à l'Opera del Cairo).
+                                    <span>Sil suonatore di oud siriano ‘Amer ‘Ammouri mentre suona un oud <a href="../form/improv.php#taqsim">Taqsim</a> sul <a href="../maqam/bayati.php">Maqam Bayati</a>, come parte della Sabah Fakhri's orchestra (registrato al teatro dell'opera del Cairo).
                                     </span>
                                 </div>
                             </label>

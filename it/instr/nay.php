@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Il Nay";
 $page_description = "Il Nay";
-$page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab, Oud, Qanun, Nay, Violino, Buzuq, Fisarmonica Arabe, Chitarra Elettrica Arabe, Organo Elettrico Arabe, Tastiera Orientale, Piano Arabo, Sassofono, Tromba, Riqq, Tabla, Tabl Baladi, Daff, Mazhar, Katem, Sagat";
+$page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab, Nay";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Il Nay</h1>
-                        <h3>Une flute jouée en soufflant dans le bec</h3>
+                        <h3>Un flauto dolce</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice Degli Strumenti</a>
@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/nay.jpg" alt="Il Nay">
-                        <span>Un ensemble de 7 nayat libanias construits par Atef Wehbi. &copy; MaqamWorld</span>
+                        <span>Un insieme di 7 nay libanesi fatti da Atif Wehbi. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
@@ -46,11 +46,10 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <p>
-                    Il Nay ("roseau" en Farsi, prononcé 'naï') est une flute à bout ouvert, soufflée de manière oblique, et faite en roseau. Le nay est utilisé dans les Proche-Orient depuis l'antiquité. Le nay a neuf joints et en général six trous devant pour les doigts et un derrière pour le pouce. Il est joué avec les coussinets des doigts. Les Nays ont des longueurs différentes en fonction de l'accord par rapport à la fréquence produite par le nay quand le premier trou est en position ouverte (Ré4 est le plus utilisé; La note la plus basse est Do4).
+                    Il nay (in persiano "canna") è un flauto dolce obliquo aperto fatto di canna. Il nay era conosciuto nel vicino oriente fin dall'antichità. Solitamente è formato da 6 buchi davanti e un buco dietro usato dal pollice. I buchi vengono chiusi (per ottenere suoni diversi) tramite il polpastrello delle dita. Il nay può avere differente lunghezza, ognuno intonato a un particolare suono e chiamato con il nome della nota prodotta con il primo buco aperto (D4 nella magior parte dei casi, la nota più bassa in questo caso è il Do 4).
                     </p>
-
                     <p>
-                    Même si c'est un instrument très simple, le nay est un des instruments arabes les plus difficiles à jouer. Un bon joueur de nay peut produire une grande variété de sons liquides et d'ornements; c'est un instrument extrêmement poignant. Son timbre poétique en fait un instrument particulièrement adapté aux effets mélancoliques exprimant à la fois la joie et le désir. C'est le seul instrument à vent utilisé dans la musique arabe savante et il est apprécié pour son son chaud et ses inflexions tonales et dynamiques subtiles.
+                    Anche se molto semplice, il nay è uno degli strumenti arabi più difficile da suonare. Un buon musicista sa suonare una varietà di suoni e abbellimenti; è uno strumento molto espressivo. Il suo timbro poetico lo rende particolarmente adatto per dare sia un effetto malinconico che un effetto di gioia. È l'unico strumento a fiato usato nella musica araba, molto apprezzato per il suo suono caldo, ansimante e per le sue dinamiche e infessioni tonali.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=JhOs_1SodTA&t=0s">
@@ -63,7 +62,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sayyed Salem</b>
-                                    <span>Sayyed Salem (Egitto), pendant de nombreuses années membre de l'Orchestra de Oum Koulthoum, dans un solo pendant la pièce <strong>Ba‘id Annak</strong> (1965, musique de Baligh Hamdi).</span>
+                                    <span>Sayyed Salem (Egitto), un membro di lunga data della Umm Kulthum Orchestra, in un assolo di Nay durante la canzone <strong>Ba‘id Annak</strong> (1965, musica di Baligh Hamdi).</span>
                                 </div>
                             </label>
                         </div>
@@ -80,8 +79,8 @@ include($ROOT . 'inc/head.php');
                              --><div class="info">
                                     <b>Mahmud ‘Effat</b>
                                     <span>
-                                    Mahmud 'Effat (Egitto),  grand joueur de nay et professeur, membre pendant de nombreuses années de l'Orchestra Diamant, jouant un <a href="../form/improv.php#taqsim">Taqsim</a>
-                                    en <a href="../maqam/saba.php">Maqam Saba</a>.</span>
+                                    Il suonatore e insegnante di nay, Mahmud ‘Effat (Egitto), membro di lunga data nella Diamond Orchestra durante un <a href="../form/improv.php#taqsim">Taqsim</a> con il nay sul <a href="../maqam/saba.php">Maqam Saba</a>.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -97,8 +96,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Reda Bdeir</b>
-                                    <span>Reda Bdeir (Egitto) jouant la chanson <strong>Kulli Da Kan Leh</strong>
-                                    (1954, musique de Muhammad Abdel Wahab).</span>
+                                    <span>Reda Bdeir (Egitto) mentre suona la canzone <strong>Kulli Da Kan Leh</strong> (1954, musica di Muhammad Abdel Wahab).
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -115,8 +114,8 @@ include($ROOT . 'inc/head.php');
                              --><div class="info">
                                     <b>Michael Ibrahim</b>
                                     <span>
-                                    Michael Ibrahim (Siria), directeur de l'Orchestra National Arabe (Etats-Unis),
-                                    jouant un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/saba.php">Maqam Saba</a>. Pendant une performance de l'orchestre.</span>
+                                    Michael Ibrahim (Siria), direttore dell'orchestra nazionale araba (USA) durante un <a href="../form/improv.php#taqsim">Taqsim</a> con il nay sul <a href="../maqam/saba.php">Maqam Saba</a> durante un concerto.
+                                    </span>
                                 </div>
                             </label>
                         </div>
