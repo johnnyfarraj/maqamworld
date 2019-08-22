@@ -113,11 +113,11 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <p>Explorer d'autres instruments arabisés:</p>
+                    <p>Scopri altri strumenti arabizzati:</p>
                     <ul>
 						<li><a href="accordion.php">La Fisarmonica Araba</a></li>
 						<li><a href="guitar.php">La Chitarra Elettrica Arabe</a></li>
-						<li><a href="org.php">L'Orgue Électrique Arabe</a></li>
+						<li><a href="org.php">L'Organo Elettrico Arabe</a></li>
 						<li><a href="keyboard.php">La Tastiera Orientale</a></li>
 						<li><a href="piano.php">Il Piano Arabo</a></li>
 						<li><a href="saxophone.php">Il Sassofono</a></li>

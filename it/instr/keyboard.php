@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "La Tastiera Orientale";
 $page_description = "La Tastiera Orientale";
-$page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab, Oud, Qanun, Nay, Violino, Buzuq, Fisarmonica Arabe, Chitarra Elettrica Arabe, Organo Elettrico Arabe, Tastiera Orientale, Piano Arabo, Sassofono, Tromba, Riqq, Tabla, Tabl Baladi, Daff, Mazhar, Katem, Sagat";
+$page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab, Tastiera Orientale";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>La Tastiera Orientale</h1>
-                        <h3>Un Synthétiseur/Echantillonneur avec la capacité de jouer tous les quarts de ton</h3>
+                        <h3>Un sintentizzatore/sampler con la possibilità di suonare i quarti di tono</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice Degli Strumenti</a>
@@ -41,17 +41,17 @@ include($ROOT . 'inc/head.php');
                         <span>La Tastiera Orientale Ketron Vega</span>
                     </div>
 
-                    <p> La Tastiera Orientale est le successeur de <a href="org.php">l'orgue</a> et est apparu sur le marché vers la fin du 20<sup>ième</sup> siècle. Sa force était de pouvoir imiter les sons de plusieurs instruments arabes en les échantillonnant et en permettant au musicien d'imiter et d'alterner entre le <em>Mijwiz</em>, le <a href="qanun.php">Qanun</a> ou même le <a href="saxophone.php">Saxophone</a> en appuyant sur un bouton.
+                    <p> La tastiera orientale è il successore dell'<a href="org.php">organo</a>, arrivò sul mercato alla fine del XX secolo. La sua forza fu quella di poter imitare il suono di vari strumenti tradizionali arabi attraverso i sample, in modo che i musicisti potessero usare il <em>Mijwiz</em>, il <a href="qanun.php">Qanun</a> o anche un <a href="saxophone.php">sassofono</a> semplicemente cliccando un tasto.
                     </p>
-                    <p>La plupart des compagnies de synthétiseurs (comme Roland, Yamaha, GEM, Kawai et Ketron) fabriquent des synthétiseurs orientaux et y incluent un générateur de rythmes permettant au musicien d'ajouter à ses mélodies/accords des <a href="../iqaa.php">iqa‘at</a> préenregistrés à partir d'échantillons d'instruments de percussions arabes. Ceci fait du clavier oriental un instrument très puissant et versatile et un instrument essentiel pour la musique pop et de dance arabe.
+                    <p> La maggior parte delle compagnie produttrici di sintetizzatori (come Roland, Yamaha, GEM, Kawai, Korg e Ketron) svilupparono un modello di tastiera orientale includendo un generatore di ritmi in modo che il musicista potesse suonare sopra un <a href="../iqaa.php">iqa‘</a> pre-registrato con i sample degli strumenti arabi percussivi. Questa fa della tastiera orientale uno strumento potente e versatile, essenziale nella musica araba pop e dance.
                     </p>
 
                     <div class="image-with-caption">
-                        <img src="/instr/keyboard2.jpg" alt="La Tastiera Orientale's Quartertone Buttons">
-                        <span>12 boutons pour abaisser chaque note du clavier d'un quart de ton</span>
+                        <img src="/instr/keyboard2.jpg" alt="I tasti per i quarti di tono della tastiera orientale.">
+                        <span>12 interruttori che permettono di abbassare ogni nota sulla tastiera di un quarto di tono</span>
                     </div>
 
-                    <p> Le clavier oriental est capable de produire un quart de ton à partir de toutes les 12 notes du clavier en appuyant sur chaque bouton.
+                    <p> La tastiera orientale è in grado di suonare un quarto di tono su ognuna delle 12 note semplicemente premendo un interruttore.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=3YMxXobcrc8">
@@ -64,7 +64,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Aw‘idak</b>
-                                    <span>L'Orchestra Arabe National (États-Unis) jouant la chanson <strong>Aw‘idak</strong> de Souad Muhammad dans un arrangement incluant le Clavier Oriental et la Guitare Électrique à côté d'instruments traditionnels arabes.</span>
+                                    <span>L'orchestra nazionale araba (U.S.A) mentre suona <strong>Aw‘idak</strong> di Su‘ad Muhammad in un arrangiamento che include la tastiera orientale e la chitarra elettrica insieme agli strumenti tradizionali arabi.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -80,17 +81,18 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Shamstep</b>
-                                <span>Le groupe pan-palestinien<strong>47Soul</strong> a ajouté des effets sonores au clavier oriental et a ainsi créé un nouveau genre de techno-<em>dabké</em> avec leur chanson <strong>Shamstep</strong>.</span>
+                                    <span>Il gruppo pan-palestinese <strong>47Soul</strong> aggiunge un utilizzo interessante al normale uso della tastiera orientale utilizzando effetti e suoni che creano un nuovo genere techno-dabke, come nella loro hit <strong>Shamstep</strong>.
+                                    </span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
-                    <p>Explorer d'autres instruments arabisés:</p>
+                    <p>Scopri altri strumenti arabizzati:</p>
                     <ul>
 						<li><a href="accordion.php">La Fisarmonica Araba</a></li>
 						<li><a href="guitar.php">La Chitarra Elettrica Arabe</a></li>
-						<li><a href="org.php">L'Orgue Électrique Arabe</a></li>
+						<li><a href="org.php">L'Organo Elettrico Arabe</a></li>
                     	<!--
 						<li><a href="keyboard.php">La Tastiera Orientale</a></li>
 						-->

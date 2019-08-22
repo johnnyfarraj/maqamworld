@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "L'Orgue Électrique Arabe";
-$page_description = "L'Orgue Électrique Arabe";
+$page_title = "L'Organo Elettrico Arabe";
+$page_description = "L'Organo Elettrico Arabe";
 $page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab, Oud, Qanun, Nay, Violino, Buzuq, Fisarmonica Arabe, Chitarra Elettrica Arabe, Organo Elettrico Arabe, Tastiera Orientale, Piano Arabo, Sassofono, Tromba, Riqq, Tabla, Tabl Baladi, Daff, Mazhar, Katem, Sagat";
 $page_language = "it";
 
@@ -29,7 +29,7 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>L'Orgue Électrique Arabe</h1>
+                        <h1>L'Organo Elettrico Arabe</h1>
                         <h3>L'Orgue Électrique des années 1970 avec quelques quarts de ton</h3>
                     </div>
 
@@ -92,12 +92,12 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <p>Explorer d'autres instruments arabisés:</p>
+                    <p>Scopri altri strumenti arabizzati:</p>
                     <ul>
 						<li><a href="accordion.php">La Fisarmonica Araba</a></li>
 						<li><a href="guitar.php">La Chitarra Elettrica Arabe</a></li>
                     	<!--
-						<li><a href="org.php">L'Orgue Électrique Arabe</a></li>
+						<li><a href="org.php">L'Organo Elettrico Arabe</a></li>
 						-->
 						<li><a href="keyboard.php">La Tastiera Orientale</a></li>
 						<li><a href="piano.php">Il Piano Arabo</a></li>

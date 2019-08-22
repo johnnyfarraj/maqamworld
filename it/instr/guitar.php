@@ -43,6 +43,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>La chitarra elettrica fu usata per la prima volta nella musica araba verso la fine del 1960 in Egitto, il suo pioniere fu Omar Khorshid. Ad alcune chitarre elettriche usate nella musica araba venivano aggiunti dei tasti (come per il <a href="buzuq.php">Buzuq</a>) in modo da suonare alcune scale dei <a href="../maqam.php">Maqams</a> arabi con i quarti di tono.
                     </p>
+                    
                     <p>Ma la maggior parte delle chitarre elettriche venivano usate senza nessuna alterazione o effetti e acquisirono la loro caratteristica araba dall'abbellimento . La chitarra elettrica viene usata per suonare una combinazione di linee melodiche e accordi semplici (e.g. maggiori e minori).
                     </p>
 
@@ -79,13 +80,13 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <p>Explorer d'autres instruments arabisés:</p>
+                    <p>Scopri altri strumenti arabizzati:</p>
                     <ul>
 						<li><a href="accordion.php">La Fisarmonica Araba</a></li>
                     	<!--
 						<li><a href="guitar.php">La Chitarra Elettrica Arabe</a></li>
 						-->
-						<li><a href="org.php">L'Orgue Électrique Arabe</a></li>
+						<li><a href="org.php">L'Organo Elettrico Arabe</a></li>
 						<li><a href="keyboard.php">La Tastiera Orientale</a></li>
 						<li><a href="piano.php">Il Piano Arabo</a></li>
 						<li><a href="saxophone.php">Il Sassofono</a></li>

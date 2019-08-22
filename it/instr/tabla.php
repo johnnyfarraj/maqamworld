@@ -87,7 +87,7 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <p>Explorer d'autres instruments de percussion:</p>
+                    <p>Scopri altri strumenti  a percussione:</p>
                     <ul>
                         <li><a href="riqq.php">Il Riqq</a></li>
                         <!-- <li><a href="tabla.php">La Tabla</a></li> -->

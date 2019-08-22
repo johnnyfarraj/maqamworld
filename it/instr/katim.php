@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Il Katem";
 $page_description = "Il Katem";
-$page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab, Oud, Qanun, Nay, Violino, Buzuq, Fisarmonica Arabe, Chitarra Elettrica Arabe, Organo Elettrico Arabe, Tastiera Orientale, Piano Arabo, Sassofono, Tromba, Riqq, Tabla, Tabl Baladi, Daff, Mazhar, Katem, Sagat";
+$page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab, Katem";
 $page_language = "it";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Il Katem</h1>
-                        <h3>Un tambour sur cadre de support rythmique</h3>
+                        <h3>Un tamburo a cornice che da un supporto netto</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice Degli Strumenti</a>
@@ -38,14 +38,15 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/katim.jpg" alt="Katim">
-                        <span>Un Katèm accordable à peau de plastique. &copy; MaqamWorld</span>
+                        <span>Un Katem accordabile con pelle in plastica. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/katim.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Katèm</a>
                     </div>
 
-                    <p> Il Katem (du verbe <em>katama</em>, 'assourdir' ou 'étouffer') est un tambour sur cadre lourd qui produit un son étouffé. Il Katem est généralement posé entre les genoux du musicien et est fait pour être joué avec les mains plutôt qu'avec les doigts. La plupart des Katèms actuels ont des peaux de plastiques et sont accordables. Le rôle du Katèm est de supporter les autres instruments de la section rythmique en accentuant les sons <em>doum</em> et <em>tak</em> de base avec beaucoup d'ornementation.</p>
+                    <p> Il Katem (dal verbo <em>katama</em>, silenziare o smorzare) è un pesante tamburo a cornice con un suono soffocato. Il katim è generalmente incastrato tra le ginocchia dei musicisti e viene suonato con le mani invece che con le dita. La maggior parte dei katim di oggi hanno pelli in plastica e sono accordabili. Il ruolo principale del katim è quello di supportare gli altri strumenti nella sezione ritmica accentuando i suoni base "<em>dum</em>" e "<em>tak</em>" con più abbellimenti.
+                    </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=cU1uHX74qkE&t=0s">
                         <div class="radio">
@@ -56,14 +57,14 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Zaffa (fête de mariage)</b>
-                                    <span>Une Zaffa égyptienne (fête de mariage) avec un grand groupe de percussionnistes utilisant une combinaison de <a href="mazhar.php">Mazhars</a> égyptiens, de Katims et de <a href="tabla.php">Tablas</a>, tous munis de peaux synthétiques.</span>
+                                    <b>Zaffa (festa di matrimonio)</b>
+                                    <span>Una Zaffa egiziana (festa di matrimonio) con un grande numero di percussionisti che utilizzano Katem, <a href="mazhar.php">Mazhar</a> e <a href="tabla.php">Tabla</a> tutti con pelli sintetiche.</span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
-                    <p>Explorer d'autres instruments de percussion:</p>
+                    <p>Scopri altri strumenti  a percussione:</p>
                     <ul>
                         <li><a href="riqq.php">Il Riqq</a></li>
                         <li><a href="tabla.php">La Tabla</a></li>

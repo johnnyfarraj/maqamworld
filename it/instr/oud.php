@@ -169,7 +169,7 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <p>Explorer d'autres instruments traditionnels:</p>
+                    <p>Scopri altri strumenti tradizionali:</p>
                     <ul>
                     	<!--
                         <li><a href="oud.php">Le Oud</a></li>
