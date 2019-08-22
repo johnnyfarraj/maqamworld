@@ -77,7 +77,7 @@ include($ROOT . 'inc/head.php');
                                 <img class="card-img-top" src="/img/nahat_round.png" alt="The Arabic Oud">
                                 <div class="card-body">
                                     <h5 class="card-title">Rhythm</h5>
-                                    <p class="card-text">Learn about the Arabic rhythmic cycle called <b>Iqa‘˜</b>, made of the primitive sounds <em>dum</em> and <em>tak</em>.</p>
+                                    <p class="card-text">Learn about the Arabic rhythmic cycle called <b>Iqa‘</b>, made of the primitive sounds <em>dum</em> and <em>tak</em>.</p>
                                     <a href="/en/iqaa.php" class="btn btn-primary">Iqa‘<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
