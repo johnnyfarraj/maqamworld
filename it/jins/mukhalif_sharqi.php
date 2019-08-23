@@ -166,7 +166,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim au Violon</b> TODO
+                                    <b>Taqsim al Violino</b>
                                     <span>Abdo Dagher (Egitto)</span>
                                     <span><img src="/img/cd.png"> Al-Gibali</span>
                                 </div>

@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Le Oud Arabe";
-$page_description = "Le Oud Arabe";
+$page_title = "L'Oud";
+$page_description = "L'Oud";
 $page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab, Oud";
 $page_language = "it";
 

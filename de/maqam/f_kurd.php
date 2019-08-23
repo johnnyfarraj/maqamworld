@@ -44,7 +44,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>Die Maqam-Kurd-Familie besteht aus Maqamat, die mit <a href="../jins/kurd.php">Jins Kurd</a> beginnen.</p>
 
-                    <!-- TODO we need to format this list in a nice way -->
+                    
                     <ul>
                         <li><a href="kurd.php">Maqam Kurd</a></li>
                         <li><a href="hijazkar_kurd.php">Maqam Hijazkar Kurd</a></li>

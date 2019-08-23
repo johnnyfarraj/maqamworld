@@ -41,7 +41,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>Die Maqam-‘Ajam-Familie besteht aus Maqamat, die mit <a href="../jins/ajam.php">Jins ‘Ajam</a> beginnen.</p>
 
-                    <!-- TODO we need to format this list in a nice way -->
+                    
                     <ul>
                         <li><a href="ajam.php">Maqam ‘Ajam</a></li>
                         <li><a href="ajam_ushayran.php">Maqam ‘Ajam ‘Ushayran</a></li>

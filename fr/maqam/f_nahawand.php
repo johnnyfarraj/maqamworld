@@ -41,7 +41,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>La Famille du Maqam Nahawand est faite des <em>maqams</em> qui commencent avec le <a href="../jins/nahawand.php">Jins Nahawand</a>.</p>
 
-                    <!-- TODO we need to format this list in a nice way -->
+                    
                     <ul>
                         <li><a href="nahawand.php">Maqam Nahawand</a></li>
                         <li><a href="nahawand.php">Maqam Farahfaza</a></li>

@@ -41,7 +41,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>La Famille du Maqam Nikriz est faite des <em>maqams</em> qui commencent avec le <a href="../jins/nikriz.php">Jins Nikriz</a>.</p>
 
-                    <!-- TODO we need to format this list in a nice way -->
+                    
                     <ul>
                         <li><a href="nikriz.php">Maqam Nikriz</a></li>
                         <li><a href="nawa_athar.php">Maqam Nawa Athar</a></li>

@@ -41,7 +41,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>Maqam Nikriz Family is made of <em>maqamat</em> that start with <a href="../jins/nikriz.php">Jins Nikriz</a>.</p>
 
-                    <!-- TODO we need to format this list in a nice way -->
+                    
                     <ul>
                         <li><a href="nikriz.php">Maqam Nikriz</a></li>
                         <li><a href="nawa_athar.php">Maqam Nawa Athar</a></li>

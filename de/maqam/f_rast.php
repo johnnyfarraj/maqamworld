@@ -41,7 +41,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>Die Maqam-Rast-Familie besteht aus Maqamat, die mit <a href="../jins/rast.php">Jins Rast</a> beginnen.</p>
 
-                    <!-- TODO we need to format this list in a nice way -->
+                    
                     <ul>
                         <li><a href="rast.php">Maqam Rast</a></li>
                         <li><a href="kirdan.php">Maqam Kirdan</a></li>

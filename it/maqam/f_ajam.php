@@ -41,7 +41,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>La Famiglia Maqam ‘Ajam comprende <em>maqamat</em> che iniziano con <a href="../jins/ajam.php">Jins ‘Ajam</a>.</p>
 
-                    <!-- TODO we need to format this list in a nice way -->
+                    
                     <ul>
                         <li><a href="ajam.php">Maqam ‘Ajam</a></li>
                         <li><a href="ajam_ushayran.php">Maqam ‘Ajam ‘Ushayran</a></li>

@@ -4,7 +4,7 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Le Violoin Arabe";
+$page_title = "Il Violino Arabe";
 $page_description = "Il Violino Arabe";
 $page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab, Violino";
 $page_language = "it";

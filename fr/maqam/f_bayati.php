@@ -41,7 +41,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>La Famille du Maqam Bayati est faite de <em>maqams</em> qui commencent avec le <a href="../jins/bayati.php">Jins Bayati</a>.</p>
 
-                    <!-- TODO we need to format this list in a nice way -->
+                    
                     <ul>
                         <li><a href="bayati.php">Maqam Bayati</a></li>
                         <li><a href="bayati_shuri.php">Maqam Bayati Chouri</a></li>

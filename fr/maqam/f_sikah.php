@@ -41,7 +41,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>La Famille du Maqam Sikah est faite des <em>maqams</em> qui commencent avec le <a href="../jins/sikah.php">Jins Sikah</a>.</p>
 
-                    <!-- TODO we need to format this list in a nice way -->
+                    
                     <ul>
                         <li><a href="sikah.php">Maqam Sikah</a></li>
                         <li><a href="huzam.php">Maqam Houzam</a></li>
