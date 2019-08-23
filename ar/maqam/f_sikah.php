@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         وتتفرّع هذه االمقامات من <a href="sikah.php">مقام سيكاه</a>، وهو المقام الاساسي في هذه العائلة.
                     </h5>
 
-                    <!-- TODO we need to format this list in a nice way -->
+                    
                     <ul>
                         <li><h5><a href="sikah.php">مقام سيكاه</a></h5></li>
                         <li><h5><a href="huzam.php">مقام هُزام</a></h5></li>
