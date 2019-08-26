@@ -555,6 +555,72 @@ footer ul.menu li a {
 .track.active .radio label .info p {
     color: #fff;
 }
+/* DEMO-TRACK */
+.demo-track {
+    display: block;
+    border: 1px solid rgba(0,0,0,0.1);
+    border-radius: 4px;
+    box-shadow: rgba(0,0,0,0.01) 0px 5px 10px;
+    margin-bottom: 10px;
+    background: #ddd5c7;
+    position: relative;
+}
+.demo-track:hover {
+    border: 1px solid rgba(0,0,0,0.2);
+    background: #fff;
+    box-shadow: rgba(0,0,0,0.15) 0px 5px 15px;
+}
+.demo-track.active {
+    border: 1px solid #000000;
+    background: #b8a787;
+}
+.demo-track .radio {
+    margin: 0;
+}
+.demo-track .radio label {
+    position: relative;
+    margin: 0;
+    display: block;
+    cursor: pointer;
+    padding: 10px;
+    color: #333;
+}
+.demo-track .radio label input {
+    position: absolute;
+    top: 0;
+    opacity: 0;
+}
+.demo-track .radio label .info {
+    display: inline-block;
+    width: 100%;
+    margin-left: 0px;
+}
+.demo-track .radio label .info b {
+    display: block;
+    color: #333;
+}
+.demo-track.active .radio label .info b {
+    color: #fff;
+}
+.demo-track .radio label .info span {
+    display: block;
+    font-size: 12px;
+}
+.demo-track .radio label .info p {
+    font-size: 12px;
+    line-height: 12px;
+    margin: 0;
+}
+.demo-track .radio label .info p img,
+.demo-track .radio label .info span img {
+    width: 16px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.demo-track.active .radio label .info span,
+.demo-track.active .radio label .info p {
+    color: #fff;
+}
 /* YOUTUBE TRACK */
 /* background: #f6f2ef; */
 .youtube-track {
@@ -1107,6 +1173,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
     background: #6699ff;
 }
 .iqaas-page .track.active {
+    border: 1px solid #6699ff;
+    background: #6699ff;
+}
+.iqaas-page .demo-track.active {
     border: 1px solid #6699ff;
     background: #6699ff;
 }
@@ -1784,6 +1854,18 @@ header .navbar-toggler {
     .button-type-list li a {
         font-size: 12px;
     }
+    .demo-track .radio label .thumb-area {
+        width: 100%;
+        display: block;
+    }
+    .demo-track .radio label .thumb-area .thumb {
+        height: 120px;
+    }
+    .demo-track .radio label .info {
+        width: 100%;
+        padding-left: 0px;
+        padding-top: 10px;
+    }
     .youtube-track .radio label .thumb-area {
         width: 100%;
         display: block;
@@ -1893,6 +1975,8 @@ header .navbar-toggler {
 .rtl .sub-menu li a {font-size:16px;}
 .rtl .track .radio label .info span {font-size:17px;}
 .rtl .track .radio label .info p {font-size:14px;}
+.rtl .demo-track .radio label .info span {font-size:17px;}
+.rtl .demo-track .radio label .info p {font-size:14px;}
 .rtl .youtube-track .radio label .info span {font-size:17px;}
 .rtl .youtube-track .radio label .info p {font-size:14px;}
 .rtl .pronunciation {font-size:16px;}
