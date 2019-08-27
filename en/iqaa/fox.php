@@ -133,6 +133,18 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" style="background: #ddd5c7" data-song="/demo/iqaa/tabla/fox.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Iqa‘ Fox 2/4</b>
+                                    <span>Tabla demonstration by Faisal Zedan</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                 </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>

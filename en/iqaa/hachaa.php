@@ -128,6 +128,18 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" style="background: #ddd5c7" data-song="/demo/iqaa/tabla/hachaa_4_4.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Iqa‘ Hacha‘ 4/4</b>
+                                    <span>Tabla demonstration by Faisal Zedan</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                     <br>
                     <div class="heading jins text-center">
                         <h3>Examples of the 2/4 form of Iqa‘ Hacha‘</h3>
@@ -151,6 +163,18 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
                     
+                    <div class="track" style="background: #ddd5c7" data-song="/demo/iqaa/tabla/hachaa_2_4.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Iqa‘ Hacha‘ 2/4</b>
+                                    <span>Tabla demonstration by Faisal Zedan</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                     <br>
                     <div class="heading jins text-center">
                         <h3>Examples of the 6/4 form of Iqa‘ Hacha‘</h3>
@@ -174,6 +198,18 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
                     
+                    <div class="track" style="background: #ddd5c7" data-song="/demo/iqaa/tabla/hachaa_6_4.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Iqa‘ Hacha‘ 6/4</b>
+                                    <span>Tabla demonstration by Faisal Zedan</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                 </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
