@@ -7,7 +7,7 @@
                 <br>Tutti i diritti riservati.
                 <br>Concetto, testo e design: <a href="https://www.amazon.com/Johnny-Farraj/e/B07SD841D2" target="_blank">Johnny Farraj</a>                
                 <br>Sviluppo: <a href="http://filiptodorov.com" target="_blank">Filip Todorov</a>
-                <br>Traduzione Italiana: Mattia Nicolò Careddu
+                <br>Traduzione Italiana: <a href="https://iskyd.it" target="_blank">Mattia Nicolò Careddu</a>
                 </p>
                 <!--
                 <ul class="socials">

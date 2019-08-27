@@ -39,8 +39,6 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/mustaar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Musta‘ar</a>
                     </div>
 
-                   
-                    
                      <div class="notation" id="notation1">
                         <img src="/note/maqam/mustaar.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
@@ -63,11 +61,11 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="488,5,597,34" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 					</map>
                     
-                    <p>Le Maqam Musta‘ar est un maqam très rare en tant que maqam indépendant. Il est plus commun est tant que jins ou comme <em>sayr</em> utilisé à l'intérieur du <a href="huzam.php">Maqam Huzam</a> et du <a href="sikah.php">Maqam Sikah</a>.
+                    <p>Il Maqam Musta‘ar è estremamente raro come maqam indipendente, ma più comune come jins, o come <em>sayr</em> parziale con il <a href="huzam.php">Maqam Huzam</a> e il <a href="sikah.php">Maqam Sikah</a>. 
                     </p>
-                    <p>Sa gamme commence avec le Jins de base <a href="../jins/mustaar.php">Musta‘ar</a> sur la tonique (Mi<i class="icon-halfflat"></i>), suivi du <a href="../jins/nahawand.php">Jins Nahawand</a> sur le 3<sup>ième</sup> degré,  et finalement du <a href="../jins/rast.php">Jins Rast</a> sur le 6<sup>ième</sup> degré.
+                    
+                    <p>La sua scala inizia con il <a href="../jins/mustaar.php">Musta‘ar</a> sulla tonica Mi<i class="icon-halfflat"></i>, seguito dal <a href="../jins/nahawand.php">Jins Nahawand</a> sul terzo grado, e il <a href="../jins/rast.php">Jins Rast</a> sul sesto grado.
                     </p>
-                    <!-- TODO -->
                     
                     <p>Scopri altri maqamat della <a href="f_sikah.php">Famiglia Maqam Sikah</a>.</p>
 

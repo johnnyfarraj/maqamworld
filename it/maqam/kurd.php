@@ -61,7 +61,9 @@ include($ROOT . 'inc/head.php');
 
 				     </map>
 
-                    <p>Il Maqam Kurd è il maqam principale della <a href="f_kurd.php">Famiglia Kurd</a>. La sua scala inizia con il <a href="../jins/kurd.php">Kurd</a> (la radice) sulla tonica, seguito dal <a href="../jins/nahawand.php">Jins Nahawand</a> sul quarto grado.</p>
+                    <p>
+                        Il Maqam Kurd è il maqam principale della <a href="f_kurd.php">Famiglia Kurd</a>. La sua scala inizia con il <a href="../jins/kurd.php">Jins Kurd</a> (la radice) sulla tonica, seguito dal <a href="../jins/nahawand.php">Jins Nahawand</a> sul quarto grado.
+                    </p>
 
                     <p>Scopri altri maqamat della <a href="f_kurd.php">Famiglia Maqam Kurd</a>.</p>
 

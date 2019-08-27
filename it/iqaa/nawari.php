@@ -43,10 +43,10 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/nawari.png" class="img-fluid">
                     </div>
                     
-                    <p>L'Iqa‘ Nawari è una variazione dell'<a href="saidi.php">Iqa‘ Sa‘idi</a> e <a href="baladi.php">Baladi</a> usato principalmente nella musica folk del levante e nelle danze <em>Dabke</em>.</p>
+                    <p>L'Iqa‘ Nawari è una variazione dell'<a href="saidi.php">Iqa‘ Sa‘idi</a> e <a href="baladi.php">Baladi</a> usato principalmente nella musica folk del levante e nelle danze <em>Dabke</em>.
+                    </p>
                     
-                    <!-- TODO -->
-                    <p>Iqa‘ Nawari is often called <strong>Katakufti</strong> by percussionists, although the original <a href="katakufti.php">Iqa‘ Katakufti</a> has a different signature. The reason for this alternate name is because <a href="katakufti.php">Iqa‘ Katakufti</a> sounds exactly like Nawari when it is started from the last <em>tak</em>.
+                    <p>L'Iqa‘ Nawari è spesso chiamato <strong>Katakufti</strong> dai percussionisti, anche se l'<a href="katakufti.php">Iqa‘ Katakufti</a> originale ha un armatura differente. La ragione di questo nome alternativo è perchè l'<a href="katakufti.php">Iqa‘ Katakufti</a> suona esattamente come il <strong>Nawari</strong> quando inizia dall'ultimo <em>tak</em>.
                     </p>
                     
                     <div class="player-area">

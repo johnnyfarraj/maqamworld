@@ -61,7 +61,8 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="394,5,500,35" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
                     </map>
                     
-                    <p>Il Maqam Mahur inizia con il <a href="../jins/rast.php">Jins Rast</a> sulla tonica, seguito dal <a href="../jins/upper_ajam.php">Jins ‘Ajam Alto</a> sul quinto grado (con la sua tonica, fino all'ottava).</p>
+                    <p>Il Maqam Mahur inizia con il <a href="../jins/rast.php">Jins Rast</a> (la radice) sulla tonica, seguito dal <a href="../jins/upper_ajam.php">Jins ‘Ajam Alto</a> sul quinto grado (con la sua tonica sull'ottavo grado).
+                    </p>
 
                     <p>Scopri altri maqamat della <a href="f_rast.php">Famiglia Maqam Rast</a>.</p>
 

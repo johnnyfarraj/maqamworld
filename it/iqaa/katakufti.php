@@ -44,10 +44,12 @@ include($ROOT . 'inc/head.php');
                     
                     <p>Iqa‘ Katakufti e è un <em>iqa‘</em> raro, usato principalmente nel genere <a href="../form/vocal_comp.php#muwashah">Muwashah</a>.
                     </p>
-                    <!-- TODO -->
-                    <p>An alternate form of this <em>iqa‘</em> replaces the rest on the 5<sup>th</sup> beat with a <em>dum</em>, creating 2 consecutive <em>dum</em> (similarly to the second form of <a href="aqsaq.php">Iqa‘ Aqsaq</a>).
+                    <p>
+                        Una forma alternativa di questo <em>iqa‘</em> sostituisce la pausa sul quinto battito con un <em>dum</em>, creando due <em>dum</em> consecutivi (simile alla seconda forma dell'<a href="aqsaq.php">Iqa‘ Aqsaq</a>). 
                     </p>
-                    <p>The name <strong>Katakufti</strong> is sometimes used as an alternate name for <a href="nawari.php">Iqa‘ Nawari</a> because they sound alike when <strong>Iqa‘ Katakufti</strong> is played in 4/4 e started from the last beat (the last <em>tak</em>).</p>
+                    <p>
+                        Il nome <strong>Katakufti</strong> viene a volte usato come una forma alternativa di <a href="nawari.php">Iqa‘ Nawari</a> perchè sono molto simili quando l'<strong>Iqa‘ Katakufti</strong> viene suonato in 4/4 e inizia dall'ultimo battito (l'ultimo <em>tak</em>).
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
