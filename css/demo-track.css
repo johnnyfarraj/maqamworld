@@ -1,0 +1,67 @@
+/* DEMO-TRACK */
+.demo-track {
+    display: block;
+    border: 1px solid rgba(0,0,0,0.1);
+    border-radius: 4px;
+    box-shadow: rgba(0,0,0,0.01) 0px 5px 10px;
+    margin-bottom: 10px;
+    background: #ddd5c7;
+    position: relative;
+}
+.demo-track:hover {
+    border: 1px solid rgba(0,0,0,0.2);
+    background: #fff;
+    box-shadow: rgba(0,0,0,0.15) 0px 5px 15px;
+}
+.demo-track.active {
+    border: 1px solid #000000;
+    background: #b8a787;
+}
+.demo-track .radio {
+    margin: 0;
+}
+.demo-track .radio label {
+    position: relative;
+    margin: 0;
+    display: block;
+    cursor: pointer;
+    padding: 10px;
+    color: #333;
+}
+.demo-track .radio label input {
+    position: absolute;
+    top: 0;
+    opacity: 0;
+}
+.demo-track .radio label .info {
+    display: inline-block;
+    width: 100%;
+    margin-left: 0px;
+}
+.demo-track .radio label .info b {
+    display: block;
+    color: #333;
+}
+.demo-track.active .radio label .info b {
+    color: #fff;
+}
+.demo-track .radio label .info span {
+    display: block;
+    font-size: 12px;
+}
+.demo-track .radio label .info p {
+    font-size: 12px;
+    line-height: 12px;
+    margin: 0;
+}
+.demo-track .radio label .info p img,
+.demo-track .radio label .info span img {
+    width: 16px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.demo-track.active .radio label .info span,
+.demo-track.active .radio label .info p {
+    color: #fff;
+}
+
