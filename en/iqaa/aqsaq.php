@@ -51,7 +51,7 @@ include($ROOT . 'inc/head.php');
                         </audio>
                     </div>
 
-                    <div class="track " data-song="/audio/iqaa/aqsaq_form1/ma_htiyali.mp3">
+                    <div class="track" data-song="/audio/iqaa/aqsaq_form1/ma_htiyali.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1" >
@@ -97,6 +97,18 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Bashraf Bulbul al-Afrah</b>
                                     <span>Ensemble Morkos</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="track" style="background: #ddd5c7" data-song="/demo/iqaa/tabla/aqsaq_form1.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Iqa‘ Aqsaq 9/8 - Form I</b>
+                                    <span>Tabla demonstration by Faisal Zedan</span>
                                 </div>
                             </label>
                         </div>
@@ -163,6 +175,18 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Bi Abi Bahi al-Jamal</b>
                                     <span>Muhammad Khayri (Syria)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="track" style="background: #ddd5c7" data-song="/demo/iqaa/tabla/aqsaq_form2.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Iqa‘ Aqsaq 9/8 - Form II</b>
+                                    <span>Tabla demonstration by Faisal Zedan</span>
                                 </div>
                             </label>
                         </div>
