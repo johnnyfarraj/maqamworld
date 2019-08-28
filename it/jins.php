@@ -39,16 +39,16 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/jins.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Jins/Ajnas</a>
                     </div>
 
-                    <p>Il <em>Jins</em> (plurale <em>Ajnas</em>) è un frammento di scala di un maqam di 3,4, o 5 note. ll jins è l'unita melodica di base dnella musica araba, in quanto un <a href="maqam.php">maqam</a> è un cammino attraverso molti <em>ajnas</em>. Ogni jins è definito dai suoi intervalli, che non cambiano quando vengono trasposti, e rendono ogni jins diverso e riconoscibile.
+                    <p>Il <em>Jins</em> (plurale <em>Ajnas</em>) è un frammento di scala di un maqam di 3,4, o 5 note. ll jins è l'unita melodica di base nella musica araba, in quanto un <a href="maqam.php">maqam</a> è un vero e proprio percorso attraverso molti <em>ajnas</em>. Ogni jins è definito dai suoi intervalli, che non cambiano quando vengono trasposti, e conferiscono ad ogni jins il suo carattere distintivo e riconoscibile.
                     </p>
 
-                    <p>La tonica del jins è la nota fondamentale, la nota a cui la melodia fa ritorno per la sua risoluzione. Solitamente è la prima nota del jins. Il leading tone è la nota immediatamente prima della tonica. Il <em>ghammaz</em> è la nota più importante (oltre alla tonica), ed è, solitamente, il punto di partenza del nuovo jins (il cambio del jins o del <a href="maqam.php">maqam</a> è chiamato modulazione).
+                    <p>La tonica del jins è la nota fondamentale, la nota a cui la melodia fa ritorno per la sua risoluzione. Solitamente è la prima nota del jins. La <em>Sensibile</em> è la nota immediatamente sotto la tonica. Il <em>ghammaz</em> è la nota a cui viene conferita maggior enfasi melodica (oltre alla tonica), ed è anche il punto di partenza più comune di un nuovo jins (il cambio del jins o del <a href="maqam.php">maqam</a> è chiamato modulazione).
                     </p>
 
-                    <p>La dimensione del jins è il numero di note tra la tonica e il <em>ghammaz</em>. Queste note sono chiamate "Jins' basic scale" (scala fondamentale) (o più semplicemente scala). Al di fuori della scala principale (da entrambi i lati) ci sono note che fanno parte del vocabolario melodico del jins. Queste note sono chiamate jins baggage. La scala fondamentale più i jins baggage formano la scala jins estesa (jins' extended scale).
+                    <p>La dimensione del jins è il numero di note tra la tonica e il <em>ghammaz</em>. Queste note sono chiamate "scala fondamentale del Jins" (o più semplicemente scala). Al di fuori della scala principale (sia verso il grave che verso l’acuto) ci sono note che fanno parte del vocabolario melodico del jins. Queste note sono chiamate “bagaglio” del jins. La scala fondamentale più le note “bagaglio” formano la scala jins estesa.
                     </p>
 
-                    <p>Ogni jins mostra la scala fondamentale usando note grandi, con la tonica e il <em>ghammaz</em> come note intere. Le note del jins baggage sono di dimensione inferiore. Alcuni jins possono avere differenti opzioni per alcune note del jins baggage.
+                    <p>Ogni jins espone la scala fondamentale usando note lunghe, con la tonica e il <em>ghammaz</em> come note intere. Le note “bagaglio” del jins sono di durata inferiore. Alcuni jins possono avere differenti opzioni per alcune delle note “bagagli”.
                     </p>
 
                     <p>Puoi iniziare a scoprire gli ajnas usando l'<strong>Indice del Jins</strong> (in ordine alfabetico) o usando la tabella qui sotto (raggruppati per dimensione):

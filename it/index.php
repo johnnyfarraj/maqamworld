@@ -24,7 +24,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-sm-12">
                     <div class="heading">
                         <h1>Benvenuto nel nuovo <span>Mondo del Maqam</span></h1>
-                        <h3>Il Mondo Del Maqam è una risorsa online dedicata all'insegnamento del sistema modale del Maqam Arabo, che è alla base della musica tradizionale araba. Questo sito si occupa principalmente di musica proveniente dalla parte del mediterraneo orientale del mondo arabo (Egitto, Palestina, Giordano, Lebano e Siria), si concentra in particolare sulla prima metà del XX sec.</h3>
+                        <h3>Il Mondo Del Maqam è una risorsa online dedicata all'insegnamento del sistema modale del Maqam Arabo, che è alla base della musica tradizionale araba. Questo sito si occupa principalmente di 
+                        musica proveniente dalla parte del mondo arabo del Mediterraneo Orientale (Egitto, Palestina, Giordano, Libano e Siria), si concentra in particolare sulla prima metà del XX sec.</h3>
                     </div>
 
                     <p>Dopo 17 anni di lavoro, MaqamWorld è stato rinnovato con l'aiuto di un finanziamento del 2016 da parte del <a href="http://arabculturefund.org/grantees/grantee.php?id=333" target="_blank">Fondo Arabo per l'Arte e la Cultura (AFAC)</a>.

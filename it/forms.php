@@ -39,10 +39,10 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/qalab.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Qalab/Qawaleb</a>
                     </div>
 
-                    <p>La maggior parte della musica araba. classica e tradizionale, sia composta che improvvisata, segue un gruppo di forme chiamate <em>qawaleb</em> in arabo (singolare <em>qalab</em>, letteralmente  "forma" o "contenitore fissato"). I <em>qawaleb</em> sono dei modelli che guidano il compositore o l'improvvisatore e sono usati sia nella musica strumentale che in quella vocale. I <em>qawaleb</em> danno al musicista una struttura familiare su cui lavorare e creano un senso di comodità  e aspettativa agli ascoltatori.
+                    <p>La maggior parte della musica araba, classica e tradizionale, sia composta che improvvisata, segue un gruppo di forme chiamate <em>qawaleb</em> in arabo (singolare <em>qalab</em>, letteralmente  "forma" o "contenitore fissato"). I <em>qawaleb</em> sono dei modelli che guidano il compositore o l'improvvisatore e sono usati sia nella musica strumentale che in quella vocale. I <em>qawaleb</em> danno al musicista una struttura familiare su cui lavorare e creano un senso di comodità  e aspettativa agli ascoltatori.
                     </p>
 
-                    <p>Le <em>qawaleb</em> sono opportunamente organizzati qui in base al loro utilizzo vocale/strumentale o composizione/improvvisazione.</p>
+                    <p>Le <em>qawaleb</em> ono opportunamente organizzate qui in base alla loro dimensione vocale/strumentale o composizione/improvvisazione.</p>
 
                     <div class="row">
                         <div class="col-sm-12 col-md-6 col-lg-6 col-xl-4">

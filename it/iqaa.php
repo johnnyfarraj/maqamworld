@@ -39,13 +39,13 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/iqaa.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Iqa‘/Iqa‘at</a>
                     </div>
 
-                    <p>La musica araba è composta su dei ritmi ciclici chiamati <em>iqa‘at</em> (singolare <em>iqa‘</em>), che sono formati da pattern di battiti che si ripetono ad ogni misura. Una composizione può cambiare diversi <em>iqa‘at</em>. Ogni <em>iqa‘</em> è definito usando il prototupo di una battuta e due suoni basilari: <strong>dum</strong> (basso e sostenuto) e <strong>tak</strong> (asciutto).</p>
+                    <p>La musica araba è composta su dei cicli ritmici chiamati <em>iqa‘at</em> (singolare <em>iqa‘</em>), che sono formati da pattern di battiti che si ripetono ad ogni misura. Una composizione può cambiare diversi <em>iqa‘at</em>. Ogni <em>iqa‘</em> è definito usando il prototipo di una battuta e due suoni basilari: <strong>dum</strong> (basso e sostenuto) e <strong>tak</strong> (secco e acuto).</p>
 
-                    <p>L'annotazione di un <em>iqa‘</em> serve da scheletro o da prototipo per come suonarla. In pratica, i percussionisti arricchiscono un <em>iqa‘</em> con battuti addizionali: <strong>dum</strong> e <strong>tak</strong> e qualunque altro suono lo strumento è in grado di produrre. L'arricchimento dipende molto dal genere, dall'arrangiamento desiderato, dallo strumento stesso, dalla dimensione della sezione ritmica, e dallo stile personale del percussionista.</p>
+                    <p>L'annotazione di un <em>iqa‘</em> serve da scheletro o da prototipo per come suonarla. In pratica, i percussionisti arricchiscono un <em>iqa‘</em> con colpi addizionali: <strong>dum</strong> e <strong>tak</strong> e qualunque altro suono lo strumento è in grado di produrre. L'arricchimento dipende molto dal genere, dall'arrangiamento desiderato, dallo strumento stesso, dalla dimensione della sezione ritmica, e dallo stile personale del percussionista.</p>
 
                     <p>Gli <em>iqa‘at</em> arabi possono avere differenti indicazioni di tempo, che possono essere pari o dispari. Le indicazioni di tempo più brevi (2/4, 3/4, 4/4, 6/4 e 8/4) sono usate principalmente nella musica folk, nel genere <em>tarab</em> della metà del XX secolo e nella musica popolare contemporanea. Gli iqa‘at più lunghi (7/8, 9/8, 10/8 fino ai 32/4) sono usati principalmente nel genere vocale tradizionale <a href="form/vocal_comp.php#muwashah">Muwashahat</a>.</p>
 
-                    <p>Puoi iniziare a esplorare degli esempi di <em>iqa‘at</em> arabi usando l'<strong>Indice degli Iqa‘at</strong> (in ordine alfabetico) o usando la tabella qui sotto (ordinati per numero di battiti per battuta):
+                    <p>Puoi iniziare a esplorare degli esempi di <em>iqa‘at</em> arabi usando l'<strong>Indice degli Iqa‘at</strong> (in ordine alfabetico) o usando la tabella qui sotto (ordinati per numero di battiti per misura):
                     </p>
 
                     <div class="page-list-area">
