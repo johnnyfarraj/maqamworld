@@ -8,6 +8,7 @@
                 <br>Concetto, testo e design: <a href="https://www.amazon.com/Johnny-Farraj/e/B07SD841D2" target="_blank">Johnny Farraj</a>                
                 <br>Sviluppo: <a href="http://filiptodorov.com" target="_blank">Filip Todorov</a>
                 <br>Traduzione Italiana: <a href="https://iskyd.it" target="_blank">Mattia Nicolò Careddu</a>
+                <br>Revisione del testo: <a href="http://www.krisslive.com" target="_blank">Cristiano Corradetti</a>
                 </p>
                 <!--
                 <ul class="socials">
