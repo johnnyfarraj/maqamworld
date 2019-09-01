@@ -555,6 +555,46 @@ footer ul.menu li a {
 .track.active .radio label .info p {
     color: #fff;
 }
+
+/* Demo Track */
+.track.demo-track {
+    background: #ddd5c7;
+}
+.track.demo-track:hover {
+    border: 1px solid rgba(0,0,0,0.2);
+    background: #f5f3ef;
+    box-shadow: rgba(0,0,0,0.15) 0px 5px 15px;
+}
+.track.demo-track .radio label {
+    position: relative;
+}
+.track.demo-track .radio label .thumb-area {
+    width: 100px;
+    height: 70px;
+    position: relative;
+    border-radius: 4px;
+    overflow: hidden;
+    display: inline-block;
+    vertical-align: top;
+    border: 3px solid rgba(0,0,0,0.1);
+}
+.track.demo-track .radio label .thumb-area img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+}
+.track.demo-track .radio label .info {
+    display: inline-block;
+    vertical-align: top;
+    width: calc(100% - 105px);
+    padding-left: 6px;
+    padding-right: 0px;
+}
+
 /* YOUTUBE TRACK */
 /* background: #f6f2ef; */
 .youtube-track {
@@ -1789,6 +1829,16 @@ header .navbar-toggler {
         height: 120px;
     }
     .youtube-track .radio label .info {
+        width: 100%;
+        padding-left: 0px;
+        padding-top: 10px;
+    }
+    .track.demo-track .radio label .thumb-area {
+        width: 100%;
+        display: block;
+        height: 120px;
+    }
+    .track.demo-track .radio label .info {
         width: 100%;
         padding-left: 0px;
         padding-top: 10px;

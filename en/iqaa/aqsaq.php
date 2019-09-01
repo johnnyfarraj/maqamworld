@@ -46,7 +46,7 @@ include($ROOT . 'inc/head.php');
 					</p>
 
                     <div class="player-area">
-                        <audio id="player" controls>
+                        <audio id="player" controls loop>
                             <source src="/audio/iqaa/aqsaq_form1/ma_htiyali.mp3" type="audio/mp3">
                         </audio>
                     </div>
@@ -102,9 +102,15 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" style="background: #ddd5c7" data-song="/demo/iqaa/tabla/aqsaq_form1.mp3">
+                    <div class="track demo-track" data-song="/demo/iqaa/tabla/aqsaq_form1.mp3">
                         <div class="radio">
                             <label>
+                            	<!-- Image thumbnail -->
+                            	<div class="thumb-area">
+                            		<img src="https://images-na.ssl-images-amazon.com/images/I/81WIzUJbz1L._SL1500_.jpg" class="">
+                            	</div>
+
+                            	<!-- Song meta -->
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Iqa‘ Aqsaq 9/8 - Form I</b>
@@ -180,9 +186,14 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" style="background: #ddd5c7" data-song="/demo/iqaa/tabla/aqsaq_form2.mp3">
+                    <div class="track demo-track" data-song="/demo/iqaa/tabla/aqsaq_form2.mp3">
                         <div class="radio">
                             <label>
+                            	<!-- Image thumbnail -->
+                            	<div class="thumb-area">
+                            		<img src="https://images-na.ssl-images-amazon.com/images/I/81WIzUJbz1L._SL1500_.jpg" class="">
+                            	</div>
+                            	<!-- Song meta -->
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Iqa‘ Aqsaq 9/8 - Form II</b>
