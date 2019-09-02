@@ -562,20 +562,20 @@ footer ul.menu li a {
 }
 .track.demo-track:hover {
     border: 1px solid rgba(0,0,0,0.2);
-    background: #f5f3ef;
+    background: #b8a787;
     box-shadow: rgba(0,0,0,0.15) 0px 5px 15px;
 }
 .track.demo-track .radio label {
     position: relative;
 }
 .track.demo-track .radio label .thumb-area {
-    width: 100px;
-    height: 70px;
+    width: 80px;
+    height: 80px;
     position: relative;
     border-radius: 4px;
     overflow: hidden;
     display: inline-block;
-    vertical-align: top;
+    vertical-align: middle;
     border: 3px solid rgba(0,0,0,0.1);
 }
 .track.demo-track .radio label .thumb-area img {
@@ -589,8 +589,8 @@ footer ul.menu li a {
 }
 .track.demo-track .radio label .info {
     display: inline-block;
-    vertical-align: top;
-    width: calc(100% - 105px);
+    vertical-align: middle;
+    width: calc(100% - 85px);
     padding-left: 6px;
     padding-right: 0px;
 }
@@ -1834,14 +1834,11 @@ header .navbar-toggler {
         padding-top: 10px;
     }
     .track.demo-track .radio label .thumb-area {
-        width: 100%;
-        display: block;
-        height: 120px;
+        width: 60px;
+        height: 60px;
     }
     .track.demo-track .radio label .info {
-        width: 100%;
-        padding-left: 0px;
-        padding-top: 10px;
+        width: calc(100% - 65px);
     }
     .show-side-menu {
         max-width: 45%;
