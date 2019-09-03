@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                             	<!-- Image thumbnail -->
                             	<div class="thumb-area">
-                            		<img src="https://images-na.ssl-images-amazon.com/images/I/81WIzUJbz1L._SL1500_.jpg" class="">
+                            		<img src="/img/tabla.png" class="">
                             	</div>
 
                             	<!-- Song meta -->
