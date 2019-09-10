@@ -287,6 +287,22 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=rK-9pOupq6I">
+                        <div class="radio">
+                            <label>
+                                <div class="thumb-area">
+                                    <div class="thumb">
+                                        <img src="https://img.youtube.com/vi/rK-9pOupq6I/hqdefault.jpg">
+                                    </div>
+                                </div><!--
+                             --><div class="info">
+                                    <b>Darej Hijaz</b>
+                                    <span>Un <em>darij</em> bien connu (composition traditionnelle) en <a href="../maqam/hijaz.php">Maqam Hijaz</a> enregistré par le violoniste syrien Sami al-Shawwa en 1924.</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                     <p>Explorez d'autres groupes de formes:</p>
                     <ul>
                         <li><a href="vocal_comp.php">Formes Vocales Composées</a></li>

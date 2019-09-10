@@ -259,7 +259,25 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>دارج بياتي سامي الشوا</b>
-                                    <span>يعد دارج بياتي سامي الشوا من أشهر القطع المؤلفة في هذا القالَب.</span>
+                                    <span>يعدّ دارج <a href="../maqam/bayati.php">بياتي</a> سامي الشوا من أشهر القطع المؤلفة في هذا القالَب.</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=rK-9pOupq6I">
+                        <div class="radio">
+                            <label>
+                                <div class="thumb-area">
+                                    <div class="thumb">
+                                        <img src="https://img.youtube.com/vi/rK-9pOupq6I/hqdefault.jpg">
+                                    </div>
+                                </div><!--
+                             --><div class="info">
+                                    <b>دارج حجاز</b>
+                                    <span>دارج من <a href="../maqam/hijaz.php">مقام الحجاز</a> (قديم التأليف). 
+                                التسجيل أداء سامي الشوّا على الكمان، زكي القانونجي على القانون، بترو العوّاد على العود، الشيخ علي الدرويش على الناي، مسجّلٌ لشركة بيضافون في بيروت عام 1924.
+                                </span>
                                 </div>
                             </label>
                         </div>
