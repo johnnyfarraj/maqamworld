@@ -128,9 +128,10 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" style="background: #ddd5c7" data-song="/demo/iqaa/tabla/hachaa_4_4.mp3">
+                    <div class="track demo-track" data-song="/demo/iqaa/tabla/hachaa_4_4.mp3">
                         <div class="radio">
                             <label>
+                            	<div class="thumb-area"><img src="/img/tabla.png" class=""></div>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Iqa‘ Hacha‘ 4/4</b>
@@ -163,9 +164,10 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
                     
-                    <div class="track" style="background: #ddd5c7" data-song="/demo/iqaa/tabla/hachaa_2_4.mp3">
+                    <div class="track demo-track" data-song="/demo/iqaa/tabla/hachaa_2_4.mp3">
                         <div class="radio">
                             <label>
+                            	<div class="thumb-area"><img src="/img/tabla.png" class=""></div>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Iqa‘ Hacha‘ 2/4</b>
@@ -198,9 +200,10 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
                     
-                    <div class="track" style="background: #ddd5c7" data-song="/demo/iqaa/tabla/hachaa_6_4.mp3">
+                    <div class="track demo-track" data-song="/demo/iqaa/tabla/hachaa_6_4.mp3">
                         <div class="radio">
                             <label>
+                            	<div class="thumb-area"><img src="/img/tabla.png" class=""></div>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Iqa‘ Hacha‘ 6/4</b>

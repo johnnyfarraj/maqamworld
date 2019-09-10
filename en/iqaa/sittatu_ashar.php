@@ -88,9 +88,10 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" style="background: #ddd5c7" data-song="/demo/iqaa/tabla/sittatu_ashar_masari.mp3">
+                    <div class="track demo-track" data-song="/demo/iqaa/tabla/sittatu_ashar_masari.mp3">
                         <div class="radio">
                             <label>
+                            	<div class="thumb-area"><img src="/img/tabla.png" class=""></div>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Iqa‘ Sittatu ‘Ashar Masri 32/4</b>

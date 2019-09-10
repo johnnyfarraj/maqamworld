@@ -105,12 +105,7 @@ include($ROOT . 'inc/head.php');
                     <div class="track demo-track" data-song="/demo/iqaa/tabla/aqsaq_form1.mp3">
                         <div class="radio">
                             <label>
-                            	<!-- Image thumbnail -->
-                            	<div class="thumb-area">
-                            		<img src="/img/tabla.png" class="">
-                            	</div>
-
-                            	<!-- Song meta -->
+                            	<div class="thumb-area"><img src="/img/tabla.png" class=""></div>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Iqa‘ Aqsaq 9/8 - Form I</b>
@@ -189,11 +184,7 @@ include($ROOT . 'inc/head.php');
                     <div class="track demo-track" data-song="/demo/iqaa/tabla/aqsaq_form2.mp3">
                         <div class="radio">
                             <label>
-                            	<!-- Image thumbnail -->
-                            	<div class="thumb-area">
-                            		<img src="https://images-na.ssl-images-amazon.com/images/I/81WIzUJbz1L._SL1500_.jpg" class="">
-                            	</div>
-                            	<!-- Song meta -->
+                            	<div class="thumb-area"><img src="/img/tabla.png" class=""></div>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Iqa‘ Aqsaq 9/8 - Form II</b>
