@@ -86,7 +86,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>‘Ala Allah Teud (1970)</b>
-                                    <span>Wadih al-Safi (Lebano)</span>
+                                    <span>Wadih al-Safi (Libano)</span>
                                     <span>Musica di Farid al-Atrash</span>
                                 </div>
                             </label>
@@ -111,7 +111,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Min ‘Izz el-Nawm</b>
-                                    <span>Fairouz (Lebano)</span>
+                                    <span>Fairouz (Libano)</span>
                                     <span>Musica di Philemon Wehbe</span>
                                 </div>
                             </label>
@@ -124,7 +124,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Nas el-Dinye Dulab</b>
-                                    <span>Sabah (Lebano)</span>
+                                    <span>Sabah (Libano)</span>
                                 </div>
                             </label>
                         </div>

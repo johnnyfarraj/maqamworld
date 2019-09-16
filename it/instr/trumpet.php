@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "La Tromba Arabe";
-$page_description = "La Tromba Arabe";
+$page_title = "La Tromba Araba";
+$page_description = "La Tromba Araba";
 $page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab, Tromba";
 $page_language = "it";
 
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>La Tromba Arabe</h1>
-                        <h3>Una tromba usata per suonare le scale dei maqam <a href="../maqam.php">Maqams</a> arabi</h3>
+                        <h1>La Tromba Araba</h1>
+                        <h3>Una tromba usata per suonare le scale dei <a href="../maqam.php">Maqams</a> arabi</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice Degli Strumenti</a>
@@ -122,8 +122,8 @@ include($ROOT . 'inc/head.php');
                     <p>Scopri altri strumenti arabizzati:</p>
                     <ul>
 						<li><a href="accordion.php">La Fisarmonica Araba</a></li>
-						<li><a href="guitar.php">La Chitarra Elettrica Arabe</a></li>
-						<li><a href="org.php">L'Organo Elettrico Arabe</a></li>
+						<li><a href="guitar.php">La Chitarra Elettrica Araba</a></li>
+						<li><a href="org.php">L'Organo Elettrico Arabo</a></li>
 						<li><a href="keyboard.php">La Tastiera Orientale</a></li>
 						<li><a href="piano.php">Il Piano Arabo</a></li>
 						<li><a href="saxophone.php">Il Sassofono</a></li>

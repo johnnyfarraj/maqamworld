@@ -141,7 +141,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dulab Nawa Athar</b>
-                                    <span>George Abiad (Lebano)</span>
+                                    <span>George Abiad (Libano)</span>
                                     <span><img src="/img/cd.png"> Impovisations Orientales</span>
                                 </div>
                             </label>

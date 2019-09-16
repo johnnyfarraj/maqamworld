@@ -155,7 +155,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Dawr Inta Fahem</b>
-                                    <span>Su‘ad Muhammad (Lebano) fa una cover del <strong>Dawr Inta Fahem</strong> su un <a href="../maqam/huzam.php">Maqam Huzam</a> composto da Zakariyya Ahmad.
+                                    <span>Su‘ad Muhammad (Libano) fa una cover del <strong>Dawr Inta Fahem</strong> su un <a href="../maqam/huzam.php">Maqam Huzam</a> composto da Zakariyya Ahmad.
                                     </span>
                                 </div>
                             </label>
@@ -231,7 +231,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ya Dala‘ Dalla‘ (1974)</b>
-                                    <span><strong>Ya Dala‘ Dalla‘</strong> canzone di Sabah (Lebano) sul <a href="../maqam/rast.php">Maqam Rast</a> (1974, musica di Farid al-Atrash).
+                                    <span><strong>Ya Dala‘ Dalla‘</strong> canzone di Sabah (Libano) sul <a href="../maqam/rast.php">Maqam Rast</a> (1974, musica di Farid al-Atrash).
                                     </span>
                                 </div>
                             </label>

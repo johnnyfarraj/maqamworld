@@ -124,7 +124,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Marmar Zamani</b>
-                                    <span>Fairouz (Lebano)</span>
+                                    <span>Fairouz (Libano)</span>
                                     <span>(chanson traditionnelle)</span>
                                 </div>
                             </label>
@@ -156,7 +156,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Ya Wahid al-Ghid</b>
-                                    <span>Fairouz (Lebano)</span>
+                                    <span>Fairouz (Libano)</span>
                                     <span><img src="/img/cd.png"> Andalousiyyat</span>
                                 </div>
                             </label>
@@ -196,7 +196,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dulab Rahat al-Arwah</b>
                                     <span>Sabah Fakhri (Siria)</span>
-                                    <span><img src="/img/cd.png"> Festival de Beiteddine (Lebano)</span>
+                                    <span><img src="/img/cd.png"> Festival de Beiteddine (Libano)</span>
                                 </div>
                             </label>
                         </div>

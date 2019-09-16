@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Tif Ya Durri Bil Qanani</b>
-                                    <span>Coro della Facoltà di Musica - Università di Kaslik (Lebano)</span>
+                                    <span>Coro della Facoltà di Musica - Università di Kaslik (Libano)</span>
                                     <span>Musica di Omar al-Batsh</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah e Song series</span>
                                 </div>

@@ -50,11 +50,11 @@ include($ROOT . 'inc/head.php');
                     </p>
 
                     <p>
-                    Il corpo del qanum è costituito da una tavolo a forma di trapezio piatta in legno dove 81 corde sono tese in gruppi da tre, con 24  corde acute formate da 3 corde ognuna. Lo strumento viene disteso sulle ginocchia del musicista o su un piccolo tavolo. Le corde del qanum sono pizzicate da due plettri, ognuno attaccato al dito indice di ogni mano. Un lungo ponte sul lato destro dello strumento poggia su una finestra rivestita in pelle di capra (o di pesce) e consentono la risonanza delle cavità. Sul lato sinistro ogni corda passa attraverso una serie di leve di ottone che sono usate per effettuare micro variazioni tonali.
+                    Il corpo del qanum è costituito da una tavola a forma di trapezio piatta in legno dove 81 corde sono tese in gruppi da tre, con 24 corde acute raccolte in gruppi di 3 corde per ogni nota. Lo strumento viene posizionato sulle ginocchia del musicista o su un piccolo tavolo. Le corde del qanum sono pizzicate da due plettri, ognuno attaccato al dito indice di ogni mano. Un lungo ponte sul lato destro dello strumento su delle aperture rivestite in pelle di capra (o di pesce) che conferiscono la risonanza alla scatola. Sul lato sinistro ogni corda passa attraverso una serie di leve di ottone che sono usate per effettuare micro variazioni tonali.
                     </p>
 
                     <p>
-                    Siccome il qanum include solo 8 note per ogni ottava, il musicista inizialmente imposta le leve per creare la scala del <a href="../maqam.php">maqam</a> iniziale. Quando il musicista ha bisogno di modulare per un altro maqam, deve modificare l'impostazione delle leve, spostandole verso l'alto o verso il basso, con la mano sinistra mentre suona con la mano destra. Semplici alterazioni possono essere fatte usando l'unghia del pollice sinistro per aumentare temporaneamente la tonalità di alcune corde.
+                    Siccome il qanum include solo 8 note per ogni ottava, il musicista inizialmente imposta le leve per creare la scala del <a href="../maqam.php">maqam</a> iniziale. Quando il musicista ha bisogno di modulare ad un altro maqam, deve modificare l'impostazione delle leve, spostandole verso l'alto o verso il basso, con la mano sinistra mentre suona con la mano destra. Semplici alterazioni possono essere fatte usando l'unghia del pollice sinistro per aumentare temporaneamente l’intonazione di alcune corde.
                     </p>
 
                      <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=fZPY3or3D-Y&t=0s">
@@ -118,7 +118,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Abdel Halim Nuera</b>
-                                    <span>Abdel Halim Nuwayra (Egitto), il dierttore d'orchestra del Gruppo di Musica Araba, mentre suona un <a href="../form/improv.php#taqsim">taqsim</a> con il qanum sul <a href="../maqam/bayati.php">Maqam Bayati</a>.
+                                    <span>Abdel Halim Nuwayra (Egitto), il dierettore d'orchestra del Gruppo di Musica Araba, mentre suona un <a href="../form/improv.php#taqsim">taqsim</a> con il qanum sul <a href="../maqam/bayati.php">Maqam Bayati</a>.
                                     </span>
                                 </div>
                             </label>
@@ -144,7 +144,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>Scopri altri strumenti tradizionali:</p>
                     <ul>
-                        <li><a href="oud.php">Le Oud</a></li>
+                        <li><a href="oud.php">L'Oud</a></li>
                         <!--
                         <li><a href="qanun.php">Il Qanun</a></li>
                         -->

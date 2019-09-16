@@ -167,7 +167,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Taqsim al Buzuk</b>
-                                    <span>Matar Muhammad (Lebanon)</span>
+                                    <span>Matar Muhammad (Libanon)</span>
                                 </div>
                             </label>
                         </div>

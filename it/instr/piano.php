@@ -42,10 +42,10 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <p> 
-                    Anche se il piano è stato usato nella musica arabo fin dall'inizio del XX secolo, è stato usato come strumento occidentale per aggiungere colori classici alle composizioni arabe (e.g. "al-Siba wal-Gamal" di Muhammad Abdel Wahab, 1939). Con piano arabo ci riferiamno a tutti al piano suonato in modo melodico (senza armonia) coin i framework di <a href="../maqam.php">maqam</a> arabi.
+                    Anche se il piano è stato usato nella musica araba fin dall'inizio del XX secolo, è stato usato come strumento occidentale per aggiungere colori classici alle composizioni arabe (e.g. "al-Siba wal-Gamal" di Muhammad Abdel Wahab, 1939). Con piano arabo ci riferiamo comunque al piano suonato in modo melodico (senza armonia) nell’ambito della struttura del <a href="../maqam.php">Maqam</a> arabo.
                     </p>
                     <p>
-                    Il pioniere del piano arabo fu il libanese Wadih Sabra che ha suonato il piano con delle note aggiuntive (quarti di tono) durante al Cairo Arabic Music Congress del 1932. Più tardi anche il libanese Abdallah Chahine ha alterato il piano per suonare i quarti di tono e ha registrato l'album <strong>al-Nagham al-Khalid</strong> con dei <a href="../form/improv.php#taqsim">taqasim</a> sui più comuni <a href="../maqam.php">maqams</a>.
+                    Il pioniere del piano arabo fu il libanese Wadih Sabra che ha suonato il piano con delle note aggiuntive (quarti di tono) durante il Cairo Arabic Music Congress del 1932. Più tardi anche il libanese Abdallah Chahine ha alterato il piano per suonare i quarti di tono e ha registrato l'album <strong>al-Nagham al-Khalid</strong> con dei <a href="../form/improv.php#taqsim">taqasim</a> sui più comuni <a href="../maqam.php">maqams</a>.
                     </p>
                     <p>
                     Verso la fine del XX secolo il musicista e drammaturgo libanese Ziad Rahbani ha registrato molte canzoni strumentali utilizzando un piano elettrico (un Fender Rhodes) per suonare sia linee melodiche dei <a href="../maqam.php">maqam</a> che armonie Jazz-fusion.
@@ -78,7 +78,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ziad Rahbani</b>
-                                    <span>Il pianista libanese Ziad Rahbani suona un piano arabo durante la sua canzone <strong>Shu Hal-Iyyam</strong> dal suo CD Ana Moush Kafer, 1985.</span>
+                                    <span>Il pianista libanese Ziad Rahbani suona un piano arabo nella sua canzone <strong>Shu Hal-Iyyam</strong> dal suo CD Ana Moush Kafer, 1985.</span>
                                 </div>
                             </label>
                         </div>
@@ -104,8 +104,8 @@ include($ROOT . 'inc/head.php');
                     <p>Scopri altri strumenti arabizzati:</p>
                     <ul>
 						<li><a href="accordion.php">La Fisarmonica Araba</a></li>
-						<li><a href="guitar.php">La Chitarra Elettrica Arabe</a></li>
-						<li><a href="org.php">L'Organo Elettrico Arabe</a></li>
+						<li><a href="guitar.php">La Chitarra Elettrica Araba</a></li>
+						<li><a href="org.php">L'Organo Elettrico Arabo</a></li>
 						<li><a href="keyboard.php">La Tastiera Orientale</a></li>
                     	<!--
 						<li><a href="piano.php">Il Piano Arabo</a></li>

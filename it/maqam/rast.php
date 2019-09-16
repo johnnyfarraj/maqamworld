@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Ya ‘Udhayb al-Marshaf</b>
-                                    <span>Coro della Facoltà di Musica - Università di Kaslik (Lebano)</span>
+                                    <span>Coro della Facoltà di Musica - Università di Kaslik (Libano)</span>
                                     <span>Musica di Sayyed Darwish</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah et Chansons</span>
                                 </div>
@@ -121,7 +121,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Waraqu el-Asfar Shaher Ayloul</b>
-                                    <span>Fairouz (Lebano)</span>
+                                    <span>Fairouz (Libano)</span>
                                     <span>Musica di Philemon Wehbe</span>
                                 </div>
                             </label>

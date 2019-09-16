@@ -92,7 +92,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Raqsat al-Sus (1974)</b>
-                                    <span>Musica dei Fratelli Rahbani (Lebano)</span>
+                                    <span>Musica dei Fratelli Rahbani (Libano)</span>
                                     <span>Dall'operetta "Lulu"</span>
                                 </div>
                             </label>
@@ -180,7 +180,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Layli Ma Birda Bukra</b>
-                                    <span>Voce e musica di Wadih al-Safi (Lebano)</span>
+                                    <span>Voce e musica di Wadih al-Safi (Libano)</span>
                                 </div>
                             </label>
                         </div>

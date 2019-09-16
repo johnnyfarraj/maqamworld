@@ -49,7 +49,7 @@ include($ROOT . 'inc/head.php');
                         Il riqq è un piccolo tamburo a cornice portatile con i piatti. La cornice è solitamente fatta in legno (esistono alcuni modelli in alluminio), e ha un diametro tra i 22 e i 25cm. È tradizionalmente ricoperto da una pelle di pesce, anche se i riqq moderni utilizzano pelli in plastica. I piatti danno al riqq un suono distintivo. Sono fatti in ottone (di circa da 0.8mm a 0.9mm di spessore) e sono solitamente 5 (o 6) in gruppi da quattro.
                     </p>
                     <p>
-                        Il riqq può essere usato per <a href="../iqaa.php">suonare ritmi</a> molto complessi usando diteggiature intricate e può produrre dei suonio molto vari usando la pelle, la cornice o i piatti.
+                        Il riqq può essere usato per <a href="../iqaa.php">suonare ritmi</a> molto complessi usando diteggiature intricate e può produrre dei suoni molto vari usando la pelle, la cornice o i piatti.
                     </p>
                     <p>
                         Il riqq è solitamente l'unico strumento percussivo in un <em>takht</em> (il traduzionale gruppo da camera arabo) e i suonatori del riqq sono chiamati <em>dabet al-iqa‘</em> (controllori del ritmo).
@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Muhammad al-‘Arabi</b>
-                                    <span>Il suonatore di riqq egiziano Muhammad al-‘Arabi mentre esegue un solo con il riqqn (un riqq con la pelle in plastica) dove esplora molti <a href="../iqaa.php">iqa‘at</a>.
+                                    <span>Il suonatore di riqq egiziano Muhammad al-‘Arabi mentre esegue un solo con il riqq (un riqq con la pelle in plastica) dove esplora molti <a href="../iqaa.php">iqa‘at</a>.
                                     </span>
                                 </div>
                             </label>

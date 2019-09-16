@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         </span>
                     </div>
 
-                    <p>La fisaromica fece la sua comparsa nella musica araba in Egitto agli inizi del XX secolo e fu originariamente usata senza alcuna alterazione in modo da aggiungere un colore estraneo alla musica (e.g. "<em>Sahirtu</em>" di Muhammad Abdel Wahab nel 1935). Successivamente vennero aggiunte nuove note (i quarti di tono) che permisero di suonare molti dei <a href="../maqam.php">maqams</a> arabi con la corretta intonazione.
+                    <p>La fisarmonica fece la sua comparsa nella musica araba in Egitto agli inizi del XX secolo e fu originariamente usata senza alcuna alterazione in modo da aggiungere un colore estraneo alla musica (e.g. "<em>Sahirtu</em>" di Muhammad Abdel Wahab nel 1935). Successivamente vennero aggiunte nuove note (i quarti di tono) che permisero di suonare molti dei <a href="../maqam.php">maqams</a> arabi con la corretta intonazione.
                     </p>
                     <p>La fisarmonica è estremamente popolare nel genere <em>Raqs Sharqi</em> (danza del ventre) e nel <em>Sha‘bi</em>.
                     </p>
@@ -135,8 +135,8 @@ include($ROOT . 'inc/head.php');
                     	<!--
 						<li><a href="accordion.php">La Fisarmonica Araba</a></li>
 						-->
-						<li><a href="guitar.php">La Chitarra Elettrica Arabe</a></li>
-						<li><a href="org.php">L'Organo Elettrico Arabe</a></li>
+						<li><a href="guitar.php">La Chitarra Elettrica Araba</a></li>
+						<li><a href="org.php">L'Organo Elettrico Arabo</a></li>
 						<li><a href="keyboard.php">La Tastiera Orientale</a></li>
 						<li><a href="piano.php">Il Piano Arabo</a></li>
 						<li><a href="saxophone.php">Il Sassofono</a></li>

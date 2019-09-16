@@ -81,8 +81,8 @@ include($ROOT . 'inc/head.php');
                                 <div class="card-body">
                                     <h5 class="card-title">Strumenti Arabizzati</h5>
                                     <p class="card-text"><a href="instr/accordion.php">La Fisarmonica Araba</a></p>
-                                    <p class="card-text"><a href="instr/guitar.php">La Chitarra Elettrica Arabe</a></p>
-                                    <p class="card-text"><a href="instr/org.php">L'Organo Elettrico Arabe</a></p>
+                                    <p class="card-text"><a href="instr/guitar.php">La Chitarra Elettrica Araba</a></p>
+                                    <p class="card-text"><a href="instr/org.php">L'Organo Elettrico Arabo</a></p>
                                     <p class="card-text"><a href="instr/keyboard.php">La Tastiera Orientale</a></p>
                                     <p class="card-text"><a href="instr/piano.php">Il Piano Arabo</a></p>
                                     <p class="card-text"><a href="instr/saxophone.php">Il Sassofono</a></p>

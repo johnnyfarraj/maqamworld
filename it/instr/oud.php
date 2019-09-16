@@ -46,19 +46,19 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <p>
-                    L'Oud è un degli strumenti più popolari nella musica araba. Il suo nome significa "una sottile striscia di legno" in arabo, e si riferisce alla striscia di legno utilizzato per fare il suo corpo a forma di pera. Il manico dell'oud è corto rispetto alla grandezza del suo corpo ed è senza tasti. Questo permetto all'oud di avere un'intonazione eccellente e lo rende ideale per suonare i <a href="../maqam.php">maqams</a> arabi.
+                    L'Oud è uno degli strumenti più popolari nella musica araba. Il suo nome significa "una sottile striscia di legno" in arabo, e si riferisce alle strisce di legno utilizzate per fare il suo corpo a forma di pera. Il manico dell'oud è corto rispetto alla grandezza del suo corpo ed è senza tasti. Questo permetto all'oud di avere un'intonazione eccellente e lo rende ideale per suonare i <a href="../maqam.php">maqams</a> arabi.
 					</p>
 
                     <p>
-                    L'oud di solito è formato da 5 paia di corde accordate all'unisono e una singola corda bassa, anche se alcuni oud hanno una coppia di corde un più. L'accordatura più comune (dal basso verso l'alto) è Do, Fa, La, Re, Sol, Do, il che rende tutti gli intervalli (tranne tra il F e il A) delle quarte perfette. Le corde storicamente venivano ricavate da viscere di animali e pizzicate da un plettro chiamato <em>risha</em> (traduzione araba di piuma). Le corde moderne sono fatte in acciaio arrotolato sopra il nylon e i risha moderni vengono fatti in plastica, guscio di tartaruga, corno di animali o anche in bamboo.
+                    L'oud di solito è formato da 5 paia di corde accordate all'unisono e una singola corda bassa, anche se alcuni oud hanno una coppia di corde un più. L'accordatura più comune (dal basso verso l'alto) è Do, Fa, La, Re, Sol, Do, il che rende tutti gli intervalli (tranne tra il F e il A) delle quarte giuste. Le corde storicamente venivano ricavate da viscere di animali e pizzicate da un plettro chiamato <em>risha</em> (traduzione araba di piuma). Le corde moderne sono fatte in acciaio arrotolato sopra il nylon e i risha moderni vengono fatti in plastica, guscio di tartaruga, corno di animali o anche in bamboo.
                     </p>
 
                     <p>
-                    L'oud ha un timbro caldo e un ampio intervallo tonale (circa 3 ottave), ed è possibile unire la parte melodica con quella ritmica grazie alla sua percussione. Questo lo rende perfetto per accompagnare un cantante. È lo strumento preferito dai compositori per scrivere nuove melodie. I <a href="../form/improv.php#taqsim">taqasim</a> di oud sono molto popolari nei concerti e nelle registrazioni.
+                    L'oud ha un timbro caldo e un ampio intervallo tonale (circa 3 ottave), ed è possibile unire la parte melodica con quella ritmica grazie alla sua caratteristica percussiva. Questo lo rende perfetto per accompagnare un cantante. È lo strumento preferito dai compositori per scrivere nuove melodie. I <a href="../form/improv.php#taqsim">taqasim</a> di oud sono molto popolari nei concerti e nelle registrazioni.
                     </p>
 
                     <p>
-                    L'oud arabo è lo stesso strumento che esiste in molte altre nazioni (come il Turchia, Grecia, Iran) con qualche differenza nella dimensione, nello stile e nel timbro. Il liuto europea è un discendente dell'oud, da cui prende il nome (al-oud).
+                    L'oud arabo è lo stesso strumento che esiste in molte altre nazioni (come in Turchia, Grecia, Iran) con qualche differenza nella dimensione, nello stile e nel timbro. Il liuto europeo è un discendente dell'oud, da cui prende il nome (al-oud).
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=dDrVYyoMi-4&t=0s">
@@ -139,7 +139,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>‘Amer ‘Ammuri</b>
-                                    <span>Sil suonatore di oud siriano ‘Amer ‘Ammouri mentre suona un oud <a href="../form/improv.php#taqsim">Taqsim</a> sul <a href="../maqam/bayati.php">Maqam Bayati</a>, come parte della Sabah Fakhri's orchestra (registrato al teatro dell'opera del Cairo).
+                                    <span>Il suonatore di oud siriano ‘Amer ‘Ammouri mentre suona un oud <a href="../form/improv.php#taqsim">Taqsim</a> sul <a href="../maqam/bayati.php">Maqam Bayati</a>, come parte della Sabah Fakhri's orchestra (registrato al teatro dell'opera del Cairo).
                                     </span>
                                 </div>
                             </label>
@@ -149,7 +149,7 @@ include($ROOT . 'inc/head.php');
                     <p>Scopri altri strumenti tradizionali:</p>
                     <ul>
                     	<!--
-                        <li><a href="oud.php">Le Oud</a></li>
+                        <li><a href="oud.php">L'Oud</a></li>
                         -->
                         <li><a href="qanun.php">Il Qanun</a></li>
                         <li><a href="nay.php">Il Nay</a></li>

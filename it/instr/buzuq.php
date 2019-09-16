@@ -38,17 +38,17 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/buzuq.jpg" alt="Il Buzuq">
-                        <span>Due buzuq fatti in Lebano. &copy; MaqamWorld</span>
+                        <span>Due buzuq fatti in Libano. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/buzuq.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Buzuq</a>
                     </div>
 
-                    <p>Il buzuq è uno strumento a corda della famiglia degli <a href="oud.php">Oud</a> con un piccolo corpo e un lungo manico avente tasti. È simile, nella forma, al bouzouki, strumento greco, e al saz, strumento turco. Il bazuq è originariamente uno strumento popolare del mediterraneo orientale (Palestina, Giordania, Lebano e Siria) e viene spesso suonato da solo. Viene comunque inserito nella lista degli altri strumenti tradizionali in quanto è stato usato nella musica pop araba nel corso del XX secolo. Da allora è stato usato in molte registrazione e concerti diventando parte del complesso musicale arabo.
+                    <p>Il buzuq è uno strumento a corda della famiglia degli <a href="oud.php">Oud</a> con un piccolo corpo e un lungo manico avente tasti. È simile, nella forma, al bouzouki, strumento greco, e al saz, strumento turco. Il buzuq è originariamente uno strumento popolare del mediterraneo orientale (Palestina, Giordania, Libano e Siria) e viene spesso suonato da solo. Viene comunque inserito nella lista degli altri strumenti tradizionali in quanto è stato usato nella musica pop araba nel corso del XX secolo. Da allora è stato usato in molte registrazione e concerti diventando parte del complesso musicale arabo.
                     </p>
                     <p>
-                    Il buzuq tradizionale è formato da due insiemi di corde metalliche, una doppia (C4) e una tripla (G3), suonato da un sottile pezzo di corno o un plettro di plastica. I buzuq al giorno d'oggi invece sono formati da tre insiemi di corde in modo da espandere la qualità sonora. Le corde metalliche, insieme alle chiavi di accordatura metalliche (identiche a quelle della chitarra) danno allo strumento un suono brillante, mentre i tasti sul manico coprono la maggior parte dei quarti di tono. Questo, e il fatto che il musicista possa muovere leggermente i tasti in modo da aggiustare la tonalità, fanno si che il buzuq possa suonare la maggior parte delle scale dei <a href="../maqam.php">maqam</a> con una buona precisione.
+                    Il buzuq tradizionale è formato da due insiemi di corde metalliche, una doppia (C4) e una tripla (G3), suonato da un sottile pezzo di corno o un plettro di plastica. I buzuq al giorno d'oggi invece sono formati da tre insiemi di corde in modo da da espanderne l’estensione. Le corde metalliche, insieme alle chiavi di accordatura metalliche (identiche a quelle della chitarra) danno allo strumento un suono brillante, mentre i tasti sul manico coprono la maggior parte dei quarti di tono. Questo, e il fatto che il musicista possa muovere leggermente i tasti in modo da aggiustare la tonalità, fanno si che il buzuq possa suonare la maggior parte delle scale dei <a href="../maqam.php">maqam</a> con una buona precisione.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=isAhZyRcA0M&t=0s">
@@ -95,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Matar Muhammad</b>
-                                    <span>Il libanese Matar Muhammad, virtuoso del buzuq, suona un <a href="../form/improv.php#taqsim">Taqsim</a> con il buzuq in un concerto. Il taqasim di Muhammad porta il buzuq allo stesso livello degli altri strumenti tradizionali arabi per la loro complessità, tecnica, abbellimento, modulazione del <a href="../maqam.php">maqam</a> e lunghezza.
+                                    <span>Il libanese Matar Muhammad, virtuoso del buzuq, suona un <a href="../form/improv.php#taqsim">Taqsim</a> con il buzuq in un concerto. Il taqsim di Muhammad porta il buzuq allo stesso livello degli altri strumenti tradizionali arabi per la loro complessità, tecnica, abbellimento, modulazione del <a href="../maqam.php">maqam</a> e lunghezza.
                                     </span>
                                 </div>
                             </label>
@@ -137,7 +137,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>Scopri altri strumenti tradizionali:</p>
                     <ul>
-                        <li><a href="oud.php">Le Oud</a></li>
+                        <li><a href="oud.php">L'Oud</a></li>
                         <li><a href="qanun.php">Il Qanun</a></li>
                         <li><a href="nay.php">Il Nay</a></li>
                         <li><a href="violin.php">Il Violino</a></li>

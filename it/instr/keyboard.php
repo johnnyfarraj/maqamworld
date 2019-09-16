@@ -91,8 +91,8 @@ include($ROOT . 'inc/head.php');
                     <p>Scopri altri strumenti arabizzati:</p>
                     <ul>
 						<li><a href="accordion.php">La Fisarmonica Araba</a></li>
-						<li><a href="guitar.php">La Chitarra Elettrica Arabe</a></li>
-						<li><a href="org.php">L'Organo Elettrico Arabe</a></li>
+						<li><a href="guitar.php">La Chitarra Elettrica Araba</a></li>
+						<li><a href="org.php">L'Organo Elettrico Arabo</a></li>
                     	<!--
 						<li><a href="keyboard.php">La Tastiera Orientale</a></li>
 						-->

@@ -149,7 +149,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Habibi Kullama Habba al-Hawa (2000)</b>
-                                    <span>Fairouz (Lebano)</span>
+                                    <span>Fairouz (Libano)</span>
                                     <span>Musica di Fratelli Rahbani</span>
                                 </div>
                             </label>

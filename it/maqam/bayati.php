@@ -120,7 +120,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mijana e ‘Ataba</b>
-                                    <span>Wadih al-Safi (Lebano)</span>
+                                    <span>Wadih al-Safi (Libano)</span>
                                     <span>(Musica del Lebanese Folklore)</span>
                                 </div>
                             </label>
@@ -158,7 +158,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Rayt Minnun (Taqsim al Qanun)</b>
-                                    <span>Fairouz (Lebano)</span>
+                                    <span>Fairouz (Libano)</span>
                                     <span>Musica di Philemon Wehbe</span>
                                 </div>
                             </label>
@@ -171,7 +171,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Rayt Minnun</b>
-                                    <span>Fairouz (Lebano)</span>
+                                    <span>Fairouz (Libano)</span>
                                     <span>Musica di Philemon Wehbe</span>
                                 </div>
                             </label>
@@ -196,7 +196,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Bayati Iskandar Shalfun</b>
-                                    <span>Ensemble Morkos (Lebano)</span>
+                                    <span>Ensemble Morkos (Libano)</span>
                                     <span><img src="/img/cd.png"> Cèdre</span>
                                 </div>
                             </label>

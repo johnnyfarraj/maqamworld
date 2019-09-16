@@ -219,7 +219,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ba‘attilak Ya Habib el-Ruh</b>
                                     <span>(Maqam Shadd ‘Araban)</span>
-                                    <span>Fairouz (Lebano)</span>
+                                    <span>Fairouz (Libano)</span>
                                     <span>Musica di Ziad Rahbani</span>
                                 </div>
                             </label>

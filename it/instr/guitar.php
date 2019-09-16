@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "La Chitarra Elettrica Arabe";
-$page_description = "La Chitarra Elettrica Arabe";
+$page_title = "La Chitarra Elettrica Araba";
+$page_description = "La Chitarra Elettrica Araba";
 $page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab, Chitarra Elettrica Arabe";
 $page_language = "it";
 
@@ -29,7 +29,7 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>La Chitarra Elettrica Arabe</h1>
+                        <h1>La Chitarra Elettrica Araba</h1>
                         <h3>Suona melodie e accordi semplici</h3>
                     </div>
 
@@ -84,9 +84,9 @@ include($ROOT . 'inc/head.php');
                     <ul>
 						<li><a href="accordion.php">La Fisarmonica Araba</a></li>
                     	<!--
-						<li><a href="guitar.php">La Chitarra Elettrica Arabe</a></li>
+						<li><a href="guitar.php">La Chitarra Elettrica Araba</a></li>
 						-->
-						<li><a href="org.php">L'Organo Elettrico Arabe</a></li>
+						<li><a href="org.php">L'Organo Elettrico Arabo</a></li>
 						<li><a href="keyboard.php">La Tastiera Orientale</a></li>
 						<li><a href="piano.php">Il Piano Arabo</a></li>
 						<li><a href="saxophone.php">Il Sassofono</a></li>

@@ -92,7 +92,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Munyati ‘Azza Istibari</b>
-                                    <span>Coro della Facoltà di Musica - Università di Kaslik (Lebano)</span>
+                                    <span>Coro della Facoltà di Musica - Università di Kaslik (Libano)</span>
                                     <span>Musica di Sayyed Darwish</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah e Song series</span>
                                 </div>

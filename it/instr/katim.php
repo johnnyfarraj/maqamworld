@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Il Katem</h1>
-                        <h3>Un tamburo a cornice che da un supporto netto</h3>
+                        <h3>Un tamburo a cornice di supporto</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice Degli Strumenti</a>
@@ -45,7 +45,7 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/katim.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Katèm</a>
                     </div>
 
-                    <p> Il Katem (dal verbo <em>katama</em>, silenziare o smorzare) è un pesante tamburo a cornice con un suono soffocato. Il katim è generalmente incastrato tra le ginocchia dei musicisti e viene suonato con le mani invece che con le dita. La maggior parte dei katim di oggi hanno pelli in plastica e sono accordabili. Il ruolo principale del katim è quello di supportare gli altri strumenti nella sezione ritmica accentuando i suoni base "<em>dum</em>" e "<em>tak</em>" con più abbellimenti.
+                    <p> Il Katem (dal verbo <em>katama</em>, silenziare o smorzare) è un pesante tamburo a cornice con un suono soffocato. Il katim è generalmente tenuto stretto tra le ginocchia dei musicisti e viene suonato con le mani invece che con le dita. La maggior parte dei katim di oggi hanno pelli in plastica e sono accordabili. Il ruolo principale del katim è quello di supportare gli altri strumenti nella sezione ritmica accentuando i suoni base "<em>dum</em>" e "<em>tak</em>" con più abbellimenti.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=cU1uHX74qkE&t=0s">

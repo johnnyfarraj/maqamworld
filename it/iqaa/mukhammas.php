@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Badri Adir Kas al-Tila</b>
-                                    <span>Coro della Facoltà di Musica - Università di Kaslik (Lebano)</span>
+                                    <span>Coro della Facoltà di Musica - Università di Kaslik (Libano)</span>
                                     <span>Musica di by Muhammad ‘Uthman</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah e Song series</span>
                                 </div>

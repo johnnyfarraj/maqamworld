@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Il Violino Arabe";
-$page_description = "Il Violino Arabe";
+$page_title = "Il Violino Arabo";
+$page_description = "Il Violino Arabo";
 $page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab, Violino";
 $page_language = "it";
 
@@ -29,7 +29,7 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Il Violino Arabe</h1>
+                        <h1>Il Violino Arabo</h1>
                         <h3>Chiamato anche <em>Kamanja</em> o <em>Kaman</em> in arabo</h3>
                     </div>
 
@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/violin.jpg" alt="Il Violino">
-                        <span>Violon &copy; 2018 MaqamWorld</span>
+                        <span>Violino &copy; 2018 MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
@@ -46,7 +46,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <p>
-                        Il violino (chiamato <em>kamanja</em> o <em>kaman</em> in arabo) è stato aggiunto ai gruppi arabi verso la fine del IXX secolo e sostituì strumenti simili locali come la <em>kamanja</em>, la <em>rababa</em> e la <em>joza</em>. Il violino può essere considerato l'esempio migliore di strumento arabizzato, è stato a lungo naturalizzato, e ha ottenuto la sua accordatura, la sua tecnica e il suo stile. Il violino da un suono essenziale alla musica araba allo stesso livello dell'<a href="oud.php">oud</a> e del <a href="qanun.php">qanun</a>.
+                        Il violino (chiamato <em>kamanja</em> o <em>kaman</em> in arabo) è stato aggiunto ai gruppi arabi verso la fine del IXX secolo e sostituì strumenti simili locali come la <em>kamanja</em>, la <em>rababa</em> e la <em>joza</em>. Il violino può essere considerato l'esempio migliore di strumento arabizzato, è stato a lungo naturalizzato, e ha ottenuto la sua accordatura, la sua tecnica e il suo stile. Il violino dà un suono essenziale alla musica araba allo stesso livello dell'<a href="oud.php">oud</a> e del <a href="qanun.php">qanun</a>.
                     </p>
                     <p>
                         Anche se vengono utilizzate varie accordature quella tradizionale araba è formata da quarte e quinte (Sol3, Re4, Sol4, Re5). Essendo uno strumento senza tasti il violino può produrre tutte le sfumature di intonazione del sistema di <a href="../maqam.php">maqam</a> arabi.
@@ -115,7 +115,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Abdo Dagher</b>
-                                    <span>Il violinista egiziano Abdo Dagher e il suo gruppo mentre suonano una composizione strumentale Sama‘i <a href="../maqam/kurd.php">Maqam Kurd</a>, che include un solo di violino e di <a href="qanun.php">qanun</a>./span>
+                                    <span>Il violinista egiziano Abdo Dagher e il suo gruppo mentre suonano una composizione strumentale Sama‘i <a href="../maqam/kurd.php">Maqam Kurd</a>, che include un solo di violino e di <a href="qanun.php">qanun</a>.</span>
                                 </div>
                             </label>
                         </div>
@@ -139,7 +139,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>Scopri altri strumenti tradizionali:</p>
                     <ul>
-                        <li><a href="oud.php">Le Oud</a></li>
+                        <li><a href="oud.php">L'Oud</a></li>
                         <li><a href="qanun.php">Il Qanun</a></li>
                         <li><a href="nay.php">Il Nay</a></li>
                         <!--

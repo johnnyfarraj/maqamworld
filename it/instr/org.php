@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "L'Organo Elettrico Arabe";
-$page_description = "L'Organo Elettrico Arabe";
+$page_title = "L'Organo Elettrico Arabo";
+$page_description = "L'Organo Elettrico Arabo";
 $page_keywords = "musica tradizionale araba, maqam, strumenti, forme, jins, iqa‘, iqaa, ritmo, oud, qanun, nay, quarti di tono, tarab, Organo Elettrico Arabe";
 $page_language = "it";
 
@@ -29,7 +29,7 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>L'Organo Elettrico Arabe</h1>
+                        <h1>L'Organo Elettrico Arabo</h1>
                         <h3>Organo elettrico del 1970 con l'aggiunta dei quarti di tono</h3>
                     </div>
 
@@ -41,7 +41,7 @@ include($ROOT . 'inc/head.php');
                         <span>Il pioniere dell'organo Magdi el-Husseini (Egitto)</span>
                     </div>
 
-                    <p>L'organo elettrico (chiamato comunemente <em>org</em> in arabo, dal francese "orgue") divenne molto popolare nella musica araba dalla fine degli anni '60 e poi negli anni '70. Il suo pioniere e superstar fu il pianista egiziano Magdi el-Husseini. L'organo fu alterato per poter suonare correttamente i quarti di tono (come per la fisarmonica) in modo da permettere di suonare la maggior parte delle scale dei <a href="../maqam.php">maqams</a>. L'organo fu usato per suonare una combinazione di frasi melodiche e accordi semplici. L''organo e <a href="guitar.php">la chitarra elettrica</a> hanno creato un suono distintivo che ha contrasegnato la musica araba da quel decennio.
+                    <p>L'organo elettrico (chiamato comunemente <em>org</em> in arabo, dal francese "orgue") divenne molto popolare nella musica araba dalla fine degli anni '60 e poi negli anni '70. Il suo pioniere e superstar fu il pianista egiziano Magdi el-Husseini. L'organo fu alterato per poter suonare correttamente i quarti di tono (come per la fisarmonica) in modo da permettere di suonare la maggior parte delle scale dei <a href="../maqam.php">maqams</a>. L'organo fu usato per suonare una combinazione di frasi melodiche e accordi semplici. L''organo e <a href="guitar.php">la chitarra elettrica</a> hanno creato un suono distintivo che ha contrassegnato la musica araba di quel decennio.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=Ptd3R51Qj-s&t=2126">
@@ -54,7 +54,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Magdi el-Husseini</b>
-                                    <span><strong>Qari'at al-Fingan</strong> canzone di Abdel Halim Hafez (1976, musica di Muhammad al-Mugi) insieme a un organista egizione Magdi el_Husseini e Hani Mehanna (entambi parte dell'Orchestra di Diamanti).</span>
+                                    <span><strong>Qari'at al-Fingan</strong> canzone di Abdel Halim Hafez (1976, musica di Muhammad al-Mugi) con gli organisti egiziani Magdi el-Husseini e Hani Mehanna (entambi parte dell'Orchestra di Diamanti).</span>
                                 </div>
                             </label>
                         </div>
@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Intervista a Magdi el-Husseini</b>
-                                    <span>Intervista a Magdi el-Husseini sulla sua esperienza nell'incontrare il cantante Abdel Halim Hafez e nel suonare nella sua orchestra.</span>
+                                    <span>Intervista a Magdi el-Husseini sulla sua esperienza nell’incontro il cantante Abdel Halim Hafez e nel suonare nella sua orchestra.</span>
                                 </div>
                             </label>
                         </div>
@@ -96,9 +96,9 @@ include($ROOT . 'inc/head.php');
                     <p>Scopri altri strumenti arabizzati:</p>
                     <ul>
 						<li><a href="accordion.php">La Fisarmonica Araba</a></li>
-						<li><a href="guitar.php">La Chitarra Elettrica Arabe</a></li>
+						<li><a href="guitar.php">La Chitarra Elettrica Araba</a></li>
                     	<!--
-						<li><a href="org.php">L'Organo Elettrico Arabe</a></li>
+						<li><a href="org.php">L'Organo Elettrico Arabo</a></li>
 						-->
 						<li><a href="keyboard.php">La Tastiera Orientale</a></li>
 						<li><a href="piano.php">Il Piano Arabo</a></li>

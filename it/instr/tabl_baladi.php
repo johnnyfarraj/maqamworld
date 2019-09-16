@@ -49,7 +49,7 @@ include($ROOT . 'inc/head.php');
                         Il tabl baladi è un grande tamburo con la struttura in legno e una pesante pelle su entrambi i lati. È legato attorno alle spalle del musicista tramite una cintura ed è suonato con due bacchette: La bacchetta spessa è usata per il suono <em>dum</em> ed è suonato con la mano predominante mentre la bacchetta più sottile è usata per ottenere il suono <em>tak</em> ed è suonata con l'altra mano.
                     </p>
 
-                    <p>Il tabl baladi è ideale per gli ambienti aperti (<em>baladi</em> significa "dal villaggio") e può produrre un ritmo adatto  per le danze come la <em>Dabke</em> insieme ad altri strumenti che producono un suono ad alto volume come il <em>Mizmar</em>. Il Tabl Baladi non suona <a href="../iqaa.php">ritmi</a> complessi ed è ideali per un ritmo "pesante" in 4/4 come il <a href="../iqaa/baladi.php">Baladi</a>, il <a href="../iqaa/saidi.php">Saïdi</a>,  e specialmente per il <a href="../iqaa/nawari.php">Nawari</a>.
+                    <p>Il tabl baladi è ideale per gli ambienti aperti (<em>baladi</em> significa "dal villaggio") e può produrre un ritmo adatto  per le danze come la <em>Dabke</em> insieme ad altri strumenti che producono un suono ad alto volume come il <em>Mizmar</em>. Il Tabl Baladi non suona <a href="../iqaa.php">ritmi</a> complessi ed è ideale per un solido ritmo in 4/4 come il <a href="../iqaa/baladi.php">Baladi</a>, il <a href="../iqaa/saidi.php">Saïdi</a>,  e specialmente per il <a href="../iqaa/nawari.php">Nawari</a>.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=D6Ex5WiW6vc">

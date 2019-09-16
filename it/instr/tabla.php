@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/tabla.jpg" alt="The Tabla">
-                        <span>Un tabla con il corpo in alluminio e la pelle in plastica di <strong>Gawharet El-Fan</strong>, Egitto. &copy; MaqamWorld</span>
+                        <span>Una tabla con il corpo in alluminio e la pelle in plastica di <strong>Gawharet El-Fan</strong>, Egitto. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
@@ -49,13 +49,13 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <p> 
-                        La Tabla (anchye chiamato "dirbakki" in dialetto levantino o "darbuka" nelle regioni occidentali) è un tamburo a forma di calice, con la pelle fissata su un lato.
+                        La Tabla (anche chiamato "dirbakki" in dialetto levantino o "darbuka" nelle regioni occidentali) è un tamburo a forma di calice, con la pelle fissata su un lato.
                     </p>
                     <p>
-                        La Tabla tradizionali sono fatti di argilla e hanno la pelle di capra o pesce incollata e tenuta insieme saldamente con un sistema di intreccio dei fili. I tabla moderni sono costituiti da un corpo in alluminio e da una testa (Mylar) in plastica, sostituibile e accordabile.
+                        La Tabla tradizionali sono fatti di argilla e hanno la pelle di capra o pesce incollata e tenuta insieme saldamente con un sistema di intreccio dei fili. I tabla moderni sono costituiti da un corpo in alluminio e da una pelle (Mylar) in plastica, sostituibile e accordabile.
                     </p>
                     <p>
-                        La Tabla è uno strumento molto popolare nella musica folk e pop, ed è soprattutto popolare nella danza del ventre. È usato parzialmente nei generi più classici.
+                        La Tabla è uno strumento molto popolare nella musica folk e pop, ed è soprattutto popolare nella danza del ventre. È usata parzialmente nei generi più classici.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=dpSa2SEnFh8">

@@ -76,7 +76,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Yana Yana (1969)</b>
-                                    <span>Sabah (Lebano)</span>
+                                    <span>Sabah (Libano)</span>
                                     <span>Musica di Baligh Hamdi</span>
                                 </div>
                             </label>

@@ -45,7 +45,7 @@ include($ROOT . 'inc/head.php');
                         Il sassofono è uno strumento raro nella musica araba, nonostante possa produrre una buona intonazione nelle scale dei <a href="../maqam.php">maqam</a>. Non diventò mai popolare come fece la <a href="accordion.php">fisarmonica</a> e fu usato per aggiungere un suono innovativo agli arrangiamenti delle orchestre arabe.
                     </p>
                     <p>
-                        Il principale pioniere del sassofono arabo fu l'egiziano Samir Surour la cui esperienza fu nella banda militare. Surour suonò in alcune canzoni di Umm Kulthum e successivamente registrò degli album strumentali sotto il nome di <strong>Ashek el-Sax</strong> (l'amante del sax).
+                        Il principale pioniere del sassofono arabo fu l'egiziano Samir Surur la cui esperienza fu nella musica per bande militari. Surour suonò in alcune canzoni di Umm Kulthum e successivamente registrò degli album strumentali sotto il nome di <strong>Ashek el-Sax</strong> (l'amante del sax).
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=n_2qIVjgboM">
@@ -74,7 +74,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Fat el-Ma‘ad (1967)</b>
-                                    <span><strong>Fat el-Ma‘ad</strong>, canzone di Umm Kulthum (1967, musica di Baligh Hamdi) include nell'arrangiamento Farq Salama con la fisarmonica, Abdel Fattah Khayri alla chitarra elettrica e Samir Surour al sax.
+                                    <span><strong>Fat el-Ma‘ad</strong>, canzone di Umm Kulthum (1967, musica di Baligh Hamdi) include nell'arrangiamento Farq Salama con la fisarmonica, Abdel Fattah Khayri alla chitarra elettrica e Samir Surur al sax.
                                     </span>
                                 </div>
                             </label>
@@ -84,8 +84,8 @@ include($ROOT . 'inc/head.php');
                     <p>Scopri altri strumenti arabizzati:</p>
                     <ul>
 						<li><a href="accordion.php">La Fisarmonica Araba</a></li>
-						<li><a href="guitar.php">La Chitarra Elettrica Arabe</a></li>
-						<li><a href="org.php">L'Organo Elettrico Arabe</a></li>
+						<li><a href="guitar.php">La Chitarra Elettrica Araba</a></li>
+						<li><a href="org.php">L'Organo Elettrico Arabo</a></li>
 						<li><a href="keyboard.php">La Tastiera Orientale</a></li>
 						<li><a href="piano.php">Il Piano Arabo</a></li>
                     	<!--

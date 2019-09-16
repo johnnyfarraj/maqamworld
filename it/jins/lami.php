@@ -95,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Najmat (1964)</b>
-                                    <span>Voce e musica di Wadih al-Safi (Lebano)</span>
+                                    <span>Voce e musica di Wadih al-Safi (Libano)</span>
                                 </div>
                             </label>
                         </div>

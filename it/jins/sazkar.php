@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Ya Dala‘ Dalla‘ (1974)</b>
-                                    <span>Sabah (Lebano)</span>
+                                    <span>Sabah (Libano)</span>
                                     <span>Musica di Farid al-Atrash</span>
                                 </div>
                             </label>

@@ -120,7 +120,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Ahwa Qamaran</b>
-                                    <span>Ghada Chbeir (Lebano)</span>
+                                    <span>Ghada Chbeir (Libano)</span>
                                 </div>
                             </label>
                         </div>

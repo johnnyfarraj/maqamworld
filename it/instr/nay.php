@@ -46,10 +46,10 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <p>
-                    Il nay (in persiano "canna") è un flauto dolce obliquo aperto fatto di canna. Il nay era conosciuto nel vicino oriente fin dall'antichità. Solitamente è formato da 6 buchi davanti e un buco dietro usato dal pollice. I buchi vengono chiusi (per ottenere suoni diversi) tramite il polpastrello delle dita. Il nay può avere differente lunghezza, ognuno intonato a un particolare suono e chiamato con il nome della nota prodotta con il primo buco aperto (D4 nella magior parte dei casi, la nota più bassa in questo caso è il Do 4).
+                    Il nay (in persiano "canna") è un flauto dolce obliquo aperto fatto di canna. Il nay era conosciuto nel vicino oriente fin dall'antichità. Solitamente è formato da 6 buchi davanti e un buco dietro usato dal pollice. I buchi vengono chiusi (per ottenere suoni diversi) tramite il polpastrello delle dita. Il nay può avere differente lunghezza, ognuno intonato rispetto ad un particolare suono e chiamato con il nome della nota prodotta con il primo buco aperto (D4 nella magior parte dei casi, la nota più bassa in questo caso è il Do 4).
                     </p>
                     <p>
-                    Anche se molto semplice, il nay è uno degli strumenti arabi più difficile da suonare. Un buon musicista sa suonare una varietà di suoni e abbellimenti; è uno strumento molto espressivo. Il suo timbro poetico lo rende particolarmente adatto per dare sia un effetto malinconico che un effetto di gioia. È l'unico strumento a fiato usato nella musica araba, molto apprezzato per il suo suono caldo, ansimante e per le sue dinamiche e infessioni tonali.
+                    Anche se molto semplice, il nay è uno degli strumenti arabi più difficili da suonare. Un buon musicista sa suonare una varietà di suoni e abbellimenti; è uno strumento molto espressivo. Il suo timbro poetico lo rende particolarmente adatto per dare sia un effetto malinconico che un effetto di gioia. È l'unico strumento a fiato usato nella musica araba, molto apprezzato per il suo suono caldo, ansimante e per le sue dinamiche e infessioni tonali.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=JhOs_1SodTA&t=0s">
@@ -123,7 +123,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>Scopri altri strumenti tradizionali:</p>
                     <ul>
-                        <li><a href="oud.php">Le Oud</a></li>
+                        <li><a href="oud.php">L'Oud</a></li>
                         <li><a href="qanun.php">Il Qanun</a></li>
                     	<!--
                         <li><a href="nay.php">Il Nay</a></li>
