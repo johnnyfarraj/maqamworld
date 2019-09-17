@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         </span>
                     </div>
 
-                    <p>La fisarmonica fece la sua comparsa nella musica araba in Egitto agli inizi del XX secolo e fu originariamente usata senza alcuna alterazione in modo da aggiungere un colore estraneo alla musica (e.g. "<em>Sahirtu</em>" di Muhammad Abdel Wahab nel 1935). Successivamente vennero aggiunte nuove note (i quarti di tono) che permisero di suonare molti dei <a href="../maqam.php">maqams</a> arabi con la corretta intonazione.
+                    <p>La fisarmonica fece la sua comparsa nella musica araba in Egitto agli inizi del XX secolo e fu originariamente usata senza alcuna alterazione in modo da aggiungere un colore estraneo alla musica (e.g. "<em>Sahirtu</em>" di Muhammad Abdel Wahab nel 1935). Successivamente vennero aggiunte nuove note (i quarti di tono) che permisero di suonare molti dei <a href="../maqam.php">maqamat</a> arabi con la corretta intonazione.
                     </p>
                     <p>La fisarmonica è estremamente popolare nel genere <em>Raqs Sharqi</em> (danza del ventre) e nel <em>Sha‘bi</em>.
                     </p>

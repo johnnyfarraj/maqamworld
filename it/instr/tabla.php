@@ -48,11 +48,9 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/dirbakki.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Dirbakki</a>
                     </div>
 
-                    <p> 
-                        La Tabla (anche chiamato "dirbakki" in dialetto levantino o "darbuka" nelle regioni occidentali) è un tamburo a forma di calice, con la pelle fissata su un lato.
+                    <p>La Tabla (anche chiamato "dirbakki" in dialetto levantino o "darbuka" nelle regioni occidentali) è un tamburo a forma di calice, con la pelle fissata su un lato.
                     </p>
-                    <p>
-                        La Tabla tradizionali sono fatti di argilla e hanno la pelle di capra o pesce incollata e tenuta insieme saldamente con un sistema di intreccio dei fili. I tabla moderni sono costituiti da un corpo in alluminio e da una pelle (Mylar) in plastica, sostituibile e accordabile.
+                    <p>Le Tabla tradizionali sono fatte di argilla e hanno la pelle di capra o pesce incollata e tenuta insieme saldamente con un sistema di intreccio dei fili. Le tabla moderne sono costituite da un corpo in alluminio e da una pelle (Mylar) in plastica, sostituibile e accordabile.
                     </p>
                     <p>
                         La Tabla è uno strumento molto popolare nella musica folk e pop, ed è soprattutto popolare nella danza del ventre. È usata parzialmente nei generi più classici.

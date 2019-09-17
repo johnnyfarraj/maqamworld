@@ -52,7 +52,7 @@ include($ROOT . 'inc/head.php');
                     <p>Daf è una parola generica per definire il tamburo a cornice usato nel mondo Arabo, ma può avere differenti nomi in base alla località: Mazhar in Siria e Egitto o <em>Bandir</em> in Nord Africa.
                     </p>
 
-                    <p>Il daf è un tamburo a cornice circolare del diamentro di 30 cm nel tipo più piccolo e di 60 cm nel modello più largo (e grave). La cornice può essere profonda 10 cm per i diametri più piccoli e tra i 5 e i 7,5 cm per i diametri più grandi. La pelle è generalemente di capra, cervo o altre pelli naturali, ed è permanentemente incollata alla corcnice, mentre i daf moderni hanno generalemte una pelle di plastica e sono accordabili.
+                    <p>Il daf è un tamburo a cornice circolare del diamentro di 30cm nel modello più piccolo e di 60 cm in quello più largo (e grave). La cornice può essere profonda 10 cm per i diametri più piccoli e tra i 5 e i 7,5 cm per i diametri più grandi. La pelle è generalemente di capra, cervo o altre pelli naturali, ed è permanentemente incollata alla corcnice, mentre i daf moderni hanno generalemte una pelle di plastica e sono accordabili.
                     </p>
                     
                     <p>Il daf è molto popolare nella musica Sufi (dove è spesso l'unico strumento usato per accompagnare il cantante), ed è anche usato nei generi classici, folk e pop per aver una sezione ritmica più ricca.

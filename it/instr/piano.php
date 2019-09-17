@@ -45,7 +45,7 @@ include($ROOT . 'inc/head.php');
                     Anche se il piano è stato usato nella musica araba fin dall'inizio del XX secolo, è stato usato come strumento occidentale per aggiungere colori classici alle composizioni arabe (e.g. "al-Siba wal-Gamal" di Muhammad Abdel Wahab, 1939). Con piano arabo ci riferiamo comunque al piano suonato in modo melodico (senza armonia) nell’ambito della struttura del <a href="../maqam.php">Maqam</a> arabo.
                     </p>
                     <p>
-                    Il pioniere del piano arabo fu il libanese Wadih Sabra che ha suonato il piano con delle note aggiuntive (quarti di tono) durante il Cairo Arabic Music Congress del 1932. Più tardi anche il libanese Abdallah Chahine ha alterato il piano per suonare i quarti di tono e ha registrato l'album <strong>al-Nagham al-Khalid</strong> con dei <a href="../form/improv.php#taqsim">taqasim</a> sui più comuni <a href="../maqam.php">maqams</a>.
+                    Il pioniere del piano arabo fu il libanese Wadih Sabra che ha suonato il piano con delle note aggiuntive (quarti di tono) durante il Cairo Arabic Music Congress del 1932. Più tardi anche il libanese Abdallah Chahine ha alterato il piano per suonare i quarti di tono e ha registrato l'album <strong>al-Nagham al-Khalid</strong> con dei <a href="../form/improv.php#taqsim">taqasim</a> sui più comuni <a href="../maqam.php">maqamat</a>.
                     </p>
                     <p>
                     Verso la fine del XX secolo il musicista e drammaturgo libanese Ziad Rahbani ha registrato molte canzoni strumentali utilizzando un piano elettrico (un Fender Rhodes) per suonare sia linee melodiche dei <a href="../maqam.php">maqam</a> che armonie Jazz-fusion.

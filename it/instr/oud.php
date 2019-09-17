@@ -46,7 +46,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <p>
-                    L'Oud è uno degli strumenti più popolari nella musica araba. Il suo nome significa "una sottile striscia di legno" in arabo, e si riferisce alle strisce di legno utilizzate per fare il suo corpo a forma di pera. Il manico dell'oud è corto rispetto alla grandezza del suo corpo ed è senza tasti. Questo permetto all'oud di avere un'intonazione eccellente e lo rende ideale per suonare i <a href="../maqam.php">maqams</a> arabi.
+                    L'Oud è uno degli strumenti più popolari nella musica araba. Il suo nome significa "una sottile striscia di legno" in arabo, e si riferisce alle strisce di legno utilizzate per fare il suo corpo a forma di pera. Il manico dell'oud è corto rispetto alla grandezza del suo corpo ed è senza tasti. Questo permetto all'oud di avere un'intonazione eccellente e lo rende ideale per suonare i <a href="../maqam.php">maqamat</a> arabi.
 					</p>
 
                     <p>

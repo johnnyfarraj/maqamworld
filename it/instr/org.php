@@ -41,7 +41,7 @@ include($ROOT . 'inc/head.php');
                         <span>Il pioniere dell'organo Magdi el-Husseini (Egitto)</span>
                     </div>
 
-                    <p>L'organo elettrico (chiamato comunemente <em>org</em> in arabo, dal francese "orgue") divenne molto popolare nella musica araba dalla fine degli anni '60 e poi negli anni '70. Il suo pioniere e superstar fu il pianista egiziano Magdi el-Husseini. L'organo fu alterato per poter suonare correttamente i quarti di tono (come per la fisarmonica) in modo da permettere di suonare la maggior parte delle scale dei <a href="../maqam.php">maqams</a>. L'organo fu usato per suonare una combinazione di frasi melodiche e accordi semplici. L''organo e <a href="guitar.php">la chitarra elettrica</a> hanno creato un suono distintivo che ha contrassegnato la musica araba di quel decennio.
+                    <p>L'organo elettrico (chiamato comunemente <em>org</em> in arabo, dal francese "orgue") divenne molto popolare nella musica araba dalla fine degli anni '60 e poi negli anni '70. Il suo pioniere e superstar fu il pianista egiziano Magdi el-Husseini. L'organo fu alterato per poter suonare correttamente i quarti di tono (come per la fisarmonica) in modo da permettere di suonare la maggior parte delle scale dei <a href="../maqam.php">maqamat</a>. L'organo fu usato per suonare una combinazione di frasi melodiche e accordi semplici. L''organo e <a href="guitar.php">la chitarra elettrica</a> hanno creato un suono distintivo che ha contrassegnato la musica araba di quel decennio.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=Ptd3R51Qj-s&t=2126">

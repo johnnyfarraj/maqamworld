@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>La Tromba Araba</h1>
-                        <h3>Una tromba usata per suonare le scale dei <a href="../maqam.php">Maqams</a> arabi</h3>
+                        <h3>Una tromba usata per suonare le scale dei <a href="../maqam.php">Maqamat</a> arabi</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice Degli Strumenti</a>

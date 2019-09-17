@@ -41,7 +41,7 @@ include($ROOT . 'inc/head.php');
                         <span>Omar Khorshid, il pioniere della chitarra elettrica in Egitto</span>
                     </div>
 
-                    <p>La chitarra elettrica fu usata per la prima volta nella musica araba verso la fine del 1960 in Egitto, il suo pioniere fu Omar Khorshid. Ad alcune chitarre elettriche usate nella musica araba venivano aggiunti dei tasti (come per il <a href="buzuq.php">Buzuq</a>) in modo da suonare alcune scale dei <a href="../maqam.php">Maqams</a> arabi con i quarti di tono.
+                    <p>La chitarra elettrica fu usata per la prima volta nella musica araba verso la fine del 1960 in Egitto, il suo pioniere fu Omar Khorshid. Ad alcune chitarre elettriche usate nella musica araba venivano aggiunti dei tasti (come per il <a href="buzuq.php">Buzuq</a>) in modo da suonare alcune scale dei <a href="../maqam.php">maqamat</a> arabi con i quarti di tono.
                     </p>
                     
                     <p>Ma la maggior parte delle chitarre elettriche venivano usate senza nessuna alterazione o effetti e acquisirono la loro caratteristica araba dall'abbellimento . La chitarra elettrica viene usata per suonare una combinazione di linee melodiche e accordi semplici (e.g. maggiori e minori).
