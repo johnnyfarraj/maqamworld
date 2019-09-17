@@ -32,7 +32,7 @@ function curl_get_contents($url)
     $data = curl_exec($ch);
     curl_close($ch);
 
-    return $data;
+    return strip_tags($data);
 }
 $files = array();
 $cont = 0;
