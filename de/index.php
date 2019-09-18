@@ -37,6 +37,7 @@ include($ROOT . 'inc/head.php');
                         <li>Google-Suche</li>
                         <li>eine komplette Übersetzung ins 
                             <a href="/en/index.php"><strong>Englisch</strong></a>,
+                            <a href="/it/index.php"><strong>Italienisch</strong></a>,
                             <a href="/fr/index.php"><strong>Französisch</strong></a> und 
                             <a href="/ar/index.php"><strong>Arabische</strong></a> (Spanisch und Griechisch sind in Arbeit)</li>
                         <li>qualitativ bessere Bilder und Audiobeispiele</li>

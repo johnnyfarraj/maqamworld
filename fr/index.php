@@ -33,7 +33,11 @@ include($ROOT . 'inc/head.php');
 					</p>
 
                     <ul>
-                        <li>Une traduction complète en <a href="/en/index.php"><strong>anglais</strong></a>, en <a href="/ar/index.php"><strong>arabe</strong></a> et en <a href="/de/index.php"><strong>allemand</strong></a> (les traductions vers l'espagnol et le grec sont en cours).</li>
+                        <li>Une traduction complète 
+                            en <a href="/en/index.php"><strong>anglais</strong></a>, 
+                            en <a href="/it/index.php"><strong>italien</strong></a>, 
+                            en <a href="/ar/index.php"><strong>arabe</strong></a> et 
+                            en <a href="/de/index.php"><strong>allemand</strong></a> (les traductions vers l'espagnol et le grec sont en cours).</li>
                         <li>Support des écrans de toutes tailles (particulièrement les téléphones intelligents).</li>
                         <li>Recherche Google.</li>
                         <li>Un contenu plus pertinent et tenu à jour.</li>

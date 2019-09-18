@@ -41,6 +41,7 @@ include($ROOT . 'inc/head.php');
 		<a href="/en/index.php"><strong>الانكليزية</strong></a>
 		و<a href="/fr/index.php"><strong>الفرنسية</strong></a>
 		و<a href="/de/index.php"><strong>الالمانية</strong></a>
+		و<a href="/it/index.php"><strong>الايطالية</strong></a>
 		 (اللغاتان الاسبانية واليونانية قيد التنفيذ)</h5></li>
                         <li><h5>العرض المريح على جميع قياسات الشاشات</h5></li>
                         <li><h5>بحث</h5></li>
