@@ -12,7 +12,7 @@
     <li><a href="/en/form/instr_comp.php#maqtua">Maqtu‘a</a></li>
     <li><a href="/en/form/improv.php#mawwal">Mawwal</a></li>
     <li><a href="/en/form/vocal_comp.php#monologue">Monologue</a></li>
-    <li><a href="/fr/form/instr_comp.php#muqaddima">Muqaddima</a></li>
+    <li><a href="/en/form/instr_comp.php#muqaddima">Muqaddima</a></li>
     <li><a href="/en/form/vocal_comp.php#muwashah">Muwashah</a></li>
     <li><a href="/en/form/vocal_comp.php#qadd">Qadd</a></li>
     <li><a href="/en/form/vocal_comp.php#qasida">Qasida (composed)</a></li>
