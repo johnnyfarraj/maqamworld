@@ -43,10 +43,10 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/taslim.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Taslim</a>
                     </div>
 
-                    <p>Tre forme di composizioni strumentali derivate dalla musica Turca/Ottomana e sono ancora parte della musica araba d'oggi: il Sama‘i, la Longa e il Bashraf. Il sama‘i è quello sopravvissuto più a lungo dei tre, viene infatti usato per le composizioni nella musica araba ancora nel XXI secolo.
+                    <p>Tre forme di composizioni strumentali sono derivate dalla musica Turca/Ottomana e sono ancora parte della musica araba d'oggi: il Sama‘i, la Longa e il Bashraf. Il sama‘i è quello sopravvissuto più a lungo dei tre, viene infatti usato per le composizioni nella musica araba ancora nel XXI secolo.
                     </p>
                     
-                    <p>Tutte queste tre forme consistono su un ritornello ripetuto chiamato "<em>taslim</em>" e un numero differenti di versi chiamati "<em>khana</em>". Le tre composizioni sono anche legate a un <a href="../maqam.php">maqam</a e seguono il <em>sayr</em> del maqam e le sue modulazioni più popolari. Per questa ragione, il maqam (e il compositore) sono parte del nome della composizione.
+                    <p>Tutte queste tre forme consistono in un ritornello ripetuto chiamato "<em>taslim</em>" e un numero differente di versi chiamati "<em>khana</em>". Le tre composizioni sono anche legate a un <a href="../maqam.php">maqam</a> e presentano  il <em>sayr</em> di quel maqam come anche le sue modulazioni più popolari. Per questa ragione, il maqam (e il compositore) sono parte del nome della composizione.
                     </p>
 
                     <div id="samai" class="heading jins text-center full-width">
@@ -152,7 +152,7 @@ include($ROOT . 'inc/head.php');
                     
                     <p>La longa è la seconda forma musicale ottomana più popolare. È solitamente composta sul breve e saltellando <a href="../iqaa/fox.php">Iqa‘ Fox</a> per i <em>khana</em>-s, e sull' <a href="../iqaa/malfuf.php">Iqa‘ Malfuf</a> per il <em>taslim</em>.
                     </p>
-                    <p>Molte longa dell'era ottomana usavano dei maqam formati da semintoni come il <a href="../maqam/nahawand.php">Nahawand</a>, <a href="../maqam/hijaz.php">Hijaz</a> e <a href="../maqam/nikriz.php">Nikriz</a>, e usavano melodie che richiamavano la musica europea orientale.Molto compositori arabi seguono ancora questo sistema.
+                    <p>Molte longa dell'era ottomana usavano dei maqam formati da semintoni come il <a href="../maqam/nahawand.php">Nahawand</a>, <a href="../maqam/hijaz.php">Hijaz</a> e <a href="../maqam/nikriz.php">Nikriz</a>, e usavano melodie che richiamavano la musica europea orientale. Molti compositori arabi seguono ancora questo sistema.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=JnTGci4VSXo">

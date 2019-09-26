@@ -46,13 +46,13 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/muwashah.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Muwashah</a>
                     </div>
                     
-                    <p>Il Muwashah (plurale <em>Muwashahat</em>) è una forma vocale complessa basato sulla forma dei poemi classici arabi dell' Andalusia (i muwashahat sono a volte qualificati come andalusi anche se le loro melodie arrivano dalla Siria all'Egitto e risalgono a uno o due secoli fa).
+                    <p>Il Muwashah (plurale <em>Muwashahat</em>) è una forma vocale complessa basata sulla forma dei poemi classici arabi dell' Andalusia (i muwashahat sono a volte qualificati come andalusi anche se le loro melodie arrivano dalla Siria all'Egitto e risalgono a uno o due secoli fa).
                     </p>
                     
-                    <p>I Muwashahat sono spesso ritmi dispari e complessi (leggi <a href="../iqaa.php">iqa‘at</a>) partendo dal 5/4, al 7/4, 7/8, 10/8, 11/8, 13/8, 17/8 e così via. Le melodie dei muwashahat sono intricate, spesso sincopate e influenzano questi iqa‘at.
+                    <p>I Muwashahat usano spesso ritmi dispari e complessi (leggi <a href="../iqaa.php">iqa‘at</a>) partendo dal 5/4, al 7/4, 7/8, 10/8, 11/8, 13/8, 17/8 e così via. Le melodie dei muwashahat sono intricate, spesso sincopate e influenzano questi iqa‘at.
                     </p>
                     
-                    <p>La tradizione è quella di eseguire un muwashshah da un <em>mutreb</em> (cantante principale) e da un gruppo che include i coristi. Il mutrib può prendere una sezione e ripeterla più volte, ogni volta con una differente improvvisazione o modulazioni di <a href="../maqam.php">maqam</a> (questa pratica è chiamata tafrid). Questa improvvisazione è alternata ai cantanti di supporto che cantano la melodia originale.
+                    <p>La tradizione è quella di eseguire un muwashshah da un <em>mutreb</em> (cantante principale) e da un gruppo che include i coristi. Il mutreb può prendere una sezione e ripeterla più volte, ogni volta con una differente improvvisazione o modulazioni di <a href="../maqam.php">maqam</a> (questa pratica è chiamata tafrid). Questa improvvisazione è alternata ai cantanti di supporto che cantano la melodia originale.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=eK6iCYSuaKI">
@@ -112,7 +112,7 @@ include($ROOT . 'inc/head.php');
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/qadd.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Qadd</a>
                     </div>
-                    <p> Il qadd (plurale <em>qudud</em>) è una canzone tradizionale leggera e semplice, nata ad Aleppo, Siria. I <em>qudud</em> sono solitamente eseguiti alla fine del wasla, dopo pezzi pesanti come l'adwar, il qasa'id o il muwashahat. I testi dei <em>qudud</em> sono informali in dialetto di aleppo (a volte in egiziano) e sono molto accessibili, pratici e facili da memorizzare.
+                    <p> Il qadd (plurale <em>qudud</em>) è una canzone tradizionale leggera e semplice, nata ad Aleppo, Siria. I <em>qudud</em> sono solitamente eseguiti alla fine del wasla, dopo pezzi pesanti come l'adwar, il qasa'id o i muwashahat. I testi dei <em>qudud</em> sono in dialetto informale di aleppo (a volte in egiziano) e sono molto accessibili, pratici e facili da memorizzare.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=zX7gJKlDDyY">
@@ -277,7 +277,7 @@ include($ROOT . 'inc/head.php');
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/ughniya.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Ughniya</a>
                     </div>
-                    <p>L'Ughniya (plurale <em>aghani</em>) è una canzone lunga sviluppata attraverso la metà del XX secolo. L' ughniya può durare fino a un ora durante i concerti e ha una lunga introduzione (vedi <a href="instr_comp.php#muqaddima">la muqaddima</a>) e diverse sezioni con modulazioni di <a href="../maqam.php">maqam</a> complete. L' ughniya è eseguita solitamente da una grande orchestra insieme a dei cantanti molto famosi come Umm Kulthum, Abdel Halim Hafez e Warda.
+                    <p>L'Ughniya (plurale <em>aghani</em>) è una canzone lunga sviluppata durante la metà del XX secolo. L' ughniya può durare fino a un'ora durante i concerti e ha una lunga introduzione (vedi <a href="instr_comp.php#muqaddima">la muqaddima</a>) e diverse sezioni con modulazioni di <a href="../maqam.php">maqam</a> complete. L' ughniya è eseguita solitamente da una grande orchestra insieme a dei cantanti molto famosi come Umm Kulthum, Abdel Halim Hafez e Warda.
                     </p>
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=Ptd3R51Qj-s&t=723s">
                         <div class="radio">
@@ -302,7 +302,7 @@ include($ROOT . 'inc/head.php');
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/qasida.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Qasida</a>
                     </div>
-                    <p>La Qasida (plurale <em>Qasa'ed</em>) è il metro di un poema arabo calssico, e la forma della composizione utilizza questo poema come testo. La Qasida è solitamente eseguito da un cantante solista acoompagnato da un gruppo, e tende ad essere lungo ed elaborato per esaltare le abilità del cantante.
+                    <p>La Qasida (plurale <em>Qasa'ed</em>) è il metro di un poema arabo calssico, e la forma della composizione utilizza questo poema come testo. La Qasida è solitamente eseguita da un cantante solista acoompagnato da un gruppo, e tende ad essere lunga ed elaborata per esaltare le abilità del cantante.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=5z8LvG5tfOE">
@@ -315,7 +315,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Qasida al-Atlal (1966)</b>
-                                    <span>La Qasida <strong>al-Atlal</strong> di Umm Kulthum (1966) composto da Riyad al-Sunbati.</span>
+                                    <span>La Qasida <strong>al-Atlal</strong> di Umm Kulthum (1966) composta da Riyad al-Sunbati.</span>
                                 </div>
                             </label>
                         </div>
@@ -324,7 +324,7 @@ include($ROOT . 'inc/head.php');
                     <div id="monologue" class="heading jins text-center full-width">
                         <h3>Il Monologo</h3>
                     </div>
-                    <p> Il monologo è una composizione basata, vagamente, sull'aria dell'opera. Era una forma molto popolare verso la metà del XX secolo. Il monologo è eseguito da un cantante accompagnato da un gruppo, non ha nessuna sezione ripetuta, il che vuol dire introdurre nuove frasi e melodie dall'inizio alla fine.
+                    <p> Il monologo è una composizione basata, vagamente, sull'aria dell'Opera. Era una forma molto popolare verso la metà del XX secolo. Il monologo è eseguito da un cantante accompagnato da un gruppo, non ha nessuna sezione ripetuta, il che vuol dire che continua ad introdurre nuove frasi e melodie dall'inizio alla fine.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=r3mrDcKXxd0">
@@ -346,7 +346,7 @@ include($ROOT . 'inc/head.php');
                     <div id="duet" class="heading jins text-center full-width">
                         <h3>Il Duetto</h3>
                     </div>
-                    <p>Il duetto è un pezzo composto per due cantanti, spesso un uomo e una donna, che cantano insieme o uno per volta. Il duetto era molto popolare all'inizio del XX secolo nei drammi e nei film. Il testo di un duetto tende ad essere, romantico, drammatico e teatrale.
+                    <p>Il duetto è un pezzo composto per due cantanti, spesso un uomo e una donna, che cantano insieme o uno per volta. Il duetto era molto popolare all'inizio del XX secolo nei drammi e nei film. Il testo di un duetto tende ad essere romantico, drammatico e teatrale.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=is-xYmL9YVc">
@@ -390,7 +390,7 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/wasla.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Wasla</a>
                     </div>
                     
-                    <p> Il wasla (plurale <em>waslat</em>) è una forma che contiene altre forme che sono eseguite in modo consecutivo come fossero una singola forma, solitamente basate sullo stesso <a href="../maqam.php">maqam</a>. Un wasla corto può durare 5-10 minuti, mentre un wasla più lungo può arrivare fino a un'ora. I pezzi all'interno del wasla sono ordinati in modo che inizi in modo lento e definisca il maqam (spesso con pezzi strumentali) per poi presentare pezzi complessi e difficile da cantare. Il wasla finisce con un pezzo semplice e corto, creando così un picco a metà della sua esecuzione.
+                    <p> Il wasla (plurale <em>waslat</em>) è una forma che contiene altre forme che sono eseguite in modo consecutivo come fossero una singola forma, solitamente basate sullo stesso <a href="../maqam.php">maqam</a>. Un wasla corto può durare 5-10 minuti, mentre un wasla più lungo può arrivare fino a un'ora. I pezzi all'interno del wasla sono ordinati in modo che inizi in modo lento e definisca il maqam (spesso con pezzi strumentali) per poi presentare pezzi complessi e difficili da cantare. Il wasla finisce con un pezzo semplice e corto, creando così un arco esecutivo con un picco verso la sua metà.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=D0DQxDwgDw8&t=1103s">

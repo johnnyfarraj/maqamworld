@@ -36,7 +36,7 @@ include($ROOT . 'inc/head.php');
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice per le Forme</a>
                     <div class="clearfix"></div>
 
-                    <p>Le forme di improvvisazione sono il modo più immediato per un <em>mutrib</em> (cantante) o per un musicista di connettersi con il pubblico esplorando e lavorando sul <em>sayr</em> di un <a href="../maqam.php">maqam</a>.
+                    <p>Le forme di improvvisazione sono il modo più immediato per un <em>mutreb</em> (cantante) o per un musicista di connettersi con il pubblico esplorando e lavorando sul <em>sayr</em> di un <a href="../maqam.php">maqam</a>.
                     </p>
 
                     <div id="layali" class="heading jins text-center full-width">
@@ -49,7 +49,7 @@ include($ROOT . 'inc/head.php');
                     <p>Le Layali sono una forma di improvvisazione che consiste in un assolo vocale sulla frase "Ya Layl Ya ‘Ayn" (O notte, O occhio), dove "layali" è il plurale della parola "layl". Questa è una frase tradizionale che non viene più usata con il suo significato letterale ma è diventata una frase usata come abbellimento nelle parti vocali.
                     </p>
                     
-                    <p>Le Layali può anche essere un pezzo a se stante ma solitamente viene usato come preludio per la prossima forma vocale (come ad esempio il mawwal, la qasida o anche una <a href="vocal_comp.php">forma vocale composta</a>). In questo caso servono come riscaldamento, e aiutano il cantante a ìmmergersi nel <a href="../maqam.php">maqam</a>.
+                    <p>Le Layali possono anche essere un pezzo a se stante ma solitamente vengono usate come preludio per la successiva forma vocale (come ad esempio il mawwal, la qasida o anche una <a href="vocal_comp.php">forma vocale composta</a>). In questo caso servono come riscaldamento, e aiutano il cantante a ìmmergersi nel <a href="../maqam.php">maqam</a>.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=wOlB3-EiweY">
@@ -112,7 +112,7 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/mawwal.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Mawwal</a>
                     </div>
                     
-                    <p>Il Mawwal (plurale <strong>Mawawil</strong>) è una forma di improvvisazione di un assolo vocale sul un poema arabo colloquiale. Per esempio, il poema può essere in egiziano, libanese, siriano o in dialetto iraqi. Come per le altre forme di improvvisazione vocale, il mawwal è un metodo mostrare il <em>sayr</em> del <a href="../maqam.php">maqam</a>, e per mostrare la voce del cantante e le tecniche di abbellimento.
+                    <p>Il Mawwal (plurale <strong>Mawawil</strong>) è una forma di improvvisazione di un assolo vocale su di un poema in arabo colloquiale. Per esempio, il poema può essere in egiziano, libanese, siriano o in dialetto iracheno. Come per le altre forme di improvvisazione vocale, il mawwal è un metodo per mostrare il <em>sayr</em> del <a href="../maqam.php">maqam</a>, così come la voce del cantante e le tecniche di abbellimento.
                     </p>
                     
                     <p>Un importante tipo di mawwal è il <strong>Mawwal Baghdadi</strong>, anche chiamato <em>Sab‘awi</em> (da <em>sab‘a</em>, sette) perchè è composto da 7 linee in ritmo A, A, A, B, B, B, A. Il Mawwal Baghdadi è molto popolare nel repertorio di aleppo, insieme alle forme <a href="vocal_comp.php#muwashah">Muwashahat</a> e <a href="vocal_comp.php#qadd">Qudud</a>.
@@ -176,7 +176,7 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/qasida.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Qasida</a>
                     </div>
                     
-                    <p>La Qasida (plurale <strong>Qasa'ed</strong>) è un poema in arabo classico. Può essere usato in una forma composta (vedi <a href="vocal_comp.php#qasida">la qasida composito</a>) o, come in questo caso, come una forma di improvvisazione. La qasida improvvisata è identica al Mawwal nella funzione del <em>sayr</em> del <a href="../maqam.php">maqam</a>, e per quanto riguarda le abilità e nel talento del cantante.
+                    <p>La Qasida (plurale <strong>Qasa'ed</strong>) è un poema in arabo classico. Può essere usato in una forma composta (vedi <a href="vocal_comp.php#qasida">la qasida composita</a>) o, come in questo caso, come una forma di improvvisazione. La qasida improvvisata è identica al Mawwal per come presenta il <em>sayr</em> del <a href="../maqam.php">maqam</a>, così come le abilità ed il talento del cantante.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=GJPYRZwdbhw">
