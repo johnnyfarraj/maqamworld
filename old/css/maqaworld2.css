@@ -1,0 +1,187 @@
+A.redLink:Link
+{
+font-size: 8pt; 
+color: #336699; 
+font-family: Verdana; 
+Text-decoration: none
+} 
+A.redLink:Top
+{
+	font-size: 8pt;
+	color: #336699;
+	font-family: Verdana; 
+	Text-decoration: none
+}
+A.redLink:Visited
+{
+	font-size: 8pt; 
+	color: #663366; 
+	font-family: Verdana; 
+	Text-decoration: none
+}
+A.redLink:Hover
+{
+	font-size: 8pt; 
+	color: #ff3300; 
+	font-family: Verdana; 
+	Text-decoration: underline
+} 
+A.smallLink:active
+{
+	COLOR: darkslateblue;
+	FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	FONT-SIZE: xx-small;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: underline
+}
+A.smallLink:link
+{
+	COLOR: darkslateblue;
+	FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	FONT-SIZE: xx-small;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none
+}
+A.smallLink:visited
+{
+	COLOR: darkslateblue;
+	FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	FONT-SIZE: xx-small;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none
+}
+A.smallLink:hover
+{
+	COLOR: darkslateblue;
+	FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	FONT-SIZE: xx-small;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: underline
+}
+A.largeLink:active
+{
+	COLOR: darkslateblue;
+	FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	FONT-SIZE: small;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: underline
+}
+A.largeLink:link
+{
+	COLOR: darkslateblue;
+	FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	FONT-SIZE: small;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none
+}
+A.largeLink:visited
+{
+	COLOR: darkslateblue;
+	FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	FONT-SIZE: small;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none
+}
+A.largeLink:hover
+{
+	COLOR: darkslateblue;
+	FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	FONT-SIZE: small;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: underline;
+}
+A.normalLink:active
+{
+    COLOR: darkslateblue;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    FONT-SIZE: x-small;
+    FONT-WEIGHT: normal;
+    TEXT-DECORATION: underline
+}
+A.normalLink:link
+{
+    COLOR: darkslateblue;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    FONT-SIZE: x-small;
+    FONT-WEIGHT: normal;
+    TEXT-DECORATION: none
+}
+A.normalLink:visited
+{
+    COLOR: darkslateblue;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    FONT-SIZE: x-small;
+    FONT-WEIGHT: normal;
+    TEXT-DECORATION: none
+}
+A.normalLink:hover
+{
+    COLOR: blue;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    FONT-SIZE: x-small;
+    FONT-WEIGHT: normal;
+    TEXT-DECORATION: underline
+}
+TD.titleBarNormal
+{
+	BACKGROUND-COLOR: #CC9966;
+	COLOR: White;
+	FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	FONT-SIZE: x-small;
+	font-weight : bold;
+	white-space : nowrap;
+	border-bottom : gray 1px solid;
+	border-left : gray 1px solid;
+	border-right : gray 1px solid;
+	border-top : gray 1px solid;
+}
+TD.titleBarMaqam
+{
+	BACKGROUND-COLOR: #FFE4B5;
+	COLOR: Black;
+	FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	FONT-SIZE: x-small;
+	font-weight : bold;
+	white-space : nowrap;
+	border-bottom : gray 1px solid;
+	border-left : gray 1px solid;
+	border-right : gray 1px solid;
+	border-top : gray 1px solid;
+}
+TD.formsTitle
+{
+	COLOR: Black;
+	FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	FONT-SIZE: x-small;
+	white-space : nowrap;
+	border-bottom : gray 1px solid;
+}
+TD.descriptionCell
+{
+	BACKGROUND-COLOR: #FFFFDD;
+	COLOR: Black;
+	FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	FONT-SIZE: xx-small;
+}
+TD.rightSeparator
+{
+	border-right : gray 1px solid;
+}
+TD.maqamListCell
+{
+	BACKGROUND-COLOR: #F5DEB3;
+	border-bottom : gray 1px solid;
+	border-left : gray 1px solid;
+	border-right : gray 1px solid;
+	border-top : gray 1px solid;
+}
+ .Font8pt
+ {
+ 	font-size:8pt; 
+	font-family:Verdana;
+}
+ .bodyText
+ {
+ 	font-size:8pt; 
+	font-family:Verdana;
+}

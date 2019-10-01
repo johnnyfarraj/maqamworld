@@ -1,0 +1,373 @@
+A.redLink:Link
+{
+font-size: 8pt; 
+color: #336699; 
+font-family: Verdana; 
+Text-decoration: none
+} 
+A.redLink:Top
+{
+	font-size: 8pt;
+	color: #336699;
+	font-family: Verdana; 
+	Text-decoration: none
+}
+A.redLink:Visited
+{
+	font-size: 8pt; 
+	color: #663366; 
+	font-family: Verdana; 
+	Text-decoration: none
+}
+A.redLink:Hover
+{
+	font-size: 8pt; 
+	color: #ff3300; 
+	font-family: Verdana; 
+	Text-decoration: underline
+} 
+A.smallLink:active
+{
+	COLOR: darkslateblue;
+	FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	FONT-SIZE: xx-small;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: underline
+}
+A.smallLink:link
+{
+	COLOR: darkslateblue;
+	FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	FONT-SIZE: xx-small;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none
+}
+A.smallLink:visited
+{
+	COLOR: darkslateblue;
+	FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	FONT-SIZE: xx-small;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none
+}
+A.smallLink:hover
+{
+	COLOR: darkslateblue;
+	FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	FONT-SIZE: xx-small;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: underline
+}
+A.largeLink:active
+{
+	COLOR: darkslateblue;
+	FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	FONT-SIZE: x-small;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: underline
+}
+A.largeLink:link
+{
+	COLOR: darkslateblue;
+	FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	FONT-SIZE: x-small;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none
+}
+A.largeLink:visited
+{
+	COLOR: darkslateblue;
+	FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	FONT-SIZE: x-small;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none
+}
+A.largeLink:hover
+{
+	COLOR: darkslateblue;
+	FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	FONT-SIZE: x-small;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: underline;
+}
+
+
+
+A.hugeLink:active
+{
+	COLOR: darkslateblue;
+	FONT-SIZE: small;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: underline;
+	font-family : Arial, Helvetica, sans-serif;
+}
+A.hugeLink:link
+{
+	COLOR: darkslateblue;
+	FONT-SIZE: small;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none;
+	font-family : Arial, Helvetica, sans-serif;
+}
+A.hugeLink:visited
+{
+	COLOR: darkslateblue;
+	FONT-SIZE: small;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none;
+	font-family : Arial, Helvetica, sans-serif;
+}
+A.hugeLink:hover
+{
+	COLOR: darkslateblue;
+	FONT-SIZE: small;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: underline;
+	font-family : Arial, Helvetica, sans-serif;
+}
+A.bigLink:active
+{
+	COLOR: darkslateblue;
+	FONT-SIZE: medium;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: underline;
+	font-family : Arial, Helvetica, sans-serif;
+}
+A.bigLink:link
+{
+	COLOR: darkslateblue;
+	FONT-SIZE: medium;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none;
+	font-family : Arial, Helvetica, sans-serif;
+}
+A.bigLink:visited
+{
+	COLOR: darkslateblue;
+	FONT-SIZE: medium;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none;
+	font-family : Arial, Helvetica, sans-serif;
+}
+A.bigLink:hover
+{
+	COLOR: darkslateblue;
+	FONT-SIZE: medium;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: underline;
+	font-family : Arial, Helvetica, sans-serif;
+}
+A.normalLink:active
+{
+    COLOR: darkslateblue;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    FONT-SIZE: x-small;
+    FONT-WEIGHT: normal;
+    TEXT-DECORATION: underline
+}
+A.normalLink:link
+{
+    COLOR: darkslateblue;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    FONT-SIZE: x-small;
+    FONT-WEIGHT: normal;
+    TEXT-DECORATION: none
+}
+A.normalLink:visited
+{
+    COLOR: darkslateblue;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    FONT-SIZE: x-small;
+    FONT-WEIGHT: normal;
+    TEXT-DECORATION: none
+}
+A.normalLink:hover
+{
+    COLOR: blue;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    FONT-SIZE: x-small;
+    FONT-WEIGHT: normal;
+    TEXT-DECORATION: underline
+}
+TD.titleBarNormal
+{
+	BACKGROUND-COLOR: #CC9966;
+	COLOR: White;
+	FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	FONT-SIZE: x-small;
+	font-weight : bold;
+	white-space : nowrap;
+	border-bottom : gray 1px solid;
+	border-left : gray 1px solid;
+	border-right : gray 1px solid;
+	border-top : gray 1px solid;
+}
+TD.titleBarLarge
+{
+	BACKGROUND-COLOR: #CC9966;
+	COLOR: White;
+	FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	FONT-SIZE: small;
+	font-weight : bold;
+	white-space : nowrap;
+	border-bottom : gray 1px solid;
+	border-left : gray 1px solid;
+	border-right : gray 1px solid;
+	border-top : gray 1px solid;
+}
+TD.titleBarMaqam
+{
+	BACKGROUND-COLOR: #EEEEFF;
+	COLOR: Black;
+	FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	FONT-SIZE: x-small;
+	font-weight : bold;
+	white-space : nowrap;
+	border-bottom : gray 1px solid;
+	border-left : gray 1px solid;
+	border-right : gray 1px solid;
+	border-top : gray 1px solid;
+}
+TD.rhythmsCell
+{
+	COLOR: Black;
+	FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	FONT-SIZE: x-small;
+	font-weight : bold;
+	white-space : nowrap;
+	border-top : gray 1px solid;
+	border-bottom : gray 1px solid;
+	border-left : gray 1px solid;
+	border-right : gray 1px solid;
+	background-color : #F8F8F8;
+}
+TD.formsTitle
+{
+	COLOR: Black;
+	FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	FONT-SIZE: x-small;
+	white-space : nowrap;
+	border-bottom : gray 1px solid;
+}
+TD.descriptionCell
+{
+	BACKGROUND-COLOR: #FFFFDD;
+	COLOR: Black;
+	FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	FONT-SIZE: xx-small;
+}
+TD.rightSeparator
+{
+	border-right : gray 1px solid;
+}
+TD.leftSeparator
+{
+	border-left : #eecc99 1px solid;
+}
+TD.maqamListCell
+{
+	BACKGROUND-COLOR: #F5DEB3;
+	border-bottom : gray 1px solid;
+	border-left : gray 1px solid;
+	border-right : gray 1px solid;
+	border-top : gray 1px solid;
+}
+ .Font8pt
+ {
+ 	font-size:8pt; 
+	font-family:Verdana;
+}
+ .bodyText
+ {
+ 	font-size:8pt; 
+	font-family:Verdana;
+}
+
+
+
+ BODY,TD,P,LI
+ {
+ 	FONT-FAMILY: arial, helvetica;
+	FONT-SIZE: 11px
+}
+
+SELECT
+{
+	FONT-FAMILY: arial, helvetica;
+	FONT-SIZE: 13px 
+} 
+	  
+ .smtxt
+ {
+ 	FONT-FAMILY: arial, helvetica; 
+	FONT-SIZE: 11px
+}
+.smtxtb 
+{
+	FONT-FAMILY: arial, helvetica; 
+	FONT-SIZE: 11px; 
+	FONT-WEIGHT:bold
+}
+.medtxtb 
+{
+	FONT-FAMILY: arial, helvetica; 
+	FONT-SIZE: 14px; 
+	FONT-WEIGHT:bold
+}.lgetxtb 
+{
+	FONT-FAMILY: arial, helvetica; 
+	FONT-SIZE: 16px; 
+	FONT-WEIGHT:bold
+}
+FORM 
+{
+	FONT-FAMILY: arial, helvetica; 
+	FONT-SIZE: 10px
+}
+INPUT 
+{
+	FONT-FAMILY: arial, helvetica; 
+	FONT-SIZE: 10px 
+}
+.head 
+{
+	FONT-FAMILY: arial, helvetica; 
+	FONT-SIZE: 14px; 
+	color:#666666 
+}
+.head2 
+{
+	FONT-FAMILY: arial, helvetica; 
+	FONT-SIZE: 12px; 
+	color:#666666
+}
+ .bluetxt 
+ {
+ 	FONT-FAMILY: arial, helvetica;  
+	color:#000066; 
+	FONT-SIZE: 11px
+}
+.bluetxtsm 
+{
+	FONT-FAMILY: arial, helvetica;  
+	color:#000066; 
+	FONT-SIZE: 9px
+}
+.accent 
+{
+	FONT-FAMILY: arial, helvetica; 
+	color:#FF6600; 
+	FONT-SIZE: 11px
+}
+.alerttext 
+{
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 11px; 
+	color: #FF0000
+}
+.bullet
+{
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 15px; 
+	color: #ff9933
+}
