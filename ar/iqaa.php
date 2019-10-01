@@ -100,7 +100,7 @@ include($ROOT . 'inc/head.php');
                                     <li><a href="iqaa/nawakht.php">نَواخْت ٧/٤</a></li>
                                     <li><a href="iqaa/masmudi_kabir.php">مصمودي كبير ٨/٤</a></li>
                                     <li><a href="iqaa/ciftetelli.php">شفتتلّي ٨/٤</a></li>
-                                    <li><a href="iqaa/wahda_tawila.php">واحدة طويلة ٨/٤</a></li>
+                                    <li><a href="iqaa/wahda_kabira.php">واحدة كبيرة ٨/٤</a></li>
                                     <li><a href="iqaa/bambi.php">بَمبي ٨/٤</a></li>
                                     <li><a href="iqaa/katakufti.php">قتاقوفتي ٨/٨</a></li>
                                     <li><a href="iqaa/aqsaq.php">اقصاق ٩/٨</a></li>

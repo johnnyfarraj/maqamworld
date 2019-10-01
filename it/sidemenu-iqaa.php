@@ -38,7 +38,7 @@
     <li><a href="/it/iqaa/thurayya.php">Thurayya 5/8</a></li>
     <li><a href="/it/iqaa/wahda.php">Wahda 4/4</a></li>
     <li><a href="/it/iqaa/wahda_saghira.php">Wahda Saghira 2/4</a></li>
-    <li><a href="/it/iqaa/wahda_tawila.php">Wahda Tawila 8/4</a></li>
+    <li><a href="/it/iqaa/wahda_kabira.php">Wahda Kabira 8/4</a></li>
     <li><a href="/it/iqaa/wahda_w_nuss.php">Wahda wi Nuss 4/4</a></li>
     <li><a href="/it/iqaa/yuruk_semai.php">Yuruk Semai 6/8</a></li>
     <li><a href="/it/iqaa/zaffa.php">Zaffa 4/4</a></li>

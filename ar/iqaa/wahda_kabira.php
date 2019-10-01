@@ -4,7 +4,7 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "إيقاع واحدة طويلة ٨/٤";
+$page_title = "إيقاع واحدة كبيرة ٨/٤";
 $page_description = "إيقاع واحدة طويلة ٨/٤";
 $page_keywords = "عود,موسيقى عربية,قانون,ناي,مقام,جنس,آلات,طرب,ايقاع,رقّ,طبلة,طبل البلدي,دفّ,كاتم,صاجات";
 $page_language = "ar";
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="rtl iqaas-page">
 
     <?php
-      $page = "ar/iqaa/wahda_tawila.php";
+      $page = "ar/iqaa/wahda_kabira.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -29,7 +29,7 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>إيقاع واحْدة طويلة ٨/٤</h1>
+                        <h1>إيقاع واحْدة كبيرة ٨/٤</h1>
                         <h3>يُسمّى ايضاً <strong>واحْدة سنباطي</strong></h3>
                     </div>
 
@@ -37,11 +37,11 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="notation">
-                        <img src="../note/iqaa/wahda_tawila.png" class="img-fluid">
+                        <img src="../note/iqaa/wahda_kabira.png" class="img-fluid">
                     </div>
 
                     <h5>
-                        إيقاع واحْدة طويلة (و يُسمّى ايضاً "واحْدة سنباطي") هو إيقاع مبني على مدّ <a href="wahda.php">إيقاع الواحْدة</a> من وزن ٤/٤ الى وزن ٤/٨.
+                        إيقاع واحْدة كبيرة (و يُسمّى ايضاً "واحْدة سنباطي") هو إيقاع مبني على مدّ <a href="wahda.php">إيقاع الواحْدة</a> من وزن ٤/٤ الى وزن ٤/٨.
                     </h5>
                     <h5>
                         يستعمل هذا الايقاع كثيراً في الموسيقى الغنائية والآلية من منتصف القرن العشرين.
@@ -49,11 +49,11 @@ include($ROOT . 'inc/head.php');
 
                     <div class="player-area">
                         <audio id="player" controls>
-                            <source src="/audio/iqaa/wahda_tawila/khatwit_habibi.mp3" type="audio/mp3">
+                            <source src="/audio/iqaa/wahda_kabira/khatwit_habibi.mp3" type="audio/mp3">
                         </audio>
                     </div>
 
-                    <div class="track " data-song="/audio/iqaa/wahda_tawila/khatwit_habibi.mp3">
+                    <div class="track " data-song="/audio/iqaa/wahda_kabira/khatwit_habibi.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1" >
@@ -65,7 +65,7 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/wahda_tawila/habibi_yis3ed.mp3">
+                    <div class="track" data-song="/audio/iqaa/wahda_kabira/habibi_yis3ed.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
@@ -79,7 +79,7 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/wahda_tawila/il_albi_yi3shaq.mp3">
+                    <div class="track" data-song="/audio/iqaa/wahda_kabira/il_albi_yi3shaq.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
@@ -93,13 +93,26 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/wahda_tawila/tuta.mp3">
+                    <div class="track" data-song="/audio/iqaa/wahda_kabira/tuta.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>مقطوعة توتة</b>
                                     <span>الحان فريد الاطرش (سوريا-مصر)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="track" data-song="/audio/iqaa/wahda_kabira/sawa_rbina.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>اغنية سوا ربينا (١٩٦١)</b>
+                                    <span>غناء فيروز (لبنان)</span>
+                                    <span>كلمات  وألحان الأخوين رحباني</span>
                                 </div>
                             </label>
                         </div>

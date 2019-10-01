@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Wahda Tawila";
-$page_description = "Iqa‘ Wahda Tawila";
-$page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, wahda tawila, wahda sunbati, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
+$page_title = "Iqa‘ Wahda Kabira";
+$page_description = "Iqa‘ Wahda Kabira";
+$page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, wahda kabira, wahda sunbati, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "fr";
 
 include($ROOT . 'inc/head.php');
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="iqaas-page">
 
     <?php
-      $page = "fr/iqaa/wahda_tawila.php";
+      $page = "fr/iqaa/wahda_kabira.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -29,14 +29,14 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Wahda Tawila 8/4</h1>
+                        <h1>Iqa‘ Wahda Kabira 8/4</h1>
                         <h3>(aussi appelé <strong>Wahda Soumbati</strong>)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/wahda_tawila.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Wahda Tawila</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/wahda_kabira.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Wahda Kabira</a>
                     </div>
 
                     <div class="text-center mt-2 mb-3">
@@ -44,18 +44,18 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="notation">
-                        <img src="/note/iqaa/wahda_tawila.png" class="img-fluid">
+                        <img src="/note/iqaa/wahda_kabira.png" class="img-fluid">
                     </div>
 
-                    <p>Le Iqa‘ Wahda Tawila (<em>tawila</em> veut dire 'long' en arabe), aussi appelé <strong>Wahda Soumbati</strong>, est une version ralentie sur deux mesures du <a href="wahda.php">Iqa‘ Wahda</a>. Il est très populaire dans la musique vocale et instrumentale de la moitié du 20ième siècle.</p>
+                    <p>Le Iqa‘ Wahda Kabira (<em>kabira</em> veut dire 'grande' en arabe), aussi appelé <strong>Wahda Soumbati</strong>, est une version ralentie sur deux mesures du <a href="wahda.php">Iqa‘ Wahda</a>. Il est très populaire dans la musique vocale et instrumentale de la moitié du 20ième siècle.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
-                            <source src="/audio/iqaa/wahda_tawila/khatwit_habibi.mp3" type="audio/mp3">
+                            <source src="/audio/iqaa/wahda_kabira/khatwit_habibi.mp3" type="audio/mp3">
                         </audio>
                     </div>
 
-                    <div class="track " data-song="/audio/iqaa/wahda_tawila/khatwit_habibi.mp3">
+                    <div class="track " data-song="/audio/iqaa/wahda_kabira/khatwit_habibi.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1" >
@@ -67,7 +67,7 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/wahda_tawila/habibi_yis3ed.mp3">
+                    <div class="track" data-song="/audio/iqaa/wahda_kabira/habibi_yis3ed.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
@@ -80,7 +80,7 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/wahda_tawila/il_albi_yi3shaq.mp3">
+                    <div class="track" data-song="/audio/iqaa/wahda_kabira/il_albi_yi3shaq.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
@@ -93,7 +93,7 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/wahda_tawila/tuta.mp3">
+                    <div class="track" data-song="/audio/iqaa/wahda_kabira/tuta.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
@@ -101,6 +101,19 @@ include($ROOT . 'inc/head.php');
                                     <b>Touta</b>
                                     <span>Composition Instrumentale</span>
                                     <span>Musique de Farid al-Atrache</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="track" data-song="/audio/iqaa/wahda_kabira/sawa_rbina.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Sawa Rbina (1968)</b>
+                                    <span>Fairouz (Liban)</span>
+                                    <span>Musique et paroles des Frères Rahbani</span>
                                 </div>
                             </label>
                         </div>

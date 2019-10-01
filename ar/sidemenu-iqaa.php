@@ -38,7 +38,7 @@
     <li><a href="/ar/iqaa/hachaa.php">هجع ٤/٤</a></li>
     <li><a href="/ar/iqaa/wahda.php">واحدة ٤/٤</a></li>
     <li><a href="/ar/iqaa/wahda_saghira.php">واحدة صغيرة ٢/٤</a></li>
-    <li><a href="/ar/iqaa/wahda_tawila.php">واحدة طويلة ٨/٤</a></li>
+    <li><a href="/ar/iqaa/wahda_kabira.php">واحدة كبيرة ٨/٤</a></li>
     <li><a href="/ar/iqaa/wahda_w_nuss.php">واحدة ونصّ ٤/٤</a></li>
     <li><a href="/ar/iqaa/yuruk_semai.php">يورك سماعي ٦/٨</a></li>
 </ul>

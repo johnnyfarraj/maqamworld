@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Mahla Layali el-Hawa (1963)</b>
                                     <span>Fairouz (Liban)</span>
-                                    <span>Musique et paroles by Les Frères Rahbani</span>
+                                    <span>Musique et paroles des Frères Rahbani</span>
                                 </div>
                             </label>
                         </div>

@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                     <li><a href="iqaa/nawakht.php">Nawakht 7/4</a></li>
                                     <li><a href="iqaa/masmudi_kabir.php">Masmudi Kabir 8/4</a></li>
                                     <li><a href="iqaa/ciftetelli.php">Ciftetelli 8/4</a></li>
-                                    <li><a href="iqaa/wahda_tawila.php">Wahda Tawila 8/4</a></li>
+                                    <li><a href="iqaa/wahda_kabira.php">Wahda Kabira 8/4</a></li>
                                     <li><a href="iqaa/bambi.php">Bambi 8/4</a></li>
                                     <li><a href="iqaa/katakufti.php">Katakufti 8/8</a></li>
                                     <li><a href="iqaa/aqsaq.php">Aqsaq 9/8</a></li>
