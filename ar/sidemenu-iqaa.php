@@ -1,8 +1,9 @@
 <?php defined('_DEFVAR') or exit('Restricted Access'); ?>
 <ul class="sub-menu">
     <li class="d-block d-sm-none"><a href="#" class="hide-side-menu"><i class="fa fa-fw fa-times"></i></a></li>
-    <li><a href="/ar/iqaa/aqsaq.php">اقصاق ٩/٨</a></li>
-    <li><a href="/ar/iqaa/ayyub.php">ايّوب ٢/٤</a></li>
+    <li><a href="/ar/iqaa/aqsaq.php">أقصاق ٩/٨</a></li>
+    <li><a href="/ar/iqaa/awfar.php">أوفر مصري ١٩/٤</a></li>
+    <li><a href="/ar/iqaa/ayyub.php">أيّوب ٢/٤</a></li>
     <li><a href="/ar/iqaa/baladi.php">بلدي ٤/٤</a></li>
     <li><a href="/ar/iqaa/bambi.php">بمبي ٨/٤</a></li>
     <li><a href="/ar/iqaa/thurayya.php">ثريّا ٥/٨</a></li>

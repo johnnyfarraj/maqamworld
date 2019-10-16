@@ -41,11 +41,11 @@ include($ROOT . 'inc/head.php');
                     <h5> ويأتي إيقاع المدوّر على اشكال عديدة منها المدوّر المصري (١٢/٤) والمدوّر الشامي (١٠/٤).
                     </h5>
                     
-                    <!-- Need some kind of divider here -->
                     <br>
                     <div class="heading jins text-center">
                         <h3>إيقاع المدوّر المصري ١٢/٤</h3>
                     </div>
+                    <div class="clearfix"></div>
                     <br>
                     
                     <div class="notation">
