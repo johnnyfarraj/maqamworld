@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                     <p>Il <strong>Maqam Kirdan</strong> è una versione del <a href="rast.php">Maqam Rast</a> il cui <em>sayr</em> inizia sull'ottava e alla fine discende alla tonica. La sua scala inizia in basso con il <a href="../jins/rast.php">Jins Rast</a> (la radice) sulla tonica, seguito dal <a href="../jins/upper_rast.php">Jins Rast Alto</a> sul quinto grado (con la tonica sopra sull'ottavo grado).
                     </p>
                     
-                    <p>Il <strong>Maqam Sazkar</strong> è quasi identico al Maqam Kirdan, ad eccezione dell'importanza del secondo grado alzato che si presente in alcuni passaggi melodici, che risulta nel <a href="../jins/sazkar.php">Jins Sazkar</a> sulla tonica.
+                    <p>Il <strong>Maqam Sazkar</strong> è quasi identico al Maqam Kirdan, ad eccezione dell'importanza del secondo grado alzato che si presenta in alcuni passaggi melodici, che risulta nel <a href="../jins/sazkar.php">Jins Sazkar</a> sulla tonica.
                     </p>
 
                     <p>Scopri altri maqamat della <a href="f_rast.php">Famiglia Maqam Rast</a>.</p>

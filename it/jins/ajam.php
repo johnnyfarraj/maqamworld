@@ -59,7 +59,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="590,62,12" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
 					</map>
 
-                    <p>Il Jins ‘Ajam è un <em>jins</em> di 5 note. È scritto qui considerando come sua tonica il Do e come suo <em>ghammaz</em> e il Sol. Il Jins ‘Ajam è il primo <em>jins</em> del <a href="../maqam/ajam.php">Maqam ‘Ajam</a> e del <a href="../maqam/shawq_afza.php">Maqam Shawq Afza</a>.
+                    <p>Il Jins ‘Ajam è un <em>jins</em> di 5 note. È scritto qui considerando come sua tonica il Do e come suo <em>ghammaz</em> il Sol. Il Jins ‘Ajam è il primo <em>jins</em> del <a href="../maqam/ajam.php">Maqam ‘Ajam</a> e del <a href="../maqam/shawq_afza.php">Maqam Shawq Afza</a>.
                     </p>
 
                     <div class="player-area">

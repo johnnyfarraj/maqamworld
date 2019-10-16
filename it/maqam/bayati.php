@@ -121,7 +121,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mijana e ‘Ataba</b>
                                     <span>Wadih al-Safi (Libano)</span>
-                                    <span>(Musica del Lebanese Folklore)</span>
+                                    <span>(Musica del Folklore Libanese))</span>
                                 </div>
                             </label>
                         </div>

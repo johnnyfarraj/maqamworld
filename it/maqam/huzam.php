@@ -65,7 +65,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="484,7,591,35" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 		          </map>
 
-                    <p>Il Maqam Huzam è di gran lunga il maqam più popolare nella <a href="f_sikah.php">famille du Maqam Sikah</a>, e inizia sul Mi<i class="icon-halfflat"></i>. La sua scala inizia con il <a href="../jins/sikah.php">Jins Sikah</a> (la radice) sulla tonica, seguito dal <a href="../jins/hijaz.php">Jins Hijaz</a> sul quarto grado e dal <a href="../jins/rast.php">Jins Rast</a> sul sesto grado.
+                    <p>Il Maqam Huzam è di gran lunga il maqam più popolare nella <a href="f_sikah.php">famiglia del Maqam Sikah</a>, e inizia sul Mi<i class="icon-halfflat"></i>. La sua scala inizia con il <a href="../jins/sikah.php">Jins Sikah</a> (la radice) sulla tonica, seguito dal <a href="../jins/hijaz.php">Jins Hijaz</a> sul quarto grado e dal <a href="../jins/rast.php">Jins Rast</a> sul sesto grado.
                     </p>
 
                     <p>La trasposizione del Maqam Huzam in Si<i class="icon-halfflat"></i> ha un suo nome: <strong>Maqam Rahat al-Arwah</strong>. Entrambi i maqamat hanno lo stesso <em>sayr</em>.</p>
@@ -125,7 +125,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Marmar Zamani</b>
                                     <span>Fairouz (Libano)</span>
-                                    <span>(chanson traditionnelle)</span>
+                                    <span>(canzone tradizionale)</span>
                                 </div>
                             </label>
                         </div>

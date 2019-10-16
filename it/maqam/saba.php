@@ -145,7 +145,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Qadd Ya m-as‘ad el-Sabahiyya</b>
                                     <span>Sabah Fakhri (Siria)</span>
-                                    <span>(chanson traditionnelle)</span>
+                                    <span>(canzone tradizionale)</span>
                                 </div>
                             </label>
                         </div>

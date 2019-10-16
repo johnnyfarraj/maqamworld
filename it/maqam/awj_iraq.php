@@ -67,7 +67,7 @@ include($ROOT . 'inc/head.php');
                     <p>Il Maqam Awj ‘Iraq è una versione del <a href="huzam.php">Maqam Rahat al-Arwah/Maqam Huzam</a> e del <a href="iraq.php">Maqam ‘Iraq</a> il cui <em>sayr</em> inizia sull'ottava e discende alla tonica – sebbene condivida la maggior parte degli ajnas con il <a href="huzam.php">Maqam Huzam</a>.
                     </p>
                     
-                    <p>La scala del Maqam Awj ‘Iraq scale inizia con il <a href="../jins/sikah.php">Sikah</a> sulla tonica, seguito sul terzo grado dal <a href="../jins/hijaz.php">Jins Hijaz</a> seguito a sua volta da un altro <a href="../jins/sikah.php">Sikah</a> sull'ottavo grado.
+                    <p>La scala del Maqam Awj ‘Iraq inizia con il <a href="../jins/sikah.php">Sikah</a> sulla tonica, seguito sul terzo grado dal <a href="../jins/hijaz.php">Jins Hijaz</a> seguito a sua volta da un altro <a href="../jins/sikah.php">Sikah</a> sull'ottavo grado.
                     </p>
 
                     <p>Scopri altri maqamat della <a href="f_sikah.php">Famiglia Maqam Sikah</a>.</p>
@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Ya Samiri Da‘a Sabri</b>
-                                    <span>Interprétation de Muhammad Khayri (Siria)</span>
+                                    <span>Interpretazione di Muhammad Khayri (Siria)</span>
                                 </div>
                             </label>
                         </div>
@@ -96,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Hayya Wa Nadim</b>
-                                    <span>Interprétation de Samer NAshar (Siria)</span>
+                                    <span>Interpretazione di Samer Nashar (Siria)</span>
                                 </div>
                             </label>
                         </div>

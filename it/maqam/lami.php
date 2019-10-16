@@ -59,7 +59,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="340,140,460,167" href="../jins/kurd.php" class="mapLink" data-parent="#notation1">
 				     </map>
 
-                    <p>Il Maqam Lami è un <em>maqam</em> raro del medio oriente e si ispire al repertorio Iraqi. La sua scala inizia con il <a href="../jins/lami.php">Jins Lami</a> sulla tonica, seguito dal <a href="../jins/kurd.php">Jins Kurd</a> sul quarto grado. 
+                    <p>Il Maqam Lami è un <em>maqam</em> raro del medio oriente e si ispira al repertorio Iraqi. La sua scala inizia con il <a href="../jins/lami.php">Jins Lami</a> sulla tonica, seguito dal <a href="../jins/kurd.php">Jins Kurd</a> sul quarto grado. 
                     </p>
 
                     <div class="player-area">

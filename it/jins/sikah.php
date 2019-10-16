@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Hayhat Yabu al-Zuluf</b>
                                     <span>Sabah (Libano)</span>
-                                    <span>(Folklore Libanais)</span>
+                                    <span>(Folklore Libanese)</span>
                                 </div>
                             </label>
                         </div>

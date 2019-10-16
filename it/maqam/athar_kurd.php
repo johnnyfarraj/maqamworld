@@ -106,7 +106,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Fagr Nurak Hall wi Ban (c.1952)</b>
-                                    <span>Interprétation de Baligh Hamdi (Egitto)</span>
+                                    <span>Interpretazione di Baligh Hamdi (Egitto)</span>
                                     <span>Musica di Yussef Shawqi</span>
                                 </div>
                             </label>

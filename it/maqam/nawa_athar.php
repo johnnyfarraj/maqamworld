@@ -60,7 +60,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="327,147,480,180" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
 					</map>
                     
-                    <p>Il Maqam Nawa Atharè un altro buon esempio popolare di maqam della <a href="f_nikriz.php">Famiglia Nikriz</a>. La sua scala inizia con il <a href="../jins/nikriz.php">Jins Nikriz</a> (la radice) sulla tonica, seguito dal <a href="../jins/hijazkar.php">Jins Hijazkar</a> al centro sul quinto grado.
+                    <p>Il Maqam Nawa Athar è un altro buon esempio popolare di maqam della <a href="f_nikriz.php">Famiglia Nikriz</a>. La sua scala inizia con il <a href="../jins/nikriz.php">Jins Nikriz</a> (la radice) sulla tonica, seguito dal <a href="../jins/hijazkar.php">Jins Hijazkar</a> al centro sul quinto grado.
                     </p>
 
                     <p>Scopri altri maqamat della <a href="f_nikriz.php">Famiglia Maqam Nikriz</a>.</p>

@@ -62,9 +62,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="490,149,672,182" href="../jins/upper_rast.php" class="mapLink" data-parent="#notation1">
 					</map>
 
-                    <p>Il Maqam Jiharkah è un maqam raro che inizia con il <a href="../jins/jiharkah.php">Jins Jiharkah</a> sulla tonica, seguito dal <a href="../jins/upper_rast.php">Jins Rast Alto</a> sul quinto grado (con la sua tonica isopra sull'ottavo grado).
+                    <p>Il Maqam Jiharkah è un maqam raro che inizia con il <a href="../jins/jiharkah.php">Jins Jiharkah</a> sulla tonica, seguito dal <a href="../jins/upper_rast.php">Jins Rast Alto</a> sul quinto grado (con la sua tonica sopra sull'ottavo grado).
                     </p>
-                    <p>Le Maqam Jiharkah non appartenente ad alcuna famiglia.</p>
+                    <p>Il Maqam Jiharkah non appartiene ad alcuna famiglia.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>

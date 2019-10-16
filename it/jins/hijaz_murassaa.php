@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Badru Timmin (Taqsim con l'Oud)</b>
                                     <span>Ghada Chbeir (Libano)</span>
-                                    <span>Musique du Sheikh Mursi al-Hariri</span>
+                                    <span>Musica di Sheikh Mursi al-Hariri</span>
                                 </div>
                             </label>
                         </div>
@@ -109,7 +109,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Laha Badru-t-Tim</b>
-                                    <span>Interprétation du Sheikh Mahmud Subh</span>
+                                    <span>Interpretazione di Sheikh Mahmud Subh</span>
                                 </div>
                             </label>
                         </div>
