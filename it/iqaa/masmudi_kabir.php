@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/masmudi_kabir.png" class="img-fluid">
                     </div>
                     
-                    <p>L' Iqa‘ Masmudi Kabir (o abbreviato Masmudi) è uno dei ritmi più popolari nel repertorio Tarab del XX secolo. La parola "kabir" significa grande/esteso in arabo, in modo da distinguerlo dal <a href="baladi.php">Masmudi Saghir</a> (Masmudi breve, più comunemente chiamato <strong>Baladi</strong>).</p>
+                    <p>L'Iqa‘ Masmudi Kabir (o abbreviato Masmudi) è uno dei ritmi più popolari nel repertorio Tarab del XX secolo. La parola "kabir" significa grande/esteso in arabo, in modo da distinguerlo dal <a href="baladi.php">Masmudi Saghir</a> (Masmudi breve, più comunemente chiamato <strong>Baladi</strong>).</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>

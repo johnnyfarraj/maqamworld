@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/samai_darij.png" class="img-fluid">
                     </div>
                     
-                    <p>L' Iqa‘ Sama‘i Darej (anche abbreviato in Darej) è un iqa‘ comune in 3/4 usato sia in generi vocali che strumentali. Iqa‘ Sama‘i Darej è anche l'<em>iqa‘</em> principale utilizzato nella forme di composizioni strumentali <a href="../form/instr_comp.php#darij">Darej</a>.
+                    <p>L'Iqa‘ Sama‘i Darej (anche abbreviato in Darej) è un iqa‘ comune in 3/4 usato sia in generi vocali che strumentali. Iqa‘ Sama‘i Darej è anche l'<em>iqa‘</em> principale utilizzato nella forme di composizioni strumentali <a href="../form/instr_comp.php#darij">Darej</a>.
                     </p>
                     
                     <div class="player-area">

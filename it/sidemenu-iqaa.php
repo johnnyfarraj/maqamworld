@@ -3,6 +3,7 @@
     <li class="d-block d-sm-none"><a href="#" class="hide-side-menu"><i class="fa fa-fw fa-times"></i></a></li>
 
     <li><a href="/it/iqaa/aqsaq.php">Aqsaq 9/8</a></li>
+    <li><a href="/it/iqaa/awfar.php">Awfar Masri 19/4</a></li>
     <li><a href="/it/iqaa/awis.php">‘Awis 11/8</a></li>
     <li><a href="/it/iqaa/ayyub.php">Ayyub 2/4</a></li>
     <li><a href="/it/iqaa/baladi.php">Baladi 4/4</a></li>

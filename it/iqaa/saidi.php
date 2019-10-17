@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/saidi.png" class="img-fluid">
                     </div>
                     
-                    <p>L' Iqa‘ Sa‘idi è un  iqa‘ vivace e tipico dell'Egitto dalla regione Sa‘id. Modula a e da altri  iqa‘at vivaci in 4/4 come il <a href="maqsum.php">Maqsum</a> e il <a href="baladi.php">Baladi</a>.</p>
+                    <p>L'Iqa‘ Sa‘idi è un  iqa‘ vivace e tipico dell'Egitto dalla regione Sa‘id. Modula a e da altri  iqa‘at vivaci in 4/4 come il <a href="maqsum.php">Maqsum</a> e il <a href="baladi.php">Baladi</a>.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>

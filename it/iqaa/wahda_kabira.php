@@ -47,7 +47,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/wahda_kabira.png" class="img-fluid">
                     </div>
                     
-                    <p>L' Iqa‘ Wahda Kabira ("kabira" significa grande in arabo), anche conosciuto come Wahda Sunbati, è una versione allungata dell' <a href="wahda.php">Iqa‘ Wahda</a> di più di due misure. È molto popolare nella musica sia strumentale che vocale della metà del XX secolo.</p>
+                    <p>L'Iqa‘ Wahda Kabira ("kabira" significa grande in arabo), anche conosciuto come Wahda Sunbati, è una versione allungata dell' <a href="wahda.php">Iqa‘ Wahda</a> di più di due misure. È molto popolare nella musica sia strumentale che vocale della metà del XX secolo.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>

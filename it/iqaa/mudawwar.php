@@ -39,9 +39,9 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/mudawwar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Mudawwar</a>
                     </div>
 
-                    <p>L' Iqa‘ Mudawwar è un iqa‘ popolare nel repertorio del <a href="../form/vocal_comp.php#muwashah">Muwashah</a>. La parola "mudawwar" in arabo significa rotondo/circolare.</p>
+                    <p>L'Iqa‘ Mudawwar è un iqa‘ popolare nel repertorio del <a href="../form/vocal_comp.php#muwashah">Muwashah</a>. La parola "mudawwar" in arabo significa rotondo/circolare.</p>
                     
-                    <p>molte forme di Iqa‘ Mudawwar sono in uso, ad esempio <strong>Mudawwar Masri</strong> (egiziano) in 12/4 e Mudawwar Shami (da Damasco o dalla Siria) in 10/4.
+                    <p>Molte forme di Iqa‘ Mudawwar sono in uso, ad esempio <strong>Mudawwar Masri</strong> (egiziano) in 12/4 e Mudawwar Shami (da Damasco o dalla Siria) in 10/4.
                     </p>
 
                     <br>

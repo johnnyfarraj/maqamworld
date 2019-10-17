@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/samai_thaqil.png" class="img-fluid">
                     </div>
                     
-                    <p>L' Iqa‘ Sama‘i Thaqil (anche abbreviato in <strong>Sama‘i</strong>) è un iqa‘ molto popolare nel genere vocale <a href="../form/vocal_comp.php#muwashah">Muwashah</a>, e come principale  iqa‘ usato nel <a href="../form/ottoman.php#samai">Sama‘i</a> forma strumentale Turca/Ottomana.
+                    <p>L'Iqa‘ Sama‘i Thaqil (anche abbreviato in <strong>Sama‘i</strong>) è un iqa‘ molto popolare nel genere vocale <a href="../form/vocal_comp.php#muwashah">Muwashah</a>, e come principale  iqa‘ usato nel <a href="../form/ottoman.php#samai">Sama‘i</a> forma strumentale Turca/Ottomana.
                     </p>
                     
                     <div class="player-area">

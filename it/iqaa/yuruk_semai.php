@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/yuruk_semai.png" class="img-fluid">
                     </div>
                     
-                    <p>L' Iqa‘ Yuruk Semai è originario della Turchia. È molto popolare nel genere del <a href="../form/vocal_comp.php#muwashah">Muwashah</a>, ed è anche chiamato Yugrug. Quando è veloce può modulare all'<a href="samai_darij.php">Iqa' Sama‘i darij</a> in 3/4 o <a href="samai_saraband.php">Iqa' Sama‘i Saraband</a> in 3/8.
+                    <p>L'Iqa‘ Yuruk Semai è originario della Turchia. È molto popolare nel genere del <a href="../form/vocal_comp.php#muwashah">Muwashah</a>, ed è anche chiamato Yugrug. Quando è veloce può modulare all'<a href="samai_darij.php">Iqa' Sama‘i darij</a> in 3/4 o <a href="samai_saraband.php">Iqa' Sama‘i Saraband</a> in 3/8.
                     </p>
                     
                     <div class="player-area">

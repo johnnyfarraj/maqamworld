@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/sudasi.png" class="img-fluid">
                     </div>
 
-                    <p>L' Iqa‘ Sudasi (il cui nome significa basato sul numero 6) è un iqa‘ molto popolare per accompagnare canzoni folk di danze del Libano e della Palestina, come il <em>Dabke</em>.  Può modulare a 3 battute consecutive di <a href="malfuf.php">Iqa‘ Malfuf</a>.</p>
+                    <p>L'Iqa‘ Sudasi (il cui nome significa basato sul numero 6) è un iqa‘ molto popolare per accompagnare canzoni folk di danze del Libano e della Palestina, come il <em>Dabke</em>.  Può modulare a 3 battute consecutive di <a href="malfuf.php">Iqa‘ Malfuf</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
