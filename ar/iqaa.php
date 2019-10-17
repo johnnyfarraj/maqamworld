@@ -118,7 +118,7 @@ include($ROOT . 'inc/head.php');
                                     <li><a href="iqaa/muhajjar.php">محجّر ١٤/٤</a></li>
                                     <li><a href="iqaa/mukhammas.php">مخمّس ١٦/٤</a></li>
                                     <li><a href="iqaa/khosh_rang.php">خوش رانك ١٧/٨</a></li>
-                                    <li><a href="/ar/iqaa/awfar.php">أوفر مصري ١٩/٤</a></li>
+                                    <li><a href="iqaa/awfar.php">أوفر مصري ١٩/٤</a></li>
                                     <li><a href="iqaa/fakhit.php">فاخت ٢٠/٤</a></li>
                                     <li><a href="iqaa/sittatu_ashar.php">ستة عشر مصري ٣٢/٤</a></li>
                                 </ul>
