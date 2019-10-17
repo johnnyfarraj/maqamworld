@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Iqa‘ Sama‘i Darej";
 $page_description = "Iqa‘ Sama‘i Darej";
-$page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, sama‘i, samai darij, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
+$page_keywords = "musique arabe, mode arabe, maqam, jins, iqa‘, iqaa, rhythme, sama‘i, samai darij, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient, tarab";
 $page_language = "fr";
 
 include($ROOT . 'inc/head.php');

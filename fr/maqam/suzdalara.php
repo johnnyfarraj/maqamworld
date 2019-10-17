@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Suzdalara";
 $page_description = "Maqam Suzdalara";
-$page_keywords = "arabic, music, arab, world, maqam, jins, suzdalara, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "musique arabe, mode arabe, maqam, jins, suzdalara, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
 $page_language = "fr";
 
 include($ROOT . 'inc/head.php');

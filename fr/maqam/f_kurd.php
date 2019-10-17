@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Famille du Maqam Kurd";
 $page_description = "Famille du Maqam Kurd";
-$page_keywords = "arabic, music, arab, world, maqam, kurd, family, jins, iqa‘, iqaa, rhythm, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
+$page_keywords = "musique arabe, mode arabe, maqam, kurd, family, jins, iqa‘, iqaa, rhythme, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient, tarab";
 $page_language = "fr";
 
 include($ROOT . 'inc/head.php');

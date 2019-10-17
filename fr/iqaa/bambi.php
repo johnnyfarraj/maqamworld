@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Iqa‘ Bambi";
 $page_description = "Iqa‘ Bambi";
-$page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, bambi, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
+$page_keywords = "musique arabe, mode arabe, maqam, jins, iqa‘, iqaa, rhythme, bambi, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient, tarab";
 $page_language = "fr";
 
 include($ROOT . 'inc/head.php');

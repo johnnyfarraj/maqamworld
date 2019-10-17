@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Saba Zamzam";
 $page_description = "Maqam Saba Zamzam";
-$page_keywords = "arabic, music, arab, world, maqam, jins, saba zamzam, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "musique arabe, mode arabe, maqam, jins, saba zamzam, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
 $page_language = "fr";
 
 include($ROOT . 'inc/head.php');

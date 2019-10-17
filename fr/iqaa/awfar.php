@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ ‘Awisse";
-$page_description = "Iqa‘ ‘Awisse";
-$page_keywords = "musique arabe, mode arabe, maqam, jins, iqa‘, iqaa, rhythme, aqsaq, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient, tarab";
+$page_title = "Iqa‘ Awfar Masri";
+$page_description = "Iqa‘ Awfar Masri";
+$page_keywords = "musique arabe, mode arabe, maqam, jins, iqa‘, iqaa, rhythme, awfar masri, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient, tarab";
 $page_language = "fr";
 
 include($ROOT . 'inc/head.php');
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="iqaas-page">
 
     <?php
-      $page = "fr/iqaa/awis.php";
+      $page = "fr/iqaa/awfar.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -29,79 +29,96 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ ‘Awisse 11/8</h1>
+                        <h1>Iqa‘ Awfar Masri 19/4</h1>
                     </div>
+
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/awis.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de ‘Awisse</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/awfar_masri.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Awfar Masri</a>
                     </div>
 
-                    <div class="notation">
-                        <img src="/note/iqaa/awis.png" class="img-fluid">
-                    </div>
-
-                    <p>Le Iqa‘ ‘Awisse est surtout utilisé dans le genre vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a>. Certains pièces dans ce <em>iqa‘</em> commencent sur le 3<sup>ième</sup> temps (le premier <em>tak</em>), par exemple le <strong>Mouachah Mouniati Man Roumtou Qourbouhou</strong>.  Le <strong>Mouachah ibbi Da‘ani Lil-Wisal</strong> commence quant à lui sur le 11<em>ième</em> temps (le dernier <em>tak</em>).
+                    <p>Le Iqa‘ Awfar Masri est un <em>iqa‘</em> populaire dans le répertoire vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a>. Il en existe plusieurs formes dont deux sont montrées ci-dessous.
                     </p>
+
+                    <br>
+                    <div class="heading jins text-center">
+                        <h3>Forme I</h3>
+                    </div>
+                    <div class="clearfix"></div>
+                    <br>
+                    
+                    <div class="notation">
+                        <img src="/note/iqaa/awfar_f1.png" class="img-fluid">
+                    </div>
 
                     <div class="player-area">
                         <audio id="player" controls>
-                            <source src="/audio/iqaa/awis/hibbi_da3ani1.mp3" type="audio/mp3">
+                            <source src="/audio/iqaa/awfar/man_kunta_anta_habibahu.mp3" type="audio/mp3">
                         </audio>
                     </div>
 
-                    <div class="track " data-song="/audio/iqaa/awis/hibbi_da3ani1.mp3">
+                    <div class="track " data-song="/audio/iqaa/awfar/man_kunta_anta_habibahu.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Hibbi Da‘ani Lil-Wisal</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
-                                    <span>Musique de Sayyed Darwich</span>
-                                    <span><img src="/img/cd.png"> Nagham Al-Ams Vol.2 - Bayati Chouri</span>
+                                    <b>Mouachah Man Kunta Anta Habibahu</b>
+                                    <span>Al-Kindi Ensemble</span>
+                                    <span><img src="/img/cd.png"> The Aleppian Music Room II - Maqam Rast</span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/awis/hibbi_da3ani2.mp3">
+                    <br>
+                    <div class="heading jins text-center">
+                        <h3>Forme II</h3>
+                    </div>
+                    <div class="clearfix"></div>
+                    <br>
+                    
+                    <div class="notation">
+                        <img src="/note/iqaa/awfar_f2.png" class="img-fluid">
+                    </div>
+
+                    <div class="track" data-song="/audio/iqaa/awfar/ghuddi_jufunaki.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Hibbi Da‘ani Lil-Wisal</b>
-                                    <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Liban)</span>
-                                    <span>Chef d'orchestre: Aïda Chalhoub Ziadé</span>
-                                    <span>Musique de Sayyed Darwich</span>
-                                    <span><img src="/img/cd.png"> Orientalia: Mouachah et Chansons</span>
+                                    <b>Mouachah Ghouddi Joufounaki</b>
+                                    <span>(en <a href="../maqam/saba.php">Maqam Saba)</a></span>
+                                    <span>Ghada Chbeir (Liban)</span>
+                                    <span><img src="/img/cd.png"> Al-Mouachahat</span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/awis/munyati_man_rumtu.mp3">
+                    <div class="track" data-song="/audio/iqaa/awfar/ya_man_ramani_bil_siham.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Mouniati Man Roumtou Qourbouhou</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <b>Mouachah Ya Man Ramani Bil-Siham</b>
+                                    <span>(en <a href="../maqam/nikriz.php">Maqam Nikriz)</a></span>
+                                    <span>Ensemble Dougah</span>
                                     <span>Musique de Omar al-Batch</span>
-                                    <span><img src="/img/cd.png"> Nagham Al-Ams Vol.9 - Rast</span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/awis/munyati_sidul_milah.mp3">
+                    <div class="track" data-song="/audio/iqaa/awfar/ya_na3isa_al_ajfan.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Mouniati Sidou-l-Milah</b>
-                                    <span>(chanté en 11/4)</span>
-                                    <span>le chantre Mahmoud Farès</span>
+                                    <b>Mouachah Ya Na‘isa al-Ajfan</b>
+                                    <span>(en <a href="../maqam/nahawand.php">Maqam Nahawand)</a></span>
+                                    <span>Khaled al-Hafez</span>
                                     <span>Musique de Omar al-Batch</span>
                                 </div>
                             </label>

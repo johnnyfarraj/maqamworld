@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Iqa‘ Masmoudi Kabir";
 $page_description = "Iqa‘ Masmoudi Kabir";
-$page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, masmudi kabir, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
+$page_keywords = "musique arabe, mode arabe, maqam, jins, iqa‘, iqaa, rhythme, masmudi kabir, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient, tarab";
 $page_language = "fr";
 
 include($ROOT . 'inc/head.php');

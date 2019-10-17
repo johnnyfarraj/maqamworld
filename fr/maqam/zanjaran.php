@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Zanjarane";
 $page_description = "Maqam Zanjarane";
-$page_keywords = "arabic, music, arab, world, maqam, jins, zanjaran, hijaz, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "musique arabe, mode arabe, maqam, jins, zanjaran, hijaz, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
 $page_language = "fr";
 
 include($ROOT . 'inc/head.php');

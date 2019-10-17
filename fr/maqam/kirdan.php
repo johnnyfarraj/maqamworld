@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Kirdane/Maqam Sazkar";
 $page_description = "Maqam Kirdane/Maqam Sazkar";
-$page_keywords = "arabic, music, arab, world, maqam kirdan, maqam sazkar, jins, kirdan, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "musique arabe, mode arabe, maqam kirdan, maqam sazkar, jins, kirdan, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
 $page_language = "fr";
 
 include($ROOT . 'inc/head.php');
