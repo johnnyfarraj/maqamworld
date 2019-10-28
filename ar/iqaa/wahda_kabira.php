@@ -99,7 +99,21 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>مقطوعة توتة</b>
-                                    <span>الحان فريد الاطرش (سوريا-مصر)</span>
+                                    <span>الحان فريد الاطرش (سوريا/مصر)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="track" data-song="/audio/iqaa/wahda_kabira/ya_bid3_el_ward.mp3 ">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>اغنية يا بدع الورد (١٩٤٤)</b>
+                                    <span>غناء اسمهان (سوريا/مصر)</span>
+                                    <span>كلمات حلمي الحكيم (مصر)</span>
+                                    <span>الحان فريد الاطرش (سوريا/مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -112,7 +126,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية سوا ربينا (١٩٦١)</b>
                                     <span>غناء فيروز (لبنان)</span>
-                                    <span>كلمات  وألحان الأخوين رحباني</span>
+                                    <span>كلمات وألحان الأخوين رحباني</span>
                                 </div>
                             </label>
                         </div>

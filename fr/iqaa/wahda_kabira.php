@@ -106,6 +106,19 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/iqaa/wahda_kabira/ya_bid3_el_ward.mp3 ">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Ya Bid‘ el-Ward (1944)</b>
+                                    <span>Asmahan</span>
+                                    <span>Musique de Farid al-Atrache</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                     <div class="track" data-song="/audio/iqaa/wahda_kabira/sawa_rbina.mp3">
                         <div class="radio">
                             <label>
