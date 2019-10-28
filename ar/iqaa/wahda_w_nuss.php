@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>اغنية نورا نورا (١٩٥٣)</b>
-                                    <span>غناء والحان فريد الأطرش (سوريا-مصر)</span>
+                                    <span>غناء والحان فريد الأطرش (سوريا/مصر)</span>
                                     <span>كلمات محمود فهمي ابراهيم (مصر)</span>
                                 </div>
                             </label>
@@ -98,7 +98,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية يا كاويني يا علي (١٩٥٣)</b>
                                     <span>غناء صباح (لبنان)</span>
-                                    <span>الحان فريد الأطرش (سوريا-مصر)</span>
+                                    <span>الحان فريد الأطرش (سوريا/مصر)</span>
                                 </div>
                             </label>
                         </div>

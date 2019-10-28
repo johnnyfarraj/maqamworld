@@ -102,7 +102,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>مقطوعة توتة</b>
-                                    <span>الحان فريد الاطرش (سوريا-مصر)</span>
+                                    <span>الحان فريد الاطرش (سوريا/مصر)</span>
                                 </div>
                             </label>
                         </div>

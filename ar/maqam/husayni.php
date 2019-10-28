@@ -126,7 +126,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية نورا نورا (١٩٥٣)</b>
-                                    <span>غناء والحان فريد الأطرش (سوريا-مصر)</span>
+                                    <span>غناء والحان فريد الأطرش (سوريا/مصر)</span>
                                     <span>كلمات محمود فهمى ابراهيم</span>
                             </label>
                         </div>

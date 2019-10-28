@@ -124,7 +124,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية حِبّينا (١٩٧٥)</b>
-                                    <span>غناء والحان فريد الأطرش (سوريا-مصر)</span>
+                                    <span>غناء والحان فريد الأطرش (سوريا/مصر)</span>
                                     <span>كلمات : توفيق بركات (لبنان)</span>
                                 </div>
                             </label>
