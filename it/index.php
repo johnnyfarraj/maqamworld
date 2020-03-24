@@ -51,7 +51,7 @@ include($ROOT . 'inc/head.php');
                     </ul>
 
                     <p>
-                        Sono felice di annunciare la pubblicazione di un libro a cui ho lavorato con il mio amico Sami Abu Shumays (creatore di <a href="http://maqamlessons.com" target="_blank">MaqamLessons</a>), intitolato <a href="book.php">INSIDE ARABIC MUSIC</a>, pubblicato dalla <a href="https://global.oup.com/academic/product/inside-arabic-music-9780190658366" target="_blank">Oxford University Press</a> ad Agosto 2019. Il libro è un testo completo sulla musica araba e questo sito ha una funzione di supporto.
+                        Sono felice di annunciare la pubblicazione di un libro a cui ho lavorato con il mio amico Sami Abu Shumays (creatore di <a href="http://maqamlessons.com" target="_blank">MaqamLessons</a>), intitolato <a href="book.php">INSIDE ARABIC MUSIC</a>, pubblicato dalla <a href="https://global.oup.com/academic/product/inside-arabic-music-9780190658366" target="_blank">Oxford University Press</a> a Agosto 2019. Il libro è un testo completo sulla musica araba e questo sito ha una funzione di supporto.
 		</p>
 
                     <div class="row">
