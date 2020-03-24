@@ -5,7 +5,7 @@
 			<a class="nav-link" href="/en/index.php"><i class="fa fa-fw fa-home"></i></a>
 		</li>
 		<li class="nav-item <?php if($page == "el/instr.php") { echo "active"; } ?>">
-			<a class="nav-link" href="/en/instr.php">Mουσικά Όργανα</a>
+			<a class="nav-link" href="/en/instr.php">Όργανα</a>
 		</li>
 		<li class="nav-item <?php if($page == "el/forms.php") { echo "active"; } ?>">
 			<a class="nav-link" href="/en/forms.php">Φόρμες</a>
@@ -20,7 +20,7 @@
 			<a class="nav-link" href="/en/iqaa.php">Ρυθμοί</a>
 		</li>
 		<li class="nav-item <?php if($page == "el/book.php") { echo "active"; } ?>">
-			<a class="nav-link" href="/en/book.php">Βιβλίο</a>
+			<a class="nav-link" href="/en/book.php">Δημοσιεύσεις</a>
 		</li>
 	</ul>
 </div>
