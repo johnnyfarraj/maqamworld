@@ -34,7 +34,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>I am happy to announce the recent release of my book <strong>Inside Arabic Music</strong> co-authored with my friend Sami Abu Shumays (creator of <a href="http://maqamlessons.com" target="_blank">MaqamLessons</a>).
                     
-                    This new book was released by <a href="http://global.oup.com" target="_blank">Oxford University Press</a> in August 2019. The book will be a comprehensive reference on Arabic music and MaqamWorld will be its companion website.
+                    This new book was released by <a href="http://global.oup.com" target="_blank">Oxford University Press</a> in August 2019. The book is a comprehensive reference on Arabic music and MaqamWorld will be its companion website.
                     </p>
                     <p><strong>Inside Arabic Music</strong> was the recipient of a 2012 grant from <a href="http://arabculturefund.org/grantees/grantee.php?id=333" target="_blank">The Arab Fund For Arts and Culture</a>.
                     </p>
