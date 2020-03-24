@@ -32,7 +32,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>Sono felice di annunciare la pubblicazione del libro intitolato <strong>Inside Arabic Music</strong> scritto con il mio amico Sami Abu Shumays (creatore di <a href="http://maqamlessons.com" target="_blank">MaqamLessons</a>).
                     Questo nuovo libro è stato pubblicato dalla <a href="http://global.oup.com" target="_blank">Oxford University Press</a> a Agosto 2019.
-                    Il libro sarà un riferimento completo sulla musica araba e Il Mondo del Maqam sarà il suo sito web di accompagnamento.
+                    Il libro è un riferimento completo sulla musica araba e Il Mondo del Maqam sarà il suo sito web di accompagnamento.
                     </p>
                     <p>
                     Il libro è un progetto finanziato nel 2012 dalla <a href="http://arabculturefund.org/grantees/grantee.php?id=333" target="_blank">Fondazione Araba per l'Arte e la Cultura</a>. 
