@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/fakhit.png" class="img-fluid">
                     </div>
                     
-                    <p>L'Iqa‘ Fakhit è un iqa‘ relativamente lungo che occupa 5 misure di 4/4, risultando in un tempo di 20/4. Questo iqa‘ è raro al di fuori del genere <a href="../form/vocal_comp.php#muwashah">Muwashah</a>.</p>
+                    <p>L'Iqa‘ Fakhet è un iqa‘ relativamente lungo che occupa 5 misure di 4/4, risultando in un tempo di 20/4. Questo iqa‘ è raro al di fuori del genere <a href="../form/vocal_comp.php#muwashah">Muwashah</a>.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>

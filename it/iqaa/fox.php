@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/fox.png" class="img-fluid">
                     </div>
 
-                    <p>L'Iqa‘ Fox (derivato probabilmente da "Foxtrot") è un iqa‘ semplice in 2/4 iqa‘ solitamente suonato senza molti arricchimenti sopra una sezione strumentale. Questo, e il fatto che sia spesso suonato in un tempo molto veloce, gli danno un senso di rapidità e urgenza. È il principale iqa‘ usato nella forma strumentale Turca e dell'Europa orientale <a href="../form/ottoman.php#longa">Longa</a>. Il Fox può facilmente modulare al <a href="malfuf.php">Malfuf</a> e ritornare. Una versione molto lenta del  (vedi gli ultimi due esempi) può essere scritta in 4/4.</p>
+                    <p>L'Iqa‘ Fox (derivato probabilmente da "Foxtrot") è un iqa‘ semplice in 2/4 iqa‘ solitamente suonato senza molti arricchimenti sopra una sezione strumentale. Questo, e il fatto che sia spesso suonato in un tempo molto veloce, gli danno un senso di rapidità e urgenza. È il principale iqa‘ usato nella forma strumentale Turca e dell'Europa orientale <a href="../form/ottoman.php#longa">Longa</a>. Il Fox può facilmente modulare al <a href="malfuf.php">Malfuf</a> e ritornare. Una versione molto lenta del Fox (vedi gli ultimi due esempi) può essere scritta in 4/4.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

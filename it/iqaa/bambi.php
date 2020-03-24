@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/bambi_f1.png" class="img-fluid">
                     </div>
 
-                    <p>L'Iqa‘ Bambi è un 8/4 allungato egiziano, un fantastico accompagnamento per le <a href="../form/improv.php">improvvisazioni</a> e per qualche sezione vocale. È consueto iniziare a suonare sul Bambi dal settimo battito (il penultimo <em>dum</em>), in modo da enfatizzare i 3 <em>dum</em> consecutivi che iniziano ad ogni ciclo. Una variazione del Bambi inizia la battuta con 3 <em>dum</em> consecutivi. 
+                    <p>L'Iqa‘ Bambi è un 8/4 allungato egiziano, un fantastico accompagnamento per le <a href="../form/improv.php">improvvisazioni</a> e per qualche sezione vocale. È consuetudine iniziare a suonare sul Bambi dal settimo battito (il penultimo <em>dum</em>), in modo da enfatizzare i 3 <em>dum</em> consecutivi che iniziano ad ogni ciclo. Una variazione del Bambi inizia la battuta con 3 <em>dum</em> consecutivi. 
 					</p>
 
                     <div class="player-area">

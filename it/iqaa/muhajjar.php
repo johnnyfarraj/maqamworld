@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/muhajjar.png" class="img-fluid">
                     </div>
 
-                    <p>L'Iqa‘ Muhajjar è molto popolare nel reportorio del <a href="../form/vocal_comp.php#muwashah">Muwashah</a>. È immediatamente riconoscibile dal 3 consecutivi <em>dum</em> che aprono la battuta. La parola "muhajjar" in arabo significa fatto di pietra.</p>
+                    <p>L'Iqa‘ Muhajjar è molto popolare nel reportorio del <a href="../form/vocal_comp.php#muwashah">Muwashah</a>. È immediatamente riconoscibile dai 3 consecutivi <em>dum</em> che aprono la battuta. La parola "muhajjar" in arabo significa fatto di pietra.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/ayyub.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Ayyub è principalmente usato nella musica Sufi, nella musica Folk e nel Raqs Sharqi (danza del ventre). L'Ayyub viene a volte chiamato <strong>Zar</strong> in Egitto, dopo una cerimonia di guarigione guidata da una donna uno strumento percussivo portatile. L'Ayyub ha un senso di rapitidà, è corto e ciclico.</p>
+                    <p>Iqa‘ Ayyub è principalmente usato nella musica Sufi, nella musica Folk e nel Raqs Sharqi (danza del ventre). L'Ayyub viene a volte chiamato <strong>Zar</strong> in Egitto, dopo una cerimonia di guarigione guidata da una donna che suona uno strumento percussivo portatile. L'Ayyub ha un senso di rapitidà, è corto e ciclico.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

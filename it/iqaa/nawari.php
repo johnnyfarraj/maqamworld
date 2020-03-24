@@ -46,7 +46,7 @@ include($ROOT . 'inc/head.php');
                     <p>L'Iqa‘ Nawari è una variazione dell'<a href="saidi.php">Iqa‘ Sa‘idi</a> e <a href="baladi.php">Baladi</a> usato principalmente nella musica folk del levante e nelle danze <em>Dabke</em>.
                     </p>
                     
-                    <p>L'Iqa‘ Nawari è spesso chiamato <strong>Katakufti</strong> dai percussionisti, anche se l'<a href="katakufti.php">Iqa‘ Katakufti</a> originale ha un armatura differente. La ragione di questo nome alternativo è perchè l'<a href="katakufti.php">Iqa‘ Katakufti</a> suona esattamente come il <strong>Nawari</strong> quando inizia dall'ultimo <em>tak</em>.
+                    <p>L'Iqa‘ Nawari è spesso chiamato <strong>Katakufti</strong> dai percussionisti, anche se l'<a href="katakufti.php">Iqa‘ Katakufti</a> originale ha un'armatura differente. La ragione di questo nome alternativo è perchè l'<a href="katakufti.php">Iqa‘ Katakufti</a> suona esattamente come il <strong>Nawari</strong> quando inizia dall'ultimo <em>tak</em>.
                     </p>
                     
                     <div class="player-area">
