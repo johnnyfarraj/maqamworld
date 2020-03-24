@@ -4,9 +4,9 @@
 include('../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "";
-$page_description = "";
-$page_keywords = "";
+$page_title = "Ο Κόσμος των Μακάμ";
+$page_description = "Ο Κόσμος των Μακάμ";
+$page_keywords = "Μακάμ, Γένη, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
 $page_language = "el";
 include($ROOT . 'inc/head.php');
 ?>
@@ -115,10 +115,10 @@ include($ROOT . 'inc/head.php');
                             <div class="card">
                                 <img class="card-img-top" src="/img/vladimir_tamari.png" alt="The Arabic Oud">
                                 <div class="card-body">
-                                    <h5 class="card-title">Βιβλίο</h5>
+                                    <h5 class="card-title">Δημοσιεύσεις</h5>
                                     <p class="card-text">Μάθετε για την προσεχή έκδοση του βιβλίου <strong>Inside Arabic Music</strong> (από κοινού συγγραφική δουλειά με τον Σάμι Αμπού Σουμάις) η οποία αναμένεται να κυκλοφορήσει στα μέσα του Φλεβάρη 2019.
                                     </p>
-                                    <a href="/el/book.php" class="btn btn-primary">Βιβλίο<i class="fa fa-fw fa-angle-right"></i></a>
+                                    <a href="/el/book.php" class="btn btn-primary">Δημοσιεύσεις<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -135,7 +135,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
 
-    <?php include($ROOT . 'en/footer.php'); ?>
+    <?php include($ROOT . 'el/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
 
   </body>
