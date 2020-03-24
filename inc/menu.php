@@ -37,6 +37,11 @@
                 <input type="search" placeholder="Ricerca" class="form-control" name="search" autocomplete="off" name="q">
                 <button type="submit"><i class="fa fa-fw fa-search"></i></button>
             </form>
+            <?php } else if($page_language == "el") { ?>
+            <form class="search-bar" action="/el/results.php" method="get">
+                <input type="search" placeholder="Αναζήτηση" class="form-control" name="search" autocomplete="off" name="q">
+                <button type="submit"><i class="fa fa-fw fa-search"></i></button>
+            </form>
             <?php } ?>
 
             <!-- Language Selector -->
@@ -46,7 +51,8 @@
                 "fr" => "Français",
                 "ar" => "العربية",
                 "de" => "Deutsch",
-                "it" => "Italiano"
+                "it" => "Italiano",
+                "el" => "Ελληνικά"
             ];
             ?>
             <div class="dropdown">
@@ -85,6 +91,8 @@
 	                <?php include($ROOT . 'de/navbar.php');?>
                 <?php } else if($page_language == "it") { ?>
 	                <?php include($ROOT . 'it/navbar.php');?>
+                <?php } else if($page_language == "el") { ?>
+	                <?php include($ROOT . 'el/navbar.php');?>
                 <?php } ?>
             </div>
         </nav>
