@@ -51,23 +51,23 @@ include($ROOT . 'inc/head.php');
 
           <ul>
             <li><a href="maqam/f_ajam.php">Οικογένεια Μακάμ Άτζαμ</a></li>
-            <li><a href="maqam/f_bayati.php">Οικογένεια Μακάμ Μπαϊάτι</a></li>
-            <li><a href="maqam/f_hijaz.php">Οικογένεια Μακάμ Χιτζάζ</a></li>
             <li><a href="maqam/f_kurd.php">Οικογένεια Μακάμ Κουρντ</a></li>
+            <li><a href="maqam/f_bayati.php">Οικογένεια Μακάμ Μπαϊάτι</a></li>
             <li><a href="maqam/f_nahawand.php">Οικογένεια Μακάμ Ναχαουάντ</a></li>
             <li><a href="maqam/f_nikriz.php">Οικογένεια Μακάμ Νικρίζ</a></li>
             <li><a href="maqam/f_rast.php">Οικογένεια Μακάμ Ραστ</a></li>
             <li><a href="maqam/f_sikah.php">Οικογένεια Μακάμ Σίκα</a></li>
+            <li><a href="maqam/f_hijaz.php">Οικογένεια Μακάμ Χιτζάζ</a></li>
           </ul>
 
           <p>Quelques maqams no partagent leur premier jins avec aucun autre maqam, et par conséquent n'appartiennent à aucune famille. Ce sont les suivants: </p>
 
           <ul>
-            <li><a href="maqam/jiharkah.php">Μακάμ Τζιχάρκα</a></li>
             <li><a href="maqam/lami.php">Μακάμ Λάμι</a></li>
             <li><a href="maqam/saba.php">Μακάμ Σάμπα</a></li>
             <li><a href="maqam/saba_zamzam.php">Μακάμ Σάμπα Ζάμζαμ</a></li>
             <li><a href="maqam/sikah_baladi.php">Μακάμ Σίκα Μπάλαντι</a></li>
+            <li><a href="maqam/jiharkah.php">Μακάμ Τζιχάρκα</a></li>
           </ul>
 
         </div>
