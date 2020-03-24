@@ -45,7 +45,12 @@ include($ROOT . 'inc/head.php');
                         <li>eine Kontaktseite für Nutzerfeedback</li>
                     </ul>
 
-                    <p>Ich freue mich, auf ein bald erscheinendes Buch zum Thema Maqam hinweisen zu können. Ich habe es gemeinsam mit meinem Freund Sami Abu Shumays geschrieben, dem Kopf hinter den <a href="http://maqamlessons.com" target="_blank">MaqamLessons</a>. Es wird den Titel <a href="book.php">INSIDE ARABIC MUSIC</a> tragen und es soll im August 2019 bei <a href="https://global.oup.com/academic/product/inside-arabic-music-9780190658366" target="_blank">Oxford University Press</a> erscheinen. Das Buch wird ein umfangreiches Nachschlagewerk zur arabischen Musik sein. Diese Website fungiert dann als sein Begleiter. Das Buchprojekt wurde übrigens 2012 vom <a href="http://arabculturefund.org" target="_blank">AFAC</a> gefördert.
+                    <p>Ich freue mich, die Veröffentlichung eines Buches zum Thema arabische Musik bekannt zu geben.
+                      Ich habe es gemeinsam mit meinem Freund Sami Abu Shumays geschrieben, 
+                      dem Kopf hinter den <a href="http://maqamlessons.com" target="_blank">MaqamLessons</a>.
+                      Es trägt den Titel <a href="book.php"> INSIDE ARABIC MUSIC </a> und wurde im August 2019 veröffentlicht
+                      bei <a href="https://global.oup.com/academic/product/inside-arabic-music-9780190658366" target="_blank">Oxford University Press</a> erscheinen. Das Buch ist ein umfangreiches Nachschlagewerk über arabische Musik.
+                      Diese Website fungiert dann als sein Begleiter. 
                     </p>
 
                     <div class="row">
