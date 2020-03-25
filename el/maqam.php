@@ -4,9 +4,9 @@
 include('../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Le Maqam arabe";
-$page_description = "Le Maqam arabe";
-$page_keywords = "musique arabe, maqam, instruments, jins, iqa‘, iqaa, rythme, oud, qanoun, nay, quart de ton, tarab";
+$page_title = "Το Αραβικό Μακάμ";
+$page_description = "Το Αραβικό Μακάμ";
+$page_keywords = "Μακάμ, Γένη, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -23,25 +23,41 @@ include($ROOT . 'inc/head.php');
     <div class="container">
       <div class="row">
         <div class="col-md-3">
-          <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
+          <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετηρίου των Μακάμ</a>
           <?php include('sidemenu-maqam.php'); ?>
         </div>
         <div class="col-md-9 col-sm-9">
 
           <div class="heading text-center jins">
-            <h1>Le Maqam Arabe</h1>
-            <h3>Un système de gammes, motifs mélodiques, possibilités de modulation, normes d'ornementation et conventions esthétiques</h3>
+            <h1>Το Αραβικό Μακάμ</h1>
+            <h3>Ένα σύστημα κλιμάκων, συνήθεις μελωδικές φράσεις, μετατροπιακές πιθανότητες, 
+             πρώτυπα διανθισμάτων, και αισθητικές συμβάσεις</h3>
           </div>
-          <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
+          <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετηρίου των Μακάμ</a>
           <div class="clearfix"></div>
 
           <div class="text-center mt-2 mb-3">
-            <a href="#" class="pronunciation btn btn-default" data-audio="/name/maqam.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Maqam/Maqamat</a>
+            <a href="#" class="pronunciation btn btn-default" data-audio="/name/maqam.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Μακάμ/Μακαμάτ</a>
           </div>
 
-          <p>Le Maqam arabe est un système de gammes, motifs mélodiques, possibilités de modulation, normes d'ornementation et conventions esthétiques qui forment ensemble un cadre mélodique et une tradition artistique riches. Le trajet mélodique du <em>maqam</em> (tant au niveau de la musique composée qu'improvisée) est appelé <em>sayr</em> (pronnoncé saïr) en arabe.</p>
+          <p>
+           Το Αραβικό Μακάμ (πλ. Μακαμάτ) είναι ένα σύστημα κλιμάκων, σύνηθων μελωδικών φράσεων, μετατροπιακών πιθανοτήτων, 
+           τεχνικών διανθισμάτος και συμβάσεων αισθητικής όπου μαζί διαμορφώνουν ένα πλούσιο μελωδικό πλαίσιο δράσης 
+           και παράδοση στην καλλιτεχνία.
+           Οι μελωδική ανάπτυξη των μακάμ (τόσο στην σύνθεση όσο και στον αυτοσχεδιασμό) 
+           μέσα σε αυτό το πλαίσιο λέγεται <em>Σάιερ</em>. 
+         </p>
 
-          <p>Chaque gamme de maqam peut être construite en mettant ensemble deux (ou dans certains cas trois) fragments de gamme ou morceaux de construction appelés <a href="jins.php">jins</a> (<em>ajnas</em> au pluriel). Le <em>maqam</em> reçoit ses intervalles, son comportement mélodique et son ethos en fonction des <em>ajnas</em> qui le constituent. Le premier <em>jins</em> débute toujours la gamme du <em>maqam</em> par la tonique sur le 1er degré, et le deuxième <em>jins</em> débute au <em>ghammaz</em> (le point de modulation) du premier <em>jins</em> (généralement sa dernière note). Si un troisième <em>jins</em> est utilisé, sa tonique coïncide avec le <em>ghammaz</em> du deuxième <em>jins</em>, et ainsi de suite. La note précédant directement la tonique est appelée la sensible.</p>
+          <p>
+           Κάθε Μακάμ μπορεί να χτιστεί συνδυάζοντας δύο (ή σε μερικές περιπτώσεις) μέρη κλιμάκων ή χτίζοντας 
+           υπομονάδες (τετράχορδα) οι οποίες λέγονται Ζινς (πλ. Αζνάς). 
+           Το Μακάμ λαμβάνει τα διαστήματά του, μελωδική συμπεριφορά και γενική διάθεση από αυτά τα Αζνάς. 
+           Το πρώτο Ζινς ξεκινάει το μακάμ με την τονική στην πρώτη στην 1η βαθμίδα, και το δεύτερο Ζινς ξεκινάει 
+           στο γάμμαζ (σημείο που επίκειται μετατροπία) το οποίο συνήθως βρίσκεται στην τελευταία νότα του πρώτου Τζινς. 
+           Εάν ένα τρίτο Ζινς χρησιμοποιείται, τότε η τονική του συμπίπτει με την βαθμίδα γάμμαζ του δεύτερου Ζινς, 
+           και πάει λέγοντας. Η νότα αμέσως κάτω της τονικής λέγεται νότα οδηγός. 
+
+           Chaque gamme de maqam peut être construite en mettant ensemble deux (ou dans certains cas trois) fragments de gamme ou morceaux de construction appelés <a href="jins.php">jins</a> (<em>ajnas</em> au pluriel). Le <em>maqam</em> reçoit ses intervalles, son comportement mélodique et son ethos en fonction des <em>ajnas</em> qui le constituent. Le premier <em>jins</em> débute toujours la gamme du <em>maqam</em> par la tonique sur le 1er degré, et le deuxième <em>jins</em> débute au <em>ghammaz</em> (le point de modulation) du premier <em>jins</em> (généralement sa dernière note). Si un troisième <em>jins</em> est utilisé, sa tonique coïncide avec le <em>ghammaz</em> du deuxième <em>jins</em>, et ainsi de suite. La note précédant directement la tonique est appelée la sensible.</p>
 
           <p>Traditionnellement, chaque <em>maqam</em> est basé sur une gamme. La première note de la gamme est appelée la tonique. Les gammes de <em>maqam</em> sont généralement faite de 7 notes qui se répètent à l'octave supérieure, même si certaines gammes de <em>maqam</em> ont des fois 8 notes ou plus. De plus, quelques gammes de <em>maqam</em> n'ont pas d'équivalence d'octave à la 8<sup>ième</sup> note.</p>
 
