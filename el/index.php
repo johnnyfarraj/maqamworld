@@ -73,9 +73,9 @@ include($ROOT . 'inc/head.php');
                             <div class="card">
                                 <img class="card-img-top" src="/img/nahat_star.png" alt="The Arabic Oud">
                                 <div class="card-body">
-                                    <h5 class="card-title">Γένη</h5>
+                                    <h5 class="card-title">Τζινς</h5>
                                     <p class="card-text">Μάθετε για τα γένη των <b>μακάμ</b>, τις υπομονάδες των τρόπων που συστήνουν κάθε <b>μακάμ</b>.</p>
-                                    <a href="/el/jins.php" class="btn btn-primary">Γένη<i class="fa fa-fw fa-angle-right"></i></a>
+                                    <a href="/el/jins.php" class="btn btn-primary">Τζινς<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -104,10 +104,10 @@ include($ROOT . 'inc/head.php');
                             <div class="card">
                                 <img class="card-img-top" src="/img/nahat_names.png" alt="The Arabic Oud">
                                 <div class="card-body">
-                                    <h5 class="card-title">Mουσικά Όργανα</h5>
+                                    <h5 class="card-title">Όργανα</h5>
                                     <p class="card-text">Μάθετε για τα παραδοσιακά Αραβικά μουσικά όργανα, μελωδικά και κρουστά, όπως επίσης και αυτά τα δυτικά τα οποία έχουν “Αραβοποιηθεί”.
                                     </p>
-                                    <a href="/el/instr.php" class="btn btn-primary">Mουσικά Όργανα<i class="fa fa-fw fa-angle-right"></i></a>
+                                    <a href="/el/instr.php" class="btn btn-primary">Όργανα<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
