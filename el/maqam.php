@@ -50,20 +50,29 @@ include($ROOT . 'inc/head.php');
 
           <p>
            Κάθε Μακάμ μπορεί να χτιστεί συνδυάζοντας δύο (ή σε μερικές περιπτώσεις) μέρη κλιμάκων ή χτίζοντας 
-           υπομονάδες (τετράχορδα) οι οποίες λέγονται Ζινς (πλ. Αζνάς). 
+           υπομονάδες (τετράχορδα) οι οποίες λέγονται <a href="jins.php">Τζινς</a> (πλ. <em>Αζνάς</em>). 
            Το Μακάμ λαμβάνει τα διαστήματά του, μελωδική συμπεριφορά και γενική διάθεση από αυτά τα Αζνάς. 
            Το πρώτο Ζινς ξεκινάει το μακάμ με την τονική στην πρώτη στην 1η βαθμίδα, και το δεύτερο Ζινς ξεκινάει 
-           στο γάμμαζ (σημείο που επίκειται μετατροπία) το οποίο συνήθως βρίσκεται στην τελευταία νότα του πρώτου Τζινς. 
-           Εάν ένα τρίτο Ζινς χρησιμοποιείται, τότε η τονική του συμπίπτει με την βαθμίδα γάμμαζ του δεύτερου Ζινς, 
-           και πάει λέγοντας. Η νότα αμέσως κάτω της τονικής λέγεται νότα οδηγός. 
+           στο <em>γάμμαζ</em> (σημείο που επίκειται μετατροπία) το οποίο συνήθως βρίσκεται στην τελευταία νότα του πρώτου Τζινς. 
+           Εάν ένα τρίτο Ζινς χρησιμοποιείται, τότε η τονική του συμπίπτει με την βαθμίδα <em>γάμμαζ</em> του δεύτερου Τζινς, 
+           και πάει λέγοντας. Η νότα αμέσως κάτω της τονικής λέγεται νότα οδηγός.
+         </p>
 
-           Chaque gamme de maqam peut être construite en mettant ensemble deux (ou dans certains cas trois) fragments de gamme ou morceaux de construction appelés <a href="jins.php">jins</a> (<em>ajnas</em> au pluriel). Le <em>maqam</em> reçoit ses intervalles, son comportement mélodique et son ethos en fonction des <em>ajnas</em> qui le constituent. Le premier <em>jins</em> débute toujours la gamme du <em>maqam</em> par la tonique sur le 1er degré, et le deuxième <em>jins</em> débute au <em>ghammaz</em> (le point de modulation) du premier <em>jins</em> (généralement sa dernière note). Si un troisième <em>jins</em> est utilisé, sa tonique coïncide avec le <em>ghammaz</em> du deuxième <em>jins</em>, et ainsi de suite. La note précédant directement la tonique est appelée la sensible.</p>
+          <p>Παραδοσιακά, κάθε <em>μακάμ</em> βασίζεται σε μία κλίμακα. Η πρώτη νότα στην κλίμακα λέγεται τονική. 
+           Οι κλίμακες <em>μακάμ</em> απαρτίζονται συνήθως από 7 νότες που επαναλαμβάνονται στην οκτάβα. 
+           Παρόλαυτα, κάποιες κλίμακες <em>μακάμ</em> ενδέχεται να επεκτείνουν βαθμίδες πέρα των 8 νοτών. 
+           Επίσης, μερικές κλίμακες <em>μακάμ</em> δεν επιφέρουν αντιστοιχία οκτάβας στην 8η νότα.
+         </p>
 
-          <p>Traditionnellement, chaque <em>maqam</em> est basé sur une gamme. La première note de la gamme est appelée la tonique. Les gammes de <em>maqam</em> sont généralement faite de 7 notes qui se répètent à l'octave supérieure, même si certaines gammes de <em>maqam</em> ont des fois 8 notes ou plus. De plus, quelques gammes de <em>maqam</em> n'ont pas d'équivalence d'octave à la 8<sup>ième</sup> note.</p>
+          <p>
+           Σύμφωνα με την παράδοση, τα μακαμάτ κατηγοριοποιούνται σε οικογένειες βάσει κοινού πρώτου (θεμέλιου) Τζινς. 
+           Το θεμέλιο Τζινς παίζει τον μεγαλύτερο ρόλο στον προσδιορισμό του μακάμ. Το πιο κοινό μακάμ σε κάθε παρακλάδι 
+           συνήθως μοιράζεται το ονομά του με αυτό του θεμέλιου Τζινς. 
+           Τα υπόλοιπα μακαμάτ στην ίδια οικογένεια λέγονται παρακλάδια μακαμάτ, 
+           και στηρίζονται στην χρήση διαφορετικού δέυτερου (άνω) Τζινς.
+         </p>
 
-          <p>Selon la tradition, les <em>maqams</em> sont classés en familles, cette classification étant basée sur le partage du premier <em>jins</em> (<em>jins</em> de base). Le <em>jins</em> de base joue le plus grand rôle quand il s'agit de définir le caractère du <em>maqam</em>. Le <em>maqam</em> le plus commun de la branche partage généralement son nom avec le <em>jins</em> de base. Les autres <em>maqams</em> de la famille sont appelés des <em>maqams</em> de la branche et sont construits en utilisant un autre <em>jins</em> secondaire.</p>
-
-          <p>Vous pouvez commencer à explorer les <em>maqams</em> par famille, ou en utilisant l'<strong></strong>Index des Maqams.</p>
+          <p>Μπορείτε να εξερευνήσετε τα μακαμάτ κατά οικογένεια, ή ένα τη φορά κάνοντας χρήση του Ευρετηρίου των Μακάμ.</p>
 
           <ul>
             <li><a href="maqam/f_ajam.php">Οικογένεια Μακάμ Άτζαμ</a></li>
@@ -76,7 +85,10 @@ include($ROOT . 'inc/head.php');
             <li><a href="maqam/f_hijaz.php">Οικογένεια Μακάμ Χιτζάζ</a></li>
           </ul>
 
-          <p>Quelques maqams no partagent leur premier jins avec aucun autre maqam, et par conséquent n'appartiennent à aucune famille. Ce sont les suivants: </p>
+          <p>
+           Μερικά Μακαμάτ δεν μοιράζονται το πρώτο τους Ζινς με κανένα άλλο και γιαυτό δεν ανήκουν σε καμία οικογένεια. 
+           Αυτά είναι:
+         </p>
 
           <ul>
             <li><a href="maqam/lami.php">Μακάμ Λάμι</a></li>
