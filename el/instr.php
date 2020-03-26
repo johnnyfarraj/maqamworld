@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Instruments</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των οργάνων</a>
                     <?php include('sidemenu-instr.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -32,7 +32,7 @@ include($ROOT . 'inc/head.php');
                         <h1>Αραβικά Μουσικά Όργανα</h1>
                         <h3>Παραδοσιακά, δυτικά Αραβοποιημένα και κρουστά</h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>Index des Instruments</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των οργάνων</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
@@ -79,7 +79,7 @@ include($ROOT . 'inc/head.php');
                         <div class="card">
                             <img class="card-img-top" src="/img/rosette_khalaf.png" alt="Oud Rosette Khalaf">
                             <div class="card-body">
-                                <h5 class="card-title">Instruments Traditionnels</h5>
+                                <h5 class="card-title">Παραδοσιακά Όργανα</h5>
                                 <p class="card-text"><a href="instr/oud.php">Το Ούτι</a></p>
                                 <p class="card-text"><a href="instr/qanun.php">Το Κανονάκι</a></p>
                                 <p class="card-text"><a href="instr/nay.php">Το Νάι</a></p>
@@ -92,7 +92,7 @@ include($ROOT . 'inc/head.php');
                         <div class="card">
                             <img class="card-img-top" src="/img/nahat_girgi.png" alt="Oud Rosette Nahhat">
                             <div class="card-body">
-                                <h5 class="card-title">Instruments Arabisés</h5>
+                                <h5 class="card-title">δυτικά Αραβοποιημένα Όργανα</h5>
                                 <p class="card-text"><a href="instr/accordion.php">Το Αραβικό Ακκορντεόν</a></p>
                                 <p class="card-text"><a href="instr/guitar.php">H Hλεκτρική Κιθάρα</a></p>
                                 <p class="card-text"><a href="instr/org.php">To Αραβικό Οργανο</a></p>
@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                         <div class="card">
                             <img class="card-img-top" src="/img/vergara.png" alt="Oud Rosette Vergara">
                             <div class="card-body">
-                                <h5 class="card-title">Instruments de Percussion</h5>
+                                <h5 class="card-title">Κρουστά Όργανα</h5>
                                 <p class="card-text"><a href="instr/riqq.php">Το Ρεκ</a></p>
                                 <p class="card-text"><a href="instr/tabla.php">Η Τάμπλα</a></p>
                                 <p class="card-text"><a href="instr/tabl_baladi.php">Η Τάμπλα Μπάλαντι</a></p>
