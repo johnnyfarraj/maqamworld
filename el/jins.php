@@ -30,7 +30,9 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading text-center jins">
                         <h1>To Τζινς</h1>
-                        <h3>Τμήμα κλίμακας αποτελούμενο από 3 νότες (3χορδο), 4 νότες ( 4χορδο), ή 5 νότες (5χορδο) με το οποίο χτίζεται ένα μακάμ. </h3>
+                        <h3>Τμήμα κλίμακας αποτελούμενο από 3 νότες (3χορδο),</h3>
+                        <h3>4 νότες ( 4χορδο), ή 5 νότες (5χορδο)</h3>
+                        <h3>με το οποίο χτίζεται ένα μακάμ. </h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Τζινς</a>
                     <div class="clearfix"></div>
