@@ -5,9 +5,9 @@ include('../inc/config.php');
 
 /* SEO settings for this page */
 $page_title = "To Τζινς";
-$page_description = "Le Jins Maqam Musique Arabe";
-$page_keywords = "musique arabe, maqam, instruments, jins, iqa‘, iqaa, rythme, oud, qanoun, nay, quart de ton, tarab";
-$page_language = "fr";
+$page_description = "Το Αραβικό Τζινς";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_language = "el";
 
 include($ROOT . 'inc/head.php');
 ?>
