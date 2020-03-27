@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
                         <li>Πλήρης μετάφραση στα 
                             <a href="/ar/index.php"><strong>Αραβικά</strong></a>, 
                             <a href="/en/index.php"><strong>Αγγλικά</strong></a>, 
-                            <a href="/fr/index.php"><strong>Γαλλικά</strong></a>, 
+                            <a href="/el/index.php"><strong>Γαλλικά</strong></a>, 
                             <a href="/it/index.php"><strong>Ιταλικά</strong></a> και 
                             <a href="/de/index.php"><strong>Γερμανικά</strong></a> (Ισπανικά βρίσκονται υπό κατασκευή).
                         </li>

@@ -11,7 +11,7 @@
 			<a class="nav-link" href="/el/forms.php">Φόρμες</a>
 		</li>
 		<li class="nav-item <?php if($page == "el/jins.php") { echo "active"; } ?>">
-			<a class="nav-link" href="/el/jins.php">Γένη</a>
+			<a class="nav-link" href="/el/jins.php">Τζινς</a>
 		</li>
 		<li class="nav-item <?php if($page == "el/maqam.php") { echo "active"; } ?>">
 			<a class="nav-link" href="/el/maqam.php">Μακάμ</a>
