@@ -4,10 +4,10 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Formes Improvisées";
-$page_description = "Formes Improvisées";
-$page_keywords = "musique, arabe, formes, qawaleb, Le Taqsim, Le Mawwal, Les Layali, La Qassida";
-$page_language = "fr";
+$page_title = "Φόρμες Αυτοσχεδιασμού";
+$page_description = "Aραβικές Φόρμες Αυτοσχεδιασμού";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Το Ούτι, Το Κανονάκι, Το Νάι, Το Τακσίμ, Λαγιάλι, To Μαουάλ και H Κασίντα";
+$page_language = "el";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="forms-page">
 
     <?php
-      $page = "fr/form/improv.php";
+      $page = "el/form/improv.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -23,33 +23,34 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Formes</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετηρίου των Φόρμες</a>
                     <?php include('../sidemenu-form.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Formes Improvisées</h1>
-                        <h3>Le Taqsim, Le Mawwal, Les Layali, La Qassida</h3>
+                        <h1>Φόρμες Αυτοσχεδιασμού</h1>
+                        <h3>Το Τακσίμ, Το Μαουάλ, Τα Λαγιάλι και H Κασίντα</h3>
                     </div>
 
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Formes</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετηρίου των Φόρμες</a>
                     <div class="clearfix"></div>
 
-                    <p>Les formes improvisées sont les véhicules les plus directs pour un <em>moutreb</em> (chanteur) ou un instrumentaliste de connecter avec son public en explorant et travaillant le <em>sayr</em> (comportement mélodique)  d'un <a href="../maqam.php">maqam</a>.
+                    <p>
+                        Οι φόρμες του αυτοσχεδιασμού είναι το πιο άμεσο όχημα για να έναν mutrib, μούτριμπ (τραγουδιστή) ή έναν οργανοπαίχτη με σκοπό να συνδεθεί με το κοινό του καθώς αναπτύσσουν και δουλέυουν πάνω σε sayr ενός <a href="../maqam.php">μακάμ</a>.
                     </p>
 
                     <div id="layali" class="heading jins text-center full-width">
-                        <h3>Les Layali</h3>
+                        <h3>Τα Λαγιάλι</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/layali.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Layali</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/layali.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Λαγιάλι</a>
                     </div>
                     <p>
-                        La forme Layali est une improvisation vocale en solo sur la phrase "Ya Layl Ya ‘Ayn" (O Nuit, O Œil). "Layali" est le pluriel arabe de "layl'". C'est une phrase traditionnelle qui n'est plus utilisée dans son sens littéral mais comme un patron sonore et un véhicule à l'improvisation.
+                        Τα Λαγιάλι είναι ένας σόλο φωνητικός αυτοσχεδιασμός πάνω στην φράση “Για λέιλ Υα Αΐν”, (Ω Νύχτα, Ω Μάτι), όπου “Λαγιάλι” είναι ο πληθυντικός της λέξης “Λέιλ” στα Αραβικά. Αυτή είναι μία φράση κατά παράδοση που δεν χρησιμοποιείται με την κυριολεκτική της σημασία πια, αλλά έχει γίνει περισσότερο ως φωνητικό γέμισμα και όχημα για φωνητικά διανθίσματα.
                     </p>
                     <p>
-                        Les Layalis peuvent être exécutées seuls mais sont généralement utilisés comme préludes pour la forme vocale qui suit, comme par exemple un Mawwal, une Qassida ou même une <a href="vocal_comp.php">forme vocale composée</a>. Dans ce dernier cas, les Layali servent à se réchauffer et aide le chanteur à s'immerger en <a href="../maqam.php">maqam</a>.
+                        Τα Λαγιάλι μπορεί να είναι αυτοτελή αλλά πιο κοινά χρησιμοποιούνται ωας πρελούδιο για την επόμενη φωνητική φόρμα (π.χ. Μαουάλ, Κασίντα, ή ακόμα και <a href="vocal_comp.php">φόρμα φωνητικής σύνθεσης</a>). Σε αυτήν την περίπτωση, υπηρετούν σαν προθέρμανση, και βοηθάνε τον τραγουδιστή να εγκληματιστεί στο <a href="../maqam.php">μακάμ</a>.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=wOlB3-EiweY">
@@ -61,9 +62,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Dawr Kadni el-Hawa</b>
+                                    <b>Ντάουρ Κάντνι ελ-Χάουα</b>
                                     <span>
-                                        L'enregistrement de Marie Joubran du <a href="vocal_comp.php#dawr">Dawr</a> <strong>Kadni el-Hawa</strong> (musique de Mouhammad Outhman) commence avec un taqsim de <a href="../instr/qanun.php">qanoun</a> suivi de layali en <a href="../maqam/nahawand.php">Maqam Nahawand</a>.
+                                        Η ηχογράφηση του κομματιού φόρμας <a href="vocal_comp.php#dawr">Ντάουρ</a> <strong>Κάντνι ελ-Χάουα</strong> με την Μαρί Τζουμπράν (σε μουσική Μοχάμαντ Οθμάν) αρχίζει με ένα τακσίμ στο <a href="../instr/qanun.php">κανονάκι</a> και ακολουθεί Λαγιάλι σε <a href="../maqam/nahawand.php">Μακάμ Ναχαουάντ</a>.
                                     </span>
                                 </div>
                             </label>
@@ -79,9 +80,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Taqtouqa Leh Ya Banafseg</b>
+                                    <b>Τακτούκα Λέ Για Μπανάφσεγκ</b>
                                     <span>
-                                        L'enregistrement de Saleh Abdel Hayy de la <a href="vocal_comp.php#taqtuqa">Taqtouqa</a> <strong>Leh Ya Banafseg</strong> (musique de Riyad al-Soumbati) est une longue <a href="vocal_comp.php#wasla">Wasla</a> qui commence avec un <a href="#taqsim">Taqsim</a> de <a href="../instr/oud.php">oud</a>, un <a href="ottoman.php/samai">Sama‘i</a>, un taqsim de <a href="../instr/qanun.php">qanoun</a>, une répétition du <em>taslim</em> du Sama‘i et des <em>Layali</em>, tous en <a href="../maqam/rast.php">Maqam Rast</a>.
+                                        Η ηχογράφηση του κομματιού φόρμας <a href="vocal_comp.php#taqtuqa">Τακτούκα</a> Λέ Για Μπανάφσεγκ (σε μουσική Ριάντ Σουνμπάτι) σε ερμηνεία Σάλεχ Αμπντέλ είναι μία μακρυά Ουάσλα που αρχίζει με ένα τακσίμ ούτι, μετέπειτα Σαμάι, στη συνέχεια τακσίμ κανονάκι, επανεμφάνιση του <em>Τεσλίμ</em> από το Σαμάι, ύστερα ένα Λαγιάλι, κι όλα αυτά σε Μακάμ Ραστ.
                                 </span>
                                 </div>
                             </label>
@@ -97,24 +98,26 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Mouhammad Khayri - Layali</b>
-                                    <span>Le chanteur aleppin Mouhammad Khayri commence sa <a href="vocal_comp.php#wasla">Wasla</a> en <a href="../maqam/rast.php">Maqam Rast</a> avec des Layali puis chante une <a href="#qasida">Qassida improvisée</a> et quelques <a href="vocal_comp.php#qadd">Qoudoud</a>.</span>
+                                    <b>Μοχάμαντ Χαΐρι - Λαγιάλι</b>
+                                    <span>
+                                        Ο Μοχάμαντ Χαΐρι από το Χαλέπι ξεκινάει την Ούασλα του σε μακάμ Ραστ με ένα Λαγιάλι προτού προχωρήσει σε μία <a href="improv.php#qasida">Κασίντα αυτοσχεδιασμού</a>, κι έπειτα σε μερικά τραγούδια Κουντούντ.
+                                    </span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
                     <div id="mawwal" class="heading jins text-center full-width">
-                        <h3>Le Mawwal</h3>
+                        <h3>Το Μαουάλ</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mawwal.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Mawwal</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mawwal.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Μαουάλ</a>
                     </div>
                     <p>
-                        Le Mawwal (Mawawil au pluriel) est une improvisation vocale solo sur un poème en arabe populaire. Le poème peut être, par exemple, en dialecte égyptien, libanais, syrien ou iraquien. Comme les autres formes vocales improvisées, le mawwal est un véhicule pour montrer sa connaissance du <em>sayr</em> du <a href="../maqam.php">maqam</a> et pour le chanteur de monter la qualité de sa voix et sa technique ornementale.
+                         Το Μαουάλ (πλ. Μαουαουίλ) είναι ένας σόλο φωνητικός αυτοσχεδιασμός πάνω σε Αραβικό ποίημα στην καθομιλουμένη. Για παράδειγμα, το ποίημα θα μπορούσε να είναι στην Αιγυπτιακή, Λιβανική, Συριακή ή Ιρακινή διάλεκτο. Όπως και με άλλες φωνητικές αυτοσχεδιαστικές φόρμες, το Μαουάλ είναι ένα όχημα παρουσίασης της ανάπτυξης του μακάμ, όπως επίσης και της ομορφιάς της φωνής του τραγουδιστή και της τεχνικής του στα διανθίσματα.
                     </p>
                     <p>
-                        Un genre important de mawwal est le "Mawwal Baghdadien" aussi appelé <em>Sab‘awi</em> (du mot <em>sab‘a</em>, sept) parce qu'il comprend sept lignes qui riment dans le patrons suivant: A, A, A, B, B, B, A. Le Mawwal Baghdadi est très populaire dans le répertoire aleppin aux côtés des <a href="vocal_comp.php#muwashah">Mouachahat</a> et des <a href="vocal_comp.php#qadd">Qoudoud</a>.
+                        Ένας σημαντικός τύπος Μαουάλ είναι το "Μπαγκντάντι Μαουάλ", λέγεται επίσης και Σαμπάουι (από το Σάμπαα, αριθμό 7) επειδή περιέχει εφτά γραμμές που ομοιοκαταληκτούν ως εξής: A, A, A, B, B, B, A. Το Μπαγκντάντι Μαουάλ είναι πολύ δημοφιλές στο Χαλεπιανό (από το Χαλέπι) ρεπερτόριο, μαζί με τις φόρμες των Μουασαχάτ και των Κουντούντ.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=zX7gJKlDDyY">
@@ -126,8 +129,10 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Saddouk ‘Anni el-‘Ida</b>
-                                    <span>Le chanteur aleppin Mouhammad Khayri commence sa <a href="vocal_comp.php#wasla">Wasla</a> en <a href="../maqam/bayati.php">Maqam Bayati</a> avec un <a href="ottoman.php/samai">Sama‘i</a>, suivi par le Mawwal <strong>Saddouk ‘Anni el-‘Ida</strong>.</span>
+                                    <b>Σαντούκ Άννι ελ-Αΐντα</b>
+                                    <span>
+                                        Ο τραγουδιστής από το Χαλέπι Μοχάμαντ Χαΐρι αρχίζει την Ουάσλα του σε μακάμ Μπαγιάτι με ένα Σαμάι ακολουθούμενο από Μαουάλ <strong>Σαντούκ Άννι ελ-Αΐντα</strong>.
+                                </span>
                                 </div>
                             </label>
                         </div>
@@ -142,9 +147,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Achki Li Min el-Hawa</b>
+                                    <b>ΆσκίΛι Μιν ελ-Χάουα</b>
                                     <span>
-                                        Le Mawwal <strong>Ashki Li Min el-Hawa</strong> en <a href="../maqam/kurd.php">Maqam Kurd</a> par Mouhammad Abdel Wahab (1931).
+                                        Μαουάλ <strong>ΆσκίΛι Μιν ελ-Χάουα</strong> σε μακάμ Κούρντ, απότον Μοχάμαντ Αμπντέλ Ουαχάμπ (1931).
                                     </span>
                                 </div>
                             </label>
@@ -160,21 +165,23 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Min Youm Firgak</b>
+                                    <b>Μιν Υούμ Φίργκακ</b>
                                     <span>
-                                        Le Mawwal Baghdadien <strong>Min Youm Firgak</strong> par le chanteur aleppin Sabah Fakhri.</span>
+                                        Μαουάλ Μπαγκντάντι <strong>Μιν Υούμ Φίργκακ</strong> από τον Σαμπάχ Φαχρί.
+                                    </span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
                     <div id="qasida" class="heading jins text-center full-width">
-                        <h3>La Qassida Improvisée</h3>
+                        <h3>Η Αυτοσχεδιαστική Κασίντα</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qasida.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Qassida</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qasida.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Κασίντα</a>
                     </div>
-                    <p>La Qassida (<em>Qassa'id</em> au pluriel) est un poème en mètres en arabe classique. Elle peut être utilisée dans une forme composée (voir la <a href="vocal_comp.php#qasida">qassida composée</a>) ou, dans le présent cas, utilisée comme forme pour l'improvisation. La qasida improvisée est identique au Mawwal pour l'usage du <em>sayr</em> du <a href="../maqam.php">maqam</a> et pour les nécessités artistiques auxquelles le chanteur doit faire face.
+                    <p>
+                        Η Κασίντα (πλ. <em>Κασάεντ</em>) είναι ένα έμμετρο ποίημα σε κλασσικά Αραβικά. Μπορεί να χρησιμοποιηθεί σε φόρμα σύνθεσης (βλέπε Κασίντα Σύνθεσης) ή, στην προκειμένη την περίπτωση, σε αυτοσχεδιαστική Κασίντα. Η εν λόγω φόρμα είναι πανομοιότυπη με το Μαουάλ στον τρόπο που περιλαμβάνει την ανάπτυξη του μακάμ, και τις ικανότητες και τέχνη του τραγουδιστή.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=GJPYRZwdbhw">
@@ -186,8 +193,10 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Ya Man Yara Admu‘i</b>
-                                    <span>Qassida de Mouhammad Khayri intitulée <strong>Ya Man Yara Admou‘i</strong> en <a href="../maqam/rast.php">Maqam Rast</a>.</span>
+                                    <b>Για Μαν Γιάρα Άντμουαι</b>
+                                    <span>
+                                        Η Κασίντα του Μοχάμαντα Χαΐρι <strong>Για Μαν Γιάρα Άντμουαι</strong> σε μακάμ Ραστ.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -202,24 +211,29 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Qoul Lil-Maliha</b>
-                                <span>Qassida <strong>Qoul Lil-Maliha</strong> en <a href="../maqam/huzam.php">Maqam Houzam</a>, une des pièces-emblèmes du chanteur aleppin Sabah Fakhri.</span>
+                                    <b>Κουλ Λιλ-Μαλίχα</b>
+                                    <span>
+                                        H σήμα κατατεθέν Κασίντα του Σαμπάχ Φακρί <strong>Κουλ Λιλ-Μαλίχα</strong> σε μακάμ Χουζάμ.
+                                    </span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
                     <div id="taqsim" class="heading jins text-center full-width">
-                        <h3>Le Taqsim</h3>
+                        <h3>Το Τακσίμ</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/taqsim.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Taqsim</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/taqsim.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Τακσίμ</a>
                     </div>
-                    <p> Le Taqsim (<em>Taqassim</em> au pluriel) est une improvisation instrumentale guidée par un patron traditionnel qui suit le <em>sayr</em> du <a href="../maqam.php">maqam</a> (incluant l'intonation, le phrasé et les modulations). Le taqsim démontre aussi la beauté de l'instrument, ses possibilités ornementales et le talent du musicien, sa technique et sa personnalité.
+                    <p> 
+                        Το Τακσίμ (πλ.<em>Τακασίμ</em>) είναι αυτοσχεδιασμός σε όργανο καθοδηγούμενος από πλάνο βασισμένο στην παράδοση το οποίο ακολουθεί από πολύ κοντά την <em>ανάπτυξη</em> ενός μακάμ (συμπεριλαμβάνοντας τονισμό, φρασεολογία και μετατροπία). Το Τακσίμ επίσης παρουσιάζει την ομορφιά του οργάνου, τις δυνατότητες του στα διανθίσματα, και τις ικανότητες, τεχνική και προσωπικό ύφος του οργανοπαίχτη.
                     </p>
-                    <p>Le  doit suivre un schéma narratif et consiste en sections séparées par de mini cadences et de courtes pauses. Le taqsim peut être joué seul, peut être accolé à une chanson ou inséré dans une <a href="vocal_comp.php#wasla">wasla</a>.
+                    <p>
+                        Το Τακσίμ πρέπει να ακολουθεί μία αφηγηματική ροή και να αποτελείται από μέρη ενδιάμεσων καταλήξεων και σύντομες παύσεις. Το Τακσίμ μπορεί να είναι αυτοτελές, ή ενσωματωμένο σε ένα τραγούδι ή Ουάσλα.
                     </p>
-                    <p>L'instrument le plus populaire pour le <em>Taqsim</em> est le <a href="../instr/oud.php">oud</a>, suivi du <a href="../instr/violin.php">violon</a>, du <a href="../instr/nay.php">nay</a> et du <a href="../instr/qanun.php">qanoun</a>. Les instruments arabisés tels que <a href="../instr/accordion.php">l'accordéon</a> peuvent aussi être utilisés pour le <em>taqsim</em>.
+                    <p>
+                        Το πιο δημοφιλές και διαδεδομένο όργανο για τακσίμ είναι το ούτι, μαζί με το βιολί, νάι και κανονάκι. Αραβοποιημένα όργανα όπως το ακκορντεόν  μπροεί επίσης να χρησιμοποιηθεί για ένα <em>τακσίμ</em>.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=-Atnx8aRrIg">
@@ -231,8 +245,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>‘Abboud Abdel ‘Al</b>
-                                    <span>Taqsim au <a href="../instr/violin.php">violon</a> en <a href="../maqam/bayati.php">Maqam Bayati</a> par ‘Abboud Abdel ‘Al, précédé du <a href="../ottoman.php#samai">Sama‘i</a> Bayati de Ibrahim al-'Aryan.
+                                    <b>Αμπούντ Άμπντελ Αλ</b>
+                                    <span>
+                                        Τακσίμ στο βιολί σε μακάμ Μπαγιάτι από τον Αμπούντ Άμπντελ Αλ, ακολουθούμενο από Σαμάι Μπαγιάτι “Ιμπραχίμ αλ-Αριάν”.
                                     </span>
                                 </div>
                             </label>
@@ -248,20 +263,21 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>‘Amer ‘Ammouri</b>
-                                    <span>Taqsim au <a href="../instr/oud.php">oud</a> par 'Amer 'Ammuri (Syrie) en <a href="../maqam/huzam.php">Maqam Houzam</a> pendant un concert de Sabah Fakhri.
+                                    <b>Άμερ Αμούρι</b>
+                                    <span>
+                                        Τακσίμ στο ούτι από τον Άμερ Αμούρι (Συρία) σε μακάμ Χουζάμ κατά την διάρκεια κονσέρτου με τον Σαμπάχ Φακρί.
                                     </span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
-                    <p>Explorez d'autres groupes de formes:</p>
+                    <p>Εξερευνήστε άλλες ομάδες φόρμας:</p>
                     <ul>
-                        <li><a href="vocal_comp.php">Formes Vocales Composées</a></li>
-                        <li><a href="instr_comp.php">Formes Composées Instrumentales</a></li>
-                        <li><a href="ottoman.php">Formes Instrumentales Ottomanes</a></li>
-                        <!-- <li><a href="improv.php">Formes Improvisées</a></li> -->
+                        <li><a href="vocal_comp.php">Φόρμες Φωνητικών Συνθέσεων</a></li>
+                        <li><a href="instr_comp.php">Φόρμες Ορχηστρικών	Συνθέσεων</a></li>
+                        <li><a href="ottoman.php">Φόρμες Οθωμανικής Ορχηστρικής μουσικής</a></li>
+                        <!-- <li><a href="improv.php">Φόρμες Αυτοσχεδιασμού</a></li> -->
                     </ul>
 
                 </div>
@@ -272,7 +288,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
 
-    <?php include($ROOT . 'fr/footer.php'); ?>
+    <?php include($ROOT . 'el/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
 
     </body>

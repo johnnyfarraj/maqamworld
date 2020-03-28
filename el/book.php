@@ -6,7 +6,7 @@ include('../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Δημοσιεύσεις";
 $page_description = "Ο Κόσμος των Μακάμ: Δημοσιεύσεις";
-$page_keywords = "Μακάμ, Γένη, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');

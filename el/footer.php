@@ -3,11 +3,11 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-4"> <img src="/img/logo-bottom.png" height="30" class="footer-logo">
-                <p>&copy; 2001-2018 MaqamWorld
-                <br>Tous droits réservés.
-                <br>Conception, design et texte: <a href="https://www.amazon.com/Johnny-Farraj/e/B07SD841D2" target="_blank">Johnny Farraj</a>
-                <br>Programmation: <a href="http://filiptodorov.com" target="_blank">Filip Todorov</a>
-                <br>Traduction française: <a href="http://independent.academia.edu/NicolasRoyerArtuso" target="_blank">Nicolas Royer-Artuso</a>
+                <p>&copy; 2001-2018 Κόσμος των Μακάμ
+                <br>Με επιφύλαξη παντός δικαιώματος.
+                <br>Σύλληψη, σχεδιασμός και κείμενα: <a href="https://www.amazon.com/Johnny-Farraj/e/B07SD841D2" target="_blank">Τζόνι Φαράζ</a>
+                <br>Προγραμματισμός: <a href="http://filiptodorov.com" target="_blank">Φίλιπ Τοντόροφ</a>
+                <br>Μετάφραση στα ελληνικά: <a href="https://dimitrimikelis.weebly.com" target="_blank">Δημήτρης Μικέλης</a>
                 </p>
                 <!--
                 <ul class="socials">
@@ -17,13 +17,13 @@
                 -->
             </div>
             <div class="col-sm-3">
-                <h3>Contactez Nous</h3>
+                <h3>Στείλτε μας μήνυμα</h3>
                 <ul class="menu">
                     <!--
-                    <li><a href="#"><i class="fa fa-fw fa-phone"></i> Contactez Nous</a></li>
-                    <li><a href="#"><i class="fa fa-fw fa-map-marker"></i> Visitez Nous</a></li>
+                    <li><a href="#"><i class="fa fa-fw fa-phone"></i> TODO ontactez Nous</a></li>
+                    <li><a href="#"><i class="fa fa-fw fa-map-marker"></i> TODO Visitez Nous</a></li>
                     -->
-                    <li><a href="/fr/contact.php"><i class="fa fa-fw fa-envelope"></i> Pour nous contacter</a></li>
+                    <li><a href="/el/contact.php"><i class="fa fa-fw fa-envelope"></i> Επικοινωνία</a></li>
                 </ul>
             </div>
             <div class="col-sm-5 text-right">

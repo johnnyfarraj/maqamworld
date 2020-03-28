@@ -4,10 +4,10 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Formes Vocales Composées";
-$page_description = "Formes Vocales Composées";
+$page_title = "Φόρμες Φωνητικών Συνθέσεων";
+$page_description = "Φόρμες Φωνητικών Συνθέσεων";
 $page_keywords = "musique, arabe, formes, qawaleb, Le Dawr, Le Mouachah, Le Qadd, La Taqtouqa, La Oughnia, La Qassida, Le Monologue, Le Duo, Le Doulab";
-$page_language = "fr";
+$page_language = "el";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="forms-page">
 
     <?php
-      $page = "fr/form/vocal_comp.php";
+      $page = "el/form/vocal_comp.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -23,17 +23,17 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Formes</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετηρίου των Φόρμες</a>
                     <?php include('../sidemenu-form.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Formes Vocales Composées</h1>
+                        <h1>Φόρμες Φωνητικών Συνθέσεων</h1>
                         <h3>Le Dawr, Le Mouachah, Le Qadd, La Taqtouqa, La Oughnia, La Qassida, Le Monologue, Le Duo, Le Doulab</h3>
                     </div>
 
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Formes</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετηρίου των Φόρμες</a>
                     <div class="clearfix"></div>
 
                     <p>Les formes vocales composées sont au centre de la musique arabe: celle-ci est en effet essentiellement une tradition vocale.</p>
@@ -416,12 +416,12 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <p>Explorez d'autres groupes de formes:</p>
+                    <p>Εξερευνήστε άλλες ομάδες φόρμας:</p>
                     <ul>
-                        <!-- <li><a href="vocal_comp.php">Formes Vocales Composées</a></li> -->
-                        <li><a href="instr_comp.php">Formes Composées Instrumentales</a></li>
-                        <li><a href="ottoman.php">Formes Instrumentales Ottomanes</a></li>
-                        <li><a href="improv.php">Formes Improvisées</a></li>
+                        <!-- <li><a href="vocal_comp.php">Φόρμες Φωνητικών Συνθέσεων</a></li> -->
+                        <li><a href="instr_comp.php">Φόρμες Ορχηστρικών	Συνθέσεων</a></li>
+                        <li><a href="ottoman.php">Φόρμες Οθωμανικής Ορχηστρικής μουσικής</a></li>
+                        <li><a href="improv.php">Φόρμες Αυτοσχεδιασμού</a></li>
                     </ul>
 
                 </div>
@@ -432,7 +432,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
 
-    <?php include($ROOT . 'fr/footer.php'); ?>
+    <?php include($ROOT . 'el/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
 
     </body>

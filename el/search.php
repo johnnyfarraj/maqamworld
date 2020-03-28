@@ -38,7 +38,7 @@ $files = array();
 $cont = 0;
 function searchDirectoryIterator($path, $string){
     global $files, $cont;
-    $string = preg_replace('/[^A-Za-z0-9 "\']/', '', strip_tags(addslashes($string)));
+    $string = strip_tags(addslashes($string));
     $dir = new DirectoryIterator($path);
     $totalFiles = 0;
     foreach ($dir as $file){
@@ -46,7 +46,7 @@ function searchDirectoryIterator($path, $string){
             if($file->getBasename() == "results.php" || $file->getBasename() == "search.php") {
                 continue;
             }
-            $content2 = curl_get_contents(str_replace('./', 'http://maqamworld.com/fr/', $file->getPathname()));
+            $content2 = curl_get_contents(str_replace('./', 'http://maqamworld.com/el/', $file->getPathname()));
             $content = strtolower($content2);
             $content = normalizeChars($content);
             if (strpos($content, strtolower($string)) !== false) {
@@ -56,7 +56,7 @@ function searchDirectoryIterator($path, $string){
 
                 $appeardTotal = substr_count($content, strtolower($string));
 
-                array_push($files, array("title" => $title, "link" => str_replace('./', 'http://maqamworld.com/fr/', $file->getPathname()), "appearances" => $appeardTotal));
+                array_push($files, array("title" => $title, "link" => str_replace('./', 'http://maqamworld.com/el/', $file->getPathname()), "appearances" => $appeardTotal));
                 $cont++;
             }
         }
@@ -70,7 +70,7 @@ function searchDirectoryIterator($path, $string){
 if(isset($_GET['q']) && strip_tags($_GET['q']) != "" && strlen(strip_tags($_GET['q'])) > 3) {
     searchDirectoryIterator(".", strip_tags($_GET['q']));
     if($cont == 0) {
-        $array = array('status' => "error", 'message' => "Pas de r�sultats.");
+        $array = array('status' => "error", 'message' => "Δεν βρέθηκαν αποτελέσματα.");
     } else {
         usort($files, function($a, $b) {
             return $b['appearances'] - $a['appearances'];
@@ -78,7 +78,7 @@ if(isset($_GET['q']) && strip_tags($_GET['q']) != "" && strlen(strip_tags($_GET[
         $array = array('status' => "success", 'files' => $files, 'totalFiles' => $cont);
     }
 } else {
-    $array = array('status' => "error", 'message' => "Pri�re d'entrer un mot cl� (minimum 4 lettres).");
+    $array = array('status' => "error", 'message' => "Πληκτρολογήστε μια λέξη-κλειδί (τουλάχιστον 4 γράμματα)");
 }
 
 echo json_encode($array);

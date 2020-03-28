@@ -4,10 +4,10 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Formes Composées Instrumentales";
-$page_description = "Formes Composées Instrumentales";
-$page_keywords = "musique, arabe, formes, qawaleb, Le Doulab, La Maqtoua, La Mouqaddima, La Tahmila, Le Darej";
-$page_language = "fr";
+$page_title = "Φόρμες Ορχηστρικών	Συνθέσεων";
+$page_description = "Φόρμες Ορχηστρικών	Συνθέσεων";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Το Ούτι, Το Κανονάκι, Το Νάι, Ντουλάμπ, Μακτούα, Μουκάντιμα, Ταχμίλα και Ντάριτζ";
+$page_language = "el";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="forms-page">
 
     <?php
-      $page = "fr/form/instr_comp.php";
+      $page = "el/form/instr_comp.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -23,28 +23,31 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Formes</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετηρίου των Φόρμες</a>
                     <?php include('../sidemenu-form.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Formes Composées Instrumentales</h1>
-                        <h3>Le Doulab, La Maqtoua, La Mouqaddima, La Tahmila, Le Darej</h3>
+                        <h1>Φόρμες Ορχηστρικών	Συνθέσεων</h1>
+                        <h3>Το Ντουλάμπ, H Μακτούα, H Μουκάντιμα, H Ταχμίλα και Το Ντάριτζ</h3>
                     </div>
 
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Formes</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετηρίου των Φόρμες</a>
                     <div class="clearfix"></div>
 
-                    <p>Les formes composées instrumentales ne sont pas aussi répandues que les <a href="vocal_comp.php">Formes Vocales Composées</a> dans la musique arabe, celle-ci étant principalement de nature orale. Les performances uniquement instrumentales sont de ce fait très rares. Pourtant, la musique instrumentale est un complément très beau à la musique vocale et lui sert d'introduction, fournit des interludes entre les pièces vocales et permet aux instrumentistes de montrer leur talent au sein de l'orchestre.</p>
+                    <p>
+                        Οι Φόρμες Ορχηστρικών Συνθέσεων δεν είναι τόσο διαδεδομένες όπως είναι οι <a href="vocal_comp.php">Φόρμες Φωνητικών Συνθέσεων</a> στην Αραβική μουσική, μιας και η παράδοση καθαυτή είναι πρωτίστως φωνητική. Λαμβάνοντας αυτό υπόψιν, ερμηνείες αποκλειστικά οργανικών συνθέσεων είναι σπάνιες. Παρόλαυτα, η οργανική μουσική συμπληρώνει το φωνητικό μέρος όμορφα, και παρέχει απαραίτητες εισαγωγές, μεταφορές, ιντερλούδια, καθώς επίσης παρουσιάζει τους οργανοπαίχτες στην ορχήστρα του τραγουδιστή.
+                    </p>
 
                     <div id="maqtua" class="heading jins text-center full-width">
-                        <h3>La Maqtoua</h3>
+                        <h3>Η Μακτούα</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/maqtua.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Maqtoua</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/maqtua.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά της Μακτούα</a>
                     </div>
-                    <p> La Maqtoua ('pièce', au sens littéral) est une composition instrumentale. Elle est aussi appelée <em>ma'zoufa</em> (pièce jouée sur un instrument au lieu d'être chantée). La forme <em>maqtoua</em> est très populaire dans la musique <em>Raqs Charqi</em> (danse du ventre).
+                    <p>
+                        Η Μακτούα (κυριολεκτικά ένα κομμάτι) είναι γενικά μία οργανική σύνθεση. Λέγεται επίσης Μααζούφα (ερμηνευμένη σε ένα όργανο σε αντίθεση με το τραγούδι). Η φόρμα της Μακτούα είναι ειδικά δημοφιλής στην μουσικό είδος του <em>Ρακς Σάρκι</em>em>-ανατολικός χορός (χορός της κοιλιάς).
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=9sxZVdKGe48">
@@ -56,8 +59,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Zikrayati (1944)</b>
-                                    <span>La composition instrumentale Zikrayati (1944) de Mouhammad al-Qasabji en <a href="../maqam/nahawand.php">Maqam Nahawand</a>, enregistrée par l'Orchestre National Arabe (Etats-Unis).
+                                    <b>Δικραϊάτι (1944)</b>
+                                    <span>
+                                        Η οργανική σύνθεση του Μοχάμαντ Κασάμπζι Ζικραϊάτι (1944) σε μακάμ Ναχαουάντ, ηχογραφημένη από την National Arabic Orchestra (USA).
                                     </span>
                                 </div>
                             </label>
@@ -73,8 +77,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>‘Aziza (1955)</b>
-                                    <span>La composition instrumentale ‘Aziza de Mouhammad Abdel Wahab (du film <strong>‘Aziza</strong>, 1955).
+                                    <b>Αζίζα (1955)</b>
+                                    <span>
+                                        Η οργανική σύνθεση του Μοχάμαντ Αμπντέλ Ουαχάμπ Αζίζα (από την ομώνυμη ταινία <strong>Αζίζα</strong>, 1955).
                                     </span>
                                 </div>
                             </label>
@@ -90,8 +95,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Touta</b>
-                                    <span>La composition instrumentale <strong>Touta</strong> de Farid al-Atrach.</span>
+                                    <b>Τούτα</b>
+                                    <span>Η οργανική σύνθεση του Φαρίντ αλ-Άτρας.</span>
                                 </div>
                             </label>
                         </div>
@@ -106,20 +111,22 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Layali Zaman</b>
-                                    <span>La composition instrumentale <strong>Layali Zaman</strong> du violoniste égyptien Abdou Dagher.</span>
+                                    <b>Λαϊάλι Ζαμάν</b>
+                                    <span>Η οργανική σύνθεση <strong>Λαϊάλι Ζαμάν</strong> του Αιγύπτιου βιολιστή Αμπντού Ντάγερ
+                                    </span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
                     <div id="muqaddima" class="heading jins text-center full-width">
-                        <h3>The Mouqaddima</h3>
+                        <h3>Η Μουκάντιμα</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/muqaddima.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Mouqaddima</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/muqaddima.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά της Μουκάντιμα</a>
                     </div>
-                    <p> The Mouqaddima veut littéralement dire 'introduction'. Cette forme est devenue populaire autour du milieu du 20<sup>ième</sup> siècle quand les compositeurs ont commencé à ajouter de longues introductions à la forme nouvellement populaire <a href="vocal_comp.php#ughniya">Oughniya</a> (longue chanson). Les <em>Mouqaddima</em>-s élaborées peuvent durer plus de cinq minutes, avoir plusieurs sections, des modulations de <a href="../maqam.php">Maqam</a> à maqam et des solos instrumentaux.
+                    <p>
+                        Η μουκάντιμα σημαίνει κυριολεκτικά ‘‘εισαγωγή”. Αυτή η φόρμα έγινε δημοφιλής προς τα μέσα του 20ού αιώνα καθώς οι συνθέτες πρόσθεταν μεγάλες εισαγωγές στις νέα δημοφιλή φόρμα Ουγνία (φόρμα μεγάλου σε διάρκεια τραγουδιού). Ανεπτυγμένες Μουκάντιμα μερικές φορές διαρκούσαν π’ανω από 5 λεπτά και συμπεριλάμβαναν πολλαπλά μέρη όπως μέρη σόλων και μετατροπίες Μακάμ.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=ul4z6sLnXYY">
@@ -131,8 +138,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Alf Leila wi Leila (1969)</b>
-                                    <span>L'introduction de la pièce de Oum Koulthoum <strong>Alf Leila wi Leila</strong> (1969), composée par Baligh Hamdi.
+                                    <b>Αλφ Λέιλα ου Λέιλα (1969)</b>
+                                    <span>Η εισαγωγή του μεγάλου σε διάρκεια τραγουδιού <strong>Αλφ Λέιλα ου Λέιλα</strong> (1969) σε ερμηνεία Ουμ Κουλθούμ και μουσική Μπαλίγ Ηάμντι.
                                     </span>
                                 </div>
                             </label>
@@ -148,9 +155,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Qari'at al-Fingan (1976)</b>
-                                    <span>Abdel Halim</span>
-                                    <span>L'introduction de la longue chanson <em>Qari'at al-Fingan</em> (1976) de Abdel Halim Hafez, composée par Mouhammad al-Mougi.
+                                    <b>Κάριατ αλ-Φιντζάν (1976)</b>
+                                    <span>Αμπντέλ Χαλίμ ΧάΦεζ</span>
+                                    <span>Η εισαγωγή του μεγάλου σε διάρκεια τραγουδιού <strong>Κάριατ αλ-Φιντζάν</strong> (1976) σε μουσική του Μοχάμαντ αλ-Μούγκι.
                                     </span>
                                 </div>
                             </label>
@@ -166,8 +173,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Fi Youm wi Leila (1978)</b>
-                                    <span>L'introduction de la longue chanson <strong>Fi Youm wi Leila</strong> (1978) de Warda, composée par Mouhammad Abdel Wahab.
+                                    <b>Φι Ιούμ ου Λέιλα (1978)</b>
+                                    <span>Η εισαγωγή του μεγάλου σε διάρκεια τραγουδιού <strong>Φι Ιούμ ου Λέιλα</strong> (1978) σε ερμηνεία της Ουάρντα και μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ.
                                     </span>
                                 </div>
                             </label>
@@ -175,12 +182,13 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div id="dulab" class="heading jins text-center full-width">
-                        <h3>Le Doulab</h3>
+                        <h3>Το Ντουλάμπ</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/dulab.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Doulab</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/dulab.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Ντουλάμπ</a>
                     </div>
-                    <p> Le Doulab est une composition très courte qui élabore et introduit les caractéristiques d'un <a href="../maqam.php">Maqam</a>. Son nom veut dire 'roue' en arabe et lui est donné parce que la mélodie est répétée plusieurs fois. Le doulab peut être joué seul avant une <a href="improv.php">improvisation</a>, ou peut servir comme introduction à un <a href="vocal_comp.php#dawr">Dawr</a>.
+                    <p> 
+                        Το Ντουλάμπ είναι μία πολύ σύντομη σύνθεση η οποία περιλαμβάνει και εισαγάγει ένα μακάμ. Η ονομασία του σημαίνει ”τροχός” στα Αραβικά επειδή η ίδια μελωδία επαναλαμβάνεται πολλές φορές. Το Ντουλάμπ θα μπορούσε να στέκεται ανεξάρτητο ως κομμάτι το οποίο προυπάρχει ενός <a href="improv.php">αυτοσχεδιασμού</a>, ή θα μπορούσε να υπηρετήσει ως μία εισαγωγή σε ένα Ντάουρ (κύκλο).
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=n60D-Mnodms">
@@ -192,8 +200,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Doulab Kurd</b>
-                                    <span>Cette Wasla de Sabah Fakhri en <a href="../maqam/hijazkar_kurd.php">Maqam Hijazkar Kurd</a> commence avec un Doulab traditionnel en Maqam Kurd.
+                                    <b>Ντουλάμπ Κούρντ</b>
+                                    <span>Ουάσλα με τον Σαμπάχ Φαχρί σε μακάμ Χιτζασκάρ Κουρντ που ανοίγει με ένα παραδοσιακό Ντουλάμπ Κούρντ.
                                     </span>
                                 </div>
                             </label>
@@ -209,8 +217,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Dawr Inta Fahem</b>
-                                    <span>Le Dawr <strong>Inta Fahem</strong> de Zakaria Ahmad commence avec une simple répétition d'un Doulab dans le <a href="../maqam/huzam.php">Maqam Rahat al-Arwah</a>.
+                                    <b>Ντάουρ Έντα Φάχεμ </b>
+                                    <span>
+                                        Το Νταουάρ του Ζακαρία Άχμαντ ανοίγει με μία μονή επανάληψη Ντουλάμπ σε μακάμ Ραχάτ αλ-Αρουάχ.
                                     </span>
                                 </div>
                             </label>
@@ -218,12 +227,13 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div id="tahmila" class="heading jins text-center full-width">
-                        <h3>La Tahmila</h3>
+                        <h3Η Ταχμίλα</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/tahmila.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Tahmila</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/tahmila.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά της Ταχμίλα</a>
                     </div>
-                    <p>La Tahmila est une pièce instrumentale qui combine un refrain répété avec des phrases qui sont en partie composées et en partie improvisées. La tahmila est généralement jouée par un petit <em>takht</em> (le petit ensemble traditionnel), et chaque musicien joue à son tour la phrase, improvise, et le refrain est joué par l'ensemble au complet.
+                    <p>
+                        Η Ταχμίλα είναι ένα οργανικό κομμάτι που συνδυάζει ένα επαναλαμβανόμενο ρεφραίν με στροφές που είναι εν μέρει σύνθεση και εν μέρει αυτοσχεδιασμός. Η Ταχμίλα συνήθως παίζεται από μικρό σύνολο Ταχτ (παραδοσιακή μικρή ορχήστρα) όπου κάθε οργανοπαίχτης παίρνει σειρά παίζοντας την εκάστοτε στροφή και αυτοσχεδιάζει, και το ρεφραίν παίζεται από όλη την ορχήστρα.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=y3lE8MpM1kA">
@@ -235,8 +245,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Tahmila Souznak</b>
-                                    <span>La Tahmila <a href="../maqam/suznak.php">Souznak</a> (la plus connue des tahmilas), enregistrée par Ahmad al-Hifnawi au <a href="../instr/violin.php">violon</a>, George Michel au <a href="../instr/oud.php">oud</a>, Mahmoud 'Effat au <a href="../instr/nay.php">nay</a> et Hassan Anwar au <a href="../instr/riqq.php">riqq</a>.
+                                    <b>Ταχμίλα Σουζνάκ</b>
+                                    <span>
+                                        Η Ταχμίλα <a href="../maqam/suznak.php">Σουζνάκ</a> (η πιο γνωστή Ταχμίλα), ηχογραφημένη από τον Άχμαντ αλ-Χιφνάουι στο βιολί, Τζορτζ Μισέλ στο ούτι, Μαχμούντ Εφφάτ στο Νάι και Χασάν Ανουάρ στο Ρεκ.
                                     </span>
                                 </div>
                             </label>
@@ -252,8 +263,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Tahmila Saba</b>
-                                    <span>Le violoniste syrien Sami al-Chawwa a enregistré de nombreuses tahmilas dont cette tahmila en <a href="../maqam/saba.php">Maqam Saba</a>.
+                                    <b>Ταχμίλα Σάμπα</b>
+                                    <span>Ο Σύριος βιολιστής Σάμι αλ-Σάουα ηχογράφησε πολλές Ταχμίλα, μεταξύ αυτών η παρούσα Ταχμίλα σε μακάμ Σάμπα.
                                     </span>
                                 </div>
                             </label>
@@ -261,14 +272,16 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div id="darij" class="heading jins text-center full-width">
-                        <h3>Le Darej</h3>
+                        <h3>Το Ντάριτζ</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/darij.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Darej</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/darij.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Ντάριτζ</a>
                     </div>
-                    <p> La forme Darej (appelée officiellement <em>Sama'i Darej</em>) est une composition instrumentale simple nommée d'après le <a href="../iqaa/samai_darij.php">Iqa‘ Sama‘i Darej (3/4)</a> qu'elle utilise. Comme les <a href="ottoman.php">Formes Instrumentales Ottomanes</a>, la composition Darej est ancrée dans un <a href="../maqam.php">maqam</a> principal qui lui donne son nom, celui-ci suivi du nom du compositeur.
+                    <p>
+                        Η φόρμα Ντάριτζ (επίσημα λέγεται <em>Σαμάι Ντάριτζ</em>) είναι μία απλή οργανική σύνθεση ονομαζόμενη Ικάα Σαμάι Ντάριτζ (3/4). Όπως στις <a href="ottoman.php">Φόρμες Οθωμανικής Ορχηστρικής μουσικής</a>, η σύνθεση Ντάριτζ στηρίζεται σε ένα κύριο Μακάμ από το οποίο παίρνει το όνομά του, ακολουθούμενο από το όνομα του συνθέτη.
                     </p>
-                    <p>Les compositions <em>darej</em> étaient très répandues dans le monde arabe avant le 20<sup>ième</sup> siècle. Elles ne sont plus très jouées et composées de nos jours.
+                    <p>
+                        Οι συνθέσεις <em>Ντάριτζ</em>em> ήταν διαδεδομένες στον Αραβικό κόσμο πριν τον 20ό αιώνα, αλλά τώρα σπάνια παίζονται ή συνθέτονται.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=n49RxJwqBT4">
@@ -280,8 +293,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Darej Bayati</b>
-                                    <span>Le <em>darej</em> le plus connu est celui composé par le violoniste syrien Sami al-Chawwa en <a href="../maqam/bayati.php">Maqam Bayati</a></span>
+                                    <b>Ντάριτζ Μπαϊάτι</b>
+                                    <span>Η πιο γωστή Ντάριτζ είναι αυτή του Σύριου βιολιστή Σάμι αλ-Σάουα σε μακάμ Μπαϊάτι.</span>
                                 </div>
                             </label>
                         </div>
@@ -296,19 +309,19 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Darej Hijaz</b>
-                                    <span>Un <em>darij</em> bien connu (composition traditionnelle) en <a href="../maqam/hijaz.php">Maqam Hijaz</a> enregistré par le violoniste syrien Sami al-Shawwa en 1924.</span>
+                                    <b>Ντάριτζ Χιτζάζ</b>
+                                    <span>Η πιο γωστή Ντάριτζ είναι αυτή του Σύριου βιολιστή Σάμι αλ-Σάουα σε μακάμ Χιτζάζ.</span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
-                    <p>Explorez d'autres groupes de formes:</p>
+                    <p>Εξερευνήστε άλλες ομάδες φόρμας:</p>
                     <ul>
-                        <li><a href="vocal_comp.php">Formes Vocales Composées</a></li>
-                        <!-- <li><a href="instr_comp.php">Formes Composées Instrumentales</a></li> -->
-                        <li><a href="ottoman.php">Formes Instrumentales Ottomanes</a></li>
-                        <li><a href="improv.php">Formes Improvisées</a></li>
+                        <li><a href="vocal_comp.php">Φόρμες Φωνητικών Συνθέσεων</a></li>
+                        <!-- <li><a href="instr_comp.php">Φόρμες Ορχηστρικών	Συνθέσεων</a></li> -->
+                        <li><a href="ottoman.php">Φόρμες Οθωμανικής Ορχηστρικής μουσικής</a></li>
+                        <li><a href="improv.php">Φόρμες Αυτοσχεδιασμού</a></li>
                     </ul>
 
                 </div>
@@ -319,7 +332,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
 
-    <?php include($ROOT . 'fr/footer.php'); ?>
+    <?php include($ROOT . 'el/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
 
     </body>
