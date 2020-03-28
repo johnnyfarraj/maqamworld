@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Formes Vocales Composées</h1>
-                        <h3>Le Dawr, Le Mouachah, Le Qadd, La Taqtouqa, La Oughnia, La Qassida, Le Monologue, Le Duo, Le Doulab</h3>
+                        <h3>Le Dawr, Le Mouachah, Le Qadd, La Taqtouqa, La Oughnia, La Qassida, Le Monologue, Le Duo</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Formes</a>
@@ -149,7 +149,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Dawr Inta Fahem</b>
-                                    <span>Sou'ad Mouhammad (Liban) interprète le D<strong>Dawr Inta Fahem</strong> dans le <a href="../maqam/huzam.php">Maqam Houzam</a>, composé par Zakaria Ahmad.</span>
+                                    <span>Sou'ad Mouhammad (Liban) interprète le <strong>Dawr Inta Fahem</strong> dans le <a href="../maqam/huzam.php">Maqam Houzam</a>, composé par Zakaria Ahmad.</span>
                                 </div>
                             </label>
                         </div>
@@ -223,7 +223,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ya Dala‘ Dalla‘ (1974)</b>
-                                    <span>La chanteuese libanaise Sabah interprète la taqtouqa <strong>Ya Dala‘ Dalla‘</strong> en <a href="../maqam/rast.php">Maqam Rast</a> (1930, composée par Farid al-Atrach).
+                                    <span>La chanteuese libanaise Sabah interprète la taqtouqa <strong>Ya Dala‘ Dalla‘</strong> en <a href="../maqam/rast.php">Maqam Rast</a> (composée par Farid al-Atrach).
                                     </span>
                                 </div>
                             </label>
@@ -381,7 +381,6 @@ include($ROOT . 'inc/head.php');
                     </div>
                     <p> La Wasla (<em>waslat</em> au pluriel) est une forme qui contient plusieurs formes interprétées de façon consécutive en tant qu'unité, généralement dans un même <a href="../maqam.php">maqam</a>. Une wasla courte peut durer de 5 à 10 minutes alors qu'une wasla longue peut durer jusqu'à une heure. Les pièces composant la wasla sont organisées de manière à commencer lentement et à établir le maqam (souvent à l'aide de pièces instrumentales). Ensuite sont ajoutées les pièces vocales complexes et difficiles à chanter. La wasla se termine en général par des pièces courtes et simples. Tout ceci crée une pièce qui a la forme d'un arc avec un sommet au milieu.
                     </p>
-                    <p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=D0DQxDwgDw8&t=1103s">
                         <div class="radio">
