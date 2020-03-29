@@ -6,7 +6,7 @@ include('../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Αραβικά Μουσικά Όργανα";
 $page_description = "Αραβικά Μουσικά Όργανα";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Το Ούτι, Το Κανονάκι, Το Νάι, Το Αραβικό Bιολί, Το Μπούζουκ, Το Αραβικό Ακκορντεόν, H Hλεκτρική Κιθάρα, To Αραβικό Οργανο, To Αραβικό Αρμόνιο, To Αραβικό Πιάνο, Το Σαξόφωνο, Η Τρομπέτα, Το Ρεκ, Η Τάμπλα, Η Τάμπλα Μπάλαντι, Το Νταφ, Το Μάζχαρ, Το Κάτεμ, Τα Σαγκάτ";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Το Ούτι, Το Κανονάκι, Το Νάι, Το Αραβικό Bιολί, Το Μπούζουκ, Το Αραβικό Ακκορντεόν, H Hλεκτρική Κιθάρα, To Αραβικό Οργανο, To Αραβικό Αρμόνιο, To Αραβικό Πιάνο, Το Σαξόφωνο, Η Τρομπέτα, Το Ρεκ, Η Τάμπλα, Η Τάμπλα Μπάλαντι, Το Νταφ, Το Αιγυπτιακό Μάζχαρ, Το Κάτεμ, Τα Σαγκάτ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -67,7 +67,7 @@ include($ROOT . 'inc/head.php');
                     </p>
 
                     <p>
-                        Το φλάουτο, <a href="instr/saxophone.php">σαξόφωνο</a>, κλαρινέτο και <a href="instr/trumpet.php">τρομπέτα</a> δεν εχουν απο την φύση λειτουργίας τους περιορισμό του 12τονου διαχωρισμού και έτσι επιτρέπουν μεγαλύτερο έλεγχο πάνω στο κούρδισμα σε σχέση με τα υπόλοιπα δυτικά όργανα. Αυτα τα όργανα χρησιμοποιούνται σε ποικίλες επεκτάσεις στυλιστικές , ειδικά σε μοντέρνα Αραβικά jazz fusion είδη.
+                        Το φλάουτο, <a href="instr/saxophone.php">σαξόφωνο</a>, κλαρινέτο και <a href="instr/trumpet.php">τρομπέτα</a> δεν εχουν απο την φύση λειτουργίας τους περιορισμό του 12τονου διαχωρισμού και έτσι επιτρέπουν μεγαλύτερο έλεγχο πάνω στο κούρδισμα σε σχέση με τα υπόλοιπα δυτικά όργανα. Αυτα τα όργανα χρησιμοποιούνται σε ποικίλες επεκτάσεις στυλιστικές, ειδικά σε μοντέρνα Αραβικά jazz fusion είδη.
                     </p>
 
                     <p>
@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <p class="card-text"><a href="instr/oud.php">Το Ούτι</a></p>
                                 <p class="card-text"><a href="instr/qanun.php">Το Κανονάκι</a></p>
                                 <p class="card-text"><a href="instr/nay.php">Το Νάι</a></p>
-                                <p class="card-text"><a href="instr/violin.php">Το Bιολί</a></p>
+                                <p class="card-text"><a href="instr/violin.php">Το Αραβικό Bιολί</a></p>
                                 <p class="card-text"><a href="instr/buzuq.php">Το Μπούζουκ</a></p>
                             </div>
                         </div>
@@ -98,8 +98,8 @@ include($ROOT . 'inc/head.php');
                                 <p class="card-text"><a href="instr/org.php">To Αραβικό Οργανο</a></p>
                                 <p class="card-text"><a href="instr/keyboard.php">To Αραβικό Αρμόνιο</a></p>
                                 <p class="card-text"><a href="instr/piano.php">To Αραβικό Πιάνο</a></p>
-                                <p class="card-text"><a href="instr/saxophone.php">Το Σαξόφωνο</a></p>
-                                <p class="card-text"><a href="instr/trumpet.php">Η Τρομπέτα</a></p>
+                                <p class="card-text"><a href="instr/saxophone.php">Το Αραβικό Σαξόφωνο</a></p>
+                                <p class="card-text"><a href="instr/trumpet.php">Η Αραβική Τρομπέτα</a></p>
                             </div>
                         </div>
                     </div>
@@ -112,7 +112,7 @@ include($ROOT . 'inc/head.php');
                                 <p class="card-text"><a href="instr/tabla.php">Η Τάμπλα</a></p>
                                 <p class="card-text"><a href="instr/tabl_baladi.php">Η Τάμπλα Μπάλαντι</a></p>
                                 <p class="card-text"><a href="instr/daff.php">Το Νταφ</a></p>
-                                <p class="card-text"><a href="instr/mazhar.php">Το Μάζχαρ</a></p>
+                                <p class="card-text"><a href="instr/mazhar.php">Το Αιγυπτιακό Μάζχαρ</a></p>
                                 <p class="card-text"><a href="instr/katim.php">Το Κάτεμ</a></p>
                                 <p class="card-text"><a href="instr/sagat.php">Τα Σαγκάτ</a></p>
                             </div>
