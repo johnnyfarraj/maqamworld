@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/tabla.jpg" alt="La Tabla">
-                        <span>Tabla en aluminium à peau de plastique de <strong>Gawharet El-Fan</strong>, Égypte.. &copy; MaqamWorld</span>
+                        <span>Tabla en aluminium à peau de plastique de <strong>Gawharet El-Fan</strong>, Égypte. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
