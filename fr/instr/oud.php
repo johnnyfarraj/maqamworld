@@ -51,7 +51,7 @@ include($ROOT . 'inc/head.php');
                     le corps en forme de poire de l'instrument.
                     Le manche du oud est court en comparaison de son corps et n'a pas de frette.
                     Ceci permet au oud de produire une bonne intonation et en fait un instrument
-                    idéal pour jouer les <a href="../maqam.php">maqams/a> arabes.
+                    idéal pour jouer les <a href="../maqam.php">maqams</a> arabes.
 					</p>
 
                     <p>Le oud a en général cinq paires de cordes accordées à l'unisson plus une corde plus basse que les autres et non doublée.
