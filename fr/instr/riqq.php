@@ -100,6 +100,22 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                  <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=ga3CAHh2JmM?&t=110s">
+                        <div class="radio">
+                            <label>
+                                <div class="thumb-area">
+                                    <div class="thumb">
+                                        <img src="https://img.youtube.com/vi/ga3CAHh2JmM/hqdefault.jpg">
+                                    </div>
+                                </div><!--
+                             --><div class="info">
+                                    <b>Moustafa Bayoumi</b>
+                                    <span>Le percussioniste égyptien Moustafa Bayoumi joue un solo sur un riqq à peau de plastique dans lequel il explore plusieurs <a href="../iqaa.php">iqa‘at</a>.</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+                    
                     <p>Explorer d'autres instruments de percussion:</p>
                     <ul>
                         <!-- <li><a href="riqq.php">Le Riqq</a></li> -->
