@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Το Νταφ";
 $page_description = "Το Νταφ";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Κρουστά, Το Ρεκ, Η Τάμπλα, Η Τάμπλα Μπάλαντι, Το Νταφ, Το Αιγυπτιακό Μάζχαρ, Το Κάτεμ, Τα Σαγκάτ";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Κρουστά, Το Ρεκ, Η Τάμπλα, Το Ταμπλ Μπάλαντι, Το Νταφ, Το Αιγυπτιακό Μάζχαρ, Το Κάτεμ, Τα Σαγκάτ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -23,38 +23,41 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Λίστα μουσικών οργάνων</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο μουσικών οργάνων</a>
                     <?php include('../sidemenu-instr.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
                         <h1>Το Νταφ</h1>
-                        <h3>Le tambour sur cadre générique</h3>
+                        <h3>Ένα Γενικό Τύμπανο</h3>
                     </div>
 
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Λίστα μουσικών οργάνων</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο μουσικών οργάνων</a>
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
                         <img src="/instr/daff.jpg" alt="Daff">
-                        <span>Trois Daffs à peaux de chèvre et de cerf. &copy; MaqamWorld</span>
+                        <span>Τρία νταφ με δέρμα κατσίκας και ελαφιού. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/daff.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Daff</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/daff.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Daff</a>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/bendir.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Béndir</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/bendir.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Μπεντίρ</a>
                     </div>
 
-                    <p> 'Daff' est un mot générique pour le tambour sur cadre en arabe, et plusieurs variétés locales peuvent avoir d'autres noms, comme le <em>Mazhar</em> en Syrie et en Égypte, ou le <em>Béndir</em> en Afrique du Nord.
+                    <p>
+                        Νταφ είναι μία λέξη για τα τύμπανα γενικά στα Αραβικά, και τοπικές ποικιλίες μπορεί να έχουν διαφορετικά ονόματα όπως <em>Μάζχαρ</em> στην Συρία/Αίγυπτος ή <em>Μπεντίρ</em> στην Βόρεια Αφρική.
                     </p>
 
-                    <p> Το Νταφ a un cadre circulaire en bois qui a un diamètre de 30 à 60 centimètres (plus il est large, plus les fréquences sont basses). Le cadre peut avoir 10 centimètres de profondeur pour les petits diamètres et 5 à 7 centimètres de profondeur pour les plus grands diamètres. La peau est généralement celle d'une chèvre, d'un cerf ou autre peau naturelle, et est collée de façon permanente au cadre. Les Daffs modernes ont une peau de plastique et sont accordables.
+                    <p>
+                        Το Νταφ έχει ένα κυκλικό ξύλινο πλαίσιο μεγέθους από 12 ίντσες σε διάμετρο στο μικρότερο μέγεθος μέχρι 24 ίντσες και πάνω στα μεγαλύτερα και βαθύτερα μεγέθη. Το πλαίσιο μπορεί να έχουν περίπου 4 ίντσες πλάτος στις μικρές διαμέτρους, και 2-3 ίντσες πλάτος σε μεγαλύτερες διαμέτρους. Το δέρμα είναι κατά παράδοση από κατσίκα, ελάφι ή άλλο φυσικό δέρμα, και είναι μόνιμα  κολλυμένο στο πλαίσιο, καθώς μοντέρνα νταφ έχουν δέρμα από πλαστικό, και μπορούν να κουρδιστούν.
                     </p>
-                    <p>Το Νταφ est particulièrement populaire dans la musique Soufie (dans laquelle c'est souvent le seul instrument qui accompagne le chant) et est aussi utilisé dans les genres classiques, folkloriques et populaires pour créer une section rythmique plus grande.
+                    <p>
+                        Το Νταφ είναι ειδικά διαδεδομένο στην Σούφικη μουσική (όπου συχνά είναι το μόνο όργανο που συνοδεύει το τραγούδι), και επίσης χρησιμοποιείται στην κλασσική, παραδοσιακή μουσική και στα υπόλοιπα είδη προσφέροντας μεγαλύτερο όγκο στα σύνολα των κρουστών.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=FFViUJriwXE&t=515s">
@@ -66,8 +69,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>L'ensemble Hassan al-Haffar</b>
-                                    <span>Το Νταφ est utilisé dans l'ensemble du <em>mounched</em> (chantre islamique) aleppin Hassan al-Haffar dans un concert enregistré à Paris.</span>
+                                    <b>Ορχήστρα του Χάσαν Αλ-Χαφφάρ</b>
+                                    <span>Το Νταφ χρησιμοποιείται στο είδος ψάλτης του Χαλεπίου (Ισλαμικά τραγούδια) στην ορχήστρα του Χάσαν Αλ-Χαφφάρ σε ζωντανή ηχογράφηση από συναυλία στο Παρίσι.
+                                </span>
                                 </div>
                             </label>
                         </div>
@@ -82,8 +86,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Douqqou el-Mazaher</b>
-                                    <span>La chanson de mariage <strong>Douqqou el-Mazaher</strong> ('jouez aux tambours') de Farid al-Atrache utilise plusieurs tambours sur cadre utilisés dans les célébrations de mariage.</span>
+                                    <b>Ντούκκου Ελ-Μαζαχίρ</b>
+                                    <span>
+                                        Το γαμήλιο τραγούδι <strong>Ντούκκου Ελ-Μαζαχίρ</strong> του Φαρίντ Αλ-Ατράς (“Παίξτε τα τύμπανα”), 1952) συμπεριλαμβάνει μία ομάδα τυμπάνων που χρησιμοποιούνται στην γαμήλια γιορτή.</span>
                                 </div>
                             </label>
                         </div>
@@ -93,7 +98,7 @@ include($ROOT . 'inc/head.php');
                     <ul>
                         <li><a href="riqq.php">Το Ρεκ</a></li>
                         <li><a href="tabla.php">Η Τάμπλα</a></li>
-                        <li><a href="tabl_baladi.php">Η Τάμπλα Μπάλαντι</a></li>
+                        <li><a href="tabl_baladi.php">Το Ταμπλ Μπάλαντι</a></li>
                         <!-- <li><a href="daff.php">Το Νταφ</a></li> -->
                         <li><a href="mazhar.php">Το Αιγυπτιακό Μάζχαρ</a></li>
                         <li><a href="katim.php">Το Κάτεμ</a></li>

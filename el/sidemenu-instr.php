@@ -18,6 +18,6 @@
     <li><a href="/el/instr/sagat.php">Τα Σαγκάτ</a></li>
     <li><a href="/el/instr/saxophone.php">Το Αραβικό Σαξόφωνο</a></li>
     <li><a href="/el/instr/tabla.php">Η Τάμπλα</a></li>
-    <li><a href="/el/instr/tabl_baladi.php">Η Τάμπλα Μπάλαντι</a></li>
+    <li><a href="/el/instr/tabl_baladi.php">Το Ταμπλ Μπάλαντι</a></li>
     <li><a href="/el/instr/trumpet.php">Η Αραβική Τρομπέτα</a></li>
 </ul>

@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Το Ρεκ";
 $page_description = "Το Ρεκ";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Κρουστά, Το Ρεκ, Η Τάμπλα, Η Τάμπλα Μπάλαντι, Το Νταφ, Το Αιγυπτιακό Μάζχαρ, Το Κάτεμ, Τα Σαγκάτ";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Κρουστά, Το Ρεκ, Η Τάμπλα, Το Ταμπλ Μπάλαντι, Το Νταφ, Το Αιγυπτιακό Μάζχαρ, Το Κάτεμ, Τα Σαγκάτ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -23,34 +23,37 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Λίστα μουσικών οργάνων</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο μουσικών οργάνων</a>
                     <?php include('../sidemenu-instr.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
                         <h1>Το Ρεκ</h1>
-                        <h3>Un petit tambour sur cadre à cymbales tenu à la main</h3>
+                        <h3>Ένα μικρό χειροπιαστό τύμπανο με κύμβαλα</h3>
                     </div>
 
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Λίστα μουσικών οργάνων</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο μουσικών οργάνων</a>
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
                         <img src="/instr/riqq.jpg" alt="Το Ρεκ">
-                        <span>Deux riqqs traditionnels à peaux de poisson. &copy; MaqamWorld</span>
+                        <span>Δύο παραδοσιακά Ρεκ με δέρμα ψαριού. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/riqq.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Riqq</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/riqq.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Riqq</a>
                     </div>
 
-                    <p>Το Ρεκ est un petit tambour sur cadre à cymbales tenu à la main. Le cadre est en général fait de bois (certains modèles en aluminium existent aussi) et a un diamètre de 23 à 26 centimètres. La peau est traditionnellement de poisson; les riqqs modernes utilisent plutôt du plastique (mylar). Les cymbales donnent au riqq son son distinctif. Elles sont faites de laiton (à peu près 0.8 à 0.9 millimètres d'épaisseur) et viennent en 5 (ou 6) groupes de quatre.
+                    <p>
+                        Το Ρεκ είναι ένα μικρό χειροπιαστό τύμπανο με κύμβαλα. Το πλαίσιο είναι συνήθως από ξύλο (υπάρχουν και μερικά μοντέλα από αλουμίνιο), και έχουν  9 με 10 ίντσες διάμετρο. Κατά παράδοση, ντύνεται με δέρμα ψαριού, ενώ μοντέρνα Ρεκ έχουν πλαστικό (Mylar). Τα κύμβαλα δίνουν τον χαρακτηριστικό ήχο του οργάνου. Είναι φτιαχμένα από μπρούτζο ( περίπου 0.8mm με 0.9mm πάχος) και διαχωρίζονται σε 5 (καμιά φορά 6) τετράδες.
                     </p>
                     <p>
-                    Το Ρεκ peut être utilisé pour jouer des <a href="../iqaa.php">cycles rythmiques</a> et des ornements très complexes en utilisant une technique de doigté élaborée. Il peut produire une palette de sons très ample en utilisant la peau, le cadre de bois et les cymbales.
+                        Το Ρεκ μπορεί να χρησιμοποιηθεί για να παιχτούν <a href="../iqaa.php">περίτεχνοι κύκλοι</a> και ρυθμικά διανθίσματα μέσω πολύπλοκων τεχνικών των δακτύλων, και μπορεί να παράγει μία μεγάλη ποικιλία από ήχους χρησιμοποιώντας το δέρμα, το ξύλινο πλαίσιο και τα κύμβαλα.
                     </p>
-                    <p>Το Ρεκ est généralement le seul instrument de percussion du <em>takht</em> (l'orchestre de chambre traditionnel arabe) et le musicien qui en joue est appelé <em>dabet al-iqa‘</em> ('celui qui contrôle le rythme').</p>
+                    <p>
+                        Το ρεκ είναι συνήθως το μόνο κρουστό όργανο σε ένα σύνολο <em>Ταχτ</em> (Παραδοσιακή Αραβική ορχήστρα) και ο μουσικός που το παίζει λέγεται <em>χειριστής του ρυθμού</em>.
+                    </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=Ptd3R51Qj-s&t=2100s">
                         <div class="radio">
@@ -61,8 +64,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Hassan Anwar</b>
-                                <span>Le joueur de riqq Hasan Anwar (le <em>dabet al-iqa‘</em> officiel de l'Orchestre Diamant d'Égypte) échange des solos avec le joueur d'orgue pendant la chanson <strong>Qari'at al-Fingan</strong> de Abdel Halim Hafez (1976, musique de Mouhammad al-Mougi).</span>
+                                    <b>Χάσαν Ανουάρ</b>
+                                <span>
+                                    Ο κρουστός του Ρεκ Χάσαν Ανουάρ (ο επίσημος χειριστής του ρυθμού της "Διαμαντένια Ορχήστρα" στην Αίγυπτο) ανταλλάζει φράσεις αυτοσχεδιασμού με τον μουσικό του Οργάνου στο τραγούδι <strong>Κάριατ αλ-Φιντζάν</strong> σε ερμηνεία Αμπντέλ Χαλίμ Χάφεζ (1976, σε μουσική Μοχάμαντ αλ-Μούγκι)</span>
                                 </div>
                             </label>
                         </div>
@@ -77,8 +81,10 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Mouhammad al-‘Arabi</b>
-                                <span>Le joueur de riqq égyptien Mouhammad al-‘Arabi joue un solo sur un riqq à peau de plastique dans lequel il explore plusieurs <a href="../iqaa.php">iqa‘at</a>.</span>
+                                    <b>Μοχάμαντ αλ-Άραμπι</b>
+                                <span>
+                                    Ο Αιγύπτιος κρουστός στο Ρεκ Μοχάμαντ αλ-Άραμπι εκτελεί ένα στο σόλο στο Ρεκ (με πλαστικό δέρμα) όπου περνά μέσα από πολλούς <a href="../iqaa.php">διαφορετικούς ρυθμούς</a>.
+                                </span>
                                 </div>
                             </label>
                         </div>
@@ -93,18 +99,37 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Adel Shams el-Din</b>
-                                    <span>Le percussionniste égyptien Adel Shams el-Din joue un solo sur un riqq à peau de poisson, dans lequel il explore plusieurs <a href="../iqaa.php">iqa‘at</a> (enregistré en 2005 à l'Institut du Monde Arabe, Paris).</span>
+                                    <b>Άντελ Σαμς ελ-Ντιν</b>
+                                    <span>
+                                        Ο Αιγύπτιος κρουστός Άντελ Σαμς ελ-Ντιν εκτελεί ένα σόλο σε Ρεκ με δέρμα ψαριού με το οποίο περνά μέσα από πολλούς <a href="../iqaa.php">διαφορετικούς ρυθμούς</a> (ηχογράφημένο το 2005 στο Ινστιτούτο του Αραβικού Κόσμου, Παρίσι).
+                                    </span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
+                  <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=ga3CAHh2JmM?&t=110s">
+                        <div class="radio">
+                            <label>
+                                <div class="thumb-area">
+                                    <div class="thumb">
+                                        <img src="https://img.youtube.com/vi/ga3CAHh2JmM/hqdefault.jpg">
+                                    </div>
+                                </div><!--
+                             --><div class="info">
+                                    <b>Μουσταφά Μπαϊούμι</b>
+                                    <span>Ο Αιγύπτιος κρουστός Μουσταφά Μπαϊούμι εκτελεί ένα σόλο σε Ρεκ (με πλαστικό δέρμα) με το οποίο περνά μέσα από πολλούς <a href="../iqaa.php">διαφορετικούς ρυθμούς</a>.
+                                </span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+                    
                     <p>Εξερευνήστε άλλα κρουστά όργανα:</p>
                     <ul>
                         <!-- <li><a href="riqq.php">Το Ρεκ</a></li> -->
                         <li><a href="tabla.php">Η Τάμπλα</a></li>
-                        <li><a href="tabl_baladi.php">Η Τάμπλα Μπάλαντι</a></li>
+                        <li><a href="tabl_baladi.php">Το Ταμπλ Μπάλαντι</a></li>
                         <li><a href="daff.php">Το Νταφ</a></li>
                         <li><a href="mazhar.php">Το Αιγυπτιακό Μάζχαρ</a></li>
                         <li><a href="katim.php">Το Κάτεμ</a></li>

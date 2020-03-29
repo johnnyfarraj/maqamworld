@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Η Τάμπλα Μπάλαντι";
-$page_description = "Η Τάμπλα Μπάλαντι";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Κρουστά, Το Ρεκ, Η Τάμπλα, Η Τάμπλα Μπάλαντι, Το Νταφ, Το Αιγυπτιακό Μάζχαρ, Το Κάτεμ, Τα Σαγκάτ";
+$page_title = "Το Ταμπλ Μπάλαντι";
+$page_description = "Το Ταμπλ Μπάλαντι";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Κρουστά, Το Ρεκ, Η Τάμπλα, Το Ταμπλ Μπάλαντι, Το Νταφ, Το Αιγυπτιακό Μάζχαρ, Το Κάτεμ, Τα Σαγκάτ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -23,32 +23,33 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Λίστα μουσικών οργάνων</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο μουσικών οργάνων</a>
                     <?php include('../sidemenu-instr.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Η Τάμπλα Μπάλαντι</h1>
-                        <h3>Grand Tambour Villageois avec peau sur les deux côtés</h3>
+                        <h1>Το Ταμπλ Μπάλαντι</h1>
+                        <h3>Μεγάλο Τύμπανο με δέρμα και στις δύο πλευρές</h3>
                     </div>
 
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Λίστα μουσικών οργάνων</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο μουσικών οργάνων</a>
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
                         <img src="/instr/tabl_baladi.jpg" alt="Tabl Baladi">
-                        <span>Un Tabl Baladi à peau de chèvre. &copy; MaqamWorld</span>
+                        <span>Tάμπλ Μπάλαντι με δέρμα κατσίκας. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/tabl_baladi.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Tabl baladi</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/tabl_baladi.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Ταμπλ Μπάλαντι</a>
                     </div>
 
-                    <p> Η Τάμπλα Μπάλαντι est un grand tambour villageois fait d'un cadre de bois avec des peaux lourdes sur les deux côtés. Il est attaché à l'épaule du musicien avec une ceinture et est joué à l'aide de deux bâtons: le bâton épais est pour les sons dum, joués avec la main dominante tandis que le bâton mince est pour les sons tak joués avec l'autre main.
+                    <p>
+                        Το Ταμπλ Μπάλαντι είναι ένo μεγάλο τύμπανομε ξύλινο πλαίσιο και βαρύ δέρμα και στις δύο πλευρές. Κρεμιέται με μία ζώνη γύρω από τον ώμο του οργανοπαίχτη και παίζεται με δύο μπακέτες. Η χοντρή μπακέτα είναι για το χτύπημα “dum” από το βασικό χέρι, και η λεπτή για το χτύπημα “tak” από το άλλο χέρι.
                     </p>
-
-                    <p>Η Τάμπλα Μπάλαντι est idéal pour la musique jouée en extérieur dans les villages (<em>baladi</em> veut dire villageois) et peut donner le rythme pour des danses en ligne telles que le <em>Dabké</em> à côté d'instruments très forts en volume tels que le <em>Mizmar</em>. Η Τάμπλα Μπάλαντι ne joue pas de rythmes très complexes ou ornementés et est idéal pour des <a href="../iqaa.php">iqa‘at</a> lourds en 4/4 tels que le <a href="../iqaa/baladi.php">Baladi</a>, le <a href="../iqaa/saidi.php">Saïdi</a> et particulièrement le <a href="../iqaa/nawari.php">Nawari</a>.
+                    <p>
+                        Το Ταμπλ Μπάλαντι είναι ιδανική για εξωτερικούς χώρους, λ.χ. στα χωριά (“<em>μπάλαντι</em>” σημαίνει ντόπιο, εγχώριο, από το χωριό) και μπορεί να παρέχει τον παλμό για ομαδικά χορευτικά σύνολα όπως το “<em>Ντέπκε</em>” πλάι σε εξίσου δυνατά όργανα όπως το <em>Μιζμάρ</em>. Το Ταμπλ Μπάλαντι δεν παίζει πολύ <a href="../iqaa.php">περίπλοκους ρυθμούς</a> ή με διανθίσματα και είναι ιδανική αργούς ρυθμούς 4/4 όπως <a href="../iqaa/baladi.php">Ικά Μπάλαντι</a>, <a href="../iqaa/saidi.php">Ικά Σαΐντι</a> και ιδίως <a href="../iqaa/nawari.php">Ικά Νάουαρι</a>.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=D6Ex5WiW6vc">
@@ -60,8 +61,10 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Tabl Baladi et Mizmar</b>
-                                    <span>Le joueur de Tabl Baladi arméno-libanais Setrak Sarkissian commence à jouer le rythme pour la chanson <strong>‘al-‘Ein Moulayyitein</strong> chantée par la chanteuse Samira Tawfiq, accompagné au Riqq et Tabl Baladi. Enregistré à la Télévision Libanaise avec le violoniste Rafik Hobeika dirigeant l'orchestre.</span>
+                                    <b>Ταμπλ Μπάλαντι με Μιζμάρ</b>
+                                    <span>
+                                        Ο Αρμενο-Λιβανέζος παίχτης της Ταμπλ Μπάλαντι Σετράκ Σαρκισσιάν ξεκινάει τον ρυθμό για την τραγουδίστρια Σαμίρα Ταουφίκ στο τραγούδι της “<strong>αλ-Αΐν Μουλαϊτέν</strong>”, συνοδευόμενη από Ρεκ και Ταμπλ Μπάλαντι. Ηχογραφημένο στην Λιβανική τηλεόραση με τον βιολιστή Ραφίκ Χομπέικα να διευθύνει την ορχρήστρα.
+                                </span>
                                 </div>
                             </label>
                         </div>
@@ -71,7 +74,7 @@ include($ROOT . 'inc/head.php');
                     <ul>
                         <li><a href="riqq.php">Το Ρεκ</a></li>
                         <li><a href="tabla.php">Η Τάμπλα</a></li>
-                        <!-- <li><a href="tabl_baladi.php">Η Τάμπλα Μπάλαντι</a></li> -->
+                        <!-- <li><a href="tabl_baladi.php">Το Ταμπλ Μπάλαντι</a></li> -->
                         <li><a href="daff.php">Το Νταφ</a></li>
                         <li><a href="mazhar.php">Το Αιγυπτιακό Μάζχαρ</a></li>
                         <li><a href="katim.php">Το Κάτεμ</a></li>
