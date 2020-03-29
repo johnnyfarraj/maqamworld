@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Forme per Composizioni Vocali</h1>
-                        <h3>Il Dawr, Il Muwashah, Il Qadd, La Taqtuqa, L'Ughniya, La Qasida, Il Monologo, Il Duetto, Il Dulab</h3>
+                        <h3>Il Dawr, Il Muwashah, Il Qadd, La Taqtuqa, L'Ughniya, La Qasida, Il Monologo, Il Duetto</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Indice per le Forme</a>
