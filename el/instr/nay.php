@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Το Νάι</h1>
-                        <h3>Une flute jouée en soufflant dans le bec</h3>
+                        <h3>Ένα φλάουτο χωρίς ράμφος</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο μουσικών οργάνων</a>
@@ -38,19 +38,18 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/nay.jpg" alt="Το Νάι">
-                        <span>Un ensemble de 7 nayat libanias construits par Atef Wehbi. &copy; MaqamWorld</span>
+                        <span>Ένα σετ από 7 Λιβανέζικα νάι από τον Αφίφ Ουέχμπι. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/nay.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Nay</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/nay.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Νάι</a>
                     </div>
 
                     <p>
-                    Το Νάι ("roseau" en Farsi, prononcé 'naï') est une flute à bout ouvert, soufflée de manière oblique, et faite en roseau. Le nay est utilisé dans les Proche-Orient depuis l'antiquité. Le nay a neuf joints et en général six trous devant pour les doigts et un derrière pour le pouce. Il est joué avec les coussinets des doigts. Les Nays ont des longueurs différentes en fonction de l'accord par rapport à la fréquence produite par le nay quand le premier trou est en position ouverte (Ré4 est le plus utilisé; La note la plus basse est Do4).
+                        Το Νάι (Καλάμι στα Περσικά) είναι ένα ανοικτό, χωρίς ράμφος, φλάουτο φτιαχμένο από καλάμι. Το Νάι ήταν γνωστό στην Μέση Ανατολή από την αρχαιότητα. Περιλαμβάνει 9 σπόνδυλους, και συνήθως έχει 6 τρύπες μπροστά και μία πίσω για τον αντίχειρα. Παίζεται με το κατω μέρος των άκρων των δακτυλων (μαξιλαράκια). Το Νάι έρχεται σε διαφορα μήκη, κάθε ένα από αυτά κουρδισμένο σε συγκεκριμένο τόνο και ονομαζόμενο με βάση του τόνου που παράγεται με την 1η τρύπα ανοικτή (Ρε4 για το πιο κοινά χρησιμοποιημένο νάι, χαμηλότερη νότα Ντο 4).
                     </p>
-
                     <p>
-                    Même si c'est un instrument très simple, le nay est un des instruments arabes les plus difficiles à jouer. Un bon joueur de nay peut produire une grande variété de sons liquides et d'ornements; c'est un instrument extrêmement poignant. Son timbre poétique en fait un instrument particulièrement adapté aux effets mélancoliques exprimant à la fois la joie et le désir. C'est le seul instrument à vent utilisé dans la musique arabe savante et il est apprécié pour son son chaud et ses inflexions tonales et dynamiques subtiles.
+                        Παρόλο που είναι απλό, το Νάι είναι ένα από τα πιο δύσκολα Αραβικά όργανα που μπορεί να παίξει κανείς. Ένας έμπειρος παίχτης μπορεί να παράγει μεγάλη ποικιλία από ρευστούς  ήχους και ποικίλματα, καθώς το νάι είναι ένα εξαιρετικά εκφραστικό όργανο. Ο απαλός του τόνος το κάνει ιδιαίτερα ιδανικό για εκφράσεις μελαγχολικών συναισθημάτων προσδίδοντας ταυτόχρονα χαρά και επιθυμία. Έιναι το μοναδικό πνευστό όργανο στην Αραβική μουσική που εκτιμάται για την ζεστή του χροιά, τη βαθεια πνοή, τον διακριτικό τόνο του και δυναμικές του διακυμάνσεις.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=JhOs_1SodTA&t=0s">
@@ -62,8 +61,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Sayyed Salem</b>
-                                    <span>Sayyed Salem (Égypte), pendant de nombreuses années membre de l'Orchestre de Oum Koulthoum, dans un solo pendant la pièce <strong>Ba‘id Annak</strong> (1965, musique de Baligh Hamdi).</span>
+                                    <b>Σάιεντ Σάλεμ</b>
+                                    <span>Ο Σάιεντ Σάλεμ (Αίγυπτος), για πολλά χρόνια μέλος της ορχήστρας της Ουμ Καλθούμ (Αίγυπτος) σε ένα τακασίμ κατά τη διάρκεια του τραγουδιού <strong>Μπαίντ Άνακ</strong> (1965, σε μουσική του Μπαλίγ Χάμντι).</span>
                                 </div>
                             </label>
                         </div>
@@ -78,10 +77,10 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Mahmoud ‘Effat</b>
+                                    <b>Μαχμούντ Εφάτ</b>
                                     <span>
-                                    Mahmoud 'Effat (Égypte),  grand joueur de nay et professeur, membre pendant de nombreuses années de l'Orchestre Diamant, jouant un <a href="../form/improv.php#taqsim">Taqsim</a>
-                                    en <a href="../maqam/saba.php">Maqam Saba</a>.</span>
+                                    Ο βετεράνος ναΐστας και δάσκαλος, Μαχμούντ Εφάτ (Αίγυπτος), πολλά χρόνια μέλος της "Διαμαντένια Ορχήστρα" Orchesrta" σε ένα <a href="../form/improv.php#taqsim">τακασίμ</a> σε <a href="../maqam/saba.php">μακάμ Σάμπα</a>.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -96,9 +95,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Reda Bdeir</b>
-                                    <span>Reda Bdeir (Égypte) jouant la chanson <strong>Kulli Da Kan Leh</strong>
-                                    (1954, musique de Mouhammad Abdel Wahab).</span>
+                                    <b>Ρέντα Μπντέιρ</b>
+                                    <span>Ο Ρέντα Μπντέιρ παίζει το κομμάτι <strong>Κούλι Ντα Καν Λε</strong> (1954, σε μουσική του Μοχάμμαντ Αμπντέλ Ουαχάμπ).</span>
                                 </div>
                             </label>
                         </div>
@@ -113,10 +111,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Michael Ibrahim</b>
+                                    <b>Μικαέλ Ιμπραΐμ</b>
                                     <span>
-                                    Michael Ibrahim (Syrie), directeur de l'Orchestre National Arabe (Etats-Unis),
-                                    jouant un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/saba.php">Maqam Saba</a>. Pendant une performance de l'orchestre.</span>
+                                    Ο Μικαέλ Ιβραΐμ (Συρία), μαέστρος της Εθνικής Αραβικής Ορχήστρας (ΗΠΑ) σε ένα <a href="../form/improv.php#taqsim">τακασίμ</a> σε <a href="../maqam/saba.php">μακάμ Σάμπα</a> σε συναυλία της ορχήστρας.</span>
                                 </div>
                             </label>
                         </div>

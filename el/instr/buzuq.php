@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Το Μπούζουκ</h1>
-                        <h3>Un petit lute avec un long manche fretté</h3>
+                        <h3>Ένα Μικρό Λαούτο με μακρύ ταστωμένο λαιμό</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο μουσικών οργάνων</a>
@@ -38,17 +38,18 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/buzuq.jpg" alt="Το Μπούζουκ">
-                        <span>Deux bouzouks du Liban. &copy; MaqamWorld</span>
+                        <span>Δύο Μπουζούκ από τον Λίβανο. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/buzuq.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Bouzouk</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/buzuq.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Μπούζουκ</a>
                     </div>
 
-                    <p>Το Μπούζουκ est un instrument à cordes de la famille du <a href="oud.php">Oud</a> avec un corps plus petit et un manche plus long et fretté. Il est plus proche pour la forme du <em>Bouzouki</em> grec et du <em>Saz</em> turc. Το Μπούζουκ est à l'origine un instrument folklorique de l'Est de la Méditerranée (Palestine, Jordanie, Liban et Syrie) qui est en général joué en solo. Il est dans la présente liste des instruments traditionnels parce qu'il est devenu partie prenante de la musique arabe populaire dominante au milieu du 20<sup>ième</sup> siècle. Depuis, il est apparu dans de nombreux enregistrements et performances et a pris place dans l'ensemble arabe.
+                    <p>
+                        Το μπούζουκ είναι ένα έγχορδο όργανο από την οικογένεια του <a href="oud.php">ουτιού</a> με μικρότερο σκάφος και μακρύτερο, ταστωμένο λαιμό. Σε σχήμα μοιάζει περισσότερο με το Ελληνικό μπουζούκι και το Τουρκικό σάζι.Το μπουζούκ είναι αρχικά ένα λαικό όργανο από την Ανατολική Μεσόγειο (Παλαιστίνη, Ιορδανία, Λίβανος και Συρία) το οποίο συνήθως παίζεται μόνο του χωρίς την ύπαρξη άλλων οργάνων. Παρόλαυτα, είναι καταχωρημένο μαζί με τα άλλα παραδοσιακά όργανα επειδή εισήλθε στην τάση της Αραβικής λαϊκής μουσικής προς τα μέσα του 20ου αιώνα. Από τότε έχει συμπεριληφθεί σε πολλές ηχογραφρήσεις και συναυλίες καθώς έγινε μέρος της τυπικής Αραβικής ορχήστρας.
                     </p>
                     <p>
-                    Το Μπούζουκ traditionnel a deux cœurs de cordes de métal, un double Do4 et un triple Sol3, et il est joué à l'aide d'un fin morceau de corne ou d'un plectre en plastique. De nos jours, Το Μπούζουκ est construit avec trois cœurs de cordes de manière à avoir un ambitus plus ample. Les cordes en métal et les clés de métal pour accorder l'instrument (pareilles à celles d'une guitare) lui donne une sonorité claire. La distribution des frettes couvre les quarts de ton les plus communs. Ceci, et le fait que le musicien peut déplacer les frettes pour changer la fréquence (le pitch) des notes, permet au bouzouk de jouer les gammes les plus communes du <a href="../maqam.php">maqam</a> arabe avec une précision acceptable.
+                        Το παραδοσιακό μπούζουκ είχε δύο σετ από μεταλλικές χορδές, μία διπλή κουρδισμένη σε Ντο4 και μία τριπλή σε Σολ4, και παιζόταν από ένα λεπτό κομμάτι κεράτινο ή πλαστικό. Σήμερα το μπουζούκ φτίαχνονται με τρία σετ χορδών για μεγαύτερη έκταση. Οι μεταλλικές χορδές, μαζί με τα κλειδία (πανομοιότυπα με αυτά της κιθάρας) δίνουν στο όργανο ένα φωτεινό ήχο, καθώς η διάταξη των μπερντέδων καλύπτει τα πιο κοινά μικροδιαστήματα. Λόγω του ότι οι μερντέδες μπορούν να μετακινηθούν αυτό επιτρέπει στο όργανο να αποδώσει τα πιο κοινά <a href="../maqam.php">μακάμ</a> με ικανοποιητική ακρίβεια.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=isAhZyRcA0M&t=0s">
@@ -60,8 +61,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Mouhyiddine Ba‘youn</b>
-                                    <span>Le joueur de bouzouk et chanteur libanias Mouhyiddine Ba'youn jouant un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/bayati.php">Maqam Bayati</a>.</span>
+                                    <b>Μουχαιντίν Μπαγιούν</b>
+                                    <span>Ο Λιβανέζος τραγουδιστής και μπουζουκτσής Μουχαιντίν Μπαγιούν παίζει <a href="../form/improv.php#taqsim">τακασίμ</a> σε <a href="../maqam/bayati.php">μακάμ Μπαϊάτι</a>.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -76,8 +78,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Mouhammad Abdel Karim</b>
-                                    <span>Le joueur de bouzouk syrien Mouhammad Abdel Karim (appelé le Prince du Bouzouk) jouant un <a href="../form/improv.php#taqsim">Taqsim</a> au bouzouk. Abdel Karim a laissé de nombreux enregistrements. Son style était doux et méditatif.</span>
+                                    <b>Μοχάμαντ Αμπντέλ Καρίμ</b>
+                                    <span>Ο Σύριος μπουζουκτσής Μοχάμαντ Αμπντέλ Καρίμ (ο πρίγκηπας του Μπούζουκ) σε ένα <a href="../form/improv.php#taqsim">τακασίμ</a>. Ο Αμπντέλ Καρίμ έχει αφήσει πολλές ηχογραφήσεις, και το ύφος του είναι γλυκό και στοχαστικό.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -92,8 +95,10 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Matar Mouhammad</b>
-                                    <span>Le virtuose du bouzouk libanias Matar Mouhammad joue un <a href="../form/improv.php#taqsim">Taqsim</a> dans un concert. Son Taqsim met Το Μπούζουκ au même niveau que les autres instruments traditionnels arabes pour ce qui a trait à la complexité, la technique, l'ornementation, les modulations en <a href="../maqam.php">maqam</a>, et la longueur.</span>
+                                    <b>Μάταρ Μοχάμαντ</b>
+                                    <span>
+                                        O Λιβανέζος βιρτουόζος στο μπούζουκ Μάταρ Μοχάμαντ παίζει τακασίμ σε συναυλία. Το <a href="../form/improv.php#taqsim">τακασίμ</a> του Μοχάμαντ κάνει το μπούζουκ τόσο άρτιο στην περιπλοκότητα, τεχνική, ποικίλματα, <a href="../maqam.php">μακάμ</a> και τις μεταφορές τους και έκταση όσο ισχύει και για τα υπόλοιπα όργανα.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -108,8 +113,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Zoro Youssef</b>
-                                    <span>Le joueur de bouzouk kurdo-libanais Zoro Youssef (Zoro Seîd Yûsiv) jouant un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/rast.php">Maqam Rast</a>. Enregistré en direct par la télévision libanaise.</span>
+                                    <b>Ζόρο Γιούσεφ</b>
+                                    <span>O Κούρδο- Λιβανέζος Ζόρο Γιούσεφ παίζει <a href="../form/improv.php#taqsim">τακασίμ</a> σε <a href="../maqam/rast.php">μακάμ Ραστ</a>, ζωντανά στην Λιβανική τηλεόραση.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -124,8 +130,10 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Marhabtayn</b>
-                                    <span>La diva libanaise Sabah dans sa chanson <strong>Marhabtayn</strong> (enregistré au Koweït). Avec un bouzouk dans l'orchestre (dirigé par le violoniste libanias Abboud Abdel 'Al).</span>
+                                    <b>Μαρχαμπτέιν</b>
+                                    <span>
+                                        Η ντίβα του τραγουδιού Σαμπάχ από το Λίβανο τραγουδάει το <strong>Μαρχαμπτέιν</strong> το οποίο συμπεριλαμβάνει μπούζουκ τακασίμ στην ορχήστρα (με μαέστρο τον βιολιστή Αμπούντ Άμπντελ Αλ).
+                                    </span>
                                 </div>
                             </label>
                         </div>

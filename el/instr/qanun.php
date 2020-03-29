@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Το Κανονάκι</h1>
-                        <h3>Une cithare à cordes pincées</h3>
+                        <h3> Μία πληκτροφόρα Κιθάρα</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο μουσικών οργάνων</a>
@@ -38,36 +38,20 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/qanun.jpg" alt="Το Κανονάκι">
-                        <span>Qanoun syrien construit par Bachir Bij. &copy; MaqamWorld</span>
+                        <span>Συριακό Κανονάκι, κατασκευή Μπασίρ Μπιτζ. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qanun.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Qanoun</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qanun.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Κανονάκι</a>
                     </div>
-
-                    <p>Το Κανονάκι est le descendant de l'ancienne harpe égyptienne.
-                    Il fait partie intégrante de la musique arabe depuis le 10<sup>ième</sup> siècle.
-                    Le mot <em>qanoun</em> veut dire 'loi' en arabe et le mot existe en anglais sous la forme "canon".
-                    Ce nom a probablement été donné au qanoun parce que c'est l'instrument qui établit la loi
-                    en ce qui a trait aux fréquences (pitch) pour les autres instruments et chanteurs.
+                    <p>
+                        Το κανονάκι είναι απόγονος της Αιγυπτιακής άρπας. Είναι ένα αναπόσπαστο στοιχείο της Αραβικής μουσικής από τον 10ο αιώνα. Η λέξη κανονάκι σημαίνει “νόμος” στα Αραβικά, και η λέξη στα αγγλικά είναι “canon”. Αυτή η ονομασία πιθανώς δώθηκε στο όργανο επειδή είναι το όργανο που έχει τοποθετημένο τον κανόνα των συχνοτήτων για τα άλλα οργανα και τους τραγουδιστές.
                     </p>
-
-                    <p>Le corps du qanoun consiste en une planche de bois plate en forme de trapèze sur laquelle
-                    81 cordes sont tendues en groupes de trois, avec 24 cordes aigües consistant en trois cordes pour chaque note.
-                    L'instrument est placé à plat sur les genoux du musicien ou sur une petite table.
-                    Les cordes du qanoun sont pincées avec deux plectres attachés à l'index de chaque main.
-                    Un long pont sur la droite de l'instrument est installé sur des fenêtres couvertes de peau de chèvre (ou de poisson)
-                    permettant de transmettre la résonance vers la boîte.
-                    Sur le côté gauche, chaque corde passe au dessus d'une série de petits leviers
-                    en laiton qui sont utilisés pour changer microtonalement la fréquence (le pitch).
+                    <p>
+                        Το σώμα του κανονιού αποτελείται από μία ξύλινη σε τραπεζοειδές σχήμα βάση πάνω στην οποία στηρίζονται τεντωμένες 81 χορδές και χωρισμένες σε τριάδες, με 24 νότες όπου κάθε νότα απαρτίζεται απο τρεις χορδές. Το όργανο στηρίζεται επίπεδα στα γόνατα του μουσικού ή σε τραπέζι ή βάση. Οι χορδές του παίζονται με δύο πλήκτρα, σε σχημα νυχιού που τοποθετούνται με ειδικά δαχτυλίδια στους δείκτες των χεριών. Μια μακριά γέφυρα στην δεξιά πλευρά του οργάνου πατάει πάνω σε δέρμα κατσίκας (ή ψαριού) το οποίο καλύπτουν παράθυρα που μεταδίδουν την αντίχηση στο κουτί. Στη αριστερή πλευρά, κάθε ενότητα χορδών περνάει πάνω από μια σειρά μικρών χάλκινων επιπέδων που χρησιμεύουν στην μεταβολή της νότας σε μόρια του τόνου.
                     </p>
-
-                    <p>Parce que le qanoun a seulement 8 notes par octave, le musicien accorde l'instrument à l'aide
-                    des leviers pour obtenir le maqam de départ désiré.
-                    Quand le musicien a besoin de moduler vers un autre <a href="../maqam.php">maqam</a>,
-                    il faut changer les leviers avec la main gauche en même temps que l'on continue de jouer avec la main droite.
-                    Des modulations rapides peuvent aussi être obtenues en utilisant l'ongle du pouce gauche
-                    pour monter temporairement la fréquence (le pitch) de certaines cordes.
+                    <p>
+                        Μιας και το κανονάκι περιέχει έτοιμες 8 μόνο νότες για κάθε οκτάβα, ο μουσικός προετοιμάζει τα επίπεδα αυτά να δημιουργήσει το εκάστοτε <a href="../maqam.php">μακάμ</a>. Σε περίπτωση μετατροπίας ή έλξεων στην μελωδία, ο μουσικός αλλάζει κάποια από τα επίπεδα με το αριστερό χέρι την ώρα που παίζει με το δεξί. Γρήγορη μετατροπία επίσης επιτυνχάνεται με τα νύχι του αριστερού αντίχειρα υψώνοντας στιγμιαία τον τόνο των χορδών πανω στις οποίες πιέζει ο μουσικός.
                     </p>
 
                      <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=fZPY3or3D-Y&t=0s">
@@ -79,9 +63,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Mouhammad Abdou Saleh</b>
-                                    <span>Le joueur de qanoun pour Oum Koulthoum pendant des décennies, Mouhammad Abdou Saleh (Égypte)
-                                    dans un pot-pourri de ses chansons les plus connues.
+                                    <b>Μοχάμμαντ Αμπντού Σάλεχ</b>
+                                    <span>Ο Μοχάμμαντ Αμπντού Σάλεχ είναι ο κανονιέρης της Ουμ Καλθούμ επί δεκαετιών (Αίγυπτος), εδώ εμφανίζεται σε μία συλλογή από τα γνωστότερα κομμάτια της.
                                     </span>
                                 </div>
                             </label>
@@ -97,9 +80,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Mouhammad Abdou Saleh</b>
-                                    <span>Mouhammad Abdou Saleh (Égypte) jouant un <a href="../form/improv.php#taqsim">Taqsim</a>
-                                    en <a href="../maqam/saba.php">Maqam Saba</a></span>
+                                    <b>Μοχάμμαντ Αμπντού Σάλεχ</b>
+                                    <span>Ο Μοχάμμαντ Αμπντού Σάλεχ (Αίγυπτος) σε <a href="../form/improv.php#taqsim">τακασίμ</a> στο <a href="../maqam/saba.php">μακάμ Σάμπα</a>.</span>
                                 </div>
                             </label>
                         </div>
@@ -114,9 +96,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Abdel Fattah Mansi</b>
-                                    <span>Abdel Fattah Mansi (Égypte) joue la chanson <strong>Ana Fi-ntizarak</strong>
-                                    de Oum Koulthoum (1943, musique de Zakaria Ahmad).
+                                    <b>Αμπντέλ Φατάχ Μάνσι</b>
+                                    <span>Ο Αμπντέλ Φατάχ Μάνσι (Αίγυπτος) παίζει το τραγούδι <strong>Άνα Φιντιζάρακ</strong> αποδεδιμένο απο την Ουμ Καλθούμ (1943, συνθέτης ο Ζακαρία Άχμαντ).
                                     </span>
                                 </div>
                             </label>
@@ -132,9 +113,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Abdel Halim Noueyra</b>
-                                    <span>Abdel Halim Noueyra (Égypte), le directeur musical de l'Ensemble de Musique Arabe,
-                                    joue un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/bayati.php">Maqam Bayati</a>.
+                                    <b>Αμπντέλ Χαλίμ Νοουάιρα</b>
+                                    <span>O Αμπντέλ Χαλίμ Νοουάιρα (Αίγυπτος), ο μαέστρος της Ορχήστρας Αραβικής Μουσικής παίζει ένα <a href="../form/improv.php#taqsim">τακασίμ</a> σε <a href="../maqam/bayati.php">μακάμ Μπαϊάτι</a>.
                                     </span>
                                 </div>
                             </label>
@@ -150,9 +130,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Abraham Salman</b>
-                                    <span>Abraham Salman (Irak) jouant un <a href="../form/improv.php#taqsim">Taqsim</a>
-                                    en <a href="../maqam/rast.php">Maqam Rast</a>. De son CD Saltanah (1998).</span>
+                                    <b>Αμπραάμ Σαλμάν</b>
+                                    <span>Ο Αμπραάμ Σαλμάν (Ιράκ) παίζει <a href="../form/improv.php#taqsim">τακασίμ</a> σε <a href="../maqam/rast.php">μακάμ Ραστ</a> από το CD Σαλτάνα (1998).</span>
                                 </div>
                             </label>
                         </div>

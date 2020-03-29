@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Το Αραβικό Bιολί</h1>
-                        <h3>Appelé <em>Kamanja</em> ou <em>Kamane</em> en arabe</h3>
+                        <h3><em>Καμάντζα</em> ή <em>Καμάν</em> στα Αραβικά</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο μουσικών οργάνων</a>
@@ -38,19 +38,21 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/violin.jpg" alt="Le Violon">
-                        <span>Violon &copy; 2018 MaqamWorld</span>
+                        <span>Βιολί &copy; 2018 MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/kamanja.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Kamanja</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/kamanja.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Καμάντζα</a>
                     </div>
 
-                    <p>Le violon (appelé <em>kamanja</em> ou <em>kamane</em> en arabe) a été incorporé à l'ensemble arabe autour de la fin du 19<sup>ième</sup> siècle et a remplacé les variétés locales d'instruments à cordes frottées tels que la <em>kamanja</em>, la <em>rababa</em>, et la <em>jowza</em>. Même si l'on peut argumenter que le violon est l'exemple le plus notoire d'un instrument qui a été arabisé, il a depuis longtemps été naturalisé et a acquis un accordage, une technique de jeu, et un style ornemental, particuliers. Le son du violon arabe est aussi essentiel à la musique arabe que celui du <a href="oud.php">oud</a> et du <a href="qanun.php">qanoun</a>.
+                    <p>
+                        Το Βιολί (<em>Καμάντζα</em> ή <em>Καμάν</em> στα Αραβικά) ενσωματώθηκε στα Αραβικά μουσικά σύνολα προς τα τέλη του 19ου αιώνα και αντικατέστησε εγχώρια έγχορδα με δοξάρι όπως καμάντζα, <em>ραμπάμπα</em> και <em>τζόζα</em>. Παρόλο που το βιολί θεωρείται ως το πιο ξεκάθαρο παράδειγμα αραβοποίησης δυτικού μουσικού οργάνου, έχει από καιρό εγκλιματιστεί, και έχει αποκτήσει το δικό του κούρδισμα, παίζοντας με ιδιότυπη τεχνική και ποικίλματα. Ο ήχος του Αραβικού βιολιού είναι τόσο ουσιώδης στην Αραβική μουσική όσο είναι ο ήχος του <a href="oud.php">ουτιού</a> και του <a href="qanun.php">κανονιού</a>.
                     </p>
                     <p>
-                    Plusieurs types d'accordage du violon arabe existent. L'accordage traditionnel arabe est en quartes et en quintes (Sol3, Ré4, Sol4, Ré5). En tant qu'instrument non fretté, le violon est en mesure de produire toutes les nuances de l'intonation du système du <a href="../maqam.php">maqam</a> arabe.
+                        Παρόλο που υπάρχουν διαφόρων ειδών κουρδίσματα, το παραδοσιακό Αραβικό κούρδισμα στο βιολί είναι 4ες και 5ες (Σολ3, Ρε3, Σολ4, Ρε5). Ως άταστο όργανο,το βιολί μπορεί να παράγει όλες τις αποχρώσεις του τόνου του Αραβικού συστήματος <a href="../maqam.php">μακάμ</a>.
                     </p>
-                    <p>Le style du violon arabe est très ornementé, avec des glissandos, des trilles, un vibrato large, des doubles cordes et l'usage de cordes ouvertes comme bourdon. Le timbre du violon arabe va du riche et chaud, tel qu'utilisé au violon occidental, au nasal et pénétrant.
+                    <p>
+                        Το ύφος του παίξιματος του Αραβικού βιολιού είναι ιδιαίτερα ποικιλματικό, με γλυστρίματα, βαθύ vibrato, ζωηρές τρίλιες, και πολλές φορές κάνοντας χρήση ίσου με ανοιχτή χορδή. Ο  ήχος του αραβικού βιολιού ποιοτητικά εκτείνεται από πλούσιος και ζεστός, παρόμοιος του ήχου του δυτικού βιολιού, ένρινος και διαπεραστικός.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=_ZWvLygSqkY&t=0s">
@@ -62,8 +64,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Sami al-Chawwa</b>
-                                    <span>Un des pionniers du violon arabe du début du 20<sup>ième</sup> siècle, le violoniste syrien Sami al-Chawwa (connu aussi comme le Prince du Violon) jouant un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/hijazkar.php">Maqam Hijazkar</a>.</span>
+                                    <b>Σάμι Αλ Σάουα </b>
+                                    <span>Ένας από τους πιο σημαντικούς Άραβες βιολιστές των αρχών του 20ου αιώνα, ο Σύριος Σάμι Αλ Σάουα (γνωστός και ως ο πρίγκηπας του βιολιού) παίζει <a href="../form/improv.php#taqsim">τακασίμ</a> σε <a href="../maqam/hijazkar.php">μακάμ Χιτζασκάρ</a>.
+                                </span>
                                 </div>
                             </label>
                         </div>
@@ -78,8 +81,10 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Ahmad al-Hifnaoui</b>
-                                    <span>Le violoniste égyptien Ahmad al-Hifnaoui (qui était premier violon dans l'orchestre de Oum Koulthoum) joue la pièce traditionnelle instrumentale <strong>Tahmila Rast (Suznak)</strong> qui est pleine d'improvisations. L'ensemble est composé aussi de George Michel au <a href="oud.php">oud</a>, Mahmoud ‘Effat au <a href="nay.php">nay</a> et Hassan Anouar au <a href="riqq.php">riqq</a>.</span>
+                                    <b>Άχμαντ Αλ Χιφνάουι</b>
+                                    <span>
+                                        Ο Αιγύπτιος βιολιστής Άχμαντ Αλ Χιφνάουι (ο οποίος ήταν το πρώτο βιολί στην ορχήστρα της Ούμ Καλθούμ) παίζει την παραδοσιακή ορχηστρική σύνθεση <strong>Ταχμίλα Ραστ (Σουζνάκ)</strong>, το οποίο περιλαμβάνει πολλά αυτοσχεδιαστικά μέρη. Το σχήμα περιλαμβάνει επίσης τον Τζορτζ Μισέλ στο <a href="oud.php">ούτι</a>, τον Μαχμούντ Εφάτ στο <a href="nay.php">νάι</a> και τον Χασάν Ανουάρ στο <a href="riqq.php">ρεκ</a>.
+                                </span>
                                 </div>
                             </label>
                         </div>
@@ -94,8 +99,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Abboud Abdel ‘Al</b>
-                                    <span>Le violoniste palestino-libanais Abboud Abdel ‘Al joue un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/bayati.php">Maqam Bayati</a> sur le <a href="../iqaa/samai.php">Iqa‘ Sama‘i Thaqil</a> (enregistré sur la télévision libanaise).</span>
+                                    <b>Αμπούντ Αμπντέλ Αλ</b>
+                                    <span>Ο βιολιστής Αμπντού Αμπντέλ Αλ παίζει <a href="../form/improv.php#taqsim">τακασίμ</a> σε <a href="../maqam/bayati.php">μακάμ Μπαϊάτι</a> σε ρυθμό  <a href="../iqaa/samai.php">Ικά Σαμάι Θακχίλ</a> (βιντεοσκόπηση απότην Λιβανική Τηλεόραση).</span>
                                 </div>
                             </label>
                         </div>
@@ -110,8 +115,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Abdou Dagher</b>
-                                    <span>Le violoniste égyptien Abdou Dagher et son ensemble jouant sa composition Sama‘i <a href="../maqam/kurd.php">Maqam Kurd</a>, avec solos de <a href="violon.php">violon</a> et de <a href="qanoun.php">qanoun</a>.</span>
+                                    <b>Αμπντού Ντάγερ</b>
+                                    <span>Ο Αιγύπτιος βιολιστής Αμπντού Ντάγερ και η ορχήστρα του παίζει την οργανική του σύνθεσή <strong>Σαμάι Κουρντ</strong>, συμπεριλαμβάνοντας αυτοσχεδιασμό <a href="violon.php">βιολί</a> και <a href="qanoun.php">κανονάκι</a>.
+                                </span>
                                 </div>
                             </label>
                         </div>
@@ -126,8 +132,10 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Simon Shaheen</b>
-                                    <span>Le violoniste palestinien Simon Shaheen jouant un <a href="../form/improv.php#taqsim">Taqsim</a> en <a href="../maqam/rast.php">Maqam Rast</a> sur l'<a href="../iqaa/rumba.php">Iqa‘ Rumba</a>, finissant par la deuxième partie de la composition instrumentale Longa <a href="../maqam/nahawand.php">Farahfaza</a> de Riyad al-Soumbati.</span>
+                                    <b>Σιμόν Σαχίν</b>
+                                    <span>
+                                        Ο Παλαιστίνιος βιολιστής Σιμόν Σαχίν παίζει <a href="../form/improv.php#taqsim">τακασίμ</a> σε <a href="../maqam/rast.php">μακάμ Ραστ</a> σε ρυθμό <a href="../iqaa/rumba.php">Ικά Ρούμπα</a>, ολοκληρώνοντας με το 2ο μισό της οργανικής σύνθεσής του Ριάντ Σουνμπάτι <a href="../form/ottoman.php#longa">Λόνγκα</a> <a href="../maqam/nahawand.php">Φαραχφάζα</a>.
+                                    </span>
                                 </div>
                             </label>
                         </div>
