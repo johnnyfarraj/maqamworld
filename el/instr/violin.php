@@ -65,7 +65,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Σάμι Αλ Σάουα </b>
-                                    <span>Ένας από τους πιο σημαντικούς Άραβες βιολιστές των αρχών του 20ου αιώνα, ο Σύριος Σάμι Αλ Σάουα (γνωστός και ως ο πρίγκηπας του βιολιού) παίζει <a href="../form/improv.php#taqsim">τακασίμ</a> σε <a href="../maqam/hijazkar.php">μακάμ Χιτζασκάρ</a>.
+                                    <span>Ένας από τους πιο σημαντικούς Άραβες βιολιστές των αρχών του 20ου αιώνα, ο Σύριος Σάμι Αλ Σάουα (γνωστός και ως ο πρίγκηπας του βιολιού) παίζει <a href="../form/improv.php#taqsim">τακασίμ</a> σε <a href="../maqam/hijazkar.php">Μακάμ Χιτζασκάρ</a>.
                                 </span>
                                 </div>
                             </label>
@@ -100,7 +100,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Αμπούντ Αμπντέλ Αλ</b>
-                                    <span>Ο βιολιστής Αμπντού Αμπντέλ Αλ παίζει <a href="../form/improv.php#taqsim">τακασίμ</a> σε <a href="../maqam/bayati.php">μακάμ Μπαϊάτι</a> σε ρυθμό  <a href="../iqaa/samai.php">Ικά Σαμάι Θακχίλ</a> (βιντεοσκόπηση απότην Λιβανική Τηλεόραση).</span>
+                                    <span>Ο βιολιστής Αμπντού Αμπντέλ Αλ παίζει <a href="../form/improv.php#taqsim">τακασίμ</a> σε <a href="../maqam/bayati.php">Μακάμ Μπαϊάτι</a> σε ρυθμό  <a href="../iqaa/samai.php">Ικά Σαμάι Θακχίλ</a> (βιντεοσκόπηση απότην Λιβανική Τηλεόραση).</span>
                                 </div>
                             </label>
                         </div>
@@ -134,7 +134,7 @@ include($ROOT . 'inc/head.php');
                              --><div class="info">
                                     <b>Σιμόν Σαχίν</b>
                                     <span>
-                                        Ο Παλαιστίνιος βιολιστής Σιμόν Σαχίν παίζει <a href="../form/improv.php#taqsim">τακασίμ</a> σε <a href="../maqam/rast.php">μακάμ Ραστ</a> σε ρυθμό <a href="../iqaa/rumba.php">Ικά Ρούμπα</a>, ολοκληρώνοντας με το 2ο μισό της οργανικής σύνθεσής του Ριάντ Σουνμπάτι <a href="../form/ottoman.php#longa">Λόνγκα</a> <a href="../maqam/nahawand.php">Φαραχφάζα</a>.
+                                        Ο Παλαιστίνιος βιολιστής Σιμόν Σαχίν παίζει <a href="../form/improv.php#taqsim">τακασίμ</a> σε <a href="../maqam/rast.php">Μακάμ Ραστ</a> σε ρυθμό <a href="../iqaa/rumba.php">Ικά Ρούμπα</a>, ολοκληρώνοντας με το 2ο μισό της οργανικής σύνθεσής του Ριάντ Σουνμπάτι <a href="../form/ottoman.php#longa">Λόνγκα</a> <a href="../maqam/nahawand.php">Φαραχφάζα</a>.
                                     </span>
                                 </div>
                             </label>

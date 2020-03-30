@@ -37,7 +37,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
-                        <img src="/instr/daff.jpg" alt="Daff">
+                        <img src="/instr/daff.jpg" alt="Ρεaff">
                         <span>Τρία νταφ με δέρμα κατσίκας και ελαφιού. &copy; MaqamWorld</span>
                     </div>
 

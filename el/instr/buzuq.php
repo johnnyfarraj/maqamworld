@@ -62,7 +62,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Μουχαιντίν Μπαγιούν</b>
-                                    <span>Ο Λιβανέζος τραγουδιστής και μπουζουκτσής Μουχαιντίν Μπαγιούν παίζει <a href="../form/improv.php#taqsim">τακασίμ</a> σε <a href="../maqam/bayati.php">μακάμ Μπαϊάτι</a>.
+                                    <span>Ο Λιβανέζος τραγουδιστής και μπουζουκτσής Μουχαιντίν Μπαγιούν παίζει <a href="../form/improv.php#taqsim">τακασίμ</a> σε <a href="../maqam/bayati.php">Μακάμ Μπαϊάτι</a>.
                                     </span>
                                 </div>
                             </label>
@@ -114,7 +114,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ζόρο Γιούσεφ</b>
-                                    <span>O Κούρδο- Λιβανέζος Ζόρο Γιούσεφ παίζει <a href="../form/improv.php#taqsim">τακασίμ</a> σε <a href="../maqam/rast.php">μακάμ Ραστ</a>, ζωντανά στην Λιβανική τηλεόραση.
+                                    <span>O Κούρδο- Λιβανέζος Ζόρο Γιούσεφ παίζει <a href="../form/improv.php#taqsim">τακασίμ</a> σε <a href="../maqam/rast.php">Μακάμ Ραστ</a>, ζωντανά στην Λιβανική τηλεόραση.
                                     </span>
                                 </div>
                             </label>

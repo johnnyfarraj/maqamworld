@@ -104,7 +104,7 @@ include($ROOT . 'inc/head.php');
                                     <li><a href="jins/saba.php">Τζινς Σάμπα</a></li>
                                     <li><a href="jins/saba_dalanshin.php">Τζινς Σάμπα Νταλανσίν</a></li>
                                     <li><a href="jins/saba_zamzam.php">Τζινς Σάμπα Ζάμζαμ</a></li>
-                                    <li><a href="jins/sikah_baladi.php">Τζινς Σίκα Baladi</a></li>
+                                    <li><a href="jins/sikah_baladi.php">Τζινς Σίκα Μπάλαντι</a></li>
                                 </ul>
                             </div>
                         </div>

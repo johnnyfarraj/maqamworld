@@ -45,7 +45,7 @@ include($ROOT . 'inc/head.php');
                         Η Αραβική Τρομπέτα είναι μία τρομπέτα που χρησιμοποιείται για την απόδοση των Αραβικών κλιμάκων <a href="../maqam.php">μακάμ</a>. Μερικοί μουσικοί το καταφέρνουν με την χρήση τρομπέτας με τέσσερις βαλβίδες (όπου μπορεί να παράγει τέταρτα του τόνου), άλλοι μουσικοί επιτυγχάνουν να αποδόσουν τα μακάμ με την χρήση των slides στην πρώτη και τρίτη βαλβίδα (διαθέσιμα σε όλες τις επαγγελματικές τρομπέτες).
                     </p>
                     <p>
-                        TODO The trumpet never became a mainstream instrument in Arabic music, and is the only Arabized instrument that was never featured in the Umm Kulthum orchestra. The most well-known Arabic trumpet player and pioneer is the Egyptian Sami al-Babli who performed regularly with Sha'bi singer Ahmed Adaweyya.
+                        TODO The trumpet never became a mainstream instrument in Arabic music, and is the only Arabized instrument that was never featured in the Ουμ Κουλθούμ orchestra. The most well-known Arabic trumpet player and pioneer is the Egyptian Sami al-Babli who performed regularly with Sha'bi singer Ahmed Adaweyya.
                     </p>
                     <p> 
                         Σήμερα δύο νέοι μουσικοί με Αραβικές καταβολές μεταφέρουν την Αραβική τρομπέτα στο προσκήνιο, και οι δύο το κάνουν μέσω της τζαζ μουσικής συνδυάζοντας δυτική αρμονία με τα Αραβικές μελωδίες βασισμένες στα <a href="../maqam.php">μακάμ</a>: <a href="http://www.amirelsaffar.com/" target="_blank">Αμίρ Ελσαφάρ</a> (Ιράκ/ΗΠΑ) και <a href="http://www.ibrahimmaalouf.com/" target="_blank">Ιμπραχίμ Μααλούφ</a> (Λίβανος/Γαλλία).

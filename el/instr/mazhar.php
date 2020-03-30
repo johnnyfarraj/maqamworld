@@ -37,7 +37,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
-                        <img src="/instr/egy_mazhar.jpg" alt="Egyptian Mazhar">
+                        <img src="/instr/egy_mazhar.jpg" alt="Μιgyptian Mazhar">
                         <span>Κουρδιστό Αιγυπτιακό Μάζχαρ με πλαστικό δέρμα. &copy; MaqamWorld</span>
                     </div>
 

@@ -79,7 +79,7 @@ include($ROOT . 'inc/head.php');
                              --><div class="info">
                                     <b>Μαχμούντ Εφάτ</b>
                                     <span>
-                                    Ο βετεράνος ναΐστας και δάσκαλος, Μαχμούντ Εφάτ (Αίγυπτος), πολλά χρόνια μέλος της "Διαμαντένια Ορχήστρα" Orchesrta" σε ένα <a href="../form/improv.php#taqsim">τακασίμ</a> σε <a href="../maqam/saba.php">μακάμ Σάμπα</a>.
+                                    Ο βετεράνος ναΐστας και δάσκαλος, Μαχμούντ Εφάτ (Αίγυπτος), πολλά χρόνια μέλος της "Διαμαντένια Ορχήστρα" Orchesrta" σε ένα <a href="../form/improv.php#taqsim">τακασίμ</a> σε <a href="../maqam/saba.php">Μακάμ Σάμπα</a>.
                                     </span>
                                 </div>
                             </label>
@@ -113,7 +113,7 @@ include($ROOT . 'inc/head.php');
                              --><div class="info">
                                     <b>Μικαέλ Ιμπραΐμ</b>
                                     <span>
-                                    Ο Μικαέλ Ιβραΐμ (Συρία), μαέστρος της Εθνικής Αραβικής Ορχήστρας (ΗΠΑ) σε ένα <a href="../form/improv.php#taqsim">τακασίμ</a> σε <a href="../maqam/saba.php">μακάμ Σάμπα</a> σε συναυλία της ορχήστρας.</span>
+                                    Ο Μικαέλ Ιβραΐμ (Συρία), μαέστρος της Εθνικής Αραβικής Ορχήστρας (ΗΠΑ) σε ένα <a href="../form/improv.php#taqsim">τακασίμ</a> σε <a href="../maqam/saba.php">Μακάμ Σάμπα</a> σε συναυλία της ορχήστρας.</span>
                                 </div>
                             </label>
                         </div>

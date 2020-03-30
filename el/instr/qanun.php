@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Μοχάμμαντ Αμπντού Σάλεχ</b>
-                                    <span>Ο Μοχάμμαντ Αμπντού Σάλεχ (Αίγυπτος) σε <a href="../form/improv.php#taqsim">τακασίμ</a> στο <a href="../maqam/saba.php">μακάμ Σάμπα</a>.</span>
+                                    <span>Ο Μοχάμμαντ Αμπντού Σάλεχ (Αίγυπτος) σε <a href="../form/improv.php#taqsim">τακασίμ</a> στο <a href="../maqam/saba.php">Μακάμ Σάμπα</a>.</span>
                                 </div>
                             </label>
                         </div>
@@ -114,7 +114,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Αμπντέλ Χαλίμ Νοουάιρα</b>
-                                    <span>O Αμπντέλ Χαλίμ Νοουάιρα (Αίγυπτος), ο μαέστρος της Ορχήστρας Αραβικής Μουσικής παίζει ένα <a href="../form/improv.php#taqsim">τακασίμ</a> σε <a href="../maqam/bayati.php">μακάμ Μπαϊάτι</a>.
+                                    <span>O Αμπντέλ Χαλίμ Νοουάιρα (Αίγυπτος), ο μαέστρος της Ορχήστρας Αραβικής Μουσικής παίζει ένα <a href="../form/improv.php#taqsim">τακασίμ</a> σε <a href="../maqam/bayati.php">Μακάμ Μπαϊάτι</a>.
                                     </span>
                                 </div>
                             </label>
@@ -131,7 +131,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Αμπραάμ Σαλμάν</b>
-                                    <span>Ο Αμπραάμ Σαλμάν (Ιράκ) παίζει <a href="../form/improv.php#taqsim">τακασίμ</a> σε <a href="../maqam/rast.php">μακάμ Ραστ</a> από το CD Σαλτάνα (1998).</span>
+                                    <span>Ο Αμπραάμ Σαλμάν (Ιράκ) παίζει <a href="../form/improv.php#taqsim">τακασίμ</a> σε <a href="../maqam/rast.php">Μακάμ Ραστ</a> από το CD Σαλτάνα (1998).</span>
                                 </div>
                             </label>
                         </div>

@@ -142,7 +142,7 @@ include($ROOT . 'inc/head.php');
                              --><div class="info">
                                     <b>Σαμάι Νάουα Άθαρ</b>
                                     <span>Τζαμίλ Ουαίις</span>
-                                    <span>Σαμάι σε <a href="../maqam/nawa_athar.php">μακάμ Νάουα Άθαρ</a> από τον Τζαμίλ Aουές (Συρία).</span>
+                                    <span>Σαμάι σε <a href="../maqam/nawa_athar.php">Μακάμ Νάουα Άθαρ</a> από τον Τζαμίλ Aουές (Συρία).</span>
                                 </div>
                             </label>
                         </div>
