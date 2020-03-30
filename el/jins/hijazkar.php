@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                     <div class="notation" id="notation1">
                         <img src="/note/jins/hijazkar.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Κάντε κλικ στις νότες  πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -55,7 +55,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="457,26,13" href="#" alt="Φα5" class="playNote" data-frequency="695.3" data-parent="#notation1">
 
 					</map>
-                    <p>To Τζινς Χιτζαζκάρ δεν έχει νότα <em>γαμμάζ</em>, και ως εκ τούτου έχει απροσδιόριστο μέγεθος. Η μελωδία του επικεντρώνεται γύρω από την τονική του, στην παρούσα καταγραφή του πάνω στον φθόγγο Ντο. To Ziνς Χιτζαζκάρ προκύπτει στην οκτάβα του <a href="../maqam/hijazkar.php">Μακάμ Χιτζαζκάρ</a>.
+                    <p>To Τζινς Χιτζαζκάρ δεν έχει νότα <em>γαμμάζ</em>, και ως εκ τούτου έχει απροσδιόριστο μέγεθος. Η μελωδία του επικεντρώνεται γύρω από την τονική του, στην παρούσα καταγραφή του πάνω στον φθόγγο Ντο. To τζινς Χιτζαζκάρ προκύπτει στην οκτάβα του <a href="../maqam/hijazkar.php">Μακάμ Χιτζαζκάρ</a>.
                     </p>
 
                     <div class="player-area">

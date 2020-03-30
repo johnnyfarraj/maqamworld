@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Jins Bayati";
-$page_description = "Jins Bayati";
+$page_title = "Τζινς Μπαϊάτι";
+$page_description = "Τζινς Μπαϊάτι";
 $page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Άθαρ Κουρντ, Άνω Άτζαμ, Άνω Ραστ, Άτζαμ, Άτζαμ Μουράσα, Κουρντ, Λάμι, Μουχάλεφ Σάρκι, Μπαϊάτι, Ναχαουάντ, Ναχαουάντ Μουράσα, Νικρίζ, Ραστ, Σαζκάρ, Σάμπα, Σάμπα Ζάμζαμ, Σάμπα Νταλανσίν, Σίκα Baladi, Τζιχάρκα, Χιτζάζ, Χιτζάζ Μουράσα, Χιτζασκάρ";
 $page_language = "el";
 
@@ -29,21 +29,21 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins Bayati</h1>
-                        <h3>Root jins of the <a href="../maqam/f_bayati.php">Maqam Bayati Family</a></h3>
+                        <h1>Τζινς Μπαϊάτι</h1>
+                        <h3>Ρίζα Τζινς της <a href="../maqam/f_bayati.php">οικογένειας Μακάμ Μπαϊάτι</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Τζινς</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/bayati.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Bayati</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/bayati.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Μπαϊάτι</a>
                     </div>
 
                     <!-- Copy this too, just change the image SRC -->
                     <div class="notation" id="notation1">
                         <img src="/note/jins/bayati.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Κάντε κλικ στις νότες  πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <!-- Copy this bit -->
@@ -58,7 +58,8 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="626,45,12" href="#" alt="Σι4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					</map>
 
-                    <p>Jins Bayati is a 4-note <em>jins</em>. It is notated here with its tonic on D and its <em>ghammaz</em> on G. Jins Bayati is the first <em>jins</em> in <a href="../maqam/bayati.php">Maqam Bayati</a>.
+                    <p>
+                        To Τζινς Μπαϊάτι είναι ένα 4χορδο. Στην παρούσα καταγραφή του έχει την τονική στον φθόγγο Ρε και την νότα <em>γάμμαζ</em> στο Σολ. To Τζινς Μπαϊάτι είναι το πρώτο Τζινς στo <a href="../maqam/bayati.php">Μακάμ Μπαϊάτι</a>.
                     </p>
 
                     <div class="player-area">
@@ -72,9 +73,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>‘Ala Allah T‘ud (1970)</b>
-                                    <span>Wadih al-Safi</span>
-                                    <span>Music by Farid al-Atrash</span>
+                                    <b>Αλά Αλά Ταούντ (1970)</b>
+                                    <span>Ουαντί Αλ-Σάφι</span>
+                                    <span>Μουσική Φαρίντ αλ-Άτρας</span>
                                 </div>
                             </label>
                         </div>
@@ -85,9 +86,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>‘Ataba - Malaffat (1995)</b>
-                                    <span>Joseph Saqr</span>
-                                    <span>Music by Ziad Rahbani</span>
+                                    <b>Ατάμπα – Μαλαφφάτ (1995)</b>
+                                    <span>Ζοζέφ Σακρ</span>
+                                    <span>Μουσική Ζιάντ Ραχμπάνι</span>
                                     <span><img src="/img/cd.png"> Bema Enno</span>
                                 </div>
                             </label>
@@ -99,7 +100,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>‘Awwidti ‘Eini (1957)</b>
+                                    <b>Αουίνττι  Αΐνι (1957)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
@@ -112,7 +113,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>el-Ward Gamil (1946)</b>
+                                    <b>ελ-Ουάρντ Γκαμίλ (1946)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Ζακαρία Άχμαντ</span>
                                 </div>
@@ -124,9 +125,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ba‘id ‘Annak (1965)</b>
+                                    <b>Μπαΐντ Άννακ (1965) </b>
                                     <span>Ουμ Κουλθούμ</span>
-                                    <span>Μουσική Μπαλίχ Χάμντι</span>
+                                    <span>Μουσική Μπαλίγ Χάμντι</span>
                                 </div>
                             </label>
                         </div>
@@ -137,7 +138,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Lamma ‘al-Bab</b>
+                                    <b>Λάμμα αλ-Μπάαμπ</b>
                                     <span>Φεϊρούζ</span>
                                     <span>Μουσική Φιλίμων Ουάχμπι</span>
                                 </div>

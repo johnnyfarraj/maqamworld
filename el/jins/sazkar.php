@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Jins Sazkar";
-$page_description = "Jins Sazkar";
+$page_title = "Τζινς Σαζκάρ";
+$page_description = "Τζινς Σαζκάρ";
 $page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Άθαρ Κουρντ, Άνω Άτζαμ, Άνω Ραστ, Άτζαμ, Άτζαμ Μουράσα, Κουρντ, Λάμι, Μουχάλεφ Σάρκι, Μπαϊάτι, Ναχαουάντ, Ναχαουάντ Μουράσα, Νικρίζ, Ραστ, Σαζκάρ, Σάμπα, Σάμπα Ζάμζαμ, Σάμπα Νταλανσίν, Σίκα Baladi, Τζιχάρκα, Χιτζάζ, Χιτζάζ Μουράσα, Χιτζασκάρ";
 $page_language = "el";
 
@@ -29,21 +29,21 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins Sazkar</h1>
-                        <h3>A variation of <a href="rast.php">Jins Rast</a> with a raised 2<sp>nd</sp></h3>
+                        <h1>Τζινς Σαζκάρ</h1>
+                        <h3>Μία παραλλαγή του <a href="rast.php">Τζινς Ραστ</a> με οξυμένη την 2η βαθμίδα</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Τζινς</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/sazkar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Sazkar</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/sazkar.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Σαζκάρ</a>
                     </div>
 
 
                      <div class="notation" id="notation1">
                         <img src="/note/jins/sazkar.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Κάντε κλικ στις νότες  πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -57,7 +57,8 @@ include($ROOT . 'inc/head.php');
 
 					</map>
 
-                    <p>Jins Sazkar is a 5-note jins. It is notated here with its tonic on C and its <em>ghammaz</em> on G. Jins Sazkar is the first jins in <a href="../maqam/kirdan.php">Maqam Sazkar</a>.
+                    <p>
+                        To Τζινς Σαζκάρ είναι ένα 5χορδο. Στην παρούσα καταγραφή του έχει την τονική στον φθόγγο Ντο και την νότα <em>γάμμαζ</em> στον φθόγγο Σολ. To Τζινς Σαζκάρ είναι το πρώτο Τζινς στο <a href="../maqam/kirdan.php">Μακάμ Σαζκάρ</a>.
                     </p>
 
                     <div class="player-area">
@@ -71,7 +72,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qasida Mudnaka Gafahu Marqaduhu (1938)</b>
+                                    <b>Κασίντα Μουντνάκα Γκάφαχου Μαρκάντουχου (1938)</b>
                                     <span>Φωνή και μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
@@ -83,9 +84,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Ya Dala‘ Dalla‘ (1974)</b>
+                                    <b>Για Ντάλα Ντάλα (1974)</b>
                                     <span>Σαμπάχ</span>
-                                    <span>Music by Farid al-Atrash</span>
+                                    <span>Μουσική Φαρίντ αλ-Άτρας</span>
                                 </div>
                             </label>
                         </div>

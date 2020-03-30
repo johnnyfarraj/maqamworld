@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Jins Hijaz Murassa‘";
-$page_description = "Jins Hijaz Murassa‘";
+$page_title = "Τζινς Χιτζάζ Μουράσα";
+$page_description = "Τζινς Χιτζάζ Μουράσα";
 $page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Άθαρ Κουρντ, Άνω Άτζαμ, Άνω Ραστ, Άτζαμ, Άτζαμ Μουράσα, Κουρντ, Λάμι, Μουχάλεφ Σάρκι, Μπαϊάτι, Ναχαουάντ, Ναχαουάντ Μουράσα, Νικρίζ, Ραστ, Σαζκάρ, Σάμπα, Σάμπα Ζάμζαμ, Σάμπα Νταλανσίν, Σίκα Baladi, Τζιχάρκα, Χιτζάζ, Χιτζάζ Μουράσα, Χιτζασκάρ";
 $page_language = "el";
 
@@ -29,21 +29,21 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins Hijaz Murassa‘</h1>
-                        <h3>A variation of <a href="hijaz.php">Jins Hijaz</a> with a lowered 5<sup>th</sup></h3>
+                        <h1>Τζινς Χιτζάζ Μουράσα</h1>
+                        <h3>Μία παραλλαγή του <a href="hijaz.php">Τζινς Χιτζάζ</a> με χαμηλωμένη 5η βαθμίδα</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Τζινς</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/hijaz_murassaa.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Hijaz Murassa‘</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/hijaz_murassaa.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Χιτζάζ Μουράσα</a>
                     </div>
 
 
                      <div class="notation" id="notation1">
                         <img src="/note/jins/hijaz_murassaa.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Κάντε κλικ στις νότες  πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -56,7 +56,8 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="450,65,12" href="#" alt="Λα4♭" class="playNote" data-frequency="422" data-parent="#notation1">
 
 					</map>
-                    <p>Jins Hijaz Murassa‘ is a 4-note <em>jins</em>. It is notated here with its tonic on D and its <em>ghammaz</em> on G. Jins Hijaz Murassa‘ is not part of any <em>maqam</em> scale and usually occurs as a modulation from <a href="hijaz.php">Jins Hijaz</a>, most in <a href="../maqam/hijazkar.php">Maqam Hijazkar</a>.
+                    <p>
+                        To Τζινς Χιτζάζ Μουράσα είναι ένα 4χορδο. Στην παρούσα καταγραφή του έχει την τονική στον φθόγγο Ρε και την νότα <em>γάμμαζ</em> στον φθόγγο Σολ. To Τζινς Χιτζάζ Μουράσα δεν είναι μέρος κανενός μακάμ και συνήθως συμβαίνει ως μετατροπία από <a href="hijaz.php">Τζινς Χιτζάζ</a> περισσότερο σε <a href="../maqam/hijazkar.php">Μακάμ Χιτζασκάρ</a>.
                     </p>
 
                     <div class="player-area">
@@ -70,7 +71,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Ana Fi-ntizarak (1943)</b>
+                                    <b>Άνα Φινταζάρακ (1943)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Ζακαρία Άχμαντ</span>
                                 </div>
@@ -83,9 +84,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Badru Timmin (Oud Taqsim)</b>
+                                    <b>Μουάσαχ Μπάντρου Τίμμιν (Τακσίμ Ούτι)</b>
                                     <span>Γάντα Σμπίιρ</span>
-                                    <span>Music by Sheikh Mursi al-Hariri</span>
+                                    <span>Μουσική Σέιχ Μούσρι αλ-Χαρίρι</span>
                                 </div>
                             </label>
                         </div>
@@ -96,8 +97,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Badru Timmin Haza Husnan</b>
-                                    <span>Vocals and Music by Sheikh Mursi al-Hariri</span>
+                                    <b>Μουάσαχ Μπάντρου Τίμμιν Χάζα Χουσνάν</b>
+                                    <span>Φωνή και μουσική Σέιχ Μούσρι αλ-Χαρίρι</span>
                                 </div>
                             </label>
                         </div>
@@ -108,8 +109,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Laha Badru-t-Tim</b>
-                                    <span>Vocals by Sheikh Mahmud Subh</span>
+                                    <b>Μουάσαχ Λάχα Μπάντρου-τ-Τιμ</b>
+                                    <span>Φωνή Σέιχ Μαχμούντ Σουμπχ</span>
                                 </div>
                             </label>
                         </div>
@@ -120,7 +121,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Mala al-Kasat (khana)</b>
+                                    <b>Μουάσαχ Μάλα αλ-Κασάτ (Χάνα)</b>
                                     <span>Σαμπάχ Φαχρί</span>
                                     <span>Μουσική Μοχάμαντ Οθμάν</span>
                                 </div>
@@ -133,7 +134,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qadduka al-Mayyas</b>
+                                    <b>Καντουκάλ Μαϊάς</b>
                                     <span>Μοχάμαντ Χαΐρι</span>
                                 </div>
                             </label>
@@ -145,8 +146,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Zarani al-Mahbub</b>
-                                    <span>Salatin Al-Tarab</span>
+                                    <b>Μουάσαχ Ζαράνι αλ-Μαχμπούμπ</b>
+                                    <span>Σαλατίν αλ Τάραμπ</span>
                                 </div>
                             </label>
                         </div>
@@ -157,7 +158,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Zahr El-Laymoun (1997)</b>
+                                    <b>Ζαχρ ελ-Λαϊμούν (1997)</b>
                                     <span>Σόνια Μμπάρεκ</span>
                                     <span><img src="/img/cd.png"> Tawchih &copy; 1997</span>
                                 </div>
@@ -170,7 +171,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mawwal in Maqam Isba‘ayn</b>
+                                    <b>Μαουάλ σε Μακάμ Ισμπαάιν</b>
                                     <span>Σόνια Μμπάρεκ</span>
                                     <span><img src="/img/cd.png"> Tawchih &copy; 1997</span>
                                 </div>

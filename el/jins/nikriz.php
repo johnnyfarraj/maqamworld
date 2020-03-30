@@ -30,20 +30,20 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Jins Nikriz</h1>
-                        <h3>Root jins of the <a href="../maqam/f_nikriz.php">Maqam Nikriz Family</a></h3>
+                        <h3>Ρίζα Τζινς της <a href="../maqam/f_nikriz.php">οικογένειας Μακάμ Νικρίζ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Τζινς</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/nikriz.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Nikriz</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/nikriz.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Νικρίζ</a>
                     </div>
 
 
                      <div class="notation" id="notation1">
                         <img src="/note/jins/nikriz.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Κάντε κλικ στις νότες  πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -59,7 +59,8 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="678,50,12" href="#" alt="Σι4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 
 					</map>
-                    <p>Jins Nikriz is a 5-note <em>jins</em>. It is notated here with its tonic on C and its <em>ghammaz</em> on G. Jins Nikriz is the first <em>jins</em> in <a href="../maqam/nikriz.php">Maqam Nikriz</a> and <a href="../maqam/nawa_athar.php">Maqam Nawa Athar</a>.
+                    <p>
+                        To Τζινς Νικρίζ είναι ένα 5χορδο. Στην παρούσα καταγραφή του έχει την τονική στον φθόγγο Ντο και την νότα γάμμαζ στον φθόγγο Σολ. To Τζινς Νικρίζ είναι το πρώτο τζινς στο <a href="../maqam/nikriz.php">Μακάμ Νικρίζ</a> και <a href="../maqam/nawa_athar.php">Μακάμ Ναουάθαρ</a>.
                     </p>
 
                     <div class="player-area">
@@ -73,9 +74,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Bayna Qasiyun Wa Rabwa</b>
-                                    <span>Syrian National Orchestra</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
+                                    <b>Μουάσαχ Μπέινα Κασιούν Ούα Ράμπουα</b>
+                                    <span>Εθνική Ορχήστρα της Συρίας</span>
+                                    <span>Μουσική Όμαρ αλ-Μπατς</span>
                                 </div>
                             </label>
                         </div>
@@ -86,7 +87,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>‘Awwidti ‘Eini (1957)</b>
+                                    <b>Αουίνττι Αΐνι (1957)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
@@ -99,9 +100,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Hawwil Ya Ghannam</b>
-                                    <span>Najah Salam</span>
-                                    <span>Music by Eliya al-Matni</span>
+                                    <b>Χάουελ Για Γανάαμ</b>
+                                    <span>Νατζάχ Σαλάμ</span>
+                                    <span>Μουσική Ελιά αλ-Μάτνι</span>
                                 </div>
                             </label>
                         </div>
@@ -112,9 +113,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ba‘id ‘Annak (1965)</b>
+                                    <b>Μπαΐντ Άνακ (1965)</b>
                                     <span>Ουμ Κουλθούμ</span>
-                                    <span>Μουσική Μπαλίχ Χάμντι</span>
+                                    <span>Μουσική Μπαλίγ Χάμντι</span>
                                 </div>
                             </label>
                         </div>
@@ -125,8 +126,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Fi Youm We Leila (1978)</b>
-                                    <span>Warda</span>
+                                    <b>Φι Ιόμ ου Λέιλα (1978)</b>
+                                    <span>Ουάρντα</span>
                                     <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
@@ -138,7 +139,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qasida Lamma Anakhu</b>
+                                    <b>Κασίντα Λάμα Ανάχου</b>
                                     <span>Σαμπάχ Φαχρί</span>
                                 </div>
                             </label>

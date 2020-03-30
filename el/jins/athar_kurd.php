@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Jins Athar Kurd";
-$page_description = "Jins Athar Kurd";
+$page_title = "Τζινς Άθαρ Κουρντ";
+$page_description = "Τζινς Άθαρ Κουρντ";
 $page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Άθαρ Κουρντ, Άνω Άτζαμ, Άνω Ραστ, Άτζαμ, Άτζαμ Μουράσα, Κουρντ, Λάμι, Μουχάλεφ Σάρκι, Μπαϊάτι, Ναχαουάντ, Ναχαουάντ Μουράσα, Νικρίζ, Ραστ, Σαζκάρ, Σάμπα, Σάμπα Ζάμζαμ, Σάμπα Νταλανσίν, Σίκα Baladi, Τζιχάρκα, Χιτζάζ, Χιτζάζ Μουράσα, Χιτζασκάρ";
 $page_language = "el";
 
@@ -29,20 +29,20 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins Athar Kurd</h1>
-                        <h3>A combination of <a href="kurd.php">Jins Kurd</a> and <a href="nikriz.php">Jins Nikriz</a></h3>
+                        <h1>Τζινς Άθαρ Κουρντ</h1>
+                        <h3>Ένας συνδυασμός <a href="kurd.php">Τζινς Κουρντ</a> και <a href="nikriz.php"> Τζινς Νικρίζ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Τζινς</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/athar_kurd.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Athar Kurd</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/athar_kurd.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Άθαρ Κουρντ</a>
                     </div>
 
                     <div class="notation" id="notation1">
                         <img src="/note/jins/athar_kurd.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Κάντε κλικ στις νότες  πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -56,7 +56,8 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="599,61,12" href="#" alt="Λα4♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- variable: Hijaz 2nd -->
 					</map>
 
-                    <p>Jins Athar Kurd is a 5-note <em>jins</em>. It is notated here with its tonic on C and its <em>ghammaz</em> on G. Jins Athar Kurd is the first <em>jins</em> in <a href="../maqam/athar_kurd.php">Maqam Athar Kurd</a>.
+                    <p>
+                        To Τζινς Άθαρ Κουρντ είναι ένα 5χορδο. Στην παρούσα καταγραφή του έχει την τονική στον φθόγγο Ντο και την νότα γάμμαζ στον φθόγγο Σολ. To Τζινς Άθαρ Κουρντ είναι το πρώτο τζινς στο <a href="../maqam/athar_kurd.php">Μακάμ Άθαρ Κουρντ</a>.
                     </p>
 
                     <div class="player-area">
@@ -70,7 +71,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Habibaha (1965)</b>
+                                    <b>Χαμπίμπαχα (1965)</b>
                                     <span>Αμπντέλ Χαλίμ Χάφεζ</span>
                                     <span>Μουσική Μοχάμαντ αλ-Μούγκι</span>
                                 </div>
@@ -83,9 +84,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Raydak (1950)</b>
+                                    <b>Ραιντάκ (1950)</b>
                                     <span>Λέιλα Μουράντ</span>
-                                    <span>Music by Ahmad Sidqi</span>
+                                    <span>Μουσική Άχμαντ Σίντκι</span>
                                 </div>
                             </label>
                         </div>
@@ -96,9 +97,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Fagr Nurak Halli We Ban (c.1952)</b>
-                                    <span>Baligh Hamdi</span>
-                                    <span>Music by Yussef Shawqi</span>
+                                    <b>Για Φατζρ Νούρακ Χάλι ου Μπαν (c.1952)</b>
+                                    <span>Μπαλίγ Χάμντι</span>
+                                    <span>Μουσική Γιούσεφ Σάουκι</span>
                                 </div>
                             </label>
                         </div>

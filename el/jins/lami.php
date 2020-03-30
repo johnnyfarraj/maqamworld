@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Jins Lami";
-$page_description = "Jins Lami";
+$page_title = "Τζινς Λάμι";
+$page_description = "Τζινς Λάμι";
 $page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Άθαρ Κουρντ, Άνω Άτζαμ, Άνω Ραστ, Άτζαμ, Άτζαμ Μουράσα, Κουρντ, Λάμι, Μουχάλεφ Σάρκι, Μπαϊάτι, Ναχαουάντ, Ναχαουάντ Μουράσα, Νικρίζ, Ραστ, Σαζκάρ, Σάμπα, Σάμπα Ζάμζαμ, Σάμπα Νταλανσίν, Σίκα Baladi, Τζιχάρκα, Χιτζάζ, Χιτζάζ Μουράσα, Χιτζασκάρ";
 $page_language = "el";
 
@@ -29,21 +29,21 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins Lami</h1>
-                        <h3>A 4-note jins</h3>
+                        <h1>Τζινς Λάμι</h1>
+                        <h3>Ένα 4χορδο Τζινς</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Τζινς</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/lami.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Lami</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/lami.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Λάμι</a>
                     </div>
 
 
                     <div class="notation" id="notation1">
                         <img src="/note/jins/lami.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Κάντε κλικ στις νότες  πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -55,7 +55,8 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="433,53,13" href="#" alt="Σι4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 
 					</map>
-                    <p>Jins Lami is a 4-note <em>jins</em>. It is notated here with its tonic on D and its <em>ghammaz</em> on G. Jins Lami is the first <em>jins</em> in <a href="../maqam/lami.php">Maqam Lami</a>.
+                    <p>
+                        To Τζινς Λάμι είναι ένα 4χορδο. Στην παρούσα καταγραφή του έχει την τονική στον φθόγγο Ρε και την νότα γάμμαζ στον φθόγγο Σολ. ToΤζινς Λάμι είναι το πρώτο Ζινς στo <a href="../maqam/lami.php">Μακάμ Λάμι</a>.
                     </p>
 
                     <div class="player-area">
@@ -69,7 +70,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>el-Bortoqal (1938)</b>
+                                    <b>ελ-Μπορτοκάλ (1938)</b>
                                     <span>Φωνή και μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
@@ -81,8 +82,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ahmad Ya Habibi</b>
-                                    <span>Vocals and Music by Σάμπρι αλ-Μουντάλαλ</span>
+                                    <b>Άχμαντ Για Χαμπίμπι</b>
+                                    <span>Φωνή και μουσική Σάμπρι αλ-Μουντάλαλ</span>
                                 </div>
                             </label>
                         </div>
@@ -93,7 +94,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>el-Najmat (1964)</b>
+                                    <b>ελ-Ναζμάτ (1964)</b>
                                     <span>Φωνή και μουσική Ουαντί Αλ-Σάφι</span>
                                 </div>
                             </label>
@@ -105,8 +106,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Gulli Ya Hilu</b>
-                                    <span>Kazem el-Saher (Iraq)</span>
+                                    <b>Γκούλι Για Χέλο</b>
+                                    <span>Κάζεμ ελ-Σάχερ (Ιράκ)</span>
                                 </div>
                             </label>
                         </div>
@@ -117,8 +118,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qasida Aqulu Wa Qad Nahat Bi Qurbi Hamamatun</b>
-                                    <span>Nazem al-Ghazali (Iraq)</span>
+                                    <b>Κασίντα Ακούλου Ούα Καντ Νάχατ Μπι Κούρμπι Χαμάματουν</b>
+                                    <span>Νάζεμ αλ-Γαζάλι (Ιράκ)</span>
                                 </div>
                             </label>
                         </div>

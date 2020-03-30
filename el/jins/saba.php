@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                      <div class="notation" id="notation1">
                         <img src="/note/jins/saba.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Κάντε κλικ στις νότες  πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ανσάκ Ντα Καλάμ (1961)</b>
                                     <span>Ουμ Κουλθούμ</span>
-                                    <span>Μουσική Μπαλίχ Χάμντι</span>
+                                    <span>Μουσική Μπαλίγ Χάμντι</span>
                                 </div>
                             </label>
                         </div>

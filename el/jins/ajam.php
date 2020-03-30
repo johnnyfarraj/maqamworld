@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Jins ‘Ajam";
-$page_description = "Jins ‘Ajam";
+$page_title = "Τζινς Άτζαμ";
+$page_description = "Τζινς Άτζαμ";
 $page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Άθαρ Κουρντ, Άνω Άτζαμ, Άνω Ραστ, Άτζαμ, Άτζαμ Μουράσα, Κουρντ, Λάμι, Μουχάλεφ Σάρκι, Μπαϊάτι, Ναχαουάντ, Ναχαουάντ Μουράσα, Νικρίζ, Ραστ, Σαζκάρ, Σάμπα, Σάμπα Ζάμζαμ, Σάμπα Νταλανσίν, Σίκα Baladi, Τζιχάρκα, Χιτζάζ, Χιτζάζ Μουράσα, Χιτζασκάρ";
 $page_language = "el";
 
@@ -29,21 +29,21 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins ‘Ajam</h1>
-                        <h3>Root jins of the <a href="../maqam/f_ajam.php">Maqam ‘Ajam Family</a></h3>
+                        <h1>Τζινς Άτζαμ</h1>
+                        <h3>Ρίζα Τζινς της <a href="../maqam/f_ajam.php">οικογένειας Μακάμ Άτζαμ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Τζινς</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/ajam.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of ‘Ajam</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/ajam.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Άτζαμ</a>
                     </div>
 
                     <!-- Copy this too, just change the image SRC -->
                     <div class="notation" id="notation1">
                         <img src="/note/jins/ajam.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Κάντε κλικ στις νότες  πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <!-- Copy this bit -->
@@ -58,7 +58,8 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="590,62,12" href="#" alt="Λα4" class="playNote" data-frequency="440" data-parent="#notation1">
 					</map>
 
-                    <p>Jins ‘Ajam is a 5-note <em>jins</em>. It is notated here with its tonic on C and its <em>ghammaz</em> on G. Jins ‘Ajam is the first <em>jins</em> in <a href="../maqam/ajam.php">Maqam ‘Ajam</a> and <a href="../maqam/shawq_afza.php">Maqam Shawq Afza</a>.
+                    <p>
+                        To Τζινς Άτζαμ είναι ένα 5χορδο. Στην παρούσα καταγραφή του έχει την τονική στον φθόγγο Ντο και την νότα <em>γάμμαζ</em> στον φθόγγο Σολ. To Τζινς Άτζαμ είναι το πρώτο Τζινς στα <a href="../maqam/ajam.php">Μακάμ Άτζαμ</a> και <a href="../maqam/shawq_afza.php">Μακάμ Σάουκ Άφζα</a>.
                     </p>
 
                     <div class="player-area">
@@ -72,10 +73,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Aghadan Alqaka (1971)</b>
+                                    <b>Αλγάνταν Αλκάκ (1971)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
-                                    <p><img src="/img/cd.png"> Album Name Here</p>
                                 </div>
                             </label>
                         </div>
@@ -86,10 +86,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>el-Buwab (1994)</b>
+                                    <b>ελ-Μπαουάμπ (1994)</b>
                                     <span>Φεϊρούζ</span>
                                     <span>Μουσική Φιλίμων Ουάχμπι</span>
-                                    <p><img src="/img/cd.png"> Album Name Here</p>
                                 </div>
                             </label>
                         </div>
@@ -100,8 +99,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Fi Youm we Leila (1978)</b>
-                                    <span>Warda</span>
+                                    <b>Φι Ιόμ ου Λέιλα (1978)</b>
+                                    <span>Ουάρντα</span>
                                     <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
@@ -113,7 +112,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Lissa Fakir (1963)</b>
+                                    <b>Λίσα Φάκερ (1963)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
@@ -126,7 +125,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mawwal Min Youm Furgak</b>
+                                    <b>Μαουάλ Μιν Ιόμ Φουργκάκ</b>
                                     <span>Μοχάμαντ Χαΐρι</span>
                                 </div>
                             </label>
@@ -138,9 +137,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Til‘it Ya Mahla Nurha</b>
-                                    <span>Muhammad Abdel Karim</span>
-                                    <span>Music By Sayed Darwish</span>
+                                    <b>Τίλαετ Για Μαχλά Νούρχα</b>
+                                    <span>Μοχάμαντ Αμπντέλ Καρίμ</span>
+                                    <span>Μουσική Σαΐντ Νταρουίς</span>
                                 </div>
                             </label>
                         </div>

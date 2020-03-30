@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Jins Kurd";
-$page_description = "Jins Kurd";
+$page_title = "Τζινς Κουρντ";
+$page_description = "Τζινς Κουρντ";
 $page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Άθαρ Κουρντ, Άνω Άτζαμ, Άνω Ραστ, Άτζαμ, Άτζαμ Μουράσα, Κουρντ, Λάμι, Μουχάλεφ Σάρκι, Μπαϊάτι, Ναχαουάντ, Ναχαουάντ Μουράσα, Νικρίζ, Ραστ, Σαζκάρ, Σάμπα, Σάμπα Ζάμζαμ, Σάμπα Νταλανσίν, Σίκα Baladi, Τζιχάρκα, Χιτζάζ, Χιτζάζ Μουράσα, Χιτζασκάρ";
 $page_language = "el";
 
@@ -29,21 +29,21 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins Kurd</h1>
-                        <h3>Root jins of the <a href="../maqam/f_kurd.php">Maqam Kurd Family</a></h3>
+                        <h1>Τζινς Κουρντ</h1>
+                        <h3>Ρίζα Τζινς της <a href="../maqam/f_kurd.php">οικογένειας Μακάμ Κουρντ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Τζινς</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/kurd.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Kurd</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/kurd.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Κουρντ</a>
                     </div>
 
 
                     <div class="notation" id="notation1">
                         <img src="/note/jins/kurd.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Κάντε κλικ στις νότες  πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -56,7 +56,8 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="488,49,12" href="#" alt="Σι4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 
 					</map>
-                    <p>Jins Kurd is a 4-note <em>jins</em>. It is notated here with its tonic on D and its <em>ghammaz</em> on G. Jins Kurd is the first <em>jins</em> in <a href="../maqam/kurd.php">Maqam Kurd</a>.
+                    <p>
+                        To Τζινς Κουρντ είναι ένα 4χορδο. Στην παρούσα καταγραφή του έχει την τονική στον φθόγγο Ρε και την νότα <em>γάμμαζ</em> στο Σολ. To Τζινς Κουρντ είναι το πρώτο Τζινς στo <a href="../maqam/kurd.php">Μακάμ Κουρντ</a>.
                     </p>
 
                     <div class="player-area">
@@ -70,7 +71,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>‘Awwidti ‘Eini (1957)</b>
+                                    <b>Αουίνττι Αΐνι (1957)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
@@ -83,7 +84,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Hayyarti Albi Ma‘ak (1961)</b>
+                                    <b>Χαϊάρτι Άλμπι Μάακ (1961)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
@@ -96,7 +97,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Hibbi Zurni Ma Tayassar</b>
+                                    <b>Μουάσαχ Χίμπι Ζούρνι Μα Ταϊάσαρ</b>
                                     <span>Κάρεμ Μαχμούντ</span>
                                     <span>Μουσική Νταρουίς αλ-Χαρίρι</span>
                                 </div>
@@ -109,7 +110,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Inta ‘Omri (1964)</b>
+                                    <b>Έντα Ούμρι (1964)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
@@ -122,8 +123,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mashghul ‘Aleik</b>
-                                    <span>Vocals and Music by Karem Mahmoud</span>
+                                    <b>Μασγούλ Αλέκ</b>
+                                    <span>Φωνή και μουσική Κάρεμ Μαχμούντ</span>
                                 </div>
                             </label>
                         </div>
@@ -134,7 +135,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ya Bahjet el-Rouh</b>
+                                    <b>Μουάσαχ Για Μπαχτζέτ αλ-Ροχ</b>
                                     <span>Σαμπάχ Φαχρί</span>
                                 </div>
                             </label>
@@ -146,7 +147,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Zalimni (1951)</b>
+                                    <b>Για Ζαλίμνι (1951)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>

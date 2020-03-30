@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Jins ‘Ajam Murassa‘";
-$page_description = "Jins ‘Ajam Murassa‘";
+$page_title = "Τζινς Άτζαμ Μουράσα";
+$page_description = "Τζινς Άτζαμ Μουράσα";
 $page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Άθαρ Κουρντ, Άνω Άτζαμ, Άνω Ραστ, Άτζαμ, Άτζαμ Μουράσα, Κουρντ, Λάμι, Μουχάλεφ Σάρκι, Μπαϊάτι, Ναχαουάντ, Ναχαουάντ Μουράσα, Νικρίζ, Ραστ, Σαζκάρ, Σάμπα, Σάμπα Ζάμζαμ, Σάμπα Νταλανσίν, Σίκα Baladi, Τζιχάρκα, Χιτζάζ, Χιτζάζ Μουράσα, Χιτζασκάρ";
 $page_language = "el";
 
@@ -29,20 +29,20 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins ‘Ajam Murassa‘</h1>
-                        <h3>A variation of <a href="ajam.php">Jins ‘Ajam</a> with a raised 4<sup>th</sup></h3>
+                        <h1>Τζινς Άτζαμ Μουράσα</h1>
+                        <h3>Μία παραλλαγή του <a href="ajam.php">Τζινς Άτζαμ</a> με οξυμένη την 4η βαθμίδα</sup></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Τζινς</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/ajam_murassaa.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of ‘Ajam Murassa‘</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/ajam_murassaa.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Άτζαμ Μουράσα</a>
                     </div>
 
                     <div class="notation" id="notation1">
                         <img src="/note/jins/ajam_murassaa.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Κάντε κλικ στις νότες  πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -55,7 +55,8 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="518,37,12" href="#" alt="Ρε5" class="playNote" data-frequency="586.66" data-parent="#notation1">
 					</map>
 
-                    <p>Jins ‘Ajam Murassa‘ is a 5-note jins. It is notated here with its tonic on F and its <em>ghammaz</em> on C. Jins ‘Ajam Murassa‘ is not part of any maqam scale and usually occurs as a modulation from <a href="ajam.php">Jins ‘Ajam</a>.</p>
+                    <p>
+                        To Τζινς Άτζαμ Μουράσα είναι ένα 5χορδο. Στην παρούσα καταγραφή του έχει την τονική στον φθόγγο Φα και την νότα <em>γάμμαζ</em> στον φθόγγο Σολ. To Τζινς Άτζαμ Μουράσα δεν είναι μέρος κανενός μακάμ και συνήθως συμβαίνει ως μετατροπία από <a href="ajam.php">Τζινς Άτζαμ</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -68,7 +69,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwshah Kallili Ya Suhbu</b>
+                                    <b>Μουάσαχ Καλίλι Για Σούχουμπου</b>
                                     <span>Σαμπάχ Φαχρί</span>
                                     <span>Μουσική Μοχάμαντ Οθμάν</span>
                                 </div>
@@ -81,7 +82,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Bein Shattein we Mayya</b>
+                                    <b>Μπεν Σατέν ου Μάια</b>
                                     <span>Muhammad Qandil</span>
                                 </div>
                             </label>
@@ -93,7 +94,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mawwal Ya Ma‘shar al-Nas</b>
+                                    <b>Μαουάλ Για Μάσαρ αλ-Νας</b>
                                     <span>Μοχάμαντ Χαΐρι</span>
                                 </div>
                             </label>
@@ -105,7 +106,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qasida ‘Umri Fi Hubbihi Inqada</b>
+                                    <b>Κασίντα Ούμρι Φι Χόμπιχι Ινκάντα</b>
                                     <span>Μοχάμαντ Χαΐρι</span>
                                 </div>
                             </label>
@@ -117,7 +118,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Qanun in Maqam 'Ajam</b>
+                                    <b>Τακσίμι Κανονάκι σε Μακάμ Άτζαμ</b>
                                     <span>Αμπντού Ντάγερ</span>
                                     <span><img src="/img/cd.png"> Al-Gibali</span>
                                 </div>
@@ -130,7 +131,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Nibtidi Mnein el-Hikaya (1975)</b>
+                                    <b>Νιμπτίντι Μνέιν ελ-Χικάια (1975)</b>
                                     <span>Αμπντέλ Χαλίμ Χάφεζ</span>
                                     <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
@@ -143,7 +144,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qari'at al-Fingan (1976)</b>
+                                    <b>Κάριατ αλ-Φιντζάν (1976)</b>
                                     <span>Αμπντέλ Χαλίμ Χάφεζ</span>
                                     <span>Μουσική Μοχάμαντ αλ-Μούγκι</span>
                                 </div>
@@ -156,9 +157,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr Sabbahti Min ‘Ishqi Abki</b>
-                                    <span>Abdel Hayy Hilmi</span>
-                                    <span>Music By ???</span>
+                                    <b>Ντάουρ Σαμπάχτι Μιν Ίσκι Άμπκι</b>
+                                    <span>Αμπντέλ Ηάι Χίλμι</span>
                                 </div>
                             </label>
                         </div>
@@ -169,8 +169,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Oud Taqsim</b>
-                                    <span>Muhammad Qadri Dalal</span>
+                                    <b>Τακσίμι Ούτι</b>
+                                    <span>Μοχάμαντ Κάντρι Νταλάλ</span>
                                 </div>
                             </label>
                         </div>
@@ -181,9 +181,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Layali Zaman</b>
-                                    <span>Instrumental composition by ‘Abdu Dagher</span>
-                                    <span>Recorded with his ensemble at the Cairo Opera House.</span>
+                                    <b>Λαϊάλι Ζαμάν</b>
+                                    <span>Οργανική Σύνθεση Αμπντού Ντάγερ</span>
+                                    <span>Ηχογραφημένο με την ορχήστρα του στην Όπερα του Καΐρου</span>
                                 </div>
                             </label>
                         </div>

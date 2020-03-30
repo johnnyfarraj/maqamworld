@@ -109,7 +109,6 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ντάουρ Λισάν ελ-Ντάμα</b>
                                     <span>Γιούσεφ αλ-Μανιαλάουι</span>
-                                    <span>Μουσική ?</span>
                                 </div>
                             </label>
                         </div>
@@ -159,7 +158,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Για Άμι Για Σάχεμπ ελ-Τζαμάλ</b>
-                                    <span>TODO Vocals and Music by Ahmed Adaweyah</span>
+                                    <span>TODO Φωνή και μουσική Ahmed Adaweyah</span>
                                 </div>
                             </label>
                         </div>

@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Jins Nahawand";
-$page_description = "Jins Nahawand";
+$page_title = "Τζινς Ναχαουάντ";
+$page_description = "Τζινς Ναχαουάντ";
 $page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Άθαρ Κουρντ, Άνω Άτζαμ, Άνω Ραστ, Άτζαμ, Άτζαμ Μουράσα, Κουρντ, Λάμι, Μουχάλεφ Σάρκι, Μπαϊάτι, Ναχαουάντ, Ναχαουάντ Μουράσα, Νικρίζ, Ραστ, Σαζκάρ, Σάμπα, Σάμπα Ζάμζαμ, Σάμπα Νταλανσίν, Σίκα Baladi, Τζιχάρκα, Χιτζάζ, Χιτζάζ Μουράσα, Χιτζασκάρ";
 $page_language = "el";
 
@@ -29,21 +29,21 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins Nahawand</h1>
-                        <h3>Root jins of the <a href="../maqam/f_nahawand.php">Maqam Nahawand Family</a></h3>
+                        <h1>Τζινς Ναχαουάντ</h1>
+                        <h3>Ρίζα Τζινς της <a href="../maqam/f_nahawand.php">οικογένειας Μακάμ Ναχαουάντ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Τζινς</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/nahawand.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Nahawand</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/nahawand.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Ναχαουάντ</a>
                     </div>
 
 
                      <div class="notation" id="notation1">
                         <img src="/note/jins/nahawand.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Κάντε κλικ στις νότες  πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -58,7 +58,8 @@ include($ROOT . 'inc/head.php');
 				      <area shape="circle" coords="611,60,12" href="#" alt="Λα4♭" class="playNote" data-frequency="411" data-parent="#notation1">
 					</map>
 
-                    <p>Jins Nahawand is a 5-note <em>jins</em>. It is notated here with its tonic on C and its <em>ghammaz</em> on G. Jins Nahawand is the first <em>jins</em> in <a href="../maqam/nahawand.php">Maqam Nahawand</a>.
+                    <p>
+                        To Τζινς Ναχαουάντ είναι ένα 5χορδο. Στην παρούσα καταγραφή του έχει την τονική στον φθόγγο Ντο και την νότα γάμμαζ στον φθόγγο Σολ. To τζινς Ναχαουάντ είναι το πρώτο τζινς στο <a href="../maqam/nahawand.php">Μακάμ Ναχαουάντ</a>.
                     </p>
 
                     <div class="player-area">
@@ -72,9 +73,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Alf Leila w Leila (1969)</b>
+                                    <b>Αλφ Λέιλα ου Λέιλα (1969)</b>
                                     <span>Ουμ Κουλθούμ</span>
-                                    <span>Μουσική Μπαλίχ Χάμντι</span>
+                                    <span>Μουσική Μπαλίγ Χάμντι</span>
                                 </div>
                             </label>
                         </div>
@@ -85,7 +86,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Balad el-Mahbub</b>
+                                    <b>Μπάλαντ ελ-Μαχμπούμπ</b>
                                     <span>Οργανική Σύνθεση</span>
                                     <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
@@ -98,7 +99,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Darit el-Ayyam (1970)</b>
+                                    <b>Ντάριτ ελ-Αϊάμ (1970)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
@@ -111,7 +112,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr Ahibb Ashufak Kulli Youm (1930)</b>
+                                    <b>Ντάουρ Αχέμπ Ασούφακ Κούλι Ιόμ (1930)</b>
                                     <span>Φωνή και μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
@@ -123,7 +124,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Gaddidti Hubbak Leh (1952)</b>
+                                    <b>Γκαντίνττι Χόμπακ Λε (1952)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
@@ -136,7 +137,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Dunya Ya Gharami (1938)</b>
+                                    <b>Για Ντούνια Για Γαράμι (1938)</b>
                                     <span>Φωνή και μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
@@ -148,9 +149,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Habibi Kullama Habba al-Hawa (2000)</b>
+                                    <b>Για Χαμπίμπι Κουλάμα Χάμπα αλ-Χάουα (2000)</b>
                                     <span>Φεϊρούζ</span>
-                                    <span>Music by Rahbani Brothers</span>
+                                    <span>Μουσική αδερφοί  Ραχμπάνι</span>
                                 </div>
                             </label>
                         </div>

@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Jins Rast";
-$page_description = "Jins Rast";
+$page_title = "Τζινς Ραστ";
+$page_description = "Τζινς Ραστ";
 $page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Άθαρ Κουρντ, Άνω Άτζαμ, Άνω Ραστ, Άτζαμ, Άτζαμ Μουράσα, Κουρντ, Λάμι, Μουχάλεφ Σάρκι, Μπαϊάτι, Ναχαουάντ, Ναχαουάντ Μουράσα, Νικρίζ, Ραστ, Σαζκάρ, Σάμπα, Σάμπα Ζάμζαμ, Σάμπα Νταλανσίν, Σίκα Baladi, Τζιχάρκα, Χιτζάζ, Χιτζάζ Μουράσα, Χιτζασκάρ";
 $page_language = "el";
 
@@ -29,7 +29,7 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins Rast</h1>
+                        <h1>Τζινς Ραστ</h1>
                         <h3>Root jins of the <a href="../maqam/f_rast.php">Maqam Rast Family</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Τζινς</a>
@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                      <div class="notation" id="notation1">
                         <img src="/note/jins/rast.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Κάντε κλικ στις νότες  πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -58,7 +58,7 @@ include($ROOT . 'inc/head.php');
 				      <area shape="circle" coords="630,52,12" href="#" alt="Λα4" class="playNote" data-frequency="440" data-parent="#notation1">
 					</map>
 
-                    <p>Jins Rast is a widely popular 5-note <em>jins</em>. It is notated here with its tonic on C and its <em>ghammaz</em> on G. Jins Rast is the first <em>jins</em> in <a href="../maqam/rast.php">Maqam Rast</a>, <a href="../maqam/suznak.php">Maqam Suznak</a>, and other <em>maqamat</em> in the <a href="../maqam/f_rast.php">Maqam Rast Family</a>.
+                    <p>Τζινς Ραστ is a widely popular 5-note <em>jins</em>. It is notated here with its tonic on C and its <em>ghammaz</em> on G. Τζινς Ραστ is the first <em>jins</em> in <a href="../maqam/rast.php">Maqam Rast</a>, <a href="../maqam/suznak.php">Maqam Suznak</a>, and other <em>maqamat</em> in the <a href="../maqam/f_rast.php">Maqam Rast Family</a>.
                     </p>
 
                     <div class="player-area">
@@ -86,8 +86,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>‘Ala Allah T‘ud (1970)</b>
-                                    <span>Wadih al-Safi</span>
-                                    <span>Music by Farid al-Atrash</span>
+                                    <span>Ουαντί Αλ-Σάφι</span>
+                                    <span>Μουσική Φαρίντ αλ-Άτρας</span>
                                 </div>
                             </label>
                         </div>

@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Jins Upper Rast";
-$page_description = "Jins Upper Rast";
+$page_title = "Τζινς Άνω Ραστ";
+$page_description = "Τζινς Άνω Ραστ";
 $page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Άθαρ Κουρντ, Άνω Άτζαμ, Άνω Ραστ, Άτζαμ, Άτζαμ Μουράσα, Κουρντ, Λάμι, Μουχάλεφ Σάρκι, Μπαϊάτι, Ναχαουάντ, Ναχαουάντ Μουράσα, Νικρίζ, Ραστ, Σαζκάρ, Σάμπα, Σάμπα Ζάμζαμ, Σάμπα Νταλανσίν, Σίκα Baladi, Τζιχάρκα, Χιτζάζ, Χιτζάζ Μουράσα, Χιτζασκάρ";
 $page_language = "el"; // en / ar <!-- YOU MUST PUT THIS
 
@@ -29,21 +29,21 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins Upper Rast</h1>
-                        <h3>A 4-note version of <a href="rast.php">Jins Rast</a> with the tonic on top</h3>
+                        <h1>Τζινς Άνω Ραστ</h1>
+                        <h3>Μία 4χορδη εκδοχή του <a href="rast.php">Τζινς Ραστ</a> με την τονική στην κορυφή</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Τζινς</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/rast.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Rast</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/rast.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Ραστ</a>
                     </div>
 
                   
                      <div class="notation" id="notation1">
                         <img src="/note/jins/upper_rast.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Κάντε κλικ στις νότες  πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -56,7 +56,9 @@ include($ROOT . 'inc/head.php');
 					 
 					  </map>
 
-                    <p>Jins Upper Rast is a 4-note version of <a href="rast.php">Jins Rast</a>, with the unusual feature (shared by <a href="upper_ajam.php">Jins Upper ‘Ajam</a>) that its tonic is the last degree in the scale instead of the first. It is notated here with its <em>ghammaz</em> on G and its tonic on C. Jins Upper Rast is the second jins in <a href="../maqam/rast.php">Maqam Rast</a> and also occurs on the 5<sup>th</sup> degree of <a href="../maqam/jiharkah.php">Maqam Jiharkah</a>.</p>
+                    <p>
+                        To Τζινς Άνω Ραστ είναι μία 4χορδη εκδοχή του <a href="rast.php">Τζινς Ραστ</a>, με το ασυνήθιστο χαρακτηριστικό (κοινό με το <a href="upper_ajam.php">Τζινς Άνω Άτζαμ</a>) το ότι η τονική του είναι η τελευταία βαθμίδα στην διαδοχή αντί να είναι η πρώτη. Στην παρούσα καταγραφή του έχει την νότα γάμμαζ στον φθόγγο Σολ και την τονική στον φθόγγο Ντο. To Τζινς Άνω Ραστ είναι το δεύτερο Ζινς στo <a href="../maqam/rast.php">Μακάμ Ραστ</a> και επίσης λαμβάνει χώρο στην 5η βαθμίδα του <a href="../maqam/jiharkah.php">Μακάμ Τζιχάρκα</a>.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -69,7 +71,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Ya Shadi al-Alhan</b>
+                                    <b>Μουάσαχ Για Σάντι αλ-Αλχάν</b>
                                     <span>Σαμπάχ Φαχρί</span>
                                     <span>Μουσική Σαΐντ Νταρουίς</span>
                                 </div>
@@ -82,10 +84,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Hann el-Hadid (1974)</b>
-                                    <span>Joseph Saqr</span>
-                                    <span>Music by Ziad Rahbani</span>
-                                    <span>From the musical Nazl el-Surur</span>
+                                    <b>Χαν ελ-Χαντίντ (1974)</b>
+                                    <span>Ζοζέφ Σακρ</span>
+                                    <span>Μουσική Ζιάντ Ραχμπάνι</span>
+                                    <span>Από το Μιούζικαλ <strong>Ναζλ ελ-Σουρούρ</strong></span>
                                 </div>
                             </label>
                         </div>
@@ -96,7 +98,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Aruh Li Min (1958)</b>
+                                    <b>Αρούχ Λι Μιν (1958)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
@@ -109,7 +111,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Asamina</b>
+                                    <b>Ασαμίνα</b>
                                     <span>Φεϊρούζ</span>
                                     <span>Μουσική Φιλίμων Ουάχμπι</span>
                                 </div>
@@ -122,7 +124,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Atani Zamani</b>
+                                    <b>Μουάσαχ Ατάνι Ζαμάνι</b>
                                     <span>Σαμπάχ Φαχρί</span>
                                     <span>Μουσική Μοχάμαντ Οθμάν</span>
                                 </div>
@@ -135,9 +137,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Hayrana Leh (1930)</b>
+                                    <b>Χαϊράνα Λε (1930)</b>
                                     <span>Λέιλα Μουράντ</span>
-                                    <span>Music by Dawud Husni</span>
+                                    <span>Μουσική Νταούντ Χόσνι</span>
                                 </div>
                             </label>
                         </div>
@@ -148,7 +150,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Min ‘Azzibak (1931)</b>
+                                    <b>Μιν Αζίμπακ (1931)</b>
                                     <span>Φωνή και μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
