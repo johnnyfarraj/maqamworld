@@ -137,7 +137,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Lamma ‘al-Bab (19??)</b>
+                                    <b>Lamma ‘al-Bab</b>
                                     <span>Fairouz</span>
                                     <span>Musik von Philemon Wehbe</span>
                                 </div>

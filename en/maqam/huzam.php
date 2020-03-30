@@ -168,7 +168,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr Inta Fahim (19??)</b>
+                                    <b>Dawr Inta Fahim</b>
                                     <span>(Maqam Rahat al-Arwah)</span>
                                     <span>Music and Vocals by Zakariyya Ahmad</span>
                                 </div>

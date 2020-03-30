@@ -193,7 +193,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ib‘id ‘Anni ‘Uyunak (19??)</b>
+                                    <b>Ib‘id ‘Anni ‘Uyunak</b>
                                     <span>Yasmin al-Khayyam</span>
                                     <span>Music by Muhammad Abdel Wahab</span>
                                 </div>
