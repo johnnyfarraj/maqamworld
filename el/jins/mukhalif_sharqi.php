@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Jins Mukhalif Sharqi";
-$page_description = "Jins Mukhalif Sharqi";
+$page_title = "Τζινς Μουχάλεφ Σάρκι";
+$page_description = "Τζινς Μουχάλεφ Σάρκι";
 $page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Άθαρ Κουρντ, Άνω Άτζαμ, Άνω Ραστ, Άτζαμ, Άτζαμ Μουράσα, Κουρντ, Λάμι, Μουχάλεφ Σάρκι, Μπαϊάτι, Ναχαουάντ, Ναχαουάντ Μουράσα, Νικρίζ, Ραστ, Σαζκάρ, Σάμπα, Σάμπα Ζάμζαμ, Σάμπα Νταλανσίν, Σίκα Baladi, Τζιχάρκα, Χιτζάζ, Χιτζάζ Μουράσα, Χιτζασκάρ";
 $page_language = "el";
 
@@ -29,21 +29,22 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins Mukhalif Sharqi</h1>
-                        <h3>A variation of <a href="sikah.php">Τζινς Σίκα</a> with a lowered 3<sup>rd</sup></h3>
+                        <h1>Τζινς Μουχάλεφ Σάρκι</h1>
+                        <h3>Μία παραλλαγή του Τ<a href="sikah.php">Τζινς Σίκα</a> με χαμηλωμένη την 3η βαθμίδα</h3>
                     </div>
+                    
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Τζινς</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mukhalif_sharqi.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Mukhalif Sharqi</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mukhalif_sharqi.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Μουχάλεφ Σάρκι</a>
                     </div>
 
 
                     <div class="notation" id="notation1">
                         <img src="/note/jins/mukhalif_sharqi.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -52,7 +53,8 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="233,70,13" href="#" alt="Σολ4♭" class="playNote" data-frequency="365.32" data-parent="#notation1">
 
 					</map>
-                    <p>Jins Mukhalif Sharqi has no <em>ghammaz</em>, and therefore no defined size. It is notated here with its tonic on E<i class="icon-halfflat"></i>. Jins Mukhalif Sharqi is not part of any <em>maqam</em> scale and usually occurs as a modulation from <a href="sikah.php">Τζινς Σίκα</a>.
+                    <p>
+                        To Τζινς Μουχάλεφ Σάρκι δεν έχει νότα <em>γάμμαζ</em>, και ως εκ τούτου έχει απροσδιόριστο μέγεθος. Στην παρούσα καταγραφή του έχει την τονική στον φθόγγο Μι<i class="icon-halfflat"></i> (με μισή ύφεση). To Τζινς Μουχάλεφ Σάρκι δεν είναι μέρος κάποιου μακάμ και συνήθως προκύπτει ως μετατροπία από το <a href="sikah.php">Τζινς Σίκα</a>.
                     </p>
 
                     <div class="player-area">
@@ -66,7 +68,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Dawr Emta el-Hawa (1936)</b>
+                                    <b>Ντάουρ Έμτα ελ-Χάουα (1936)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Ζακαρία Άχμαντ</span>
                                 </div>
@@ -79,7 +81,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ghannili Shwayy Shwayy (1945)</b>
+                                    <b>Γανίλι Σουάι Σουάι (1945)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Ζακαρία Άχμαντ</span>
                                 </div>
@@ -92,9 +94,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Raqsat al-Sus (1974)</b>
-                                    <span>Music by the Rahbani Brothers</span>
-                                    <span>From the operetta "Lulu"</span>
+                                    <b>Ράκσατ αλ-Σους (1974)</b>
+                                    <span>Μουσική αδερφοί  Ραχμπάνι</span>
+                                    <span>Από την Οπερέτα “Λούλου”</span>
                                 </div>
                             </label>
                         </div>
@@ -105,9 +107,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr Lisan el-Dam‘i</b>
-                                    <span>Yusuf al-Manyalawi</span>
-                                    <span>Music by ?</span>
+                                    <b>Ντάουρ Λισάν ελ-Ντάμα</b>
+                                    <span>Γιούσεφ αλ-Μανιαλάουι</span>
+                                    <span>Μουσική ?</span>
                                 </div>
                             </label>
                         </div>
@@ -118,8 +120,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ma-htiyali (khana)</b>
-                                    <span>Aicha Redouane </span>
+                                    <b>Μουάσαχ Μα-χτιάλι (Χάνα)</b>
+                                    <span>Άισα Ρεντουάν</span>
                                     <span><img src="/img/cd.png"> Arabesques Vocales &copy; 2000</span>
                                 </div>
                             </label>
@@ -131,8 +133,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ya Samiri Da‘a Sabri</b>
-                                    <span>Muhammad Khayri</span>
+                                    <b>Μουάσαχ Για Σαμίρι Ντάα Σάμπρι/b>
+                                    <span>Μοχάμαντ Χαΐρι</span>
                                 </div>
                             </label>
                         </div>
@@ -143,8 +145,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Tahmila Rast (Suznak)</b>
-                                    <span>Aicha Redouane</span>
+                                    <b>Ταχμίλα Ραστ (Σουζνάκ)</b>
+                                    <span>Άισα Ρεντουάν</span>
                                     <span><img src="/img/cd.png"> Arabesques Vocales &copy; 2000</span>
                                 </div>
                             </label>
@@ -156,8 +158,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya ‘Ammi Ya Saheb el-Gamal</b>
-                                    <span>Vocals and Music by Ahmed Adaweyah</span>
+                                    <b>Για Άμι Για Σάχεμπ ελ-Τζαμάλ</b>
+                                    <span>TODO Vocals and Music by Ahmed Adaweyah</span>
                                 </div>
                             </label>
                         </div>
@@ -168,9 +170,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Violin</b>
-                                    <span>Abdu Daghir</span>
-                                    <span><img src="/img/cd.png"> Al-Gibali</span>
+                                    <b>Τακσίμι Βιολί</b>
+                                    <span>Αμπντού Ντάγερ</span>
+                                    <span><img src="/img/cd.png"> Αλ-Τζιμπάλι</span>
                                 </div>
                             </label>
                         </div>
@@ -181,8 +183,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>el-Layli Ma Birda Bukra</b>
-                                    <span>Vocals and Music by Wadih al-Safi</span>
+                                    <b>ελ-Λαϊάλι Μα Μπίρντα Μπούκρα</b>
+                                    <span>Φωνή και μουσική Ουαντί Αλ-Σάφι</span>
                                 </div>
                             </label>
                         </div>
@@ -193,8 +195,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ib‘id ‘Anni ‘Uyunak (19??)</b>
-                                    <span>Yasmin al-Khayyam</span>
+                                    <b>Έμπαεντ Άνι Αϊούνακ</b>
+                                    <span>Γιασμίν αλ-Χαϊάμ</span>
                                     <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
@@ -206,8 +208,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ib‘id ‘Anni ‘Uyunak - Nay Solo</b>
-                                    <span>Yasmin al-Khayyam</span>
+                                    <b>Έμπαεντ Άνι Αϊούνακ – Σόλο Νάι</b>
+                                    <span>Γιασμίν αλ-Χαϊάμ</span>
                                     <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>

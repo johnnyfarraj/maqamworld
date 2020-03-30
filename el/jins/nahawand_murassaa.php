@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Jins Nahawand Murassa‘";
-$page_description = "Jins Nahawand Murassa‘";
+$page_title = "Τζινς Ναχαουάντ  Μουράσα";
+$page_description = "Τζινς Ναχαουάντ  Μουράσα";
 $page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Άθαρ Κουρντ, Άνω Άτζαμ, Άνω Ραστ, Άτζαμ, Άτζαμ Μουράσα, Κουρντ, Λάμι, Μουχάλεφ Σάρκι, Μπαϊάτι, Ναχαουάντ, Ναχαουάντ Μουράσα, Νικρίζ, Ραστ, Σαζκάρ, Σάμπα, Σάμπα Ζάμζαμ, Σάμπα Νταλανσίν, Σίκα Baladi, Τζιχάρκα, Χιτζάζ, Χιτζάζ Μουράσα, Χιτζασκάρ";
 $page_language = "el";
 
@@ -29,21 +29,22 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins Nahawand Murassa‘</h1>
-                        <h3>A variation of <a href="nahawand.php">Jins Nahawand</a> with a lowered 5<sup>th</sup></h3>
+                        <h1>Τζινς Ναχαουάντ  Μουράσα</h1>
+                        <h3>Μία παραλλαγή του <a href="nahawand.php">Τζινς Ναχαουάντ</a> με χαμηλωμένη την 5η βαθμίδα</h3>
                     </div>
+                    
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Τζινς</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/nahawand_murassaa.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Nahawand Murassa‘</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/nahawand_murassaa.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Ναχαουάντ  Μουράσα</a>
                     </div>
 
 
                      <div class="notation" id="notation1">
                         <img src="/note/jins/nahawand_murassaa.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες  πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -54,9 +55,9 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="357,78,13" href="#" alt="Φα4" class="playNote" data-frequency="347.65" data-parent="#notation1"><!-Hijaz 1st-->
 					  <area shape="circle" coords="434,70,13" href="#" alt="Σολ4♭" class="playNote" data-frequency="373.33" data-parent="#notation1"><!--variable-->
 					  <area shape="circle" coords="509,62,12" href="#" alt="Λα4♮" class="playNote" data-frequency="444" data-parent="#notation1"><!--var-->
-
 					</map>
-                    <p>Jins Nahawand Murassa‘ has no <em>ghammaz</em>, and therefore no defined size. It is notated here with its tonic on C. Jins Nahawand Murassa‘ is the first <em>jins</em> in <a href="../maqam/nahawand_murassaa.php">Maqam Nahawand Murassa‘</a>.
+
+                    <p>Το Τζινς Ναχαουάντ  Μουράσα δεν έχει νότα <em>γάμμαζ</em>, και ως εκ τούτου έχει απροσδιόριστο μέγεθος. Στην παρούσα καταγραφή του έχει την τονική στον φθόγγο Ντο. To Τζινς Ναχαουάντ Μουράσα είναι το πρώτο Τζινς στο <a href="../maqam/nahawand_murassaa.php">Μακάμ Ναχαουάντ Μουράσα</a>.
                     </p>
 
                     <div class="player-area">
@@ -70,7 +71,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Dulab Nahawand (from Sibuni Ya Nas)</b>
+                                    <b>Ντουλάμπ Ναχαουάντ (από το Σιμπούνι Για Νας)</b>
                                     <span>Σαμπάχ Φαχρί</span>
                                 </div>
                             </label>
@@ -82,9 +83,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" checked>
                                 <div class="info">
-                                    <b>Habbeit Gamalak</b>
-                                    <span>Leila Murad</span>
-                                    <span>Music by Muhammad al-Qasabgi</span>
+                                    <b>Χαμπέιτ Τζαμάλακ</b>
+                                    <span>Λέιλα Μουράντ</span>
+                                    <span>Μουσική Μοχάμαντ αλ-Κασάμπζι</span>
                                 </div>
                             </label>
                         </div>
@@ -95,8 +96,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" checked>
                                 <div class="info">
-                                    <b>Khusara (1957)</b>
-                                    <span>Abdel Halim Hafez</span>
+                                    <b>Χουσάρα (1957)</b>
+                                    <span>Αμπντέλ Χαλίμ Χάφεζ</span>
                                     <span>Μουσική Μπαλίχ Χάμντι</span>
                                 </div>
                             </label>
@@ -108,9 +109,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" checked>
                                 <div class="info">
-                                    <b>Taht el-Shibbak (Accordion Solo)</b>
-                                    <span>Fatima Serhan</span>
-                                    <span>Music by ‘Aziz ‘Uthman</span>
+                                    <b>Ταχτ ελ-Σίμπακ (Σόλο Ακκορντεόν)</b>
+                                    <span>Φάτιμα Σερχάν</span>
+                                    <span>Μουσική Αζίζ Οθμάν</span>
                                 </div>
                             </label>
                         </div>
@@ -121,8 +122,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" checked>
                                 <div class="info">
-                                    <b>Min Hobbi Fik Ya Gari (1958)</b>
-                                    <span>Horeyya Hasan</span>
+                                    <b>Μιν Χόμπι Φικ Για Γκάρι (1958)</b>
+                                    <span>Χορέια Χάσαν</span>
                                     <span>Μουσική Μοχάμαντ αλ-Μούγκι</span>
                                 </div>
                             </label>

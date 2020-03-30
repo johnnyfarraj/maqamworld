@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     <div class="notation" id="notation1">
                         <img src="/note/jins/ajam_murassaa.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες  πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwshah Kallili Ya Suhbu</b>
                                     <span>Σαμπάχ Φαχρί</span>
-                                    <span>Music by Muhammad ‘Uthman</span>
+                                    <span>Μουσική Μοχάμαντ Οθμάν</span>
                                 </div>
                             </label>
                         </div>
@@ -94,7 +94,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mawwal Ya Ma‘shar al-Nas</b>
-                                    <span>Muhammad Khayri</span>
+                                    <span>Μοχάμαντ Χαΐρι</span>
                                 </div>
                             </label>
                         </div>
@@ -106,7 +106,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Qasida ‘Umri Fi Hubbihi Inqada</b>
-                                    <span>Muhammad Khayri</span>
+                                    <span>Μοχάμαντ Χαΐρι</span>
                                 </div>
                             </label>
                         </div>
@@ -118,7 +118,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Taqsim Qanun in Maqam 'Ajam</b>
-                                    <span>Abdu Daghir</span>
+                                    <span>Αμπντού Ντάγερ</span>
                                     <span><img src="/img/cd.png"> Al-Gibali</span>
                                 </div>
                             </label>
@@ -131,7 +131,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Nibtidi Mnein el-Hikaya (1975)</b>
-                                    <span>Abdel Halim Hafez</span>
+                                    <span>Αμπντέλ Χαλίμ Χάφεζ</span>
                                     <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
@@ -144,7 +144,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Qari'at al-Fingan (1976)</b>
-                                    <span>Abdel Halim Hafez</span>
+                                    <span>Αμπντέλ Χαλίμ Χάφεζ</span>
                                     <span>Μουσική Μοχάμαντ αλ-Μούγκι</span>
                                 </div>
                             </label>

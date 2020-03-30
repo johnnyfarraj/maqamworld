@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                     <div class="notation" id="notation1">
                         <img src="/note/jins/kurd.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες  πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -97,8 +97,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Hibbi Zurni Ma Tayassar</b>
-                                    <span>Karem Mahmud</span>
-                                    <span>Music by Darwish al-Hariri</span>
+                                    <span>Κάρεμ Μαχμούντ</span>
+                                    <span>Μουσική Νταρουίς αλ-Χαρίρι</span>
                                 </div>
                             </label>
                         </div>

@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Jins Saba Zamzam";
-$page_description = "Jins Saba Zamzam";
+$page_title = "Τζινς Σάμπα Ζάμζαμ";
+$page_description = "Τζινς Σάμπα Ζάμζαμ";
 $page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Άθαρ Κουρντ, Άνω Άτζαμ, Άνω Ραστ, Άτζαμ, Άτζαμ Μουράσα, Κουρντ, Λάμι, Μουχάλεφ Σάρκι, Μπαϊάτι, Ναχαουάντ, Ναχαουάντ Μουράσα, Νικρίζ, Ραστ, Σαζκάρ, Σάμπα, Σάμπα Ζάμζαμ, Σάμπα Νταλανσίν, Σίκα Baladi, Τζιχάρκα, Χιτζάζ, Χιτζάζ Μουράσα, Χιτζασκάρ";
 $page_language = "el";
 
@@ -29,21 +29,21 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins Saba Zamzam</h1>
-                        <h3>(ambiguous size)</h3>
+                        <h1>Τζινς Σάμπα Ζάμζαμ</h1>
+                        <h3>(ακαθόριστο μέγεθος)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Τζινς</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/saba_zamzam.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Saba Zamzam</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/saba_zamzam.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Σάμπα Ζάμζαμ</a>
                     </div>
 
 
                      <div class="notation" id="notation1">
                         <img src="/note/jins/saba_zamzam.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες  πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -56,8 +56,8 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="504,52,13" href="#" alt="Σι4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 
 					</map>
-                    <p>Jins Saba Zamzam (like <a href="saba.php">Jins Saba</a>) has an ambiguous size. It is notated here with its tonic on D and two <em>ghammaz</em> possibilities: the 3<sup>rd</sup> degree (notated on F) or the 6<sup>th</sup> degree (notated on B&#x266d;). Jins Saba Zamzam is the first <em>jins</em> in <a href="../maqam/saba_zamzam.php">Maqam Saba Zamzam</a>.</p>
-
+                    <p>To Τζινς Σάμπα Ζάμζαμ (όπως και το <a href="saba.php">Τζινς Σάμπα</a>) έχει ακαθόριστο μέγεθος. Στην παρούσα καταγραφή του έχει την τονική στον φθόγγο Ρε και δύο πιθανές νότες <em>γάμμαζ</em>: η 3η βαθμίδα (Φα) ή η 6η βαθμίδα (Σι&#x266d;). To Τζινς Σάμπα Ζάμζαμ είναι το πρώτο Τζινς στο <a href="../maqam/saba_zamzam.php">Μακάμ Σάμπα Ζάμζαμ</a>.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -70,8 +70,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>‘Ala Hisb Widad Albi (1953)</b>
-                                    <span>Abdel Halim Hafez</span>
+                                    <b>Άλα Χισμπ Ουιντάντ Άλμπι (1953)</b>
+                                    <span>Αμπντέλ Χαλίμ Χάφεζ</span>
                                     <span>Μουσική Μπαλίχ Χάμντι</span>
                                 </div>
                             </label>
@@ -83,8 +83,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Gana el-Hawa (1969)</b>
-                                    <span>Abdel Halim Hafez</span>
+                                    <b>Γκάνα ελ-Χάουα (1969)</b>
+                                    <span>Αμπντέλ Χαλίμ Χάφεζ</span>
                                     <span>Μουσική Μπαλίχ Χάμντι</span>
                                 </div>
                             </label>
@@ -96,8 +96,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Zayy el-Hawa (1970)</b>
-                                    <span>Abdel Halim Hafez</span>
+                                    <b>Ζάι ελ- Χάουα (1970)</b>
+                                    <span>Αμπντέλ Χαλίμ Χάφεζ</span>
                                     <span>Μουσική Μπαλίχ Χάμντι</span>
                                 </div>
                             </label>
@@ -109,8 +109,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Nibtidi Mnein el-Hikaya (1975)</b>
-                                    <span>Abdel Halim Hafez</span>
+                                    <b>Νιμπτίντι Μνέιν ελ-Χεκάια (1975)</b>
+                                    <span>Αμπντέλ Χαλίμ Χάφεζ</span>
                                     <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
@@ -122,8 +122,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Bint el-Sultan</b>
-                                    <span>Vocals by Ahmed Adaweya</span>
+                                    <b>Για Μπεντ ελ-Σουλτάν</b>
+                                    <span>Φωνή Αχμαντ Ανταουία</span>
                                 </div>
                             </label>
                         </div>

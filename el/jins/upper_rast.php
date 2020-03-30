@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                      <div class="notation" id="notation1">
                         <img src="/note/jins/upper_rast.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες  πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Ya Shadi al-Alhan</b>
                                     <span>Σαμπάχ Φαχρί</span>
-                                    <span>Music by Sayyed Darwish</span>
+                                    <span>Μουσική Σαΐντ Νταρουίς</span>
                                 </div>
                             </label>
                         </div>
@@ -110,8 +110,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Asamina</b>
-                                    <span>Fairouz</span>
-                                    <span>Music by Philemon Wehbe</span>
+                                    <span>Φεϊρούζ</span>
+                                    <span>Μουσική Φιλίμων Ουάχμπι</span>
                                 </div>
                             </label>
                         </div>
@@ -124,7 +124,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Atani Zamani</b>
                                     <span>Σαμπάχ Φαχρί</span>
-                                    <span>Music by Muhammad ‘Uthman</span>
+                                    <span>Μουσική Μοχάμαντ Οθμάν</span>
                                 </div>
                             </label>
                         </div>
@@ -136,7 +136,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Hayrana Leh (1930)</b>
-                                    <span>Leila Murad</span>
+                                    <span>Λέιλα Μουράντ</span>
                                     <span>Music by Dawud Husni</span>
                                 </div>
                             </label>

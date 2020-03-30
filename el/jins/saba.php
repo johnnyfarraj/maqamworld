@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Jins Saba";
-$page_description = "Jins Saba";
+$page_title = "Τζινς Σάμπα";
+$page_description = "Τζινς Σάμπα";
 $page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Άθαρ Κουρντ, Άνω Άτζαμ, Άνω Ραστ, Άτζαμ, Άτζαμ Μουράσα, Κουρντ, Λάμι, Μουχάλεφ Σάρκι, Μπαϊάτι, Ναχαουάντ, Ναχαουάντ Μουράσα, Νικρίζ, Ραστ, Σαζκάρ, Σάμπα, Σάμπα Ζάμζαμ, Σάμπα Νταλανσίν, Σίκα Baladi, Τζιχάρκα, Χιτζάζ, Χιτζάζ Μουράσα, Χιτζασκάρ";
 $page_language = "el";
 
@@ -29,20 +29,20 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins Saba</h1>
-                        <h3>(ambiguous size)</h3>
+                        <h1>Τζινς Σάμπα</h1>
+                        <h3>(ακαθόριστο μέγεθος)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Τζινς</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/saba.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Saba</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/saba.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Σάμπα</a>
                     </div>
 
                      <div class="notation" id="notation1">
                         <img src="/note/jins/saba.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες  πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -55,7 +55,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="532,53,13" href="#" alt="Λα4♮" class="playNote" data-frequency="437" data-parent="#notation1"><!-- Hijaz 3rd tuned down from 440-->
 					  <area shape="circle" coords="609,45,13" href="#" alt="Σι4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					</map>
-                    <p>Jins Saba has an ambiguous size. It is notated here with its tonic on D and two <em>ghammaz</em> possibilities: the 3<sup>rd</sup> degree (notated on F) or the 6<sup>th</sup> degree (notated on B&#x266d;). Jins Saba is the first jins in <a href="../maqam/saba.php">Maqam Saba</a>.
+                    <p>To Τζινς Σάμπα έχει ακαθόριστο μέγεθος. Στην παρούσα καταγραφή του έχει την τονική στον φθόγγο Ρε και δύο πιθανές νότες <em>γάμμαζ</em>: η 3η βαθμίδα (Φα) ή η 6η βαθμίδα (Σι&#x266d;). To Τζινς Σάμπα είναι το πρώτο Τζινς στο <a href="../maqam/saba.php">Μακάμ Σάμπα</a>.
                     </p>
 
                     <div class="player-area">
@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Huwwa Sahih el-Hawa Ghallab (1960)</b>
+                                    <b>Χούα Σαχέχ ελ-Χάουα Γκάλαμπ (1960)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Ζακαρία Άχμαντ</span>
                                 </div>
@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Aghadan Alqaka (1971)</b>
+                                    <b>Αγάνταν Αλκάκ (1971)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
@@ -95,7 +95,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ansak Da Kalam (1961)</b>
+                                    <b>Ανσάκ Ντα Καλάμ (1961)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Μπαλίχ Χάμντι</span>
                                 </div>
@@ -108,8 +108,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dulab in Maqam Saba</b>
-                                    <span>Sabri al-Mudallal</span>
+                                    <b>Ντουλάμπ σε μακάμ Σάμπα</b>
+                                    <span>Σάμπρι αλ-Μουντάλαλ</span>
                                 </div>
                             </label>
                         </div>
@@ -120,8 +120,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Layali Saba</b>
-                                    <span>Sabri al-Mudallal</span>
+                                    <b>Λαϊάλι Σάμπα</b>
+                                    <span>Σάμπρι αλ-Μουντάλαλ</span>
                                 </div>
                             </label>
                         </div>
@@ -132,7 +132,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Lissa Fakir (1963)</b>
+                                    <b>Λίσα Φάκερ (1963)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
@@ -145,9 +145,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Tiri Ya Tiyyara</b>
-                                    <span>Fairouz</span>
-                                    <span>Music by Philemon Wehbe</span>
+                                    <b>Τίρι Για Τιάρα</b>
+                                    <span>Φεϊρούζ</span>
+                                    <span>Μουσική Φιλίμων Ουάχμπι</span>
                                 </div>
                             </label>
                         </div>

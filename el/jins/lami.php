@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                     <div class="notation" id="notation1">
                         <img src="/note/jins/lami.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες  πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ahmad Ya Habibi</b>
-                                    <span>Vocals and Music by Sabri al-Mudallal</span>
+                                    <span>Vocals and Music by Σάμπρι αλ-Μουντάλαλ</span>
                                 </div>
                             </label>
                         </div>
@@ -94,7 +94,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Najmat (1964)</b>
-                                    <span>Vocals and Music by Wadih al-Safi</span>
+                                    <span>Φωνή και μουσική Ουαντί Αλ-Σάφι</span>
                                 </div>
                             </label>
                         </div>

@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                     <div class="notation" id="notation1">
                         <img src="/note/jins/ajam.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες  πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <!-- Copy this bit -->
@@ -87,8 +87,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Buwab (1994)</b>
-                                    <span>Fairouz</span>
-                                    <span>Music by Philemon Wehbe</span>
+                                    <span>Φεϊρούζ</span>
+                                    <span>Μουσική Φιλίμων Ουάχμπι</span>
                                     <p><img src="/img/cd.png"> Album Name Here</p>
                                 </div>
                             </label>
@@ -127,7 +127,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mawwal Min Youm Furgak</b>
-                                    <span>Muhammad Khayri</span>
+                                    <span>Μοχάμαντ Χαΐρι</span>
                                 </div>
                             </label>
                         </div>

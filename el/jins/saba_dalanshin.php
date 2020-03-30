@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Jins Saba Dalanshin";
-$page_description = "Jins Saba Dalanshin";
+$page_title = "Τζινς Σάμπα Νταλανσίν";
+$page_description = "Τζινς Σάμπα Νταλανσίν";
 $page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Άθαρ Κουρντ, Άνω Άτζαμ, Άνω Ραστ, Άτζαμ, Άτζαμ Μουράσα, Κουρντ, Λάμι, Μουχάλεφ Σάρκι, Μπαϊάτι, Ναχαουάντ, Ναχαουάντ Μουράσα, Νικρίζ, Ραστ, Σαζκάρ, Σάμπα, Σάμπα Ζάμζαμ, Σάμπα Νταλανσίν, Σίκα Baladi, Τζιχάρκα, Χιτζάζ, Χιτζάζ Μουράσα, Χιτζασκάρ";
 $page_language = "el";
 
@@ -29,20 +29,20 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins Saba Dalanshin</h1>
-                        <h3>A special version of <a href="saba.php">Jins Saba</a> with its tonic on the 3<sup>rd</sup> degree</h3>
+                        <h1>Τζινς Σάμπα Νταλανσίν</h1>
+                        <h3>Μία ξεχωριστή εκδοχή <a href="saba.php">Τζινς Σάμπα</a> με την τονική του στην 3η βαθμίδα</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Τζινς</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/saba_dalanshin.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Saba Dalanshin</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/saba_dalanshin.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Σάμπα Νταλανσίν</a>
                     </div>
 
                      <div class="notation" id="notation1">
                         <img src="/note/jins/saba_dalanshin.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες  πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -56,9 +56,12 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="509,21,13" href="#" alt="Φα5" class="playNote" data-frequency="695.3" data-parent="#notation1">
 
 					</map>
-                    <p>Jins Saba Dalanshin is a special case of <a href="saba.php">Jins Saba</a> which has no <em>ghammaz</em>, and therefore no defined size. Its melody is centered around its tonic, notated here on C. The intervals above the tonic are more or less identical to <a href="hijaz.php">Jins Hijaz</a>. The note that is 2 degrees below the tonic (in this case A) is a secondary tonic.</p>
-
-                    <p>Jins Saba Dalanshin occurs on the octave of <a href="../maqam/rast.php">Maqam Rast</a>, which in this case becomes known as <a href="../maqam/dalanshin.php">Maqam Dalanshin</a>. It also occurs on the 5<sup>th</sup> degree of <a href="../maqam/shawq_afza.php">Maqam Shawq Afza</a>.</p>
+                    <p>
+                        To Τζινς Σάμπα Νταλανσίν είναι μία ειδική περίπτωση <a href="saba.php">Τζινς Σάμπα</a>, η οποία δεν έχει νότες γάμμαζ, και ως εκ τούτου είναι ακαθόριστου μεγέθους. Η μελωδία του είναι επικεντρωμένη γύρω από την τονική του, καταγεγραμμένη εδώ στον φθόγγο Ντο. Τα διαστήματα πάνω από την τονική είναι σχεδόν πανομοιότυπα με το <a href="hijaz.php">Τζινς Χιτζάζ</a>. Η νότα που είναι 2 βαθμίδες κάτω από την τονική (στην παρούσα περίπτωση η Λα) είναι μία δευτερεύουσα τονική.
+                    </p>
+                    <p>
+                        To Τζινς Σάμπα Νταλανσίν προκύπτει στην οκτάβα του <a href="../maqam/rast.php">Μακάμ Ραστ</a>, όπου σε αυτήν την περίπτωση γίνεται γνωστό ως <a href="../maqam/dalanshin.php">Μακάμ Νταλανσίν</a>. Επίσης προκύπτει στην 5η βαθμίδα του <a href="../maqam/shawq_afza.php">Μακάμ Σάουκ Άφζα</a>.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -71,9 +74,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Ya Mal el-Sham</b>
+                                    <b>Για Μαλ ελ-Σαμ</b>
                                     <span>Σαμπάχ Φαχρί</span>
-                                    <span>Music by Ahmad Abu Khalil al-Qabbani</span>
+                                    <span>Μουσική Άχμαντ Αμπού Χαλίλ αλ-Καμπάνι</span>
                                 </div>
                             </label>
                         </div>
@@ -84,7 +87,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qasida Ya Jirat al-Sha‘b al-Yamani</b>
+                                    <b>Κασίντα Για Τζίρατ αλ-Σάαμπ αλ-Ιαμάνι</b>
                                     <span>Χάσαν αλ-Χαφφάρ</span>
                                 </div>
                             </label>
@@ -96,9 +99,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Mala al-Kasat (khana)</b>
+                                    <b>Μουάσαχ Μάλα αλ-Κασάτ (Χάνα)</b>
                                     <span>Σαμπάχ Φαχρί</span>
-                                    <span>Music by Muhammad ‘Uthman</span>
+                                    <span>Μουσική Μοχάμαντ Οθμάν</span>
                                 </div>
                             </label>
                         </div>
@@ -109,8 +112,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qanun Taqsim (from Layali Rast)</b>
-                                    <span>‘Abbas al-Bleidi</span>
+                                    <b>Τακσίμι Κανονάκι (από Λαϊάλι Ραστ)</b>
+                                    <span>Αμπάς αλ-Μπλέιντι</span>
                                 </div>
                             </label>
                         </div>
@@ -121,8 +124,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Halawit el-Dunya</b>
-                                    <span>Sayyed Makkawi</span>
+                                    <b>Για Χαλάουτ ελ-Ντούνια</b>
+                                    <span>Σάιεντ Μακάουι</span>
                                     <span>Μουσική Ζακαρία Άχμαντ</span>
                                 </div>
                             </label>
@@ -134,9 +137,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Iswaret el-‘Arus (1989)</b>
-                                    <span>Fairouz</span>
-                                    <span>Music by Philemon Wehbe</span>
+                                    <b>Ισουάρετ ελ-Αρούς (1989)</b>
+                                    <span>Φεϊρούζ</span>
+                                    <span>Μουσική Φιλίμων Ουάχμπι</span>
                                 </div>
                             </label>
                         </div>

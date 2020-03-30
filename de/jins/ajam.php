@@ -75,7 +75,6 @@ include($ROOT . 'inc/head.php');
                                     <b>Aghadan Alqaka (1971)</b>
                                     <span>Umm Kulthum</span>
                                     <span>Musik von Muhammad Abdel Wahab</span>
-                                    <p><img src="/img/cd.png"> Album Name Here</p>
                                 </div>
                             </label>
                         </div>
@@ -89,7 +88,6 @@ include($ROOT . 'inc/head.php');
                                     <b>el-Buwab (1994)</b>
                                     <span>Fairouz</span>
                                     <span>Musik von Philemon Wehbe</span>
-                                    <p><img src="/img/cd.png"> Album Name Here</p>
                                 </div>
                             </label>
                         </div>

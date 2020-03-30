@@ -117,7 +117,6 @@ include($ROOT . 'inc/head.php');
                                     <b>Sama‘i Jiharkah</b>
                                     <span>Sabah Fakhri Orchestra</span>
                                     <span><img src="/img/cd.png"> Live Au Théatre Des Amandiers</span>
-                                    <span>Music by ???</span>
                                 </div>
                             </label>
                         </div>

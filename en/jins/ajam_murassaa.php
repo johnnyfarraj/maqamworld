@@ -158,7 +158,6 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr Sabbahti Min ‘Ishqi Abki</b>
                                     <span>Abdel Hayy Hilmi</span>
-                                    <span>Music By ???</span>
                                 </div>
                             </label>
                         </div>

@@ -107,7 +107,6 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr Lisan el-Dam‘i</b>
                                     <span>Yusuf al-Manyalawi</span>
-                                    <span>Music by ?</span>
                                 </div>
                             </label>
                         </div>

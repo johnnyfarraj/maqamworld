@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Jins Hijazkar";
-$page_description = "Jins Hijazkar";
+$page_title = "Τζινς Χιτζαζκά";
+$page_description = "Τζινς Χιτζαζκά";
 $page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Άθαρ Κουρντ, Άνω Άτζαμ, Άνω Ραστ, Άτζαμ, Άτζαμ Μουράσα, Κουρντ, Λάμι, Μουχάλεφ Σάρκι, Μπαϊάτι, Ναχαουάντ, Ναχαουάντ Μουράσα, Νικρίζ, Ραστ, Σαζκάρ, Σάμπα, Σάμπα Ζάμζαμ, Σάμπα Νταλανσίν, Σίκα Baladi, Τζιχάρκα, Χιτζάζ, Χιτζάζ Μουράσα, Χιτζασκάρ";
 $page_language = "el";
 
@@ -29,21 +29,21 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins Hijazkar</h1>
+                        <h1>Τζινς Χιτζαζκά</h1>
                         <h3>(ακαθόριστο μέγεθος)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Τζινς</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/hijazkar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Hijazkar</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/hijazkar.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Χιτζαζκάρ</a>
                     </div>
 
 
                     <div class="notation" id="notation1">
                         <img src="/note/jins/hijazkar.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες  πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -55,7 +55,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="457,26,13" href="#" alt="Φα5" class="playNote" data-frequency="695.3" data-parent="#notation1">
 
 					</map>
-                    <p>Jins Hijazkar has no <em>ghammaz</em>, and therefore no defined size. Its melody is centered around its tonic, notated here on C. Jins Hijazkar occurs on the octave of <a href="../maqam/hijazkar.php">Maqam Hijazkar</a>.
+                    <p>To Τζινς Χιτζαζκάρ δεν έχει νότα <em>γαμμάζ</em>, και ως εκ τούτου έχει απροσδιόριστο μέγεθος. Η μελωδία του επικεντρώνεται γύρω από την τονική του, στην παρούσα καταγραφή του πάνω στον φθόγγο Ντο. To Ziνς Χιτζαζκάρ προκύπτει στην οκτάβα του <a href="../maqam/hijazkar.php">Μακάμ Χιτζαζκάρ</a>.
                     </p>
 
                     <div class="player-area">
@@ -69,8 +69,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Ya Halawit el-Dunya</b>
-                                    <span>Sayyed Makkawi</span>
+                                    <b>Για Χαλάουτ ελ-Ντούνια</b>
+                                    <span>Σάιεντ Μακάουι</span>
                                     <span>Μουσική Ζακαρία Άχμαντ</span>
                                 </div>
                             </label>
@@ -82,8 +82,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Badru Timmin Haza Husnan</b>
-                                    <span>Ghada Shbeir</span>
+                                    <b>Μουάσαχ Μπάντρου Τίμιν Χάζα Χουσνάν</b>
+                                    <span>Γάντα Σμπίιρ</span>
                                     <span><img src="/img/cd.png"> Al Muwashahat</span>
                                 </div>
                             </label>
@@ -95,9 +95,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Hibbi Zurni My Tayassar</b>
-                                    <span>Karem Mahmud</span>
-                                    <span>Music by Darwish al-Hariri</span>
+                                    <b>Μουάσαχ Χίμπι Ζούρνι Μα Ταϊάσαρ</b>
+                                    <span>Κάρεμ Μαχμούντ</span>
+                                    <span>Μουσική Νταρουίς αλ-Χαρίρι</span>
                                 </div>
                             </label>
                         </div>
@@ -108,9 +108,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ramani Bi Sahmi Hawahu</b>
+                                    <b>Μουάσαχ Ραμάνι Μπι Σάχμι Χαουάχου</b>
                                     <span>Σαμπάχ Φαχρί</span>
-                                    <span>Music by Daoud Husni</span>
+                                    <span>Μουσική Νταούντ Χόσνι</span>
                                 </div>
                             </label>
                         </div>
@@ -121,9 +121,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr Ya Ma-nta Wahishni</b>
+                                    <b>Ντάουρ Για Μάντα Ουαχίσνι</b>
                                     <span>Σαμπάχ Φαχρί</span>
-                                    <span>Music by Muhammad ‘Uthman</span>
+                                    <span>Μουσική Μοχάμαντ Οθμάν</span>
                                 </div>
                             </label>
                         </div>
@@ -134,9 +134,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr Ya Nas Ana Mutt Fi Hubbi</b>
-                                    <span>Ghada Shbeir</span>
-                                    <span>Music by Sayyed Darwish</span>
+                                    <b>Ντάουρ Για Νας Άνα Μούτετ Φι Χόμπι</b>
+                                    <span>Γάντα Σμπίιρ</span>
+                                    <span>Μουσική Σαΐντ Νταρουίς</span>
                                 </div>
                             </label>
                         </div>
@@ -147,8 +147,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Zahr El-Laymoun (1997)</b>
-                                    <span>Sonia M'Barek</span>
+                                    <b>Ζάχρ Ελ-Λαϊμούν (1997)</b>
+                                    <span>Σόνια Μμπάρεκ</span>
                                     <span><img src="/img/cd.png"> Tawchih</span>
                                 </div>
                             </label>
