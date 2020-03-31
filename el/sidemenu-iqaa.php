@@ -4,7 +4,7 @@
     <li><a href="/el/iqaa/ayyub.php">Αϊγιούμπ 2/4</a></li>
     <li><a href="/el/iqaa/aqsaq.php">Ακσάκ 9/8</a></li>
     <li><a href="/el/iqaa/awis.php">Αουίς 11/8</a></li>
-    <li><a href="/el/iqaa/awfar.php">Αουφαρ Μάσρι 19/4</a></li>
+    <li><a href="/el/iqaa/awfar.php">Άουφαρ Μάσρι 19/4</a></li>
     <li><a href="/el/iqaa/yuruk_semai.php">Γιουρούκ Σεμάι 6/8</a></li>
     <li><a href="/el/iqaa/dharafat.php">Δαραφάτ 13/8 </a></li>
     <li><a href="/el/iqaa/zaffa.php">Ζάφφα 4/4</a></li>

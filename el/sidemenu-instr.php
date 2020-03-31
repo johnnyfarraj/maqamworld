@@ -5,7 +5,7 @@
     <li><a href="/el/instr/trumpet.php">Η Αραβική Τρομπέτα</a></li>
     <li><a href="/el/instr/accordion.php">Το Αραβικό Ακκορντεόν</a></li>
     <li><a href="/el/instr/keyboard.php">To Αραβικό Αρμόνιο</a></li>
-    <li><a href="/el/instr/org.php">To Αραβικό Οργανο</a></li>
+    <li><a href="/el/instr/org.php">To Αραβικό Όργανo</a></li>
     <li><a href="/el/instr/piano.php">To Αραβικό Πιάνο</a></li>
     <li><a href="/el/instr/violin.php">Το Bιολί</a></li>
     <li><a href="/el/instr/guitar.php">H Hλεκτρική Κιθάρα</a></li>
