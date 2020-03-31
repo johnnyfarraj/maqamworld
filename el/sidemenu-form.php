@@ -2,8 +2,8 @@
 <ul class="sub-menu">
     <li class="d-block d-sm-none"><a href="#" class="hide-side-menu"><i class="fa fa-fw fa-times"></i></a></li>
     <li><a href="/el/form/vocal_comp.php#qadd">Καντ</a></li>
-    <li><a href="/el/form/improv.php#qasida">Κασίντα (Αυτοσχεδιασμo)</a></li>
-    <li><a href="/el/form/vocal_comp.php#qasida">Κασίντα (σύνθετο)</a></li>
+    <li><a href="/el/form/improv.php#qasida">Κασίντα (αυτοσχεδιασμός)</a></li>
+    <li><a href="/el/form/vocal_comp.php#qasida">Κασίντα (σύνθεση)</a></li>
     <li><a href="/el/form/improv.php#layali">Λαγιάλι</a></li>
     <li><a href="/el/form/ottoman.php#longa">Λόγκα</a></li>
     <li><a href="/el/form/instr_comp.php#maqtua">Μακτούα</a></li>

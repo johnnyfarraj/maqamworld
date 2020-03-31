@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετηρίου των Φόρμες</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Φόρμες</a>
                     <?php include('../sidemenu-form.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -33,7 +33,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Το Ντουλάμπ, H Μακτούα, H Μουκάντιμα, H Ταχμίλα και Το Ντάριτζ</h3>
                     </div>
 
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετηρίου των Φόρμες</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Φόρμες</a>
                     <div class="clearfix"></div>
 
                     <p>
@@ -278,7 +278,7 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/darij.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Ντάριτζ</a>
                     </div>
                     <p>
-                        Η φόρμα Ντάριτζ (επίσημα λέγεται <em>Σαμάι Ντάριτζ</em>) είναι μία απλή οργανική σύνθεση ονομαζόμενη <a href="../iqaa/samai_darij.php">Ικάα Σαμάι Ντάριτζ</a> (3/4). Όπως στις <a href="ottoman.php">Φόρμες Οθωμανικής Ορχηστρικής μουσικής</a>, η σύνθεση Ντάριτζ στηρίζεται σε ένα κύριο Μακάμ από το οποίο παίρνει το όνομά του, ακολουθούμενο από το όνομα του συνθέτη.
+                        Η φόρμα Ντάριτζ (επίσημα λέγεται <em>Σαμάι Ντάριτζ</em>) είναι μία απλή οργανική σύνθεση ονομαζόμενη <a href="../iqaa/samai_darij.php">Ικά Σαμάι Ντάριτζ</a> (3/4). Όπως στις <a href="ottoman.php">Φόρμες Οθωμανικής Ορχηστρικής μουσικής</a>, η σύνθεση Ντάριτζ στηρίζεται σε ένα κύριο Μακάμ από το οποίο παίρνει το όνομά του, ακολουθούμενο από το όνομα του συνθέτη.
                     </p>
                     <p>
                         Οι συνθέσεις <em>Ντάριτζ</em>em> ήταν διαδεδομένες στον Αραβικό κόσμο πριν τον 20ό αιώνα, αλλά τώρα σπάνια παίζονται ή συνθέτονται.

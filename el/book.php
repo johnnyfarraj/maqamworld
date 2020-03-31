@@ -30,14 +30,13 @@ include($ROOT . 'inc/head.php');
                     </div>
                     <div class="clearfix"></div>
 
-                    <p>Με χαρά σας ανακοινώνω την επερχόμενη έκδοση ενός βιβλίου γραμμένο από εμένα (Γιάννης φαράζ) 
-                    αι του φίλου μου Σάμι Σουμάις (δημιουργό του <a href="http://maqamlessons.com" target="_blank">MaqamLessons</a>).
-                    Το επερχόμενο βιβλίο έχει τον τίτλο <strong>Inside Arabic Music</strong>, 
-                    και θα εκδοθεί από το <a href="http://oup.com" target="_blank">Oxford University Press</a> τον Αύγουστο του 2019.
+                    <p>
+                        Με χαρά σας ανακοινώνω την πρόσφατη έκδοση του βιβλίου μου με τίτλο <strong>Inside Arabic Music</strong>, γραμμένο από κοινού με τον φίλο μου Σάμι Σουμάις (δημιουργό του <a href="http://maqamlessons.com" target="_blank">MaqamLessons</a>).
+                        Αυτό το νέο βιβλίο εκδόθηκε από το <a href="http://oup.com" target="_blank">Oxford University Press</a> τον Αύγουστο του 2019. 
+                        Το βιβλίο είναι μία περιεκτική αναφορά στην Αραβική μουσική συνδυασμένη ως προς το περιεχόμενο με τον ιστότοπο Ο Κόσμος των Μακάμ.
                     </p>
                     <p>
-                    Η έργο του βιβλίου ήταν αποδέκτης με grant το 2012 από 
-                    <a href="http://arabculturefund.org/grantees/grantee.php?id=333" target="_blank">The Arab Fund For Arts and Culture</a>. 
+                        Το βιβλίο <strong>Inside Arabic Music</strong> ήταν παραλήπτης χορηγίας grant ($10.000) το 2012 από <a href="http://arabculturefund.org/grantees/grantee.php?id=333" target="_blank">The Arab Fund For Arts and Culture</a>.
                     </p>
                     <p style="margin-bottom:40px;">
                     Μπορείτε να παραγγείλετε το <strong>Inside Arabic Music</strong> από 

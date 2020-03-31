@@ -18,7 +18,7 @@
     <li><a href="/el/jins/saba.php">Σάμπα</a></li>
     <li><a href="/el/jins/saba_zamzam.php">Σάμπα Ζάμζαμ</a></li>
     <li><a href="/el/jins/saba_dalanshin.php">Σάμπα Νταλανσίν</a></li>
-    <li><a href="/el/jins/sikah_baladi.php">Σίκα Baladi</a></li>
+    <li><a href="/el/jins/sikah_baladi.php">Σίκα Μπάλαντι</a></li>
     <li><a href="/el/jins/jiharkah.php">Τζιχάρκα</a></li>
     <li><a href="/el/jins/hijaz.php">Χιτζάζ</a></li>
     <li><a href="/el/jins/hijaz_murassaa.php">Χιτζάζ Μουράσα</a></li>
