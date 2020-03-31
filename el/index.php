@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                                 <img class="card-img-top" src="/img/nahat_star.png" alt="The Arabic Oud">
                                 <div class="card-body">
                                     <h5 class="card-title">Τζινς</h5>
-                                    <p class="card-text">Μάθετε για το Τζινς, την υπομονάδα των τρόπων με το οποίο χτίζεται κάθε <strong>μακάμ</strong>.
+                                    <p class="card-text">Μάθετε για το Τζινς, την υπομονάδα των τρόπων με την οποία χτίζεται κάθε <strong>μακάμ</strong>.
                                     </p>
                                     <a href="/el/jins.php" class="btn btn-primary">Τζινς<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <img class="card-img-top" src="/img/nahat_round.png" alt="The Arabic Oud">
                                 <div class="card-body">
                                     <h5 class="card-title">Ρυθμοί</h5>
-                                    <p class="card-text">Μάθετε για τον Αραβικό ρυθμικό κύκλο <b>Ικά</b>, βασισμένο στους πρωτογενείς κρουστικούς ήχους <em>ντουμ</em> και <em>τακ</em>.
+                                    <p class="card-text">Μάθετε για τον Αραβικό ρυθμικό κύκλο <b>Ικά</b>, βασισμένος στους πρωτογενείς κρουστικούς ήχους <em>ντουμ</em> και <em>τακ</em>.
                                     </p>
                                     <a href="/el/iqaa.php" class="btn btn-primary">Ρυθμοί<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
