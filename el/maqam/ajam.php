@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Maqam ‘Ajam";
 $page_description = "Maqam ‘Ajam";
 $page_keywords = "musique arabe, mode arabe, maqam, jins, ajam, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
-$page_language = "fr";
+$page_language = "el";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="maqams-page">
 
     <?php
-      $page = "fr/maqam/ajam.php";
+      $page = "el/maqam/ajam.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -146,7 +146,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
 
-    <?php include($ROOT . 'fr/footer.php'); ?>
+    <?php include($ROOT . 'el/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
 
 </body>

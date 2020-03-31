@@ -40,7 +40,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                       <div class="notation" id="notation1">
-                        <img src="/note/maqam/saba.png" class="img-fluid" usemap="#notemap">
+                        <img src="../note/maqam/saba.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
                         <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
