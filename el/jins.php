@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="page-list-header">Τετράχορδα</div>
                                 <!-- Header Cell: "4-note" -->
                                 <ul class="page-list">
-                                   <li><a href="jins/bayati.php">Τζινς	Μπαϊάτι</a></li>
+                                   <li><a href="jins/bayati.php">Τζινς Μπαϊάτι</a></li>
                                    <li><a href="jins/upper_ajam.php">Τζινς Άνω Άτζαμ</a></li>
                                    <li><a href="jins/upper_rast.php">Τζινς Άνω Ραστ</a></li>
                                    <li><a href="jins/hijaz.php">Τζινς Χιτζάζ</a></li>

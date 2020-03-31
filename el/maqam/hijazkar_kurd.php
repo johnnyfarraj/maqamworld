@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Hijazkar Kurd";
-$page_description = "Maqam Hijazkar Kurd";
-$page_keywords = "musique arabe, mode arabe, maqam, jins, ajam, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
+$page_title = "Μακάμ Χιτζασκάρ Κουρντ";
+$page_description = "Μακάμ Χιτζασκάρ Κουρντ";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Hijazkar Kurd</h1>
-                        <h3>Membre de la <a href="f_kurd.php">Famille du Maqam Kurd</a></h3>
+                        <h1>Μακάμ Χιτζασκάρ Κουρντ</h1>
+                        <h3>Membre de la <a href="f_kurd.php">Οικογένεια Μακάμ Κουρντ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
@@ -64,9 +64,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="323,146,495,172" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Maqam Hijazkar Kurd est une version archaïque du <a href="kurd.php">Maqam Kurd</a> composé du <a href="../jins/hijazkar.php">Jins Hijazkar</a> à l'octave supérieure. Sa gamme commence avec le <a href="../jins/kurd.php">Jins Kurd</a> comme jins de base sur la tonique, suivi du <a href="../jins/nahawand.php">Jins Nahawand</a> sur le 4<sup>ième</sup> degré.</p>
+                    <p>Le Μακάμ Χιτζασκάρ Κουρντ est une version archaïque du <a href="kurd.php">Μακάμ Κουρντ</a> composé du <a href="../jins/hijazkar.php">Τζινς Χιτζάζkar</a> à l'octave supérieure. Sa gamme commence avec le <a href="../jins/kurd.php">Τζινς Κουρντ</a> comme jins de base sur la tonique, suivi du <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> sur le 4<sup>ième</sup> degré.</p>
 
-                    <p>Explorez d'autres maqams dans la <a href="f_kurd.php">Famille du Maqam Kurd</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_kurd.php">Οικογένεια Μακάμ Κουρντ</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

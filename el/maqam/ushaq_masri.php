@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam ‘Ouchaq Masri";
-$page_description = "Maqam ‘Ouchaq Masri";
+$page_title = "Μακάμ Ουσάκ Μάσρι";
+$page_description = "Μακάμ Ουσάκ Μάσρι";
 $page_keywords = "musique arabe, mode arabe, maqam, jins, nahawand murassaa, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
 $page_language = "el";
 
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam ‘Ouchaq Masri</h1>
-                        <h3>Membre de la <a href="f_nahawand.php">Famille du Maqam Nahawand</a></h3>
+                        <h1>Μακάμ Ουσάκ Μάσρι</h1>
+                        <h3>Membre de la <a href="f_nahawand.php">Οικογένεια Μακάμ Ναχαουάντ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
@@ -62,9 +62,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="414,9,548,40" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Maqam ‘Ouchaq Masri est une variation du <a href="nahawand.php">Maqam Nahawand</a> avec le <a href="../jins/bayati.php">Jins Bayati</a> sur le 5<sup>ième</sup> degré (le <em>ghammaz</em>), au-dessus du Jins de base <a href="../jins/nahawand.php">Nahawand</a> sur le 1er degré.</p>
+                    <p>Le Μακάμ Ουσάκ Μάσρι est une variation du <a href="nahawand.php">Μακάμ Ναχαουάντ</a> avec le <a href="../jins/bayati.php">Τζινς Μπαϊάτι</a> sur le 5<sup>ième</sup> degré (le <em>ghammaz</em>), au-dessus du Jins de base <a href="../jins/nahawand.php">Nahawand</a> sur le 1er degré.</p>
 
-                    <p>Explorez d'autres maqams dans la <a href="f_nahawand.php">Famille du Maqam Nahawand</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_nahawand.php">Οικογένεια Μακάμ Ναχαουάντ</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

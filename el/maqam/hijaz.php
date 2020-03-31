@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Hijaz";
-$page_description = "Maqam Hijaz";
-$page_keywords = "musique arabe, mode arabe, maqam, jins, ajam, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
+$page_title = "Μακάμ Χιτζάζ";
+$page_description = "Μακάμ Χιτζάζ";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Hijaz</h1>
-                        <h3>Le maqam principal dans la <a href="f_hijaz.php">Famille du Maqam Hijaz</a></h3>
+                        <h1>Μακάμ Χιτζάζ</h1>
+                        <h3>Le maqam principal dans la <a href="f_hijaz.php">Οικογένεια Μακάμ Χιτζάζ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
@@ -67,9 +67,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="775,5,886,36" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 
 				     </map>
-                    <p>Le Maqam Hijaz est le maqam principal de la <a href="f_hijaz.php">Famille du Maqam Hijaz</a>. Sa gamme commence avec le <a href="../jins/hijaz.php">Jins Hijaz</a> comme jins de base sur la tonique, suivi du <a href="../jins/nahawand.php">Jins Nahawand</a> ou du <a href="../jins/rast.php">Jins Rast</a> sur le <em>ghammaz</em> au 4<sup>ième</sup> degré.</p>
+                    <p>Le Μακάμ Χιτζάζ est le maqam principal de la <a href="f_hijaz.php">Οικογένεια Μακάμ Χιτζάζ</a>. Sa gamme commence avec le <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> comme jins de base sur la tonique, suivi du <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> ou du <a href="../jins/rast.php">Τζινς Ραστ</a> sur le <em>ghammaz</em> au 4<sup>ième</sup> degré.</p>
 
-                    <p>Explorez d'autres maqams dans la <a href="f_hijaz.php">Famille du Maqam Hijaz</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_hijaz.php">Οικογένεια Μακάμ Χιτζάζ</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -185,7 +185,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Doulab et Taqsim au Nay en Maqam Hijaz</b>
+                                    <b>Doulab et Taqsim au Nay en Μακάμ Χιτζάζ</b>
                                     <span>Sabah Fakhri (Syrie)</span>
                                     <span><img src="/img/cd.png"> Nagham al-Ams Vol. 14 Hijaz</span>
                                 </div>

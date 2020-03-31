@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Lami";
-$page_description = "Maqam Lami";
-$page_keywords = "musique arabe, mode arabe, maqam, jins, ajam, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
+$page_title = "Μακάμ Λάμι";
+$page_description = "Μακάμ Λάμι";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -29,7 +29,7 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Lami</h1>
+                        <h1>Μακάμ Λάμι</h1>
                         <h3>(n'apartient pas à une famille de maqams)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
@@ -60,7 +60,7 @@ include($ROOT . 'inc/head.php');
 
 				     </map>
 
-                    <p>Le Maqam Lami est un maqam très rare au Moyen-Orient et a été emprunté au Maqam Iraquien. Il commence avec le <a href="../jins/lami.php">Jins Lami</a> sur la tonique, suivi du <a href="../jins/kurd.php">Jins Kurd</a> sur le 4<sup>ième</sup> degré.
+                    <p>Le Μακάμ Λάμι est un maqam très rare au Moyen-Orient et a été emprunté au Maqam Iraquien. Il commence avec le <a href="../jins/lami.php">Jins Lami</a> sur la tonique, suivi du <a href="../jins/kurd.php">Τζινς Κουρντ</a> sur le 4<sup>ième</sup> degré.
                     </p>
 
                     <div class="player-area">

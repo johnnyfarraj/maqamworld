@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Famille du Maqam Hijaz";
-$page_description = "Famille du Maqam Hijaz";
+$page_title = "Οικογένεια Μακάμ Χιτζάζ";
+$page_description = "Οικογένεια Μακάμ Χιτζάζ";
 $page_keywords = "musique arabe, mode arabe, maqam, hijaz, family, jins, iqa‘, iqaa, rhythme, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient, tarab";
 $page_language = "el";
 
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading text-center jins">
-                        <h1>La Famille du Maqam Hijaz</h1>
-                        <h3>Les Maqams qui commencent avec le <a href="../jins/hijaz.php">Jins Hijaz</a></h3>
+                        <h1>La Οικογένεια Μακάμ Χιτζάζ</h1>
+                        <h3>Les Maqams qui commencent avec le <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
@@ -39,27 +39,27 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/hijaz.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Hijaz</a>
                     </div>
 
-                    <p>La Famille du Maqam Hijaz est faite des <em>maqams</em> qui commencent avec le <a href="../jins/hijaz.php">Jins Hijaz</a>.</p>
+                    <p>La Οικογένεια Μακάμ Χιτζάζ est faite des <em>maqams</em> qui commencent avec le <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a>.</p>
 
                     
                     <ul>
-                        <li><a href="hijaz.php">Maqam Hijaz</a></li>
-                        <li><a href="hijazkar.php">Maqam Hijazkar</a></li>
-                        <li><a href="hijazkar.php">Maqam Chadd ‘Arabane</a></li>
-                        <li><a href="hijazkar.php">Maqam Chahnaz</a></li>
-                        <li><a href="hijazkar.php">Maqam Suzidil</a></li>
-                        <li><a href="zanjaran.php">Maqam Zanjarane</a></li>
+                        <li><a href="hijaz.php">Μακάμ Χιτζάζ</a></li>
+                        <li><a href="hijazkar.php">Μακάμ Χιτζασκάρ</a></li>
+                        <li><a href="hijazkar.php">Μακάμ Σαντ Αραμπάν</a></li>
+                        <li><a href="hijazkar.php">Μακάμ Σαχνάζ</a></li>
+                        <li><a href="hijazkar.php">Μακάμ Σουζιντίλ</a></li>
+                        <li><a href="zanjaran.php">Μακάμ Ζαντζαράν</a></li>
                     </ul>
 
                     <p>Les autres familles de <em>maqams</em>:</p>
                     <ul>
-                        <li><a href="f_ajam.php">Famille du Maqam ‘Ajam</a></li>
-                        <li><a href="f_bayati.php">Famille du Maqam Bayati</a></li>
-                        <li><a href="f_kurd.php">Famille du Maqam Kurd</a></li>
-                        <li><a href="f_nahawand.php">Famille du Maqam Nahawand</a></li>
-                        <li><a href="f_nikriz.php">Famille du Maqam Nikriz</a></li>
-                        <li><a href="f_rast.php">Famille du Maqam Rast</a></li>
-                        <li><a href="f_sikah.php">Famille du Maqam Sikah</a></li>
+                        <li><a href="family/ajam.php">Οικογένεια Μακάμ Άτζαμ</a></li>
+                        <li><a href="family/bayati.php">Οικογένεια Μακάμ Μπαϊάτι</a></li>
+                        <li><a href="family/kurd.php">Οικογένεια Μακάμ Κουρντ</a></li>
+                        <li><a href="family/nahawand.php">Οικογένεια Μακάμ Ναχαουάντ</a></li>
+                        <li><a href="family/nikriz.php">Οικογένεια Μακάμ Νικρίζ</a></li>
+                        <li><a href="family/rast.php">Οικογένεια Μακάμ Ραστ</a></li>
+                        <li><a href="family/sikah.php">Οικογένεια Μακάμ Σίκα</a></li>
                     </ul>
 
                 </div>

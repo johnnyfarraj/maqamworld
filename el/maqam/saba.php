@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Saba";
-$page_description = "Maqam Saba";
+$page_title = "Μακάμ Σάμπα";
+$page_description = "Μακάμ Σάμπα";
 $page_keywords = "musique arabe, mode arabe, maqam, jins, saba, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
 $page_language = "el";
 
@@ -29,7 +29,7 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Saba</h1>
+                        <h1>Μακάμ Σάμπα</h1>
                         <h3>(n'apartient pas à une famille de maqams)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
@@ -65,9 +65,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="548,143,680,173" href="../jins/nikriz.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Maqam Saba est un maqam très commun et très populaire dans le répertoire de la musique arabe. Sa gamme commence avec le <a href="../jins/saba.php">Jins Saba</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Jins Hijaz</a> sur le 3<sup>ième</sup> degré, et finalement du <a href="../jins/ajam.php">Jins ‘Ajam</a> ou du <a href="../jins/nikriz.php">Jins Nikriz</a> sur le 6<sup>ième</sup> degré.</p>
+                    <p>Le Μακάμ Σάμπα est un maqam très commun et très populaire dans le répertoire de la musique arabe. Sa gamme commence avec le <a href="../jins/saba.php">Jins Saba</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> sur le 3<sup>ième</sup> degré, et finalement du <a href="../jins/ajam.php">Τζινς Άτζαμ</a> ou du <a href="../jins/nikriz.php">Τζινς Νικρίζ</a> sur le 6<sup>ième</sup> degré.</p>
 
-                    <p>Maqam Saba ne fait pas partie d'une famille de maqams.</p>
+                    <p>Μακάμ Σάμπα ne fait pas partie d'une famille de maqams.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -80,7 +80,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Doulab, Taqsim au Nay et Layai en Maqam Saba</b>
+                                    <b>Doulab, Taqsim au Nay et Layai en Μακάμ Σάμπα</b>
                                     <span>L'ensemble de Sabri al-Moudallal (Syrie)</span>
                                 </div>
                             </label>

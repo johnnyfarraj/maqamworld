@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Kurd";
-$page_description = "Maqam Kurd";
-$page_keywords = "musique arabe, mode arabe, maqam, jins, ajam, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
+$page_title = "Μακάμ Κουρντ";
+$page_description = "Μακάμ Κουρντ";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Kurd</h1>
-                        <h3>Le maqam principal dans la <a href="f_kurd.php">Famille du Maqam Kurd</a></h3>
+                        <h1>Μακάμ Κουρντ</h1>
+                        <h3>Le maqam principal dans la <a href="f_kurd.php">Οικογένεια Μακάμ Κουρντ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
@@ -61,9 +61,9 @@ include($ROOT . 'inc/head.php');
 
 				     </map>
 
-                    <p>Le Maqam Kurd est le maqam principal de la <a href="f_kurd.php">famille du Maqam Kurd</a>. Il commence avec le jins de base <a href="../jins/kurd.php">Kurd</a> sur la tonique, suivi du <a href="../jins/nahawand.php">Jins Nahawand</a> sur le 4<sup>ième</sup> degré.</p>
+                    <p>Le Μακάμ Κουρντ est le maqam principal de la <a href="f_kurd.php">Οικογένεια Μακάμ Κουρντ</a>. Il commence avec le jins de base <a href="../jins/kurd.php">Kurd</a> sur la tonique, suivi du <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> sur le 4<sup>ième</sup> degré.</p>
 
-                    <p>Explorez d'autres maqams dans la <a href="f_kurd.php">Famille du Maqam Kurd</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_kurd.php">Οικογένεια Μακάμ Κουρντ</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

@@ -115,7 +115,8 @@ include($ROOT . 'inc/head.php');
                                 <img class="card-img-top" src="/img/vladimir_tamari.png" alt="The Arabic Oud">
                                 <div class="card-body">
                                     <h5 class="card-title">Δημοσιεύσεις</h5>
-                                    <p class="card-text">Μάθετε το βιβλίου <strong>Inside Arabic Music</strong> (από κοινού συγγραφική δουλειά με τον Σάμι Αμπού Σουμάις) το οποίο κυκλοφόρησε τον Αύγουστο του 2019.
+                                    <p class="card-text">
+                                        Μάθετε για το βιβλίο <strong>Inside Arabic Music</strong> (από κοινού συγγραφική δουλειά με τον Σάμι Αμπού Σουμάις) το οποίο κυκλοφόρησε τον Αύγουστο του 2019.
                                     </p>
                                     <a href="/el/book.php" class="btn btn-primary">Δημοσιεύσεις<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>

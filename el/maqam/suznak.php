@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Suznak";
-$page_description = "Maqam Suznak";
+$page_title = "Μακάμ Σουνζάκ";
+$page_description = "Μακάμ Σουνζάκ";
 $page_keywords = "musique arabe, mode arabe, maqam, jins, suznak, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
 $page_language = "el";
 
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Suznak</h1>
-                        <h3>Membre de la <a href="f_rast.php">Famille du Maqam Rast</a></h3>
+                        <h1>Μακάμ Σουνζάκ</h1>
+                        <h3>Membre de la <a href="f_rast.php">Οικογένεια Μακάμ Ραστ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
@@ -61,9 +61,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="422,8,546,35" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Maqam Suznak est la modulation la plus populaire à partir du <a href="rast.php">Maqam Rast</a>. La modulation vers le <a href="../jins/hjaz.php">Jins Hijaz</a> sur la quinte est pratiquement obligatoire dans toute <a href="../form/improv.php">improvisation</a> commençant avec le <a href="jns/rast.php">Jins Rast</a> de base.</p>
+                    <p>Le Μακάμ Σουνζάκ est la modulation la plus populaire à partir du <a href="rast.php">Μακάμ Ραστ</a>. La modulation vers le <a href="../jins/hjaz.php">Τζινς Χιτζάζ</a> sur la quinte est pratiquement obligatoire dans toute <a href="../form/improv.php">improvisation</a> commençant avec le <a href="jns/rast.php">Τζινς Ραστ</a> de base.</p>
 
-                    <p>Explorez d'autres maqams dans la <a href="f_rast.php">Famille du Maqam Rast</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_rast.php">Οικογένεια Μακάμ Ραστ</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -127,7 +127,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim au Qanoun en Maqam Suznak</b>
+                                    <b>Taqsim au Qanoun en Μακάμ Σουνζάκ</b>
                                     <span>Abraham Salman (Irak)</span>
                                     <span><img src="/img/cd.png"> Saltanah</span>
                                 </div>

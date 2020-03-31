@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Sikah Baladi";
-$page_description = "Maqam Sikah Baladi";
+$page_title = "Μακάμ Σίκα Μπάλαντι";
+$page_description = "Μακάμ Σίκα Μπάλαντι";
 $page_keywords = "musique arabe, mode arabe, maqam, jins, sikah baladi, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
 $page_language = "el";
 
@@ -29,7 +29,7 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Sikah Baladi</h1>
+                        <h1>Μακάμ Σίκα Μπάλαντι</h1>
                         <h3>(n'apartient pas à une famille de maqams)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
@@ -65,7 +65,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="272,184,636,213" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
 
                       </map>
-                    <p>Le Maqam Sikah Baladi est probablement le maqam arabe le plus difficile. Sa gamme (et son <em>sayr</em>) est en quelque sorte un hybride entre le <a href="huzam.php">Maqam Houzam</a> sur une note Sikah non conventionnelle, et du <a href="hijazkar.php">Maqam Hijazkar</a>. Les intervalles sont différents de ces derniers quoiqu'ils qu'ils sonnent un peu comme eux. Aucun des intervalles qui le composent ne correspond à une intonation juste ou à tempérament égale, ce qui rend ce maqam impossible à jouer sur un instrument autre qu'un <a href="../instr.php">instrument traditionnel arabe</a>.</p>
+                    <p>Le Μακάμ Σίκα Μπάλαντι est probablement le maqam arabe le plus difficile. Sa gamme (et son <em>sayr</em>) est en quelque sorte un hybride entre le <a href="huzam.php">Μακάμ Χουζάμ</a> sur une note Sikah non conventionnelle, et du <a href="hijazkar.php">Μακάμ Χιτζασκάρ</a>. Les intervalles sont différents de ces derniers quoiqu'ils qu'ils sonnent un peu comme eux. Aucun des intervalles qui le composent ne correspond à une intonation juste ou à tempérament égale, ce qui rend ce maqam impossible à jouer sur un instrument autre qu'un <a href="../instr.php">instrument traditionnel arabe</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

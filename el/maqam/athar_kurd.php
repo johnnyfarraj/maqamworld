@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Athar Kurd";
-$page_description = "Maqam Athar Kurd";
+$page_title = "Μακάμ Άθαρ Κουρντ";
+$page_description = "Μακάμ Άθαρ Κουρντ";
 $page_keywords = "musique arabe, maqam, instruments, jins, iqa‘, iqaa, rythme, oud, qanoun, nay, quart de ton, tarab";
 $page_language = "el";
 
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Athar Kurd</h1>
-                        <h3>Membre de la <a href="f_nikriz.php">Famille du Maqam Nikriz</a></h3>
+                        <h1>Μακάμ Άθαρ Κουρντ</h1>
+                        <h3>Membre de la <a href="f_nikriz.php">Οικογένεια Μακάμ Νικρίζ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
@@ -61,11 +61,11 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="337,144,483,175" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
                     </map>
 
-                    <p>Le Maqam Athar Kurd est un <em>maqam</em> très rare qui semble être une invention du 20<sup>ième</sup> siècle. Sa gamme commence avec le <a href="../jins/athar_kurd.php">Athar Kurd</a> sur la tonique, suivi du <a href="../jins/hijazkar.php">Jins Hijazkar</a> concentré autour du 5<sup>ième</sup> degré.
+                    <p>Le Μακάμ Άθαρ Κουρντ est un <em>maqam</em> très rare qui semble être une invention du 20<sup>ième</sup> siècle. Sa gamme commence avec le <a href="../jins/athar_kurd.php">Athar Kurd</a> sur la tonique, suivi du <a href="../jins/hijazkar.php">Τζινς Χιτζάζkar</a> concentré autour du 5<sup>ième</sup> degré.
 		          </p>
-                    <p>La gamme du Maqam Athar Kurd est un hybride entre le <a href="nawa_athar.php">Maqam Nawa Athar</a> et le <a href="kurd.php">Maqam Kurd</a>, d'où son nom.
+                    <p>La gamme du Μακάμ Άθαρ Κουρντ est un hybride entre le <a href="nawa_athar.php">Μακάμ Ναουάθαρ</a> et le <a href="kurd.php">Μακάμ Κουρντ</a>, d'où son nom.
 		          </p>
-                    <p>Explorez d'autres maqams dans la <a href="f_nikriz.php">Famille du Maqam Nikriz</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_nikriz.php">Οικογένεια Μακάμ Νικρίζ</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -157,7 +157,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim de Oud en Maqam Athar Kurd</b>
+                                    <b>Taqsim de Oud en Μακάμ Άθαρ Κουρντ</b>
                                     <span>Mouhammad Qadri Dalal (Syrie)</span>
                                     <span><img src="/img/cd.png"> Maqams Insolites</span>
                                 </div>

@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Bastanikar";
-$page_description = "Maqam Bastanikar";
+$page_title = "Μακάμ Μπαστανικάρ";
+$page_description = "Μακάμ Μπαστανικάρ";
 $page_keywords = "musique arabe, mode arabe, maqam, jins, sikah, bastanikar, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
 $page_language = "el";
 
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Bastanikar</h1>
-                        <h3>Membre de la <a href="f_sikah.php">Famille du Maqam Sikah</a></h3>
+                        <h1>Μακάμ Μπαστανικάρ</h1>
+                        <h3>Membre de la <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
@@ -68,9 +68,9 @@ include($ROOT . 'inc/head.php');
 
 				      </map>
 
-                    <p>Le Maqam Bastanikar est en fait le <a href="../jins/sikah.php">Jins Sikah</a> suivi du <a href="saba.php">Maqam Saba</a>. Il commence avec le <a href="../jins/sikah.php">Jins Sikah</a> comme jins de base sur la tonique, suivi du <a href="../jins/saba.php">Jins Saba</a> sur le 3<sup>ième</sup> degré, un <a href="../jins/hijaz.php">Jins Hijaz</a> *overlapping* sur le 5<sup>ième</sup> degré et finalement, un <a href="../jins/nikriz.php">Jins Nikriz</a> à l'octave supérieure.</p>
+                    <p>Le Μακάμ Μπαστανικάρ est en fait le <a href="../jins/sikah.php">Τζινς Σίκα</a> suivi du <a href="saba.php">Μακάμ Σάμπα</a>. Il commence avec le <a href="../jins/sikah.php">Τζινς Σίκα</a> comme jins de base sur la tonique, suivi du <a href="../jins/saba.php">Jins Saba</a> sur le 3<sup>ième</sup> degré, un <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> *overlapping* sur le 5<sup>ième</sup> degré et finalement, un <a href="../jins/nikriz.php">Τζινς Νικρίζ</a> à l'octave supérieure.</p>
 
-                    <p>Explorez d'autres maqams dans la <a href="f_sikah.php">Famille du Maqam Sikah</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -162,7 +162,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Oud en Maqam Bastanikar</b>
+                                    <b>Taqsim Oud en Μακάμ Μπαστανικάρ</b>
                                     <span>Mouhammad Qadri Dalal (Syrie)</span>
                                     <span><img src="/img/cd.png"> Maqams Insolites</span>
                                 </div>
@@ -175,7 +175,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim de Oud en <a href="../maqam/sikah.php">Maqam Sikah</a></b>
+                                    <b>Taqsim de Oud en <a href="../maqam/sikah.php">Μακάμ Σίκα</a></b>
                                     <span>Riyad al-Soumbati (Égypte)</span>
                                     <span><img src="/img/cd.png"> Taqaseem Oud</span>
                                 </div>

@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam ‘Iraq";
-$page_description = "Maqam ‘Iraq";
-$page_keywords = "musique arabe, mode arabe, maqam, jins, ajam, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
+$page_title = "Μακάμ Ιράκ";
+$page_description = "Μακάμ Ιράκ";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam ‘Iraq</h1>
-                        <h3>Membre de la <a href="f_sikah.php">Famille du Maqam Sikah</a></h3>
+                        <h1>Μακάμ Ιράκ</h1>
+                        <h3>Membre de la <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
@@ -62,9 +62,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="485,5,592,33" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 	</map>
 
-                    <p>Le Maqam 'Iraq est un maqam de la <a href="f_sikah.php">famille Sikah</a> plutôt rare. Il est en général utilisé comme une modulation dans le sayr du <a href="huzam.php">Maqam Houzam</a>. Sa gamme commence avec le Jins de base <a href="../jins/sikah.php">Sikah</a> sur la tonique (Si<i class="icon-halfflat"></i>), suivi du <a href="../jins/bayati.php">Jins Bayati</a> sur le 3<sup>ième</sup> degré, et finalement du <a href="../jins/rast.php">Jins Rast</a> sur le 6<sup>ième</sup> degré.
+                    <p>Le Maqam 'Iraq est un maqam de la <a href="f_sikah.php">famille Sikah</a> plutôt rare. Il est en général utilisé comme une modulation dans le sayr du <a href="huzam.php">Μακάμ Χουζάμ</a>. Sa gamme commence avec le Jins de base <a href="../jins/sikah.php">Sikah</a> sur la tonique (Si<i class="icon-halfflat"></i>), suivi du <a href="../jins/bayati.php">Τζινς Μπαϊάτι</a> sur le 3<sup>ième</sup> degré, et finalement du <a href="../jins/rast.php">Τζινς Ραστ</a> sur le 6<sup>ième</sup> degré.
                     </p>
-                    <p>Explorez d'autres maqams dans la <a href="f_sikah.php">Famille du Maqam Sikah</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

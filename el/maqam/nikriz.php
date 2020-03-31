@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Nikriz";
-$page_description = "Maqam Nikriz";
+$page_title = "Μακάμ Νικρίζ";
+$page_description = "Μακάμ Νικρίζ";
 $page_keywords = "musique arabe, mode arabe, maqam, jins, nikriz, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
 $page_language = "el";
 
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Nikriz</h1>
-                        <h3>Le maqam principal dans la <a href="f_nikriz.php">Famille du Maqam Nikriz</a></h3>
+                        <h1>Μακάμ Νικρίζ</h1>
+                        <h3>Le maqam principal dans la <a href="f_nikriz.php">Οικογένεια Μακάμ Νικρίζ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
@@ -62,9 +62,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="454,6,584,34" href="../jins/nikriz.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Maqam Nikriz est le maqam principal de la <a href="f_nikriz.php">famille du Maqam Nikriz</a>. Sa gamme commence à la base avec le <a href="../jins/nikriz.php">Jins Nikriz</a> sur la tonique, suivi du <a href="../jins/nahawand.php">Jins Nahawand</a> sur le 5<sup>ième</sup> degré.
+                    <p>Le Μακάμ Νικρίζ est le maqam principal de la <a href="f_nikriz.php">Οικογένεια Μακάμ Νικρίζ</a>. Sa gamme commence à la base avec le <a href="../jins/nikriz.php">Τζινς Νικρίζ</a> sur la tonique, suivi du <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> sur le 5<sup>ième</sup> degré.
                     </p>
-                    <p>Explorez d'autres maqams dans la <a href="f_nikriz.php">Famille du Maqam Nikriz</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_nikriz.php">Οικογένεια Μακάμ Νικρίζ</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

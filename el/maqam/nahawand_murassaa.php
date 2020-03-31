@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Nahawand Mourassa‘";
-$page_description = "Maqam Nahawand Mourassa‘";
+$page_title = "Μακάμ Ναχαουάντ Μουράσα";
+$page_description = "Μακάμ Ναχαουάντ Μουράσα";
 $page_keywords = "musique arabe, mode arabe, maqam, jins, nahawand murassaa, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
 $page_language = "el";
 
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Nahawand Mourassa‘</h1>
-                        <h3>Membre de la <a href="f_nahawand.php">Famille du Maqam Nahawand</a></h3>
+                        <h1>Μακάμ Ναχαουάντ Μουράσα</h1>
+                        <h3>Membre de la <a href="f_nahawand.php">Οικογένεια Μακάμ Ναχαουάντ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
@@ -60,10 +60,10 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="337,141,454,174" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Maqam Nahawand Murassa' est en gros le <a href="nahawand.php">Maqam Nahawand</a> avec une quinte abaissée. Sa gamme commence avec le <a href="../jins/nahawand_murassaa.php">Jins Nahawand Mourassa‘</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Jins Hijaz</a> sur le 4<sup>ième</sup> degré.
+                    <p>Le Μακάμ Ναχαουάντ Murassa' est en gros le <a href="nahawand.php">Μακάμ Ναχαουάντ</a> avec une quinte abaissée. Sa gamme commence avec le <a href="../jins/nahawand_murassaa.php">Τζινς Ναχαουάντ Mourassa‘</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> sur le 4<sup>ième</sup> degré.
                     </p>
 
-                    <p>Explorez d'autres maqams dans la <a href="f_nahawand.php">Famille du Maqam Nahawand</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_nahawand.php">Οικογένεια Μακάμ Ναχαουάντ</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Suzdalara";
-$page_description = "Maqam Suzdalara";
+$page_title = "Μακάμ Σουζνταλάρα";
+$page_description = "Μακάμ Σουζνταλάρα";
 $page_keywords = "musique arabe, mode arabe, maqam, jins, suzdalara, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
 $page_language = "el";
 
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Suzdalara</h1>
-                        <h3>Membre de la <a href="f_rast.php">Famille du Maqam Rast</a></h3>
+                        <h1>Μακάμ Σουζνταλάρα</h1>
+                        <h3>Membre de la <a href="f_rast.php">Οικογένεια Μακάμ Ραστ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
@@ -60,9 +60,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="392,7,504,35" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 
                     </map>
-                    <p>Le Maqam Suzdalara est un maqam assez archaïque et presque inexistant en tant que maqam indépendant, même si son sayr est obligatoire pour presque toute performance et chanson dans le <a href="rast.php">Maqam Rast</a>: le <a href="../jins/nahawand.php">Jins Nahawand</a> sur le 5<sup>ième</sup> degré du <a href="rast.php">Maqam Rast</a> est une transition obligatoire à partir d'autres modulations pour signaler le retour vers le Jins de base <a href="../jins/rast.php">Rast</a> sur la tonique.</p>
+                    <p>Le Μακάμ Σουζνταλάρα est un maqam assez archaïque et presque inexistant en tant que maqam indépendant, même si son sayr est obligatoire pour presque toute performance et chanson dans le <a href="rast.php">Μακάμ Ραστ</a>: le <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> sur le 5<sup>ième</sup> degré du <a href="rast.php">Μακάμ Ραστ</a> est une transition obligatoire à partir d'autres modulations pour signaler le retour vers le Jins de base <a href="../jins/rast.php">Rast</a> sur la tonique.</p>
 
-                    <p>Explorez d'autres maqams dans la <a href="f_rast.php">Famille du Maqam Rast</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_rast.php">Οικογένεια Μακάμ Ραστ</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

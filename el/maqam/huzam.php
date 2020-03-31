@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Houzam/Rahat al-Arwah";
-$page_description = "Maqam Houzam/Rahat al-Arwah";
+$page_title = "Μακάμ Χουζάμ/Rahat al-Arwah";
+$page_description = "Μακάμ Χουζάμ/Rahat al-Arwah";
 $page_keywords = "musique arabe, mode arabe, maqam, jins, sikah, huzam, rahat al-arwah, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
 $page_language = "el";
 
@@ -29,9 +29,9 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Houzam</h1>
-                        <h1>Maqam Rahat al-Arwah</h1>
-                        <h3>Membre de la <a href="f_sikah.php">Famille du Maqam Sikah</a></h3>
+                        <h1>Μακάμ Χουζάμ</h1>
+                        <h1>Μακάμ Ράχατ αλ-Αρουά</h1>
+                        <h3>Membre de la <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
@@ -66,12 +66,12 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="484,7,591,35" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <p>Le Maqam Houzam est le maqam le plus courant de la <a href="f_sikah.php">famille du Maqam Sikah</a>. Il commence sur Mi<i class="icon-halfflat"></i>. Sa gamme commence avec le jins de base <a href="../jins/sikah.php">Jins Sikah</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Jins Hijaz</a> sur le 3<sup>ième</sup> degré,  et finalement du <a href="../jins/rast.php">Jins Rast</a> sur le 6<sup>ième</sup> degré.
+                    <p>Le Μακάμ Χουζάμ est le maqam le plus courant de la <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a>. Il commence sur Mi<i class="icon-halfflat"></i>. Sa gamme commence avec le jins de base <a href="../jins/sikah.php">Τζινς Σίκα</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> sur le 3<sup>ième</sup> degré,  et finalement du <a href="../jins/rast.php">Τζινς Ραστ</a> sur le 6<sup>ième</sup> degré.
                     </p>
 
-                    <p>La transposition du Maqam Houzam sur Si<i class="icon-halfflat"></i> porte le nom de <strong>Maqam Rahat al-Arwah</strong>. Les deux <em>maqams</em> ont exactement le même <em>sayr</em>.</p>
+                    <p>La transposition du Μακάμ Χουζάμ sur Si<i class="icon-halfflat"></i> porte le nom de <strong>Μακάμ Ράχατ αλ-Αρουά</strong>. Les deux <em>maqams</em> ont exactement le même <em>sayr</em>.</p>
 
-                    <p>Explorez d'autres maqams dans la <a href="f_sikah.php">Famille du Maqam Sikah</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Mouachah Ya Ghousna Naqa</b>
-                                    <span>(Maqam Houzam)</span>
+                                    <span>(Μακάμ Χουζάμ)</span>
                                     <span>Ensemble de la Musique Arabe (Égypte)</span>
                                 </div>
                             </label>
@@ -134,7 +134,7 @@ include($ROOT . 'inc/head.php');
 
                     <!-- Start Rahat al-Arwah section -->
                     <div class="heading jins text-center">
-                        <h3>Maqam Rahat al-Arwah examples</h3>
+                        <h3>Μακάμ Ράχατ αλ-Αρουά examples</h3>
                     </div>
                     <div class="clearfix"></div>
 
@@ -170,7 +170,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr Inta Fahim</b>
-                                    <span>(Maqam Rahat al-Arwah)</span>
+                                    <span>(Μακάμ Ράχατ αλ-Αρουά)</span>
                                     <span>Interprétation et Musique de Zakaria Ahmad</span>
                                 </div>
                             </label>

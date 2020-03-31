@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Hijazkar";
-$page_description = "Maqam Hijazkar";
+$page_title = "Μακάμ Χιτζασκάρ";
+$page_description = "Μακάμ Χιτζασκάρ";
 $page_keywords = "musique arabe, mode arabe, maqam, jins, hijaz kar, hijazkar, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
 $page_language = "el";
 
@@ -29,11 +29,11 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Hijazkar (ou Hijaz Kar)</h1>
-                        <h1>Maqam Chadd ‘Arabane</h1>
-                        <h1>Maqam Suzidil</h1>
-                        <h1>Maqam Chahnaz</h1>
-                        <h3>Membre de la <a href="f_hijaz.php">Famille du Maqam Hijaz</a></h3>
+                        <h1>Μακάμ Χιτζασκάρ (ou Hijaz Kar)</h1>
+                        <h1>Μακάμ Σαντ Αραμπάν</h1>
+                        <h1>Μακάμ Σουζιντίλ</h1>
+                        <h1>Μακάμ Σαχνάζ</h1>
+                        <h3>Membre de la <a href="f_hijaz.php">Οικογένεια Μακάμ Χιτζάζ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
@@ -75,17 +75,17 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="604,7,720,37" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Maqam Hijazkar est la variante la plus commune du <a href="hijaz.php">Maqam Hijaz</a>. Sa gamme commence avec le <a href="../jins/hijaz.php">Jins Hijaz</a> comme jins de base sur la tonique, suivi du <a href="../jins/nikriz.php">Jins Nikriz</a> sur le 4<sup>ième</sup> degré et finalement, du <a href="../jins/hijazkar.php">Jins Hijazkar</a> à l'octave supérieure.
+                    <p>Le Μακάμ Χιτζασκάρ est la variante la plus commune du <a href="hijaz.php">Μακάμ Χιτζάζ</a>. Sa gamme commence avec le <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> comme jins de base sur la tonique, suivi du <a href="../jins/nikriz.php">Τζινς Νικρίζ</a> sur le 4<sup>ième</sup> degré et finalement, du <a href="../jins/hijazkar.php">Τζινς Χιτζάζkar</a> à l'octave supérieure.
                     </p>
                     <p>
                     Pour des raisons historiques, 3 transpositions de ce maqam ont des noms différents (et avaient, il y a longtemps, un <em>sayr</em> différent):</p>
 					<p>
-					<li><strong>Maqam Chadd ‘Arabane</strong> (Hijazkar sur le bas Sol)</li>
-					<li><strong>Maqam Suzidil</strong> (Hijazkar sur le bas La)</li>
-					<li><strong>Maqam Chahnaz</strong> (Hijazkar sur le Ré)</li>
+					<li><strong>Μακάμ Σαντ Αραμπάν</strong> (Hijazkar sur le bas Sol)</li>
+					<li><strong>Μακάμ Σουζιντίλ</strong> (Hijazkar sur le bas La)</li>
+					<li><strong>Μακάμ Σαχνάζ</strong> (Hijazkar sur le Ré)</li>
 					</p>
 
-                    <p>Explorez d'autres maqams dans la <a href="f_hijaz.php">Famille du Maqam Hijaz</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_hijaz.php">Οικογένεια Μακάμ Χιτζάζ</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -176,7 +176,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim au Qanoun en Maqam Hijaz</b>
+                                    <b>Taqsim au Qanoun en Μακάμ Χιτζάζ</b>
                                     <span>Ensemble Sabri al-Moudallal</span>
                                     <span><img src="/img/cd.png"> Chansons d'Alep</span>
                                 </div>
@@ -203,7 +203,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Laha Badrou-t-Timm</b>
-                                    <span>(Maqam Suzidil)</span>
+                                    <span>(Μακάμ Σουζιντίλ)</span>
                                     <span>Ensemble de la Musique Arabe (Égypte)</span>
                                     <span>Musique de Mahmoud Soubh</span>
                                 </div>
@@ -217,7 +217,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ba‘attilak Ya Habib el-Rouh</b>
-                                    <span>(Maqam Chadd ‘Arabane)</span>
+                                    <span>(Μακάμ Σαντ Αραμπάν)</span>
                                     <span>Fairouz (Liban)</span>
                                     <span>Musique de Ziad Rahbani</span>
                                 </div>

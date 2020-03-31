@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Saba Zamzam";
-$page_description = "Maqam Saba Zamzam";
+$page_title = "Μακάμ Σάμπα Ζάμζαμ";
+$page_description = "Μακάμ Σάμπα Ζάμζαμ";
 $page_keywords = "musique arabe, mode arabe, maqam, jins, saba zamzam, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
 $page_language = "el";
 
@@ -29,7 +29,7 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Saba Zamzam</h1>
+                        <h1>Μακάμ Σάμπα Ζάμζαμ</h1>
                         <h3>(n'apartient pas à une famille de maqams)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
@@ -66,10 +66,10 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="548,145,680,174" href="../jins/nikriz.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Maqam Saba Zamzam est un maqam très rare dans le répertoire de la musique arabe. Sa gamme commence avec le <a href="../jins/saba_zamzam.php">Jins Saba Zamzam</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Jins Hijaz</a> sur le 3<sup>ième</sup> degré, et finalement du <a href="../jins/ajam.php">Jins ‘Ajam</a> ou du <a href="../jins/nikriz.php">Jins Nikriz</a> sur le 6<sup>ième</sup> degré.
+                    <p>Le Μακάμ Σάμπα Ζάμζαμ est un maqam très rare dans le répertoire de la musique arabe. Sa gamme commence avec le <a href="../jins/saba_zamzam.php">Jins Saba Zamzam</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> sur le 3<sup>ième</sup> degré, et finalement du <a href="../jins/ajam.php">Τζινς Άτζαμ</a> ou du <a href="../jins/nikriz.php">Τζινς Νικρίζ</a> sur le 6<sup>ième</sup> degré.
                     </p>
                     <p>
-                    Maqam Saba Zamzam ne fait pas partie d'une famille de maqams.</p>
+                    Μακάμ Σάμπα Ζάμζαμ ne fait pas partie d'une famille de maqams.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

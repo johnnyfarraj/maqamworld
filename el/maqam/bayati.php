@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Bayati";
-$page_description = "Maqam Bayati";
+$page_title = "Μακάμ Μπαϊάτι";
+$page_description = "Μακάμ Μπαϊάτι";
 $page_keywords = "musique arabe, maqam, instruments, jins, iqa‘, iqaa, rythme, oud, qanoun, nay, quart de ton, tarab";
 $page_language = "el";
 
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Bayati</h1>
-                        <h3>Le maqam principal dans la <a href="f_bayati.php">Famille du Maqam Bayati</a></h3>
+                        <h1>Μακάμ Μπαϊάτι</h1>
+                        <h3>Le maqam principal dans la <a href="f_bayati.php">Οικογένεια Μακάμ Μπαϊάτι</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
@@ -66,9 +66,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="783,8,890,37" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 
 				     </map>
-                    <p>Le Maqam Bayati est de loin l'un des maqams les plus populaires du répertoire de la musique arabe. C'est aussi le <em>maqam</em> principal de la <a href="f_bayati.php">Famille Bayati</a>. Il commence avec comme jins de base le <a href="../jins/bayati.php">Jins Bayati</a> sur la tonique, suivi du <a href="../jins/nahawand.php">Jins Nahawand</a> ou du <a href="../jins/rast.php">Jins Rast</a> sur le 4<sup>ième</sup> degré.
+                    <p>Le Μακάμ Μπαϊάτι est de loin l'un des maqams les plus populaires du répertoire de la musique arabe. C'est aussi le <em>maqam</em> principal de la <a href="f_bayati.php">Famille Bayati</a>. Il commence avec comme jins de base le <a href="../jins/bayati.php">Τζινς Μπαϊάτι</a> sur la tonique, suivi du <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> ou du <a href="../jins/rast.php">Τζινς Ραστ</a> sur le 4<sup>ième</sup> degré.
                     </p>
-                    <p>Explorez d'autres maqams dans la <a href="f_bayati.php">Famille du Maqam Bayati</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_bayati.php">Οικογένεια Μακάμ Μπαϊάτι</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

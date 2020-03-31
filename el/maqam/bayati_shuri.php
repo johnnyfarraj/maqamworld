@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Bayati Chouri";
-$page_description = "Maqam Bayati Chouri";
+$page_title = "Μακάμ Μπαϊάτι Σούρι";
+$page_description = "Μακάμ Μπαϊάτι Σούρι";
 $page_keywords = "musique arabe, mode arabe, maqam, jins, bayati shuri, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
 $page_language = "el";
 
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Bayati Chouri</h1>
-                        <h3>Membre de la <a href="f_bayati.php">Famille du Maqam Bayati</a></h3>
+                        <h1>Μακάμ Μπαϊάτι Σούρι</h1>
+                        <h3>Membre de la <a href="f_bayati.php">Οικογένεια Μακάμ Μπαϊάτι</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
@@ -61,11 +61,11 @@ include($ROOT . 'inc/head.php');
 
 					</map>
 
-                    <p>Maqam Bayati Chouri is a variation of <a href="bayati.php">Maqam Bayati</a> with a lowered 5<sup>th</sup> degree. It starts with the root <a href="../jins/bayati.php">Jins Bayati</a> on the <em>tonic</em> followed by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 4<sup>th</sup> degree.</p>
+                    <p>Μακάμ Μπαϊάτι Σούρι is a variation of <a href="bayati.php">Μακάμ Μπαϊάτι</a> with a lowered 5<sup>th</sup> degree. It starts with the root <a href="../jins/bayati.php">Τζινς Μπαϊάτι</a> on the <em>tonic</em> followed by <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> on the 4<sup>th</sup> degree.</p>
                     
                     <p>C'est un maqam très populaire, surtout pour les <a href="../form/vocal_comp.php">compositions vocales</a> dans les genres Mouachahat et Adwar.</p>
                     
-                    <p>Explorez d'autres maqams dans la <a href="f_bayati.php">Famille du Maqam Bayati</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_bayati.php">Οικογένεια Μακάμ Μπαϊάτι</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -90,7 +90,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim au Violon en Maqam Bayati Chouri</b>
+                                    <b>Taqsim au Violon en Μακάμ Μπαϊάτι Σούρι</b>
                                     <span><img src="/img/cd.png"> Nagham al-Ams Vol. 2 (Bayati Chouri)</span>
                                 </div>
                             </label>
@@ -167,7 +167,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim au Qanoun en Maqam Bayati Chouri</b>
+                                    <b>Taqsim au Qanoun en Μακάμ Μπαϊάτι Σούρι</b>
                                     <span>Marie Joubran</span>
                                     <span>Wasla en Bayati Chouri</span>
                                 </div>

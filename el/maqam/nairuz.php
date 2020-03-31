@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Nairouz/ Maqam Yakah";
-$page_description = "Maqam Nairouz/ Maqam Yakah";
+$page_title = "Μακάμ Ναϊρούζ/ Μακάμ Γιάκα";
+$page_description = "Μακάμ Ναϊρούζ/ Μακάμ Γιάκα";
 $page_keywords = "musique arabe, mode arabe, maqam, jins, nairuz, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
 $page_language = "el";
 
@@ -29,9 +29,9 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Nairouz</h1>
-                        <h1>Maqam Yakah</h1>
-                        <h3>Membre de la <a href="f_rast.php">Famille du Maqam Rast</a></h3>
+                        <h1>Μακάμ Ναϊρούζ</h1>
+                        <h1>Μακάμ Γιάκα</h1>
+                        <h3>Membre de la <a href="f_rast.php">Οικογένεια Μακάμ Ραστ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
@@ -65,14 +65,14 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="438,5,570,34" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
 					</map>
 
-                    <p>Le <strong>Maqam Nairuz</strong> commence avec le jins de base <a href="../jins/rast.php">Rast</a> sur la tonique, suivi du <a href="../jins/bayati.php">Jins Bayati</a> sur le 5<sup>ième</sup> degré.
+                    <p>Le <strong>Maqam Nairuz</strong> commence avec le jins de base <a href="../jins/rast.php">Rast</a> sur la tonique, suivi du <a href="../jins/bayati.php">Τζινς Μπαϊάτι</a> sur le 5<sup>ième</sup> degré.
                     </p>
-                    <p>Le Maqam Nairuz est assez rare en tant que maqam indépendant mais est utilisé souvent en tant que <em>sayr</em> à l'intérieur du <a href="suznak.php">Maqam Suznak</a>/<a href="rast.php">Maqam Rast</a> à cause des affinités entre le <a href="../jins/bayati.php">Jins Bayati</a> et le <a href="../jins/hijaz.php">Jins Hijaz</a> sur le 5<sup>ième</sup> degré de la gamme.
+                    <p>Le Maqam Nairuz est assez rare en tant que maqam indépendant mais est utilisé souvent en tant que <em>sayr</em> à l'intérieur du <a href="suznak.php">Μακάμ Σουνζάκ</a>/<a href="rast.php">Μακάμ Ραστ</a> à cause des affinités entre le <a href="../jins/bayati.php">Τζινς Μπαϊάτι</a> et le <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> sur le 5<sup>ième</sup> degré de la gamme.
                     </p>
-                    <p>Le <strong>Maqam Yakah</strong> est une version archaïque du Maqam Nairuz, construit sur la note Sol-3 dans la gamme de 24 notes arabe archaïque (note appelée <strong>Yakah</strong>) plutôt que sur la note Do-4.
+                    <p>Le <strong>Μακάμ Γιάκα</strong> est une version archaïque du Maqam Nairuz, construit sur la note Sol-3 dans la gamme de 24 notes arabe archaïque (note appelée <strong>Yakah</strong>) plutôt que sur la note Do-4.
                     </p>
 
-                    <p>Explorez d'autres maqams dans la <a href="f_rast.php">Famille du Maqam Rast</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_rast.php">Οικογένεια Μακάμ Ραστ</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

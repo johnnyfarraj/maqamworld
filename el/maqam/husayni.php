@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Houssayni";
-$page_description = "Maqam Houssayni";
-$page_keywords = "musique arabe, mode arabe, maqam, jins, ajam, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
+$page_title = "Μακάμ Χουσάινι";
+$page_description = "Μακάμ Χουσάινι";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Houssayni</h1>
-                        <h3>Membre de la <a href="f_bayati.php">Famille du Maqam Bayati</a></h3>
+                        <h1>Μακάμ Χουσάινι</h1>
+                        <h3>Membre de la <a href="f_bayati.php">Οικογένεια Μακάμ Μπαϊάτι</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
@@ -63,9 +63,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="450,8,580,39" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Maqam Houssayni n'est pas un maqam très commun en tant que maqam indépendant dans la tradition de la musique arabe, même si son <em>sayr</em> (mettre l'emphase sur le 5<sup>ième</sup> degré comme note de tension qui se résout sur le 4<sup>ième</sup> degré) est obligatoire dans le <a href="bayati.php">Maqam Bayati</a>. Dans la musique folklorique de la région, c'est pourtant la variante la plus commune du Maqam Bayati, avec sa gamme commençant sur le <a href="../jins/bayati.php">Jins Bayati</a> de base sur la tonique.
+                    <p>Le Μακάμ Χουσάινι n'est pas un maqam très commun en tant que maqam indépendant dans la tradition de la musique arabe, même si son <em>sayr</em> (mettre l'emphase sur le 5<sup>ième</sup> degré comme note de tension qui se résout sur le 4<sup>ième</sup> degré) est obligatoire dans le <a href="bayati.php">Μακάμ Μπαϊάτι</a>. Dans la musique folklorique de la région, c'est pourtant la variante la plus commune du Μακάμ Μπαϊάτι, avec sa gamme commençant sur le <a href="../jins/bayati.php">Τζινς Μπαϊάτι</a> de base sur la tonique.
                     </p>
-                    <p>Explorez d'autres maqams dans la <a href="f_bayati.php">Famille du Maqam Bayati</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_bayati.php">Οικογένεια Μακάμ Μπαϊάτι</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

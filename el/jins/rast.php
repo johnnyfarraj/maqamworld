@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Τζινς Ραστ</h1>
-                        <h3>Root jins of the <a href="../maqam/f_rast.php">Maqam Rast Family</a></h3>
+                        <h3>Root jins of the <a href="../maqam/f_rast.php">Μακάμ Ραστ Family</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Τζινς</a>
                     <div class="clearfix"></div>
@@ -58,7 +58,7 @@ include($ROOT . 'inc/head.php');
 				      <area shape="circle" coords="630,52,12" href="#" alt="Λα4" class="playNote" data-frequency="440" data-parent="#notation1">
 					</map>
 
-                    <p>Τζινς Ραστ is a widely popular 5-note <em>jins</em>. It is notated here with its tonic on C and its <em>ghammaz</em> on G. Τζινς Ραστ is the first <em>jins</em> in <a href="../maqam/rast.php">Maqam Rast</a>, <a href="../maqam/suznak.php">Maqam Suznak</a>, and other <em>maqamat</em> in the <a href="../maqam/f_rast.php">Maqam Rast Family</a>.
+                    <p>Τζινς Ραστ is a widely popular 5-note <em>jins</em>. It is notated here with its tonic on C and its <em>ghammaz</em> on G. Τζινς Ραστ is the first <em>jins</em> in <a href="../maqam/rast.php">Μακάμ Ραστ</a>, <a href="../maqam/suznak.php">Μακάμ Σουνζάκ</a>, and other <em>maqamat</em> in the <a href="../maqam/f_rast.php">Μακάμ Ραστ Family</a>.
                     </p>
 
                     <div class="player-area">

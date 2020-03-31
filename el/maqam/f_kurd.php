@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Famille du Maqam Kurd";
-$page_description = "Famille du Maqam Kurd";
+$page_title = "Οικογένεια Μακάμ Κουρντ";
+$page_description = "Οικογένεια Μακάμ Κουρντ";
 $page_keywords = "musique arabe, mode arabe, maqam, kurd, family, jins, iqa‘, iqaa, rhythme, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient, tarab";
 $page_language = "el";
 
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading text-center jins">
-                        <h1>La Famille du Maqam Kurd</h1>
-                        <h3>Les Maqams qui commencent avec le <a href="../jins/kurd.php">Jins Kurd</a></h3>
+                        <h1>La Οικογένεια Μακάμ Κουρντ</h1>
+                        <h3>Les Maqams qui commencent avec le <a href="../jins/kurd.php">Τζινς Κουρντ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
@@ -42,23 +42,23 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Kurd</a>
                     </div>
 
-                    <p>La Famille du Maqam Kurd est faite des <em>maqams</em> qui commencent avec le <a href="../jins/kurd.php">Jins Kurd</a>.</p>
+                    <p>La Οικογένεια Μακάμ Κουρντ est faite des <em>maqams</em> qui commencent avec le <a href="../jins/kurd.php">Τζινς Κουρντ</a>.</p>
 
                     
                     <ul>
-                        <li><a href="kurd.php">Maqam Kurd</a></li>
-                        <li><a href="hijazkar_kurd.php">Maqam Hijazkar Kurd</a></li>
+                        <li><a href="kurd.php">Μακάμ Κουρντ</a></li>
+                        <li><a href="hijazkar_kurd.php">Μακάμ Χιτζασκάρ Κουρντ</a></li>
                     </ul>
 
                     <p>Les autres familles de <em>maqams</em>:</p>
                     <ul>
-                        <li><a href="f_ajam.php">Famille du Maqam ‘Ajam</a></li>
-                        <li><a href="f_bayati.php">Famille du Maqam Bayati</a></li>
-                        <li><a href="f_hijaz.php">Famille du Maqam Hijaz</a></li>
-                        <li><a href="f_nahawand.php">Famille du Maqam Nahawand</a></li>
-                        <li><a href="f_nikriz.php">Famille du Maqam Nikriz</a></li>
-                        <li><a href="f_rast.php">Famille du Maqam Rast</a></li>
-                        <li><a href="f_sikah.php">Famille du Maqam Sikah</a></li>
+                        <li><a href="family/ajam.php">Οικογένεια Μακάμ Άτζαμ</a></li>
+                        <li><a href="family/bayati.php">Οικογένεια Μακάμ Μπαϊάτι</a></li>
+                        <li><a href="family/hijaz.php">Οικογένεια Μακάμ Χιτζάζ</a></li>
+                        <li><a href="family/nahawand.php">Οικογένεια Μακάμ Ναχαουάντ</a></li>
+                        <li><a href="family/nikriz.php">Οικογένεια Μακάμ Νικρίζ</a></li>
+                        <li><a href="family/rast.php">Οικογένεια Μακάμ Ραστ</a></li>
+                        <li><a href="family/sikah.php">Οικογένεια Μακάμ Σίκα</a></li>
                     </ul>
 
                 </div>

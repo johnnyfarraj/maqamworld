@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Famille du Maqam Sikah";
-$page_description = "Famille du Maqam Sikah";
+$page_title = "Οικογένεια Μακάμ Σίκα";
+$page_description = "Οικογένεια Μακάμ Σίκα";
 $page_keywords = "musique arabe, mode arabe, maqam, sikah, family, jins, iqa‘, iqaa, rhythme, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient, tarab";
 $page_language = "el";
 
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading text-center jins">
-                        <h1>La Famille du Maqam Sikah</h1>
-                        <h3>Les Maqams qui commencent avec le <a href="../jins/sikah.php">Jins Sikah</a></h3>
+                        <h1>La Οικογένεια Μακάμ Σίκα</h1>
+                        <h3>Les Maqams qui commencent avec le <a href="../jins/sikah.php">Τζινς Σίκα</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
@@ -39,28 +39,27 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/sikah.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Sikah</a>
                     </div>
 
-                    <p>La Famille du Maqam Sikah est faite des <em>maqams</em> qui commencent avec le <a href="../jins/sikah.php">Jins Sikah</a>.</p>
-
+                    <p>La Οικογένεια Μακάμ Σίκα est faite des <em>maqams</em> qui commencent avec le <a href="../jins/sikah.php">Τζινς Σίκα</a>.</p>
                     
                     <ul>
-                        <li><a href="sikah.php">Maqam Sikah</a></li>
-                        <li><a href="huzam.php">Maqam Houzam</a></li>
-                        <li><a href="huzam.php">Maqam Rahat al-Arwah</a></li>
-                        <li><a href="iraq.php">Maqam ‘Iraq</a></li>
-                        <li><a href="awj_iraq.php">Maqam Aouj ‘Iraq</a></li>
-                        <li><a href="bastanikar.php">Maqam Bastanikar</a></li>
-                        <li><a href="mustaar.php">Maqam Mousta‘ar</a></li>
+                        <li><a href="sikah.php">Μακάμ Σίκα</a></li>
+                        <li><a href="huzam.php">Μακάμ Χουζάμ</a></li>
+                        <li><a href="huzam.php">Μακάμ Ράχατ αλ-Αρουά</a></li>
+                        <li><a href="iraq.php">Μακάμ Ιράκ</a></li>
+                        <li><a href="awj_iraq.php">Μακάμ Αούτζ Ιράκ</a></li>
+                        <li><a href="bastanikar.php">Μακάμ Μπαστανικάρ</a></li>
+                        <li><a href="mustaar.php">Μακάμ Μουσταάρ</a></li>
                     </ul>
 
                     <p>Les autres familles de <em>maqams</em>:</p>
                     <ul>
-                        <li><a href="f_ajam.php">Famille du Maqam ‘Ajam</a></li>
-                        <li><a href="f_bayati.php">Famille du Maqam Bayati</a></li>
-                        <li><a href="f_hijaz.php">Famille du Maqam Hijaz</a></li>
-                        <li><a href="f_kurd.php">Famille du Maqam Kurd</a></li>
-                        <li><a href="f_nahawand.php">Famille du Maqam Nahawand</a></li>
-                        <li><a href="f_nikriz.php">Famille du Maqam Nikriz</a></li>
-                        <li><a href="f_rast.php">Famille du Maqam Rast</a></li>
+                        <li><a href="family/ajam.php">Οικογένεια Μακάμ Άτζαμ</a></li>
+                        <li><a href="family/bayati.php">Οικογένεια Μακάμ Μπαϊάτι</a></li>
+                        <li><a href="family/hijaz.php">Οικογένεια Μακάμ Χιτζάζ</a></li>
+                        <li><a href="family/kurd.php">Οικογένεια Μακάμ Κουρντ</a></li>
+                        <li><a href="family/nahawand.php">Οικογένεια Μακάμ Ναχαουάντ</a></li>
+                        <li><a href="family/nikriz.php">Οικογένεια Μακάμ Νικρίζ</a></li>
+                        <li><a href="family/rast.php">Οικογένεια Μακάμ Ραστ</a></li>
                     </ul>
 
                 </div>

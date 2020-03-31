@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Kirdane/Maqam Sazkar";
-$page_description = "Maqam Kirdane/Maqam Sazkar";
-$page_keywords = "musique arabe, mode arabe, maqam kirdan, maqam sazkar, jins, kirdan, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
+$page_title = "Μακάμ Κιρντάν/Μακάμ Σαζκάρ";
+$page_description = "Μακάμ Κιρντάν/Μακάμ Σαζκάρ";
+$page_keywords = "musique arabe, mode arabe, maqam kirdan, Μακάμ Σαζκάρ, jins, kirdan, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -29,9 +29,9 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Kirdane</h1>
-                        <h1>Maqam Sazkar</h1>
-                        <h3>Membre de la <a href="f_rast.php">Famille du Maqam Rast</a></h3>
+                        <h1>Μακάμ Κιρντάν</h1>
+                        <h1>Μακάμ Σαζκάρ</h1>
+                        <h3>Membre de la <a href="f_rast.php">Οικογένεια Μακάμ Ραστ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
@@ -66,12 +66,12 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="400,173,528,202" href="../jins/sazkar.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Maqam Kirdan est une version du <a href="rast.php">Maqam Rast</a> dans laquelle le sayr commence à l'octave et redescend vers la tonique. Sa gamme commence avec le <a href="../jins/rast.php">Jins Rast</a> sur la tonique, suivi du <a href="../jins/upper_rast.php">Jins Haut Rast</a> sur le 5<sup>ième</sup> degré (avec sa tonique sur le 8<sup>ième</sup> degré).
+                    <p>Le Maqam Kirdan est une version du <a href="rast.php">Μακάμ Ραστ</a> dans laquelle le sayr commence à l'octave et redescend vers la tonique. Sa gamme commence avec le <a href="../jins/rast.php">Τζινς Ραστ</a> sur la tonique, suivi du <a href="../jins/upper_rast.php">Jins Haut Rast</a> sur le 5<sup>ième</sup> degré (avec sa tonique sur le 8<sup>ième</sup> degré).
                     </p>
-                    <p>Le <strong>Maqam Sazkar</strong> est presque identique au Maqam Kirdan à part pour le fait de mettre l'emphase sur le 2<sup>ième</sup> degré dans certains passages mélodiques, ce qui fait en sorte d'avoir le <a href="../jins/sazkar.php">Jins Sazkar</a> sur la tonique.
+                    <p>Le <strong>Μακάμ Σαζκάρ</strong> est presque identique au Maqam Kirdan à part pour le fait de mettre l'emphase sur le 2<sup>ième</sup> degré dans certains passages mélodiques, ce qui fait en sorte d'avoir le <a href="../jins/sazkar.php">Jins Sazkar</a> sur la tonique.
                     </p>
 
-                    <p>Explorez d'autres maqams dans la <a href="f_rast.php">Famille du Maqam Rast</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_rast.php">Οικογένεια Μακάμ Ραστ</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

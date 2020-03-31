@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Zanjarane";
-$page_description = "Maqam Zanjarane";
+$page_title = "Μακάμ Ζαντζαράν";
+$page_description = "Μακάμ Ζαντζαράν";
 $page_keywords = "musique arabe, mode arabe, maqam, jins, zanjaran, hijaz, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
 $page_language = "el";
 
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Zanjarane</h1>
-                        <h3>Membre de la <a href="f_hijaz.php">Famille du Maqam Hijaz</a></h3>
+                        <h1>Μακάμ Ζαντζαράν</h1>
+                        <h3>Membre de la <a href="f_hijaz.php">Οικογένεια Μακάμ Χιτζάζ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
@@ -62,9 +62,9 @@ include($ROOT . 'inc/head.php');
 
 
 					</map>
-                    <p>Le Maqam Zanjarane est une variante du <a href="hijaz.php">Maqam Hijaz</a> avec le <a href="../jins/ajam.php">Jins ‘Ajam</a> comme second jins (sur le 4<sup>ième</sup> degré) et le jins de base <a href="../jins/hijaz.php">Hijaz</a> sur la tonique.</p>
+                    <p>Le Μακάμ Ζαντζαράν est une variante du <a href="hijaz.php">Μακάμ Χιτζάζ</a> avec le <a href="../jins/ajam.php">Τζινς Άτζαμ</a> comme second jins (sur le 4<sup>ième</sup> degré) et le jins de base <a href="../jins/hijaz.php">Hijaz</a> sur la tonique.</p>
 
-                    <p>Explorez d'autres maqams dans la <a href="f_hijaz.php">Famille du Maqam Hijaz</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_hijaz.php">Οικογένεια Μακάμ Χιτζάζ</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -129,7 +129,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Semiramis (Taqsim Oud en Maqam Zanjarane)</b>
+                                    <b>Semiramis (Taqsim Oud en Μακάμ Ζαντζαράν)</b>
                                     <span>‘Amer ‘Ammouri (Syrie)</span>
                                     <span><img src="/img/cd.png"> Takasim Oud</span>
                                 </div>

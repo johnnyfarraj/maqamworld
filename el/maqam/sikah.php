@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Sikah";
-$page_description = "Maqam Sikah";
+$page_title = "Μακάμ Σίκα";
+$page_description = "Μακάμ Σίκα";
 $page_keywords = "musique arabe, mode arabe, maqam, jins, sikah, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
 $page_language = "el";
 
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Sikah</h1>
-                        <h3>Le maqam principal dans la <a href="f_sikah.php">Famille du Maqam Sikah</a></h3>
+                        <h1>Μακάμ Σίκα</h1>
+                        <h3>Le maqam principal dans la <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
@@ -61,9 +61,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="494,7,600,35" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Maqam Sikah est un membre rare de la <a href="f_sikah.php">Famille du Maqam Sikah</a> même si il porte le nom de son Jins de base. Sa gamme commence avec le jins de base <a href="../jins/sikah.php">Sikah</a> sur la tonique, suivi du <a href="../jins/upper_rast.php">Jins Haut Rast</a> sur le 3<sup>ième</sup> degré (avec sa tonique sur le 6<sup>ième</sup> degré), et finalement du <a href="../jins/rast.php">Jins Rast</a> sur le 6<sup>ième</sup> degré (qui est un <em>ghammaz</em> secondaire).
+                    <p>Le Μακάμ Σίκα est un membre rare de la <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a> même si il porte le nom de son Jins de base. Sa gamme commence avec le jins de base <a href="../jins/sikah.php">Sikah</a> sur la tonique, suivi du <a href="../jins/upper_rast.php">Jins Haut Rast</a> sur le 3<sup>ième</sup> degré (avec sa tonique sur le 6<sup>ième</sup> degré), et finalement du <a href="../jins/rast.php">Τζινς Ραστ</a> sur le 6<sup>ième</sup> degré (qui est un <em>ghammaz</em> secondaire).
                     </p>
-                    <p>Explorez d'autres maqams dans la <a href="f_sikah.php">Famille du Maqam Sikah</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

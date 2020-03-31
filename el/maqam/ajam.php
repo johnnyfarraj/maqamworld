@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam ‘Ajam";
-$page_description = "Maqam ‘Ajam";
-$page_keywords = "musique arabe, mode arabe, maqam, jins, ajam, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
+$page_title = "Μακάμ Άτζαμ";
+$page_description = "Μακάμ Άτζαμ";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam ‘Ajam</h1>
-                        <h3>Le maqam principal dans la <a href="f_ajam.php">Famille du Maqam ‘Ajam</a></h3>
+                        <h1>Μακάμ Άτζαμ</h1>
+                        <h3>Le maqam principal dans la <a href="f_ajam.php">Οικογένεια Μακάμ Άτζαμ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
@@ -64,9 +64,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="639,14,806,40" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
 		          </map>
 
-                   <p>Le Maqam 'Ajam (aussi connu sous le nom de <strong>‘Ajam égyptien</strong>) est le maqam principal de la <a href="f_ajam.php">Famille du Maqam ‘Ajam</a>. Il commence avec comme iins de base le <a href="../jins/ajam.php">Jins ‘Ajam</a> sur la tonique, suivi du <a href="../jins/upper_ajam.php">Jins Haut ‘Ajam</a> sur le 5<sup>ième</sup> degré (avec sa tonique sur le 8<sup>ième</sup> degré), ou du <a href="../jins/nahawand.php">Jins Nahawand</a> sur le 5<sup>ième</sup> degré.</p>
+                   <p>Le Maqam 'Ajam (aussi connu sous le nom de <strong>‘Ajam égyptien</strong>) est le maqam principal de la <a href="f_ajam.php">Οικογένεια Μακάμ Άτζαμ</a>. Il commence avec comme iins de base le <a href="../jins/ajam.php">Τζινς Άτζαμ</a> sur la tonique, suivi du <a href="../jins/upper_ajam.php">Jins Haut ‘Ajam</a> sur le 5<sup>ième</sup> degré (avec sa tonique sur le 8<sup>ième</sup> degré), ou du <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> sur le 5<sup>ième</sup> degré.</p>
                     
-                    <p>Explorez d'autres maqams dans la <a href="f_ajam.php">Famille du Maqam ‘Ajam</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_ajam.php">Οικογένεια Μακάμ Άτζαμ</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

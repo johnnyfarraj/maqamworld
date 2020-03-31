@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam ‘Ajam ‘Ouchayrane";
-$page_description = "Maqam ‘Ajam ‘Ouchayrane";
+$page_title = "Μακάμ Άτζαμ Ουσάιραν";
+$page_description = "Μακάμ Άτζαμ Ουσάιραν";
 $page_keywords = "musique arabe, maqam, instruments, jins, iqa‘, iqaa, rythme, oud, qanoun, nay, quart de ton, tarab";
 $page_language = "el";
 
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam ‘Ajam ‘Ouchayrane</h1>
-                        <h3>Membre de la <a href="f_ajam.php">Famille du Maqam ‘Ajam</a></h3>
+                        <h1>Μακάμ Άτζαμ Ουσάιραν</h1>
+                        <h3>Membre de la <a href="f_ajam.php">Οικογένεια Μακάμ Άτζαμ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
@@ -61,11 +61,11 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="272,155,390,184" href="../jins/kurd.php" class="mapLink" data-parent="#notation1">
 		              </map>
 
-                    <p>Le Maqam ‘Ajam ‘Ouchayrane est une version archaïque du <a href="ajam.php">Maqam ‘Ajam</a>, avec un <em>sayr</em> différent et une emphase tonale totalement différente: au lieu d'avoir la tonique du deuxième <em>jins</em> sur le 5<sup>ième</sup> degré, il utilise plutôt la tierce et la sixte à cet effet.
+                    <p>Le Μακάμ Άτζαμ Ουσάιραν est une version archaïque du <a href="ajam.php">Μακάμ Άτζαμ</a>, avec un <em>sayr</em> différent et une emphase tonale totalement différente: au lieu d'avoir la tonique du deuxième <em>jins</em> sur le 5<sup>ième</sup> degré, il utilise plutôt la tierce et la sixte à cet effet.
                     </p>
-                    <p>Le Maqam ‘Ajam ‘Ouchayrane commence avec comme jins de base le <a href="../jins/ajam.php">Jins ‘Ajam</a> sur la tonique, suivi du <a href="../jins/kurd.php">Jins Kurd</a> sur le 3<sup>ième</sup> degré, puis du <a href="../jins/nahawand.php">Jins Nahawand</a> sur le 6<sup>ième</sup> degré.
+                    <p>Le Μακάμ Άτζαμ Ουσάιραν commence avec comme jins de base le <a href="../jins/ajam.php">Τζινς Άτζαμ</a> sur la tonique, suivi du <a href="../jins/kurd.php">Τζινς Κουρντ</a> sur le 3<sup>ième</sup> degré, puis du <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> sur le 6<sup>ième</sup> degré.
                     </p>
-                    <p>Explorez d'autres maqams dans la <a href="f_ajam.php">Famille du Maqam ‘Ajam</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_ajam.php">Οικογένεια Μακάμ Άτζαμ</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Nahawand";
-$page_description = "Maqam Nahawand";
+$page_title = "Μακάμ Ναχαουάντ";
+$page_description = "Μακάμ Ναχαουάντ";
 $page_keywords = "musique arabe, mode arabe, maqam, jins, nahawand, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
 $page_language = "el";
 
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Nahawand</h1>
-                        <h3>Le maqam principal dans la <a href="f_nahawand.php">Famille du Maqam Nahawand</a></h3>
+                        <h1>Μακάμ Ναχαουάντ</h1>
+                        <h3>Le maqam principal dans la <a href="f_nahawand.php">Οικογένεια Μακάμ Ναχαουάντ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
@@ -68,12 +68,12 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="670,11,786,39" href="../jins/kurd.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Maqam Nahawand est le maqam principal de la <a href="f_nahawand.php">famille du Maqam Nahawand</a>. Sa gamme commence avec le jins de base <a href="../jins/nahawand.php">Jins Nahawand</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Jins Hijaz</a> ou du <a href="../jins/kurd.php">Jins Kurd</a> sur le 5<sup>ième</sup> degré. 
+                    <p>Le Μακάμ Ναχαουάντ est le maqam principal de la <a href="f_nahawand.php">Οικογένεια Μακάμ Ναχαουάντ</a>. Sa gamme commence avec le jins de base <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> ou du <a href="../jins/kurd.php">Τζινς Κουρντ</a> sur le 5<sup>ième</sup> degré. 
                     </p>
-                    <p>Le <strong>Maqam Farahfaza</strong> est le Maqam Nahawand transposé sur Sol.
+                    <p>Le <strong>Μακάμ Φαραχφάζα</strong> est le Μακάμ Ναχαουάντ transposé sur Sol.
                     </p>
 
-                    <p>Explorez d'autres maqams dans la <a href="f_nahawand.php">Famille du Maqam Nahawand</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_nahawand.php">Οικογένεια Μακάμ Ναχαουάντ</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

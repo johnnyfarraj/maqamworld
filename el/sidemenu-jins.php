@@ -8,6 +8,7 @@
     <li><a href="/el/jins/ajam_murassaa.php">Άτζαμ Μουράσα</a></li>
     <li><a href="/el/jins/kurd.php">Κουρντ</a></li>
     <li><a href="/el/jins/lami.php">Λάμι</a></li>
+    <li><a href="/el/jins/mustaar.php">Μουσταάρ</a></li>
     <li><a href="/el/jins/mukhalef_sharqi.php">Μουχάλεφ Σάρκι</a></li>
     <li><a href="/el/jins/bayati.php">Μπαϊάτι</a></li>
     <li><a href="/el/jins/nahawand.php">Ναχαουάντ</a></li>
@@ -18,6 +19,7 @@
     <li><a href="/el/jins/saba.php">Σάμπα</a></li>
     <li><a href="/el/jins/saba_zamzam.php">Σάμπα Ζάμζαμ</a></li>
     <li><a href="/el/jins/saba_dalanshin.php">Σάμπα Νταλανσίν</a></li>
+    <li><a href="/el/jins/sikah.php">Σίκα</a></li>
     <li><a href="/el/jins/sikah_baladi.php">Σίκα Μπάλαντι</a></li>
     <li><a href="/el/jins/jiharkah.php">Τζιχάρκα</a></li>
     <li><a href="/el/jins/hijaz.php">Χιτζάζ</a></li>

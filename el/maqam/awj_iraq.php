@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Aouj ‘Iraq";
-$page_description = "Maqam Aouj ‘Iraq";
+$page_title = "Μακάμ Αούτζ Ιράκ";
+$page_description = "Μακάμ Αούτζ Ιράκ";
 $page_keywords = "musique arabe, mode arabe, maqam, jins, sikah, awj iraq, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
 $page_language = "el";
 
@@ -29,8 +29,8 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Aouj ‘Iraq</h1>
-                        <h3>Membre de la <a href="f_sikah.php">Famille du Maqam Sikah</a></h3>
+                        <h1>Μακάμ Αούτζ Ιράκ</h1>
+                        <h3>Membre de la <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
                     <div class="clearfix"></div>
@@ -63,12 +63,12 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="615,7,745,37" href="../jins/sikah.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Maqam Aouj 'Iraq est une version du <a href="huzam.php">Maqam Rahat al-Arwah/Maqam Houzam</a> et du <a href="iraq.php">Maqam ‘Iraq</a>, avec un <em>sayr</em> qui commence sur la tonique à l'octave supérieure et redescend vers la tonique. Il partage la plupart de ses ajnas avec le <a href="huzam.php">Maqam Houzam</a>.
+                    <p>Le Maqam Aouj 'Iraq est une version du <a href="huzam.php">Μακάμ Ράχατ αλ-Αρουά/Μακάμ Χουζάμ</a> et du <a href="iraq.php">Μακάμ Ιράκ</a>, avec un <em>sayr</em> qui commence sur la tonique à l'octave supérieure et redescend vers la tonique. Il partage la plupart de ses ajnas avec le <a href="huzam.php">Μακάμ Χουζάμ</a>.
                     </p>
-                    <p>Le Maqam Aouj 'Iraq  commence avec le jins de base <a href="../jins/sikah.php">Sikah</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Jins Hijaz</a> sur le 3<sup>ième</sup> degré, puis d'un autre Jins Sikah sur le 8<sup>ième</sup> degré.
+                    <p>Le Maqam Aouj 'Iraq  commence avec le jins de base <a href="../jins/sikah.php">Sikah</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> sur le 3<sup>ième</sup> degré, puis d'un autre Τζινς Σίκα sur le 8<sup>ième</sup> degré.
                     </p>
 
-                    <p>Explorez d'autres maqams dans la <a href="f_sikah.php">Famille du Maqam Sikah</a>.</p>
+                    <p>Explorez d'autres maqams dans la <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
