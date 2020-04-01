@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Οικογένεια Μακάμ Άτζαμ";
 $page_description = "Οικογένεια Μακάμ Άτζαμ";
-$page_keywords = "musique arabe, mode arabe, maqam, ajam, family, jins, iqa‘, iqaa, rhythme, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient, tarab";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Οικογένεια Μακάμ Άτζαμ, >Μακάμ Άτζαμ Ουσάιραν, Μακάμ Σάουκ Άφζα";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -23,16 +23,16 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading text-center jins">
                         <h1>Οικογένεια Μακάμ Άτζαμ</h1>
-                        <h3>Les Maqams qui commencent avec le <a href="../jins/ajam.php">Τζινς Άτζαμ</a></h3>
+                        <h3>Μακαμάτ που αρχίζουν με <a href="../jins/ajam.php">Τζινς Άτζαμ</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -48,7 +48,7 @@ include($ROOT . 'inc/head.php');
                         <li><a href="shawq_afza.php">Μακάμ Σάουκ Άφζα</a></li>
                     </ul>
                     
-                    <p>Les autres familles de <em>maqams</em>:</p>
+                    <p>Άλλες οικογένειες μακάμ:</p>
                     <ul>
                         <li><a href="f_bayati.php">Οικογένεια Μακάμ Μπαϊάτι</a></li>
                         <li><a href="f_hijaz.php">Οικογένεια Μακάμ Χιτζάζ</a></li>

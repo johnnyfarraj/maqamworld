@@ -23,17 +23,17 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
                         <h1>Μακάμ Χουζάμ</h1>
-                        <h1>Μακάμ Ράχατ αλ-Αρουά</h1>
+                        <h1>Μακάμ Ράχατ αλ-Αρουάχ</h1>
                         <h3>Membre de la <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Maqams</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                     <p>Le Μακάμ Χουζάμ est le maqam le plus courant de la <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a>. Il commence sur Mi<i class="icon-halfflat"></i>. Sa gamme commence avec le jins de base <a href="../jins/sikah.php">Τζινς Σίκα</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> sur le 3<sup>ième</sup> degré,  et finalement du <a href="../jins/rast.php">Τζινς Ραστ</a> sur le 6<sup>ième</sup> degré.
                     </p>
 
-                    <p>La transposition du Μακάμ Χουζάμ sur Si<i class="icon-halfflat"></i> porte le nom de <strong>Μακάμ Ράχατ αλ-Αρουά</strong>. Les deux <em>maqams</em> ont exactement le même <em>sayr</em>.</p>
+                    <p>La transposition du Μακάμ Χουζάμ sur Si<i class="icon-halfflat"></i> porte le nom de <strong>Μακάμ Ράχατ αλ-Αρουάχ</strong>. Les deux <em>maqams</em> ont exactement le même <em>sayr</em>.</p>
 
                     <p>Explorez d'autres maqams dans la <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a>.</p>
 
@@ -134,7 +134,7 @@ include($ROOT . 'inc/head.php');
 
                     <!-- Start Rahat al-Arwah section -->
                     <div class="heading jins text-center">
-                        <h3>Μακάμ Ράχατ αλ-Αρουά examples</h3>
+                        <h3>Μακάμ Ράχατ αλ-Αρουάχ examples</h3>
                     </div>
                     <div class="clearfix"></div>
 
@@ -170,7 +170,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr Inta Fahim</b>
-                                    <span>(Μακάμ Ράχατ αλ-Αρουά)</span>
+                                    <span>(Μακάμ Ράχατ αλ-Αρουάχ)</span>
                                     <span>Interprétation et Musique de Zakaria Ahmad</span>
                                 </div>
                             </label>
