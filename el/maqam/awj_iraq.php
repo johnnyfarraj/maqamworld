@@ -30,20 +30,20 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Μακάμ Αούτζ Ιράκ</h1>
-                        <h3>Membre de la <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a></h3>
+                        <h3>Μέλος της <a href="f_sikah.php">Οικόγενειας Μακάμ Σίκα</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/awj_iraq.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Aouj ‘Iraq</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/awj_iraq.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Αούτζ Ιράκ</a>
                     </div>
 
                      <div class="notation" id="notation1">
                         <img src="../note/maqam/awj_iraq.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -59,8 +59,8 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="752,142,13" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="241" data-parent="#notation1"><!--variable-->
                        <!-- Links -->
                       <area shape="rect" coords="75,7,191,37" href="../jins/sikah.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="425,7,540,37" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="615,7,745,37" href="../jins/sikah.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="415,7,550,37" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="615,7,740,37" href="../jins/sikah.php" class="mapLink" data-parent="#notation1">
 
 					</map>
                     <p>Le Maqam Aouj 'Iraq est une version du <a href="huzam.php">Μακάμ Ράχατ αλ-Αρουάχ/Μακάμ Χουζάμ</a> et du <a href="iraq.php">Μακάμ Ιράκ</a>, avec un <em>sayr</em> qui commence sur la tonique à l'octave supérieure et redescend vers la tonique. Il partage la plupart de ses ajnas avec le <a href="huzam.php">Μακάμ Χουζάμ</a>.
@@ -68,7 +68,7 @@ include($ROOT . 'inc/head.php');
                     <p>Le Maqam Aouj 'Iraq  commence avec le jins de base <a href="../jins/sikah.php">Sikah</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> sur le 3<sup>ième</sup> degré, puis d'un autre Τζινς Σίκα sur le 8<sup>ième</sup> degré.
                     </p>
 
-                    <p>Explorez d'autres maqams dans la <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a>.</p>
+                    <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

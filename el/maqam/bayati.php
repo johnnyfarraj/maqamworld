@@ -36,14 +36,14 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/bayati.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Bayati</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/bayati.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Μπαϊάτι</a>
                     </div>
 
                       <div class="notation" id="notation1">
                         <img src="../note/maqam/bayati.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -61,14 +61,14 @@ include($ROOT . 'inc/head.php');
                       <area shape="circle" coords="917,80,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
                       <area shape="circle" coords="995,72,13" href="#" alt="Ré" class="playNote" data-frequency="586.66" data-parent="#notation1">
                        <!-- Links -->
-                      <area shape="rect" coords="111,7,242,36" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="370,8,549,37" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="783,8,890,37" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="94,6,262,36" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="364,6,565,36" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="778,6,905,36" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 
 				     </map>
                     <p>Le Μακάμ Μπαϊάτι est de loin l'un des maqams les plus populaires du répertoire de la musique arabe. C'est aussi le <em>maqam</em> principal de la <a href="f_bayati.php">Famille Bayati</a>. Il commence avec comme jins de base le <a href="../jins/bayati.php">Τζινς Μπαϊάτι</a> sur la tonique, suivi du <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> ou du <a href="../jins/rast.php">Τζινς Ραστ</a> sur le 4<sup>ième</sup> degré.
                     </p>
-                    <p>Explorez d'autres maqams dans la <a href="f_bayati.php">Οικογένεια Μακάμ Μπαϊάτι</a>.</p>
+                    <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_bayati.php">Οικογένεια Μακάμ Μπαϊάτι</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

@@ -30,43 +30,43 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Μακάμ Χιτζασκάρ Κουρντ</h1>
-                        <h3>Membre de la <a href="f_kurd.php">Οικογένεια Μακάμ Κουρντ</a></h3>
+                        <h3>Μέλος της <a href="f_kurd.php">Οικόγενειας Μακάμ Κουρντ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/hijazkar_kurd.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Hijazkar Kurd</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/hijazkar_kurd.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Χιτζασκάρ Κουρντ</a>
                     </div>
 
                     <div class="notation" id="notation1">
                         <img src="../note/maqam/hijazkar_kurd.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
-		  <area shape="circle" coords="79,67,13" href="#" alt="Mi♮" class="playNote" data-frequency="656" data-parent="#notation1"><!-- Hijaz 3 tune down from 660 -->
-		  <area shape="circle" coords="158,75,13" href="#" alt="Ré♭" class="playNote" data-frequency="554" data-parent="#notation1"><!-- Hijaz 2 tuned up from 548 -->
-		  <area shape="circle" coords="234,85,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1"><!-- Hijazkar tonic -->
-		  <area shape="circle" coords="313,93,13" href="#" alt="Si♮" class="playNote" data-frequency="493.33" data-parent="#notation1"><!-- vartiable -->
-		  <area shape="circle" coords="365,93,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
-		  <area shape="circle" coords="417,101,13" href="#" alt="La♭" class="playNote" data-frequency="420" data-parent="#notation1">
-		  <area shape="circle" coords="494,109,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
-		<area shape="circle" coords="570,118,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
-                       <area shape="circle" coords="649,126,13" href="#" alt="Mi♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
-		  <area shape="circle" coords="728,134,13" href="#" alt="Ré♭" class="playNote" data-frequency="274" data-parent="#notation1">
+                      <area shape="circle" coords="79,67,13" href="#" alt="Mi♮" class="playNote" data-frequency="656" data-parent="#notation1"><!-- Hijaz 3 tune down from 660 -->
+                      <area shape="circle" coords="158,75,13" href="#" alt="Ré♭" class="playNote" data-frequency="554" data-parent="#notation1"><!-- Hijaz 2 tuned up from 548 -->
+                      <area shape="circle" coords="234,85,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1"><!-- Hijazkar tonic -->
+                      <area shape="circle" coords="313,93,13" href="#" alt="Si♮" class="playNote" data-frequency="493.33" data-parent="#notation1"><!-- vartiable -->
+                      <area shape="circle" coords="365,93,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
+                      <area shape="circle" coords="417,101,13" href="#" alt="La♭" class="playNote" data-frequency="420" data-parent="#notation1">
+                      <area shape="circle" coords="494,109,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+                      <area shape="circle" coords="570,118,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
+                      <area shape="circle" coords="649,126,13" href="#" alt="Mi♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
+                      <area shape="circle" coords="728,134,13" href="#" alt="Ré♭" class="playNote" data-frequency="274" data-parent="#notation1">
                       <area shape="circle" coords="803,142,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
                        <!-- Links -->
-                      <area shape="rect" coords="170,8,322,38" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="634,11,746,40" href="../jins/kurd.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="323,146,495,172" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="152,9,338,39" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="618,9,769,39" href="../jins/kurd.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="310,146,510,174" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
 
 					</map>
                     <p>Le Μακάμ Χιτζασκάρ Κουρντ est une version archaïque du <a href="kurd.php">Μακάμ Κουρντ</a> composé du <a href="../jins/hijazkar.php">Τζινς Χιτζάζkar</a> à l'octave supérieure. Sa gamme commence avec le <a href="../jins/kurd.php">Τζινς Κουρντ</a> comme jins de base sur la tonique, suivi du <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> sur le 4<sup>ième</sup> degré.</p>
 
-                    <p>Explorez d'autres maqams dans la <a href="f_kurd.php">Οικογένεια Μακάμ Κουρντ</a>.</p>
+                    <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_kurd.php">Οικογένεια Μακάμ Κουρντ</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

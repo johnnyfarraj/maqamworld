@@ -36,14 +36,14 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/sikah_baladi.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Sikah Baladi</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/sikah_baladi.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Σίκα Μπάλαντι</a>
                     </div>
 
                      <div class="notation" id="notation1">
                         <img src="../note/maqam/sikah_baladi.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -60,9 +60,9 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="817,164,13" href="#" alt="La<i class='icon-halfflat'></i>↓" class="playNote" data-frequency="xxx" data-parent="#notation1">
 					  <area shape="circle" coords="893,173,13" href="#" alt="Sol" class="playNote" data-frequency="xxx" data-parent="#notation1">
                       <!-- Links -->
-                      <area shape="rect" coords="174,8,374,38" href="../jins/sikah_baladi.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="675,16,874,46" href="../jins/sikah_baladi.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="272,184,636,213" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="159,6,401,35" href="../jins/sikah_baladi.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="660,16,899,46" href="../jins/sikah_baladi.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="325,180,560,212" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
 
                       </map>
                     <p>Le Μακάμ Σίκα Μπάλαντι est probablement le maqam arabe le plus difficile. Sa gamme (et son <em>sayr</em>) est en quelque sorte un hybride entre le <a href="huzam.php">Μακάμ Χουζάμ</a> sur une note Sikah non conventionnelle, et du <a href="hijazkar.php">Μακάμ Χιτζασκάρ</a>. Les intervalles sont différents de ces derniers quoiqu'ils qu'ils sonnent un peu comme eux. Aucun des intervalles qui le composent ne correspond à une intonation juste ou à tempérament égale, ce qui rend ce maqam impossible à jouer sur un instrument autre qu'un <a href="../instr.php">instrument traditionnel arabe</a>.</p>

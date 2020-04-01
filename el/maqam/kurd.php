@@ -36,7 +36,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/kurd.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Kurd</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/kurd.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Κουρντ</a>
                     </div>
 
 
@@ -44,7 +44,7 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/maqam/kurd.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
                      <map name="notemap">
 					  <area shape="circle" coords="63,129,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
@@ -56,14 +56,14 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="528,80,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
 					  <area shape="circle" coords="605,72,13" href="#" alt="Ré" class="playNote" data-frequency="586.66" data-parent="#notation1">
                        <!-- Links -->
-                      <area shape="rect" coords="112,8,230,35" href="../jins/kurd.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="364,7,545,35" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="92,7,245,35" href="../jins/kurd.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="354,7,549,35" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
 
 				     </map>
 
                     <p>Le Μακάμ Κουρντ est le maqam principal de la <a href="f_kurd.php">Οικογένεια Μακάμ Κουρντ</a>. Il commence avec le jins de base <a href="../jins/kurd.php">Kurd</a> sur la tonique, suivi du <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> sur le 4<sup>ième</sup> degré.</p>
 
-                    <p>Explorez d'autres maqams dans la <a href="f_kurd.php">Οικογένεια Μακάμ Κουρντ</a>.</p>
+                    <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_kurd.php">Οικογένεια Μακάμ Κουρντ</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

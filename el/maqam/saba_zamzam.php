@@ -36,7 +36,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/saba_zamzam.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Saba Zamzam</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/saba_zamzam.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Σάμπα Ζάμζαμ</a>
                     </div>
 
 
@@ -44,7 +44,7 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/maqam/saba_zamzam.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -60,10 +60,10 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="705,65,13" href="#" alt="Mi♮" class="playNote" data-frequency="660" data-parent="#notation1"><!-- Nikriz 4th -->
 					  <area shape="circle" coords="781,57,13" href="#" alt="Fa" class="playNote" data-frequency="695.31" data-parent="#notation1">
                       <!-- Links -->
-                      <area shape="rect" coords="103,9,325,38" href="../jins/saba_zamzam.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="476,6,610,35" href="../jins/ajam.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="264,145,387,176" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="548,145,680,174" href="../jins/nikriz.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="93,6,333,35" href="../jins/saba_zamzam.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="472,6,613,35" href="../jins/ajam.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="257,145,394,176" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="544,145,684,174" href="../jins/nikriz.php" class="mapLink" data-parent="#notation1">
 
 					</map>
                     <p>Le Μακάμ Σάμπα Ζάμζαμ est un maqam très rare dans le répertoire de la musique arabe. Sa gamme commence avec le <a href="../jins/saba_zamzam.php">Jins Saba Zamzam</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> sur le 3<sup>ième</sup> degré, et finalement du <a href="../jins/ajam.php">Τζινς Άτζαμ</a> ou du <a href="../jins/nikriz.php">Τζινς Νικρίζ</a> sur le 6<sup>ième</sup> degré.

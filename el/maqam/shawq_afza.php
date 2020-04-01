@@ -30,20 +30,20 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Μακάμ Σάουκ Άφζα</h1>
-                        <h3>Membre de la <a href="f_ajam.php">Οικογένεια Μακάμ Άτζαμ</a></h3>
+                        <h3>Μέλος της <a href="f_ajam.php">Οικόγενειας Μακάμ Άτζαμ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/shawq_afza.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Chaouq Afza</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/shawq_afza.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Σάουκ Άφζα</a>
                     </div>
 
                     <div class="notation" id="notation1">
                         <img src="../note/maqam/shawq_afza.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -56,12 +56,12 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="519,85,13" href="#" alt="Si♮" class="playNote" data-frequency="492" data-parent="#notation1"><!-- Hijaz 3 tuned down from 495 -->
 					  <area shape="circle" coords="597,77,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
                       <!-- Links -->
-                      <area shape="rect" coords="137,5,263,36" href="../jins/ajam.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="425,5,544,36" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="134,4,268,36" href="../jins/ajam.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="414,4,552,36" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
 					</map>
                     <p>Le Μακάμ Σάουκ Άφζα est la version la plus commune du <a href="ajam.php">Μακάμ Άτζαμ</a>. Sa gamme commence avec le jins de base <a href="../jins/ajam.php">‘Ajam</a> sur la tonique. Le fait qu'il ait le <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> sur le 5<sup>ième</sup> degré est ce qui le distingue du <a href="ajam.php">Μακάμ Άτζαμ</a>, en plus du fait de fréquemment moduler vers le <a href="../jins/saba_dalanshin.php">Jins Saba Dalanchine</a> sur le 3<sup>ième</sup>/5<sup>ième</sup> degré.</p>
 
-                    <p>Explorez d'autres maqams dans la <a href="f_ajam.php">Οικογένεια Μακάμ Άτζαμ</a>.</p>
+                    <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_ajam.php">Οικογένεια Μακάμ Άτζαμ</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

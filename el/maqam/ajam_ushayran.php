@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Μακάμ Άτζαμ Ουσάιραν";
-$page_description = "Μακάμ Άτζαμ Ουσάιραν";
+$page_title = "Μακάμ Άτζαμ Ουσαιράν";
+$page_description = "Μακάμ Άτζαμ Ουσαιράν";
 $page_keywords = "musique arabe, maqam, instruments, jins, iqa‘, iqaa, rythme, oud, qanoun, nay, quart de ton, tarab";
 $page_language = "el";
 
@@ -29,21 +29,21 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Μακάμ Άτζαμ Ουσάιραν</h1>
-                        <h3>Membre de la <a href="f_ajam.php">Οικογένεια Μακάμ Άτζαμ</a></h3>
+                        <h1>Μακάμ Άτζαμ Ουσαιράν</h1>
+                        <h3>Μέλος της <a href="f_ajam.php">Οικόγενειας Μακάμ Άτζαμ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/ajam_ushayran.mp3"><i class="fa fa-fw fa-volume-up"></i>Prononciation de ‘Ajam ‘Ouchayrane</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/ajam_ushayran.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Άτζαμ Ουσαιράν</a>
                     </div>
 
                       <div class="notation" id="notation1">
                         <img src="../note/maqam/ajam_ushayran.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -56,16 +56,16 @@ include($ROOT . 'inc/head.php');
                       <area shape="circle" coords="530,134,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
                       <area shape="circle" coords="608,142,13" href="#" alt="Si♭" class="playNote" data-frequency="231.77" data-parent="#notation1">
                       <!-- Links -->
-                      <area shape="rect" coords="60,7,232,36" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="470,6,595,35" href="../jins/ajam.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="272,155,390,184" href="../jins/kurd.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="30,6,232,36" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="465,6,600,35" href="../jins/ajam.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="262,152,415,184" href="../jins/kurd.php" class="mapLink" data-parent="#notation1">
 		              </map>
 
-                    <p>Le Μακάμ Άτζαμ Ουσάιραν est une version archaïque du <a href="ajam.php">Μακάμ Άτζαμ</a>, avec un <em>sayr</em> différent et une emphase tonale totalement différente: au lieu d'avoir la tonique du deuxième <em>jins</em> sur le 5<sup>ième</sup> degré, il utilise plutôt la tierce et la sixte à cet effet.
+                    <p>Le Μακάμ Άτζαμ Ουσαιράν est une version archaïque du <a href="ajam.php">Μακάμ Άτζαμ</a>, avec un <em>sayr</em> différent et une emphase tonale totalement différente: au lieu d'avoir la tonique du deuxième <em>jins</em> sur le 5<sup>ième</sup> degré, il utilise plutôt la tierce et la sixte à cet effet.
                     </p>
-                    <p>Le Μακάμ Άτζαμ Ουσάιραν commence avec comme jins de base le <a href="../jins/ajam.php">Τζινς Άτζαμ</a> sur la tonique, suivi du <a href="../jins/kurd.php">Τζινς Κουρντ</a> sur le 3<sup>ième</sup> degré, puis du <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> sur le 6<sup>ième</sup> degré.
+                    <p>Le Μακάμ Άτζαμ Ουσαιράν commence avec comme jins de base le <a href="../jins/ajam.php">Τζινς Άτζαμ</a> sur la tonique, suivi du <a href="../jins/kurd.php">Τζινς Κουρντ</a> sur le 3<sup>ième</sup> degré, puis du <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> sur le 6<sup>ième</sup> degré.
                     </p>
-                    <p>Explorez d'autres maqams dans la <a href="f_ajam.php">Οικογένεια Μακάμ Άτζαμ</a>.</p>
+                    <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_ajam.php">Οικογένεια Μακάμ Άτζαμ</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

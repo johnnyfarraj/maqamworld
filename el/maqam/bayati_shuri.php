@@ -30,20 +30,20 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Μακάμ Μπαϊάτι Σούρι</h1>
-                        <h3>Membre de la <a href="f_bayati.php">Οικογένεια Μακάμ Μπαϊάτι</a></h3>
+                        <h3>Μέλος της <a href="f_bayati.php">Οικόγενειας Μακάμ Μπαϊάτι</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/bayati_shuri.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Bayati Chouri</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/bayati_shuri.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Μπαϊάτι Σούρι</a>
                     </div>
 
                       <div class="notation" id="notation1">
                         <img src="../note/maqam/bayati_shuri.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -56,8 +56,8 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="510,80,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
 					  <area shape="circle" coords="588,72,13" href="#" alt="Ré" class="playNote" data-frequency="586.66" data-parent="#notation1">
                        <!-- Links -->
-                      <area shape="rect" coords="96,11,226,40" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="336,11,455,40" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="80,9,244,39" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="330,9,469,39" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
 
 					</map>
 
@@ -65,7 +65,7 @@ include($ROOT . 'inc/head.php');
                     
                     <p>C'est un maqam très populaire, surtout pour les <a href="../form/vocal_comp.php">compositions vocales</a> dans les genres Mouachahat et Adwar.</p>
                     
-                    <p>Explorez d'autres maqams dans la <a href="f_bayati.php">Οικογένεια Μακάμ Μπαϊάτι</a>.</p>
+                    <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_bayati.php">Οικογένεια Μακάμ Μπαϊάτι</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

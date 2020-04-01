@@ -36,14 +36,14 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/lami.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Lami</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/lami.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Λάμι</a>
                     </div>
 
                     <div class="notation" id="notation1">
                         <img src="../note/maqam/lami.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
                      <map name="notemap">
 					  <area shape="circle" coords="53,130,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
@@ -55,8 +55,8 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="517,80,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
 					  <area shape="circle" coords="594,72,13" href="#" alt="Ré" class="playNote" data-frequency="586.66" data-parent="#notation1">
                       <!-- Links -->
-                      <area shape="rect" coords="100,9,220,37" href="../jins/lami.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="340,140,460,167" href="../jins/kurd.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="98,8,222,37" href="../jins/lami.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="325,138,474,167" href="../jins/kurd.php" class="mapLink" data-parent="#notation1">
 
 				     </map>
 

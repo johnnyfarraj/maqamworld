@@ -36,18 +36,18 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/nahawand.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Nahawand</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/nahawand.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Ναχαουάντ</a>
                     </div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/farahfaza.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Farahfaza</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/farahfaza.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Φαραχφάζα</a>
                     </div>
 
                      <div class="notation" id="notation1">
                         <img src="../note/maqam/nahawand.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -63,9 +63,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="circle" coords="761,96,13" href="#" alt="La♭" class="playNote" data-frequency="420" data-parent="#notation1"><!-- unchanged -->
                       <area shape="circle" coords="839,105,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
                       <!-- Links -->
-                      <area shape="rect" coords="135,11,308,39" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="440,7,558,37" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="670,11,786,39" href="../jins/kurd.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="123,7,323,37" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="430,7,573,37" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="653,7,803,37" href="../jins/kurd.php" class="mapLink" data-parent="#notation1">
 
 					</map>
                     <p>Le Μακάμ Ναχαουάντ est le maqam principal de la <a href="f_nahawand.php">Οικογένεια Μακάμ Ναχαουάντ</a>. Sa gamme commence avec le jins de base <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> ou du <a href="../jins/kurd.php">Τζινς Κουρντ</a> sur le 5<sup>ième</sup> degré. 
@@ -73,7 +73,7 @@ include($ROOT . 'inc/head.php');
                     <p>Le <strong>Μακάμ Φαραχφάζα</strong> est le Μακάμ Ναχαουάντ transposé sur Sol.
                     </p>
 
-                    <p>Explorez d'autres maqams dans la <a href="f_nahawand.php">Οικογένεια Μακάμ Ναχαουάντ</a>.</p>
+                    <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_nahawand.php">Οικογένεια Μακάμ Ναχαουάντ</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

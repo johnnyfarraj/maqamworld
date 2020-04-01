@@ -4,7 +4,7 @@
     <li><a href="/el/maqam/athar_kurd.php">Άθαρ Κουρντ</a></li>
     <li><a href="/el/maqam/awj_iraq.php">Αούτζ Ιράκ</a></li>
     <li><a href="/el/maqam/ajam.php">Άτζαμ</a></li>
-    <li><a href="/el/maqam/ajam_ushayran.php">Άτζαμ Ουσάιραν</a></li>
+    <li><a href="/el/maqam/ajam_ushayran.php">Άτζαμ Ουσαιράν</a></li>
     <li><a href="/el/maqam/nairuz.php">Γιάκα</a></li>
     <li><a href="/el/maqam/zanjaran.php">Ζαντζαράν</a></li>
     <li><a href="/el/maqam/iraq.php">Ιράκ</a></li>
@@ -24,7 +24,7 @@
     <li><a href="/el/maqam/dalanshin.php">Νταλανσίν</a></li>
     <li><a href="/el/maqam/ushaq_masri.php">Ουσάκ Μάσρι</a></li>
     <li><a href="/el/maqam/rast.php">Ραστ</a></li>
-    <li><a href="/el/maqam/huzam.php">Ράχατ αλ-Αρουά</a></li>
+    <li><a href="/el/maqam/huzam.php">Ράχατ αλ-Αρουάχ</a></li>
     <li><a href="/el/maqam/kirdan.php">Σαζκάρ</a></li>
     <li><a href="/el/maqam/saba.php">Σάμπα</a></li>
     <li><a href="/el/maqam/saba_zamzam.php">Σάμπα Ζάμζαμ</a></li>

@@ -31,16 +31,16 @@ include($ROOT . 'inc/head.php');
                     <div class="heading jins text-center">
                         <h1>Μακάμ Χουζάμ</h1>
                         <h1>Μακάμ Ράχατ αλ-Αρουάχ</h1>
-                        <h3>Membre de la <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a></h3>
+                        <h3>Μέλος της <a href="f_sikah.php">Οικόγενειας Μακάμ Σίκα</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/huzam.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Houzam</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/huzam.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Χουζάμ</a>
                     </div>
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/rahat_al_arwah`.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Rahat al-Arwah</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/rahat_al_arwah`.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Ράχατ αλ-Αρουάχ</a>
                     </div>
 
 
@@ -48,7 +48,7 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/maqam/huzam.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -61,9 +61,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="circle" coords="533,76,13" href="#" alt="Ré" class="playNote" data-frequency="586.66" data-parent="#notation1">
                       <area shape="circle" coords="610,68,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="644" data-parent="#notation1"><!--variable-->
                       <!-- Links -->
-                      <area shape="rect" coords="78,13,200,43" href="../jins/sikah.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="277,13,395,43" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="484,7,591,35" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="78,10,200,42" href="../jins/sikah.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="270,10,408,42" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="473,4,598,33" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 		</map>
 
                     <p>Le Μακάμ Χουζάμ est le maqam le plus courant de la <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a>. Il commence sur Mi<i class="icon-halfflat"></i>. Sa gamme commence avec le jins de base <a href="../jins/sikah.php">Τζινς Σίκα</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> sur le 3<sup>ième</sup> degré,  et finalement du <a href="../jins/rast.php">Τζινς Ραστ</a> sur le 6<sup>ième</sup> degré.
@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>La transposition du Μακάμ Χουζάμ sur Si<i class="icon-halfflat"></i> porte le nom de <strong>Μακάμ Ράχατ αλ-Αρουάχ</strong>. Les deux <em>maqams</em> ont exactement le même <em>sayr</em>.</p>
 
-                    <p>Explorez d'autres maqams dans la <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a>.</p>
+                    <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

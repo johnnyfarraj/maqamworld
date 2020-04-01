@@ -33,29 +33,29 @@ include($ROOT . 'inc/head.php');
                         <h1>Μακάμ Σαντ Αραμπάν</h1>
                         <h1>Μακάμ Σουζιντίλ</h1>
                         <h1>Μακάμ Σαχνάζ</h1>
-                        <h3>Membre de la <a href="f_hijaz.php">Οικογένεια Μακάμ Χιτζάζ</a></h3>
+                        <h3>Μέλος της <a href="f_hijaz.php">Οικόγενειας Μακάμ Χιτζάζ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/hijazkar.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Hijazkar</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/hijazkar.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Χιτζασκάρ</a>
                     </div>
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/shadd_araban.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Chadd ‘Arabane</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/shadd_araban.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Σαντ Αραμπάν</a>
                     </div>
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/shahnaz.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Chahnaz</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/shahnaz.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Σαχνάζ</a>
                     </div>
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/suzidil.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Suzidil</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/suzidil.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Σουζιντίλ</a>
                     </div>
 
                     <div class="notation" id="notation1">
                         <img src="../note/maqam/hijazkar.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -70,9 +70,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="circle" coords="696,128,13" href="#" alt="Ré♭" class="playNote" data-frequency="277" data-parent="#notation1"><!-- Hijaz 2 tune up from 274 -->
                       <area shape="circle" coords="774,136,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
                        <!-- Links -->
-                      <area shape="rect" coords="165,3,320,30" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="321,139,455,166" href="../jins/nikriz.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="604,7,720,37" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="148,4,330,34" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="317,139,460,168" href="../jins/nikriz.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="594,4,734,34" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
 
 					</map>
                     <p>Le Μακάμ Χιτζασκάρ est la variante la plus commune du <a href="hijaz.php">Μακάμ Χιτζάζ</a>. Sa gamme commence avec le <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> comme jins de base sur la tonique, suivi du <a href="../jins/nikriz.php">Τζινς Νικρίζ</a> sur le 4<sup>ième</sup> degré et finalement, du <a href="../jins/hijazkar.php">Τζινς Χιτζάζkar</a> à l'octave supérieure.
@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
 					<li><strong>Μακάμ Σαχνάζ</strong> (Hijazkar sur le Ré)</li>
 					</p>
 
-                    <p>Explorez d'autres maqams dans la <a href="f_hijaz.php">Οικογένεια Μακάμ Χιτζάζ</a>.</p>
+                    <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_hijaz.php">Οικογένεια Μακάμ Χιτζάζ</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

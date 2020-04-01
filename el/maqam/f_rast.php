@@ -56,13 +56,13 @@ include($ROOT . 'inc/head.php');
 
                     <p>Άλλες οικογένειες μακάμ:</p>
                     <ul>
-                        <li><a href="family/ajam.php">Οικογένεια Μακάμ Άτζαμ</a></li>
-                        <li><a href="family/bayati.php">Οικογένεια Μακάμ Μπαϊάτι</a></li>
-                        <li><a href="family/hijaz.php">Οικογένεια Μακάμ Χιτζάζ</a></li>
-                        <li><a href="family/kurd.php">Οικογένεια Μακάμ Κουρντ</a></li>
-                        <li><a href="family/nahawand.php">Οικογένεια Μακάμ Ναχαουάντ</a></li>
-                        <li><a href="family/nikriz.php">Οικογένεια Μακάμ Νικρίζ</a></li>
-                        <li><a href="family/sikah.php">Οικογένεια Μακάμ Σίκα</a></li>
+                        <li><a href="f_ajam.php">Οικογένεια Μακάμ Άτζαμ</a></li>
+                        <li><a href="f_bayati.php">Οικογένεια Μακάμ Μπαϊάτι</a></li>
+                        <li><a href="f_hijaz.php">Οικογένεια Μακάμ Χιτζάζ</a></li>
+                        <li><a href="f_kurd.php">Οικογένεια Μακάμ Κουρντ</a></li>
+                        <li><a href="f_nahawand.php">Οικογένεια Μακάμ Ναχαουάντ</a></li>
+                        <li><a href="f_nikriz.php">Οικογένεια Μακάμ Νικρίζ</a></li>
+                        <li><a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a></li>
                     </ul>
 
                 </div>

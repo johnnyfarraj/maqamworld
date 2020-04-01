@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Οικογένεια Μακάμ Άτζαμ";
 $page_description = "Οικογένεια Μακάμ Άτζαμ";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Οικογένεια Μακάμ Άτζαμ, >Μακάμ Άτζαμ Ουσάιραν, Μακάμ Σάουκ Άφζα";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Οικογένεια Μακάμ Άτζαμ, >Μακάμ Άτζαμ Ουσαιράν, Μακάμ Σάουκ Άφζα";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -36,7 +36,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/ajam.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de ‘Ajam</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/ajam.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Άτζαμ</a>
                     </div>
 
                     <p>La Οικογένεια Μακάμ Άτζαμ consiste des <em>maqams</em> qui commencent avec le <a href="../jins/ajam.php">Τζινς Άτζαμ</a>.</p>
@@ -44,7 +44,7 @@ include($ROOT . 'inc/head.php');
                     
                     <ul>
                         <li><a href="ajam.php">Μακάμ Άτζαμ</a></li>
-                        <li><a href="ajam_ushayran.php">Μακάμ Άτζαμ Ουσάιραν</a></li>
+                        <li><a href="ajam_ushayran.php">Μακάμ Άτζαμ Ουσαιράν</a></li>
                         <li><a href="shawq_afza.php">Μακάμ Σάουκ Άφζα</a></li>
                     </ul>
                     

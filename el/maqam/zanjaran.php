@@ -30,13 +30,13 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Μακάμ Ζαντζαράν</h1>
-                        <h3>Membre de la <a href="f_hijaz.php">Οικογένεια Μακάμ Χιτζάζ</a></h3>
+                        <h3>Μέλος της <a href="f_hijaz.php">Οικόγενειας Μακάμ Χιτζάζ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/zanjaran.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Zanjarane</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/zanjaran.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Ζαντζαράν</a>
                     </div>
 
 
@@ -44,7 +44,7 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/maqam/zanjaran.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -57,14 +57,14 @@ include($ROOT . 'inc/head.php');
 	  <area shape="circle" coords="512,130,13" href="#" alt="Ré♭" class="playNote" data-frequency="277" data-parent="#notation1"><!-- Hijaz 2 tune up from 274 -->
 	  <area shape="circle" coords="590,139,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
 	  <!-- Links -->
-                      <area shape="rect" coords="135,9,263,40" href="../jins/ajam.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="415,9,538,40" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="132,9,266,40" href="../jins/ajam.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="408,9,542,40" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
 
 
 					</map>
                     <p>Le Μακάμ Ζαντζαράν est une variante du <a href="hijaz.php">Μακάμ Χιτζάζ</a> avec le <a href="../jins/ajam.php">Τζινς Άτζαμ</a> comme second jins (sur le 4<sup>ième</sup> degré) et le jins de base <a href="../jins/hijaz.php">Hijaz</a> sur la tonique.</p>
 
-                    <p>Explorez d'autres maqams dans la <a href="f_hijaz.php">Οικογένεια Μακάμ Χιτζάζ</a>.</p>
+                    <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_hijaz.php">Οικογένεια Μακάμ Χιτζάζ</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

@@ -30,13 +30,13 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Μακάμ Ουσάκ Μάσρι</h1>
-                        <h3>Membre de la <a href="f_nahawand.php">Οικογένεια Μακάμ Ναχαουάντ</a></h3>
+                        <h3>Μέλος της <a href="f_nahawand.php">Οικόγενειας Μακάμ Ναχαουάντ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/ushaq_masri.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de ‘Ushaq Masri</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/ushaq_masri.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Ουσάκ Μάσρι</a>
                     </div>
 
 
@@ -45,7 +45,7 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/maqam/ushaq_masri.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -58,13 +58,13 @@ include($ROOT . 'inc/head.php');
                       <area shape="circle" coords="518,82,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
                       <area shape="circle" coords="595,73,13" href="#" alt="Ré" class="playNote" data-frequency="586.66" data-parent="#notation1">
                        <!-- Links -->
-                      <area shape="rect" coords="114,10,292,39" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="414,9,548,40" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="100,7,305,37" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="397,7,563,37" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
 
 					</map>
                     <p>Le Μακάμ Ουσάκ Μάσρι est une variation du <a href="nahawand.php">Μακάμ Ναχαουάντ</a> avec le <a href="../jins/bayati.php">Τζινς Μπαϊάτι</a> sur le 5<sup>ième</sup> degré (le <em>ghammaz</em>), au-dessus du Jins de base <a href="../jins/nahawand.php">Nahawand</a> sur le 1er degré.</p>
 
-                    <p>Explorez d'autres maqams dans la <a href="f_nahawand.php">Οικογένεια Μακάμ Ναχαουάντ</a>.</p>
+                    <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_nahawand.php">Οικογένεια Μακάμ Ναχαουάντ</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

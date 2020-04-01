@@ -30,13 +30,13 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Μακάμ Μπαστανικάρ</h1>
-                        <h3>Membre de la <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a></h3>
+                        <h3>Μέλος της <a href="f_sikah.php">Οικόγενειας Μακάμ Σίκα</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/bastanikar.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Bastanikar</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/bastanikar.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Μπαστανικάρ</a>
                     </div>
 
 
@@ -44,7 +44,7 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/maqam/bastanikar.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
 
                     <map name="notemap">
@@ -61,16 +61,16 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="857,65,13" href="#" alt="Mi♮" class="playNote" data-frequency="660" data-parent="#notation1">
 					  <area shape="circle" coords="934,57,13" href="#" alt="Fa" class="playNote" data-frequency="695.3" data-parent="#notation1">
                        <!-- Links -->
-                      <area shape="rect" coords="95,11,213,40" href="../jins/sikah.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="333,12,446,40" href="../jins/saba.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="445,149,565,175" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
-                      <area shape="rect" coords="710,6,835,31" href="../jins/nikriz.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="93,10,213,40" href="../jins/sikah.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="320,10,462,40" href="../jins/saba.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="432,149,570,177" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
+                      <area shape="rect" coords="700,2,845,31" href="../jins/nikriz.php" class="mapLink" data-parent="#notation1">
 
 				      </map>
 
                     <p>Le Μακάμ Μπαστανικάρ est en fait le <a href="../jins/sikah.php">Τζινς Σίκα</a> suivi du <a href="saba.php">Μακάμ Σάμπα</a>. Il commence avec le <a href="../jins/sikah.php">Τζινς Σίκα</a> comme jins de base sur la tonique, suivi du <a href="../jins/saba.php">Jins Saba</a> sur le 3<sup>ième</sup> degré, un <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> *overlapping* sur le 5<sup>ième</sup> degré et finalement, un <a href="../jins/nikriz.php">Τζινς Νικρίζ</a> à l'octave supérieure.</p>
 
-                    <p>Explorez d'autres maqams dans la <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a>.</p>
+                    <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
