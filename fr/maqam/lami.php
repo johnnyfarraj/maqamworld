@@ -125,7 +125,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Rl-Najmat Sarou Yis'alou (1964)</b>
+                                    <b>Al-Najmat Sarou Yis'alou (1964)</b>
                                     <span>Wadih al-Safi (Liban)</span>
                                     <span>Musique de Mouhammad Mouhsin</span>
                                 </div>
