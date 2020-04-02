@@ -77,8 +77,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Awwedti Ayni (1958)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Riyad al-Soumbati</span>
+                                    <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
+                                    <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
                             </label>
                         </div>
@@ -90,8 +90,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Zalimni (1951)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Riyad al-Soumbati</span>
+                                    <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
+                                    <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
                             </label>
                         </div>
@@ -103,7 +103,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Doulab Kurd</b>
-                                    <span>Ensemble Sabah Fakhri (Syrie)</span>
+                                    <span>Ensemble Σαμπάχ Φαχρί (Συρία)</span>
                                     <span><img src="/img/cd.png"> Au Palais Des Congrès (1995)</span>
                                 </div>
                             </label>
@@ -116,7 +116,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Yamourrou Oujouban</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span>Musique de Omar al-Batch</span>
                                     <span><img src="/img/cd.png"> Au Palais Des Congrès (1995)</span>
                                 </div>
@@ -130,7 +130,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Ya Bahjet el-Rouh</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span>Musique de Sayyed Darwich</span>
                                     <span><img src="/img/cd.png"> Au Palais Des Congrès (1995)</span>
                                 </div>
@@ -195,7 +195,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr ‘Ishiqti Rouhak (1930)</b>
-                                    <span>Interprétation et Musique de Mouhammad Abdel Wahab</span>
+                                    <span>Φωνή και μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
                         </div>

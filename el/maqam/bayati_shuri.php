@@ -103,7 +103,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Hibbi Da‘ani Lil-Wisal</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span>Musique de Sayyed Darwich</span>
                                     <span><img src="/img/cd.png"> Nagham al-Ams Vol. 2 (Bayati Chouri)</span>
                                 </div>
@@ -117,7 +117,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Talaffata al-Dhabiyou</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span><img src="/img/cd.png"> Nagham al-Ams Vol. 2 (Bayati Chouri)</span>
                                 </div>
                             </label>

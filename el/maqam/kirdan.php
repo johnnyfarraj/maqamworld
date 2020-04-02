@@ -100,7 +100,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Ya Chadi al-Alhan</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span>Musique de Sayyed Darwich</span>
                                 </div>
                             </label>

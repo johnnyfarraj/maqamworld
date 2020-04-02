@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Μακάμ Τζιχάρκα</h1>
-                        <h3>(n'apartient pas à une famille de maqams)</h3>
+                        <h3>(δεν αποτελεί μέρος κάποιας οικογένειας μακάμ)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
                     <div class="clearfix"></div>
@@ -143,7 +143,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>‘al-Rozana</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span><img src="/img/cd.png"> Au Théatre Des Amandiers</span>
                                 </div>
                             </label>

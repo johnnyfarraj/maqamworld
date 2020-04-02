@@ -75,8 +75,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Lissa Faker (1960)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Riyad al-Soumbati</span>
+                                    <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
+                                    <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
                             </label>
                         </div>

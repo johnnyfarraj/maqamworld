@@ -79,7 +79,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Mouachah Bil-ladhi Askara</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span><img src="/img/cd.png"> Nagham al-Ams Vol. 12 (Bayati)</span>
                                 </div>
                             </label>
@@ -92,7 +92,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Hal ‘Ala al-Astar</b>
-                                    <span>Ghada Chbeir (Liban)</span>
+                                    <span>Γάντα Σμπαιρ (Λίβανος)</span>
                                     <span><img src="/img/cd.png"> Al Mouachahat</span>
                                 </div>
                             </label>
@@ -105,7 +105,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Khala al-‘Idhar</b>
-                                    <span>Khaled al-Hafez (Syrie)</span>
+                                    <span>Χάλεντ αλ-Χάφεζ (Συρία)</span>
                                 </div>
                             </label>
                         </div>

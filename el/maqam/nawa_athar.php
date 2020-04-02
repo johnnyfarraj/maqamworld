@@ -78,8 +78,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ghouloubti Asaleh Fi Rouhi (1948)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Riyad al-Soumbati</span>
+                                    <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
+                                    <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
                             </label>
                         </div>
@@ -103,7 +103,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Fakkarouni (1966)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
+                                    <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>

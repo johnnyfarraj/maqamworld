@@ -124,7 +124,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ghannili Chwayy Chwayy (1945)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
+                                    <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
                                     <span>Musique de Zakaria Ahmad</span>
                                 </div>
                             </label>

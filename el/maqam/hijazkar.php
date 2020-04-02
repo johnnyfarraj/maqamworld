@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Ana Fi-ntizarak (1943)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
+                                    <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
                                     <span>Musique de Zakariya Ahmad</span>
                                 </div>
                             </label>
@@ -125,7 +125,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Nas Ana Moutti Fi Hobbi</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span>Musique de Sayyed Darwich</span>
                                 </div>
                             </label>
@@ -138,7 +138,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Afdihi Dhabiyan Ibtasam</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span><img src="/img/cd.png"> Au Theatre Des Amandiers</span>
                                 </div>
                             </label>
@@ -164,7 +164,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Maria</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span>Musique de Sayyed Darwich</span>
                                 </div>
                             </label>

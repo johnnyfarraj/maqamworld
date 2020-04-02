@@ -80,7 +80,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Aghadan Alqak (1971)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
+                                    <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
                                     <span>Musique de Mouhammad Abdel Wahab</span>
                                 </div>
                             </label>

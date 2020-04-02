@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ahl el-Hawa (1958)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
+                                    <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
                                     <span>Musique de Zakaria Ahmad</span>
                                 </div>
                             </label>
@@ -110,8 +110,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Inti Fakrani (1938)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Mouhammad al-Qasabgi</span>
+                                    <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
+                                    <span>Μουσική Μοχάμαντ αλ-Κασάμπζι</span>
                                 </div>
                             </label>
                         </div>

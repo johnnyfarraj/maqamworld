@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Μακάμ Λάμι</h1>
-                        <h3>(n'apartient pas à une famille de maqams)</h3>
+                        <h3>(δεν αποτελεί μέρος κάποιας οικογένειας μακάμ)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
                     <div class="clearfix"></div>
@@ -101,7 +101,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Albi Bi Oulli Kalam (c.1954)</b>
-                                    <span>Interprétation et Musique de Mouhammad Abdel Wahab</span>
+                                    <span>Φωνή και μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
                         </div>

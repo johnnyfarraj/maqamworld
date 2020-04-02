@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Μακάμ Σίκα Μπάλαντι";
 $page_description = "Μακάμ Σίκα Μπάλαντι";
-$page_keywords = "musique arabe, mode arabe, maqam, jins, sikah baladi, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Μακάμ Σίκα Μπάλαντι";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Μακάμ Σίκα Μπάλαντι</h1>
-                        <h3>(n'apartient pas à une famille de maqams)</h3>
+                        <h3>(δεν αποτελεί μέρος κάποιας οικογένειας μακάμ)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
                     <div class="clearfix"></div>
@@ -65,7 +65,12 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="325,180,560,212" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
 
                       </map>
-                    <p>Le Μακάμ Σίκα Μπάλαντι est probablement le maqam arabe le plus difficile. Sa gamme (et son <em>sayr</em>) est en quelque sorte un hybride entre le <a href="huzam.php">Μακάμ Χουζάμ</a> sur une note Sikah non conventionnelle, et du <a href="hijazkar.php">Μακάμ Χιτζασκάρ</a>. Les intervalles sont différents de ces derniers quoiqu'ils qu'ils sonnent un peu comme eux. Aucun des intervalles qui le composent ne correspond à une intonation juste ou à tempérament égale, ce qui rend ce maqam impossible à jouer sur un instrument autre qu'un <a href="../instr.php">instrument traditionnel arabe</a>.</p>
+                    <p>
+                        Το μακάμ Σίκα Μπάλαντι είναι αναμφίβολα μακάμ πρόκληση περισσότερο από από όλα. Η κλιμακά του (και ανάπτυξη) είναι κάτι μεταξύ σαν μεταφορά του <a href="huzam.php">Μακάμ Χουζάμ</a> σε έναν κανονικό φθόγγο πέραν των φθόγγων του Σίκα, και v – τα διαστήματα δεν είναι ακριβώς τα ίδια σε όποια περίπτωση,αλλά ακούγονται λίγο σαν τα ίδια. Κανένα από τα διαστήματά του δεν ταιριάζουν είτε ακριβώς ή σε ισο-συγκερασμένο κούρδισμα, κάνοντάς το αδύνατο να αναπαραχθεί με οτιδήποτε άλλο μέσο παρά με την φωνή και τα <a href="../instr.php">παραδοσιακά Αραβικά μουσικά όργανα</a>.
+                    </p>
+                    <p>
+                        Το μακάμ Σίκα Μπάλαντι δεν αποτελεί μέρος κάποιας οικογένειας μακάμ.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -78,8 +83,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Sahirtou Minhou al-Layali (1935)</b>
-                                    <span>Interprétation et Musique de Mouhammad Abdel Wahab</span>
+                                    <b>Σαχίρτου Μίνχου αλ-Λαϊάλι (1935)</b>
+                                    <span>Φωνή και μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
                         </div>
@@ -90,9 +95,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Chams el-Asil (1958)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Riyad al-Soumbati</span>
+                                    <b>Σαμς ελ-Ασίλ (1958)</b>
+                                    <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
+                                    <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
                             </label>
                         </div>
@@ -103,9 +108,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>el-Hobbi Kida (1959)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Riyad al-Soumbati</span>
+                                    <b>ελ-Χομπ Κίντα (1959)</b>
+                                    <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
+                                    <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
                             </label>
                         </div>
@@ -116,9 +121,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Yalli Kan Yichgik Anini (1949)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Riyad al-Soumbati</span>
+                                    <b>Γιάλι Καν Γισγκίκ Ανίνι (1949)</b>
+                                    <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
+                                    <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
                             </label>
                         </div>
@@ -129,9 +134,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Arouh Li Min (1958)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Riyad al-Soumbati</span>
+                                    <b>Αρούχ Λι Μιν (1958)</b>
+                                    <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
+                                    <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
                             </label>
                         </div>
@@ -142,8 +147,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Koulli Da Kan Leh (1954)</b>
-                                    <span>Interprétation et Musique de Mouhammad Abdel Wahab</span>
+                                    <b>Κούλι Ντα Καν Λε (1954)</b>
+                                    <span>Φωνή και μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
                         </div>
@@ -154,8 +159,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>el-Habib el-Majhoul(1972)</b>
-                                    <span>Interprétation et Musique de Mouhammad Abdel Wahab</span>
+                                    <b>ελ-Χαμπίμπ ελ-Μαζχούλ (1972)</b>
+                                    <span>Φωνή και μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
                         </div>
@@ -166,8 +171,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim au Bouzouk</b>
-                                    <span>Matar Mouhammad (Lebanon)</span>
+                                    <b>Τακσίμ Μπουζούκ</b>
+                                    <span>Μάταρ Μοχάμαντ (Λίβανος)</span>
                                 </div>
                             </label>
                         </div>
@@ -178,8 +183,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim au Qanoun</b>
-                                    <span>Abraham Salman (Irak)</span>
+                                    <b>Τακσίμ Κανονάκι</b>
+                                    <span>Αμπραχάμ Σαλμάν (Ιράκ)</span>
                                     <span><img src="/img/cd.png"> Saltanah</span>
                                 </div>
                             </label>

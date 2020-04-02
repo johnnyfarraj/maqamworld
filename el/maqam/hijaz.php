@@ -108,7 +108,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Moudnaka Gafahou Marqadouhou (1938)</b>
-                                    <span>Interprétation et Musique de Mouhammad Abdel Wahab</span>
+                                    <span>Φωνή και μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
                         </div>
@@ -145,7 +145,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Qassida Mawlaya Ajfani</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span>Du Fasil Isqi al-‘Itach</span>
                                 </div>
                             </label>
@@ -158,7 +158,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Qaddouka al-Mayyas</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span><img src="/img/cd.png"> Nagham al-Ams Vol. 14 Hijaz</span>
                                 </div>
                             </label>
@@ -184,7 +184,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Doulab et Taqsim au Nay en Μακάμ Χιτζάζ</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span><img src="/img/cd.png"> Nagham al-Ams Vol. 14 Hijaz</span>
                                 </div>
                             </label>
@@ -197,7 +197,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Doulab Hijaz</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span><img src="/img/cd.png"> Mawawil and Mouachahat</span>
                                 </div>
                             </label>

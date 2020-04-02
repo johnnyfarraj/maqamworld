@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Mouachah Ya Chadi al-Alhan</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span>Musique de Sayyed Darwich</span>
                                 </div>
                             </label>
@@ -159,8 +159,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Lah Tilaw‘ini (1938)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Mouhammad al-Qasabgi</span>
+                                    <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
+                                    <span>Μουσική Μοχάμαντ αλ-Κασάμπζι</span>
                                 </div>
                             </label>
                         </div>
@@ -172,7 +172,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Doulab Rast</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span><img src="/img/cd.png"> Au Palais Des Congres</span>
                                 </div>
                             </label>

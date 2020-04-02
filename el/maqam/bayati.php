@@ -82,8 +82,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>‘Ala Balad el-Mahboub Waddini (1935)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Riyad al-Soumbati</span>
+                                    <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
+                                    <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
                             </label>
                         </div>
@@ -95,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Akoun Sa‘id (1932)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
+                                    <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
                                     <span>Musique de Zakaria Ahmad</span>
                                 </div>
                             </label>
@@ -108,7 +108,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Lamma-nta Nawi (1929)</b>
-                                    <span>Interprétation et Musique de Mouhammad Abdel Wahab</span>
+                                    <span>Φωνή και μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
                         </div>
@@ -133,7 +133,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Imlali al-Aqdaha Sirfan</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span>(composition traditionnelle)</span>
                                 </div>
                             </label>

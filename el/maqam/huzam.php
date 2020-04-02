@@ -98,7 +98,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Ayyouha al-Saqi</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span>Musique de Majdi al-‘Aqili</span>
                                     <span><img src="/img/cd.png"> Nagham al-Ams Vol. 13 Houzam</span>
                                 </div>
@@ -112,7 +112,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr Emta el-Hawa (1936)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
+                                    <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
                                     <span>Musique de Zakaria Ahmad</span>
                                 </div>
                             </label>
@@ -126,7 +126,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Marmar Zamani</b>
                                     <span>Fairouz (Liban)</span>
-                                    <span>(chanson traditionnelle)</span>
+                                    <span>(παραδοσιακή Μελωδία)</span>
                                 </div>
                             </label>
                         </div>
@@ -144,7 +144,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Ward Gamil (1947)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
+                                    <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
                                     <span>Musique de Zakaria Ahmad</span>
                                 </div>
                             </label>
@@ -196,7 +196,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Doulab Rahat al-Arwah</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span><img src="/img/cd.png"> Festival de Beiteddine (Liban)</span>
                                 </div>
                             </label>

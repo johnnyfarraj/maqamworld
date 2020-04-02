@@ -91,7 +91,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Haramouha Minni</b>
                                     <span>Fathiyya Ahmad (Égypte)</span>
-                                    <span>Musique de Mouhammad al-Qasabgi</span>
+                                    <span>Μουσική Μοχάμαντ αλ-Κασάμπζι</span>
                                 </div>
                             </label>
                         </div>
@@ -103,8 +103,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Raqq el-Habib (1944)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Mouhammad al-Qasabgi</span>
+                                    <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
+                                    <span>Μουσική Μοχάμαντ αλ-Κασάμπζι</span>
                                 </div>
                             </label>
                         </div>

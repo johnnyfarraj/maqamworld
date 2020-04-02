@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Μακάμ Σάμπα";
 $page_description = "Μακάμ Σάμπα";
-$page_keywords = "musique arabe, mode arabe, maqam, jins, saba, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Μακάμ Σάμπα";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Μακάμ Σάμπα</h1>
-                        <h3>(n'apartient pas à une famille de maqams)</h3>
+                        <h3>(δεν αποτελεί μέρος κάποιας οικογένειας μακάμ)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
                     <div class="clearfix"></div>
@@ -65,9 +65,11 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="542,143,688,173" href="../jins/nikriz.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Μακάμ Σάμπα est un maqam très commun et très populaire dans le répertoire de la musique arabe. Sa gamme commence avec le <a href="../jins/saba.php">Jins Saba</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> sur le 3<sup>ième</sup> degré, et finalement du <a href="../jins/ajam.php">Τζινς Άτζαμ</a> ou du <a href="../jins/nikriz.php">Τζινς Νικρίζ</a> sur le 6<sup>ième</sup> degré.</p>
+                    <p>
+                        Το μακάμ Σάμπα είναι ένα πολύ δημοφιλές και κοινό μακάμ στο Αραβικό ρεπερτόριο. Η κλίμακά του αρχίζει με <a href="../jins/saba.php">Τζινς Σάμπα</a> στην τονική, αλληλεπικαλυπτόμενο από <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> στην 3η βαθμίδα, ακολουθούμενη από είτε <a href="../jins/ajam.php">Τζινς Άτζαμ</a> είτε <a href="../jins/nikriz.php">Τζινς Νικρίζ</a> στην 6η βαθμίδα.
+                    </p>
 
-                    <p>Μακάμ Σάμπα ne fait pas partie d'une famille de maqams.</p>
+                    <p>Το μακάμ Σάμπα δεν αποτελεί μέρος κάποιας οικογένειας μακάμ.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -80,8 +82,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Doulab, Taqsim au Nay et Layai en Μακάμ Σάμπα</b>
-                                    <span>L'ensemble de Sabri al-Moudallal (Syrie)</span>
+                                    <b>Ντουλάμπ, τακσίμι Νάι &nbsp; Λαϊάλι Σάμπα</b>
+                                    <span>Σάμπρι αλ-Μουντάλαλ (Συρία)</span>
                                 </div>
                             </label>
                         </div>
@@ -92,9 +94,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>al-Atlal (1966)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Riyad al-Soumbati</span>
+                                    <b>αλ-Ατλάλ (1966)</b>
+                                    <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
+                                    <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
                             </label>
                         </div>
@@ -105,8 +107,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Houwa Sahih el-Hawa Ghallab (1960)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
+                                    <b>Χούα Σαχέχ ελ-Χάουα Γαλάμπ (1960)</b>
+                                    <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
                                     <span>Musique de Zakaria Ahmad</span>
                                 </div>
                             </label>
@@ -118,8 +120,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ahwa Qamaran</b>
-                                    <span>Ghada Chbeir (Liban)</span>
+                                    <b>Μουάσαχ Άχουα Κάμαραν</b>
+                                    <span>Γάντα Σμπαιρ (Λίβανος)</span>
                                 </div>
                             </label>
                         </div>
@@ -130,8 +132,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ghouddi Joufounik</b>
-                                    <span>Khaled al-Hafez (Syrie)</span>
+                                    <b>Μουάσαχ Γούντι Ζουφούνεκ</b>
+                                    <span>Χάλεντ αλ-Χάφεζ (Συρία)</span>
                                 </div>
                             </label>
                         </div>
@@ -142,9 +144,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qadd Ya m-as‘ad el-Sabahiyya</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
-                                    <span>(chanson traditionnelle)</span>
+                                    <b>Καντ Για μεσάντ ελ-Σαμπαχία</b>
+                                    <span>Σαμπάχ Φαχρί (Συρία)</span>
+                                    <span>(παραδοσιακή Μελωδία)</span>
                                 </div>
                             </label>
                         </div>
@@ -155,9 +157,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Tishuf Umuri (1930)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Mouhammad al-Qasabgi</span>
+                                    <b>Τεσούφ Ουμούρι (1930)</b>
+                                    <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
+                                    <span>Μουσική Μοχάμαντ αλ-Κασάμπζι</span>
                                 </div>
                             </label>
                         </div>
@@ -168,8 +170,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Saba</b>
-                                    <span>Musique de Youssef Kassab</span>
+                                    <b>Σαμάι Σάμπα</b>
+                                    <span>Μουσική Γιούσεφ Κασσάμπ</span>
                                 </div>
                             </label>
                         </div>
