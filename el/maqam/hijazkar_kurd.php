@@ -123,7 +123,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Izzay Tibi‘ni w-Ana Ashterik</b>
-                                    <span>Saleh Abdel Hayy (Égypte)</span>
+                                    <span>Σάλεχ Αμπντέλ Χάι (Αίγυπτος)</span>
                                 </div>
                             </label>
                         </div>

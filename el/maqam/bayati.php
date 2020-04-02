@@ -120,7 +120,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mijana and ‘Ataba</b>
-                                    <span>Wadih al-Safi (Liban)</span>
+                                    <span>Ουαντί Αλ-Σάφι (Λίβανος )</span>
                                     <span>(folklore libanais)</span>
                                 </div>
                             </label>

@@ -95,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Mala al-Kasat</b>
                                     <span>Ensemble Al-Kindi (Syrie/France)</span>
-                                    <span>Musique de Mouhammad Outhman</span>
+                                    <span>Μουσική Μοχάμαντ Οθμάν</span>
                                 </div>
                             </label>
                         </div>

@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Μακάμ Τζιχάρκα";
 $page_description = "Μακάμ Τζιχάρκα";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Μακάμ Τζιχάρκα";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -62,9 +62,10 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="490,149,672,182" href="../jins/upper_rast.php" class="mapLink" data-parent="#notation1">
 					</map>
 
-                    <p>Le Μακάμ Τζιχάρκα est un maqam très rare qui commence avec le <a href="../jins/jiharkah.php">Jins Jiharkah</a> sur la tonique, suivi du <a href="../jins/upper_rast.php">Jins Haut Rast</a> sur le 5<sup>ième</sup> degré (avec sa tonique sur le 8<sup>ième</sup> degré).
+                    <p>
+                        Το μακάμ Τζιχάρκα είναι κάπως σπάνιο μακάμ το οποίο αρχίζει με <a href="../jins/jiharkah.php">Τζινς Τζιχάρκα</a> στην τονική, έπειτα <a href="../jins/upper_rast.php">Τζινς Άνω Ραστ</a> στην 5η βαθμίδα (με την τονική της στην 8η βαθμίδα).
                     </p>
-                    <p>Le Μακάμ Τζιχάρκα ne fait pas partie d'une famille de maqams.</p>
+                    <p>Το μακάμ Τζιχάρκα δεν αποτελεί μέρος κάποιας οικογένειας μακάμ.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -77,9 +78,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Kallili ya Souhbou</b>
-                                    <span>Ensemble Abdel Halim Noueirah (Égypte)</span>
-                                    <span>Musique de Mouhammad Outhman</span>
+                                    <b>Μουάσαχ Καλίλι Για Σούχουμπου</b>
+                                    <span>Μουσικό Σύνολο Αμπντέλ Χαλίμ Νουέϊρα</span>
+                                    <span>Μουσική Μοχάμαντ Οθμάν</span>
                                 </div>
                             </label>
                         </div>
@@ -90,9 +91,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Dawr Ya Ma'nta Wahichni</b>
-                                    <span>Sabah Fakhri</span>
-                                    <span>Musique de Mouhammad Outhman</span>
+                                    <b>Ντάουρ Για Μάντα Ουαχίσνι</b>
+                                    <span>Σαμπάχ Φαχρί</span>
+                                    <span>Μουσική Μοχάμαντ Οθμάν</span>
                                 </div>
                             </label>
                         </div>
@@ -103,9 +104,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Dawr ‘Ishna wi Choufna</b>
-                                    <span>Saleh Abdel Hayy (Égypte)</span>
-                                    <span>Musique de Mouhammad Outhman</span>
+                                    <b>Ντάουρ Ίσνα ου Σούφνα</b>
+                                    <span>Σάλεχ Αμπντέλ Χάι (Αίγυπτος)</span>
+                                    <span>Μουσική Μοχάμαντ Οθμάν</span>
                                 </div>
                             </label>
                         </div>
@@ -116,8 +117,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Jiharkah</b>
-                                    <span>Orchestre Sabah Fakhri</span>
+                                    <b>Σαμάι Τζιχάρκα</b>
+                                    <span>Ορχήστρα Σαμπάχ Φαχρί</span>
                                     <span><img src="/img/cd.png"> Au Théatre Des Amandiers</span>
                                 </div>
                             </label>
@@ -129,8 +130,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Doulab Jiharkah</b>
-                                    <span>Orchestre Sabah Fakhri</span>
+                                    <b>Ντουλάμπ Τζιχάρκα</b>
+                                    <span>Orchestre Σαμπάχ Φαχρί</span>
                                     <span><img src="/img/cd.png"> Au Théatre Des Amandiers</span>
                                 </div>
                             </label>
@@ -142,7 +143,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>‘al-Rozana</b>
+                                    <b>αλ-Ρόζανα</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span><img src="/img/cd.png"> Au Théatre Des Amandiers</span>
                                 </div>

@@ -113,7 +113,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr Yama-nta Wahishni</b>
                                     <span>Ensemble Abdel Halim Noueirah (Égypte)</span>
-                                    <span>Musique de Mouhammad Outhman</span>
+                                    <span>Μουσική Μοχάμαντ Οθμάν</span>
                                 </div>
                             </label>
                         </div>
@@ -190,7 +190,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Doulab Hijazkar</b>
-                                    <span>Ensemble Sabah Fakhri</span>
+                                    <span>Ensemble Σαμπάχ Φαχρί</span>
                                     <span><img src="/img/cd.png"> Nagham al-Ams Vol. 04 Hijazkar</span>
                                 </div>
                             </label>

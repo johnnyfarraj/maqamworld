@@ -6,7 +6,8 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Μακάμ Σάμπα Ζάμζαμ";
 $page_description = "Μακάμ Σάμπα Ζάμζαμ";
-$page_keywords = "musique arabe, mode arabe, maqam, jins, saba zamzam, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Μακάμ Σάμπα Ζάμζαμ";
+
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -66,10 +67,12 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="544,145,684,174" href="../jins/nikriz.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Μακάμ Σάμπα Ζάμζαμ est un maqam très rare dans le répertoire de la musique arabe. Sa gamme commence avec le <a href="../jins/saba_zamzam.php">Jins Saba Zamzam</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> sur le 3<sup>ième</sup> degré, et finalement du <a href="../jins/ajam.php">Τζινς Άτζαμ</a> ou du <a href="../jins/nikriz.php">Τζινς Νικρίζ</a> sur le 6<sup>ième</sup> degré.
+                    <p>
+                        Το μακάμ Σάμπα Ζάμζαμ είναι σπάνιο μακάμ στο Αραβικό ρεπερτόριο. Η κλίμακά του αρχίζει με <a href="../jins/saba_zamzam.php">Τζινς Σάμπα Ζάμζαμ</a> στην τονική, αλληλεπικαλυπτόμενο από <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> στην 3η βαθμίδα, ακολουθούμενη από είτε <a href="../jins/ajam.php">Τζινς Άτζαμ</a> είτε <a href="../jins/nikriz.php">Τζινς Νικρίζ</a> στην 6η βαθμίδα.
                     </p>
                     <p>
-                    Μακάμ Σάμπα Ζάμζαμ ne fait pas partie d'une famille de maqams.</p>
+                    Μακάμ Σάμπα Ζάμζαμ δεν αποτελεί μέρος κάποιας οικογένειας μακάμ.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -82,9 +85,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sawwah (1966)</b>
-                                    <span>Abdel Halim Hafez (Égypte)</span>
-                                    <span>Musique de Baligh Hamdi</span>
+                                    <b>Σαουάχ (1966)</b>
+                                    <span>Αμπντέλ Χαλίμ Χάφεζ (Αίγυπτος)</span>
+                                    <span>Μουσική Μπαλίχ Χάμντι</span>
                                 </div>
                             </label>
                         </div>
@@ -95,9 +98,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Amal Hayati (1965)</b>
+                                    <b>Άμαλ Χαϊάτι (1965)</b>
                                     <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
-                                    <span>Musique de Mouhammad Abdel Wahab</span>
+                                    <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
                         </div>
@@ -108,9 +111,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>‘Ala Hisb Widad Galbi (1963)</b>
-                                    <span>Abdel Halim Hafez (Égypte)</span>
-                                    <span>Musique de Baligh Hamdi</span>
+                                    <b>Άλα Χισμπ Ουιντάντ Γκάλμπι (1963)</b>
+                                    <span>Αμπντέλ Χαλίμ Χάφεζ (Αίγυπτος)</span>
+                                    <span>Μουσική Μπαλίχ Χάμντι</span>
                                 </div>
                             </label>
                         </div>
@@ -121,9 +124,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Bint el-Sultan</b>
-                                    <span>Ahmad ‘Adaweyah</span>
-                                    <span>Musique de Hassan Abou al-Su‘ud</span>
+                                    <b>Για Μπιντ ελ-Σουλτάν</b>
+                                    <span>Αχμαντ Ανταουία</span>
+                                    <span>Μουσική Χάσαν Αμπού αλ-Σουντ</span>
                                 </div>
                             </label>
                         </div>

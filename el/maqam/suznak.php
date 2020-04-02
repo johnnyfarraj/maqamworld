@@ -90,7 +90,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr Asl el-Gharam</b>
                                     <span>Nour el-Hoda (Liban/Égypte)</span>
-                                    <span>Musique de Mouhammad Outhman</span>
+                                    <span>Μουσική Μοχάμαντ Οθμάν</span>
                                 </div>
                             </label>
                         </div>

@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Μακάμ Λάμι";
 $page_description = "Μακάμ Λάμι";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Μακάμ Λάμι";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -60,8 +60,11 @@ include($ROOT . 'inc/head.php');
 
 				     </map>
 
-                    <p>Le Μακάμ Λάμι est un maqam très rare au Moyen-Orient et a été emprunté au Maqam Iraquien. Il commence avec le <a href="../jins/lami.php">Jins Lami</a> sur la tonique, suivi du <a href="../jins/kurd.php">Τζινς Κουρντ</a> sur le 4<sup>ième</sup> degré.
+                    <p>
+                        Το μακάμ Λάμι είναι ένα σπάνιο μακάμ στην Μέση Ανατολή και ήταν δανεισμένο από το Ιρακινό ρεπερτόριο. Η κλίμακά του αρχίζει με <a href="../jins/lami.php">Τζινς Λάμι</a> στην τονική, ακολουθούμενη από <a href="../jins/kurd.php">Τζινς Κουρντ</a> στην 4η βαθμίδα.
                     </p>
+                    <p>Το μακάμ Λάμι δεν αποτελεί μέρος κάποιας οικογένειας μακάμ.</p>
+
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -74,9 +77,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>el-Bortoqal (1938)</b>
-                                    <span>Interprétation de Ra'isa ‘Afifi and Mouhammad Abdel Wahab</span>
-                                    <span>Musique de Mouhammad Abdel Wahab</span>
+                                    <b>ελ-Μπορτοκάλ (1938)</b>
+                                    <span>Φωνή Ραΐσα Αφίφι και Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
+                                    <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
                         </div>
@@ -87,9 +90,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Tislam Idein Elli-shtara (c. 1960)</b>
-                                    <span>Interprétation de Mouhammad Abdel Mouttaleb</span>
-                                    <span>Musique de Mahmoud Kamel (Égypte)</span>
+                                    <b>Τέσλαμ Ιντέιν Έλι-Στάρα (c. 1960)</b>
+                                    <span>Φωνή Μοχάμαντ Αμπντέλ Μουτάλιμπ</span>
+                                    <span>Μουσική Μαχμούντ Κάμελ (Αίγυπτος)</span>
                                 </div>
                             </label>
                         </div>
@@ -100,7 +103,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Albi Bi Oulli Kalam (c.1954)</b>
+                                    <b>Άλμπι Μπι Ούλι Καλάμ (c.1954)</b>
                                     <span>Φωνή και μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
@@ -112,8 +115,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ahmad Ya Habibi</b>
-                                    <span>Interprétation et Musique de Sabri al-Moudallal</span>
+                                    <b>Άχμαντ Για Χαμπίμπι</b>
+                                    <span>Φωνή και μουσική Σάμπρι αλ-Μουντάλαλ</span>
                                     <span><img src="/img/cd.png"> Songs from Aleppo</span>
                                 </div>
                             </label>
@@ -125,9 +128,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Rl-Najmat Sarou Yis'alou (1964)</b>
-                                    <span>Wadih al-Safi (Liban)</span>
-                                    <span>Musique de Mouhammad Mouhsin</span>
+                                    <b>ελ-Ναζμάτ Σάρου Γίσαλου (1964)</b>
+                                    <span>Ουαντί Αλ-Σάφι (Λίβανος )</span>
+                                    <span>Μουσική Μοχάμαντ Μόχσεν</span>
                                 </div>
                             </label>
                         </div>
@@ -138,9 +141,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Goulli Ya Hilou</b>
-                                    <span>Nazem al-Ghazali (Irak)</span>
-                                    <span>(Chanson traditionnelle de l'Irak)</span>
+                                    <b>Γκούλι Για Χέλο</b>
+                                    <span>Νάζεμ αλ-Γαζάλι (Ιράκ)</span>
+                                    <span>(Παραδοσιακό Ιρακινό)</span>
                                 </div>
                             </label>
                         </div>

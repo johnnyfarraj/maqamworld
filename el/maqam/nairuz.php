@@ -112,7 +112,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr Asl el-Gharam (1945)</b>
                                     <span>Nour el-Hoda</span>
-                                    <span>Musique de Mouhammad Outhman</span>
+                                    <span>Μουσική Μοχάμαντ Οθμάν</span>
                                 </div>
                             </label>
                         </div>

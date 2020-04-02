@@ -92,7 +92,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ba‘id ‘Annak (1965)</b>
                                     <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
-                                    <span>Musique de Baligh Hamdi</span>
+                                    <span>Μουσική Μπαλίχ Χάμντι</span>
                                 </div>
                             </label>
                         </div>

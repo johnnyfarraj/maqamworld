@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Mala el-Kasat</b>
                                     <span>Mouhammad Khayri (Syrie)</span>
-                                    <span>Musique de Mouhammad Outhman</span>
+                                    <span>Μουσική Μοχάμαντ Οθμάν</span>
                                 </div>
                             </label>
                         </div>
@@ -121,8 +121,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr ‘Ishna wi Choufna</b>
-                                    <span>Saleh Abdel Hayy (Égypte)</span>
-                                    <span>Musique de Mouhammad Outhman</span>
+                                    <span>Σάλεχ Αμπντέλ Χάι (Αίγυπτος)</span>
+                                    <span>Μουσική Μοχάμαντ Οθμάν</span>
                                 </div>
                             </label>
                         </div>

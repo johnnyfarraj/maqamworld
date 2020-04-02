@@ -90,8 +90,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Khousara (1957)</b>
-                                    <span>Abdel Halim Hafez (Égypte)</span>
-                                    <span>Musique de Baligh Hamdi</span>
+                                    <span>Αμπντέλ Χαλίμ Χάφεζ (Αίγυπτος)</span>
+                                    <span>Μουσική Μπαλίχ Χάμντι</span>
                                 </div>
                             </label>
                         </div>
