@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Μακάμ Χιτζασκάρ";
 $page_description = "Μακάμ Χιτζασκάρ";
-$page_keywords = "musique arabe, mode arabe, maqam, jins, hijaz kar, hijazkar, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Οικογένεια Μακάμ Χιτζάζ, Μακάμ Χιτζάζ, Μακάμ Χιτζασκάρ, Μακάμ Σαντ Αραμπάν, Μακάμ Σαχνάζ, Μακάμ Σουζιντίλ, Μακάμ Ζαντζαράν";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -73,16 +73,18 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="148,4,330,34" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="317,139,460,168" href="../jins/nikriz.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="594,4,734,34" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
-
 					</map>
-                    <p>Le Μακάμ Χιτζασκάρ est la variante la plus commune du <a href="hijaz.php">Μακάμ Χιτζάζ</a>. Sa gamme commence avec le <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> comme jins de base sur la tonique, suivi du <a href="../jins/nikriz.php">Τζινς Νικρίζ</a> sur le 4<sup>ième</sup> degré et finalement, du <a href="../jins/hijazkar.php">Τζινς Χιτζάζkar</a> à l'octave supérieure.
+
+                    <p>
+                        Το Μακάμ Χιτζασκάρ είναι η πιο κοινή παραλλαγή του <a href="hijaz.php">Μακάμ Χιτζάζ</a> (με βάση το Ντο). Η κλίμακά του αρχίζει με βάση <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> στην τονική, ακολουθούμενο από <a href="../jins/nikriz.php">Τζινς Νικρίζ</a> στην 4η βαθμίδα, έπειτα <a href="../jins/hijazkar.php">Τζινς Χιτζάζkar</a> στην οκτάβα.
                     </p>
                     <p>
-                    Pour des raisons historiques, 3 transpositions de ce maqam ont des noms différents (et avaient, il y a longtemps, un <em>sayr</em> différent):</p>
+                        Για ιστορικούς λόγους, 3 από τις μεταφορές της βάσης αυτού του μακάμ έχουν διαφορτετκό όνομα (και συνήθως είχαν διαφορετική ανάπτυξη πριν από πολύ καιρό):
+                    </p>
 					<p>
-					<li><strong>Μακάμ Σαντ Αραμπάν</strong> (Hijazkar sur le bas Sol)</li>
-					<li><strong>Μακάμ Σουζιντίλ</strong> (Hijazkar sur le bas La)</li>
-					<li><strong>Μακάμ Σαχνάζ</strong> (Hijazkar sur le Ré)</li>
+					<li><strong>Μακάμ Σαντ Αραμπάν</strong> (Χιτζασκάρ με βάση το χαμηλό Σολ)</li>
+					<li><strong>Μακάμ Σουζιντίλ</strong> (Χιτζασκάρ με βάση το χαμηλό Λα)</li>
+					<li><strong>Μακάμ Σαχνάζ</strong> (Χιτζασκάρ με βάση το Ρε)</li>
 					</p>
 
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_hijaz.php">Οικογένεια Μακάμ Χιτζάζ</a>.</p>
@@ -98,9 +100,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Ana Fi-ntizarak (1943)</b>
+                                    <b>Άνα Φινταζάρακ (1943)</b>
                                     <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
-                                    <span>Musique de Zakariya Ahmad</span>
+                                    <span>Μουσική Ζακαρία Άχμαντ</span>
                                 </div>
                             </label>
                         </div>
@@ -111,7 +113,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr Yama-nta Wahishni</b>
+                                    <b>Ντάουρ Γιάμα-ντα Ουαχίσνι</b>
                                     <span>Μουσικό Σύνολο Αμπντέλ Χαλίμ Νουέϊρα</span>
                                     <span>Μουσική Μοχάμαντ Οθμάν</span>
                                 </div>
@@ -124,7 +126,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Nas Ana Moutti Fi Hobbi</b>
+                                    <b>Νταουάρ Για Νας Άνα Μούτετ Φι Χόμπι</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span>Μουσική Σαΐντ Νταρουίς</span>
                                 </div>
@@ -137,7 +139,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Afdihi Dhabiyan Ibtasam</b>
+                                    <b>Μουάσαχ Αφντίχι Δάμπιγιαν Ιμπτάσαμ</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span><img src="/img/cd.png"> Au Theatre Des Amandiers</span>
                                 </div>
@@ -150,8 +152,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ya ‘Ouyounan Ramiyat</b>
-                                    <span>Sabri al-Moudallal (Syrie)</span>
+                                    <b>Μουάσαχ Για Αϊούναν Ραμιάτ</b>
+                                    <span>Σάμπρι αλ-Μουντάλαλ (Συρία)</span>
                                     <span>Μουσική Όμαρ αλ-Μπατς</span>
                                 </div>
                             </label>
@@ -163,7 +165,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Maria</b>
+                                    <b>Για Μαρία</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span>Μουσική Σαΐντ Νταρουίς</span>
                                 </div>
@@ -176,8 +178,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim au Qanoun en Μακάμ Χιτζάζ</b>
-                                    <span>Ensemble Sabri al-Moudallal</span>
+                                    <b>Ταξίμι Κανονάκι σε Μακάμ Χιτζάζ</b>
+                                    <span>Μουσικό Σύνολο Σάμπρι αλ-Μουντάλαλ</span>
                                     <span><img src="/img/cd.png"> Chansons d'Alep</span>
                                 </div>
                             </label>
@@ -189,8 +191,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Doulab Hijazkar</b>
-                                    <span>Ensemble Σαμπάχ Φαχρί</span>
+                                    <b>Ντουλάμπ Χιτζάζkar</b>
+                                    <span>Μουσικό Σύνολο Σαμπάχ Φαχρί</span>
                                     <span><img src="/img/cd.png"> Nagham al-Ams Vol. 04 Hijazkar</span>
                                 </div>
                             </label>
@@ -202,10 +204,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Laha Badrou-t-Timm</b>
+                                    <b>Μουάσαχ Λάχα Μπάντρου-τ-Τιμ</b>
                                     <span>(Μακάμ Σουζιντίλ)</span>
                                     <span>Μουσικό Σύνολο Αραβικής Μουσικής (Αίγυπτος)</span>
-                                    <span>Musique de Mahmoud Soubh</span>
+                                    <span>Μουσική Σέιχ Μαχμούντ Σουμπχ </span>
                                 </div>
                             </label>
                         </div>
@@ -216,10 +218,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ba‘attilak Ya Habib el-Rouh</b>
+                                    <b>Μπαατίλακ Για Χαμπίμπ ελ-Ροχ</b>
                                     <span>(Μακάμ Σαντ Αραμπάν)</span>
                                     <span>Φεϊρούζ (Λίβανος)</span>
-                                    <span>Musique de Ziad Rahbani</span>
+                                    <span>Μουσική Ζιάντ Ραχμπάνι</span>
                                 </div>
                             </label>
                         </div>
@@ -230,9 +232,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Chadd ‘Arabane</b>
-                                    <span>Ensemble Omar Sarmini</span>
-                                    <span>Musique de Tanburi Cemil Bey</span>
+                                    <b>Σαμάι Σαντ Αραμπάν</b>
+                                    <span>Μουσικό  Σύνολο Όμαρ αλ-Σαρμίνι</span>
+                                    <span>Μουσική Τανμπούρι Τζεμίλ Μπέι</span>
                                 </div>
                             </label>
                         </div>

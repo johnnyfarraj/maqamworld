@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Μακάμ Μπαϊάτι Σούρι";
 $page_description = "Μακάμ Μπαϊάτι Σούρι";
-$page_keywords = "musique arabe, mode arabe, maqam, jins, bayati shuri, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Οικογένεια Μακάμ Μπαϊάτι, Μακάμ Μπαϊάτι Σούρι, Μακάμ Χουσάινι";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -58,12 +58,14 @@ include($ROOT . 'inc/head.php');
                        <!-- Links -->
                       <area shape="rect" coords="80,9,244,39" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="330,9,469,39" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
-
 					</map>
 
-                    <p>Μακάμ Μπαϊάτι Σούρι is a variation of <a href="bayati.php">Μακάμ Μπαϊάτι</a> with a lowered 5<sup>th</sup> degree. It starts with the root <a href="../jins/bayati.php">Τζινς Μπαϊάτι</a> on the <em>tonic</em> followed by <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> on the 4<sup>th</sup> degree.</p>
-                    
-                    <p>C'est un maqam très populaire, surtout pour les <a href="../form/vocal_comp.php">compositions vocales</a> dans les genres Mouachahat et Adwar.</p>
+                    <p>
+                       Το Μακάμ Μπαϊάτι Σούρι είναι μία παραλλαγή του <a href="bayati.php">Μακάμ Μπαϊάτι</a> με χαμηλωμένη την 5η βαθμίδα. Αρχίζει με την βάση <a href="../jins/bayati.php">Τζινς Μπαϊάτι</a> στην τονική, ακολουθούμενο από είτε <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> στην 4η βαθμίδα.
+                    </p>   
+                    <p>
+                        Είναι ένα πολύ δημοφιλές μακάμ δικαιωματικά, ειδικά στις Μουασαχάτ και Αντουάρ <a href="../form/vocal_comp.php">φωνητικές συνθέσεις</a>.
+                    </p>
                     
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_bayati.php">Οικογένεια Μακάμ Μπαϊάτι</a>.</p>
 
@@ -78,8 +80,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Sama‘i Bayati Chouri</b>
-                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 2 (Bayati Chouri)</span>
+                                    <b>Σαμάι Μπαϊάτι Σούρι</b>
+                                    <span><img src="/img/cd.png"> Νάγαμ αλ-Αμς Vol. 2 (Μπαϊάτι Σούρι)</span>
                                 </div>
                             </label>
                         </div>
@@ -90,8 +92,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim au Violon en Μακάμ Μπαϊάτι Σούρι</b>
-                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 2 (Bayati Chouri)</span>
+                                    <b>Τακσίμι Βιολί Μακάμ Μπαϊάτι Σούρι</b>
+                                    <span><img src="/img/cd.png"> Νάγαμ αλ-Αμς Vol. 2 (Μπαϊάτι Σούρι)</span>
                                 </div>
                             </label>
                         </div>
@@ -102,10 +104,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Hibbi Da‘ani Lil-Wisal</b>
+                                    <b>Μουάσαχ Χίμπι Νταάνι Λιλ-Ουισάλ</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span>Μουσική Σαΐντ Νταρουίς</span>
-                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 2 (Bayati Chouri)</span>
+                                    <span><img src="/img/cd.png"> Νάγαμ αλ-Αμς Vol. 2 (Μπαϊάτι Σούρι)</span>
                                 </div>
                             </label>
                         </div>
@@ -116,9 +118,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Talaffata al-Dhabiyou</b>
+                                    <b>Μουάσαχ Ταλάφατα αλ-Δάμπιου</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
-                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 2 (Bayati Chouri)</span>
+                                    <span><img src="/img/cd.png"> Νάγαμ αλ-Αμς Vol. 2 (Μπαϊάτι Σούρι)</span>
                                 </div>
                             </label>
                         </div>
@@ -129,8 +131,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr Dayya‘ti Mustaqbal Hayati</b>
-                                    <span>Interprétation et Musique de Sayyed Darwich</span>
+                                    <b>Ντάουρ Νταιάτι Μουστάκμπαλ Χαϊάτι</b>
+                                    <span>Μουσική και φωνή Σαΐντ Νταρουίς</span>
                                 </div>
                             </label>
                         </div>
@@ -141,9 +143,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qadd Ah Ya Hilou</b>
-                                    <span>Nay Barghouti</span>
-                                    <span>(chanson traditionelle)</span>
+                                    <b>Καντ Αχ Για Χέλου</b>
+                                    <span>Νάι Μπαργούτι (Παλαιστίνη)</span>
+                                    <span>(παραδοσιακό τραγούδι)</span>
                                 </div>
                             </label>
                         </div>
@@ -154,9 +156,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qadd Habibi Ghab</b>
+                                    <b>Καντ Χαμπίμπι Γαμπ</b>
                                     <span>Μοχάμαντ Χαΐρι (Συρία)</span>
-                                    <span>(chanson traditionelle)</span>
+                                    <span>(παραδοσιακό τραγούδι)</span>
                                 </div>
                             </label>
                         </div>
@@ -167,9 +169,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim au Qanoun en Μακάμ Μπαϊάτι Σούρι</b>
-                                    <span>Marie Joubran</span>
-                                    <span>Wasla en Bayati Chouri</span>
+                                    <b>Τακσίμι Κανονάκι σε Μακάμ Μπαϊάτι Σούρι</b>
+                                    <span>Μαρί Τζουμπράν</span>
+                                    <span>Ουάσλα σε Μπαϊάτι Σούρι</span>
                                 </div>
                             </label>
                         </div>

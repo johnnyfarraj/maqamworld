@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Μακάμ Μπαϊάτι";
 $page_description = "Μακάμ Μπαϊάτι";
-$page_keywords = "musique arabe, maqam, instruments, jins, iqa‘, iqaa, rythme, oud, qanoun, nay, quart de ton, tarab";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Οικογένεια Μακάμ Μπαϊάτι, Μακάμ Μπαϊάτι Σούρι, Μακάμ Χουσάινι";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -64,9 +64,13 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="94,6,262,36" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="364,6,565,36" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="778,6,905,36" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
-
 				     </map>
-                    <p>Le Μακάμ Μπαϊάτι est de loin l'un des maqams les plus populaires du répertoire de la musique arabe. C'est aussi le <em>maqam</em> principal de la <a href="f_bayati.php">Famille Bayati</a>. Il commence avec comme jins de base le <a href="../jins/bayati.php">Τζινς Μπαϊάτι</a> sur la tonique, suivi du <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> ou du <a href="../jins/rast.php">Τζινς Ραστ</a> sur le 4<sup>ième</sup> degré.
+
+                    <p>
+                        Το Μακάμ Μπαϊάτι είναι μακράν ένα από τα πιο δημοφιλή και κοινά μακαμάτ στο Αραβικό ρεπερτόριο. Είναι επίσης το κύριο μακάμ στην <a href="f_bayati.php">Famille Bayati</a>.
+                    </p>
+                    <p>
+                        Η κλίμακά του αρχίζει με <a href="../jins/bayati.php">Τζινς Μπαϊάτι</a> στην τονική, ακολουθούμενο από είτε <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> είτε <a href="../jins/rast.php">Τζινς Ραστ</a> στην 4η βαθμίδα.
                     </p>
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_bayati.php">Οικογένεια Μακάμ Μπαϊάτι</a>.</p>
 
@@ -81,7 +85,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>‘Ala Balad el-Mahboub Waddini (1935)</b>
+                                    <b>Άλα Μπάλαντ ελ-Μαχμπούμπ Ουαντίνι (1935)</b>
                                     <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
                                     <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
@@ -94,7 +98,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Akoun Sa‘id (1932)</b>
+                                    <b>Ακούν Σαΐντ (1932)</b>
                                     <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
                                     <span>Μουσική Ζακαρία Άχμαντ</span>
                                 </div>
@@ -107,7 +111,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Lamma-nta Nawi (1929)</b>
+                                    <b>Λάμα-ντα Νάουι (1929)</b>
                                     <span>Φωνή και μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
@@ -119,9 +123,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mijana and ‘Ataba</b>
+                                    <b>Μιτζανά και Ατάμπα</b>
                                     <span>Ουαντί Αλ-Σάφι (Λίβανος )</span>
-                                    <span>(folklore libanais)</span>
+                                    <span>(Μουσική από την Λιβανική Παράδοση)</span>
                                 </div>
                             </label>
                         </div>
@@ -132,9 +136,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Imlali al-Aqdaha Sirfan</b>
+                                    <b>Μουάσαχ Ιμλάλι αλ-Ακντάχα Σέρφαν</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
-                                    <span>(composition traditionnelle)</span>
+                                    <span>(Παραδοσιακό)</span>
                                 </div>
                             </label>
                         </div>
@@ -145,7 +149,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Noura Noura (1953)</b>
+                                    <b>Νούρα Νούρα (1953)</b>
                                     <span>Φωνή και μουσική Φαρίντ αλ-Άτρας</span>
                                 </div>
                             </label>
@@ -157,7 +161,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Rayt Minnoun (Taqsim au Qanoun)</b>
+                                    <b>Για Ράιτ Μίνουν (Τακσίμ Κανονάκι)</b>
                                     <span>Φεϊρούζ (Λίβανος)</span>
                                     <span>Μουσική Φιλίμων Ουάχμπι</span>
                                 </div>
@@ -170,7 +174,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Rayt Minnoun</b>
+                                    <b>Για Ράιτ Μίνουν</b>
                                     <span>Φεϊρούζ (Λίβανος)</span>
                                     <span>Μουσική Φιλίμων Ουάχμπι</span>
                                 </div>
@@ -183,8 +187,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Bayati Ibrahim al-‘Aryan</b>
-                                    <span>Farhan Sabbagh (solo de Oud)</span>
+                                    <b>Σαμάι Μπαϊάτι Ιμπραΐμ αλ-Αριάν</b>
+                                    <span>Φαρχάν Σαμπάγ (Σόλο Ούτι)</span>
                                 </div>
                             </label>
                         </div>
@@ -195,8 +199,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Bayati d'Iskandar Chalfoune</b>
-                                    <span>Ensemble Morkos (Liban)</span>
+                                    <b>Σαμάι Μπαϊάτι Εσκάνταρ Σαλφούν</b>
+                                    <span>Μουσικό Σύνολο Μόρκος (Λίβανος)</span>
                                     <span><img src="/img/cd.png"> Cèdre</span>
                                 </div>
                             </label>

@@ -5,7 +5,7 @@ include('../../inc/config.php');
 
 /* SEO settings for this page */
 $page_description = "Μακάμ Χιτζάζ";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Οικογένεια Μακάμ Χιτζάζ, Μακάμ Χιτζάζ, Μακάμ Χιτζασκάρ, Μακάμ Σαντ Αραμπάν, Μακάμ Σαχνάζ, Μακάμ Σουζιντίλ, Μακάμ Ζαντζαράν";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -63,9 +63,11 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="105,4,245,34" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="343,4,540,34" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="765,4,892,34" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
-
 				     </map>
-                    <p>Le Μακάμ Χιτζάζ est le maqam principal de la <a href="f_hijaz.php">Οικογένεια Μακάμ Χιτζάζ</a>. Sa gamme commence avec le <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> comme jins de base sur la tonique, suivi du <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> ou du <a href="../jins/rast.php">Τζινς Ραστ</a> sur le <em>ghammaz</em> au 4<sup>ième</sup> degré.</p>
+
+                    <p>
+                        Το Μακάμ Χιτζάζ είναι το κύριο μακάμ στην <a href="f_hijaz.php">Οικογένεια Μακάμ Χιτζάζ</a>. Η κλίμακά του αρχίζει με την βάση <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> στην τονική, ακολουθούμενο από είτε <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> ή <a href="../jins/rast.php">Τζινς Ραστ</a> στην 4η βαθμίδα.
+                    </p>
 
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_hijaz.php">Οικογένεια Μακάμ Χιτζάζ</a>.</p>
 
@@ -80,8 +82,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Ma-Htiyali</b>
-                                    <span>Ensemble Al-Tourath (Syrie)</span>
+                                    <b>Μουάσαχ Μα-χτιάλι</b>
+                                    <span>Μουσικό Σύνολο Αλ-Τουράθ (Συρία)</span>
                                     <span><img src="/img/cd.png"> The Music In Spanish Al Andalus - Hijaz</span>
                                 </div>
                             </label>
@@ -93,7 +95,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Badri Adir</b>
+                                    <b>Μουάσαχ Μπάντρι Αντίρ</b>
                                     <span>Χορωδία των καθηγητών μουσικής - Πανεπιστήμιο Κασλίκ (Λίβανος)</span>
                                     <span>Μαέστρος: Άιντα Σαλχούμπ Ζιάντε</span>
                                     <span><img src="/img/cd.png"> Orientalia: Mouachah et Chansons</span>
@@ -107,7 +109,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Moudnaka Gafahou Marqadouhou (1938)</b>
+                                    <b>Μουντνάκα Γκαφάχου Μαρκάντουχου (1938)</b>
                                     <span>Φωνή και μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
@@ -119,7 +121,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Hibbina (1975)</b>
+                                    <b>Χεμπίνα (1975)</b>
                                     <span>Φωνή και μουσική Φαρίντ αλ-Άτρας</span>
                                 </div>
                             </label>
@@ -131,9 +133,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Foug el-Nakhal</b>
-                                    <span>Mounir Bachir and Omar Bachir</span>
-                                    <span>(folklore traditionel de l'Ιράκ)</span>
+                                    <b>Φογκ ελ-Νάχαλ</b>
+                                    <span>Μουνίρ Μπασίρ και Ομάρ Μπασίρ </span>
+                                    <span>(Παραδοσιακό Ιρανικό)</span>
                                 </div>
                             </label>
                         </div>
@@ -144,9 +146,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qassida Mawlaya Ajfani</b>
+                                    <b>Κασίντα Μαουλάια Ατζφάνι</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
-                                    <span>Du Fasil Isqi al-‘Itach</span>
+                                    <span>Από τη Σουίτα Ίσκι αλ-Ιτάς</span>
                                 </div>
                             </label>
                         </div>
@@ -157,9 +159,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qaddouka al-Mayyas</b>
+                                    <b>Καντουκάλ Μαϊάς</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
-                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 14 Hijaz</span>
+                                    <span><img src="/img/cd.png"> Νάγαμ Αλ-Αμς Vol. 14 Χιτζάζ</span>
                                 </div>
                             </label>
                         </div>
@@ -170,9 +172,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Hijaz</b>
-                                    <span>Ensemble Al-Tourath (Syrie)</span>
-                                    <span>Musique de Mouhammad ‘Abdou</span>
+                                    <b>Σαμάι Χιτζάζ </b>
+                                    <span>Μουσικό Σύνολο Αλ-Τουράθ (Συρία)</span>
+                                    <span>Μουσική Μοχάμαντ Άμπντου</span>
                                 </div>
                             </label>
                         </div>
@@ -183,9 +185,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Doulab et Taqsim au Nay en Μακάμ Χιτζάζ</b>
+                                    <b>Ντουλάμπ και Νάι Ταξίμι Χιτζάζ</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
-                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 14 Hijaz</span>
+                                    <span><img src="/img/cd.png"> Νάγαμ Αλ-Αμς Vol. 14 Χιτζάζ</span>
                                 </div>
                             </label>
                         </div>
@@ -196,9 +198,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Doulab Hijaz</b>
+                                    <b>Ντουλάμπ Χιτζάζ</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
-                                    <span><img src="/img/cd.png"> Mawawil and Mouachahat</span>
+                                    <span><img src="/img/cd.png"> Μαουαΐλ και Μουασαχάτ</span>
                                 </div>
                             </label>
                         </div>

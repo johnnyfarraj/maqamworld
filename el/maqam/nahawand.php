@@ -179,7 +179,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Λόνγκα Φαραχφάζα</b>
-                                    <span>Μουσικό  Σύνολο Σιμόν Σαχίν</span>
+                                    <span>Μουσικό Σύνολο Σιμόν Σαχίν</span>
                                     <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
                             </label>
@@ -205,7 +205,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Λόνγκα Ναχουάντ</b>
-                                    <span>Μουσικό  Σύνολο Αμπντέλ Χαλίμ Νουέϊρα</span>
+                                    <span>Μουσικό Σύνολο Αμπντέλ Χαλίμ Νουέϊρα</span>
                                     <span>Μουσική Γιώργος Μπατζανός</span>
                                 </div>
                             </label>

@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Μακάμ Ζαντζαράν";
 $page_description = "Μακάμ Ζαντζαράν";
-$page_keywords = "musique arabe, mode arabe, maqam, jins, zanjaran, hijaz, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Οικογένεια Μακάμ Χιτζάζ, Μακάμ Χιτζάζ, Μακάμ Χιτζασκάρ, Μακάμ Σαντ Αραμπάν, Μακάμ Σαχνάζ, Μακάμ Σουζιντίλ, Μακάμ Ζαντζαράν";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -48,21 +48,22 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-	  <area shape="circle" coords="49,81,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
-	  <area shape="circle" coords="126,89,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
-	  <area shape="circle" coords="202,97,13" href="#" alt="La♮" class="playNote" data-frequency="440" data-parent="#notation1"><!-- Ajam 3rd, tune down from 440 -->
-	  <area shape="circle" coords="280,105,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
-	  <area shape="circle" coords="358,114,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
-	  <area shape="circle" coords="434,122,13" href="#" alt="Mi♮" class="playNote" data-frequency="328" data-parent="#notation1"><!-- Hijaz 3 tune down from 330 -->
-	  <area shape="circle" coords="512,130,13" href="#" alt="Ré♭" class="playNote" data-frequency="277" data-parent="#notation1"><!-- Hijaz 2 tune up from 274 -->
-	  <area shape="circle" coords="590,139,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
-	  <!-- Links -->
+                      <area shape="circle" coords="49,81,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
+                      <area shape="circle" coords="126,89,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
+                      <area shape="circle" coords="202,97,13" href="#" alt="La♮" class="playNote" data-frequency="440" data-parent="#notation1"><!-- Ajam 3rd, tune down from 440 -->
+                      <area shape="circle" coords="280,105,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+                      <area shape="circle" coords="358,114,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
+                      <area shape="circle" coords="434,122,13" href="#" alt="Mi♮" class="playNote" data-frequency="328" data-parent="#notation1"><!-- Hijaz 3 tune down from 330 -->
+                      <area shape="circle" coords="512,130,13" href="#" alt="Ré♭" class="playNote" data-frequency="277" data-parent="#notation1"><!-- Hijaz 2 tune up from 274 -->
+                      <area shape="circle" coords="590,139,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
+                      <!-- Links -->
                       <area shape="rect" coords="132,9,266,40" href="../jins/ajam.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="408,9,542,40" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
-
-
 					</map>
-                    <p>Le Μακάμ Ζαντζαράν est une variante du <a href="hijaz.php">Μακάμ Χιτζάζ</a> avec le <a href="../jins/ajam.php">Τζινς Άτζαμ</a> comme second jins (sur le 4<sup>ième</sup> degré) et le jins de base <a href="../jins/hijaz.php">Hijaz</a> sur la tonique.</p>
+
+                    <p>
+                        Το Μακάμ Ζαντζαράν είναι μία παραλλαγή του <a href="hijaz.php">Μακάμ Χιτζάζ</a> με <a href="../jins/ajam.php">Τζινς Άτζαμ</a> ως δεύτερο Τζινς (στην 4η βαθμίδα) και την ρίζα <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> στην τονική.
+                    </p>
 
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_hijaz.php">Οικογένεια Μακάμ Χιτζάζ</a>.</p>
 
@@ -77,9 +78,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Ya Halawit el-Dounya (c.1950)</b>
-                                    <span>Sayyed Makkawi (Égypte)</span>
-                                    <span>Musique de Zakariya Ahmad</span>
+                                    <b>Για Χαλάουτ ελ-Ντούνια (c.1950)</b>
+                                    <span>Σάιεντ Μακάουι (Αίγυπτος)</span>
+                                    <span>Μουσική Ζακαρία Άχμαντ</span>
                                 </div>
                             </label>
                         </div>
@@ -90,7 +91,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Aya Daraha Bil-Houzn</b>
+                                    <b>Μουάσαχ Άϊα Ντάραχα Μπελ-Χουζν</b>
                                     <span>Χάσαν αλ-Χαφφάρ (Συρία)</span>
                                     <span>Μουσική Μάζντι αλ-Ακίλι</span>
                                 </div>
@@ -103,7 +104,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mawwal Amana Ya Leil (1931)</b>
+                                    <b>Μαουάλ Αμάνα Για Λέιλ (1931)</b>
                                     <span>Φωνή και μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
@@ -115,9 +116,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Layali Zanjarane</b>
-                                    <span>Ahmad Khabbari</span>
-                                    <span>Ensemble Al-Tourath (Syrie)</span>
+                                    <b>Λαϊάλι Ζαντζαράν</b>
+                                    <span> Άχμαντ Χαμπάρι</span>
+                                    <span>Μουσικό Σύνολο Αλ-Τουράθ (Συρία)</span>
                                     <span><img src="/img/cd.png"> The Music In Spanish Al-Andalus - Hijaz</span>
                                 </div>
                             </label>
@@ -129,8 +130,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Semiramis (Taqsim Oud en Μακάμ Ζαντζαράν)</b>
-                                    <span>‘Amer ‘Ammouri (Syrie)</span>
+                                    <b>Σεμίραμις (ταξίμι Ούτι Ζαντζαράν)</b>
+                                    <span>Άμερ Αμούρι (Συρία)</span>
                                     <span><img src="/img/cd.png"> Takasim Oud</span>
                                 </div>
                             </label>
@@ -142,7 +143,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim au Qanoun en Zanjarane</b>
+                                    <b>Ταξίμι Κανονάκι Ζαντζαράν</b>
                                     <span>Αμπραχάμ Σαλμάν (Ιράκ)</span>
                                     <span><img src="/img/cd.png"> Saltanah</span>
                                 </div>
@@ -155,8 +156,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim au Bouzouk en Zanjarane</b>
-                                    <span>Mouhammad Abdel Karim</span>
+                                    <b>Ταξίμι Μπουζούκ Ζαντζαράν</b>
+                                    <span>Μοχάμαντ Αμπντέλ Καρίμ</span>
                                 </div>
                             </label>
                         </div>

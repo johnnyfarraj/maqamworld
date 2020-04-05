@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Μακάμ Χουσάινι";
 $page_description = "Μακάμ Χουσάινι";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Οικογένεια Μακάμ Μπαϊάτι, Μακάμ Μπαϊάτι Σούρι, Μακάμ Χουσάινι";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -61,9 +61,10 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="116,8,304,39" href="../jins/husayni.php" class="mapLink" data-parent="#notation1">
 		              -->
                       <area shape="rect" coords="430,8,600,37" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
-
 					</map>
-                    <p>Le Μακάμ Χουσάινι n'est pas un maqam très commun en tant que maqam indépendant dans la tradition de la musique arabe, même si son <em>sayr</em> (mettre l'emphase sur le 5<sup>ième</sup> degré comme note de tension qui se résout sur le 4<sup>ième</sup> degré) est obligatoire dans le <a href="bayati.php">Μακάμ Μπαϊάτι</a>. Dans la musique folklorique de la région, c'est pourtant la variante la plus commune du Μακάμ Μπαϊάτι, avec sa gamme commençant sur le <a href="../jins/bayati.php">Τζινς Μπαϊάτι</a> de base sur la tonique.
+
+                    <p>
+                        Το Μακάμ Χουσάινι δεν είναι πολύ κοινό ως ένα αυτόνομο μακάμ στην Αραβική παράδοση, παρόλαυτα η ανάπτυξή του (δίνοντας έμφαση στην 5η βαθμίδα ως μία νότα με καθοδική τάση προς την 4η βαθμίδα) είναιμε αυτόν τον τρόπο υποχρεωτική μέσα στο <a href="bayati.php">Μακάμ Μπαϊάτι</a>. Στην παραδοσιακή μουσική της ευρύτερης περιοχής, αυτό είναι πραγματικά το πιο κοινό ως παραλλαγή του Μπαϊάτι, με την κλίμακά του να αρχίζει με βάση το <a href="../jins/bayati.php">Τζινς Μπαϊάτι</a> στην τονική.
                     </p>
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_bayati.php">Οικογένεια Μακάμ Μπαϊάτι</a>.</p>
 
@@ -78,9 +79,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Bil-ladhi Askara</b>
+                                    <b>Μουάσαχ Μπιλάδι Άσκαρα</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
-                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 12 (Bayati)</span>
+                                    <span><img src="/img/cd.png"> Νάγαμ αλ-Αμς Vol. 12 (Μπαϊάτι)</span>
                                 </div>
                             </label>
                         </div>
@@ -91,7 +92,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Hal ‘Ala al-Astar</b>
+                                    <b>Μουάσαχ Χαλ Άλα αλ-Αστάρ</b>
                                     <span>Γάντα Σμπαιρ (Λίβανος)</span>
                                     <span><img src="/img/cd.png"> Al Mouachahat</span>
                                 </div>
@@ -104,7 +105,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Khala al-‘Idhar</b>
+                                    <b>Μουάσαχ Χάλα αλ-Ιδάρ</b>
                                     <span>Χάλεντ αλ-Χάφεζ (Συρία)</span>
                                 </div>
                             </label>
@@ -116,7 +117,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Noura Noura (1953)</b>
+                                    <b>Νούρα Νούρα (1953)</b>
                                     <span>Φωνή και μουσική Φαρίντ αλ-Άτρας</span>
                                 </div>
                             </label>
@@ -128,8 +129,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Bayati Ibrahim al-‘Aryan (Khana 2)</b>
-                                    <span>Ensemble Salah ‘Arram (Égypte)</span>
+                                    <b>Σαμάι Μπαϊάτι Ιμπραΐμ αλ-Αριάν (Χάνα 2)</b>
+                                    <span>Μουσικό  Σύνολο Σαλάχ Αράμ (Αίγυπτος)</span>
                                 </div>
                             </label>
                         </div>
