@@ -43,14 +43,3 @@
     <li><a href="/el/iqaa/hachaa.php">Χάτσα 4/4</a></li>
     <li><a href="/el/iqaa/khosh_rang.php">Χος Ρανγκ 17/8</a></li>
 </ul>
-
-
-
- 
-  
-  
-
-
-
-
- 

@@ -37,7 +37,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
-                        <img src="/instr/tabl_baladi.jpg" alt="Tabl Baladi">
+                        <img src="/instr/tabl_baladi.jpg" alt="Tabl Μπάλαντι">
                         <span>Tάμπλ Μπάλαντι με δέρμα κατσίκας. &copy; MaqamWorld</span>
                     </div>
 
