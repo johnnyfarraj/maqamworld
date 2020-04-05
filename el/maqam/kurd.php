@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Μακάμ Κουρντ";
 $page_description = "Μακάμ Κουρντ";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Οικογένεια Μακάμ Κουρντ, Μακάμ Χιτζασκάρ Κουρντ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -39,14 +39,14 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/kurd.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Κουρντ</a>
                     </div>
 
-
                     <div class="notation" id="notation1">
                         <img src="../note/maqam/kurd.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
                         <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
                     </div>
-                     <map name="notemap">
+
+                    <map name="notemap">
 					  <area shape="circle" coords="63,129,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
 					  <area shape="circle" coords="141,121,13" href="#" alt="Mi♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
 					  <area shape="circle" coords="218,112,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
@@ -61,7 +61,9 @@ include($ROOT . 'inc/head.php');
 
 				     </map>
 
-                    <p>Le Μακάμ Κουρντ est le maqam principal de la <a href="f_kurd.php">Οικογένεια Μακάμ Κουρντ</a>. Il commence avec le jins de base <a href="../jins/kurd.php">Kurd</a> sur la tonique, suivi du <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> sur le 4<sup>ième</sup> degré.</p>
+                    <p>
+                        Το Μακάμ Κουρντ είναι το κύριο μακάμ στην <a href="f_kurd.php">Οικογένεια Μακάμ Κουρντ</a>. Η κλίμακά του αρχίζει με την βάση <a href="../jins/kurd.php">Τζινς Κουρντ</a> στην τονική, ακολουθούμενη από είτε <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> στην 4η βαθμίδα.
+                    </p>
 
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_kurd.php">Οικογένεια Μακάμ Κουρντ</a>.</p>
 
@@ -76,7 +78,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Awwedti Ayni (1958)</b>
+                                    <b>Αουίνττι Αΐνι (1957)</b>
                                     <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
                                     <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
@@ -89,7 +91,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Zalimni (1951)</b>
+                                    <b>Για Ζαλίμνι (1951)</b>
                                     <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
                                     <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
@@ -102,7 +104,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Doulab Kurd</b>
+                                    <b>Ντουλάμπ Κουρντ</b>
                                     <span>Ensemble Σαμπάχ Φαχρί (Συρία)</span>
                                     <span><img src="/img/cd.png"> Au Palais Des Congrès (1995)</span>
                                 </div>
@@ -115,7 +117,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Yamourrou Oujouban</b>
+                                    <b>Μουάσαχ Γιαμόυρου Ούτζουμπαν</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span>Μουσική Όμαρ αλ-Μπατς</span>
                                     <span><img src="/img/cd.png"> Au Palais Des Congrès (1995)</span>
@@ -129,7 +131,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ya Bahjet el-Rouh</b>
+                                    <b>Μουάσαχ Για Μπαχτζέτ αλ-Ροχ</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span>Μουσική Σαΐντ Νταρουίς</span>
                                     <span><img src="/img/cd.png"> Au Palais Des Congrès (1995)</span>
@@ -143,9 +145,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mashghoul ‘Aleik</b>
+                                    <b>Μασγούλ Αλέκ</b>
                                     <span>Κάρεμ Μαχμούντ (Αίγυπτος)</span>
-                                    <span>Musique de Ahmad Sidqi</span>
+                                    <span>Μουσική Άχμαντ Σίντκι</span>
                                 </div>
                             </label>
                         </div>
@@ -156,9 +158,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sanatein</b>
+                                    <b>Σανατίν</b>
                                     <span>Λέιλα Μουράντ (Αίγυπτος)</span>
-                                    <span>Musique de Raouf Dhihni</span>
+                                    <span>Μουσική Ραούφ Δίχνι</span>
                                 </div>
                             </label>
                         </div>
@@ -169,8 +171,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Kurd</b>
-                                    <span>Abdou Dagher (Égypte)</span>
+                                    <b>Σαμάι Κουρντ </b>
+                                    <span>Αμπντού Ντάγερ (Αίγυπτος)</span>
                                 </div>
                             </label>
                         </div>
@@ -181,8 +183,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Kurd</b>
-                                    <span>Abraham Salman</span>
+                                    <b>Σαμάι Κουρντ</b>
+                                    <span>Αμπραχάμ Σαλμάν (Ιράκ)</span>
                                     <span><img src="/img/cd.png"> Saltanah</span>
                                 </div>
                             </label>
@@ -194,7 +196,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr ‘Ishiqti Rouhak (1930)</b>
+                                    <b>Νταουάρ Ισίκτι Ρούχακ (1930)</b>
                                     <span>Φωνή και μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
