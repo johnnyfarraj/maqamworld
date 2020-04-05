@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Μακάμ Νταλανσίν";
 $page_description = "Μακάμ Νταλανσίν";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Οικογένεια Μακάμ Ραστ, Μακάμ Κιρντάν, Μακάμ Σαζκάρ, Μακάμ Σουνζάκ, Μακάμ Ναϊρούζ, Μακάμ Γιάκα, Μακάμ Νταλανσίν, Μακάμ Σουζνταλάρα, Μακάμ Μαχούρ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -39,7 +39,6 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/dalanshin.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Νταλανσίν</a>
                     </div>
 
-
                      <div class="notation" id="notation1">
                         <img src="../note/maqam/dalanshin.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
@@ -63,10 +62,12 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="258,140,443,171" href="../jins/upper_rast.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="562,4,690,34" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 					</map>
-                    <p>Le Maqam Dalanshin commence avec le <a href="../jins/saba_dalanshin.php">Τζινς Σάμπα Νταλανσίν</a> à l'octave du <a href="rast.php">Μακάμ Ραστ</a>, puis retourne à la gamme du Μακάμ Ραστ avec le <a href="../jins/upper_rast.php">Jins Haut Rast</a> sur le 5<sup>ième</sup> degré (avec sa tonique sur le 8<sup>ième</sup> degré), puis termine avec le <a href="../jins/rast.php">Τζινς Ραστ</a> sur la tonique.
+                    
+                    <p>
+                        Το Μακάμ Νταλανσίν αρχίζει με την βάση <a href="../jins/saba_dalanshin.php">Τζινς Σάμπα Νταλανσίν</a> στην οκτάβα του <a href="rast.php">Μακάμ Ραστ</a> έπειτα κινείται πίσω στην κλίμακα του μακάμ Ραστ με <a href="../jins/upper_rast.php">Τζινς Άνω Ραστ</a> στην 5η βαθμίδα (με την τονική της πάνω στην 8η βαθμίδα), και <a href="../jins/rast.php">Τζινς Ραστ</a> στην τονική.
                     </p>
                     <p>
-                    Il n'y a pas beaucoup de chansons dans ce maqam. Il est plutôt utilisé comme une modulation à partir du <a href="rast.php">Μακάμ Ραστ</a>.
+                        Δεν υπάρχουν πολλά τραγούδια σε αυτό το μακάμ, αντιθέτως περισσότερο χρησιμοποιείται ως μετατροπία από το <a href="rast.php">Μακάμ Ραστ</a>.
                     </p>
 
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_rast.php">Οικογένεια Μακάμ Ραστ</a>.</p>
@@ -82,9 +83,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Qadd Ya Mal sl-Cham</b>
+                                    <b>Καντ Για Μαλ ιλ-Σαμ</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
-                                    <span>Musique de Ahmad Abou Khalil al-Qabbani</span>
+                                    <span>Μουσική Άχμαντ Αμπού Χαλίλ αλ-Καμπάνι</span>
                                 </div>
                             </label>
                         </div>
@@ -95,8 +96,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Mala el-Kasat</b>
-                                    <span>Mouhammad Khayri (Syrie)</span>
+                                    <b>Μουάσαχ Μάλα αλ-Κασάτ</b>
+                                    <span>Μοχάμαντ Χαΐρι (Συρία)</span>
                                     <span>Μουσική Μοχάμαντ Οθμάν</span>
                                 </div>
                             </label>
@@ -108,7 +109,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Koull Illi Habb Itnasaf (1931)</b>
+                                    <b>Κουλ ίλι Χαμπ Ετνάσαφ (1931)</b>
                                     <span>Φωνή και μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
@@ -120,7 +121,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr ‘Ishna wi Choufna</b>
+                                    <b>Ντάουρ Ίσνα ου Σούφνα</b>
                                     <span>Σάλεχ Αμπντέλ Χάι (Αίγυπτος)</span>
                                     <span>Μουσική Μοχάμαντ Οθμάν</span>
                                 </div>

@@ -79,7 +79,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Mouachah Ayqadha al-Houbbou Fou'adi</b>
-                                    <span>Hassan al-Haffar (Syrie)</span>
+                                    <span>Χάσαν αλ-Χαφφάρ (Συρία)</span>
                                     <span>Musique de Bahjat Hassan</span>
                                     <span><img src="/img/cd.png"> The Aleppo Suites Vol.2</span>
                                 </div>
@@ -94,7 +94,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Da‘i al-Hawa Qad Sah</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
-                                    <span>Musique de Omar al-Batch</span>
+                                    <span>Μουσική Όμαρ αλ-Μπατς</span>
                                 </div>
                             </label>
                         </div>

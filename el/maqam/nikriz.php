@@ -128,8 +128,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Bayna Qasiyoun Wa Rabwa</b>
-                                    <span>Hassan al-Haffar (Syrie)</span>
-                                    <span>Musique de Omar al-Batch</span>
+                                    <span>Χάσαν αλ-Χαφφάρ (Συρία)</span>
+                                    <span>Μουσική Όμαρ αλ-Μπατς</span>
                                 </div>
                             </label>
                         </div>
@@ -141,8 +141,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Zarani Taht al-Ghayahib</b>
-                                    <span>Mouhammad Khayri (Syrie)</span>
-                                    <span>Musique de Omar al-Batch</span>
+                                    <span>Μοχάμαντ Χαΐρι (Συρία)</span>
+                                    <span>Μουσική Όμαρ αλ-Μπατς</span>
                                 </div>
                             </label>
                         </div>

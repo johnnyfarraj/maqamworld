@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Μακάμ Σουνζάκ";
 $page_description = "Μακάμ Σουνζάκ";
-$page_keywords = "musique arabe, mode arabe, maqam, jins, suznak, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Οικογένεια Μακάμ Ραστ, Μακάμ Κιρντάν, Μακάμ Σαζκάρ, Μακάμ Σουνζάκ, Μακάμ Ναϊρούζ, Μακάμ Γιάκα, Μακάμ Νταλανσίν, Μακάμ Σουζνταλάρα, Μακάμ Μαχούρ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -61,7 +61,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="412,7,550,37" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Μακάμ Σουνζάκ est la modulation la plus populaire à partir du <a href="rast.php">Μακάμ Ραστ</a>. La modulation vers le <a href="../jins/hjaz.php">Τζινς Χιτζάζ</a> sur la quinte est pratiquement obligatoire dans toute <a href="../form/improv.php">improvisation</a> commençant avec le <a href="jns/rast.php">Τζινς Ραστ</a> de base.</p>
+                    <p>
+                        Το Μακάμ Σουζνάκ είναι η πιο δημοφιλής μετατροπία του <a href="rast.php">Μακάμ Ραστ</a>, όπου η μετατροπία στο <a href="../jins/hjaz.php">Τζινς Χιτζάζ</a> στην 5η βαθμίδα είναι πρακτικά αναμενόμενο σε οποιδήποτε <a href="../form/improv.php">ταξίμι ή μαουάλ</a> αρχίζοντας στην βάση <a href="jns/rast.php">Τζινς Ραστ</a>.
+                    </p>
 
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_rast.php">Οικογένεια Μακάμ Ραστ</a>.</p>
 
@@ -76,8 +78,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Qadd Malik Ya Hilwa</b>
-                                    <span>Mouhammad Khayri (Syrie)</span>
+                                    <b>Καντ Μάλεκ Για Χέλουα</b>
+                                    <span>Μοχάμαντ Χαΐρι (Συρία)</span>
                                 </div>
                             </label>
                         </div>
@@ -88,8 +90,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr Asl el-Gharam</b>
-                                    <span>Nour el-Hoda (Liban/Égypte)</span>
+                                    <b>Νταουάρ Ασλ ιλ-Γαράμ</b>
+                                    <span>Νουρ ελ-Χόντα (Λίβανος )</span>
                                     <span>Μουσική Μοχάμαντ Οθμάν</span>
                                 </div>
                             </label>
@@ -101,7 +103,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ghannili Chwayy Chwayy (1945)</b>
+                                    <b>Γανίλι  Σουάι Σουάι (1945)</b>
                                     <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
                                     <span>Μουσική Ζακαρία Άχμαντ</span>
                                 </div>
@@ -114,8 +116,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Tahmila Suznak</b>
-                                    <span>Simon Shaheen (Palestine)</span>
+                                    <b>Ταχμίλα Σουζνάκ</b>
+                                    <span>Σιμόν Σαχίν (Παλαιστίνη)</span>
                                     <span><img src="/img/cd.png"> Turath - Masterworks of the Middle East</span>
                                 </div>
                             </label>
@@ -127,8 +129,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim au Qanoun en Μακάμ Σουνζάκ</b>
-                                    <span>Abraham Salman (Irak)</span>
+                                    <b>Ταξίμι Κανονάκι σε Μακάμ Σουζνάκ</b>
+                                    <span>Αμπραχάμ Σαλμάν (Ιράκ)</span>
                                     <span><img src="/img/cd.png"> Saltanah</span>
                                 </div>
                             </label>

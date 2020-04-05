@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Μακάμ Κιρντάν/Μακάμ Σαζκάρ";
 $page_description = "Μακάμ Κιρντάν/Μακάμ Σαζκάρ";
-$page_keywords = "musique arabe, mode arabe, maqam kirdan, Μακάμ Σαζκάρ, jins, kirdan, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Οικογένεια Μακάμ Ραστ, Μακάμ Κιρντάν, Μακάμ Σαζκάρ, Μακάμ Σουνζάκ, Μακάμ Ναϊρούζ, Μακάμ Γιάκα, Μακάμ Νταλανσίν, Μακάμ Σουζνταλάρα, Μακάμ Μαχούρ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -66,9 +66,11 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="385,171,540,202" href="../jins/sazkar.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Maqam Kirdan est une version du <a href="rast.php">Μακάμ Ραστ</a> dans laquelle le sayr commence à l'octave et redescend vers la tonique. Sa gamme commence avec le <a href="../jins/rast.php">Τζινς Ραστ</a> sur la tonique, suivi du <a href="../jins/upper_rast.php">Jins Haut Rast</a> sur le 5<sup>ième</sup> degré (avec sa tonique sur le 8<sup>ième</sup> degré).
+                    <p>
+                        Το <strong>Μακάμ Κιρντάν</strong> είναι μία εκδοχή του <a href="rast.php">Μακάμ Ραστ</a> του οποίου η ανάπτυξη αρχίζει στην οκτάβα και τελικά κατεβαίνει στην τονική/βάση. Η κλίμακά του αρχίζει με <a href="../jins/rast.php">Τζινς Ραστ</a> στην τονική, ακολουθούμενο από <a href="../jins/upper_rast.php">Τζινς Άνω Ραστ</a> στην 5η βαθμίδα (με την τονική της πάνω στην 8η βαθμίδα).
                     </p>
-                    <p>Le <strong>Μακάμ Σαζκάρ</strong> est presque identique au Maqam Kirdan à part pour le fait de mettre l'emphase sur le 2<sup>ième</sup> degré dans certains passages mélodiques, ce qui fait en sorte d'avoir le <a href="../jins/sazkar.php">Jins Sazkar</a> sur la tonique.
+                    <p>
+                        Το <strong>Μακάμ Σαζκάρ</strong> είναι αρκετά πανομιότυπο με το Μακάμ Κιρντάν, εκτός την ανάδειξη τηε οξυμένης 2ης βαθμίδας που συμβαίνει σε κάποια μελωδικά περάσματα, έχοντας ως αποτέλεσμα το <a href="../jins/sazkar.php">Τζινς Σαζκάρ</a> στην τονική.
                     </p>
 
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_rast.php">Οικογένεια Μακάμ Ραστ</a>.</p>
@@ -84,9 +86,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Sihtou Wajdan</b>
-                                    <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Liban)</span>
-                                    <span>Chef d'orchestre: Aïda Chalhoub Ziadé</span>
+                                    <b>Μουάσαχ Σίχτου Ουαζντάν</b>
+                                    <span>Χορωδία των καθηγητών μουσικής - Πανεπιστήμιο Κασλίκ (Λίβανος)</span>
+                                    <span>Μαέστρος: Άιντα Σαλχούμπ Ζιάντε</span>
                                     <span>Μουσική Σαΐντ Νταρουίς</span>
                                     <span><img src="/img/cd.png"> Orientalia: Mouachah et Chansons</span>
                                 </div>
@@ -99,7 +101,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ya Chadi al-Alhan</b>
+                                    <b>Μουάσαχ Για Σάντι αλ-Αλχάν</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span>Μουσική Σαΐντ Νταρουίς</span>
                                 </div>
@@ -112,9 +114,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Hayrana Leh (1930)</b>
+                                    <b>Χαϊράνα Λε (1930)</b>
                                     <span>Λέιλα Μουράντ (Αίγυπτος)</span>
-                                    <span>Musique de Daoud Housni</span>
+                                    <span>Μουσική Νταούντ Χόσνι</span>
                                 </div>
                             </label>
                         </div>

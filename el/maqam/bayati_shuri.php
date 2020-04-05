@@ -155,7 +155,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Qadd Habibi Ghab</b>
-                                    <span>Mouhammad Khayri (Syrie)</span>
+                                    <span>Μοχάμαντ Χαΐρι (Συρία)</span>
                                     <span>(chanson traditionelle)</span>
                                 </div>
                             </label>

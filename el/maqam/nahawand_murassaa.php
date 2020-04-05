@@ -115,7 +115,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Nahawand</b>
-                                    <span>Simon Shaheen (Palestine)</span>
+                                    <span>Σιμόν Σαχίν (Παλαιστίνη)</span>
                                     <span>Musique de Mesut Cemil (Turquie)</span>
                                 </div>
                             </label>

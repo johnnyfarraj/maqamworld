@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Μακάμ Σουζνταλάρα";
 $page_description = "Μακάμ Σουζνταλάρα";
-$page_keywords = "musique arabe, mode arabe, maqam, jins, suzdalara, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Οικογένεια Μακάμ Ραστ, Μακάμ Κιρντάν, Μακάμ Σαζκάρ, Μακάμ Σουνζάκ, Μακάμ Ναϊρούζ, Μακάμ Γιάκα, Μακάμ Νταλανσίν, Μακάμ Σουζνταλάρα, Μακάμ Μαχούρ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -60,7 +60,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="386,4,514,33" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 
                     </map>
-                    <p>Le Μακάμ Σουζνταλάρα est un maqam assez archaïque et presque inexistant en tant que maqam indépendant, même si son sayr est obligatoire pour presque toute performance et chanson dans le <a href="rast.php">Μακάμ Ραστ</a>: le <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> sur le 5<sup>ième</sup> degré du <a href="rast.php">Μακάμ Ραστ</a> est une transition obligatoire à partir d'autres modulations pour signaler le retour vers le Jins de base <a href="../jins/rast.php">Rast</a> sur la tonique.</p>
+                    <p>
+                        Το Μακάμ Σουζνταλάρα είναι κάπως αρχαϊκό και σχεδόν δεν υπάρχει ως ένα αυτοτελές μακάμ, παρόλο που η ανάπτυξή του συμβαίνει υποχρεωτικά σε κάθε ερμηνεία και τραγούδι του καθενός από τα παρακλάδια του <a href="rast.php">Μακάμ Ραστ</a>: το <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> στην 5η βαθμίδα είναι ένα γενικό αντικείμενο μεταφοράς από άλλες μετατροπίες, σηματοδοτώντας την επιστροφή στην βάση του <a href="../jins/rast.php">Τζινς Ραστ</a> στην τονική.
+                    </p>
 
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_rast.php">Οικογένεια Μακάμ Ραστ</a>.</p>
 
@@ -75,8 +77,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Yana Yana (1969)</b>
-                                    <span>Sabah (Liban)</span>
+                                    <b>Γιάνα Γιάνα (1969)</b>
+                                    <span>Σαμπάχ (Λίβανος)</span>
                                     <span>Μουσική Μπαλίχ Χάμντι</span>
                                 </div>
                             </label>

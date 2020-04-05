@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Μακάμ Ναϊρούζ/ Μακάμ Γιάκα";
 $page_description = "Μακάμ Ναϊρούζ/ Μακάμ Γιάκα";
-$page_keywords = "musique arabe, mode arabe, maqam, jins, nairuz, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Οικογένεια Μακάμ Ραστ, Μακάμ Κιρντάν, Μακάμ Σαζκάρ, Μακάμ Σουνζάκ, Μακάμ Ναϊρούζ, Μακάμ Γιάκα, Μακάμ Νταλανσίν, Μακάμ Σουζνταλάρα, Μακάμ Μαχούρ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -65,11 +65,14 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="425,5,585,34" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
 					</map>
 
-                    <p>Le <strong>Maqam Nairuz</strong> commence avec le jins de base <a href="../jins/rast.php">Rast</a> sur la tonique, suivi du <a href="../jins/bayati.php">Τζινς Μπαϊάτι</a> sur le 5<sup>ième</sup> degré.
+                    <p>
+                        Το <strong>Μακάμ Ναϊρούζ</strong> αρχίζει με την ρίζα <a href="../jins/rast.php">Τζινς Ραστ</a> στην τονική, ακολουθούμενο από <a href="../jins/bayati.php">Τζινς Μπαϊάτι</a> στην 5η βαθμίδα.
                     </p>
-                    <p>Le Maqam Nairuz est assez rare en tant que maqam indépendant mais est utilisé souvent en tant que <em>sayr</em> à l'intérieur du <a href="suznak.php">Μακάμ Σουνζάκ</a>/<a href="rast.php">Μακάμ Ραστ</a> à cause des affinités entre le <a href="../jins/bayati.php">Τζινς Μπαϊάτι</a> et le <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> sur le 5<sup>ième</sup> degré de la gamme.
+                    <p>
+                        Το Μακάμ Ναϊρούζ είναι σχετικά σπάνιο από μόνο του, αλλά αναδυκνύεται ως ανάπτυξη μέσα στο <a href="suznak.php">Μακάμ Σουνζάκ</a>/<a href="rast.php">Μακάμ Ραστ</a> – εξαιτίας της συγγένειας μεταξύ <a href="../jins/bayati.php">Τζινς Μπαϊάτι</a> και <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> στην 5η βαθμίδα.
                     </p>
-                    <p>Le <strong>Μακάμ Γιάκα</strong> est une version archaïque du Maqam Nairuz, construit sur la note Sol-3 dans la gamme de 24 notes arabe archaïque (note appelée <strong>Yakah</strong>) plutôt que sur la note Do-4.
+                    <p>
+                        Το <strong>Μακάμ Γιάκα</strong> είναι μία αρχαϊκή εκδοχή του Μακάμ Ναϊρούζ, βασισμένη στην νότα Σολ3 στην Αραβική αρχαϊκή 24φθογγη κλίμακα (ονομαζόμενη ως <strong>Γιάκα</strong>) παρά βασισμένη στην νότα Ντο4.
                     </p>
 
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_rast.php">Οικογένεια Μακάμ Ραστ</a>.</p>
@@ -85,8 +88,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Ya Hilalan</b>
-                                    <span>Ensemble de la Musique Arabe (Égypte)</span>
+                                    <b>Μουάσαχ Για Χιλάλαν</b>
+                                    <span>Μουσικό Σύνολο Αραβικής Μουσικής (Αίγυπτος)</span>
                                 </div>
                             </label>
                         </div>
@@ -97,9 +100,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Moubarqaou al-Jamal</b>
-                                    <span>Hassan al-Haffar (Syrie)</span>
-                                    <span>Musique de Omar al-Batch</span>
+                                    <b>Μουάσαχ Μουμπάρακου αλ-Τζαμάλ</b>
+                                    <span>Χάσαν αλ-Χαφφάρ (Συρία)</span>
+                                    <span>Μουσική Όμαρ αλ-Μπατς</span>
                                 </div>
                             </label>
                         </div>
@@ -110,8 +113,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr Asl el-Gharam (1945)</b>
-                                    <span>Nour el-Hoda</span>
+                                    <b>Ντάουρ Ασλ ιλ-Γαράμ (1945)</b>
+                                    <span>Νουρ ελ-Χόντα</span>
                                     <span>Μουσική Μοχάμαντ Οθμάν</span>
                                 </div>
                             </label>
@@ -123,7 +126,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ghannili Chwayy Chwayy (1945)</b>
+                                    <b>Γανίλι  Σουάι Σουάι (1945)</b>
                                     <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
                                     <span>Μουσική Ζακαρία Άχμαντ</span>
                                 </div>

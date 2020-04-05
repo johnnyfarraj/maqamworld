@@ -94,8 +94,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Badri Adir</b>
-                                    <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Liban)</span>
-                                    <span>Chef d'orchestre: Aïda Chalhoub Ziadé</span>
+                                    <span>Χορωδία των καθηγητών μουσικής - Πανεπιστήμιο Κασλίκ (Λίβανος)</span>
+                                    <span>Μαέστρος: Άιντα Σαλχούμπ Ζιάντε</span>
                                     <span><img src="/img/cd.png"> Orientalia: Mouachah et Chansons</span>
                                 </div>
                             </label>
@@ -133,7 +133,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Foug el-Nakhal</b>
                                     <span>Mounir Bachir and Omar Bachir</span>
-                                    <span>(folklore traditionel de l'Irak)</span>
+                                    <span>(folklore traditionel de l'Ιράκ)</span>
                                 </div>
                             </label>
                         </div>

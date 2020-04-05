@@ -92,7 +92,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Μουάσαχ Τζάλα Μαν Άνσα Τζαμάλακ</b>
-                                    <span>Μουσικό  Σύνολο Ορμίνα (Συρία)</span>
+                                    <span>Μουσικό Σύνολο Ορμίνα (Συρία)</span>
                                     <span>Μαέστρος: Δρ. Μοχάμαντ Κάντρι Νταλάλ</span>
                                 </div>
                             </label>

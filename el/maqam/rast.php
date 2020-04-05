@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Μακάμ Ραστ";
 $page_description = "Μακάμ Ραστ";
-$page_keywords = "musique arabe, mode arabe, maqam, jins, rast, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Οικογένεια Μακάμ Ραστ, Μακάμ Κιρντάν, Μακάμ Σαζκάρ, Μακάμ Σουνζάκ, Μακάμ Ναϊρούζ, Μακάμ Γιάκα, Μακάμ Νταλανσίν, Μακάμ Σουζνταλάρα, Μακάμ Μαχούρ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -64,7 +64,8 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="628,6,828,37" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Μακάμ Ραστ est de loin l'un des <em>maqams</em> les plus populaires du répertoire de la musique arabe, ansi que le maqam principal dans la <a href="f_rast.php">Οικογένεια Μακάμ Ραστ</a>. Sa gamme commence avec le jins de base <a href="../jins/rast.php">Rast</a> sur la tonique, suivi du <a href="../jins/upper_rast.php">Jins Haut Rast</a> (avec sa tonique sur le 8<sup>ième</sup> degré) ou du <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> sur le 5<sup>ième</sup> degré.
+                    <p>
+                        Το Μακάμ Ραστ είναι το κύριο <em>μακάμ</em> στην <a href="f_rast.php">Οικογένεια Μακάμ Ραστ</a>, και είναι μακράν ένα από τα πιο δημοφιλή και κοινά μακαμάτ στο Αραβικό ρεπερτόριο. Η κλίμακά του αρχίζει με την βάση <a href="../jins/rast.php">Τζινς Ραστ</a>, ακολουθούμενο στην 5η βαθμίδα από είτε <a href="../jins/upper_rast.php">Τζινς Άνω Ραστ</a> (με την τονική στην 8η βαθμίδα) ή <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a>.
                     </p>
 
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_rast.php">Οικογένεια Μακάμ Ραστ</a>.</p>
@@ -80,7 +81,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Ya Chadi al-Alhan</b>
+                                    <b>Μουάσαχ Για Σάντι αλ-Αλχάν</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span>Μουσική Σαΐντ Νταρουίς</span>
                                 </div>
@@ -93,8 +94,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Mala al-Kasat</b>
-                                    <span>Ensemble Al-Kindi (Syrie/France)</span>
+                                    <b>Μουάσαχ Μάλα αλ-Κασάτ</b>
+                                    <span>Μουσικό Σύνολο Αλ-Κίντι (Συρία/Γαλλία)</span>
                                     <span>Μουσική Μοχάμαντ Οθμάν</span>
                                 </div>
                             </label>
@@ -106,9 +107,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ya ‘Oudhayb al-Marshaf</b>
-                                    <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Liban)</span>
-                                    <span>Chef d'orchestre: Aïda Chalhoub Ziadé</span>
+                                    <b>Μουάσαχ Για Ουδάιμπ αλ-Μάρσαφ</b>
+                                    <span>Χορωδία των καθηγητών μουσικής - Πανεπιστήμιο Κασλίκ (Λίβανος)</span>
+                                    <span>Μαέστρος: Άιντα Σαλχούμπ Ζιάντε</span>
                                     <span>Μουσική Σαΐντ Νταρουίς</span>
                                     <span><img src="/img/cd.png"> Orientalia: Mouachah et Chansons</span>
                                 </div>
@@ -121,7 +122,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Waraqou el-Asfar Chaher Ayloul</b>
+                                    <b>Ουαράκου ελ-Άσφαρ Σαχρ Αϊλούλ</b>
                                     <span>Φεϊρούζ (Λίβανος)</span>
                                     <span>Μουσική Φιλίμων Ουάχμπι</span>
                                 </div>
@@ -134,8 +135,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qassida Salabat Souad</b>
-                                    <span>Mouhammad Khayri (Syrie)</span>
+                                    <b>Κασίντα Σάλαμπατ Σουάντ</b>
+                                    <span>Μοχάμαντ Χαΐρι (Συρία)</span>
                                 </div>
                             </label>
                         </div>
@@ -146,8 +147,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Layali Rast</b>
-                                    <span>Abbas al-Bleidi (Égypte)</span>
+                                    <b>Λαϊάλι Ραστ</b>
+                                    <span>Αμπάς αλ-Μπλέιντι</span>
                                 </div>
                             </label>
                         </div>
@@ -158,7 +159,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Lah Tilaw‘ini (1938)</b>
+                                    <b>Λαχ Τιλαουάνι (1938)</b>
                                     <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
                                     <span>Μουσική Μοχάμαντ αλ-Κασάμπζι</span>
                                 </div>
@@ -171,7 +172,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Doulab Rast</b>
+                                    <b>Ντουλάμπ Ραστ</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span><img src="/img/cd.png"> Au Palais Des Congres</span>
                                 </div>
@@ -184,8 +185,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Rast George Michel (Égypte)</b>
-                                    <span>Ensemble Al-Kindi (Syrie/France)</span>
+                                    <b>Σαμάι Ραστ Τζορτζ Μισέλ (Αίγυπτος)</b>
+                                    <span>Μουσικό Σύνολο Αλ-Κίντι (Συρία/Γαλλία)</span>
                                     <span><img src="/img/cd.png"> The Aleppian Music Room Vol. 2 (Rast)</span>
                                 </div>
                             </label>

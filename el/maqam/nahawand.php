@@ -124,7 +124,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Hat Isqiniha</b>
-                                    <span>Hassan al-Haffar (Syrie)</span>
+                                    <span>Χάσαν αλ-Χαφφάρ (Συρία)</span>
                                     <span>Musique de Yehya al-Saoudi</span>
                                     <span><img src="/img/cd.png"> The Aleppo Suites</span>
                                 </div>
@@ -139,7 +139,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Ramani Bi Sahmi Hawahou</b>
                                     <span>Χάλεντ αλ-Χάφεζ (Συρία)</span>
-                                    <span>Musique de Daoud Housni</span>
+                                    <span>Μουσική Νταούντ Χόσνι</span>
                                 </div>
                             </label>
                         </div>

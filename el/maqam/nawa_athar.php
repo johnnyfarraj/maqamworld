@@ -117,7 +117,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Adhkourou al-Houbba</b>
                                     <span>Ensemble Abdel Halim Noueirah (Égypte)</span>
-                                    <span>Musique de Daoud Housni</span>
+                                    <span>Μουσική Νταούντ Χόσνι</span>
                                 </div>
                             </label>
                         </div>

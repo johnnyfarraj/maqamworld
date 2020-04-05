@@ -139,7 +139,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Μουάσαχ Ακμπάλα αλ-Σούμπχου Ιουγάνι</b>
-                                    <span>Μουσικό  Σύνολο Ορμίνα (Συρία)</span>
+                                    <span>Μουσικό Σύνολο Ορμίνα (Συρία)</span>
                                     <span>Μαέστρος: Δρ. Μοχάμαντ Κάντρι Νταλάλ</span>
                                     <span>Μουσική Μπάκρι αλ-Κούρντι</span>
                                 </div>

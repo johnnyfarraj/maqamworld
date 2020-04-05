@@ -152,7 +152,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Ya ‘Ouyounan Ramiyat</b>
                                     <span>Sabri al-Moudallal (Syrie)</span>
-                                    <span>Musique de Omar al-Batch</span>
+                                    <span>Μουσική Όμαρ αλ-Μπατς</span>
                                 </div>
                             </label>
                         </div>
@@ -204,7 +204,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Laha Badrou-t-Timm</b>
                                     <span>(Μακάμ Σουζιντίλ)</span>
-                                    <span>Ensemble de la Musique Arabe (Égypte)</span>
+                                    <span>Μουσικό Σύνολο Αραβικής Μουσικής (Αίγυπτος)</span>
                                     <span>Musique de Mahmoud Soubh</span>
                                 </div>
                             </label>
