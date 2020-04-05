@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά Φάχιτ";
 $page_description = "Ικά Φάχιτ";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Φάχιτ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ικά Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Ρυθμοί</a>
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -31,7 +31,7 @@ include($ROOT . 'inc/head.php');
                     <div class="heading jins text-center">
                         <h1>Ικά Φάχιτ 20/4</h1>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ικά Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Ρυθμοί</a>
                     <div class="clearfix"></div>
                     
                     <div class="text-center mt-2 mb-3">
@@ -42,7 +42,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/fakhit.png" class="img-fluid">
                     </div>
                     
-                    <p>Ικά Φάχιτ is a relatively long <em>iqa‘</em> that spans 5 measures of 4/4, resulting in a 20/4 time signature. This <em>iqa‘</em> is rare outside the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> genre.</p>
+                    <p>
+                        Το Ικά Φάχιτ είναι ένας σχετικά μακρύς ρυθμός που εκτείνεται σε 5 μέτρα 4/4, δημιουργώντας έναν κύκλο 20/4. Αυτός ο ρυθμός είναι σπάνιος έξω από το είδος των <a href="../form/vocal_comp.php#muwashah">Μουασαχάτ</a>.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -55,8 +57,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Bi Sifatin Ja‘alatni</b>
-                                    <span>Al-Kindi Ensemble</span>
+                                    <b>Μουάσαχ  Μπι Σιφάτιν Ζααλάτνι</b>
+                                    <span>Μουσικό Σύνολο Αλ-Κίντι</span>
                                     <span><img src="/img/cd.png"> The Aleppian Music Room II - Maqam Rast</span>
                                 </div>
                             </label>
@@ -68,9 +70,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Idha Da‘ana al-Siba</b>
-                                    <span>Khaled al-Hafez</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
+                                    <b>Μουάσαχ Ίδα Νταάνα αλ-Σίμπα</b>
+                                    <span>Χάλεντ αλ-Χάφεζ (Συρία)</span>
+                                    <span>Μουσική Όμαρ αλ-Μπατς</span>
                                 </div>
                             </label>
                         </div>
@@ -81,9 +83,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Zarani Taht al-Ghayahib</b>
-                                    <span>Firqat Usama Bin Zayd</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
+                                    <b>Μουάσαχ Ζαράνι Τάχτ αλ-Γαϊάχιμπ</b>
+                                    <span>Ορχήστρα Οσάμα Μπιν Ζάιντ</span>
+                                    <span>Μουσική Όμαρ αλ-Μπατς</span>
                                 </div>
                             </label>
                         </div>
@@ -96,7 +98,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ικά Φάχιτ 20/4</b>
-                                    <span>Tabla demonstration by Faisal Zedan</span>
+                                    <span>Επίδειξη στην τάμπλα από τον Φαϊζάλ Ζεϊντάν</span>
                                 </div>
                             </label>
                         </div>

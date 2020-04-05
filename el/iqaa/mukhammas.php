@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά Μουχάμμας";
 $page_description = "Ικά Μουχάμμας";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Μουχάμμας";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ικά Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Ρυθμοί</a>
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -31,7 +31,7 @@ include($ROOT . 'inc/head.php');
                     <div class="heading jins text-center">
                         <h1>Ικά Μουχάμμας 16/4</h1>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ικά Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Ρυθμοί</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -42,7 +42,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/mukhammas.png" class="img-fluid">
                     </div>
 
-                    <p>Ικά Μουχάμμας is mostly confined to the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> repertoire. Unrelated to its time signature, the word "mukhammas" in Arabic means based on the number 5.</p>
+                    <p>
+                        Το Ικά Μουχάμμας είναι περισσότερο περιορισμένος στο ρεπερτόριο των <a href="../form/vocal_comp.php#muwashah">Μουασαχάτ</a>. Άσχετα με το μέτρο με το οποίο αναφέρεται, η λέξη "Μουχάμμας" στα Αραβικά σημαίνει “με βάση τον αριθμό 5”.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -55,10 +57,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Badri Adir Kas al-Tila</b>
-                                    <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
-                                    <span>Conductor: Aïda Shalhoub Ziadé</span>
-                                    <span>Music by by Muhammad ‘Uthman</span>
+                                    <b>Μουάσαχ Μπάντρι Αντίρ Κας αλ-Τίλα</b>
+                                    <span>Χορωδία των καθηγητών μουσικής - Πανεπιστήμιο Κασλίκ (Λίβανος)</span>
+                                    <span>Μαέστρος: Άιντα Σαλχούμπ Ζιάντε</span>
+                                    <span>Μουσική Μοχάμαντ Οθμάν</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>
                             </label>
@@ -70,8 +72,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Wajhak Mushriq</b>
-                                    <span>Abdel Halim Noueira Ensemble</span>
+                                    <b>Μουάσαχ Ουάτζχακ Μούσρικ</b>
+                                    <span>Μουσικό  Σύνολο Αμπντέλ Χαλίμ Νουέϊρα</span>
                                 </div>
                             </label>
                         </div>
@@ -84,7 +86,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ικά Μουχάμμας 16/4</b>
-                                    <span>Tabla demonstration by Faisal Zedan</span>
+                                    <span>Επίδειξη στην τάμπλα από τον Φαϊζάλ Ζεϊντάν</span>
                                 </div>
                             </label>
                         </div>

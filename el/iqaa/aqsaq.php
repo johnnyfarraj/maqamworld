@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ικά Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Ρυθμοί</a>
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -31,7 +31,7 @@ include($ROOT . 'inc/head.php');
                     <div class="heading jins text-center">
                         <h1>Ικά Ακσάκ 9/8</h1>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ικά Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Ρυθμοί</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Jalla Man Bil Husni Sawwar</b>
-                                    <span>Abdel Halim Noueira Ensemble</span>
+                                    <span>Μουσικό  Σύνολο Αμπντέλ Χαλίμ Νουέϊρα</span>
                                     <span>Music by Kamel al-Khula‘i</span>
                                 </div>
                             </label>
@@ -96,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Bashraf Bulbul al-Afrah</b>
-                                    <span>Ensemble Morkos</span>
+                                    <span>Μουσικό Σύνολο Μόρκος (Λίβανος)</span>
                                 </div>
                             </label>
                         </div>
@@ -108,8 +108,8 @@ include($ROOT . 'inc/head.php');
                             	<div class="thumb-area"><img src="/img/tabla.png" class=""></div>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ικά Ακσάκ 9/8 - Form I</b>
-                                    <span>Tabla demonstration by Faisal Zedan</span>
+                                    <b>Ικά Ακσάκ 9/8 - Φόρμα Ι</b>
+                                    <span>Επίδειξη στην τάμπλα από τον Φαϊζάλ Ζεϊντάν</span>
                                 </div>
                             </label>
                         </div>
@@ -134,7 +134,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Ma-htiyali</b>
-                                    <span>Al-Turath Ensemble</span>
+                                    <span>Μουσικό  Σύνολο Αλ-Τουράθ (Συρία)</span>
                                     <span><img src="/img/cd.png"> The Music In Spanish Al Andalus - Hijaz</span>
                                 </div>
                             </label>
@@ -147,7 +147,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Ayyuha al-Saqi</b>
-                                    <span>Sabah Fakhri</span>
+                                    <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span><img src="/img/cd.png"> Beiteddine Festival Vol. 1</span>
                                     <span>Music by Majdi al-‘Aqili</span>
                                 </div>
@@ -161,9 +161,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah ‘Adhibuni</b>
-                                    <span>Ensemble Al-Kindi</span>
+                                    <span>Μουσικό Σύνολο Αλ-Κίντι</span>
                                     <span><img src="/img/cd.png"> The Aleppian Music Room Vol. 1 - Hijazkar Kurd &amp; Saba</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
+                                    <span>Μουσική Όμαρ αλ-Μπατς</span>
                                 </div>
                             </label>
                         </div>
@@ -187,8 +187,8 @@ include($ROOT . 'inc/head.php');
                             	<div class="thumb-area"><img src="/img/tabla.png" class=""></div>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ικά Ακσάκ 9/8 - Form II</b>
-                                    <span>Tabla demonstration by Faisal Zedan</span>
+                                    <b>Ικά Ακσάκ 9/8 - Φόρμα ΙI</b>
+                                    <span>Επίδειξη στην τάμπλα από τον Φαϊζάλ Ζεϊντάν</span>
                                 </div>
                             </label>
                         </div>

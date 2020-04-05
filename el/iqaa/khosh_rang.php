@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά Χος Ρανγκ";
 $page_description = "Ικά Χος Ρανγκ";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Χος Ρανγκ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -23,16 +23,15 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ικά Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Ρυθμοί</a>
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
                     
                     <div class="heading jins text-center">
                         <h1>Ικά Χος Ρανγκ 17/8</h1>
-                        <h3>(also spelled Khush Rank)</h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ικά Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Ρυθμοί</a>
                     <div class="clearfix"></div>
                     
                     <div class="text-center mt-2 mb-3">
@@ -43,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/khosh_rang.png" class="img-fluid">
                     </div>
                     
-                    <p>Ικά Χος Ρανγκ (also spelled Khush Rank) is a very rare <em>iqa‘</em> that is only used in one known <a href="../form/vocal_comp.php#muwashah">Muwashah</a> and a few rare modern compositions.</p>
+                    <p>Το Ικά Χος Ρανγκ είναι ένας πολύ σπάνιος ρυθμός που χρησιμοποιείται σε ένα μόνο γνωστό <a href="../form/vocal_comp.php#muwashah">Μουάσαχ</a> και σε λίγες μοντέρνες συνθέσεις.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -56,8 +56,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Salla Fina al-Lahdha Hindiyya</b>
-                                    <span>Ensemble Al-Kindi</span>
+                                    <b>Μουάσαχ Σάλα Φίνα αλ-Λάχδα Χιντία</b>
+                                    <span>Μουσικό Σύνολο Αλ-Κίντι</span>
                                     <span><img src="/img/cd.png"> Les Croisades Sous Le Regard De l'Orient - Hijaz</span>
                                 </div>
                             </label>
@@ -69,8 +69,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Salla Fina al-Lahdha Hindiyya</b>
-                                    <span>Sabah Fakhri</span>
+                                    <b>Μουάσαχ Σάλα Φίνα αλ-Λάχδα Χιντία</b>
+                                    <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span><img src="/img/cd.png"> Nagham Al Ams Vol 08 - Hijaz</span>
                                 </div>
                             </label>
@@ -82,8 +82,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Khush-Rank (Oud and Riqq)</b>
-                                    <span>Tarek Abdallah, Adel Shams El-Din</span>
+                                    <b>Xoς Ρανκ (Ούτι και Ρεκ)</b>
+                                    <span>Τάρεκ Αμπντάλα, Άντελ Σαμς Ελ-Ντιν</span>
                                     <span><img src="/img/cd.png"> Wasla (Suites musicales égyptiennes)</span>
                                 </div>
                             </label>
@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ικά Χος Ρανγκ 17/8</b>
-                                    <span>Tabla demonstration by Faisal Zedan</span>
+                                    <span>Επίδειξη στην τάμπλα από τον Φαϊζάλ Ζεϊντάν</span>
                                 </div>
                             </label>
                         </div>

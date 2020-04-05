@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ικά Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Ρυθμοί</a>
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -31,7 +31,7 @@ include($ROOT . 'inc/head.php');
                     <div class="heading jins text-center">
                         <h1>Ικά Αουίς 11/8</h1>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ικά Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Ρυθμοί</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Hibbi Da‘ani Lil-Wisal</b>
-                                    <span>Sabah Fakhri</span>
+                                    <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span>Music by Sayyed Darwish</span>
                                     <span><img src="/img/cd.png"> Nagham Al-Ams Vol.2 - Bayati Shuri</span>
                                 </div>
@@ -71,8 +71,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Hibbi Da‘ani Lil-Wisal</b>
-                                    <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
-                                    <span>Conductor: Aïda Shalhoub Ziadé</span>
+                                    <span>Μουάσαχ Τιφ Για Ντούρι Μπελ Κανάνι</span>
+                                    <span>Μαέστρος: Άιντα Σαλχούμπ Ζιάντε</span>
                                     <span>Music by Sayyed Darwish</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>
@@ -86,8 +86,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Munyati Man Rumtu Qurbuh</b>
-                                    <span>Sabah Fakhri</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
+                                    <span>Σαμπάχ Φαχρί (Συρία)</span>
+                                    <span>Μουσική Όμαρ αλ-Μπατς</span>
                                     <span><img src="/img/cd.png"> Nagham Al-Ams Vol.9 - Rast</span>
                                 </div>
                             </label>
@@ -102,7 +102,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Muwashah Munyati Sidu-l-Milah</b>
                                     <span>(performed in 11/4)</span>
                                     <span>The munshid Mahmud Fares</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
+                                    <span>Μουσική Όμαρ αλ-Μπατς</span>
                                 </div>
                             </label>
                         </div>
@@ -115,7 +115,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ικά Αουίς 11/8</b>
-                                    <span>Tabla demonstration by Faisal Zedan</span>
+                                    <span>Επίδειξη στην τάμπλα από τον Φαϊζάλ Ζεϊντάν</span>
                                 </div>
                             </label>
                         </div>

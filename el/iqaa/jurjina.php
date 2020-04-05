@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά Τζουρτζίνα";
 $page_description = "Ικά Τζουρτζίνα";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Τζουρτζίνα";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ικά Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Ρυθμοί</a>
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -31,7 +31,7 @@ include($ROOT . 'inc/head.php');
                     <div class="heading jins text-center">
                         <h1>Ικά Τζουρτζίνα 10/8</h1>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ικά Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Ρυθμοί</a>
                     <div class="clearfix"></div>
                     
                     <div class="text-center mt-2 mb-3">
@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/jurjina.png" class="img-fluid">
                     </div>
                     
-                    <p>Ικά Τζουρτζίνα is a widely used <em>iqa‘</em> in Iraq and Iran, as well as in the Turkish and the Kurdish repertoires, both in the folk and classical genres. While it is infrequently used in the Near Eastern repertoire, it is sometimes used in Tunisian Malouf compositions.               
+                    <p>
+                        Το Ικά Τζουρτζίνα είναι ένας ευρέως χρησιμοποιημένος ρυθμός στο Ιράκ και Ιράν, όπως επίσης στην Τουρκικό και Κουρδικό ρεπερτόριο, στην κατηγορία της παράδοσιακής και κλασσικής μουσικής μαζί. Παρόλο ο ρυθμός αυτός δεν χρησιμοποιείται συχνά στο ρεπερτόριο της μουσικής της Εγγύς Ανατολής, χρησιμοποιείται μερικές φορές στις συνθέσεις Μααλούφ της Τυνησίας.              
                     </p>
                     
                     <div class="player-area">
@@ -56,8 +57,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Ya Umm il-'Uyun il-Sud</b>
-                                    <span>Nazem al-Ghazali</span>
+                                    <b>Για Ουμ ελ-Οϊούν ελ-Σουντ</b>
+                                    <span>Νάζεμ αλ-Γαζάλι</span>
                                 </div>
                             </label>
                         </div>
@@ -68,8 +69,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ya Hulu al-Lama</b>
-                                    <span>Lutfi Bushnaq</span>
+                                    <b>Μουάσαχ Για Χούλου αλ-Λάμα</b>
+                                    <span>Λούφτι Μπουσνάκ (Τυνησία)</span>
                                 </div>
                             </label>
                         </div>
@@ -80,8 +81,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Adir Rahati</b>
-                                    <span>Tunisian Malouf</span>
+                                    <b>Μουάσαχ Άντιρ Ραχάτι</b>
+                                    <span>Τυνησιακό Μααλούφ</span>
                                 </div>
                             </label>
                         </div>
@@ -92,8 +93,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ma Kuntu Adri</b>
-                                    <span>Tunisian Malouf</span>
+                                    <b>Μουάσαχ Μα Κούντου Άντρι</b>
+                                    <span>Τυνησιακό Μααλούφ</span>
                                 </div>
                             </label>
                         </div>
@@ -106,7 +107,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ικά Τζουρτζίνα 10/8</b>
-                                    <span>Tabla demonstration by Faisal Zedan</span>
+                                    <span>Επίδειξη στην τάμπλα από τον Φαϊζάλ Ζεϊντάν</span>
                                 </div>
                             </label>
                         </div>
