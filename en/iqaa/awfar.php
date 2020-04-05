@@ -103,7 +103,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Ya Man Ramani Bil-Siham</b>
-                                    <span>(in <a href="../maqam/nikriz.php">Maqam Nikriz)</a></span>
+                                    <span>(in <a href="../maqam/nikriz.php">Maqam Nikriz</a>)</span>
                                     <span>Ensemble Dugah</span>
                                     <span>Music by ‘Umar al-Batsh</span>
                                 </div>
@@ -117,7 +117,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Ya Na‘isa al-Ajfan</b>
-                                    <span>(in <a href="../maqam/nahawand.php">Maqam Nahawand)</a></span>
+                                    <span>(in <a href="../maqam/nahawand.php">Maqam Nahawand</a>)</span>
                                     <span>Khaled al-Hafez</span>
                                     <span>Music by ‘Umar al-Batsh</span>
                                 </div>
