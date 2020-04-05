@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Μακάμ Ναουάθαρ";
 $page_description = "Μακάμ Ναουάθαρ";
-$page_keywords = "musique arabe, mode arabe, maqam, jins, nawa_athar, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Οικογένεια Μακάμ Νικρίζ, Μακάμ Ναουάθαρ, Μακάμ Άθαρ Κουρντ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -61,10 +61,12 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="308,150,494,182" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Μακάμ Ναουάθαρ est un maqam très populaire de la <a href="f_nikriz.php">Οικογένεια Μακάμ Νικρίζ</a>. Sa gamme commence à la base avec le <a href="../jins/nikriz.php">Τζινς Νικρίζ</a> sur la tonique, suivi du <a href="../jins/hijazkar.php">Τζινς Χιτζάζkar</a> concentré autour du 5<sup>ième</sup> degré.
+                    <p>
+                        Το Μακάμ Ναουάθαρ είναι άλλο ένα δημοφιλές μακάμστην <a href="f_nikriz.php">Οικογένεια Μακάμ Νικρίζ</a>. Η κλίμακά του αρχίζει με την βάση <a href="../jins/nikriz.php">Τζινς Νικρίζ</a> στην τονική, ακολουθούμενη από είτε <a href="../jins/hijazkar.php">Τζινς Χιτζάζkar</a> στην 5η βαθμίδα.
                     </p>
-
-                    <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_nikriz.php">Οικογένεια Μακάμ Νικρίζ</a>.</p>
+                    <p>
+                        Εξερευνήστε άλλα μακαμάτ στην <a href="f_nikriz.php">Οικογένεια Μακάμ Νικρίζ</a>.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -77,7 +79,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ghouloubti Asaleh Fi Rouhi (1948)</b>
+                                    <b>Γουλούμπτι Ασάλεχ Φι Ρούχι (1948)</b>
                                     <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
                                     <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
@@ -90,8 +92,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" checked>
                                 <div class="info">
-                                    <b>Gamil Gamal (1952)</b>
-                                    <span>Interprétation et Μουσική Φαρίντ αλ-Άτρας</span>
+                                    <b>Γκαμίλ Γκαμάλ (1952)</b>
+                                    <span>Φωνή και μουσική Φαρίντ αλ-Άτρας</span>
                                 </div>
                             </label>
                         </div>
@@ -102,7 +104,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Fakkarouni (1966)</b>
+                                    <b>Φακαρούνι (1966)</b>
                                     <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
                                     <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
@@ -115,8 +117,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Adhkourou al-Houbba</b>
-                                    <span>Ensemble Abdel Halim Noueirah (Égypte)</span>
+                                    <b>Μουάσαχ Άδκουρου αλ-Χούμπα</b>
+                                    <span>Μουσικό Σύνολο Αμπντέλ Χαλίμ Νουέϊρα</span>
                                     <span>Μουσική Νταούντ Χόσνι</span>
                                 </div>
                             </label>
@@ -128,9 +130,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Nawa Athar</b>
-                                    <span>Ensemble Syrien de Homs</span>
-                                    <span>Musique de Jamil ‘Ouways (Syrie)</span>
+                                    <b>Σαμάι Νάουα Άθαρ</b>
+                                    <span>Syrian Ensemble of Homs TODO</span>
+                                    <span>Μουσική Τζαμίλ Αουές (Συρία)</span>
                                 </div>
                             </label>
                         </div>
@@ -141,8 +143,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Doulab Nawa Athar</b>
-                                    <span>George Abyad (Liban)</span>
+                                    <b>Ντουλάμπ Νάουα Άθαρ</b>
+                                    <span>Τζορτζ Άμπιαντ</span>
                                     <span><img src="/img/cd.png"> Impovisations Orientales</span>
                                 </div>
                             </label>

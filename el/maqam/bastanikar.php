@@ -179,7 +179,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Τακσίμι Ούτι σε <a href="../maqam/sikah.php">Μακάμ Σίκα</a></b>
                                     <span>Ριάντ αλ-Σουνμπάτι</span>
-                                    <span><img src="/img/cd.png"> Taqaseem Oud</span>
+                                    <span><img src="/img/cd.png"> Τακασίμ Ούτι</span>
                                 </div>
                             </label>
                         </div>

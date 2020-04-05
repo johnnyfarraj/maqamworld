@@ -144,7 +144,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mashghoul ‘Aleik</b>
-                                    <span>Karem Mahmoud (Égypte)</span>
+                                    <span>Κάρεμ Μαχμούντ (Αίγυπτος)</span>
                                     <span>Musique de Ahmad Sidqi</span>
                                 </div>
                             </label>

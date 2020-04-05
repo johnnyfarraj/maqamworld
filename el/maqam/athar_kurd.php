@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Μακάμ Άθαρ Κουρντ";
 $page_description = "Μακάμ Άθαρ Κουρντ";
-$page_keywords = "musique arabe, maqam, instruments, jins, iqa‘, iqaa, rythme, oud, qanoun, nay, quart de ton, tarab";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Οικογένεια Μακάμ Νικρίζ, Μακάμ Ναουάθαρ, Μακάμ Άθαρ Κουρντ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -48,23 +48,25 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-                  <area shape="circle" coords="63,131,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
-                  <area shape="circle" coords="141,123,13" href="#" alt="Ré♭" class="playNote" data-frequency="274" data-parent="#notation1">
-                  <area shape="circle" coords="218,115,13" href="#" alt="Mi♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
-                  <area shape="circle" coords="296,107,13" href="#" alt="Fa♯" class="playNote" data-frequency="375" data-parent="#notation1">
-                  <area shape="circle" coords="373,99,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
-                  <area shape="circle" coords="450,91,13" href="#" alt="La♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- Hijaz 2 tuned up from 420 -->
-                  <area shape="circle" coords="528,83,13" href="#" alt="Si♮" class="playNote" data-frequency="492" data-parent="#notation1"><!-- Hijaz 3 tuned down from 495 -->
-                  <area shape="circle" coords="605,75,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
+                      <area shape="circle" coords="63,131,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
+                      <area shape="circle" coords="141,123,13" href="#" alt="Ré♭" class="playNote" data-frequency="274" data-parent="#notation1">
+                      <area shape="circle" coords="218,115,13" href="#" alt="Mi♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
+                      <area shape="circle" coords="296,107,13" href="#" alt="Fa♯" class="playNote" data-frequency="375" data-parent="#notation1">
+                      <area shape="circle" coords="373,99,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+                      <area shape="circle" coords="450,91,13" href="#" alt="La♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- Hijaz 2 tuned up from 420 -->
+                      <area shape="circle" coords="528,83,13" href="#" alt="Si♮" class="playNote" data-frequency="492" data-parent="#notation1"><!-- Hijaz 3 tuned down from 495 -->
+                      <area shape="circle" coords="605,75,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
                        <!-- Links -->
                       <area shape="rect" coords="95,5,315,34" href="../jins/athar_kurd.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="320,144,500,175" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
                     </map>
 
-                    <p>Le Μακάμ Άθαρ Κουρντ est un <em>maqam</em> très rare qui semble être une invention du 20<sup>ième</sup> siècle. Sa gamme commence avec le <a href="../jins/athar_kurd.php">Άθαρ Κουρντ</a> sur la tonique, suivi du <a href="../jins/hijazkar.php">Τζινς Χιτζάζkar</a> concentré autour du 5<sup>ième</sup> degré.
-		          </p>
-                    <p>La gamme du Μακάμ Άθαρ Κουρντ est un hybride entre le <a href="nawa_athar.php">Μακάμ Ναουάθαρ</a> et le <a href="kurd.php">Μακάμ Κουρντ</a>, d'où son nom.
-		          </p>
+                    <p>
+                        Το Μακάμ Άθαρ Κουρντ είναι ένα σπάνιο μακάμ το ποιο φαίνεται να είναι μια εξέλιξη του 20ου αιώνα. Η κλίμακά του αρχίζει με την βάση <a href="../jins/athar_kurd.php">Τζινς Άθαρ Κουρντ</a> στην τονική, ακολουθούμενη από είτε <a href="../jins/hijazkar.php">Τζινς Χιτζάζkar</a> πεικεντρωμένο στην 5η βαθμίδα.
+		            </p>
+                    <p>
+                        Η κλίμακα του Μακάμ Άθαρ Κουρντ είναι ένα υβρίδιο μεταξύ <a href="nawa_athar.php">Μακάμ Ναουάθαρ</a> και <a href="kurd.php">Μακάμ Κουρντ</a>, εξού και η ονομασία του.
+		            </p>
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_nikriz.php">Οικογένεια Μακάμ Νικρίζ</a>.</p>
 
                     <div class="player-area">
@@ -78,9 +80,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Ya Msafir wi Albi Ma‘ak (1950)</b>
+                                    <b>Για Μσάφερ ου Άλμπι Μάακ (1950)</b>
                                     <span>Λέιλα Μουράντ (Αίγυπτος)</span>
-                                    <span>Musique de Ahmad Sidqi</span>
+                                    <span>Μουσική Άχμαντ Σίντκι</span>
                                 </div>
                             </label>
                         </div>
@@ -91,9 +93,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>el-Hana wel-Widd (1975)</b>
+                                    <b>ελ-Χάνα ουίλ-Ουίντ (1975)</b>
                                     <span>Λέιλα Μουράντ (Αίγυπτος)</span>
-                                    <span>Musique de Abdel Moun‘im al-Hariri</span>
+                                    <span>Μουσική Αμπντέλ Μούνιμ αλ-Χαρίρι</span>
                                 </div>
                             </label>
                         </div>
@@ -104,9 +106,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Fagr Nurak Hall wi Bane (c.1952)</b>
-                                    <span>Interprétation de Baligh Hamdi (Égypte)</span>
-                                    <span>Musique de Youssef Chawqi</span>
+                                    <b>Για Φαγκρ Νούρακ Χαλ ου Μπαν (c.1952)</b>
+                                    <span>Φωνή Μπαλίχ Χάμντι</span>
+                                    <span>Μουσική Γιούσεφ Σάουκι</span>
                                 </div>
                             </label>
                         </div>
@@ -117,7 +119,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>el-Hobbi Kida (1959)</b>
+                                    <b>ελ-Χομπ Κίντα (1959)</b>
                                     <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
                                     <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
@@ -130,10 +132,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Hijazkar Kurd</b>
+                                    <b>Σαμάι Χιτζασκάρ Κουρντ</b>
                                     <span>Μουσικό Σύνολο Αλ-Κίντι</span>
                                     <span><img src="/img/cd.png"> Les Derviches Tourneurs of Damas Vol. 2</span>
-                                    <span>Musique de Salah al-Mahdi (Tunisia)</span>
+                                    <span>Μουσική Σαλάχ αλ-Μάχντι (Τυνησία)</span>
                                 </div>
                             </label>
                         </div>
@@ -144,9 +146,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Oud</b>
+                                    <b>Τακσίμι Ούτι</b>
                                     <span>Ριάντ αλ-Σουνμπάτι</span>
-                                    <span><img src="/img/cd.png"> Taqaseem Oud</span>
+                                    <span><img src="/img/cd.png"> Τακασίμ Ούτι</span>
                                 </div>
                             </label>
                         </div>
@@ -157,7 +159,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim de Oud en Μακάμ Άθαρ Κουρντ</b>
+                                    <b>Τακσίμι Ούτι Άθαρ Κουρντ</b>
                                     <span>Μοχάμαντ Κάντρι Νταλάλ</span>
                                     <span><img src="/img/cd.png"> Maqams Insolites</span>
                                 </div>

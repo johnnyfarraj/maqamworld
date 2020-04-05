@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Μακάμ Ουσάκ Μάσρι";
 $page_description = "Μακάμ Ουσάκ Μάσρι";
-$page_keywords = "musique arabe, mode arabe, maqam, jins, nahawand murassaa, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Οικογένεια Μακάμ Ναχαουάντ, Μακάμ Φαραχφάζα, Μακάμ Ναχαουάντ Μουράσα, Μακάμ Ουσάκ Μάσρι";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -60,9 +60,11 @@ include($ROOT . 'inc/head.php');
                        <!-- Links -->
                       <area shape="rect" coords="100,7,305,37" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="397,7,563,37" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
-
 					</map>
-                    <p>Le Μακάμ Ουσάκ Μάσρι est une variation du <a href="nahawand.php">Μακάμ Ναχαουάντ</a> avec le <a href="../jins/bayati.php">Τζινς Μπαϊάτι</a> sur le 5<sup>ième</sup> degré (le <em>ghammaz</em>), au-dessus du Jins de base <a href="../jins/nahawand.php">Nahawand</a> sur le 1er degré.</p>
+
+                    <p>
+                        Το Μακάμ Ουσάκ Μάσρι είναι μία παραλλαγή του <a href="nahawand.php">Μακάμ Ναχαουάντ</a> με <a href="../jins/bayati.php">Τζινς Μπαϊάτι</a> στην 5η βαθμίδα, πάνω από την βάση <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> στην 1η βαθμίδα.
+                    </p>
 
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_nahawand.php">Οικογένεια Μακάμ Ναχαουάντ</a>.</p>
 
@@ -77,7 +79,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Dawr Ahib Ashoufak (1930)</b>
+                                    <b>Ντάουρ Αχέμπ Ασούφακ (1930)</b>
                                     <span>Φωνή και μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
@@ -89,7 +91,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ba‘d el-Khisam</b>
+                                    <b>Μπάεντ ελ-Χισάμ</b>
                                     <span>Σέιχ Αμπού ελ-Ίλα Μοχάμαντ (Αίγυπτος)</span>
                                 </div>
                             </label>
@@ -101,7 +103,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Layali Nahawand</b>
+                                    <b>Λαϊάλι Ναχαουάντ</b>
                                     <span>Σέιχ Αμπού ελ-Ίλα Μοχάμαντ (Αίγυπτος)</span>
                                 </div>
                             </label>

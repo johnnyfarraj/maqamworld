@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Μακάμ Ναχαουάντ Μουράσα";
 $page_description = "Μακάμ Ναχαουάντ Μουράσα";
-$page_keywords = "musique arabe, mode arabe, maqam, jins, nahawand murassaa, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Οικογένεια Μακάμ Ναχαουάντ, Μακάμ Φαραχφάζα, Μακάμ Ναχαουάντ Μουράσα, Μακάμ Ουσάκ Μάσρι";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -58,9 +58,10 @@ include($ROOT . 'inc/head.php');
                        <!-- Links -->
                       <area shape="rect" coords="35,7,350,36" href="../jins/nahawand_murassaa.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="327,141,464,174" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
-
 					</map>
-                    <p>Le Μακάμ Ναχαουάντ Murassa' est en gros le <a href="nahawand.php">Μακάμ Ναχαουάντ</a> avec une quinte abaissée. Sa gamme commence avec le <a href="../jins/nahawand_murassaa.php">Τζινς Ναχαουάντ Mourassa‘</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> sur le 4<sup>ième</sup> degré.
+
+                    <p>
+                        Το Μακάμ Ναχαουάντ Μουράσα είναι βασικά <a href="nahawand.php">Μακάμ Ναχαουάντ</a> με την 5η βαθμίδα χαμηλωμένη. Η κλίμακά του αρχίζει με <a href="../jins/nahawand_murassaa.php">Τζινς Ναχαουάντ Μουράσα</a> στην τονική, αλληλοεπικαλυπτόμενο από <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> στην 4η βαθμίδα.
                     </p>
 
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_nahawand.php">Οικογένεια Μακάμ Ναχαουάντ</a>.</p>
@@ -76,8 +77,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Ya Gari (1958)</b>
-                                    <span>Horeyya Hassan (Égypte)</span>
+                                    <b>Για Γκάρι (1958)</b>
+                                    <span>Χορία Χάσαν (Αίγυπτος)</span>
                                     <span>Μουσική Μοχάμαντ αλ-Μούγκι</span>
                                 </div>
                             </label>
@@ -89,7 +90,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Khousara (1957)</b>
+                                    <b>Χουσάρα (1957)</b>
                                     <span>Αμπντέλ Χαλίμ Χάφεζ (Αίγυπτος)</span>
                                     <span>Μουσική Μπαλίχ Χάμντι</span>
                                 </div>
@@ -102,8 +103,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taht el-Shibbak</b>
-                                    <span>Aziz Outhman (Égypte)</span>
+                                    <b>Ταχτ ελ-Σιμπάκ </b>
+                                    <span>Αζίζ Οθμάν (Αίγυπτος)</span>
                                 </div>
                             </label>
                         </div>
@@ -114,9 +115,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Nahawand</b>
+                                    <b>Σαμάι Ναχαουάντ</b>
                                     <span>Σιμόν Σαχίν (Παλαιστίνη)</span>
-                                    <span>Musique de Mesut Cemil (Turquie)</span>
+                                    <span>Μουσική Μεσούτ Τζεμίλ (Τουρκία)</span>
                                 </div>
                             </label>
                         </div>
@@ -127,7 +128,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Doulab Nahawand</b>
+                                    <b>Ντουλάμπ Ναχαουάντ</b>
                                     <span>Άισα Ριντουάν (Μαρόκο)</span>
                                     <span><img src="/img/cd.png"> Égypte</span>
                                 </div>
@@ -140,9 +141,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Doulab Nahawand Mourassa‘</b>
-                                    <span>Zikrayat Ensemble (États Unis)</span>
-                                    <span>Musique de Sami Abou Shumays</span>
+                                    <b>Ντουλάμπ Ναχαουάντ Μουράσα</b>
+                                    <span>Μουσικό Σύνολο Ζικραϊάτ (ΗΠΑ)</span>
+                                    <span>Μουσική Σάμι Αμπού Σουμάις</span>
                                 </div>
                             </label>
                         </div>

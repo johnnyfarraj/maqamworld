@@ -112,7 +112,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr Yama-nta Wahishni</b>
-                                    <span>Ensemble Abdel Halim Noueirah (Égypte)</span>
+                                    <span>Μουσικό Σύνολο Αμπντέλ Χαλίμ Νουέϊρα</span>
                                     <span>Μουσική Μοχάμαντ Οθμάν</span>
                                 </div>
                             </label>

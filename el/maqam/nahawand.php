@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Μακάμ Ναχαουάντ";
 $page_description = "Μακάμ Ναχαουάντ";
-$page_keywords = "musique arabe, mode arabe, maqam, jins, nahawand, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Οικογένεια Μακάμ Ναχαουάντ, Μακάμ Φαραχφάζα, Μακάμ Ναχαουάντ Μουράσα, Μακάμ Ουσάκ Μάσρι";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -66,11 +66,13 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="123,7,323,37" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="430,7,573,37" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="653,7,803,37" href="../jins/kurd.php" class="mapLink" data-parent="#notation1">
-
 					</map>
-                    <p>Le Μακάμ Ναχαουάντ est le maqam principal de la <a href="f_nahawand.php">Οικογένεια Μακάμ Ναχαουάντ</a>. Sa gamme commence avec le jins de base <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> ou du <a href="../jins/kurd.php">Τζινς Κουρντ</a> sur le 5<sup>ième</sup> degré. 
+
+                    <p>
+                        Το Μακάμ Ναχαουάντ είναι το κύριο μακάμ στην <a href="f_nahawand.php">Οικογένεια Μακάμ Ναχαουάντ</a>. Η κλίμακά του αρχίζει με την βάση <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> στην τονική, ακολουθούμενη από είτε <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> ή <a href="../jins/kurd.php">Τζινς Κουρντ</a> στην 5η βαθμίδα. 
                     </p>
-                    <p>Le <strong>Μακάμ Φαραχφάζα</strong> est le Μακάμ Ναχαουάντ transposé sur Sol.
+                    <p>
+                        Το <strong>Μακάμ Φαραχφάζα</strong> είναι Μακάμ Ναχαουάντ μεταφερόμενο με την τονική στον φθόγγο Σολ.
                     </p>
 
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_nahawand.php">Οικογένεια Μακάμ Ναχαουάντ</a>.</p>
@@ -86,7 +88,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Balad el-Mahboub (1951)</b>
+                                    <b>Μπάλαντ ελ-Μαχμπούμπ (1951)</b>
                                     <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
@@ -98,7 +100,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Alf Leila w-Leila (1969)</b>
+                                    <b>Αλφ Λέιλα ου Λέιλα (1969)</b>
                                     <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
                                     <span>Μουσική Μπαλίχ Χάμντι</span>
                                 </div>
@@ -111,7 +113,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dhikrayati (1944)</b>
+                                    <b>Δικραϊάτι (1944)</b>
                                     <span>Μουσική Μοχάμαντ αλ-Κασάμπζι</span>
                                 </div>
                             </label>
@@ -123,9 +125,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Hat Isqiniha</b>
+                                    <b>Μουάσαχ Χατ Ισκινίχα</b>
                                     <span>Χάσαν αλ-Χαφφάρ (Συρία)</span>
-                                    <span>Musique de Yehya al-Saoudi</span>
+                                    <spanΜουσική Γιάχια αλ-Σαούντι</span>
                                     <span><img src="/img/cd.png"> The Aleppo Suites</span>
                                 </div>
                             </label>
@@ -137,7 +139,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ramani Bi Sahmi Hawahou</b>
+                                    <b>Μουάσαχ Ραμάνι Μπι Σάχμι Χαουάχου</b>
                                     <span>Χάλεντ αλ-Χάφεζ (Συρία)</span>
                                     <span>Μουσική Νταούντ Χόσνι</span>
                                 </div>
@@ -150,9 +152,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Nahawand</b>
-                                    <span>Ensemble Simon Shaheen</span>
-                                    <span>Musique de Mesut Cemil (Turkey)</span>
+                                    <b>Σαμάι Ναχουάντ</b>
+                                    <span>Μουσικό Σύνολο Σιμόν Σαχίν</span>
+                                    <span>Μουσική Μεσούτ Τζεμίλ (Τουρκία)</span>
                                 </div>
                             </label>
                         </div>
@@ -163,9 +165,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Nahawand</b>
-                                    <span>Ensemble Abdel Halim Noueirah (Égypte)</span>
-                                    <span>Musique de Safar Ali</span>
+                                    <b>Σαμάι Ναχουάντ</b>
+                                    <span>Μουσικό Σύνολο Αμπντέλ Χαλίμ Νουέϊρα</span>
+                                    <span>Μουσική Σάφαρ Άλι</span>
                                 </div>
                             </label>
                         </div>
@@ -176,8 +178,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Longa Farahfaza</b>
-                                    <span>Ensemble Simon Shaheen</span>
+                                    <b>Λόνγκα Φαραχφάζα</b>
+                                    <span>Μουσικό  Σύνολο Σιμόν Σαχίν</span>
                                     <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
                             </label>
@@ -189,9 +191,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Longa Nahawand</b>
-                                    <span>Anouar Brahem</span>
-                                    <span>Musique de Tanburi Cemil Bey</span>
+                                    <b>Λόνγκα Ναχουάντ</b>
+                                    <span>Ανουάρ Μπραχέμ (Τυνησία)</span>
+                                    <span>Μουσική Ταμπουρί Τζεμίλ Μπέι</span>
                                 </div>
                             </label>
                         </div>
@@ -202,9 +204,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Longa Nahawand</b>
-                                    <span>Abdel Halim Noueirah Ensemble</span>
-                                    <span>Musique de Yorgo Baganos</span>
+                                    <b>Λόνγκα Ναχουάντ</b>
+                                    <span>Μουσικό  Σύνολο Αμπντέλ Χαλίμ Νουέϊρα</span>
+                                    <span>Μουσική Γιώργος Μπατζανός</span>
                                 </div>
                             </label>
                         </div>
@@ -215,7 +217,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Doulab Nahawand</b>
+                                    <b>Ντουλάμπ Ναχουάντ</b>
                                     <span>Σέιχ Αμπού ελ-Ίλα Μοχάμαντ (Αίγυπτος)</span>
                                 </div>
                             </label>

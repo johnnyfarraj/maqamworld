@@ -146,7 +146,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Noura Noura (1953)</b>
-                                    <span>Interprétation et Μουσική Φαρίντ αλ-Άτρας</span>
+                                    <span>Φωνή και μουσική Φαρίντ αλ-Άτρας</span>
                                 </div>
                             </label>
                         </div>
