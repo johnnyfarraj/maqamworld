@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Μακάμ Χουζάμ/Rahat al-Arwah";
 $page_description = "Μακάμ Χουζάμ/Rahat al-Arwah";
-$page_keywords = "musique arabe, mode arabe, maqam, jins, sikah, huzam, rahat al-arwah, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Μακάμ Σίκα, Μακάμ Χουζάμ, Μακάμ Ράχατ αλ-Αρουάχ, Μακάμ Ιράκ, ακάμ Μουσταάρ, Μακάμ Μπαστανικάρ, Μακάμ Αούτζ Ιράκ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -66,10 +66,13 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="473,4,598,33" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 		</map>
 
-                    <p>Le Μακάμ Χουζάμ est le maqam le plus courant de la <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a>. Il commence sur Mi<i class="icon-halfflat"></i>. Sa gamme commence avec le jins de base <a href="../jins/sikah.php">Τζινς Σίκα</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> sur le 3<sup>ième</sup> degré,  et finalement du <a href="../jins/rast.php">Τζινς Ραστ</a> sur le 6<sup>ième</sup> degré.
+                    <p>
+                        Το Μακάμ Χουζάμ είναι μακράν το πιο κοινό μακάμ στην <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a>, και αρχίζει στον φθόγγο Μι<i class="icon-halfflat"></i> (μίση ύφεση). Η κλίμακά του αρχίζει με την βάση <a href="../jins/sikah.php">Τζινς Σίκα</a> στην τονική, ακολουθούμενο από <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> στην 3η βαθμίδα, έπειτα <a href="../jins/rast.php">Τζινς Ραστ</a> στην 6η βαθμίδα.
                     </p>
 
-                    <p>La transposition du Μακάμ Χουζάμ sur Si<i class="icon-halfflat"></i> porte le nom de <strong>Μακάμ Ράχατ αλ-Αρουάχ</strong>. Les deux <em>maqams</em> ont exactement le même <em>sayr</em>.</p>
+                    <p>
+                        Η μεταφορά του Μακάμ Χουζάμ στον φθόγγο Σι<i class="icon-halfflat"></i> (μίση ύφεση) έχει την δική του ονομασία: <strong>Μακάμ Ράχατ αλ-Αρουάχ</strong>. Και τα δύο μακαμάτ έχουν ακριβώς την ίδια ανάπτυξη.
+                    </p>
 
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a>.</p>
 
@@ -84,9 +87,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Ya Ghousna Naqa</b>
+                                    <b>Μουάσαχ Για Γούσνα Νακά</b>
                                     <span>(Μακάμ Χουζάμ)</span>
-                                    <span>Ensemble de la Musique Arabe (Égypte)</span>
+                                    <span>Μουσικό  Σύνολο Αραβικής Μουσικής (Αίγυπτος)</span>
                                 </div>
                             </label>
                         </div>
@@ -97,9 +100,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ayyouha al-Saqi</b>
+                                    <b>Μουάσαχ Αϊόχα αλ-Σάκι</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
-                                    <span>Musique de Majdi al-‘Aqili</span>
+                                    <span>Μουσική Μάζντι αλ-Ακίλι</span>
                                     <span><img src="/img/cd.png"> Nagham al-Ams Vol. 13 Houzam</span>
                                 </div>
                             </label>
@@ -111,9 +114,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr Emta el-Hawa (1936)</b>
+                                    <b>Ντάουρ Έμτα ελ-Χάουα (1936)</b>
                                     <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
-                                    <span>Musique de Zakaria Ahmad</span>
+                                    <span>Μουσική Ζακαρία Άχμαντ</span>
                                 </div>
                             </label>
                         </div>
@@ -124,8 +127,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Marmar Zamani</b>
-                                    <span>Fairouz (Liban)</span>
+                                    <b>Μάρμαμ Ζαμάνι</b>
+                                    <span>Φεϊρούζ (Λίβανος)</span>
                                     <span>(παραδοσιακή Μελωδία)</span>
                                 </div>
                             </label>
@@ -134,7 +137,7 @@ include($ROOT . 'inc/head.php');
 
                     <!-- Start Rahat al-Arwah section -->
                     <div class="heading jins text-center">
-                        <h3>Μακάμ Ράχατ αλ-Αρουάχ examples</h3>
+                        <h3>Παραδείγματα από Μακάμ Ράχατ αλ-Αρουάχ</h3>
                     </div>
                     <div class="clearfix"></div>
 
@@ -143,9 +146,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>el-Ward Gamil (1947)</b>
+                                    <b>Παραδείγματα από Μακάμ Ράχατ αλ-Αρουά</b>
                                     <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
-                                    <span>Musique de Zakaria Ahmad</span>
+                                    <span>Μουσική Ζακαρία Άχμαντ</span>
                                 </div>
                             </label>
                         </div>
@@ -156,8 +159,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ya Wahid al-Ghid</b>
-                                    <span>Fairouz (Liban)</span>
+                                    <b>Για Ουαχίντ αλ-Γιντ</b>
+                                    <span>Φεϊρούζ (Λίβανος)</span>
                                     <span><img src="/img/cd.png"> Andalousiyyat</span>
                                 </div>
                             </label>
@@ -169,9 +172,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr Inta Fahim</b>
+                                    <b>Ντάουρ Έντα Φάχεμ</b>
                                     <span>(Μακάμ Ράχατ αλ-Αρουάχ)</span>
-                                    <span>Interprétation et Musique de Zakaria Ahmad</span>
+                                    <span>Φωνή και μουσική Ζακαρία Άχμαντ</span>
                                 </div>
                             </label>
                         </div>
@@ -182,8 +185,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Doulab Rahat al-Arwah</b>
-                                    <span>Aïcha Redouane (Maroc)</span>
+                                    <b>Ντουλάμπ Ράχατ αλ-Αρουά</b>
+                                    <span>Άισα Ριντουάν (Μαρόκο)</span>
                                     <span><img src="/img/cd.png"> Égypte</span>
                                 </div>
                             </label>
@@ -195,7 +198,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Doulab Rahat al-Arwah</b>
+                                    <b>Ντουλάμπ Ράχατ αλ-Αρουά</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span><img src="/img/cd.png"> Festival de Beiteddine (Liban)</span>
                                 </div>

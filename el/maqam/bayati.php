@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Μακάμ Μπαϊάτι</h1>
-                        <h3>Le maqam principal dans la <a href="f_bayati.php">Οικογένεια Μακάμ Μπαϊάτι</a></h3>
+                        <h3>To κύριο μακάμ στην <a href="f_bayati.php">Οικογένεια Μακάμ Μπαϊάτι</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
                     <div class="clearfix"></div>
@@ -96,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Akoun Sa‘id (1932)</b>
                                     <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
-                                    <span>Musique de Zakaria Ahmad</span>
+                                    <span>Μουσική Ζακαρία Άχμαντ</span>
                                 </div>
                             </label>
                         </div>
@@ -146,7 +146,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Noura Noura (1953)</b>
-                                    <span>Interprétation et Musique de Farid al-Atrache</span>
+                                    <span>Interprétation et Μουσική Φαρίντ αλ-Άτρας</span>
                                 </div>
                             </label>
                         </div>
@@ -158,8 +158,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Rayt Minnoun (Taqsim au Qanoun)</b>
-                                    <span>Fairouz (Liban)</span>
-                                    <span>Musique de Philémon Wéhbé</span>
+                                    <span>Φεϊρούζ (Λίβανος)</span>
+                                    <span>Μουσική Φιλίμων Ουάχμπι</span>
                                 </div>
                             </label>
                         </div>
@@ -171,8 +171,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Rayt Minnoun</b>
-                                    <span>Fairouz (Liban)</span>
-                                    <span>Musique de Philémon Wéhbé</span>
+                                    <span>Φεϊρούζ (Λίβανος)</span>
+                                    <span>Μουσική Φιλίμων Ουάχμπι</span>
                                 </div>
                             </label>
                         </div>

@@ -6,7 +6,8 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Μακάμ Ιράκ";
 $page_description = "Μακάμ Ιράκ";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Μακάμ Σίκα, Μακάμ Χουζάμ, Μακάμ Ράχατ αλ-Αρουάχ, Μακάμ Ιράκ, ακάμ Μουσταάρ, Μακάμ Μπαστανικάρ, Μακάμ Αούτζ Ιράκ";
+
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -60,9 +61,10 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="83,4,204,33" href="../jins/sikah.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="258,4,429,33" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="476,4,599,33" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
-	</map>
+	               </map>
 
-                    <p>Le Maqam 'Iraq est un maqam de la <a href="f_sikah.php">famille Sikah</a> plutôt rare. Il est en général utilisé comme une modulation dans le sayr du <a href="huzam.php">Μακάμ Χουζάμ</a>. Sa gamme commence avec le Jins de base <a href="../jins/sikah.php">Sikah</a> sur la tonique (Si<i class="icon-halfflat"></i>), suivi du <a href="../jins/bayati.php">Τζινς Μπαϊάτι</a> sur le 3<sup>ième</sup> degré, et finalement du <a href="../jins/rast.php">Τζινς Ραστ</a> sur le 6<sup>ième</sup> degré.
+                    <p>
+                        Το Μακάμ Ιράκ είναι ένα σπάνιο μέλος της <a href="f_sikah.php">οικόγενειας μακάμ Σίκα</a>, παρόλαυτα είναι πιο κοινό ως μετατροπία στην ανάπτυξη του <a href="huzam.php">Μακάμ Χουζάμ</a>. Η κλίμακα του Μακάμ Ιράκ αρχίζει στην βάση <a href="../jins/sikah.php">Τζινς Σίκα</a> στην τονική του Σι<i class="icon-halfflat"></i> (μισή ύφεση), ακολουθούμενο από <a href="../jins/bayati.php">Τζινς Μπαϊάτι</a> στην 3η βαθμίδα και έπειτα από <a href="../jins/rast.php">Τζινς Ραστ</a> στην 6η βαθμίδα.
                     </p>
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a>.</p>
 
@@ -77,7 +79,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Jayin ya Arz el-Jabal</b>
+                                    <b>Τζαϊίν Για Αρζ ελ-Τζάμπαλ</b>
                                     <span>Ουαντί Αλ-Σάφι (Λίβανος )</span>
                                 </div>
                             </label>
@@ -89,9 +91,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Jalla Man Ansha Jamalak</b>
-                                    <span>Ensemble Ornina (Syrie)</span>
-                                    <span>Chef d'Orchestre Dr. Mouhammad Qadri Dalal</span>
+                                    <b>Μουάσαχ Τζάλα Μαν Άνσα Τζαμάλακ</b>
+                                    <span>Μουσικό  Σύνολο Ορμίνα (Συρία)</span>
+                                    <span>Μαέστρος: Δρ. Μοχάμαντ Κάντρι Νταλάλ</span>
                                 </div>
                             </label>
                         </div>
@@ -102,9 +104,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i ‘Iraq</b>
-                                    <span>Orchestre de la Radio Tunisienne</span>
-                                    <span>Musique de Youssof Basha</span>
+                                    <b>Σαμάι Ιράκ</b>
+                                    <span>Ραδιοφωνική Ορχήστρα της Τυνησίας </span>
+                                    <span>Μουσική Γιούσεφ Μπασά</span>
                                 </div>
                             </label>
                         </div>
@@ -115,9 +117,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>el-Hali Ta‘bani Ya Layla</b>
-                                    <span>Joseph Saqr</span>
-                                    <span>Musique de Ziad Rahbani</span>
+                                    <b>ελ-Χάλι Τααμπάνι Για Λέιλα</b>
+                                    <span>Ζοζέφ Σάκερ</span>
+                                    <span>Μουσική Ζιάντ Ραχμπάνι</span>
                                 </div>
                             </label>
                         </div>

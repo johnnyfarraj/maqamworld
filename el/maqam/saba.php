@@ -109,7 +109,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Χούα Σαχέχ ελ-Χάουα Γαλάμπ (1960)</b>
                                     <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
-                                    <span>Musique de Zakaria Ahmad</span>
+                                    <span>Μουσική Ζακαρία Άχμαντ</span>
                                 </div>
                             </label>
                         </div>

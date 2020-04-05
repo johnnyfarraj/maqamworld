@@ -68,7 +68,9 @@ include($ROOT . 'inc/head.php');
 
 				      </map>
 
-                    <p>Le Μακάμ Μπαστανικάρ est en fait le <a href="../jins/sikah.php">Τζινς Σίκα</a> suivi du <a href="saba.php">Μακάμ Σάμπα</a>. Il commence avec le <a href="../jins/sikah.php">Τζινς Σίκα</a> comme jins de base sur la tonique, suivi du <a href="../jins/saba.php">Jins Saba</a> sur le 3<sup>ième</sup> degré, un <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> *overlapping* sur le 5<sup>ième</sup> degré et finalement, un <a href="../jins/nikriz.php">Τζινς Νικρίζ</a> à l'octave supérieure.</p>
+                    <p>
+                        Το Μακάμ Μπαστανικάρ είναι ουσιαστικά <a href="../jins/sikah.php">Τζινς Σίκα</a> ακολουθούμενο από το <a href="saba.php">Μακάμ Σάμπα</a>. Η κλίμακά του αρχίζει με βάση Ζινς Σίκα στην τονική, έπειτα <a href="../jins/saba.php">Τζινς Σάμπα</a> στην 3η βαθμίδα, αλληλοεπικαλυπτόμενο από <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> στην 5η βαθμίδα, και τέλος <a href="../jins/nikriz.php">Τζινς Νικρίζ</a> στην οκτάβα.
+                    </p>
 
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a>.</p>
 
@@ -83,7 +85,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Zalamu (1957)</b>
+                                    <b>Ζαλαμού (1957)</b>
                                     <span>Αμπντέλ Χαλίμ Χάφεζ (Αίγυπτος)</span>
                                     <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
@@ -96,9 +98,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ahl el-Hawa (1958)</b>
+                                    <b>Αχλ ελ-Χάουα (1958)</b>
                                     <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
-                                    <span>Musique de Zakaria Ahmad</span>
+                                    <span>Μουσική Ζακαρία Άχμαντ</span>
                                 </div>
                             </label>
                         </div>
@@ -109,7 +111,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Inti Fakrani (1938)</b>
+                                    <b>Έντι Φακράνι (1938)</b>
                                     <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
                                     <span>Μουσική Μοχάμαντ αλ-Κασάμπζι</span>
                                 </div>
@@ -122,10 +124,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Anshidi Ya Saba</b>
-                                    <span>Orchestre Palestinien National Arabe</span>
-                                    <span>Director Ramzi Abou Radwan (Palestine)</span>
-                                    <span>Musique de Yehiya al-Saoudi</span>‘
+                                    <b>Μουάσαχ Ανσίντι Για Σάμπα</b>
+                                    <span>Εθνική Αραβική Ορχήστρα Παλαιστίνης</span>
+                                    <span>Μαέστρος: Ράμζι Αμπου Ρεντουάν</span>
+                                    <span>Μουσική Γιάχια αλ-Σαούντι</span>‘
                                 </div>
                             </label>
                         </div>
@@ -136,10 +138,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Aqbala al-Soubhou Youghanni</b>
-                                    <span>Ensemble Ornina (Syrie)</span>
-                                    <span>Chef d'orchestre Dr. Mouhammad Qadri Dalal</span>
-                                    <span>Musique de Bakri al-Kurdi</span>
+                                    <b>Μουάσαχ Ακμπάλα αλ-Σούμπχου Ιουγάνι</b>
+                                    <span>Μουσικό  Σύνολο Ορμίνα (Συρία)</span>
+                                    <span>Μαέστρος: Δρ. Μοχάμαντ Κάντρι Νταλάλ</span>
+                                    <span>Μουσική Μπάκρι αλ-Κούρντι</span>
                                 </div>
                             </label>
                         </div>
@@ -150,8 +152,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Nouzhatou al-Arwahi Badri</b>
-                                    <span>(interprète inconnu)</span>
+                                    <b>Μουάσαχ Νουζχάτου αλ-Αρουάχι Μπάντρι</b>
+                                    <span>(άγνωστος ερμηνευτής)</span>
                                 </div>
                             </label>
                         </div>
@@ -162,8 +164,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Oud en Μακάμ Μπαστανικάρ</b>
-                                    <span>Mouhammad Qadri Dalal (Syrie)</span>
+                                    <b>Τακσίμι Ούτι σε Μακάμ Μπαστανικάρ</b>
+                                    <span>Μοχάμαντ Κάντρι Νταλάλ</span>
                                     <span><img src="/img/cd.png"> Maqams Insolites</span>
                                 </div>
                             </label>
@@ -175,8 +177,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim de Oud en <a href="../maqam/sikah.php">Μακάμ Σίκα</a></b>
-                                    <span>Riyad al-Soumbati (Égypte)</span>
+                                    <b>Τακσίμι Ούτι σε <a href="../maqam/sikah.php">Μακάμ Σίκα</a></b>
+                                    <span>Ριάντ αλ-Σουνμπάτι</span>
                                     <span><img src="/img/cd.png"> Taqaseem Oud</span>
                                 </div>
                             </label>

@@ -79,7 +79,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Ya Msafir wi Albi Ma‘ak (1950)</b>
-                                    <span>Leila Mourad (Égypte)</span>
+                                    <span>Λέιλα Μουράντ (Αίγυπτος)</span>
                                     <span>Musique de Ahmad Sidqi</span>
                                 </div>
                             </label>
@@ -92,7 +92,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Hana wel-Widd (1975)</b>
-                                    <span>Leila Mourad (Égypte)</span>
+                                    <span>Λέιλα Μουράντ (Αίγυπτος)</span>
                                     <span>Musique de Abdel Moun‘im al-Hariri</span>
                                 </div>
                             </label>
@@ -145,7 +145,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Taqsim Oud</b>
-                                    <span>Riyad al-Soumbati (Égypte)</span>
+                                    <span>Ριάντ αλ-Σουνμπάτι</span>
                                     <span><img src="/img/cd.png"> Taqaseem Oud</span>
                                 </div>
                             </label>
@@ -158,7 +158,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Taqsim de Oud en Μακάμ Άθαρ Κουρντ</b>
-                                    <span>Mouhammad Qadri Dalal (Syrie)</span>
+                                    <span>Μοχάμαντ Κάντρι Νταλάλ</span>
                                     <span><img src="/img/cd.png"> Maqams Insolites</span>
                                 </div>
                             </label>

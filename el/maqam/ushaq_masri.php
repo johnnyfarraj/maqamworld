@@ -90,7 +90,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ba‘d el-Khisam</b>
-                                    <span>Cheikh Abou el-Éla Mouhammad (Égypte)</span>
+                                    <span>Σέιχ Αμπού ελ-Ίλα Μοχάμαντ (Αίγυπτος)</span>
                                 </div>
                             </label>
                         </div>
@@ -102,7 +102,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Layali Nahawand</b>
-                                    <span>Cheikh Abou el-Éla Mouhammad (Égypte)</span>
+                                    <span>Σέιχ Αμπού ελ-Ίλα Μοχάμαντ (Αίγυπτος)</span>
                                 </div>
                             </label>
                         </div>

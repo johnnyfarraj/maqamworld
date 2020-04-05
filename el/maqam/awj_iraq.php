@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Μακάμ Αούτζ Ιράκ";
 $page_description = "Μακάμ Αούτζ Ιράκ";
-$page_keywords = "musique arabe, mode arabe, maqam, jins, sikah, awj iraq, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Μακάμ Σίκα, Μακάμ Χουζάμ, Μακάμ Ράχατ αλ-Αρουάχ, Μακάμ Ιράκ, ακάμ Μουσταάρ, Μακάμ Μπαστανικάρ, Μακάμ Αούτζ Ιράκ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -63,9 +63,11 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="615,7,740,37" href="../jins/sikah.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Maqam Aouj 'Iraq est une version du <a href="huzam.php">Μακάμ Ράχατ αλ-Αρουάχ/Μακάμ Χουζάμ</a> et du <a href="iraq.php">Μακάμ Ιράκ</a>, avec un <em>sayr</em> qui commence sur la tonique à l'octave supérieure et redescend vers la tonique. Il partage la plupart de ses ajnas avec le <a href="huzam.php">Μακάμ Χουζάμ</a>.
+                    <p>
+                        Το Μακάμ Αούτζ Ιράκ είναι μία εκδοχή του <a href="huzam.php">Μακάμ Ράχατ αλ-Αρουάχ/Μακάμ Χουζάμ</a> και <a href="iraq.php">Μακάμ Ιράκ</a> των οποίων η ανάπτυξή τους αρχίζει από τονική της οκτάβας και κατεβαίνει στην βάση – παρόλαυτα μοιράζεται περισσότερο τα ίδια Αζνάς όπως αυτά του <a href="huzam.php">Μακάμ Χουζάμ</a>.
                     </p>
-                    <p>Le Maqam Aouj 'Iraq  commence avec le jins de base <a href="../jins/sikah.php">Sikah</a> sur la tonique, suivi du <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> sur le 3<sup>ième</sup> degré, puis d'un autre Τζινς Σίκα sur le 8<sup>ième</sup> degré.
+                    <p>
+                        Η κλίμακα του Μακάμ Αούτζ Ιράκ αρχίζει στην βάση <a href="../jins/sikah.php">Τζινς Σίκα</a> στην τονική, έπειτα έχει <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> στην στην 3η βαθμίδα ακολουθούμενο από άλλο ένα <a href="../jins/sikah.php">Τζινς Σίκα</a> στην 8η βαθμίδα.
                     </p>
 
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a>.</p>
@@ -81,8 +83,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Ya Samiri Da‘a Sabri</b>
-                                    <span>Interprétation de Mouhammad Khayri (Syrie)</span>
+                                    <b>Μουάσαχ Για Σάμιρι Ντάα Σάμπρι</b>
+                                    <span>Μοχάμαντ Χαΐρι (Συρία)</span>
                                 </div>
                             </label>
                         </div>
@@ -93,8 +95,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Hayya Wa Nadim</b>
-                                    <span>Interprétation de Samer Nachar (Syrie)</span>
+                                    <b>Μουάσαχ Χάια Ουά Ναντίμ</b>
+                                    <span>Σάμερ Νασάρ</span>
                                 </div>
                             </label>
                         </div>

@@ -78,7 +78,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Gari (1958)</b>
                                     <span>Horeyya Hassan (Égypte)</span>
-                                    <span>Musique de Mouhammad al-Mougi</span>
+                                    <span>Μουσική Μοχάμαντ αλ-Μούγκι</span>
                                 </div>
                             </label>
                         </div>
@@ -128,7 +128,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Doulab Nahawand</b>
-                                    <span>Aïcha Redouane (Maroc)</span>
+                                    <span>Άισα Ριντουάν (Μαρόκο)</span>
                                     <span><img src="/img/cd.png"> Égypte</span>
                                 </div>
                             </label>

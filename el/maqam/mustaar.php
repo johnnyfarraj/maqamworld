@@ -6,7 +6,8 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Μακάμ Μουσταάρ";
 $page_description = "Μακάμ Μουσταάρ";
-$page_keywords = "musique arabe, mode arabe, maqam, jins, sikah, mustaar, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Μακάμ Σίκα, Μακάμ Χουζάμ, Μακάμ Ράχατ αλ-Αρουάχ, Μακάμ Ιράκ, ακάμ Μουσταάρ, Μακάμ Μπαστανικάρ, Μακάμ Αούτζ Ιράκ";
+
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -29,7 +30,7 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Μακάμ Μουσταάρ (ou Moustaar)</h1>
+                        <h1>Μακάμ Μουσταάρ</h1>
                         <h3>Μέλος της <a href="f_sikah.php">Οικόγενειας Μακάμ Σίκα</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
@@ -61,7 +62,8 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="478,3,606,33" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
                       
 					</map>
-                    <p>Le Μακάμ Μουσταάρ est un maqam très rare en tant que maqam indépendant. Il est plus commun est tant que jins ou comme sayr utilisé à l'intérieur du <a href="huzam.php">Μακάμ Χουζάμ</a> et du <a href="sikah.php">Μακάμ Σίκα</a>. Sa gamme commence avec le Jins de base <a href="../jins/mustaar.php">Mousta‘ar</a> sur la tonique (Mi<i class="icon-halfflat"></i>), suivi du <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> sur le 3<sup>ième</sup> degré,  et finalement du <a href="../jins/rast.php">Τζινς Ραστ</a> sur le 6<sup>ième</sup> degré.
+                    <p>
+                        Το Μακάμ Μουσταάρ είναι εξαιρετικά σπάνιο ως ένα αυτόνομο μακάμ, αλλά πιο κοινό ως ένα Τζινς, ή ως μέρος ανάπτυξης μέσα στο <a href="huzam.php">Μακάμ Χουζάμ</a> και <a href="sikah.php">Μακάμ Σίκα</a>. Η κλίμακά του αρχίζει με <a href="../jins/mustaar.php">Τζινς Μουστάαρ</a> στην τονική (Μι<i class="icon-halfflat"></i>), ακολουθούμενο από <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> στην 3η βαθμίδα, και <a href="../jins/rast.php">Τζινς Ραστ</a> στην 6η βαθμίδα.
                     </p>
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a>.</p>
 
@@ -76,9 +78,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Aktiblak Gawabat</b>
-                                    <span>Leila Mourad (Égypte)</span>
-                                    <span>Musique de Mouhammad al-Mougi</span>
+                                    <b>Ακτίμπλακ Τζαουμπάτ</b>
+                                    <span>Λέιλα Μουράντ (Αίγυπτος)</span>
+                                    <span>Μουσική Μοχάμαντ αλ-Μούγκι</span>
                                 </div>
                             </label>
                         </div>
@@ -89,8 +91,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Haramouha Minni</b>
-                                    <span>Fathiyya Ahmad (Égypte)</span>
+                                    <b>Χαραμούχα Μίνι</b>
+                                    <span>Φατχΐα Άχμαντ</span>
                                     <span>Μουσική Μοχάμαντ αλ-Κασάμπζι</span>
                                 </div>
                             </label>
@@ -102,7 +104,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Raqq el-Habib (1944)</b>
+                                    <b>Ρακ ελ-Χαμπίμπ (1944)</b>
                                     <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
                                     <span>Μουσική Μοχάμαντ αλ-Κασάμπζι</span>
                                 </div>
@@ -115,8 +117,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qasida Ya ‘Adhili La Taloumni (1924)</b>
-                                    <span>Cheikh Abou el-Éla Mouhammad (Égypte)</span>
+                                    <b>Κασίντα Για Άδίλι Λα Ταλούμνι (1924)</b>
+                                    <span>Σέιχ Αμπού ελ-Ίλα Μοχάμαντ (Αίγυπτος)</span>
                                 </div>
                             </label>
                         </div>

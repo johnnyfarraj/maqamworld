@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Μακάμ Σίκα";
 $page_description = "Μακάμ Σίκα";
-$page_keywords = "musique arabe, mode arabe, maqam, jins, sikah, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Μακάμ Σίκα, Μακάμ Χουζάμ, Μακάμ Ράχατ αλ-Αρουάχ, Μακάμ Ιράκ, ακάμ Μουσταάρ, Μακάμ Μπαστανικάρ, Μακάμ Αούτζ Ιράκ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Μακάμ Σίκα</h1>
-                        <h3>Le maqam principal dans la <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a></h3>
+                        <h3>To κύριο μακάμ στην <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
                     <div class="clearfix"></div>
@@ -61,7 +61,8 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="485,4,610,33" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Μακάμ Σίκα est un membre rare de la <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a> même si il porte le nom de son Jins de base. Sa gamme commence avec le jins de base <a href="../jins/sikah.php">Sikah</a> sur la tonique, suivi du <a href="../jins/upper_rast.php">Jins Haut Rast</a> sur le 3<sup>ième</sup> degré (avec sa tonique sur le 6<sup>ième</sup> degré), et finalement du <a href="../jins/rast.php">Τζινς Ραστ</a> sur le 6<sup>ième</sup> degré (qui est un <em>ghammaz</em> secondaire).
+                    <p>
+                        Το Μακάμ Σίκα είναι το κύριο μακάμ στην <a href="f_sikah.php">οικογένεια Σίκα</a>. Η κλίμακά του αρχίζει με την βάση <a href="../jins/sikah.php">Τζινς Σίκα</a> στην τονική, ακολουθούμενο από <a href="../jins/upper_rast.php">Τζινς Άνω Ραστ</a> στην 3η βαθμίδα (με την τονική της στην 6η βαθμίδα) και έπειτα <a href="../jins/rast.php">Τζινς Ραστ</a> στην 6η βαθμίδα (η οποία είναι δευτερεύουσα νότα <em>γάμμαζ</em>).
                     </p>
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a>.</p>
 
@@ -76,8 +77,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Jadaka al-Ghaithou</b>
-                                    <span>Interprétation et Musique de Wajdi al-‘Aqili (Syrie)</span>
+                                    <b>Μουάσαχ Τζάντακα αλ-Γέιθου</b>
+                                    <span>Φωνή και μουσική Ουάζντι αλ-Ακίλι (Συρία)</span>
                                 </div>
                             </label>
                         </div>
@@ -88,7 +89,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Inti Fakrani (1938)</b>
+                                    <b>Έντι Φακράνι (1938)</b>
                                     <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
                                     <span>Μουσική Μοχάμαντ αλ-Κασάμπζι</span>
                                 </div>
@@ -101,9 +102,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>el-Ward Gamil (1947)</b>
+                                    <b>ελ-Ουάρντ Γκαμίλ (1946)</b>
                                     <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
-                                    <span>Musique de Zakaria Ahmad</span>
+                                    <span>Μουσική Ζακαρία Άχμαντ</span>
                                 </div>
                             </label>
                         </div>

@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Μακάμ Νικρίζ</h1>
-                        <h3>Le maqam principal dans la <a href="f_nikriz.php">Οικογένεια Μακάμ Νικρίζ</a></h3>
+                        <h3>To κύριο μακάμ στην <a href="f_nikriz.php">Οικογένεια Μακάμ Νικρίζ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
                     <div class="clearfix"></div>
@@ -155,7 +155,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr Yalli Qawamak Ya‘gibni</b>
                                     <span>Karem Mahmoud (Égypte)</span>
-                                    <span>Musique de Sayyed Darwich</span>
+                                    <span>Μουσική Σαΐντ Νταρουίς</span>
                                 </div>
                             </label>
                         </div>

@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Μακάμ Άτζαμ";
 $page_description = "Μακάμ Άτζαμ";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Μακάμ Άτζαμ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Μακάμ Άτζαμ</h1>
-                        <h3>Le maqam principal dans la <a href="f_ajam.php">Οικογένεια Μακάμ Άτζαμ</a></h3>
+                        <h3>To κύριο μακάμ στην <a href="f_ajam.php">Οικογένεια Μακάμ Άτζαμ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
                     <div class="clearfix"></div>
@@ -64,7 +64,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="625,11,820,40" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
 		          </map>
 
-                   <p>Le Maqam 'Ajam (aussi connu sous le nom de <strong>‘Ajam égyptien</strong>) est le maqam principal de la <a href="f_ajam.php">Οικογένεια Μακάμ Άτζαμ</a>. Il commence avec comme iins de base le <a href="../jins/ajam.php">Τζινς Άτζαμ</a> sur la tonique, suivi du <a href="../jins/upper_ajam.php">Jins Haut ‘Ajam</a> sur le 5<sup>ième</sup> degré (avec sa tonique sur le 8<sup>ième</sup> degré), ou du <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> sur le 5<sup>ième</sup> degré.</p>
+                   <p>
+                       Το Μακάμ Άτζαμ (επίσης γνωστό και ώς <strong>Αιγυπτιακό Άτζαμ</strong>) είναι το κύριο μακάμ στην <a href="f_ajam.php">Οικογένεια Μακάμ Άτζαμ</a>, και αρχίζει με την βάση <a href="../jins/ajam.php">Τζινς Άτζαμ</a> στην τονική, ακολουθούμενο από είτε <a href="../jins/upper_ajam.php">Τζινς Άνω Άτζαμ</a> στην 5η βαθμίδα (με την τονική στην 8η βαθμίδα) ή <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> στην 5η βαθμίδα.
+                    </p>
                     
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_ajam.php">Οικογένεια Μακάμ Άτζαμ</a>.</p>
 
@@ -79,7 +81,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Aghadan Alqak (1971)</b>
+                                    <b>Άγανταν Αλκάκ (1971)</b>
                                     <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
                                     <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
@@ -92,8 +94,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>el-Bahr Biyidhak</b>
-                                    <span>Interprétation et Musique de Cheikh Imam (Égypte)</span>
+                                    <b>ελ-Μπαχρ Βιγίντχακ</b>
+                                    <span>Φωνή και μουσική Σέιχ Ιμάμ</span>
                                 </div>
                             </label>
                         </div>
@@ -104,8 +106,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Fi Youm Wi Leila (1978)</b>
-                                    <span>Warda (France/Algérie)</span>
+                                    <b>Φι Ιόμ ου Λέιλα (1978)</b>
+                                    <span>Ουάρντα</span>
                                     <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
@@ -117,9 +119,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Tal‘a Min Beit Abouha</b>
-                                    <span>Nazem al-Ghazali (Irak)</span>
-                                    <span>(Chanson traditionnelle de l'Irak)</span>
+                                    <b>Τάλαα μιν Μπέιτ Αμπούχα</b>
+                                    <span>Νάζεμ αλ-Γαζάλι (Ιράκ)</span>
+                                    <span>(Ιρακινό Παραδοσιακό)</span>
                                 </div>
                             </label>
                         </div>
@@ -130,9 +132,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Zourouni Koulli Sana Marra</b>
-                                    <span>Karem Mahmoud (Égypte)</span>
-                                    <span>Musique de Sayyed Darwich</span>
+                                    <b>Ζουρούνι Κούλι Σάνα Μάρα</b>
+                                    <span>Κάρεμ Μαχμούντ</span>
+                                    <span>Μουσική Σαΐντ Νταρουίς</span>
                                 </div>
                             </label>
                         </div>

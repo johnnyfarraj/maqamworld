@@ -126,7 +126,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Nas Ana Moutti Fi Hobbi</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
-                                    <span>Musique de Sayyed Darwich</span>
+                                    <span>Μουσική Σαΐντ Νταρουίς</span>
                                 </div>
                             </label>
                         </div>
@@ -165,7 +165,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Maria</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
-                                    <span>Musique de Sayyed Darwich</span>
+                                    <span>Μουσική Σαΐντ Νταρουίς</span>
                                 </div>
                             </label>
                         </div>
@@ -218,7 +218,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ba‘attilak Ya Habib el-Rouh</b>
                                     <span>(Μακάμ Σαντ Αραμπάν)</span>
-                                    <span>Fairouz (Liban)</span>
+                                    <span>Φεϊρούζ (Λίβανος)</span>
                                     <span>Musique de Ziad Rahbani</span>
                                 </div>
                             </label>

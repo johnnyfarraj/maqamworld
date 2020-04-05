@@ -29,7 +29,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Μακάμ Χιτζάζ</h1>
-                        <h3>Le maqam principal dans la <a href="f_hijaz.php">Οικογένεια Μακάμ Χιτζάζ</a></h3>
+                        <h3>To κύριο μακάμ στην <a href="f_hijaz.php">Οικογένεια Μακάμ Χιτζάζ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
                     <div class="clearfix"></div>
@@ -120,7 +120,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Hibbina (1975)</b>
-                                    <span>Interprétation et Musique de Farid al-Atrache</span>
+                                    <span>Interprétation et Μουσική Φαρίντ αλ-Άτρας</span>
                                 </div>
                             </label>
                         </div>

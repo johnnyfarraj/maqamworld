@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Μακάμ Άτζαμ Ουσαιράν";
 $page_description = "Μακάμ Άτζαμ Ουσαιράν";
-$page_keywords = "musique arabe, maqam, instruments, jins, iqa‘, iqaa, rythme, oud, qanoun, nay, quart de ton, tarab";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Μακάμ Άτζαμ Ουσαιράν";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');

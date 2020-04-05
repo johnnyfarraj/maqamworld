@@ -104,7 +104,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Hibbi Da‘ani Lil-Wisal</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
-                                    <span>Musique de Sayyed Darwich</span>
+                                    <span>Μουσική Σαΐντ Νταρουίς</span>
                                     <span><img src="/img/cd.png"> Nagham al-Ams Vol. 2 (Bayati Chouri)</span>
                                 </div>
                             </label>

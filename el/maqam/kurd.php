@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Μακάμ Κουρντ</h1>
-                        <h3>Le maqam principal dans la <a href="f_kurd.php">Οικογένεια Μακάμ Κουρντ</a></h3>
+                        <h3>To κύριο μακάμ στην <a href="f_kurd.php">Οικογένεια Μακάμ Κουρντ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
                     <div class="clearfix"></div>
@@ -131,7 +131,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Ya Bahjet el-Rouh</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
-                                    <span>Musique de Sayyed Darwich</span>
+                                    <span>Μουσική Σαΐντ Νταρουίς</span>
                                     <span><img src="/img/cd.png"> Au Palais Des Congrès (1995)</span>
                                 </div>
                             </label>
@@ -157,7 +157,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sanatein</b>
-                                    <span>Leila Mourad (Égypte)</span>
+                                    <span>Λέιλα Μουράντ (Αίγυπτος)</span>
                                     <span>Musique de Raouf Dhihni</span>
                                 </div>
                             </label>

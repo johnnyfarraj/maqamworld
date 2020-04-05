@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Μακάμ Σάουκ Άφζα";
 $page_description = "Μακάμ Σάουκ Άφζα";
-$page_keywords = "musique arabe, mode arabe, maqam, jins, shawq afza, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Μακάμ Σάουκ Άφζα";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -59,7 +59,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="134,4,268,36" href="../jins/ajam.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="414,4,552,36" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
 					</map>
-                    <p>Le Μακάμ Σάουκ Άφζα est la version la plus commune du <a href="ajam.php">Μακάμ Άτζαμ</a>. Sa gamme commence avec le jins de base <a href="../jins/ajam.php">‘Ajam</a> sur la tonique. Le fait qu'il ait le <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> sur le 5<sup>ième</sup> degré est ce qui le distingue du <a href="ajam.php">Μακάμ Άτζαμ</a>, en plus du fait de fréquemment moduler vers le <a href="../jins/saba_dalanshin.php">Jins Saba Dalanchine</a> sur le 3<sup>ième</sup>/5<sup>ième</sup> degré.</p>
+                    <p>
+                        Το Μακάμ Σάουκ Άφζα είναι η πιο κοινή παραλλαγή του <a href="ajam.php">Μακάμ Άτζαμ</a>. Η κλίμακά του αρχίζει με βάση το <a href="../jins/ajam.php">Τζινς Άτζαμ</a> στην τονική, καθώς το <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> στην 5η βαθμίδα είναι το χαρακτηριστικό του γνώρισμα, όπως επίσης μία συχνή μετατροπία σε <a href="../jins/saba_dalanshin.php">Τζινς Σάμπα Νταλανσίν</a> στην 3η / 5η βαθμίδα.
+                    </p>
 
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_ajam.php">Οικογένεια Μακάμ Άτζαμ</a>.</p>
 
@@ -74,7 +76,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Lissa Faker (1960)</b>
+                                    <b>Λίσα Φάκερ (1960)</b>
                                     <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
                                     <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
@@ -87,9 +89,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>‘Ala Allah Téoud (1970)</b>
+                                    <b>Αλά Αλά Ταούντ (1970)</b>
                                     <span>Ουαντί Αλ-Σάφι (Λίβανος )</span>
-                                    <span>Musique de Farid al-Atrache</span>
+                                    <span>Μουσική Φαρίντ αλ-Άτρας</span>
                                 </div>
                             </label>
                         </div>
@@ -100,9 +102,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Longa ‘Ajam</b>
-                                    <span>Musique de Abdou Dagher (Égypte)</span>
-                                    <span><img src="/img/cd.png"> Malik al-Taqasim</span>
+                                    <b>Λόνγκα Άτζαμ</b>
+                                    <span>Μουσική Αμπντού Ντάγερ</span>
+                                    <span><img src="/img/cd.png"> Μάλικ αλ Τακασίμ</span>
                                 </div>
                             </label>
                         </div>
@@ -113,9 +115,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Iswarit el-‘Arouss (1989)</b>
-                                    <span>Fairouz (Liban)</span>
-                                    <span>Musique de Philémon Wéhbé</span>
+                                    <b>Εσουάρετ ελ-Αρούς (1989)</b>
+                                    <span>Φεϊρούζ (Λίβανος)</span>
+                                    <span>Μουσική Φιλίμων Ουάχμπι</span>
                                 </div>
                             </label>
                         </div>

@@ -103,7 +103,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ghannili Chwayy Chwayy (1945)</b>
                                     <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
-                                    <span>Musique de Zakaria Ahmad</span>
+                                    <span>Μουσική Ζακαρία Άχμαντ</span>
                                 </div>
                             </label>
                         </div>

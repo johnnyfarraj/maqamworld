@@ -92,7 +92,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Aya Daraha Bil-Houzn</b>
                                     <span>Hassan al-Haffar (Syrie)</span>
-                                    <span>Musique de Majdi al-‘Aqili</span>
+                                    <span>Μουσική Μάζντι αλ-Ακίλι</span>
                                 </div>
                             </label>
                         </div>

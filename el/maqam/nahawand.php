@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Μακάμ Ναχαουάντ</h1>
-                        <h3>Le maqam principal dans la <a href="f_nahawand.php">Οικογένεια Μακάμ Ναχαουάντ</a></h3>
+                        <h3>To κύριο μακάμ στην <a href="f_nahawand.php">Οικογένεια Μακάμ Ναχαουάντ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
                     <div class="clearfix"></div>
@@ -216,7 +216,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Doulab Nahawand</b>
-                                    <span>Cheikh Abou el-Éla Mouhammad (Égypte)</span>
+                                    <span>Σέιχ Αμπού ελ-Ίλα Μοχάμαντ (Αίγυπτος)</span>
                                 </div>
                             </label>
                         </div>

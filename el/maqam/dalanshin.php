@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="258,140,443,171" href="../jins/upper_rast.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="562,4,690,34" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 					</map>
-                    <p>Le Maqam Dalanshin commence avec le <a href="../jins/saba_dalanshin.php">Jins Saba Dalanchine</a> à l'octave du <a href="rast.php">Μακάμ Ραστ</a>, puis retourne à la gamme du Μακάμ Ραστ avec le <a href="../jins/upper_rast.php">Jins Haut Rast</a> sur le 5<sup>ième</sup> degré (avec sa tonique sur le 8<sup>ième</sup> degré), puis termine avec le <a href="../jins/rast.php">Τζινς Ραστ</a> sur la tonique.
+                    <p>Le Maqam Dalanshin commence avec le <a href="../jins/saba_dalanshin.php">Τζινς Σάμπα Νταλανσίν</a> à l'octave du <a href="rast.php">Μακάμ Ραστ</a>, puis retourne à la gamme du Μακάμ Ραστ avec le <a href="../jins/upper_rast.php">Jins Haut Rast</a> sur le 5<sup>ième</sup> degré (avec sa tonique sur le 8<sup>ième</sup> degré), puis termine avec le <a href="../jins/rast.php">Τζινς Ραστ</a> sur la tonique.
                     </p>
                     <p>
                     Il n'y a pas beaucoup de chansons dans ce maqam. Il est plutôt utilisé comme une modulation à partir du <a href="rast.php">Μακάμ Ραστ</a>.

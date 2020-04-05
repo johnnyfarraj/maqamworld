@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Μακάμ Ραστ</h1>
-                        <h3>Le maqam principal dans la <a href="f_rast.php">Οικογένεια Μακάμ Ραστ</a></h3>
+                        <h3>To κύριο μακάμ στην <a href="f_rast.php">Οικογένεια Μακάμ Ραστ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
                     <div class="clearfix"></div>
@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Ya Chadi al-Alhan</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
-                                    <span>Musique de Sayyed Darwich</span>
+                                    <span>Μουσική Σαΐντ Νταρουίς</span>
                                 </div>
                             </label>
                         </div>
@@ -109,7 +109,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Mouachah Ya ‘Oudhayb al-Marshaf</b>
                                     <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Liban)</span>
                                     <span>Chef d'orchestre: Aïda Chalhoub Ziadé</span>
-                                    <span>Musique de Sayyed Darwich</span>
+                                    <span>Μουσική Σαΐντ Νταρουίς</span>
                                     <span><img src="/img/cd.png"> Orientalia: Mouachah et Chansons</span>
                                 </div>
                             </label>
@@ -122,8 +122,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Waraqou el-Asfar Chaher Ayloul</b>
-                                    <span>Fairouz (Liban)</span>
-                                    <span>Musique de Philémon Wéhbé</span>
+                                    <span>Φεϊρούζ (Λίβανος)</span>
+                                    <span>Μουσική Φιλίμων Ουάχμπι</span>
                                 </div>
                             </label>
                         </div>
