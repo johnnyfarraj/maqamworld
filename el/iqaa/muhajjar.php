@@ -58,7 +58,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Μουάσαχ Μπάντατ Μιν αλ-Χίντρι</b>
-                                    <span>Μουσικό Σύνολο Αλ-Κίντι</span>
+                                    <span>Μουσικό Σύνολο αλ-Κίντι</span>
                                 </div>
                             </label>
                         </div>
@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Μουάσαχ Ηατζάρνι Χαμπίμπι</b>
-                                    <span>Μουσικό  Σύνολο Αλ-Τουράθ (Συρία)</span>
+                                    <span>Μουσικό Σύνολο Αλ-Τουράθ (Συρία)</span>
                                 </div>
                             </label>
                         </div>
@@ -96,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Μουάσαχ Μουνιάτι Άζζα Ιστιμπάρι</b>
                                     <span>Μουάσαχ Τιφ Για Ντούρι Μπελ Κανάνι</span>
                                     <span>Μαέστρος: Άιντα Σαλχούμπ Ζιάντε</span>
-                                    <span>Music by Sayyed Darwish</span>
+                                    <span>Μουσική Σαΐντ Νταρουίς</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>
                             </label>
@@ -109,7 +109,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Μουάσαχ Για Τούρα Μπάαντα αλ-Μπεάντι</b>
-                                    <span>Μουσικό Σύνολο Αλ-Κίντι</span>
+                                    <span>Μουσικό Σύνολο αλ-Κίντι</span>
                                 </div>
                             </label>
                         </div>

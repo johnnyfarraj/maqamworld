@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Subhana</b>
-                                    <span>Sheikh Habboush &amp; Ensemble Al Kindi</span>
+                                    <span>Sheikh Habboush &amp; Σύνολο αλ-Κίντι</span>
                                     <span><img src="/img/cd.png"> Transe Soufie d'Aleppe Vol.2</span>
                                 </div>
                             </label>
@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>il-Albi Yi‘shaq Kulli Gamil (1961)</b>
                                     <span>Ουμ Κουλθούμ</span>
-                                    <span>Music by Riyad al-Sunbati</span>
+                                    <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
                             </label>
                         </div>

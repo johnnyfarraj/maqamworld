@@ -59,7 +59,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Μουάσαχ Τιφ Για Ντούρι Μπελ Κανάνι</b>
-                                    <span>Μουσικό Σύνολο Αλ-Κίντι</span>
+                                    <span>Μουσικό Σύνολο αλ-Κίντι</span>
                                     <span>Μουσική Όμαρ αλ-Μπατς</span>
                                     <span><img src="/img/cd.png"> The Aleppian Music Room I - Maqam Hijazkar Kurd</span>
                                 </div>

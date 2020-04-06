@@ -61,7 +61,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Khatwit Habibi (1953)</b>
-                                    <span>Instrumental by Muhammad Abdel Wahab</span>
+                                    <span>Instrumental by Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
                         </div>
@@ -87,7 +87,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>il-Albi Yi‘shaq Kulli Gamil (1961)</b>
                                     <span>Ουμ Κουλθούμ</span>
-                                    <span>Music by Riyad al-Sunbati</span>
+                                    <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
                             </label>
                         </div>
@@ -99,8 +99,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Tuta</b>
-                                    <span>Instrumental Composition</span>
-                                    <span>Music by Farid al-Atrash</span>
+                                    <span>Οργανική Σύνθεση</span>
+                                    <span>Μουσική Φαρίντ αλ-Άτρας</span>
                                 </div>
                             </label>
                         </div>
@@ -113,7 +113,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Bid‘ el-Ward (1944)</b>
                                     <span>Asmahan</span>
-                                    <span>Music by Farid al-Atrash</span>
+                                    <span>Μουσική Φαρίντ αλ-Άτρας</span>
                                 </div>
                             </label>
                         </div>
@@ -125,7 +125,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sawa Rbina (1968)</b>
-                                    <span>Fairouz</span>
+                                    <span>Φεϊρούζ (Λίβανος)</span>
                                     <span>Music by the Rahbani Brothers</span>
                                 </div>
                             </label>

@@ -95,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Μουάσαχ Μάλα αλ-Κασάτ</b>
-                                    <span>Μουσικό Σύνολο Αλ-Κίντι (Συρία/Γαλλία)</span>
+                                    <span>Μουσικό Σύνολο αλ-Κίντι (Συρία/Γαλλία)</span>
                                     <span>Μουσική Μοχάμαντ Οθμάν</span>
                                 </div>
                             </label>
@@ -186,7 +186,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Σαμάι Ραστ Τζορτζ Μισέλ (Αίγυπτος)</b>
-                                    <span>Μουσικό Σύνολο Αλ-Κίντι (Συρία/Γαλλία)</span>
+                                    <span>Μουσικό Σύνολο αλ-Κίντι (Συρία/Γαλλία)</span>
                                     <span><img src="/img/cd.png"> The Aleppian Music Room Vol. 2 (Rast)</span>
                                 </div>
                             </label>

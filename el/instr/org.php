@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Τo Αραβικό Οργανο";
-$page_description = "Τo Αραβικό Οργανο";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Αραβοποιημένα όργανα, Το Αραβικό Ακκορντεόν, H Hλεκτρική Κιθάρα, Τo Αραβικό Οργανο, To Αραβικό Αρμόνιο, To Αραβικό Πιάνο, Το Αραβικό Σαξόφωνο, Η Αραβική Τρομπέτα";
+$page_title = "Τo Αραβικό Όργανο";
+$page_description = "Τo Αραβικό Όργανο";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Αραβοποιημένα όργανα, Το Αραβικό Ακκορντεόν, H Hλεκτρική Κιθάρα, Τo Αραβικό Όργανο, To Αραβικό Αρμόνιο, To Αραβικό Πιάνο, Το Αραβικό Σαξόφωνο, Η Αραβική Τρομπέτα";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -23,23 +23,27 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο μουσικών οργάνων</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Όργανα</a>
                     <?php include('../sidemenu-instr.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Τo Αραβικό Οργανο</h1>
+                        <h1>Τo Αραβικό Όργανο</h1>
                         <h3>Το ηλεκτρικό Όργανο προσαρμοσμένο με μικροδιαστήματα</h3>
                     </div>
 
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο μουσικών οργάνων</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Όργανα</a>
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
                         <img src="/instr/org.jpg" alt="l'Orgue Électrique">
                         <span>Ο πρωτοπόρος Μάγκντι Ελ-Χουσέινι (Αίγυπτος)</span>
                     </div>
+
+                    <!-- 
+                        TODO Ok. I think Electric fits for guitar but for org no need  for electric. People say just org or organ with or without Arabic. I suggest to take out the electric and leave the Arabic. There isn't physical org anyway. Also, I prefer to have aside the Αραβικό Όργανο  the word org in parenthesis both in the index, title and list to explore at the bottom for better consistency
+                        -->
 
                     <p>
                         Το ηλεκτρικό Όργανο (κοινώς ως οργκ στα Αραβικά, από το Γαλλικό “orgue”) έγινε πολύ διαδεδομένο στην Αραβική μουσική από τα τέλη της δεκαετίας του ’60 με ’70. Ο αρμονίστας και φίρμα της Αιγύπτου Μάγκντι Ελ-Χουσέινι ήταν ο πρώτος που έπαιξε οργκ στην Αραβική μουσική. Το οργκ τροποποιήθηκε έτσι ώστε να μπορεί να παίζει και μόρια του τόνου (όπως και το ακκορντεόν) για την εκτέλεση κομματιών βασισμένα σε Αραβικά <a href="../maqam.php">μακάμια</a>. Χρησιμοποιήθηκε για μελωδίες και απλές συγχορδίες. Μαζί και με την <a href="guitar.php">ηλεκτρική κιθάρα</a>, το οργκ υπήρξε καθοριστικό στην διαμόρφωση του ήχου της Αραβικής μουσικής εκείνης της εποχής.
@@ -100,7 +104,7 @@ include($ROOT . 'inc/head.php');
 						<li><a href="accordion.php">Το Αραβικό Ακκορντεόν</a></li>
 						<li><a href="guitar.php">H Hλεκτρική Κιθάρα</a></li>
                     	<!--
-						<li><a href="org.php">Τo Αραβικό Οργανο</a></li>
+						<li><a href="org.php">Τo Αραβικό Όργανο</a></li>
 						-->
 						<li><a href="keyboard.php">To Αραβικό Αρμόνιο</a></li>
 						<li><a href="piano.php">To Αραβικό Πιάνο</a></li>

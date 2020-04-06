@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά Σίτατου Άσαρ Μάσρι";
 $page_description = "Ικά Σίτατου Άσαρ Μάσρι";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Σίτατου Άσαρ Μάσρι";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -42,7 +42,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/sittatu_ashar.png" class="img-fluid">
                     </div>
 
-                    <p>Ικά Σίτατου Άσαρ Μάσρι ("sittatu ‘ashar" means sixteen, "masri" means Egyptian) is a rare <em>iqa‘</em> mostly used in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre. It spans 8 measures of 4/4, bringing its time signature to 32/4.</p>
+                    <p>
+                        Το Ικά Σίτατου Άσαρ Μάσρι ("Σίτατου Άσαρ" σημαίνει στα Αραβικά δεκαέξι, "Μάσρι" σημαίνει Αιγυπτιακό) είναι ένας σπάνιος ρυθμός περισσότερο χρησιμοποιημένος στο φωνητικό είδος των <a href="../form/vocal_comp.php#muwashah">Μουασαχάτ</a>. Εκτείνεται σε 8 μέτρα 4/4, ανεβάζοντας τον αριθμό των παλμών σε 32/4.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -55,8 +57,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Badat Min al-Khidri (khana)</b>
-                                    <span>Μουσικό Σύνολο Αλ-Κίντι</span>
+                                    <b>Μουάσαχ Μπάνταντ Μιν αλ-Χίντρι (Χάνα)</b>
+                                    <span>Μουσικό Σύνολο αλ-Κίντι</span>
                                     <span><img src="/img/cd.png"> Les Croisades Sous Le Regard De l'Orient Part I - Maqam Bayati</span>
                                 </div>
                             </label>
@@ -68,7 +70,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Badat Min al-Khidri (khana)</b>
+                                    <b>Μουάσαχ Μπάνταντ Μιν αλ-Χίντρι (Χάνα)</b>
                                     <span>Γάντα Σμπίιρ</span>
                                     <span><img src="/img/cd.png"> Muwashahat</span>
                                 </div>
@@ -81,8 +83,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Badat Min al-Khidri (khana)</b>
-                                    <span>Louis Hage and Aida Chalhoub</span>
+                                    <b>Μουάσαχ Μπάνταντ Μιν αλ-Χίντρι (Χάνα)</b>
+                                    <span>Λούις Χάτζ και Άιντα Σαλχούλ</span>
                                 </div>
                             </label>
                         </div>

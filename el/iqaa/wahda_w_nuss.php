@@ -55,8 +55,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Nura Nura (1953)</b>
-                                    <span>Vocals and Music by Farid al-Atrash</span>
+                                    <b>Νούρα Νούρα(1953)</b>
+                                    <span>Φωνή και μουσική Φαρίντ αλ-Άτρας</span>
                                 </div>
                             </label>
                         </div>
@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Amal Hayati (1965)</b>
                                     <span>Ουμ Κουλθούμ</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
                         </div>
@@ -94,8 +94,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Kawini Ya ‘Ali (1953)</b>
-                                    <span>Sabah</span>
-                                    <span>Music by Farid al-Atrash</span>
+                                    <span>Σαμπάχ (Λίβανος)</span>
+                                    <span>Μουσική Φαρίντ αλ-Άτρας</span>
                                 </div>
                             </label>
                         </div>

@@ -66,7 +66,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Μουάσαχ Μαν Κούντα Άντα Χαμπίμπαχου</b>
-                                    <span>Μουσικό Σύνολο Αλ-Κίντι</span>
+                                    <span>Μουσικό Σύνολο αλ-Κίντι</span>
                                     <span><img src="/img/cd.png"> The Aleppian Music Room II - Maqam Rast</span>
                                 </div>
                             </label>
@@ -105,7 +105,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Μουάσαχ Για Μαν Ραμάνι Μπελ-Σιχάμ</b>
                                     <span>(σε <a href="../maqam/nikriz.php">μακάμ Νικρίζ</a>)</span>
-                                    <span>Μουσικό  Σύνολο Ντούγκα</span>
+                                    <span>Μουσικό Σύνολο Ντούγκα</span>
                                     <span>Μουσική Όμαρ αλ-Μπατς</span>
                                 </div>
                             </label>

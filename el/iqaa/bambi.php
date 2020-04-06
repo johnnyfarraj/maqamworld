@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά Μπάμμπι";
 $page_description = "Ικά Μπάμμπι";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Μπάμμπι";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -43,7 +43,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/bambi_f1.png" class="img-fluid">
                     </div>
 
-                    <p>Ικά Μπάμμπι is a stretched-out Egyptian 8/4 <em>iqa‘</em> that beautifully accompanies <a href="../form/improv.php">improvisations</a> and sparse vocal sections. It is customary to start playing Μπάμμπι from the 7<sup>th</sup> beat (the <em>dum</em> before last), thereby emphacizing the 3 consecutive <em>dum</em>-s that start each cycle. An alternate form of Μπάμμπι actually starts the measure with the 3 consecutive <em>dum</em>-s. 
+                    <p>
+                        Το Ικά Μπάμμπι είναι ένας απλωμένος σε 8/4 Αιγυπτιακός ρυθμός που συνοδεύει όμορφα <a href="../form/improv.php">αυτοσχεδιασμούς</a> και αραιά φωνητικά μέρη. Είναι συνήθες να αρχίζει από τον 7ο  παλμό (το προτελευταίο Ντουμ), έτσι ώστε να αναδεικνύει τα τρία συνεχόμενα <strong>Ντουμ</strong> που με τα οποία αρχίζει κάθε κύκλος. Μία εναλλακτική φόρμα Μπάμμπι πράγματι ξεκινάει έχοντας στην αρχή του μέτρου τα 3 συνεχόμενα <strong>Ντουμ</strong>. 
 					</p>
 
                     <div class="player-area">
@@ -57,8 +58,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Taqasim on the Beat</b>
-                                    <span>Simon Shaheen</span>
+                                    <b>Τακασίμ με ρυθμική συνοδεία</b>
+                                    <span>Σιμόν Σαχίν (Παλαιστίνη)</span>
                                     <span><img src="/img/cd.png"> Turath: Masterworks of the Middle East</span>
                                 </div>
                             </label>
@@ -70,8 +71,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mawwal Ya Man Bunudak Harir</b>
-                                    <span>Muhammad Khayri</span>
+                                    <b>Μαουάλ Για Μαν Μπουνούντακ Χαρίρ</b>
+                                    <span>Μοχάμαντ Χαΐρι (Συρία)</span>
                                 </div>
                             </label>
                         </div>
@@ -82,8 +83,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Gafnuhu ‘Allam al-Ghazal (1933)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab</span>
+                                    <b>Γκαφνούχου Άλλαμ αλ-Γάζαλ (1933)</b>
+                                    <span>Φωνή και μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
                         </div>
@@ -97,7 +98,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ικά Μπάμμπι 8/4 - Φόρμα Ι</b>
                                     <span>Επίδειξη στην τάμπλα από τον Φαϊζάλ Ζεϊντάν</span>
-                                    <span>(with the last <em>dum</em> replaced with a <em>tak</em>)</span>
+                                    <span>(αντικαθιστώντας με <strong>τακ</strong> το τελευταίο <strong>ντουμ</strong>)</span>
                                 </div>
                             </label>
                         </div>
@@ -105,7 +106,7 @@ include($ROOT . 'inc/head.php');
 
                     <br>
                     <div class="heading jins text-center">
-                        <h3>Examples of the second form of Ικά Μπάμμπι</h3>
+                        <h3>Παραδείγματα από τον δεύτερο Ικά Μπάμμπι</h3>
                     </div>
                     <br>
 
@@ -118,9 +119,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Andah ‘Aleik (1982)</b>
-                                    <span>Warda</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <b>Άνταχ Αλέκ (1982)</b>
+                                    <span>Ουάρντα</span>
+                                    <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
                         </div>
@@ -131,7 +132,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Alf Leila w Leila (1969)</b>
+                                    <b>Αλφ Λέιλα ου Λέιλα (1969)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Μπαλίχ Χάμντι</span>
                                 </div>
@@ -144,9 +145,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Asamina</b>
-                                    <span>Fairouz</span>
-                                    <span>Music by Philemon Wehbe</span>
+                                    <b>Ασαμίνα</b>
+                                    <span>Φεϊρούζ (Λίβανος)</span>
+                                    <span>Μουσική Φιλίμων Ουάχμπι</span>
                                 </div>
                             </label>
                         </div>
@@ -157,9 +158,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Layali Lubnan (1954)</b>
-                                    <span>Instrumental Composition</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <b>Λαϊάλι Λουμπνάν (1954)</b>
+                                    <span>Οργανική Σύνθεση</span>
+                                    <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
                         </div>

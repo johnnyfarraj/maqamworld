@@ -233,7 +233,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Σαμάι Σαντ Αραμπάν</b>
-                                    <span>Μουσικό  Σύνολο Όμαρ αλ-Σαρμίνι</span>
+                                    <span>Μουσικό Σύνολο Όμαρ αλ-Σαρμίνι</span>
                                     <span>Μουσική Τανμπούρι Τζεμίλ Μπέι</span>
                                 </div>
                             </label>

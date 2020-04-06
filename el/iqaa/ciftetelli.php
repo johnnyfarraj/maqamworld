@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά Σαφτατάλι";
 $page_description = "Ικά Σαφτατάλι";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Σαφτατάλι";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -43,11 +43,13 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/ciftetelli.png" class="img-fluid">
                     </div>
 
-                    <p>Ικά Σαφτατάλι (pronounced "shaftatalli" in Arabic) is a Turkish usul that became popular in Arabic music.
-                    It is rarely used for composed melodies; instead, its primary use is to support <a href="../form/improv.php">improvisations</a> (both vocal and instrumental).</p>
+                    <p>
+                        Το Ικά Σαφτατάλι (ελλ. Τσιφτετέλι) είναι ένας Τούρκικος ρυθμικός κύκλος (Ουσούλ) που διαδόθηκε και στην Αραβική μουσική. Χρησιμοποιείται σπάνια για γραμμένες μελωδίες, εκ του αντιθέτου η κύρια χρήση του είναι να υποστηρίζει <a href="../form/improv.php">αυτοσχεδιασμούς</a> (φωνητικούς κια οργανικούς μαζί).
+                    </p>
 
-                    <p>Σαφτατάλι is usually slow paced and stretched out over two 4/4 measures (see notation), and can share the same tempo and pace as <a href="masmudi_kabir.php">Μασμούντι Καμπίρ</a>. Alternatively, it can be performed faster and lighter,
-                    in which case it can be notated in 4/4 and becomes very similar to <a href="wahda_w_nuss.php">Ουάχντα ου Νος</a> (plus or minus some ornamentation).</p>
+                    <p>
+                        Το Ικά Σαφτατάλι είναι συνήθως αργό βηματισμό και αναπτύσεται μέσα σε δυο μέτρα 4/4 (βλέπε παράδειγμα), και μπορεί να μοιραστεί το ίδιο τέμπο και βηματισμό με το <a href="masmudi_kabir.php">Μασμούντι Καμπίρ</a>. Εναλλακτικά, μπορεί να παιχτεί πιο γρήγορα και ελαφρότερα, όπου στην περίπτωση αυτή καταγράφεται σε ένα έτρο 4/4 και γίνεται πολύ  κοινό με το <a href="wahda_w_nuss.php">Ουάχντα ου Νος</a> (με λίγο πολύ και κάποια ρυθμικά στολίσματα).
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -60,8 +62,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Ishta'tillak (1962)</b>
-                                    <span>Vocals and Music by Farid al-Atrash</span>
+                                    <b>Ιστατίλακ (1962)</b>
+                                    <span>Φωνή και μουσική Φαρίντ αλ-Άτρας</span>
                                 </div>
                             </label>
                         </div>
@@ -72,9 +74,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qasida Ja'at Mu‘adhibati</b>
-                                    <span>Fatima Serhan</span>
-                                    <span><img src="/img/cd.png"> The Queen of Balady</span>
+                                    <b>Κασίντα Ζαάτ Μουαδίμπατι</b>
+                                    <span>Φάτιμα Σερχάν</span>
+                                    <span><img src="/img/cd.png"> Η Βασίλισσα του Μπάλαντι</span>
                                 </div>
                             </label>
                         </div>
@@ -85,8 +87,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Layali Rast (from ‘Addini ya M‘addawi)</b>
-                                    <span>‘Abbas al-Bleidi</span>
+                                    <b>Λαϊάλι Ραστ</b>
+                                    <span>(Από το Αντίνι Για Μαντάουι)</span>
+                                    <span>Αμπάς αλ-Μπλέιντι</span>
                                 </div>
                             </label>
                         </div>
@@ -97,8 +100,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mawwal Khullin Sagani Kasat al-Sabr</b>
-                                    <span>Muhammad Khayri</span>
+                                    <b>Μαουάλ Χουλίν Σαγκάνι αλ-Σάμπερ</b>
+                                    <span>Μοχάμαντ Χαΐρι (Συρία)</span>
                                 </div>
                             </label>
                         </div>
@@ -109,9 +112,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Dala‘ Dalla‘ (1974)</b>
-                                    <span>Sabah</span>
-                                    <span>Music by Farid al-Atrash</span>
+                                    <b>Για Ντάλα Ντάλα (1974)</b>
+                                    <span>Σαμπάχ (Λίβανος)</span>
+                                    <span>Μουσική Φαρίντ αλ-Άτρας</span>
                                 </div>
                             </label>
                         </div>
@@ -122,8 +125,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qasida ‘Ayni Li Ghayri Jamalikum</b>
-                                    <span>Μουσικό  Σύνολο Αλ-Τουράθ (Συρία)</span>
+                                    <b>Κασίντα Αΐνι Λι Γαΐρι Τζαμαλίκουμ</b>
+                                    <span>Μουσικό Σύνολο Αλ-Τουράθ (Συρία)</span>
                                 </div>
                             </label>
                         </div>
@@ -134,9 +137,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Tile‘ Li el-Biki</b>
-                                    <span>Fairouz</span>
-                                    <span>Music by Philemon Wehbe</span>
+                                    <b>Τιλέλι ελ-Μπίκι</b>
+                                    <span>Φεϊρούζ (Λίβανος)</span>
+                                    <span>Μουσική Φιλίμων Ουάχμπι</span>
                                 </div>
                             </label>
                         </div>
@@ -158,7 +161,9 @@ include($ROOT . 'inc/head.php');
                     <!-- Need some kind of divider here -->
                     <br>
                     <div class="heading jins text-center">
-						<h3>Examples of the faster form of Ικά Σαφτατάλι that can be notated in 4/4</h3>
+						<h3>
+                            Παραδείγματα από γρηγορότερη φόρμα του Ικά Σαφτατάλι που μπορεί να καταγραφεί σε μέτρο 4/4.
+                        </h3>
                     </div>
                     <div class="clearfix"></div>
 
@@ -167,9 +172,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>‘Aziza (1955)</b>
-                                    <span>Instrumental Composition</span>
-                                    <span>Music by Muhammad Abdel Wahab (from the movie <strong>‘Aziza</strong>)</span>
+                                    <b>Αζίζα (1955)</b>
+                                    <span>Οργανική Σύνθεση</span>
+                                    <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
+                                    <span>(από την ταινία <strong>Αζίζα</strong>)</span>
                                 </div>
                             </label>
                         </div>
@@ -180,8 +186,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mawwal Ya Man Bunudak Harir</b>
-                                    <span>Muhammad Khayri</span>
+                                    <b>Μαουάλ Για Μαν Μπουνούντακ Χαρίρ</b>
+                                    <span>Μοχάμαντ Χαΐρι (Συρία)</span>
                                 </div>
                             </label>
                         </div>
@@ -192,8 +198,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Nura Nura (1953)</b>
-                                    <span>Vocals and Music by Farid al-Atrash</span>
+                                    <b>Νούρα Νούρα(1953)</b>
+                                    <span>Φωνή και μουσική Φαρίντ αλ-Άτρας</span>
                                 </div>
                             </label>
                         </div>
@@ -204,8 +210,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Nay Bayati</b>
-                                    <span>Muhammad Khayri</span>
+                                    <b>Τακασίμ Νάι Μπαϊάτι</b>
+                                    <span>Μοχάμαντ Χαΐρι (Συρία)</span>
                                 </div>
                             </label>
                         </div>
@@ -216,9 +222,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Tuta</b>
-                                    <span>Instrumental Composition</span>
-                                    <span>Music by Farid al-Atrash</span>
+                                    <b>Τούτα</b>
+                                    <span>Οργανική Σύνθεση</span>
+                                    <span>Μουσική Φαρίντ αλ-Άτρας</span>
                                 </div>
                             </label>
                         </div>
@@ -229,9 +235,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Dara Duri Fina</b>
-                                    <span>Fairouz</span>
-                                    <span>Music by Philemon Wehbe</span>
+                                    <b>Για Ντάρα Ντούρι Φίνα</b>
+                                    <span>Φεϊρούζ (Λίβανος)</span>
+                                    <span>Μουσική Φιλίμων Ουάχμπι</span>
                                 </div>
                             </label>
                         </div>

@@ -57,8 +57,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Ya Dara Duri Fina</b>
-                                    <span>Fairouz</span>
-                                    <span>Music by Philemon Wehbe</span>
+                                    <span>Φεϊρούζ (Λίβανος)</span>
+                                    <span>Μουσική Φιλίμων Ουάχμπι</span>
                                 </div>
                             </label>
                         </div>
@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Amal Hayati (1965)</b>
                                     <span>Ουμ Κουλθούμ</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
                         </div>
@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Ya Sahi al-Sabru Waha Minni</b>
-                                    <span>Hasan al-Haffar</span>
+                                    <span>Χάσαν αλ-Χαφφάρ (Συρία)</span>
                                 </div>
                             </label>
                         </div>
@@ -95,8 +95,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Ya Sahi al-Sabru Waha Minni</b>
-                                    <span>Sheikh Hamza Shakkur</span>
-                                    <span>Ensemble Al Kindi</span>
+                                    <span>Σέιχ Χάμζα Σακούρ</span>
+                                    <span>Σύνολο αλ-Κίντι</span>
                                 </div>
                             </label>
                         </div>

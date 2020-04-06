@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά Μουράμπα";
 $page_description = "Ικά Μουράμπα";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Μουράμπα";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -42,7 +42,10 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/murabbaa.png" class="img-fluid">
                     </div>
 
-                    <p>Ικά Μουράμπα is mostly confined to the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> repertoire. Unrelated to its time signature, the word <em>murabba‘</em> in Arabic means squared or based on the number 4.</p>
+                    <p>
+                        
+                        Το Ικά Μουράμπα είναι κυρίως περιορισμένος στο ρεπερτόριο των <a href="../form/vocal_comp.php#muwashah">Μουασαχάτ</a>. Άσχετα το μέτρο με το οποίο αναφέρεται, η λέξη "Μουράμπα" στα Αραβικά σημαίνει “με βάση τον αριθμό 4”.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -55,9 +58,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Hayyar al-Afkar</b>
-                                    <span>Μουσικό  Σύνολο Αμπντέλ Χαλίμ Νουέϊρα</span>
-                                    <span>Music by Muhammad ‘Uthman</span>
+                                    <b>Μουάσαχ Χαϊάρ αλ-Αφκάρ</b>
+                                    <span>Μουσικό Σύνολο Αμπντέλ Χαλίμ Νουέϊρα</span>
+                                    <span>Μουσική Μοχάμαντ Οτμάν</span>
                                 </div>
                             </label>
                         </div>
@@ -68,8 +71,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Hibbi Malik al-Milah</b>
-                                    <span>Μουσικό  Σύνολο Αμπντέλ Χαλίμ Νουέϊρα</span>
+                                    <b>Μουάσαχ Χίμπι Μαλίκ αλ-Μιλάχ</b>
+                                    <span>Μουσικό Σύνολο Αμπντέλ Χαλίμ Νουέϊρα</span>
                                 </div>
                             </label>
                         </div>
@@ -80,9 +83,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Isqini al-Rah</b>
-                                    <span>Μουσικό  Σύνολο Αμπντέλ Χαλίμ Νουέϊρα</span>
-                                    <span>Music by Muhammad ‘Uthman</span>
+                                    <b>Μουάσαχ Ίσκινι αλ-Ραχ</b>
+                                    <span>Μουσικό Σύνολο Αμπντέλ Χαλίμ Νουέϊρα</span>
+                                    <span>Μουσική Μοχάμαντ Οτμάν</span>
                                 </div>
                             </label>
                         </div>
@@ -93,8 +96,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Jalla Man Qad Ansha Jamalak</b>
-                                    <span>Umar Sarmini and al-Kindi Ensemble</span>
+                                    <b>Μουάσαχ Τζάλλα Μαν Καντ Άνσα Τζαμάλακ</b>
+                                    <span>Όμαρ αλ-Σαρμίνι</span>
+                                    <span>Μουσικό Σύνολο αλ-Κίντι</span>
                                 </div>
                             </label>
                         </div>
@@ -105,8 +109,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Qum Bina Ya Nur ‘Ayni</b>
-                                    <span>Μουσικό  Σύνολο Αμπντέλ Χαλίμ Νουέϊρα</span>
+                                    <b>Μουάσαχ Κουμ Μπίνα Για Νουρ Αΐνι</b>
+                                    <span>Μουσικό Σύνολο Αμπντέλ Χαλίμ Νουέϊρα</span>
                                 </div>
                             </label>
                         </div>
@@ -117,8 +121,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ramani Bi Sahmi Hawahu</b>
-                                    <span>Hasan al-Haffar</span>
+                                    <b>Μουάσαχ Ραμάνι Μπι Σάχμι Χαουάχου</b>
+                                    <span>Χάσαν αλ-Χαφφάρ (Συρία)</span>
                                     <span>Μουσική Νταούντ Χόσνι</span>
                                 </div>
                             </label>
@@ -130,10 +134,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ya ‘Udhayb al-Marshaf</b>
+                                    <b>Μουάσαχ Για Ουδάιμπ αλ-Μάρσαφ</b>
                                     <span>Μουάσαχ Τιφ Για Ντούρι Μπελ Κανάνι</span>
                                     <span>Μαέστρος: Άιντα Σαλχούμπ Ζιάντε</span>
-                                    <span>Music by Sayyed Darwish</span>
+                                    <span>Μουσική Σαΐντ Νταρουίς</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>
                             </label>

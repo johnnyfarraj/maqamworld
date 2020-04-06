@@ -133,7 +133,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Σαμάι Χιτζασκάρ Κουρντ</b>
-                                    <span>Μουσικό Σύνολο Αλ-Κίντι</span>
+                                    <span>Μουσικό Σύνολο αλ-Κίντι</span>
                                     <span><img src="/img/cd.png"> Les Derviches Tourneurs of Damas Vol. 2</span>
                                     <span>Μουσική Σαλάχ αλ-Μάχντι (Τυνησία)</span>
                                 </div>

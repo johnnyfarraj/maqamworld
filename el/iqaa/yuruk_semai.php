@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά ιουρούκ Σεμάι";
 $page_description = "Ικά ιουρούκ Σεμάι";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά ιουρούκ Σεμάι";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Ahwa al-Ghazal al-Rabrabi</b>
-                                    <span>Μουσικό Σύνολο Αλ-Κίντι</span>
+                                    <span>Μουσικό Σύνολο αλ-Κίντι</span>
                                 </div>
                             </label>
                         </div>
@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Bil-Ladhi Askara</b>
-                                    <span>Louis Hage and Aida Chalhoub</span>
+                                    <span>Λούις Χάτζ και Άιντα Σαλχούλ</span>
                                 </div>
                             </label>
                         </div>
@@ -106,7 +106,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Qad Hala Shurb al-Mudam</b>
-                                    <span>Μουσικό  Σύνολο Αλ-Τουράθ (Συρία)</span>
+                                    <span>Μουσικό Σύνολο Αλ-Τουράθ (Συρία)</span>
                                 </div>
                             </label>
                         </div>
@@ -132,7 +132,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Ya Bahjet el-Rouh</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
-                                    <span>Music by Sayyed Darwish</span>
+                                    <span>Μουσική Σαΐντ Νταρουίς</span>
                                 </div>
                             </label>
                         </div>

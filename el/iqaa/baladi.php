@@ -58,8 +58,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>‘Aziza (1955)</b>
-                                    <span>Instrumental Composition</span>
-                                    <span>Music by Muhammad Abdel Wahab (from the movie ‘Aziza, 1955)</span>
+                                    <span>Οργανική Σύνθεση</span>
+                                    <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ (from the movie ‘Aziza, 1955)</span>
                                 </div>
                             </label>
                         </div>
@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Qadd Malik Ya Hilwa</b>
-                                    <span>Muhammad Khayri</span>
+                                    <span>Μοχάμαντ Χαΐρι (Συρία)</span>
                                 </div>
                             </label>
                         </div>

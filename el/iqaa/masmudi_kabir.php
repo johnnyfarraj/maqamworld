@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά Μασμούντι Καμπίρ";
 $page_description = "Ικά Μασμούντι Καμπίρ";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Μασμούντι Καμπίρ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -42,7 +42,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/masmudi_kabir.png" class="img-fluid">
                     </div>
                     
-                    <p>Ικά Μασμούντι Καμπίρ (or Masmudi, for short) is one of the most popular rhythms in the Tarab repertoire of the twentieth century. The word "kabir" means great/large in Arabic, to distinguish it from <a href="baladi.php">Masmudi Saghir</a> (small Masmudi, more commonly called Μπάλαντι.) </p>
+                    <p>
+                        Το Ικά Μασμούντι Καμπίρ (ή απλά Μασμούντι γι α συντομία) είναι ένας από τους πιο διαδεδομένους ρυθμούς του ρεπερτορίου Τάραμπ του εικοστού αιώνα. Η λέξη ”Καμπίρ” σημαίνει ”μεγάλο” στα Αραβικά, για να ξεχωρίσει από το <a href="baladi.php">Μασμούντι Σαγίρ</a> (μικρό Μασμούντι, πιο κοινώς λέγεται και Μπάλαντι).
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -55,9 +57,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Bint el-Balad (1951)</b>
-                                    <span>Instrumental Composition</span>
-                                    <span>Muhammad Abdel Wahab</span>
+                                    <b>Μπιντ ελ-Μπάλαντ (1951)</b>
+                                    <span>Οργανική Σύνθεση</span>
+                                    <span>Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
                         </div>
@@ -68,8 +70,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Khayyi Khayyi (1958)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab</span>
+                                    <b>Χάι Χάι (1958)</b>
+                                    <span>Φωνή και μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
                         </div>
@@ -80,9 +82,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ruba‘iyyat al-Khayam (1950)</b>
+                                    <b>Ρουμπαϊάτ αλ-Χαϊάμ (1950)</b>
                                     <span>Ουμ Κουλθούμ</span>
-                                    <span>Music by Riyad al-Sunbati</span>
+                                    <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
                             </label>
                         </div>
@@ -93,8 +95,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ya Fatin al-Ghuzlan</b>
-                                    <span>Μουσικό  Σύνολο Αλ-Τουράθ (Συρία)</span>
+                                    <b>Μουάσαχ Για Φάτιν αλ-Γουζλάν</b>
+                                    <span>Μουσικό Σύνολο Αλ-Τουράθ (Συρία)</span>
                                     <span>Μουσική Όμαρ αλ-Μπατς</span>
                                 </div>
                             </label>
@@ -106,9 +108,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ya Shadi al-Alhan</b>
+                                    <b>Μουάσαχ Για Σάντι αλ-Αλχάν</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
-                                    <span>Music by Sayyed Darwish</span>
+                                    <span>Μουσική Σαΐντ Νταρουίς</span>
                                 </div>
                             </label>
                         </div>
@@ -119,7 +121,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Zarani al-Mahbub</b>
+                                    <b>Μουάσαχ Ζάρανι αλ-Μαχμπούμπ</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
                                 </div>
                             </label>

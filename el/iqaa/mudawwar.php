@@ -67,7 +67,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Μουάσαχ Άδκουρου αλ-Χούμπα</b>
-                                    <span>Μουσικό  Σύνολο Αμπντέλ Χαλίμ Νουέϊρα</span>
+                                    <span>Μουσικό Σύνολο Αμπντέλ Χαλίμ Νουέϊρα</span>
                                     <span>Μουσική Νταούντ Χόσνι</span>
                                 </div>
                             </label>
@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Μουάσαχ Φίκα Κούλου Μα Άρα Χάσαν</b>
                                     <span>Σύνθεση σε <a href="../maqam/bayati.php">Μακάμ Μπαϊάτι</a></span>
-                                    <span>Μουσικό  Σύνολο Αμπντέλ Χαλίμ Νουέϊρα</span>
+                                    <span>Μουσικό Σύνολο Αμπντέλ Χαλίμ Νουέϊρα</span>
                                 </div>
                             </label>
                         </div>
@@ -118,7 +118,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Μουάσαχ Φίκα Κούλου Μα Άρα Χάσαν</b>
                                     <span>Σύνθεση σε <a href="../maqam/hijaz.php">Μακάμ Χιτζάζ</a></span>
                                     <span>Όμαρ αλ-Σαρμίνι</span>
-                                    <span>Μουσικό Σύνολο Αλ-Κίντι</span>
+                                    <span>Μουσικό Σύνολο αλ-Κίντι</span>
                                 </div>
                             </label>
                         </div>

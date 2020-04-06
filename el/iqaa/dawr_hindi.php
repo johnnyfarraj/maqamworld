@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά Ντάουρ Χίντι";
 $page_description = "Ικά Ντάουρ Χίντι";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Ντάουρ Χίντι";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -42,7 +42,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/dawr_hindi.png" class="img-fluid">
                     </div>
 
-                    <p>Ικά Ντάουρ Χίντι is a very popular <em>iqa‘</em> for the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal composed genre.</p>
+                    <p>
+                        Το Ικά Ντάουρ Χίντι είναι ένας πολύ διαδεδομένος ρυθμός στην φόρμα φωνητικής σύνθεσης των <a href="../form/vocal_comp.php#muwashah">Μουάσαχ</a>.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -55,10 +57,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Sihtu Wajdan</b>
+                                    <b>Μουάσαχ Σίχτου Ουάζνταν</b>
                                     <span>Μουάσαχ Τιφ Για Ντούρι Μπελ Κανάνι</span>
                                     <span>Μαέστρος: Άιντα Σαλχούμπ Ζιάντε</span>
-                                    <span>Music by Sayyed Darwish</span>
+                                    <span>Μουσική Σαΐντ Νταρουίς</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>
                             </label>
@@ -70,9 +72,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Jadaka al-Ghaythu</b>
+                                    <b>Μουάσαχ Ντζάντακα αλ-Γάιθου</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
-                                    <span>Music by Majdi al-‘Aqili</span>
+                                    <span>Μουσική Μάζντι αλ-Ακίλι</span>
                                     <span><img src="/img/cd.png"> Beiteddine Festival Vol I</span>
                                 </div>
                             </label>
@@ -84,9 +86,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Jalla Man Qad Sawwarak</b>
-                                    <span>Sheikh Hamza Shakkur</span>
-                                    <span>Ensemble Al Kindi</span>
+                                    <b>Μουάσαχ Ντζάλλα Μαν Καντ Σαουάρακ</b>
+                                    <span>Σέιχ Χάμζα Σακούρ</span>
+                                    <span>Σύνολο αλ-Κίντι</span>
                                 </div>
                             </label>
                         </div>

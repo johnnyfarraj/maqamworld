@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά Ακσάκ";
 $page_description = "Ικά Ακσάκ";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Ακσάκ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/aqsaq_f1.png" class="img-fluid">
                     </div>
 
-                    <p>Ικά Ακσάκ is very popular in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre. It is 1 beat short of <a href="samai_thaqil.php">Ικά Σαμάι Θακίλ</a> but sometimes it can be played immediately before or after a piece in that iqa‘ without interruption, during a Wasla.
+                    <p>
+                        Το Ικά Ακσάκ είναι ένας πολύ διαδεδομένος ρυθμός στο φωνητικό είδος των <a href="../form/vocal_comp.php#muwashah">Μουασαχάτ</a>. Είναι ένας παλμός λιγότερο από τον <a href="samai_thaqil.php">Ικά Σαμάι Θακίλ</a> αλλά μερικές φορές μπορεί να παιχτεί αμέσως πριν ή μετά από ένα κομμάτι σε αυτόν τον ρυθμό χωρίς διακοπή, κατά την διάρκεια μίας Ουάσλα.
 					</p>
 
                     <div class="player-area">
@@ -56,8 +57,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Ma-htiyali</b>
-                                    <span>Louis Hage &amp; Aida Chalhoub</span>
+                                    <b>Μουάσαχ Μα-Χτιάλι</b>
+                                    <span>Λούις Χάτζ και Άιντα Σαλχούμπ</span>
                                     <span><img src="/img/cd.png"> Mouwashah - Chants Arabo-andalous</span>
                                 </div>
                             </label>
@@ -69,8 +70,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ana Min Wajdi Ana</b>
-                                    <span>Aicha Redouane</span>
+                                    <b>Μουάσαχ Άνα Μιν Ουάζντι Άνα</b>
+                                    <span>Αάϊσα Ρεντουάν</span>
                                     <span><img src="/img/cd.png"> Egypte</span>
                                 </div>
                             </label>
@@ -82,9 +83,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Jalla Man Bil Husni Sawwar</b>
-                                    <span>Μουσικό  Σύνολο Αμπντέλ Χαλίμ Νουέϊρα</span>
-                                    <span>Music by Kamel al-Khula‘i</span>
+                                    <b>Μουάσαχ Τζάλλα Μαν Μπελ Χούσνι Σάουαρ</b>
+                                    <span>Μουσικό Σύνολο Αμπντέλ Χαλίμ Νουέϊρα</span>
+                                    <span>Μουσική Κάμελ αλ-Χούλαϊ</span>
                                 </div>
                             </label>
                         </div>
@@ -95,7 +96,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Bashraf Bulbul al-Afrah</b>
+                                    <b>Μπάσραφ Μπούλμπουλ αλ-Αφράχ</b>
                                     <span>Μουσικό Σύνολο Μόρκος (Λίβανος)</span>
                                 </div>
                             </label>
@@ -118,13 +119,14 @@ include($ROOT . 'inc/head.php');
                     <!-- Need some kind of divider here to start the Form 2  examples -->
                     <br>
                     <div class="heading jins text-center">
-                        <h3>The second form of Ικά Ακσάκ</h3>
+                        <h3>Η δεύτερη φόρμα του Ικά Ακσάκ</h3>
                     </div>
                     <div class="notation">
                         <img src="/note/iqaa/aqsaq_f2.png" class="img-fluid">
                     </div>
 					<br>
-                    <p>An alternate form of Ακσάκ replaces the rest on the 6<sup>the</sup> beat with another <em>dum</em>, thereby creating a sequence of 2 consecutive <em>dum</em>-s that evokes <a href="samai_thaqil.php">Ικά Σαμάι Θακίλ</a>.
+                    <p>
+                        Μία εναλλακτική φόρμα του Ακσάκ αντικαθιστά την παύση στον 6ο παλμό με ένα επιπλέον <strong>ντουμ</strong>, ούτως ώστε να δημιουργηθεί μία  ακολουθία από 2 συνεχόμενα ντουμ τα οποία θυμίζουν τον <a href="samai_thaqil.php">Ικά Σαμάι Θακίλ</a>.
 					</p>
 					<br>
 
@@ -133,8 +135,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ma-htiyali</b>
-                                    <span>Μουσικό  Σύνολο Αλ-Τουράθ (Συρία)</span>
+                                    <b>Μουάσαχ Μα-Χτιάλι</b>
+                                    <span>Μουσικό Σύνολο Αλ-Τουράθ (Συρία)</span>
                                     <span><img src="/img/cd.png"> The Music In Spanish Al Andalus - Hijaz</span>
                                 </div>
                             </label>
@@ -146,10 +148,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ayyuha al-Saqi</b>
+                                    <b>Μουάσαχ Άιοχα αλ-Σάκι</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span><img src="/img/cd.png"> Beiteddine Festival Vol. 1</span>
-                                    <span>Music by Majdi al-‘Aqili</span>
+                                    <span>Μουσική Μάζντι αλ-Ακίλι</span>
                                 </div>
                             </label>
                         </div>
@@ -160,8 +162,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah ‘Adhibuni</b>
-                                    <span>Μουσικό Σύνολο Αλ-Κίντι</span>
+                                    <b>Μουάσαχ Αδιμπούνι</b>
+                                    <span>Μουσικό Σύνολο αλ-Κίντι</span>
                                     <span><img src="/img/cd.png"> The Aleppian Music Room Vol. 1 - Hijazkar Kurd &amp; Saba</span>
                                     <span>Μουσική Όμαρ αλ-Μπατς</span>
                                 </div>
@@ -174,8 +176,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Bi Abi Bahi al-Jamal</b>
-                                    <span>Muhammad Khayri (Syria)</span>
+                                    <b>Μουάσαχ Μπι Άμπι Μπάχι αλ-Τζαμάλ</b>
+                                    <span>Μοχάμαντ Χαΐρι (Συρία)</span>
                                 </div>
                             </label>
                         </div>

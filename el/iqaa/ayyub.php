@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Ya Man Nasha</b>
-                                    <span>Rima Khcheich and Salim Sahhab Orchestra</span>
+                                    <span>Rima Khcheich and Ορχήστρα του Σαλίμ Σάχαμπ</span>
                                 </div>
                             </label>
                         </div>

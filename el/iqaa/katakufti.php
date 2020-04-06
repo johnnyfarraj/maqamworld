@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά Κατακούφτι";
 $page_description = "Ικά Κατακούφτι";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Κατακούφτι";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -42,11 +42,15 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/katakufti.png" class="img-fluid">
                     </div>
                     
-                    <p>Ικά Κατακούφτι is a rare <em>iqa‘</em> used in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre.
+                    <p>
+                        Το Ικά Κατακούφτι είναι ένας σπάνιος ρυθμός που χρησιμοιείται στο στο φωνητικό είδος <a href="../form/vocal_comp.php#muwashah">Μουάσαχ</a>.
                     </p>
-                    <p>An alternate form of this <em>iqa‘</em> replaces the rest on the 5<sup>th</sup> beat with a <em>dum</em>, creating 2 consecutive <em>dum</em>-s (similarly to the second form of <a href="aqsaq.php">Ικά Ακσάκ</a>).
+                    <p>
+                        Μία διαφορετική εκδοχή αυτού του ρυθμού αντικαθιστά την παύση στο 5ο χτύπο με ένα <strong>Ντουμ</strong>, δημιουργώντας 2 συνεχόμενα <strong>Ντουμ</strong> (παρόμοια με τη 2η εκδοχη του <a href="aqsaq.php">Ικά Ακσάκ</a>).
                     </p>
-                    <p>The name <strong>Κατακούφτι</strong> is sometimes used as an alternate name for <a href="nawari.php">Ικά Νάουαρι</a> because they sound alike when <strong>Ικά Κατακούφτι</strong> is played in 4/4 and started from the last beat (the last <em>tak</em>).</p>
+                    <p>
+                        Η ονομασία <strong>Κατακούφτι</strong> είναι κάποιες φορές ως ένα διαφορετικό όνομα του <a href="nawari.php">Ικά Νάουαρι</a> επειδή ακούγεται όπως όταν το Κατακούφτι παιζεται σε 4/4 και αρχίζει από το τελευταίο χτύπο του μέτρου που είναι <strong>Τακ</strong>.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -59,9 +63,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Khadduka al-Naddi</b>
+                                    <b>Μουάσαχ Χάντουκα αλ-Νάντι</b>
                                     <span>Χάλεντ αλ-Χάφεζ (Συρία)</span>
-                                    <span>Music by Omar al-Batsh</span>
+                                    <span>Μουσική Όμαρ αλ-Μπατς</span>
                                 </div>
                             </label>
                         </div>
@@ -72,9 +76,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Ah Min Nari Jafahum</b>
-                                    <span>Ensemble Nour al-Charq</span>
-                                    <span>Music by Sheikh Ali al-Darwish</span>
+                                    <b>Μουάσαχ Αχ Μιν Νάρι Τζαφάχουμ</b>
+                                    <span>Σύνολο Νουρ αλ-Σάρκ</span>
+                                    <span>Μουσική Σέιχ Αλί αλ-Νταρουίς</span>
                                 </div>
                             </label>
                         </div>

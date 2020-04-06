@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Το Αραβικό Σαξόφωνο";
 $page_description = "Το Αραβικό Σαξόφωνο";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Αραβοποιημένα όργανα, Το Αραβικό Ακκορντεόν, H Hλεκτρική Κιθάρα, Τo Αραβικό Οργανο, To Αραβικό Αρμόνιο, To Αραβικό Πιάνο, Το Αραβικό Σαξόφωνο, Η Αραβική Τρομπέτα";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Αραβοποιημένα όργανα, Το Αραβικό Ακκορντεόν, H Hλεκτρική Κιθάρα, Τo Αραβικό Όργανο, To Αραβικό Αρμόνιο, To Αραβικό Πιάνο, Το Αραβικό Σαξόφωνο, Η Αραβική Τρομπέτα";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο μουσικών οργάνων</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Όργανα</a>
                     <?php include('../sidemenu-instr.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -33,7 +33,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Ένα Σαξόφωνο που παίζει αραβικές κλίμακες</h3>
                     </div>
 
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο μουσικών οργάνων</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Όργανα</a>
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
@@ -86,7 +86,7 @@ include($ROOT . 'inc/head.php');
                     <ul>
 						<li><a href="accordion.php">Το Αραβικό Ακκορντεόν</a></li>
 						<li><a href="guitar.php">H Hλεκτρική Κιθάρα</a></li>
-						<li><a href="org.php">Τo Αραβικό Οργανο</a></li>
+						<li><a href="org.php">Τo Αραβικό Όργανο</a></li>
 						<li><a href="keyboard.php">To Αραβικό Αρμόνιο</a></li>
 						<li><a href="piano.php">To Αραβικό Πιάνο</a></li>
                     	<!--

@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά Σαμάι Θακίλ";
 $page_description = "Ικά Σαμάι Θακίλ";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Σαμάι Θακίλ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -42,7 +42,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/samai_thaqil.png" class="img-fluid">
                     </div>
                     
-                    <p>Ικά Σαμάι Θακίλ (also called Sama‘i, for short) is a very popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre, as well as the principal iqa‘ used in the <a href="../form/ottoman.php#samai">Sama‘i</a> Turkish/Ottoman instrumental form. </p>
+                    <p>
+                        Το Ικά Σαμάι Θακίλ (επίσης λέγεται και απλά Σαμάι) είναι ένας δημοφιλής ρυθμός στο φωνητικό είδος των <a href="../form/vocal_comp.php#muwashah">Μουασαχάτ</a>, όπως επίσης και ο κύριος ρυθμός που χρησιμοποιείται στην Τουρκική/Οθωμανική ορχηστρική φόρμα <a href="../form/ottoman.php#samai">Σαμάι</a>.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -55,8 +57,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Sama‘i Bayati Ibrahim al-‘Aryan</b>
-                                    <span>The Takht Ensemble of Cairo</span>
+                                    <b>Σαμάι Μπαϊάτι Ιμπραχίμ αλ-Αριάν</b>
+                                    <span>Το Μουσικό Σύνολο Ταχτ του Καΐρου</span>
                                     <span><img src="/img/cd.png"> Music Of Islam Vol. 1: AL-Qahirah</span>
                                 </div>
                             </label>
@@ -68,8 +70,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah ‘Atini Bikra al-Dinan</b>
-                                    <span>Salim Sahhab Orchestra</span>
+                                    <b>Μουάσαχ Ατίνι Μπίκρα αλ-Ντινάν</b>
+                                    <span>Ορχήστρα του Σαλίμ Σάχαμπ</span>
                                 </div>
                             </label>
                         </div>
@@ -92,9 +94,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Laha Badru al-Timm</b>
-                                    <span>Μουσικό  Σύνολο Αμπντέλ Χαλίμ Νουέϊρα</span>
-                                    <span>Music by Sheikh Mahmud Subh</span>
+                                    <b>Μουάσαχ Λάχα Μπάντρου αλ-Τιμ</b>
+                                    <span>Μουσικό Σύνολο Αμπντέλ Χαλίμ Νουέϊρα</span>
+                                    <span>Μουσική Σέιχ Μαχμούντ Σαμπχ</span>
                                 </div>
                             </label>
                         </div>
@@ -105,9 +107,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Mala al-Kasat</b>
-                                    <span>Μουσικό Σύνολο Αλ-Κίντι</span>
-                                    <span>Music by Muhammad ‘Uthman</span>
+                                    <b>Μουάσαχ Μάλα αλ-Κασάτ</b>
+                                    <span>Μουσικό Σύνολο αλ-Κίντι</span>
+                                    <span>Μουσική Μοχάμαντ Οτμάν</span>
                                 </div>
                             </label>
                         </div>
@@ -118,7 +120,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Rashiq al-Qadd</b>
+                                    <b>Μουάσαχ Ρασίκ αλ-Καντ</b>
                                     <span>Μουσικό Σύνολο Μόρκος (Λίβανος)</span>
                                     <span><img src="/img/cd.png"> Cèdre</span>
                                 </div>
@@ -131,9 +133,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Talaffata al-Dhabiyu</b>
-                                    <span>Μουσικό Σύνολο Αλ-Κίντι</span>
-                                    <span>Music by Sheikh Mahmud Subh</span>
+                                    <b>Μουάσαχ Ταλάφφατα αλ-Δάμπιου</b>
+                                    <span>Μουσικό Σύνολο αλ-Κίντι</span>
+                                    <span>Μουσική Σέιχ Μαχμούντ Σαμπχ</span>
                                 </div>
                             </label>
                         </div>
@@ -144,7 +146,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Tarraza al-Rayhan</b>
+                                    <b>Μουάσαχ Τάρραζα αλ-Ραϊχάν</b>
                                     <span>Μουσικό Σύνολο Μόρκος (Λίβανος)</span>
                                     <span><img src="/img/cd.png"> Cèdre</span>
                                 </div>

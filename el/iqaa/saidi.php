@@ -96,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Bahibbak Saddaqni</b>
-                                    <span>Warda</span>
+                                    <span>Ουάρντα</span>
                                     <span>Music by Sayyed Makkawi</span>
                                 </div>
                             </label>
