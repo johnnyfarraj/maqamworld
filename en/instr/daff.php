@@ -52,7 +52,7 @@ include($ROOT . 'inc/head.php');
                     <p><em>Daff</em> is a generic word for a frame drum in Arabic, and local varieties may have different names like <em>Mazhar</em> in Syria/Egypt or <em>Bendir</em> in North Africa.
                     </p>
                     
-                    <p> The <em>daff</em> has a circular wooden frame ranging from 12 inches in diameter on the smaller side to 24 inches and more on the larger (and bassier) side. The frame can be about 4 inches deep for small diameters, and 2-3 inches deep for larger diameters. The skin is traditionally goat, deer or another natural skin, and is permanently glued to the frame, while modern <em>daff</em>-s have plastic skin, and are tunable.
+                    <p> The <em>daff</em> has a circular wooden frame ranging from 12 inches in diameter for smaller instruments to 24 inches and more on larger (and bassier) instruments. The frame can be about 4 inches deep for small diameters, and 2-3 inches deep for larger diameters. The skin is traditionally goat, deer or another natural skin, and is permanently glued to the frame, while modern <em>daff</em>-s have plastic skin, and are tunable.
                     </p>
                     
                     <p>
