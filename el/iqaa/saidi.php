@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά Σαΐντι";
 $page_description = "Ικά Σαΐντι";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Σαΐντι";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -43,7 +43,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/saidi.png" class="img-fluid">
                     </div>
                     
-                    <p>Ικά Σαΐντι is a lively and quintessentially Egyptian <em>iqa‘</em> from the Sa‘id region. It modulates back and forth with other lively 4/4 <em>iqa‘at</em> like <a href="maqsum.php">Μακσούμ</a> and <a href="baladi.php">Μπάλαντι</a>.</p>
+                    <p>
+                        Το Ικά Σαΐντι είναι ένας ζωηρός και πρωτίστως Αιγυπτιακός ρυθμός από την περιφέρεια του Σαΐντ. Μετατρέπεται σε άλλα ζωηρούς ρυθμούς όπως <a href="maqsum.php">Μακσούμ</a> και <a href="baladi.php">Μπάλαντι</a>. 
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -56,8 +58,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Sawwah (1966)</b>
-                                    <span>Abdel Halim Hafez</span>
+                                    <b>Σάουαχ (1966)</b>
+                                    <span>Αμπντέλ Χαλίμ Χάφεζ</span>
                                     <span>Μουσική Μπαλίχ Χάμντι</span>
                                 </div>
                             </label>
@@ -69,8 +71,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Zayy el-Hawa (1970)</b>
-                                    <span>Abdel Halim Hafez</span>
+                                    <b>Ζάι ελ-Χάουα (1970)</b>
+                                    <span>Αμπντέλ Χαλίμ Χάφεζ</span>
                                     <span>Μουσική Μπαλίχ Χάμντι</span>
                                 </div>
                             </label>
@@ -82,8 +84,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>‘Ala Hisb Widad Galbi (1953)</b>
-                                    <span>Hossam Ramzi</span>
+                                    <b>Αλά Χισμπ Ουιντάντ Γκάλμπι (1953)</b>
+                                    <span>Χουσάμ Ράμζι</span>
                                     <span>Μουσική Μπαλίχ Χάμντι</span>
                                 </div>
                             </label>
@@ -95,9 +97,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Bahibbak Saddaqni</b>
+                                    <b>Μπαχέμπακ Σαντάκνι </b>
                                     <span>Ουάρντα</span>
-                                    <span>Music by Sayyed Makkawi</span>
+                                    <span>Μουσική Σάιεντ Μακάουι</span>
                                 </div>
                             </label>
                         </div>
@@ -108,8 +110,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Habba Fouq We Habba Taht</b>
-                                    <span>Vocals and Music by Ahmad Adaweya</span>
+                                    <b>Χάμπα Φουκ Ου Χάμπα Ταχτ </b>
+                                    <span>Φωνή και μουσική Άχμαντ Ανταουία</span>
                                 </div>
                             </label>
                         </div>
@@ -120,8 +122,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Adik Ti'ul Makhadtesh</b>
-                                    <span>Vocals and Music by Ahmad Adaweya</span>
+                                    <b>Αντίκ Τιούλ Μαχάνττες </b>
+                                    <span>Φωνή και μουσική Άχμαντ Ανταουία</span>
                                 </div>
                             </label>
                         </div>
@@ -133,7 +135,7 @@ include($ROOT . 'inc/head.php');
                             	<div class="thumb-area"><img src="/img/tabla.png" class=""></div>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ικά Sa‘di 4/4</b>
+                                    <b>Ικά Σαΐντι 4/4</b>
                                     <span>Επίδειξη στην τάμπλα από τον Φαϊζάλ Ζεϊντάν</span>
                                 </div>
                             </label>

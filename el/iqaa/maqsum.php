@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά Μακσούμ";
 $page_description = "Ικά Μακσούμ";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Μακσούμ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -42,7 +42,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/maqsum.png" class="img-fluid">
                     </div>
                     
-                    <p>Ικά Μακσούμ is by far the most widely used <em>iqa‘</em> in Arabic music. It modulates to other 4/4 <em>iqa‘at</em> like <a href="baladi.php">Μπάλαντι</a> and <a href="wahda.php">Ουάχντα</a>.</p>
+                    <p>
+                        Το Ικά Μακσούμ είναι μακράν ο πιο ευρύτερα χρησιμοποιημένος ρυθμός της Αραβικής μουσικής. Μετατρέπεται σε άλλους ρυθμούς 4/4 όπως <a href="baladi.php">Μπάλαντι</a> και <a href="wahda.php">Ουάχντα</a>.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -55,7 +57,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>il-Alb Yi‘shaq Kulli Gamil (1961)</b>
+                                    <b>ιλ-Άλμπ Ιάσακ Κούλι Γκαμίλ </b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
@@ -68,7 +70,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Darit el-Ayyam (1970)</b>
+                                    <b>Ντάριτ ελ-Αϊάμ (1970)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
@@ -81,9 +83,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qari'at al-Fingan (1976)</b>
-                                    <span>Abdel Halim Hafez</span>
-                                    <span>Music by Muhammad al-Mugi</span>
+                                    <b>Καρεάτ αλ-Φιντζάν (1976)</b>
+                                    <span>Αμπντέλ Χαλίμ Χάφεζ</span>
+                                    <span>Μουσική Μοχάμαντ αλ-Μούγκι</span>
                                 </div>
                             </label>
                         </div>
@@ -94,7 +96,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Waraqu al-Asfar</b>
+                                    <b>Ουάρακου αλ-Άσφαρ</b>
                                     <span>Φεϊρούζ (Λίβανος)</span>
                                     <span>Μουσική Φιλίμων Ουάχμπι</span>
                                 </div>
@@ -107,7 +109,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Libnan Dakhl Trabak</b>
+                                    <b>Για Λιμπνάν Νταχλ Τράμπακ</b>
                                     <span>Σαμπάχ (Λίβανος)</span>
                                 </div>
                             </label>
@@ -119,8 +121,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ana Bahibb el-Gedid</b>
-                                    <span>Vocals and Music by Ahmad Adaweya</span>
+                                    <b>Άνα Μπαχέμπ ελ-Γκεντίντ</b>
+                                    <span>Φωνή και μουσική Άχμαντ Ανταουία</span>
                                 </div>
                             </label>
                         </div>

@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά Ρούμπα";
 $page_description = "Ικά Ρούμπα";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Ρούμπα";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -42,7 +42,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/rumba.png" class="img-fluid">
                     </div>
                     
-                    <p>Ικά Ρούμπα is an Arabic adaptation of the Latin American dance rhythm by the same name. It became fashionable starting from the 1930s and was used to add a litte foreign flavor to Arabic arrangements.</p>
+                    <p>
+                        Το Ικά Ρούμπα είναι ένας Αραβική προσαρμογή του λατινοΑμερικάνικου χορευτικού ρυθμού με το ίδιο όνομα. Έγινε μόδα ξεκινώντας από την δεκαετία του ’30 και χρησιμοποιήθηκε να προσδώσει λίγο γεύση από έξω στις Αραβικές ενορχηστρώσεις.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -55,7 +57,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Al-Fann (1945)</b>
+                                    <b>Αλ-Φαν (1945)</b>
                                     <span>Φωνή και μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
@@ -67,7 +69,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Amal Hayati (1965)</b>
+                                    <b>Άμαλ Χαϊάτι (1965)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
@@ -80,7 +82,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ansak Da Kalam (1961)</b>
+                                    <b>Άνσακ Ντα Καλάμ (1961)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Μπαλίχ Χάμντι</span>
                                 </div>
@@ -93,7 +95,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ba‘id ‘Annak (1965)</b>
+                                    <b>Μπαΐντ Άνακ (1965)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Μπαλίχ Χάμντι</span>
                                 </div>
@@ -106,7 +108,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Darit el-Ayyam (1970)</b>
+                                    <b>Ντάριτ ελ-Αϊάμ (1970)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
@@ -119,9 +121,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qari’at al-Fingan (1976)</b>
-                                    <span>Abdel Halim Hafez</span>
-                                    <span>Music by Muhammad al-Mugi</span>
+                                    <b>Κάριατ αλ-Φιντζάν (1976)</b>
+                                    <span>Αμπντέλ Χαλίμ Χάφεζ</span>
+                                    <span>Μουσική Μοχάμαντ αλ-Μούγκι</span>
                                 </div>
                             </label>
                         </div>
@@ -132,9 +134,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Shu‘uri Nahiyetak (1981)</b>
+                                    <b>Σοούρι Ναχιέτακ (1981)</b>
                                     <span>Ουάρντα</span>
-                                    <span>Music by Sayyed Makkawi</span>
+                                    <span>Μουσική Σάιεντ Μακάουι</span>
                                 </div>
                             </label>
                         </div>

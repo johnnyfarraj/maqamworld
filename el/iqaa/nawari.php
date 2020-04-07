@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά Νάουαρι";
 $page_description = "Ικά Νάουαρι";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Νάουαρι";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
                     
                     <div class="heading jins text-center">
                         <h1>Ικά Νάουαρι 4/4</h1>
-                        <h3>(also called <strong>Κατακούφτι</strong>)</h3>
+                        <h3>(επίσης λέγεται και <strong>Κατακούφτι</strong>)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Ρυθμοί</a>
                     <div class="clearfix"></div>
@@ -43,9 +43,13 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/nawari.png" class="img-fluid">
                     </div>
                     
-                    <p>Ικά Νάουαρι is variation on <a href="saidi.php">Ικά Σαΐντι</a> and <a href="baladi.php">Μπάλαντι</a> primarily used in Levantine folk music and Dabke line dances.</p>
+                    <p>
+                        Το Ικά Νάουαρι είναι μία παραλλαγή του ρυθμού <a href="saidi.php">Ικά Σαΐντι</a> και <a href="baladi.php">Μπάλαντι</a>, πρωταρχικά χρησιμοποιημένος στην Λεβαντίνικη (Χώρες του Λεβάντε) παραδοσιακή μουσική και στον χορό Ντέμπκε.
+                    </p>
                     
-                    <p>Ικά Νάουαρι is often called <strong>Κατακούφτι</strong> by percussionists, although the original <a href="katakufti.php">Ικά Κατακούφτι</a> has a different signature. The reason for this alternate name is because <a href="katakufti.php">Ικά Κατακούφτι</a> sounds exactly like Νάουαρι when it is started from the last <em>tak</em>.</p>
+                    <p>
+                        Το Ικά Νάουαρι συχνά  λέγεται και <strong>Κατακούφτι</strong> από τους κρουστούς, παρόλο που το πραγματικό <a href="katakufti.php">Ικά Κατακούφτι</a> έχει διαφορετικό αριθμό χτύπων στο μέτρο. Ο λόγος ύπαρξης διαφορετικού ονόματος είναι επειδή το <a href="katakufti.php">Ικά Κατακούφτι</a> ακούγεται ακριβώς όπως το Νάουαρι όταν αρχίζει από το τελευταίο χτύπο του μέτρου που είναι <strong>Τακ</strong>.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -58,8 +62,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Ya ‘Ein Mulayyitein</b>
-                                    <span>Samira Tawfiq</span>
+                                    <b>Για Αΐν Μουλαϊτέν</b>
+                                    <span>Σαμίρα Ταουφίκ</span>
                                 </div>
                             </label>
                         </div>
@@ -70,8 +74,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dal‘ona (traditional)</b>
-                                    <span>(performer unknown)</span>
+                                    <b>Νταλαούνα (παραδοσιακό)</b>
+                                    <span>(ερμηνευτής άγνωστος)</span>
                                 </div>
                             </label>
                         </div>
@@ -82,9 +86,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Initiation Of Ecstasy</b>
-                                    <span>El-Funoun Ensemble</span>
-                                    <span><img src="/img/cd.png"> Zaghareed: Music From The Palestinian Holy Land</span>
+                                    <b>Έναρξη της Έκστασης</b>
+                                    <span>Σύνολο Ελ-Φανούν</span>
+                                    <span><img src="/img/cd.png"> Ζαγαρίντ (άλμπουμ): Μουσική Από Τους Αγιους Τόπους, Παλαιστίνη</span>
                                 </div>
                             </label>
                         </div>

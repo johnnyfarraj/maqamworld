@@ -82,8 +82,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Qari’at al-Fingan (1976)</b>
-                                    <span>Abdel Halim Hafez</span>
-                                    <span>Music by Muhammad al-Mugi</span>
+                                    <span>Αμπντέλ Χαλίμ Χάφεζ</span>
+                                    <span>Μουσική Μοχάμαντ αλ-Μούγκι</span>
                                 </div>
                             </label>
                         </div>

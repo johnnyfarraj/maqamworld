@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Ικά Μπάλαντι 4/4</h1>
-                        <h3>(also called <strong>Μασμούντι Σαγίρ</strong>)</h3>
+                        <h3>(επίσης λέγεται και <strong>Μασμούντι Σαγίρ</strong>)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Ρυθμοί</a>
                     <div class="clearfix"></div>
@@ -43,7 +43,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/baladi.png" class="img-fluid">
                     </div>
 
-                    <p>Ικά Μπάλαντι is a very common <em>iqa‘</em> in the Near Eastern Arabic vocal repertoire. It is also called <strong>Μασμούντι Σαγίρ</strong>, "saghir" meaning little in Arabic, to distinguish it from <a href="masmudi_kabir.php">Μασμούντι Καμπίρ</a>, which spans two 4/4 measures instead of one. Μπάλαντι modulates frequently to <a href="maqsum.php">Μακσούμ</a> and back, as well as to <a href="malfuf.php">Μαλφούφ</a> (using 2 measures of <a href="malfuf.php">Μαλφούφ</a> to 1 measure of Μπάλαντι).
+                    <p>
+                        Ικά Μπάλαντι είναι ένας πολύ κοινός ρυθμός στο φωνητικό ρεπερτόριο της Μέσης Ανατολής. Επίσης λέγεται και <strong>Μασμούντι Σαγίρ</strong>, “Σαγίρ” στα Αραβικά σημαίνει “μικρό”, έτσι ώστε να διακρίνεται από το <a href="masmudi_kabir.php">Μασμούντι Καμπίρ</a>, το οποίο ολοκληρώνεται σε δύο μέτρα 4/4 αντί για ένα. Το μπάλαντι μετατρέπεται συχνά σε <a href="maqsum.php">Μακσούμ</a> και πίσω, όπως και σε <a href="malfuf.php">Μαλφούφ</a> (χρησιμοποιώντας 2 μέτρα Μαλφούφ μέσα σε ένα μέτρο μπάλαντι).
                     </p>
 
                     <div class="player-area">
@@ -57,9 +58,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>‘Aziza (1955)</b>
+                                    <b>Αζίζα (1955)</b>
                                     <span>Οργανική Σύνθεση</span>
-                                    <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ (from the movie ‘Aziza, 1955)</span>
+                                    <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
+                                    <span>(από την ταινία <strong>Αζίζα</strong>)</span>
                                 </div>
                             </label>
                         </div>
@@ -70,8 +72,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Halummu Li</b>
-                                    <span>Hassan al-Haffar</span>
+                                    <b>HΧαλούμου Λι</b>
+                                    <span>Χάσαν αλ-Χαφφάρ</span>
                                 </div>
                             </label>
                         </div>
@@ -82,7 +84,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qadd Malik Ya Hilwa</b>
+                                    <b>Καντ Μάλεκ Για Χέλουα</b>
                                     <span>Μοχάμαντ Χαΐρι (Συρία)</span>
                                 </div>
                             </label>

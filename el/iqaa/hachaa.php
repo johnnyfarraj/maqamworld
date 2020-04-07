@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά Χάτσα";
 $page_description = "Ικά Χάτσα";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Χάτσα";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Ικά Χάτσα 4/4</h1>
-                        <h3>(also in 2/4 and 6/4)</h3>
+                        <h3>(επίσης ως 2/4 και 6/4)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Ρυθμοί</a>
                     <div class="clearfix"></div>
@@ -43,7 +43,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/hachaa_4_4.png" class="img-fluid">
                     </div>
 
-                    <p>Ικά Χάτσα in 4/4 is very popular in Sufi music, especially in pieces that only use percussion instruments. Although the 4/4 version is by far the most prevalent, it is an adaptation of a more folkloric <em>iqa‘</em> by the same name in 2/4. A rare adaptation is the 6/4 version used by composer Baligh Hamdi in Ουμ Κουλθούμ's "Alf Leila w Leila".
+                    <p>
+                        Το Ικά Χάτσα σε 4/4 είναι πολύ διαδεδομένος στην Σούφικη μουσική, ειδικά σε κομμάτια που έχουν μόνο κρουστά. Παρόλο που η εκδοχή των 4/4 είναι μακράν η επικρατέστερη, είναι μία προσαρμογή ενός πιο παραδοσιακού ρυμθού με το ίδιο όνομα σε 2/4. Μία πιο σπάνια εκδοχή είανι αυτή των 6/4, χρησιμοποιημένη από τον συνθέτη Μπαλίχ Χάμντι στο <strong>Άλφ Λέιλα ου Λέιλα</strong>, σε ερμηνεία Ουμ Κουλθούμ.
 					</p>
 
                     <div class="player-area">
@@ -57,9 +58,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Bi-Hamdika Ya Ilahi</b>
-                                    <span>Sheikh Hamza Shakkur &amp; Ensemble Al Kindi</span>
-                                    <span><img src="/img/cd.png"> Whirling Dervishes of Damascus Vol. 1</span>
+                                    <b>Μπι Χάμντικα Για Ιλάχι</b>
+                                    <span>Σέιχ Χάμζα Σακούρ</span>
+                                    <span>Σύνολο Αλ Κίντι </span>
+                                    <span><img src="/img/cd.png"> Περιστρεφόμενοι Δερβίσιδες της Δαμασκού Vol. 1</span>
                                 </div>
                             </label>
                         </div>
@@ -70,8 +72,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Subhana</b>
-                                    <span>Sheikh Habboush &amp; Σύνολο αλ-Κίντι</span>
+                                    <b>Σουμπχάνα</b>
+                                    <span>Σέιχ Χαμπούς</span>
+                                    <span>Σύνολο αλ-Κίντι</span>
                                     <span><img src="/img/cd.png"> Transe Soufie d'Aleppe Vol.2</span>
                                 </div>
                             </label>
@@ -83,7 +86,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>il-Albi Yi‘shaq Kulli Gamil (1961)</b>
+                                    <b>ιλ-Άλμπι Ιάσακ Κούλι Γκαμίλ (1961)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
@@ -96,9 +99,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qari'at al-Fingan (1976)</b>
-                                    <span>Abdel Halim Hafez</span>
-                                    <span>Music by Muhammad al-Mugi</span>
+                                    <b>Κάρεατ αλ-Φιντζάν (1976)</b>
+                                    <span>Αμπντέλ Χαλίμ Χάφεζ</span>
+                                    <span>Μουσική Μοχάμαντ αλ-Μούγκι</span>
                                 </div>
                             </label>
                         </div>
@@ -109,7 +112,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qasida Qul Lil-Maliha</b>
+                                    <b>Κασίντα Κουλ Λιλ-Μαλίχα</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
                                 </div>
                             </label>
@@ -121,8 +124,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Tala‘a al-Badru ‘Alayna</b>
-                                    <span>Hassan al-Haffar</span>
+                                    <b>Τάλαα αλ-Μπάντρου Αλένα</b>
+                                    <span>Χάσαν αλ-Χαφφάρ</span>
                                 </div>
                             </label>
                         </div>
@@ -143,7 +146,7 @@ include($ROOT . 'inc/head.php');
 
                     <br>
                     <div class="heading jins text-center">
-                        <h3>Examples of the 2/4 form of Ικά Χάτσα</h3>
+                        <h3>Παραδειγματα της 2/4 εκδοχής του Ικά Χάτσα</h3>
                     </div>
                     <br>
 
@@ -156,9 +159,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>‘Al-Maya</b>
-                                    <span>Diyab Mashhur</span>
-                                    <span>(Syrian Folk Song)</span>
+                                    <b>Αλ-Μάια</b>
+                                    <span>Ντιάμπ Μασχούρ</span>
+                                    <span>(Συριακό παραδοσιακό τραγούδι)</span>
                                 </div>
                             </label>
                         </div>
@@ -179,7 +182,7 @@ include($ROOT . 'inc/head.php');
 
                     <br>
                     <div class="heading jins text-center">
-                        <h3>Examples of the 6/4 form of Ικά Χάτσα</h3>
+                        <h3>Παραδειγματα της 6/4 εκδοχής του Ικά Χάτσα</h3>
                     </div>
                     <br>
 
@@ -192,7 +195,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Alf Leila w leila (1969)</b>
+                                    <b>Άλφ Λέιλα ου Λέιλα (1969)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Μπαλίχ Χάμντι</span>
                                 </div>
