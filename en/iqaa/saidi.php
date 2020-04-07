@@ -133,7 +133,7 @@ include($ROOT . 'inc/head.php');
                             	<div class="thumb-area"><img src="/img/tabla.png" class=""></div>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Iqa‘ Sa‘di 4/4</b>
+                                    <b>Iqa‘ Sa‘idi 4/4</b>
                                     <span>Tabla demonstration by Faisal Zedan</span>
                                 </div>
                             </label>
