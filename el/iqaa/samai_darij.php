@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" checked>
                                 <div class="info">
                                     <b>Muwashah Ya Man La`ibat Bihi Shamulu</b>
-                                    <span>Μουσικό Σύνολο Αλ-Τουράθ (Συρία)</span>
+                                    <span>Μουσικό Σύνολο αλ-Τουράθ (Συρία)</span>
                                 </div>
                             </label>
                         </div>

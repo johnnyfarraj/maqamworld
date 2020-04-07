@@ -96,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Μουάσαχ Για Φάτιν αλ-Γουζλάν</b>
-                                    <span>Μουσικό Σύνολο Αλ-Τουράθ (Συρία)</span>
+                                    <span>Μουσικό Σύνολο αλ-Τουράθ (Συρία)</span>
                                     <span>Μουσική Όμαρ αλ-Μπατς</span>
                                 </div>
                             </label>

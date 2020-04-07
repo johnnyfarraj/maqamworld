@@ -147,7 +147,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Τακσίμ Κανονάκι σε Μακάμ Σίκα</b>
                                     <span>Ιμάντ Μούλκι</span>
-                                    <span>Μουσικό Σύνολο Αλ-Τουράθ</span>
+                                    <span>Μουσικό Σύνολο αλ-Τουράθ</span>
                                     <span><img src="/img/cd.png"> Κήποι του Γιασεμιού – Μακάμ Χουζάμ</span>
                                 </div>
                             </label>

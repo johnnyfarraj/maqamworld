@@ -136,7 +136,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Μουάσαχ Μα-Χτιάλι</b>
-                                    <span>Μουσικό Σύνολο Αλ-Τουράθ (Συρία)</span>
+                                    <span>Μουσικό Σύνολο αλ-Τουράθ (Συρία)</span>
                                     <span><img src="/img/cd.png"> The Music In Spanish Al Andalus - Hijaz</span>
                                 </div>
                             </label>

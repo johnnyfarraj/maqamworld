@@ -93,7 +93,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Tuta</b>
+                                    <b>Τούτα</b>
                                     <span>Οργανική Σύνθεση</span>
                                     <span>Μουσική Φαρίντ αλ-Άτρας</span>
                                 </div>

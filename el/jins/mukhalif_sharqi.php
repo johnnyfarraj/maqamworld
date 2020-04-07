@@ -171,7 +171,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Τακσίμι Βιολί</b>
                                     <span>Αμπντού Ντάγερ</span>
-                                    <span><img src="/img/cd.png"> Αλ-Τζιμπάλι</span>
+                                    <span><img src="/img/cd.png"> αλ-Τζιμπάλι</span>
                                 </div>
                             </label>
                         </div>
@@ -183,7 +183,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>ελ-Λαϊάλι Μα Μπίρντα Μπούκρα</b>
-                                    <span>Φωνή και μουσική Ουαντί Αλ-Σάφι</span>
+                                    <span>Φωνή και μουσική Ουαντί αλ-Σάφι</span>
                                 </div>
                             </label>
                         </div>

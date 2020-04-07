@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά Θουράια (Ακσάκ Τούρκι)";
 $page_description = "Ικά Θουράια (Ακσάκ Τούρκι)";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Θουράια, Ικά Ακσάκ Τούρκι";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
                     
                     <div class="heading jins text-center">
                         <h1>Ικά Θουράια 5/8</h1>
-                        <h3>(also called <strong>Ακσάκ Τούρκι</strong>)</h3>
+                        <h3>(επίσης λέγεται και <strong>Ακσάκ Τούρκι</strong>)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Ρυθμοί</a>
                     <div class="clearfix"></div>
@@ -47,7 +47,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/thurayya.png" class="img-fluid">
                     </div>
                     
-                    <p>Ικά Θουράια is alternatively called <strong>Ακσάκ Τούρκι</strong> (Turkish Ακσάκ). It is a very rare <em>iqa‘</em> mostly used in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre.</p>
+                    <p>
+                        Το Ικά Θουράια διαφορτετικά λέγεται και <strong>Ακσάκ Τούρκι</strong>(τουρκικό Ακσάκ). Eίναι ένας πολύ σπάνιος ρυθμός, περισσότερο χρησιμοιείται στο φωνητικό είδος <a href="../form/vocal_comp.php#muwashah">Μουάσαχ</a>.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -60,7 +62,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Fil-Roud Ana Shuft il-Gamil</b>
+                                    <b>Μουάσαχ Φιλ-Ροντ Άνα Σούφετ ιλ-Τζαμίλ</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span>Μουσική Όμαρ αλ-Μπατς</span>
                                 </div>

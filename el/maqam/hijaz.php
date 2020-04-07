@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Μουάσαχ Μα-χτιάλι</b>
-                                    <span>Μουσικό Σύνολο Αλ-Τουράθ (Συρία)</span>
+                                    <span>Μουσικό Σύνολο αλ-Τουράθ (Συρία)</span>
                                     <span><img src="/img/cd.png"> The Music In Spanish Al Andalus - Hijaz</span>
                                 </div>
                             </label>
@@ -161,7 +161,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Καντουκάλ Μαϊάς</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
-                                    <span><img src="/img/cd.png"> Νάγαμ Αλ-Αμς Vol. 14 Χιτζάζ</span>
+                                    <span><img src="/img/cd.png"> Νάγαμ αλ-Αμς Vol. 14 Χιτζάζ</span>
                                 </div>
                             </label>
                         </div>
@@ -173,7 +173,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Σαμάι Χιτζάζ </b>
-                                    <span>Μουσικό Σύνολο Αλ-Τουράθ (Συρία)</span>
+                                    <span>Μουσικό Σύνολο αλ-Τουράθ (Συρία)</span>
                                     <span>Μουσική Μοχάμαντ Άμπντου</span>
                                 </div>
                             </label>
@@ -187,7 +187,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ντουλάμπ και Νάι Ταξίμι Χιτζάζ</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
-                                    <span><img src="/img/cd.png"> Νάγαμ Αλ-Αμς Vol. 14 Χιτζάζ</span>
+                                    <span><img src="/img/cd.png"> Νάγαμ αλ-Αμς Vol. 14 Χιτζάζ</span>
                                 </div>
                             </label>
                         </div>

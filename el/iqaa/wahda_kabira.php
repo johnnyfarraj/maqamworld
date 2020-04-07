@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά Ουάχντα Καμπίρα";
 $page_description = "Ικά Ουάχντα Καμπίρα";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Ουάχντα Καμπίρα";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
                     
                     <div class="heading jins text-center">
                         <h1>Ικά Ουάχντα Καμπίρα 8/4</h1>
-                        <h3>(also called Ουάχντα Sunbati)</h3>
+                        <h3>(επίσης γνωστός και ως Ούαχντα Σουνμπάτι)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Ρυθμοί</a>
                     <div class="clearfix"></div>
@@ -40,14 +40,16 @@ include($ROOT . 'inc/head.php');
                     </div>
                     
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/wahda_sunbati.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Ουάχντα Sunbati</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/wahda_sunbati.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Ουάχντα Σουνμπάτι</a>
                     </div>
                     
                     <div class="notation">
                         <img src="/note/iqaa/wahda_kabira.png" class="img-fluid">
                     </div>
                     
-                    <p>Ικά Ουάχντα Καμπίρα ("kabira" is Arabic for large), also known as <strong>Ουάχντα Sunbati</strong>, is a stretched out version of <a href="wahda.php">Ικά Ουάχντα</a> over two measures. It is very popular in the vocal and instrumental music of the mid-twentieth century.</p>
+                    <p>
+                        Το Ικά Ουάχντα Καμπίρα (“Καμπίρα“ σημαίνει μεγάλη στα Αραβικά), επίσης γνωστός και ως <strong>Ούαχντα Σουνμπάτι</strong>, είναι μία εκδοχή του <a href="wahda.php">Ικά Ουάχντα</a> προσαρμοσμένη σε δύο μέτρα. Είναι ένας πολύ διαδεδομένος ρυθμός φωνητικής και ορχηστρικής μουσικής στα μέσα του εικοστού αιώνα.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -60,8 +62,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Khatwit Habibi (1953)</b>
-                                    <span>Instrumental by Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
+                                    <b>Χάτουιτ Χαμπίμπι (1953)</b>
+                                    <span>Ορχηστρικό του Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
                         </div>
@@ -72,9 +74,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Habibi Yis‘id Awqatu (1943)</b>
+                                    <b>Χαμπίμπι Γίσαεντ Αουκάτου (1943)</b>
                                     <span>Ουμ Κουλθούμ</span>
-                                    <span>Music by Zakariyya Ahmad</span>
+                                    <span>Μουσική Ζακαρία Άχμαντ</span>
                                 </div>
                             </label>
                         </div>
@@ -85,7 +87,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>il-Albi Yi‘shaq Kulli Gamil (1961)</b>
+                                    <b>ιλ-Άλμπι Γέσακ Κούλι Γκαμίλ (1961)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
@@ -98,7 +100,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Tuta</b>
+                                    <b>Τούτα</b>
                                     <span>Οργανική Σύνθεση</span>
                                     <span>Μουσική Φαρίντ αλ-Άτρας</span>
                                 </div>
@@ -111,8 +113,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Bid‘ el-Ward (1944)</b>
-                                    <span>Asmahan</span>
+                                    <b>Γιa Μπίντα ιλ-Ουάρντ (1944)</b>
+                                    <span>Ασμαχάν</span>
                                     <span>Μουσική Φαρίντ αλ-Άτρας</span>
                                 </div>
                             </label>
@@ -124,9 +126,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sawa Rbina (1968)</b>
+                                    <b>Σάουα Ρμπίνα (1968)</b>
                                     <span>Φεϊρούζ (Λίβανος)</span>
-                                    <span>Music by the Rahbani Brothers</span>
+                                    <span>Μουσική αδερφοί Ραχμπάνι</span>
                                 </div>
                             </label>
                         </div>

@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά Ναουάχτ";
 $page_description = "Ικά Ναουάχτ";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Ναουάχτ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -42,7 +42,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/nawakht.png" class="img-fluid">
                     </div>
                     
-                    <p>Ικά Ναουάχτ is a very popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> repertoire, and tends to be played at mellow speed.</p>
+                    <p>
+                        Το Ικά Ναουάχτ είναι ένας πολύ διαδεδομένος ρυθμός στο ρεπερτόριο των <a href="../form/vocal_comp.php#muwashah">Μουασαχάτ</a>, και τείνει να παίζεται σε ήπια ταχύτητα.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -55,7 +57,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Ya Hilalan</b>
+                                    <b>Μουάσαχ Για Χιλάλαν</b>
                                     <span>Μουσικό Σύνολο Αμπντέλ Χαλίμ Νουέϊρα</span>
                                 </div>
                             </label>
@@ -67,7 +69,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Badru Timmin Haza Husnan</b>
+                                    <b>Μουάσαχ Μπάντρου Τάμμιν Χάζα Χούσναν</b>
                                     <span>Μουσικό Σύνολο Αμπντέλ Χαλίμ Νουέϊρα</span>
                                 </div>
                             </label>
@@ -79,7 +81,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Qultu Lamma Ghaba ‘Anni</b>
+                                    <b>Μουάσαχ Κούλτου Λάμα Γάμπα Άννι</b>
                                     <span>Χάσαν αλ-Χαφφάρ (Συρία)</span>
                                 </div>
                             </label>
@@ -91,7 +93,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Hati Ya Habibi</b>
+                                    <b>Μουάσαχ Χάτι Για Χαμπίμπι</b>
                                     <span>Μουσικό Σύνολο Αμπντέλ Χαλίμ Νουέϊρα</span>
                                 </div>
                             </label>
@@ -103,7 +105,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ijma‘u bil-Qurbi Shamli</b>
+                                    <b>Μουάσαχ Ίζμαου μπελ-Κούρμπι Σάμλι</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
                                 </div>
                             </label>
@@ -115,7 +117,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Jalla Man Qad Sagha Badran</b>
+                                    <b>Μουάσαχ Τζάλα Μαν Σάγα Μπάντραν</b>
                                     <span>Μουσικό Σύνολο Μόρκος (Λίβανος)</span>
                                 </div>
                             </label>
@@ -127,7 +129,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Khala al-‘Idhar</b>
+                                    <b>Μουάσαχ Χάλα αλ-Ιδάρ</b>
                                     <span>Vocals and Μουσική Όμαρ αλ-Μπατς</span>
                                 </div>
                             </label>

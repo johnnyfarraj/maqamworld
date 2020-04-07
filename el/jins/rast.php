@@ -86,7 +86,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>‘Ala Allah T‘ud (1970)</b>
-                                    <span>Ουαντί Αλ-Σάφι</span>
+                                    <span>Ουαντί αλ-Σάφι</span>
                                     <span>Μουσική Φαρίντ αλ-Άτρας</span>
                                 </div>
                             </label>

@@ -95,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>ελ-Ναζμάτ (1964)</b>
-                                    <span>Φωνή και μουσική Ουαντί Αλ-Σάφι</span>
+                                    <span>Φωνή και μουσική Ουαντί αλ-Σάφι</span>
                                 </div>
                             </label>
                         </div>

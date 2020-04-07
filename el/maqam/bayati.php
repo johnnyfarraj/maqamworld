@@ -124,7 +124,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Μιτζανά και Ατάμπα</b>
-                                    <span>Ουαντί Αλ-Σάφι (Λίβανος )</span>
+                                    <span>Ουαντί αλ-Σάφι (Λίβανος )</span>
                                     <span>(Μουσική από την Λιβανική Παράδοση)</span>
                                 </div>
                             </label>

@@ -5,8 +5,8 @@ include('../../inc/config.php');
 
 /* SEO settings for this page */
 $page_title = "Ικά Μπάλαντι";
-$page_description = "Ικά Μπάλαντι (Masmudi Saghir)";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_description = "Ικά Μπάλαντι (Μασμούντι Σαγίρ)";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Μπάλαντι, Μασμούντι Σαγίρ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Ικά Μπάλαντι 4/4</h1>
-                        <h3>(also called <strong>Masmudi Saghir</strong>)</h3>
+                        <h3>(also called <strong>Μασμούντι Σαγίρ</strong>)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Ρυθμοί</a>
                     <div class="clearfix"></div>
@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/baladi.png" class="img-fluid">
                     </div>
 
-                    <p>Ικά Μπάλαντι is a very common <em>iqa‘</em> in the Near Eastern Arabic vocal repertoire. It is also called <strong>Masmudi Saghir</strong>, "saghir" meaning little in Arabic, to distinguish it from <a href="masmudi_kabir.php">Μασμούντι Καμπίρ</a>, which spans two 4/4 measures instead of one. Μπάλαντι modulates frequently to <a href="maqsum.php">Μακσούμ</a> and back, as well as to <a href="malfuf.php">Μαλφούφ</a> (using 2 measures of <a href="malfuf.php">Μαλφούφ</a> to 1 measure of Μπάλαντι).
+                    <p>Ικά Μπάλαντι is a very common <em>iqa‘</em> in the Near Eastern Arabic vocal repertoire. It is also called <strong>Μασμούντι Σαγίρ</strong>, "saghir" meaning little in Arabic, to distinguish it from <a href="masmudi_kabir.php">Μασμούντι Καμπίρ</a>, which spans two 4/4 measures instead of one. Μπάλαντι modulates frequently to <a href="maqsum.php">Μακσούμ</a> and back, as well as to <a href="malfuf.php">Μαλφούφ</a> (using 2 measures of <a href="malfuf.php">Μαλφούφ</a> to 1 measure of Μπάλαντι).
                     </p>
 
                     <div class="player-area">

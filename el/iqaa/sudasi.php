@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά Σουντάσι";
 $page_description = "Ικά Σουντάσι";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Σουντάσι";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -42,7 +42,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/sudasi.png" class="img-fluid">
                     </div>
 
-                    <p>Ικά Σουντάσι (whose name means based on the number "six") is a very popular <em>iqa‘</em> to accompany folk line dances from Lebanon and Palestine, like the Dabke. It can modulate to 3 back-to-back measures of <a href="malfuf.php">Ικά Μαλφούφ</a>.</p>
+                    <p>
+                        Το Ικά Σουντάσι (του οποίου το όνομα σημαίνει βασισμένο στον αριθμό ”έξι”) είναι ένας πολύ διαδεδομένος ρυθμός για να συνοδεύσει παραδοσιακούς χορούς από το Λίβανο και Παλαιστίνη, όπως το <strong>Ντάμπκε. Μπορεί</strong> να μετατραπεί σε σε 3 συνεχόμενα μέτρα <a href="malfuf.php">Ικά Μαλφούφ</a>.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -55,9 +57,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Dal‘ona</b>
+                                    <b>Νταλαούνα</b>
                                     <span>Φεϊρούζ (Λίβανος)</span>
-                                    <span>(traditional Lebanese folk song)</span>
+                                    <span>(Παραδοσιακό Λιβανέζικο τραγούδι)</span>
                                 </div>
                             </label>
                         </div>
@@ -68,9 +70,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Mahla Layali el-Hawa (1963)</b>
+                                    <b>Για Μαχλά Λαϊάλι ελ-Χάουα (1963)</b>
                                     <span>Φεϊρούζ (Λίβανος)</span>
-                                    <span>Music and lyrics by the Rahbani Brothers</span>
+                                    <span>Μουσική και στίχοι από τους αδερφούς Ραχμπάνι</span>
                                 </div>
                             </label>
                         </div>
@@ -81,10 +83,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Hajal Sannin (1965)</b>
+                                    <b>Για Χάτζαλ Σαννίν (1965)</b>
                                     <span>Φεϊρούζ (Λίβανος)</span>
-                                    <span>Music and lyrics by the Rahbani Brothers</span>
-                                    <span>From the movie <strong>Bayya‘ el-Khawatim</strong></span>
+                                    <span>Μουσική και στίχοι από τους αδερφούς Ραχμπάνι</span>
+                                    <span>Από την ταινία <strong>Μπαϊά ελ-Χαουάτεμ</strong></span>
                                 </div>
                             </label>
                         </div>

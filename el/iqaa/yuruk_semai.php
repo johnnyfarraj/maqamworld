@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Ικά ιουρούκ Σεμάι";
-$page_description = "Ικά ιουρούκ Σεμάι";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά ιουρούκ Σεμάι";
+$page_title = "Ικά Γιουρούκ Σεμάι";
+$page_description = "Ικά Γιουρούκ Σεμάι";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Γιουρούκ Σεμάι";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -29,20 +29,21 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
                     
                     <div class="heading jins text-center">
-                        <h1>Ικά ιουρούκ Σεμάι 6/8</h1>
+                        <h1>Ικά Γιουρούκ Σεμάι 6/8</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Ρυθμοί</a>
                     <div class="clearfix"></div>
                     
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/yuruk_semai.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του ιουρούκ Σεμάι</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/yuruk_semai.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Γιουρούκ Σεμάι</a>
                     </div>
                     
                     <div class="notation">
                         <img src="/note/iqaa/yuruk_semai.png" class="img-fluid">
                     </div>
                     
-                    <p>Ικά ιουρούκ Σεμάι is originally a Turkish usul. It is very popular in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> genre, and is alternatively called <strong>Yugrug</strong>. When it accelerates, it may modulate to <a href="samai_darij.php">Iqa' Sama‘i darij</a> in 3/4 or <a href="samai_saraband.php">Iqa' Σαμάι Σαραμπάντ</a> in 3/8.
+                    <p>
+                        Ικά ρυθμός Γιουρούκ Σεμάι είναι αρχικά ένας Τουρκικός ρυθμικός κύκλος (Ουσούλ). Είναι ένας πολύ διαδεδομένος ρυθμός στο γένος <a href="../form/vocal_comp.php#muwashah">Μουάσαχ</a>, και εναλλακτικά λέγεται Γιουγκρούγκ. Όταν επιταχύνει, μπορεί να μετατραπεί σε <a href="samai_darij.php">Ικά Σαμάι Ντάριτζ </a> σε 3/4 ή <a href="samai_saraband.php">Ικά Σαμάι Σαραμπάντ</a> σε 3/8.
                     </p>
                     
                     <div class="player-area">
@@ -56,7 +57,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Ahwa al-Ghazal al-Rabrabi</b>
+                                    <b>Μουάσαχ Άχουα αλ-Γαζάλ αλ-Ράμπραμπι</b>
                                     <span>Μουσικό Σύνολο αλ-Κίντι</span>
                                 </div>
                             </label>
@@ -68,7 +69,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah ‘Unq al-Malih al-Ghali</b>
+                                    <b>Μουάσαχ Ουνκ αλ-Μαλίχ αλ-Γάλι</b>
                                     <span>Sabri al-Mudallal</span>
                                 </div>
                             </label>
@@ -80,7 +81,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Bil-Ladhi Askara</b>
+                                    <b>Μουάσαχ Μπελ-Λάδι Άσκαρα</b>
                                     <span>Λούις Χάτζ και Άιντα Σαλχούλ</span>
                                 </div>
                             </label>
@@ -92,7 +93,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ila Kam Dha al-Tamadi</b>
+                                    <b>Μουάσαχ Ίλα Καμ Δα αλ-Ταμάντι</b>
                                     <span>Μουσικό Σύνολο Μόρκος (Λίβανος)</span>
                                     <span><img src="/img/cd.png"> Cèdre</span>
                                 </div>
@@ -105,8 +106,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Qad Hala Shurb al-Mudam</b>
-                                    <span>Μουσικό Σύνολο Αλ-Τουράθ (Συρία)</span>
+                                    <b>Μουάσαχ Καντ Χάλα Σουρμπ αλ-Μουντάμ</b>
+                                    <span>Μουσικό Σύνολο αλ-Τουράθ (Συρία)</span>
                                 </div>
                             </label>
                         </div>
@@ -117,7 +118,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Qum Ya Nadim</b>
+                                    <b>Μουάσαχ Κουμ Για Ναντίμ</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span>Μουσική Όμαρ αλ-Μπατς</span>
                                 </div>
@@ -130,7 +131,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ya Bahjet el-Rouh</b>
+                                    <b>Μουάσαχ Για Μπαχτζέτ ελ-Ρουχ</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span>Μουσική Σαΐντ Νταρουίς</span>
                                 </div>
@@ -144,7 +145,7 @@ include($ROOT . 'inc/head.php');
                             	<div class="thumb-area"><img src="/img/tabla.png" class=""></div>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ικά ιουρούκ Σεμάι 6/8</b>
+                                    <b>Ικά Γιουρούκ Σεμάι 6/8</b>
                                     <span>Επίδειξη στην τάμπλα από τον Φαϊζάλ Ζεϊντάν</span>
                                 </div>
                             </label>
