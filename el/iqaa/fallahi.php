@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά Φαλλάχι";
 $page_description = "Ικά Φαλλάχι";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Φαλλάχι";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -42,7 +42,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/fallahi.png" class="img-fluid">
                     </div>
                     
-                    <p>Ικά Φαλλάχι is a fast-paced Egyptian iqa‘ suitable for folk music. Although it might resemble <a href="maqsum.php">Μακσούμ</a> played at double speed, it has a very different feel as Φαλλάχι flows very smoothly without a big contrast (in accents) between <em>dum</em> and <em>tak</em> beats.</p>
+                    <p>
+                        Το Ικά Φαλλάχι είναι ένας γρήγορος Αιγυπτιακός ρυθμός για παραδοσιακή μουσική. Παρόλο που θα μπορούσε να φέρνει σε <a href="maqsum.php">Μακσούμ</a> παιγμένο στην διπλάσια ταχύτητα, το Φαλλάχι έχει μία πολύ διαφορετική αίσθηση καθώς ρέει πολύ απαλά χωρίς μεγάλες αντιθέσεις (σε τονισμούς) μεταξύ των <strong>Ντουμ</strong> και <strong>Τακ</strong> χτυπημάτων.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -55,8 +57,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>il-Benti Beida</b>
-                                    <span>Vocals and Music by Metqal Qannawi</span>
+                                    <b>ιλ-Μπέντι Μπέιντα</b>
+                                    <span>Φωνή και Μουσική Μέτκαλ Κανάουι</span>
                                 </div>
                             </label>
                         </div>
@@ -67,9 +69,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Hizz Ya Hubb</b>
-                                    <span>Vocals by Ahmad Adaweya</span>
-                                    <span>Music by Hassan Abu el-Su‘ud</span>
+                                    <b>Χίζ Για Χομπ</b>
+                                    <span>Φωνή Αχμαντ Ανταουία</span>
+                                    <span>Μουσική Χασάν Αμπού ελ-Σοούντ</span>
                                 </div>
                             </label>
                         </div>
@@ -80,9 +82,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Salametha Ummu Hasan</b>
-                                    <span>Vocals by Ahmad Adaweya</span>
-                                    <span>Music by Faruq Salamah</span>
+                                    <b>Σαλαμέτχα Ούμου Χάσαν </b>
+                                    <span>Φωνή Αχμαντ Ανταουία</span>
+                                    <span>Μουσική Φαρούκ Σαλάμα</span>
                                 </div>
                             </label>
                         </div>

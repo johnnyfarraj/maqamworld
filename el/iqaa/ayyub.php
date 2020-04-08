@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά Αϊγιούμπ";
 $page_description = "Ικά Αϊγιούμπ";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Αϊγιούμπ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Ικά Αϊγιούμπ 2/4</h1>
-                        <h3>(also called <strong>Zar</strong>)</h3>
+                        <h3>(επίσης λέγεται και <strong>Ζαρ</strong>)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Ρυθμοί</a>
                     <div class="clearfix"></div>
@@ -43,7 +43,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/ayyub.png" class="img-fluid">
                     </div>
 
-                    <p>Ικά Αϊγιούμπ (also spelled Ayoub) is primarily used in Sufi music as well as in some folk music and <em>Raqs Sharqi</em> (Belly Dance). Αϊγιούμπ is sometimes called Zar in Egypt, after a folk healing ceremony led by women who play hand-held percussion instruments. Αϊγιούμπ’s feel is rapid, short and cyclical.</p>
+                    <p>
+                        Το Ικά Αϊούμπ (επίσης προφέρεται και Αγιούμπ) πρωτίστως χρησιμοποιείται στην Σούφικη μουσική και στον χορό της κοιλιάς (<em>Ρακς Σάρκι</em> - Belly Dance). To Αϊούμπ λέγεται μερικές φορές και Ζαρ στην Αίγυπτο, μετά από παραδοσιακή θεραπευτική τελετουργία οδηγούμενη από γυναίκες που παίζουν μεταφερόμενα στα χέρια κρουστά. Η αίσθηση του Αϊούμπ είναι γρήγορη, σύντομη και περιοδική.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -56,8 +58,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Atani Zamani</b>
-                                    <span>Noureddine Khourshid Et Les Derviches De Damas</span>
+                                    <b>Μουάσαχ Ατάνι Ζαμάνι</b>
+                                    <span>Νουρεντίν Χουρσίντ και οι Δερβίσιδες της Δαμασκού</span>
                                 </div>
                             </label>
                         </div>
@@ -68,8 +70,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ya Man Nasha</b>
-                                    <span>Rima Khcheich and Ορχήστρα του Σαλίμ Σάχαμπ</span>
+                                    <b>Μουάσαχ Για Μαν Νάσα</b>
+                                    <span>Ρίμα Χσέις</span>
+                                    <span>Ορχήστρα του Σαλίμ Σάχαμπ</span>
                                 </div>
                             </label>
                         </div>
@@ -80,8 +83,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Tajallat Wa-njalat Laylan</b>
-                                    <span>Sheikh Hamza Shakkur and Ensemble Al Kindi</span>
+                                    <b>Τατζαλάτ Ουα-ντζάλατ Λάιλαν</b>
+                                    <span>Σέιχ Χάμζα Σακούρ</span>
+                                    <span>Σύνολο αλ-Κίντι</span>
                                 </div>
                             </label>
                         </div>

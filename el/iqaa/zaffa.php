@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά Ζάφφα";
 $page_description = "Ικά Ζάφφα";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Ζάφφα";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -42,7 +42,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/zaffa.png" class="img-fluid">
                     </div>
 
-                    <p>Ικά Ζάφφα is named after a wedding procession involving a loud and diverse group of precussion instruments. Aside from weddings, it is a possible modulation from slowed down versions of 4/4 <em>iqa‘at</em> like <a href="baladi.php">Μπάλαντι</a> and <a href="maqsum.php">Μακσούμ</a>.</p>
+                    <p>
+                        Το Ικά Ζάφφα συναντάται μετά από γαμήλια τελετή περιλαμβάνοντας ένα δυνατό σε ένταση και ποικίλα κρουστά. Πέρα από τους γάμους, είναι πιθανόν να εμφανιστεί ως μετατροπή από αργές εκδοχές ρυθμών 4/4 όπως <a href="baladi.php">Μπάλαντι</a> και <a href="maqsum.php">Μακσούμ</a>.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -55,7 +57,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Duqqu il-Mazahir (1952)</b>
+                                    <b>Ντούκου ιλ-Μαζάχερ (1952)</b>
                                     <span>Φωνή και μουσική Φαρίντ αλ-Άτρας</span>
                                 </div>
                             </label>
@@ -67,7 +69,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Alf Leila w Leila (1969)</b>
+                                    <b>Αλφ Λέιλα ου Λέιλα (1969)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Μπαλίχ Χάμντι</span>
                                 </div>
@@ -80,7 +82,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qadd Ah Ya Hilu</b>
+                                    <b>Καντ Αχ Για Χέλο</b>
                                     <span>Μοχάμαντ Χαΐρι (Συρία)</span>
                                 </div>
                             </label>
@@ -92,9 +94,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qadd Ya Mal il-Sham</b>
+                                    <b>Καντ Για Μαλ ιλ-Σάμ</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
-                                    <span>Music by Ahmad Abu Khalil al-Qabbani</span>
+                                    <span>Μουσική Άχμαντ Αμπού Χαλίλ αλ-Καμπάνι</span>
                                 </div>
                             </label>
                         </div>
@@ -105,10 +107,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Hann el-Hadid (1974)</b>
-                                    <span>Joseph Saqr</span>
-                                    <span>Music by Ziad Rahbani</span>
-                                    <span>From the musical Nazl el-Surur</span>
+                                    <b>Χαν ελ-Χαντίντ (1974) </b>
+                                    <span>Τζόζεφ Σακρ </span>
+                                    <span>Μουσική Ζιάντ Ραχμπάνι</span>
+                                    <span>Από το Μιούζικαλ Ναζλ ελ-Σουρούρ</span>
                                 </div>
                             </label>
                         </div>

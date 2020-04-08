@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά Μαλφούφ";
 $page_description = "Ικά Μαλφούφ";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Μαλφούφ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Ικά Μαλφούφ 2/4</h1>
-                        <h3>(also called <strong>Laff</strong>)</h3>
+                        <h3>(επίσης λέγεται και <strong>Λαφ</strong>)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Ρυθμοί</a>
                     <div class="clearfix"></div>
@@ -43,7 +43,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/malfuf.png" class="img-fluid">
                     </div>
 
-                    <p>Ικά Μαλφούφ (also called <strong>Laff</strong>) is primarily used in folk and popular Arabic music. If feels short and cyclical, and often modulates to and ftom other 2/4 <em>iqa‘at</em> like <a href="karachi.php">Καράτσι</a> and <a href="fox.php">Φοξ</a>. Alternatively 2 consecutive measures of Μαλφούφ could modulate to one measure of a 4/4 <em>iqa‘</em> like <a href="baladi.php">Μπάλαντι</a> ot <a href="maqsum.php">Μακσούμ</a>, both in 4/4.</p>
+                    <p>
+                        Το Ικά Μαλφούφ (επίσης λέγεται και <strong>Λαφ</strong>) πρωτίστως χρησιμοποιείται στην παραδοσιακή μουσική και λαϊκή Αραβική μουσική. Η αίσθηση του Μαλφούφ είναι σύντομη και περιοδική, και συχνά μετατρέπεται σε και από άλλα 2/4 ρυθμούς όπως <a href="karachi.php">Καράτσι</a> και <a href="fox.php">Φοξ</a>. Εναλλακτικά, 2 συνεχόμενα μέτρα Μαλφούφ μπορούν να μετατραπούν σε ένα μέτρο 4/4 ρυθμού <a href="baladi.php">Μπάλαντι</a> ή <a href="maqsum.php">Μακσούμ</a>, και τα δύο σε 4/4.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -56,7 +58,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Ya Dara Duri Fina</b>
+                                    <b>Για Ντάρα Ντούρι Φίνα</b>
                                     <span>Φεϊρούζ (Λίβανος)</span>
                                     <span>Μουσική Φιλίμων Ουάχμπι</span>
                                 </div>
@@ -69,7 +71,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Amal Hayati (1965)</b>
+                                    <b>Αμάλ Χαϊάτι (1965)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
@@ -82,7 +84,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ya Sahi al-Sabru Waha Minni</b>
+                                    <b>Μουάσαχ Για Σάχι αλ-Σάμπρου Ουάχα Μίννι</b>
                                     <span>Χάσαν αλ-Χαφφάρ (Συρία)</span>
                                 </div>
                             </label>
@@ -94,7 +96,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ya Sahi al-Sabru Waha Minni</b>
+                                    <b>Μουάσαχ Για Σάχι αλ-Σάμπρου Ουάχα Μίννι</b>
                                     <span>Σέιχ Χάμζα Σακούρ</span>
                                     <span>Σύνολο αλ-Κίντι</span>
                                 </div>
@@ -107,8 +109,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Tulbah (Proposition)</b>
-                                    <span>El-Funoun Ensemble</span>
+                                    <b>Τούλμπα (Πρόταση)</b>
+                                    <span>Σύνολο Ελ-Φανούν</span>
                                     <span><img src="/img/cd.png"> Zaghareed: Music From The Palestinian Holy Land</span>
                                 </div>
                             </label>

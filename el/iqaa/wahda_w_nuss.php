@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά Ουάχντα ου Νος";
 $page_description = "Ικά Ουάχντα ου Νος";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Ουάχντα ου Νος";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -42,7 +42,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/wahda_w_nuss.png" class="img-fluid">
                     </div>
                     
-                    <p>Ικά Ουάχντα ου Νος (meaning "one and a half" in Arabic) is a syncopated and version of <a href="maqsum.php">Ικά Μακσούμ</a> with a first <em>tak</em> delayed by half of an an eighth note. It is very popular in the Tarab genre of the mid-twentieth century.</p>
+                    <p>
+                        Το Ικά Ουάχντα ου Νος είναι ένας ρυθμός με συγκοπές και μία εκδοχή του <a href="maqsum.php">Ικά Μακσούμ</a> με πρώτο το <strong>Τακ</strong> καθυστερημένο κατά ένα όγδοο σε αξία από την κανονική του θέση. Είναι πολύ διαδεδομένος ρυθμός στο ύφος Τάραμπ του 20ου αιώνα.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -67,7 +69,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Amal Hayati (1965)</b>
+                                    <b>Άμαλ Χαϊάτι (1965)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
@@ -80,7 +82,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ba‘id ‘Annak (1965)</b>
+                                    <b>Μπαΐντ Άνακ (1965)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Μπαλίχ Χάμντι</span>
                                 </div>
@@ -93,7 +95,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Kawini Ya ‘Ali (1953)</b>
+                                    <b>Για Καουίνι Για Άλι (1953)</b>
                                     <span>Σαμπάχ (Λίβανος)</span>
                                     <span>Μουσική Φαρίντ αλ-Άτρας</span>
                                 </div>

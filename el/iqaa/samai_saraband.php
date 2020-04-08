@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά Σαμάι Σαραμπάντ";
 $page_description = "Ικά Σαμάι Σαραμπάντ";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Σαμάι Σαραμπάντ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
                     
                     <div class="heading jins text-center">
                         <h1>Ικά Σαμάι Σαραμπάντ 3/8</h1>
-                        <h3>(also called <strong>Sama‘i Ta’ir</strong>)</h3>
+                        <h3>(επίσης λέγεται και <strong>Σαμάι Τάερ</strong>)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Ρυθμοί</a>
                     <div class="clearfix"></div>
@@ -43,7 +43,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/samai_saraband.png" class="img-fluid">
                     </div>
                     
-                    <p>Ικά Σαμάι Σαραμπάντ, also called <strong>Sama‘i Ta’ir</strong> ("ta’ir" means flying in Arabic), is a light and fast <em>iqa‘</em> that is popular <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre.</p>
+                    <p>
+                        Το Ικά Σαμάι Σαραμπάντ, επίσης λέγεται και Σαμάι Τάερ (“τάερ” σημαίνει “ιπτάμενο” στα Αραβικά), είναι ένας ελαφρύς και γρήγορος ρυθμός που είναι στο φωνητικό είδος <a href="../form/vocal_comp.php#muwashah">Μουάσαχ</a>.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -56,8 +58,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Qultu Lamma Ghaba ‘Anni</b>
-                                    <span>Hamam Khayri</span>
+                                    <b>Μουάσαχ Κούλτου Λάμα Γάμπα Άνι</b>
+                                    <span>Χαμάμ Χαΐρι</span>
                                     <span>Μουσική Όμαρ αλ-Μπατς</span>
                                 </div>
                             </label>

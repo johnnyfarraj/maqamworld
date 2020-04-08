@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά Σαμάι Ντάριτζ";
 $page_description = "Ικά Σαμάι Ντάριτζ";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Σαμάι Ντάριτζ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/samai_darij.png" class="img-fluid">
                     </div>
                     
-                    <p>Ικά Σαμάι Ντάριτζ (also called Darij, for short) is a general 3/4 <em>iqa‘</em> used both in vocal and instrumental genre. Ικά Σαμάι Ντάριτζ is also the principal <em>iqa‘</em> used in the <a href="../form/instr_comp.php#darij">Darij</a> instrumental composed form.
+                    <p>
+                        Το Ικά Σαμάι Ντάριτζ (επίσης λέγεται και <strong>Ντάριτζ</strong>, για συντομία) είναι γενικά ένας 3/4 ρυθμός που χρησιμοποιείται σε φωνητικά και ορχηστρικά είδη. Ο ρυθμός Σαμάι Ντάριτζ είναι επίσης ο κύριος ρυθμός στην μουσική φόρμα <a href="../form/instr_comp.php#darij">Ντάριτζ</a> (ορχηστρική φόρμα σύνθεσης).
                     </p>
                     
                     <div class="player-area">
@@ -56,7 +57,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Kallili Ya Suhbu</b>
+                                    <b>Μουάσαχ Κάλιλι Για Σούχμπου</b>
                                     <span>Μουσικό Σύνολο Αμπντέλ Χαλίμ Νουέϊρα</span>
                                     <span>Μουσική Μοχάμαντ Οτμάν</span>
                                 </div>
@@ -69,7 +70,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" checked>
                                 <div class="info">
-                                    <b>Muwashah Ya Ghusna Naqa</b>
+                                    <b>Μουάσαχ Για Γούσνα Νακά</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
                                 </div>
                             </label>
@@ -81,7 +82,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" checked>
                                 <div class="info">
-                                    <b>Muwashah Ya Man La`ibat Bihi Shamulu</b>
+                                    <b>Μουάσαχ Για Μαν Λάιμπατ Μπίχι Σαμούλου</b>
                                     <span>Μουσικό Σύνολο αλ-Τουράθ (Συρία)</span>
                                 </div>
                             </label>

@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά Καράτσι";
 $page_description = "Ικά Καράτσι";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Καράτσι";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/karachi.png" class="img-fluid">
                     </div>
 
-                    <p>Ικά Καράτσι is a member of the 2/4 <em>iqa‘at</em> family that has a lazy feel and can be played at relatively slow tempos. Although it modulates often to and from <a href="malfuf.php">Μαλφούφ</a>, Καράτσι does not share its rapid and urgent feel.
+                    <p>
+                        Το Ικά Καράτσι είναι μέλος της οικογένειας ρυθμών 2/4 το οποίο έχει μία “τεμπέλικη” αίσθηση και μπορείο να παιχτεί σε σχετικά αργές ταχύτητες. Παρόλο που μετατρέπεται συχνά σε και από <a href="malfuf.php">Μαλφούφ</a>, το Καράτσι δεν προβάλει την γρήγορη και βιαστική αίσθηση του δεύτερου.
 					</p>
 
                     <div class="player-area">
@@ -56,7 +57,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Qadd Dhatul-Jamal Ukhtul-Hilal</b>
+                                    <b>Καντ Δάτουλ-Τζαμάλ Ούχτουλ-Χιλάλ</b>
                                     <span>Μουσικό Σύνολο αλ-Τουράθ (Συρία)</span>
                                     <span><img src="/img/cd.png"> Hermana de la Luna - Rast</span>
                                 </div>
@@ -69,7 +70,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Siret il-Hubb (1964)</b>
+                                    <b>Σίρετ Ιλ-Χομπ (1964)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Μπαλίχ Χάμντι</span>
                                 </div>
@@ -82,7 +83,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Fakkaruni (1966)</b>
+                                    <b>Φακαρούνι (1966)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
@@ -95,7 +96,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ba‘id ‘Annak (1965)</b>
+                                    <b>Μπαΐντ Άνακ (1965)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Μπαλίχ Χάμντι</span>
                                 </div>
@@ -108,7 +109,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Amal Hayati(1965)</b>
+                                    <b>Άμαλ Χαϊάτι (1965)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
@@ -121,7 +122,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Darit il-Ayyam (1970)</b>
+                                    <b>Νταρίτ ιλ-Αϊάμ (1970)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>

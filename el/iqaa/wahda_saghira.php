@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά Ουάχντα Σαγίρα";
 $page_description = "Ικά Ουάχντα Σαγίρα";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Ουάχντα Σαγίρα";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
                     
                     <div class="heading jins text-center">
                         <h1>Ικά Ουάχντα Σαγίρα 2/4</h1>
-                        <h3>(also called <strong>Ουάχντα Basita</strong>)</h3>
+                        <h3>(επίσης λέγεται και <strong>Ουάχντα Μπασίτα</strong>)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Ρυθμοί</a>
                     <div class="clearfix"></div>
@@ -43,7 +43,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/wahda_saghira.png" class="img-fluid">
                     </div>
                     
-                    <p>Ικά Ουάχντα Σαγίρα is a simple 2/4 <em>iqa‘</em> used in both vocals and instrumental phrases. "Ουάχντα" means one in Arabic, referring to the single <em>dum</em> per measure, while "saghira" means small. It is also known as Ουάχντα Basita ("basita" is Arabic for simple).</p>
+                    <p>
+                        Το Ικά Ουάχντα Σαγίρα είναι ένας απλός ρυθμός 2/4 χρησιμοποιούμενος σε φωνητικές και ορχηστρικές φράσεις. “Ουάχντα” σημαίνει “μία” στα Αραβικά, αναφερόμενη στο μονό χτύπημα <strong>Ντουμ</strong> κάθε μέτρου, ενώ “Σαγίρα” σημαίνει “μικρή”. Ο ρυθμός αυτός είναι επίσης γνωστός ως Ουάχντα Μπασίτα (“μπασίτα” σημαίνει “απλό” στα Αραβικά).
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -56,7 +58,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Darit el-Ayyam (1970)</b>
+                                    <b>Ντάριτ ελ-Αϊάμ (1970)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
@@ -69,7 +71,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>‘Ala Hesb Widad Albi (1953)</b>
+                                    <b>Αλά Χέσμπ Ουιντάντ Άλμπι</b>
                                     <span>Αμπντέλ Χαλίμ Χάφεζ</span>
                                     <span>Μουσική Μπαλίχ Χάμντι</span>
                                 </div>
@@ -82,7 +84,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qasida Mudnaka (1938)</b>
+                                    <b>Κασίντα Μουντνάκα (1938)</b>
                                     <span>Φωνή και μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
@@ -94,7 +96,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Nibtidi Mnein el-Hikaya (1975)</b>
+                                    <b>Νιμπτίντι Μνέιν ελ-Χικάϊα (1975)</b>
                                     <span>Αμπντέλ Χαλίμ Χάφεζ</span>
                                     <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
@@ -107,9 +109,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qal Eh Biyis'aluni</b>
+                                    <b>Αλ Ε Μπιγισαλούνι</b>
                                     <span>Ουάρντα</span>
-                                    <span>Music by Sayed Makkawi</span>
+                                    <span>Μουσική Σάιεντ Μακάουι</span>
                                 </div>
                             </label>
                         </div>

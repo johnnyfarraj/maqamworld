@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά Φοξ";
 $page_description = "Ικά Φοξ";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Φοξ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -42,7 +42,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/fox.png" class="img-fluid">
                     </div>
 
-                    <p>Ικά Φοξ (probably derived from "Φοξtrot") is a simple 2/4 <em>iqa‘</em> that is usually played without too much ornamentation over instrumental sections. This, and the fact it is often played at very fast tempos, gives it a swift and urgent feel. It is the main <em>iqa‘</em> used in the Turkish/Eastern European <a href="../form/ottoman.php#longa">Longa</a> Ottoman instrumental form. Φοξ can readily modulate to <a href="malfuf.php">Μαλφούφ</a> and back. A very slow version of Φοξ (see the last 2 examples) could be notated as 4/4.</p>
+                    <p>
+                        Το Ικά Φοξ (όρος πιθανόν προερχόμενος από το ”φοξτροτ”) είναι ένας απλός ρυθμός 2/4 που παίζεται συνήθως χωρίς πολλά ρυθμικά σχήματα πάνω σε ορχηστρικά μέρη. Ως εκ τούτου, και από το γεγονός ότι συχνά παίζεται σε πολύ γρήγορες ταχύτητες, προσδίδει αίσθηση βιασύνης. Είναι ο κύριος ρυθμός που χρησιμοποιείται στην Τουρκική/Ανατολικοευρωπαϊκή <a href="../form/ottoman.php#longa">Λόνγκα</a> (Οθωμανική ορχηστρική φόρμα). Το Φοξ μπορεί εύκολα να μετατραπεί σε <a href="malfuf.php">Μαλφούφ</a> και αντιστρόφως. Μία εκδοχή ενός πολύ αργού Φοξ (βλέπε τελευταία 2 παραδείγματα) θα μπορούσε να σημειωθεί ως 4/4.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -55,7 +57,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Longa Farahfaza (Instrumental)</b>
+                                    <b>Λόνγκα Φαραχφάζα (ορχηστρικό)</b>
                                     <span>Ορχήστρα του Σαλίμ Σάχαμπ</span>
                                     <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
@@ -68,7 +70,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ghulubt Asalih Fi Ruhi (1946)</b>
+                                    <b>Γουλούμπτ Ασάλεχ Φι Ρόχι (1946)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
@@ -81,7 +83,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Al-Fann 1945</b>
+                                    <b>Αλ-Φανν (1945)</b>
                                     <span>Φωνή και μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
@@ -104,7 +106,7 @@ include($ROOT . 'inc/head.php');
 					<!-- divider -->
 					<br>
 					<div class="heading jins text-center">
-						<h3>Examples of the slower form of Ικά Φοξ that can be notated in 4/4</h3>
+						<h3>TODO Examples of the slower form of Ικά Φοξ that can be notated in 4/4</h3>
 					</div>
 					<div class="clearfix"></div>
 					<br>
@@ -114,7 +116,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Dunya Ya Gharami (1938)</b>
+                                    <b>Για Ντούνια Για Γαράμι (1938)</b>
                                     <span>Φωνή και μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
@@ -126,7 +128,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Kulli Da Kan Leh (1954)</b>
+                                    <b>Κούλι Ντα Καν Λε (1954)</b>
                                     <span>Φωνή και μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>

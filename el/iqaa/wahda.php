@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Ικά Ουάχντα";
 $page_description = "Ικά Ουάχντα";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Ουάχντα";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -42,7 +42,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/wahda.png" class="img-fluid">
                     </div>
                     
-                    <p>Ικά Ουάχντα is the principal <em>iqa‘</em> used in vocal phrases in the Tarab genre of the twentieth century. "Ουάχντα" is Arabic for one, referring to the single <em>dum</em> per measure, which leaves a lot of room for the singer to ornament and gives them some control over speed.</p>
+                    <p>
+                        Το Ικά Ουάχντα είναι o κύριος ρυθμός που χρησιμοποιείται στις φωνητικές φράσεις στο ύφος Τάραμπ του 20ου αιώνα. “Ουάχντα” στα Αραβικά σημαίνει “μία”, που αναφέρεται στο μονό χτύπημα <strong>Ντουμ</strong> κάθε μέτρου, το οποίο αφήνει πολύ χώρο στον τραγουδιστή για μέλισμα, και δίνει έλεγχο συγχρονισμού της ροής της ερμηνείας πάνω στην ταχύτητα.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -55,7 +57,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Ba‘id ‘Annak (1965)</b>
+                                    <b>Μπαΐντ Άνακ (1965)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
@@ -68,7 +70,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Darit el-Ayyam (1970)</b>
+                                    <b>Ντάριτ ελ-Αϊάμ (1970)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
@@ -81,7 +83,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qari’at al-Fingan (1976)</b>
+                                    <b>Κάρεατ αλ Φιντζάν (1976)</b>
                                     <span>Αμπντέλ Χαλίμ Χάφεζ</span>
                                     <span>Μουσική Μοχάμαντ αλ-Μούγκι</span>
                                 </div>
@@ -94,7 +96,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qasida Salu Qalbi (1946)</b>
+                                    <b>Κασίντα Σαλού Κάλμπι (1946)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Ριάντ Σουνμπάτι</span>
                                 </div>
