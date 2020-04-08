@@ -131,7 +131,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Σαμάι Νάουα Άθαρ</b>
-                                    <span>Syrian Ensemble of Homs TODO</span>
+                                    <span>TODO The Syrian Ensemble of Homs</span>
                                     <span>Μουσική Τζαμίλ Αουές (Συρία)</span>
                                 </div>
                             </label>

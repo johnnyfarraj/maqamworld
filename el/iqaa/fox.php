@@ -106,7 +106,7 @@ include($ROOT . 'inc/head.php');
 					<!-- divider -->
 					<br>
 					<div class="heading jins text-center">
-						<h3>TODO Examples of the slower form of Ικά Φοξ that can be notated in 4/4</h3>
+						<h3>Παραδείγματα της πιο αργής εκδοχής Ικά Φοξ που  μπορεί να καταγράφει σε 4/4</h3>
 					</div>
 					<div class="clearfix"></div>
 					<br>

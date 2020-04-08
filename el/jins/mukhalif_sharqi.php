@@ -158,7 +158,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Για Άμι Για Σάχεμπ ελ-Τζαμάλ</b>
-                                    <span>TODO Φωνή και μουσική Ahmed Adaweyah</span>
+                                    <span>TODO Φωνή και μουσική Αχμαντ Ανταουία</span>
                                 </div>
                             </label>
                         </div>
