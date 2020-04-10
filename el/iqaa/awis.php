@@ -60,7 +60,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Μουάσαχ Χίμπι Νταάνι Λιλ-Ουισάλ</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span>Μουσική Σαΐντ Νταρουίς</span>
-                                    <span><img src="/img/cd.png"> Nagham Al-Ams Vol.2 - Bayati Shuri</span>
+                                    <span><img src="/img/cd.png"> Νάγαμ αλ-Αμς Vol. 2 - (Μπαϊάτι Σούρι)</span>
                                 </div>
                             </label>
                         </div>
@@ -89,7 +89,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Μουάσαχ Μουνιάτι Μαν Ρούμτου Κούρμπουχου</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span>Μουσική Όμαρ αλ-Μπατς</span>
-                                    <span><img src="/img/cd.png"> Nagham Al-Ams Vol.9 - Rast</span>
+                                    <span><img src="/img/cd.png"> Νάγαμ αλ-Αμς Vol. 9 - (Ραστ)</span>
                                 </div>
                             </label>
                         </div>

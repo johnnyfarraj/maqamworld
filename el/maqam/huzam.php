@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Μακάμ</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -31,9 +31,9 @@ include($ROOT . 'inc/head.php');
                     <div class="heading jins text-center">
                         <h1>Μακάμ Χουζάμ</h1>
                         <h1>Μακάμ Ράχατ αλ-Αρουάχ</h1>
-                        <h3>Μέλος της <a href="f_sikah.php">Οικόγενειας Μακάμ Σίκα</a></h3>
+                        <h3>Μέλος της <a href="f_sikah.php">Οικογένειας Μακάμ Σίκα</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Μακάμ</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -67,11 +67,11 @@ include($ROOT . 'inc/head.php');
 		</map>
 
                     <p>
-                        Το Μακάμ Χουζάμ είναι μακράν το πιο κοινό μακάμ στην <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a>, και αρχίζει στον φθόγγο Μι<i class="icon-halfflat"></i> (μίση ύφεση). Η κλίμακά του αρχίζει με την βάση <a href="../jins/sikah.php">Τζινς Σίκα</a> στην τονική, ακολουθούμενο από <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> στην 3η βαθμίδα, έπειτα <a href="../jins/rast.php">Τζινς Ραστ</a> στην 6η βαθμίδα.
+                        Το Μακάμ Χουζάμ είναι μακράν το πιο κοινό μακάμ στην <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a>, και αρχίζει στον φθόγγο Μι<i class="icon-halfflat"></i> (μίση ύφεση). Η κλίμακά του αρχίζει με την βάση <a href="../jins/sikah.php">Τζινς Σίκα</a> στην τονική, ακολουθούμενη από <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> στην 3η βαθμίδα, έπειτα <a href="../jins/rast.php">Τζινς Ραστ</a> στην 6η βαθμίδα.
                     </p>
 
                     <p>
-                        Η μεταφορά του Μακάμ Χουζάμ στον φθόγγο Σι<i class="icon-halfflat"></i> (μίση ύφεση) έχει την δική του ονομασία: <strong>Μακάμ Ράχατ αλ-Αρουάχ</strong>. Και τα δύο μακαμάτ έχουν ακριβώς την ίδια ανάπτυξη.
+                        Η μεταφορά του Μακάμ Χουζάμ στον φθόγγο Σι<i class="icon-halfflat"></i> (μίση ύφεση) έχει την δική του ονομασία: <strong>Μακάμ Ράχατ αλ-Αρουάχ</strong>. Και τα δύο μακαμάτ έχουν ακριβώς την ίδια πορεία/ανάπτυξη.
                     </p>
 
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_sikah.php">Οικογένεια Μακάμ Σίκα</a>.</p>
@@ -103,7 +103,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Μουάσαχ Αϊόχα αλ-Σάκι</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span>Μουσική Μάζντι αλ-Ακίλι</span>
-                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 13 Houzam</span>
+                                    <span><img src="/img/cd.png"> Νάγαμ αλ-Αμς Vol. 13 (Χουζάμ)</span>
                                 </div>
                             </label>
                         </div>
@@ -200,7 +200,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ντουλάμπ Ράχατ αλ-Αρουά</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
-                                    <span><img src="/img/cd.png"> Festival de Beiteddine (Liban)</span>
+                                    <span><img src="/img/cd.png"> Live at Beiteddine</span>
                                 </div>
                             </label>
                         </div>

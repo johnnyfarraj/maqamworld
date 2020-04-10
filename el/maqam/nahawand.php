@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Μακάμ</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -32,7 +32,7 @@ include($ROOT . 'inc/head.php');
                         <h1>Μακάμ Ναχαουάντ</h1>
                         <h3>To κύριο μακάμ στην <a href="f_nahawand.php">Οικογένεια Μακάμ Ναχαουάντ</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Μακάμ</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        Το Μακάμ Ναχαουάντ είναι το κύριο μακάμ στην <a href="f_nahawand.php">Οικογένεια Μακάμ Ναχαουάντ</a>. Η κλίμακά του αρχίζει με την βάση <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> στην τονική, ακολουθούμενη από είτε <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> ή <a href="../jins/kurd.php">Τζινς Κουρντ</a> στην 5η βαθμίδα. 
+                        Το Μακάμ Ναχαουάντ είναι το κύριο μακάμ στην <a href="f_nahawand.php">Οικογένεια Μακάμ Ναχαουάντ</a>. Η κλίμακά του αρχίζει με την βάση <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> στην τονική, ακολουθούμενη είτε από <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> ή <a href="../jins/kurd.php">Τζινς Κουρντ</a> στην 5η βαθμίδα. 
                     </p>
                     <p>
                         Το <strong>Μακάμ Φαραχφάζα</strong> είναι Μακάμ Ναχαουάντ μεταφερόμενο με την τονική στον φθόγγο Σολ.

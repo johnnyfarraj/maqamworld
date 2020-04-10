@@ -23,19 +23,19 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Μακάμ</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Μακάμ Χιτζαζκάρ (ou Hijaz Kar)</h1>
+                        <h1>Μακάμ Χιτζαζκάρ</h1>
                         <h1>Μακάμ Σαντ Αραμπάν</h1>
                         <h1>Μακάμ Σουζιντίλ</h1>
                         <h1>Μακάμ Σαχνάζ</h1>
-                        <h3>Μέλος της <a href="f_hijaz.php">Οικόγενειας Μακάμ Χιτζάζ</a></h3>
+                        <h3>Μέλος της <a href="f_hijaz.php">Οικογένειας Μακάμ Χιτζάζ</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Μακάμ</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -76,10 +76,10 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        Το Μακάμ Χιτζαζκάρ είναι η πιο κοινή παραλλαγή του <a href="hijaz.php">Μακάμ Χιτζάζ</a> (με βάση το Ντο). Η κλίμακά του αρχίζει με βάση <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> στην τονική, ακολουθούμενο από <a href="../jins/nikriz.php">Τζινς Νικρίζ</a> στην 4η βαθμίδα, έπειτα <a href="../jins/hijazkar.php">Τζινς Χιτζάζkar</a> στην οκτάβα.
+                        Το Μακάμ Χιτζαζκάρ είναι η πιο κοινή παραλλαγή του <a href="hijaz.php">Μακάμ Χιτζάζ</a> (με βάση το Ντο). Η κλίμακά του αρχίζει με βάση <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> στην τονική, ακολουθούμενο από <a href="../jins/nikriz.php">Τζινς Νικρίζ</a> στην 4η βαθμίδα, έπειτα <a href="../jins/hijazkar.php">Τζινς Χιτζαζκάρ</a> στην οκτάβα.
                     </p>
                     <p>
-                        Για ιστορικούς λόγους, 3 από τις μεταφορές της βάσης αυτού του μακάμ έχουν διαφορτετκό όνομα (και συνήθως είχαν διαφορετική ανάπτυξη πριν από πολύ καιρό):
+                        Για ιστορικούς λόγους, 3 από τις μεταφορές της βάσης αυτού του μακάμ έχουν διαφορετικό όνομα (και συνήθως είχαν διαφορετική ανάπτυξη πριν από πολύ καιρό):
                     </p>
 					<p>
 					<li><strong>Μακάμ Σαντ Αραμπάν</strong> (Χιτζαζκάρ με βάση το χαμηλό Σολ)</li>
@@ -191,9 +191,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ντουλάμπ Χιτζάζkar</b>
+                                    <b>Ντουλάμπ Χιτζαζκάρ</b>
                                     <span>Μουσικό Σύνολο Σαμπάχ Φαχρί</span>
-                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 04 Hijazkar</span>
+                                    <span><img src="/img/cd.png"> Νάγαμ αλ-Αμς Vol. 04 (Χιτζαζκάρ)</span>
                                 </div>
                             </label>
                         </div>

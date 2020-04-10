@@ -75,7 +75,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Σουμπχάνα</b>
                                     <span>Σέιχ Χαμπούς</span>
                                     <span>Σύνολο αλ-Κίντι</span>
-                                    <span><img src="/img/cd.png"> Transe Soufie d'Aleppe Vol.2</span>
+                                    <span><img src="/img/cd.png"> Transe Soufie d'Aleppe Vol. 2</span>
                                 </div>
                             </label>
                         </div>

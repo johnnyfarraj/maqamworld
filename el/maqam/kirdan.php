@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Μακάμ</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -31,9 +31,9 @@ include($ROOT . 'inc/head.php');
                     <div class="heading jins text-center">
                         <h1>Μακάμ Κιρντάν</h1>
                         <h1>Μακάμ Σαζκάρ</h1>
-                        <h3>Μέλος της <a href="f_rast.php">Οικόγενειας Μακάμ Ραστ</a></h3>
+                        <h3>Μέλος της <a href="f_rast.php">Οικογένειας Μακάμ Ραστ</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Μακάμ</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                         Το <strong>Μακάμ Κιρντάν</strong> είναι μία εκδοχή του <a href="rast.php">Μακάμ Ραστ</a> του οποίου η ανάπτυξη αρχίζει στην οκτάβα και τελικά κατεβαίνει στην τονική/βάση. Η κλίμακά του αρχίζει με <a href="../jins/rast.php">Τζινς Ραστ</a> στην τονική, ακολουθούμενο από <a href="../jins/upper_rast.php">Τζινς Άνω Ραστ</a> στην 5η βαθμίδα (με την τονική της πάνω στην 8η βαθμίδα).
                     </p>
                     <p>
-                        Το <strong>Μακάμ Σαζκάρ</strong> είναι αρκετά πανομιότυπο με το Μακάμ Κιρντάν, εκτός την ανάδειξη τηε οξυμένης 2ης βαθμίδας που συμβαίνει σε κάποια μελωδικά περάσματα, έχοντας ως αποτέλεσμα το <a href="../jins/sazkar.php">Τζινς Σαζκάρ</a> στην τονική.
+                        Το <strong>Μακάμ Σαζκάρ</strong> είναι αρκετά πανομιότυπο με το Μακάμ Κιρντάν, εκτός από την ανάδειξη της οξυμένης 2ης βαθμίδας που συμβαίνει σε κάποια μελωδικά περάσματα, έχοντας ως αποτέλεσμα το <a href="../jins/sazkar.php">Τζινς Σαζκάρ</a> στην τονική.
                     </p>
 
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_rast.php">Οικογένεια Μακάμ Ραστ</a>.</p>

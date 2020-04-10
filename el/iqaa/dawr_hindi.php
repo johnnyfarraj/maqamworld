@@ -75,7 +75,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Μουάσαχ Ντζάντακα αλ-Γάιθου</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span>Μουσική Μάζντι αλ-Ακίλι</span>
-                                    <span><img src="/img/cd.png"> Beiteddine Festival Vol I</span>
+                                    <span><img src="/img/cd.png"> Beiteddine Festival Vol. 1</span>
                                 </div>
                             </label>
                         </div>

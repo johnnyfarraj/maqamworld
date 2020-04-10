@@ -23,16 +23,16 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Μακάμ</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
                         <h1>Μακάμ Χιτζαζκάρ Κουρντ</h1>
-                        <h3>Μέλος της <a href="f_kurd.php">Οικόγενειας Μακάμ Κουρντ</a></h3>
+                        <h3>Μέλος της <a href="f_kurd.php">Οικογένειας Μακάμ Κουρντ</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Μακάμ</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -64,7 +64,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="310,146,510,174" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Μακάμ Χιτζαζκάρ Κουρντ est une version archaïque du <a href="kurd.php">Μακάμ Κουρντ</a> composé du <a href="../jins/hijazkar.php">Τζινς Χιτζάζkar</a> à l'octave supérieure. Sa gamme commence avec le <a href="../jins/kurd.php">Τζινς Κουρντ</a> comme jins de base sur la tonique, suivi du <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> sur le 4<sup>ième</sup> degré.</p>
+                    <p>
+                        Το μακάμ Χιτζασκάρ Κουρντ είναι μια αρχαϊκή εκδοχή του <a href="kurd.php">Μακάμ Κουρντ</a> με <a href="../jins/hijazkar.php">Τζινς Χιτζαζκάρ</a> στην οκτάβα. Η κλίμακά του αρχίζει με βάση το <a href="../jins/kurd.php">Τζινς Κουρντ</a> στην τονική, ακολουθούμενο από <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> στην 4η  βαθμίδα.
+                    </p>
 
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_kurd.php">Οικογένεια Μακάμ Κουρντ</a>.</p>
 
@@ -79,10 +81,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Tif Ya Dourri</b>
+                                    <b>Μουάσαχ Τιφ Για Ντούρι</b>
                                     <span>Χορωδία των καθηγητών μουσικής - Πανεπιστήμιο Κασλίκ (Λίβανος)</span>
                                     <span>Μαέστρος: Άιντα Σαλχούμπ Ζιάντε</span>
-                                    <span>Μουσική Σαΐντ Νταρουίς/Omar al-Batch</span>
+                                    <span>Μουσική Σαΐντ Νταρουίς/Όμαρ αλ-Μπατς</span>
                                     <span><img src="/img/cd.png"> Orientalia: Mouachah et Chansons</span>
                                 </div>
                             </label>
@@ -94,10 +96,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Hibbi Zourni Ma Tayassar</b>
+                                    <b>Μουάσαχ Χίμπι Ζούρνι Μα Ταϊάσαρ</b>
                                     <span>Χορωδία των καθηγητών μουσικής - Πανεπιστήμιο Κασλίκ (Λίβανος)</span>
                                     <span>Μαέστρος: Άιντα Σαλχούμπ Ζιάντε</span>
-                                    <span>Musique de Darwich al-Hariri</span>
+                                    <span>Μουσική Νταρουίς αλ-Χαρίρι</span>
                                     <span><img src="/img/cd.png"> Orientalia: Mouachah et Chansons</span>
                                 </div>
                             </label>
@@ -109,7 +111,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Ya Dhal-Qawam al-Samhari</b>
+                                    <b>Μουάσαχ Για Δαλ-Καουάμ αλ-Σάμχαρι</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
                                     <span><img src="/img/cd.png"> Au Palais Des Congrès (1995)</span>
                                 </div>
@@ -122,7 +124,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Izzay Tibi‘ni w-Ana Ashterik</b>
+                                    <b>Ιζάι Τιμπέινι ου-Άνα Αστερίκ</b>
                                     <span>Σάλεχ Αμπντέλ Χάι (Αίγυπτος)</span>
                                 </div>
                             </label>

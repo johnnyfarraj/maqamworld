@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Μακάμ Άθαρ Κουρντ";
 $page_description = "Μακάμ Άθαρ Κουρντ";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Οικογένεια Μακάμ Νικρίζ, Μακάμ Ναουάθαρ, Μακάμ Άθαρ Κουρντ";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Οικογένεια Μακάμ Νικρίζ, Μακάμ Νάουα Άθαρ, Μακάμ Άθαρ Κουρντ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -23,22 +23,21 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Μακάμ</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
                         <h1>Μακάμ Άθαρ Κουρντ</h1>
-                        <h3>Μέλος της <a href="f_nikriz.php">Οικόγενειας Μακάμ Νικρίζ</a></h3>
+                        <h3>Μέλος της <a href="f_nikriz.php">Οικογένειας Μακάμ Νικρίζ</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Μακάμ</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/athar_kurd.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Άθαρ Κουρντ</a>
                     </div>
-
 
                       <div class="notation" id="notation1">
                         <img src="../note/maqam/athar_kurd.png" class="img-fluid" usemap="#notemap">
@@ -62,10 +61,10 @@ include($ROOT . 'inc/head.php');
                     </map>
 
                     <p>
-                        Το Μακάμ Άθαρ Κουρντ είναι ένα σπάνιο μακάμ το ποιο φαίνεται να είναι μια εξέλιξη του 20ου αιώνα. Η κλίμακά του αρχίζει με την βάση <a href="../jins/athar_kurd.php">Τζινς Άθαρ Κουρντ</a> στην τονική, ακολουθούμενη από είτε <a href="../jins/hijazkar.php">Τζινς Χιτζάζkar</a> πεικεντρωμένο στην 5η βαθμίδα.
+                        Το Μακάμ Άθαρ Κουρντ είναι ένα σπάνιο μακάμ το οποίο φαίνεται να είναι μια εξέλιξη του 20ου αιώνα. Η κλίμακά του αρχίζει με την βάση <a href="../jins/athar_kurd.php">Τζινς Άθαρ Κουρντ</a> στην τονική, ακολουθούμενη είτε από <a href="../jins/hijazkar.php">Τζινς Χιτζαζκάρ</a> επικεντρωμένο στην 5η βαθμίδα.
 		            </p>
                     <p>
-                        Η κλίμακα του Μακάμ Άθαρ Κουρντ είναι ένα υβρίδιο μεταξύ <a href="nawa_athar.php">Μακάμ Ναουάθαρ</a> και <a href="kurd.php">Μακάμ Κουρντ</a>, εξού και η ονομασία του.
+                        Η κλίμακα του Μακάμ Άθαρ Κουρντ είναι ένα υβρίδιο μεταξύ <a href="nawa_athar.php">Μακάμ Νάουα Άθαρ</a> και <a href="kurd.php">Μακάμ Κουρντ</a>, εξού και η ονομασία του.
 		            </p>
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_nikriz.php">Οικογένεια Μακάμ Νικρίζ</a>.</p>
 

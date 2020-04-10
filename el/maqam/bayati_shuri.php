@@ -23,16 +23,16 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Μακάμ</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
                         <h1>Μακάμ Μπαϊάτι Σούρι</h1>
-                        <h3>Μέλος της <a href="f_bayati.php">Οικόγενειας Μακάμ Μπαϊάτι</a></h3>
+                        <h3>Μέλος της <a href="f_bayati.php">Οικογένειας Μακάμ Μπαϊάτι</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Μακάμ</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -61,7 +61,7 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                       Το Μακάμ Μπαϊάτι Σούρι είναι μία παραλλαγή του <a href="bayati.php">Μακάμ Μπαϊάτι</a> με χαμηλωμένη την 5η βαθμίδα. Αρχίζει με την βάση <a href="../jins/bayati.php">Τζινς Μπαϊάτι</a> στην τονική, ακολουθούμενο από είτε <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> στην 4η βαθμίδα.
+                       Το Μακάμ Μπαϊάτι Σούρι είναι μία παραλλαγή του <a href="bayati.php">Μακάμ Μπαϊάτι</a> με χαμηλωμένη την 5η βαθμίδα. Αρχίζει με την βάση <a href="../jins/bayati.php">Τζινς Μπαϊάτι</a> στην τονική, ακολουθούμενη είτε από <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> στην 4η βαθμίδα.
                     </p>   
                     <p>
                         Είναι ένα πολύ δημοφιλές μακάμ δικαιωματικά, ειδικά στις Μουασαχάτ και Αντουάρ <a href="../form/vocal_comp.php">φωνητικές συνθέσεις</a>.

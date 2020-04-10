@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Μακάμ</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -32,7 +32,7 @@ include($ROOT . 'inc/head.php');
                         <h1>Μακάμ Κουρντ</h1>
                         <h3>To κύριο μακάμ στην <a href="f_kurd.php">Οικογένεια Μακάμ Κουρντ</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Μακάμ</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -58,11 +58,10 @@ include($ROOT . 'inc/head.php');
                        <!-- Links -->
                       <area shape="rect" coords="92,7,245,35" href="../jins/kurd.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="354,7,549,35" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
-
 				     </map>
 
                     <p>
-                        Το Μακάμ Κουρντ είναι το κύριο μακάμ στην <a href="f_kurd.php">Οικογένεια Μακάμ Κουρντ</a>. Η κλίμακά του αρχίζει με την βάση <a href="../jins/kurd.php">Τζινς Κουρντ</a> στην τονική, ακολουθούμενη από είτε <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> στην 4η βαθμίδα.
+                        Το Μακάμ Κουρντ είναι το κύριο μακάμ στην <a href="f_kurd.php">Οικογένεια Μακάμ Κουρντ</a>. Η κλίμακά του αρχίζει με την βάση <a href="../jins/kurd.php">Τζινς Κουρντ</a> στην τονική, ακολουθούμενη από <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> στην 4η βαθμίδα.
                     </p>
 
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_kurd.php">Οικογένεια Μακάμ Κουρντ</a>.</p>

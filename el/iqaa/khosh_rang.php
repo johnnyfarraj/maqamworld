@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Μουάσαχ Σάλα Φίνα αλ-Λάχδα Χιντία</b>
                                     <span>Σαμπάχ Φαχρί (Συρία)</span>
-                                    <span><img src="/img/cd.png"> Nagham Al Ams Vol 08 - Hijaz</span>
+                                    <span><img src="/img/cd.png"> Νάγαμ αλ-Αμς Vol. 08 - (Χιτζάζ)</span>
                                 </div>
                             </label>
                         </div>

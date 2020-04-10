@@ -23,16 +23,16 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Μακάμ</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
                         <h1>Μακάμ Σουνζάκ</h1>
-                        <h3>Μέλος της <a href="f_rast.php">Οικόγενειας Μακάμ Ραστ</a></h3>
+                        <h3>Μέλος της <a href="f_rast.php">Οικογένειας Μακάμ Ραστ</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Μακάμ</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -62,7 +62,7 @@ include($ROOT . 'inc/head.php');
 
 					</map>
                     <p>
-                        Το Μακάμ Σουζνάκ είναι η πιο δημοφιλής μετατροπία του <a href="rast.php">Μακάμ Ραστ</a>, όπου η μετατροπία στο <a href="../jins/hjaz.php">Τζινς Χιτζάζ</a> στην 5η βαθμίδα είναι πρακτικά αναμενόμενο σε οποιδήποτε <a href="../form/improv.php">ταξίμι ή μαουάλ</a> αρχίζοντας στην βάση <a href="jns/rast.php">Τζινς Ραστ</a>.
+                        Το Μακάμ Σουζνάκ είναι η πιο δημοφιλής μετατροπία του <a href="rast.php">Μακάμ Ραστ</a>, όπου η μετατροπία στο <a href="../jins/hjaz.php">Τζινς Χιτζάζ</a> στην 5η βαθμίδα είναι πρακτικά αναμενόμενο σε οποιοδήποτε <a href="../form/improv.php">ταξίμι ή μαουάλ</a> αρχίζοντας στην βάση <a href="jns/rast.php">Τζινς Ραστ</a>.
                     </p>
 
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_rast.php">Οικογένεια Μακάμ Ραστ</a>.</p>
