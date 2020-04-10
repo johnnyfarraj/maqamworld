@@ -9,7 +9,7 @@
     <li><a href="/el/jins/kurd.php">Κουρντ</a></li>
     <li><a href="/el/jins/lami.php">Λάμι</a></li>
     <li><a href="/el/jins/mustaar.php">Μουσταάρ</a></li>
-    <li><a href="/el/jins/mukhalef_sharqi.php">Μουχάλεφ Σάρκι</a></li>
+    <li><a href="/el/jins/mukhalif_sharqi.php">Μουχάλεφ Σάρκι</a></li>
     <li><a href="/el/jins/bayati.php">Μπαϊάτι</a></li>
     <li><a href="/el/jins/nahawand.php">Ναχαουάντ</a></li>
     <li><a href="/el/jins/nahawand_murassaa.php">Ναχαουάντ Μουράσα</a></li>

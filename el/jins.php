@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                                 <!-- Header Cell: "undefined size" -->
                                 <ul class="page-list">
                                     <li><a href="jins/hijazkar.php">Τζινς Χιτζασκάρ</a></li>
-                                    <li><a href="jins/mukhalef_sharqi.php">Τζινς Μουχάλεφ Σάρκι</a></li>
+                                    <li><a href="jins/mukhalif_sharqi.php">Τζινς Μουχάλεφ Σάρκι</a></li>
                                     <li><a href="jins/nahawand_murassaa.php">Τζινς Ναχαουάντ Μουράσα</a></li>
                                     <li><a href="jins/saba.php">Τζινς Σάμπα</a></li>
                                     <li><a href="jins/saba_dalanshin.php">Τζινς Σάμπα Νταλανσίν</a></li>

@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/maqam/lami.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια με το ποντίκι για να ακούσετε.</p>
+                        <p class="clicknotes">Κάντε κλικ στις νότες πατώντας με διάρκεια το ποντίκι για να ακούσετε.</p>
                     </div>
                      <map name="notemap">
 					  <area shape="circle" coords="53,130,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
