@@ -125,7 +125,6 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Nas el-Dinye Dulab</b>
                                     <span>Sabah</span>
-                                    <span>Music by ??</span>
                                 </div>
                             </label>
                         </div>
