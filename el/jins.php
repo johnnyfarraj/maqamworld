@@ -98,7 +98,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="page-list-header">(Απροσδιόριστο μέγεθος)</div>
                                 <!-- Header Cell: "undefined size" -->
                                 <ul class="page-list">
-                                    <li><a href="jins/hijazkar.php">Τζινς Χιτζάζ Κάρ</a></li>
+                                    <li><a href="jins/hijazkar.php">Τζινς Χιτζαζκάρ</a></li>
                                     <li><a href="jins/mukhalif_sharqi.php">Τζινς Μουχάλεφ Σάρκι</a></li>
                                     <li><a href="jins/nahawand_murassaa.php">Τζινς Ναχαουάντ Μουράσα</a></li>
                                     <li><a href="jins/saba.php">Τζινς Σάμπα</a></li>

@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Μακάμ Χιτζάζ Κάρ Κουρντ";
-$page_description = "Μακάμ Χιτζάζ Κάρ Κουρντ";
+$page_title = "Μακάμ Χιτζαζκάρ Κουρντ";
+$page_description = "Μακάμ Χιτζαζκάρ Κουρντ";
 $page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
 $page_language = "el";
 
@@ -29,14 +29,14 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Μακάμ Χιτζάζ Κάρ Κουρντ</h1>
+                        <h1>Μακάμ Χιτζαζκάρ Κουρντ</h1>
                         <h3>Μέλος της <a href="f_kurd.php">Οικόγενειας Μακάμ Κουρντ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο των Μακάμ</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/hijazkar_kurd.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Χιτζάζ Κάρ Κουρντ</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/hijazkar_kurd.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Χιτζαζκάρ Κουρντ</a>
                     </div>
 
                     <div class="notation" id="notation1">
@@ -64,7 +64,7 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="310,146,510,174" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Le Μακάμ Χιτζάζ Κάρ Κουρντ est une version archaïque du <a href="kurd.php">Μακάμ Κουρντ</a> composé du <a href="../jins/hijazkar.php">Τζινς Χιτζάζkar</a> à l'octave supérieure. Sa gamme commence avec le <a href="../jins/kurd.php">Τζινς Κουρντ</a> comme jins de base sur la tonique, suivi du <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> sur le 4<sup>ième</sup> degré.</p>
+                    <p>Le Μακάμ Χιτζαζκάρ Κουρντ est une version archaïque du <a href="kurd.php">Μακάμ Κουρντ</a> composé du <a href="../jins/hijazkar.php">Τζινς Χιτζάζkar</a> à l'octave supérieure. Sa gamme commence avec le <a href="../jins/kurd.php">Τζινς Κουρντ</a> comme jins de base sur la tonique, suivi du <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> sur le 4<sup>ième</sup> degré.</p>
 
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_kurd.php">Οικογένεια Μακάμ Κουρντ</a>.</p>
 

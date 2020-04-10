@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Οικογένεια Μακάμ Χιτζάζ";
 $page_description = "Οικογένεια Μακάμ Χιτζάζ";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Οικογένεια Μακάμ Χιτζάζ, Μακάμ Χιτζάζ, Μακάμ Χιτζάζ Κάρ, Μακάμ Σαντ Αραμπάν, Μακάμ Σαχνάζ, Μακάμ Σουζιντίλ, Μακάμ Ζαντζαράν";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Οικογένεια Μακάμ Χιτζάζ, Μακάμ Χιτζάζ, Μακάμ Χιτζαζκάρ, Μακάμ Σαντ Αραμπάν, Μακάμ Σαχνάζ, Μακάμ Σουζιντίλ, Μακάμ Ζαντζαράν";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -44,7 +44,7 @@ include($ROOT . 'inc/head.php');
 
                     <ul>
                         <li><a href="hijaz.php">Μακάμ Χιτζάζ</a></li>
-                        <li><a href="hijazkar.php">Μακάμ Χιτζάζ Κάρ</a></li>
+                        <li><a href="hijazkar.php">Μακάμ Χιτζαζκάρ</a></li>
                         <li><a href="hijazkar.php">Μακάμ Σαντ Αραμπάν</a></li>
                         <li><a href="hijazkar.php">Μακάμ Σαχνάζ</a></li>
                         <li><a href="hijazkar.php">Μακάμ Σουζιντίλ</a></li>

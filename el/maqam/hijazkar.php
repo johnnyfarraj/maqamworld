@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Μακάμ Χιτζάζ Κάρ";
-$page_description = "Μακάμ Χιτζάζ Κάρ";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Οικογένεια Μακάμ Χιτζάζ, Μακάμ Χιτζάζ, Μακάμ Χιτζάζ Κάρ, Μακάμ Σαντ Αραμπάν, Μακάμ Σαχνάζ, Μακάμ Σουζιντίλ, Μακάμ Ζαντζαράν";
+$page_title = "Μακάμ Χιτζαζκάρ";
+$page_description = "Μακάμ Χιτζαζκάρ";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Οικογένεια Μακάμ Χιτζάζ, Μακάμ Χιτζάζ, Μακάμ Χιτζαζκάρ, Μακάμ Σαντ Αραμπάν, Μακάμ Σαχνάζ, Μακάμ Σουζιντίλ, Μακάμ Ζαντζαράν";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -29,7 +29,7 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Μακάμ Χιτζάζ Κάρ (ou Hijaz Kar)</h1>
+                        <h1>Μακάμ Χιτζαζκάρ (ou Hijaz Kar)</h1>
                         <h1>Μακάμ Σαντ Αραμπάν</h1>
                         <h1>Μακάμ Σουζιντίλ</h1>
                         <h1>Μακάμ Σαχνάζ</h1>
@@ -39,7 +39,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/hijazkar.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Χιτζάζ Κάρ</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/hijazkar.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Χιτζαζκάρ</a>
                     </div>
                     <div class="text-center mt-2 mb-3">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/shadd_araban.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Σαντ Αραμπάν</a>
@@ -76,15 +76,15 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        Το Μακάμ Χιτζάζ Κάρ είναι η πιο κοινή παραλλαγή του <a href="hijaz.php">Μακάμ Χιτζάζ</a> (με βάση το Ντο). Η κλίμακά του αρχίζει με βάση <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> στην τονική, ακολουθούμενο από <a href="../jins/nikriz.php">Τζινς Νικρίζ</a> στην 4η βαθμίδα, έπειτα <a href="../jins/hijazkar.php">Τζινς Χιτζάζkar</a> στην οκτάβα.
+                        Το Μακάμ Χιτζαζκάρ είναι η πιο κοινή παραλλαγή του <a href="hijaz.php">Μακάμ Χιτζάζ</a> (με βάση το Ντο). Η κλίμακά του αρχίζει με βάση <a href="../jins/hijaz.php">Τζινς Χιτζάζ</a> στην τονική, ακολουθούμενο από <a href="../jins/nikriz.php">Τζινς Νικρίζ</a> στην 4η βαθμίδα, έπειτα <a href="../jins/hijazkar.php">Τζινς Χιτζάζkar</a> στην οκτάβα.
                     </p>
                     <p>
                         Για ιστορικούς λόγους, 3 από τις μεταφορές της βάσης αυτού του μακάμ έχουν διαφορτετκό όνομα (και συνήθως είχαν διαφορετική ανάπτυξη πριν από πολύ καιρό):
                     </p>
 					<p>
-					<li><strong>Μακάμ Σαντ Αραμπάν</strong> (Χιτζάζ Κάρ με βάση το χαμηλό Σολ)</li>
-					<li><strong>Μακάμ Σουζιντίλ</strong> (Χιτζάζ Κάρ με βάση το χαμηλό Λα)</li>
-					<li><strong>Μακάμ Σαχνάζ</strong> (Χιτζάζ Κάρ με βάση το Ρε)</li>
+					<li><strong>Μακάμ Σαντ Αραμπάν</strong> (Χιτζαζκάρ με βάση το χαμηλό Σολ)</li>
+					<li><strong>Μακάμ Σουζιντίλ</strong> (Χιτζαζκάρ με βάση το χαμηλό Λα)</li>
+					<li><strong>Μακάμ Σαχνάζ</strong> (Χιτζαζκάρ με βάση το Ρε)</li>
 					</p>
 
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_hijaz.php">Οικογένεια Μακάμ Χιτζάζ</a>.</p>

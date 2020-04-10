@@ -39,8 +39,8 @@
     <li><a href="/el/maqam/jiharkah.php">Τζιχάρκα</a></li>
     <li><a href="/el/maqam/nahawand.php">Φαραχφάζα</a></li>
     <li><a href="/el/maqam/hijaz.php">Χιτζάζ</a></li>
-    <li><a href="/el/maqam/hijazkar.php">Χιτζάζ Κάρ</a></li>
-    <li><a href="/el/maqam/hijazkar_kurd.php">Χιτζάζ Κάρ Κουρντ</a></li>
+    <li><a href="/el/maqam/hijazkar.php">Χιτζαζκάρ</a></li>
+    <li><a href="/el/maqam/hijazkar_kurd.php">Χιτζαζκάρ Κουρντ</a></li>
     <li><a href="/el/maqam/huzam.php">Χουζάμ</a></li>
     <li><a href="/el/maqam/husayni.php">Χουσάινι</a></li>
 </ul>
