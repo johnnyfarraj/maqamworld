@@ -134,7 +134,7 @@ include($ROOT . 'inc/head.php');
                              --><div class="info">
                                     <b>Σιμόν Σαχίν</b>
                                     <span>
-                                        Ο Παλαιστίνιος βιολιστής Σιμόν Σαχίν παίζει <a href="../form/improv.php#taqsim">τακασίμ</a> σε <a href="../maqam/rast.php">Μακάμ Ραστ</a> σε ρυθμό <a href="../iqaa/rumba.php">Ικά Ρούμπα</a>, ολοκληρώνοντας με το 2ο μισό της οργανικής σύνθεσής του Ριάντ Σουνμπάτι <a href="../form/ottoman.php#longa">Λόνγκα</a> <a href="../maqam/nahawand.php">Φαραχφάζα</a>.
+                                        Ο Παλαιστίνιος βιολιστής Σιμόν Σαχίν παίζει <a href="../form/improv.php#taqsim">τακασίμ</a> σε <a href="../maqam/rast.php">Μακάμ Ραστ</a> σε ρυθμό <a href="../iqaa/rumba.php">Ικά Ρούμπα</a>, ολοκληρώνοντας με το 2ο μισό της οργανικής σύνθεσής του Ριάντ αλ-Σουνμπάτι <a href="../form/ottoman.php#longa">Λόνγκα</a> <a href="../maqam/nahawand.php">Φαραχφάζα</a>.
                                     </span>
                                 </div>
                             </label>

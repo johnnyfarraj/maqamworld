@@ -180,7 +180,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Λόνγκα Φαραχφάζα</b>
                                     <span>Μουσικό Σύνολο Σιμόν Σαχίν</span>
-                                    <span>Μουσική Ριάντ Σουνμπάτι</span>
+                                    <span>Μουσική Ριάντ αλ-Σουνμπάτι</span>
                                 </div>
                             </label>
                         </div>

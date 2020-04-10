@@ -100,7 +100,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Αρούχ Λι Μιν (1958)</b>
                                     <span>Ουμ Κουλθούμ</span>
-                                    <span>Μουσική Ριάντ Σουνμπάτι</span>
+                                    <span>Μουσική Ριάντ αλ-Σουνμπάτι</span>
                                 </div>
                             </label>
                         </div>

@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Σαμς ελ-Ασίλ (1958)</b>
                                     <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
-                                    <span>Μουσική Ριάντ Σουνμπάτι</span>
+                                    <span>Μουσική Ριάντ αλ-Σουνμπάτι</span>
                                 </div>
                             </label>
                         </div>
@@ -110,7 +110,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>ελ-Χομπ Κίντα (1959)</b>
                                     <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
-                                    <span>Μουσική Ριάντ Σουνμπάτι</span>
+                                    <span>Μουσική Ριάντ αλ-Σουνμπάτι</span>
                                 </div>
                             </label>
                         </div>
@@ -123,7 +123,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Γιάλι Καν Γισγκίκ Ανίνι (1949)</b>
                                     <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
-                                    <span>Μουσική Ριάντ Σουνμπάτι</span>
+                                    <span>Μουσική Ριάντ αλ-Σουνμπάτι</span>
                                 </div>
                             </label>
                         </div>
@@ -136,7 +136,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Αρούχ Λι Μιν (1958)</b>
                                     <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
-                                    <span>Μουσική Ριάντ Σουνμπάτι</span>
+                                    <span>Μουσική Ριάντ αλ-Σουνμπάτι</span>
                                 </div>
                             </label>
                         </div>

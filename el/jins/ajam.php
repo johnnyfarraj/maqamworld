@@ -114,7 +114,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Λίσα Φάκερ (1963)</b>
                                     <span>Ουμ Κουλθούμ</span>
-                                    <span>Μουσική Ριάντ Σουνμπάτι</span>
+                                    <span>Μουσική Ριάντ αλ-Σουνμπάτι</span>
                                 </div>
                             </label>
                         </div>

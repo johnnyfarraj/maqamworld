@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Αρούχ Λι Μιν (1958)</b>
                                     <span>Ουμ Κουλθούμ</span>
-                                    <span>Μουσική Ριάντ Σουνμπάτι</span>
+                                    <span>Μουσική Ριάντ αλ-Σουνμπάτι</span>
                                 </div>
                             </label>
                         </div>
@@ -133,7 +133,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Τακσίμ Ούτι σε Μακάμ Σίκα</b>
-                                    <span>Ριάντ Σουνμπάτι</span>
+                                    <span>Ριάντ αλ-Σουνμπάτι</span>
                                     <span><img src="/img/cd.png"> Τακασίμ</span>
                                 </div>
                             </label>

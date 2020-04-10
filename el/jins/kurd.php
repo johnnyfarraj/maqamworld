@@ -73,7 +73,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Αουίνττι Αΐνι (1957)</b>
                                     <span>Ουμ Κουλθούμ</span>
-                                    <span>Μουσική Ριάντ Σουνμπάτι</span>
+                                    <span>Μουσική Ριάντ αλ-Σουνμπάτι</span>
                                 </div>
                             </label>
                         </div>
@@ -86,7 +86,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Χαϊάρτι Άλμπι Μάακ (1961)</b>
                                     <span>Ουμ Κουλθούμ</span>
-                                    <span>Μουσική Ριάντ Σουνμπάτι</span>
+                                    <span>Μουσική Ριάντ αλ-Σουνμπάτι</span>
                                 </div>
                             </label>
                         </div>
@@ -149,7 +149,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Για Ζαλίμνι (1951)</b>
                                     <span>Ουμ Κουλθούμ</span>
-                                    <span>Μουσική Ριάντ Σουνμπάτι</span>
+                                    <span>Μουσική Ριάντ αλ-Σουνμπάτι</span>
                                 </div>
                             </label>
                         </div>

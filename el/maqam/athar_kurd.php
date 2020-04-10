@@ -121,7 +121,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>ελ-Χομπ Κίντα (1959)</b>
                                     <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
-                                    <span>Μουσική Ριάντ Σουνμπάτι</span>
+                                    <span>Μουσική Ριάντ αλ-Σουνμπάτι</span>
                                 </div>
                             </label>
                         </div>

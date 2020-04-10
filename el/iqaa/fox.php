@@ -59,7 +59,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Λόνγκα Φαραχφάζα (ορχηστρικό)</b>
                                     <span>Ορχήστρα του Σαλίμ Σάχαμπ</span>
-                                    <span>Μουσική Ριάντ Σουνμπάτι</span>
+                                    <span>Μουσική Ριάντ αλ-Σουνμπάτι</span>
                                 </div>
                             </label>
                         </div>
@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Γουλούμπτ Ασάλεχ Φι Ρόχι (1946)</b>
                                     <span>Ουμ Κουλθούμ</span>
-                                    <span>Μουσική Ριάντ Σουνμπάτι</span>
+                                    <span>Μουσική Ριάντ αλ-Σουνμπάτι</span>
                                 </div>
                             </label>
                         </div>

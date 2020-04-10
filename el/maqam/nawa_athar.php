@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Γουλούμπτι Ασάλεχ Φι Ρούχι (1948)</b>
                                     <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
-                                    <span>Μουσική Ριάντ Σουνμπάτι</span>
+                                    <span>Μουσική Ριάντ αλ-Σουνμπάτι</span>
                                 </div>
                             </label>
                         </div>
