@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Μακάμ Κουρντ";
 $page_description = "Μακάμ Κουρντ";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Οικογένεια Μακάμ Κουρντ, Μακάμ Χιτζασκάρ Κουρντ";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Οικογένεια Μακάμ Κουρντ, Μακάμ Χιτζάζ Κάρ Κουρντ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');

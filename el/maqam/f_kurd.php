@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Οικογένεια Μακάμ Κουρντ";
 $page_description = "Οικογένεια Μακάμ Κουρντ";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Οικογένεια Μακάμ Κουρντ, Μακάμ Χιτζασκάρ Κουρντ";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Οικογένεια Μακάμ Κουρντ, Μακάμ Χιτζάζ Κάρ Κουρντ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -47,7 +47,7 @@ include($ROOT . 'inc/head.php');
 
                     <ul>
                         <li><a href="kurd.php">Μακάμ Κουρντ</a></li>
-                        <li><a href="hijazkar_kurd.php">Μακάμ Χιτζασκάρ Κουρντ</a></li>
+                        <li><a href="hijazkar_kurd.php">Μακάμ Χιτζάζ Κάρ Κουρντ</a></li>
                     </ul>
 
                     <p>Άλλες οικογένειες μακάμ:</p>
