@@ -30,13 +30,13 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Τζινς Ραστ</h1>
-                        <h3>Root jins of the <a href="../maqam/f_rast.php">Μακάμ Ραστ Family</a></h3>
+                        <h3>Ρίζα Ζινς της <a href="../maqam/f_rast.php">οικογένειας Μακάμ Ραστ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Τζινς</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/rast.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Rast</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/rast.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Ραστ</a>
                     </div>
 
 
@@ -58,7 +58,8 @@ include($ROOT . 'inc/head.php');
 				      <area shape="circle" coords="630,52,12" href="#" alt="Λα4" class="playNote" data-frequency="440" data-parent="#notation1">
 					</map>
 
-                    <p>Τζινς Ραστ is a widely popular 5-note <em>jins</em>. It is notated here with its tonic on C and its <em>ghammaz</em> on G. Τζινς Ραστ is the first <em>jins</em> in <a href="../maqam/rast.php">Μακάμ Ραστ</a>, <a href="../maqam/suznak.php">Μακάμ Σουνζάκ</a>, and other <em>maqamat</em> in the <a href="../maqam/f_rast.php">Μακάμ Ραστ Family</a>.
+                    <p>
+                        To Τζινς Ραστ είναι ένα 5χορδο. Στην παρούσα καταγραφή του έχει την τονική στον φθόγγο Ντο και την νότα γάμμαζ στον φθόγγο Σολ. To Τζινς Ραστ είναι το πρώτο Τζινς στο <a href="../maqam/rast.php">Μακάμ Ραστ</a> και <a href="../maqam/suznak.php">Μακάμ Σουνζάκ</a> και άλλα μακαμάτ στην <a href="../maqam/f_rast.php">μακάμ Ραστ οικογένεια</a>.
                     </p>
 
                     <div class="player-area">
@@ -72,7 +73,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Ghannili Shwayy Shwayy (1945)</b>
+                                    <b>Γανίλι Σουάι Σουάι (1945)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Ζακαρία Άχμαντ</span>
                                 </div>
@@ -85,7 +86,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>‘Ala Allah T‘ud (1970)</b>
+                                    <b>Αλά Αλά Ταούντ (1970)</b>
                                     <span>Ουαντί αλ-Σάφι</span>
                                     <span>Μουσική Φαρίντ αλ-Άτρας</span>
                                 </div>
@@ -98,7 +99,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Min ‘Azzibak</b>
+                                    <b>Μιν Αζίμπακ</b>
                                     <span>Φωνή και μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
@@ -110,7 +111,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Min ‘Izz el-Nawm</b>
+                                    <b>Μιν Ιζ ελ-Νομ</b>
                                     <span>Φεϊρούζ</span>
                                     <span>Μουσική Φιλίμων Ουάχμπι</span>
                                 </div>
@@ -123,9 +124,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Nas el-Dinye Dulab</b>
+                                    <b>Για Νας ελ-Ντίνια Ντουλάμπ</b>
                                     <span>Σαμπάχ</span>
-                                    <span>Music by ??</span>
                                 </div>
                             </label>
                         </div>
