@@ -189,7 +189,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Dawr Dayya‘ti Mustaqbal Hayati (1914)</b>
-                                    <span>Registrazione del dawr <strong>Dawr Dayya'ti Mustaqbal Hayati</strong> di Sabah Fakhri sul <a href="../maqam/bayati_shuri.php">Maqam Bayati Shuri</a> (1914, musica di Sayyed Darwish).</span>
+                                    <span>Registrazione del dawr <strong>Dawr Dayya‘ti Mustaqbal Hayati</strong> di Sabah Fakhri sul <a href="../maqam/bayati_shuri.php">Maqam Bayati Shuri</a> (1914, musica di Sayyed Darwish).</span>
                                 </div>
                             </label>
                         </div>

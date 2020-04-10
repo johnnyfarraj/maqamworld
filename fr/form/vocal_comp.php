@@ -182,7 +182,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Dawr Dayya‘ti Moustaqbal Hayati (1914)</b>
-                                    <span>Sabah Fakhri interprète le <strong>Dawr Dayya'ti Moustaqbal Hayati</strong> en <a href="../maqam/bayati_shuri.php">Maqam Bayati Chouri</a> (1914, musique de Sayyed Darwich).</span>
+                                    <span>Sabah Fakhri interprète le <strong>Dawr Dayya‘ti Moustaqbal Hayati</strong> en <a href="../maqam/bayati_shuri.php">Maqam Bayati Chouri</a> (1914, musique de Sayyed Darwich).</span>
                                 </div>
                             </label>
                         </div>

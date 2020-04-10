@@ -178,7 +178,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Dawr Dayya‘ti Mustaqbal Hayati (1914)</b>
-                                    <span>Sabah Fakhris Aufnahme von Dawr Dayya‘t Mustaqbal Bayati (1914) von Sayyed Darwish</span>
+                                    <span>Sabah Fakhris Aufnahme von Dawr Dayya‘ti Mustaqbal Bayati (1914) von Sayyed Darwish</span>
                                 </div>
                             </label>
                         </div>
