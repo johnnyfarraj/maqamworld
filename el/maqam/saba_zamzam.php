@@ -125,7 +125,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Για Μπιντ ελ-Σουλτάν</b>
-                                    <span>Αχμαντ Ανταουία</span>
+                                    <span>Άχμαντ Ανταουία</span>
                                     <span>Μουσική Χάσαν Αμπού αλ-Σουντ</span>
                                 </div>
                             </label>

@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Χίζ Για Χομπ</b>
-                                    <span>Φωνή Αχμαντ Ανταουία</span>
+                                    <span>Φωνή Άχμαντ Ανταουία</span>
                                     <span>Μουσική Χασάν Αμπού ελ-Σοούντ</span>
                                 </div>
                             </label>
@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Σαλαμέτχα Ούμου Χάσαν </b>
-                                    <span>Φωνή Αχμαντ Ανταουία</span>
+                                    <span>Φωνή Άχμαντ Ανταουία</span>
                                     <span>Μουσική Φαρούκ Σαλάμα</span>
                                 </div>
                             </label>
