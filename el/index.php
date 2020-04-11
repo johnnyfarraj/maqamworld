@@ -38,8 +38,9 @@ include($ROOT . 'inc/head.php');
                             <a href="/ar/index.php"><strong>Αραβικά</strong></a>, 
                             <a href="/en/index.php"><strong>Αγγλικά</strong></a>, 
                             <a href="/el/index.php"><strong>Γαλλικά</strong></a>, 
-                            <a href="/it/index.php"><strong>Ιταλικά</strong></a> και 
-                            <a href="/de/index.php"><strong>Γερμανικά</strong></a> (Ισπανικά βρίσκονται υπό κατασκευή).
+                            <a href="/it/index.php"><strong>Ιταλικά</strong></a>, 
+                            <a href="/de/index.php"><strong>Γερμανικά</strong></a> και
+                            <a href="/es/index.php"><strong>Ισπανικά</strong></a>.
                         </li>
                         <li>Υποστήριξη για προσαρμογή του ιστότοπου σε όλων των ειδών οθόνης (ειδικά στις έξυπνες τηλεφωνικές συσκευές).</li>
                         <li>Μηχανή Αναζήτησης Google Search.</li>

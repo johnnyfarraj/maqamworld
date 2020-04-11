@@ -38,8 +38,11 @@ include($ROOT . 'inc/head.php');
                         <li>eine komplette Übersetzung ins 
                             <a href="/en/index.php"><strong>Englisch</strong></a>,
                             <a href="/it/index.php"><strong>Italienisch</strong></a>,
-                            <a href="/fr/index.php"><strong>Französisch</strong></a> und 
-                            <a href="/ar/index.php"><strong>Arabische</strong></a> (Spanisch und Griechisch sind in Arbeit)</li>
+                            <a href="/fr/index.php"><strong>Französisch</strong></a>,
+                            <a href="/ar/index.php"><strong>Arabische</strong></a>,
+                            <a href="/el/index.php"><strong>Griechisch</strong></a> und
+                            <a href="/es/index.php"><strong>Spanisch</strong></a>.
+                        </li>
                         <li>qualitativ bessere Bilder und Audiobeispiele</li>
                         <li>bessere Navigationsmenüs und -untermenüs</li>
                         <li>eine Kontaktseite für Nutzerfeedback</li>
