@@ -6,7 +6,7 @@ include('../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Αραβικά Μουσικά Όργανα";
 $page_description = "Αραβικά Μουσικά Όργανα";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Το Ούτι, Το Κανονάκι, Το Νάι, Το Αραβικό Bιολί, Το Μπούζουκ, Το Αραβικό Ακκορντεόν, H Hλεκτρική Κιθάρα, To Αραβικό Όργανο, To Αραβικό Αρμόνιο, To Αραβικό Πιάνο, Το Σαξόφωνο, Η Τρομπέτα, Το Ρεκ, Η Τάμπλα, Το Ταμπλ Μπάλαντι , Το Νταφ, Το Αιγυπτιακό Μάζχαρ, Το Κάτεμ, Τα Σαγκάτ";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Το Ούτι, Το Κανονάκι, Το Νάι, Το Αραβικό Bιολί, Το Μπούζουκ, Το Αραβικό Ακκορντεόν, H Hλεκτρική Κιθάρα, To Αραβικό Όργανο, To Ανατολίτικο Αρμόνιο, To Αραβικό Πιάνο, Το Σαξόφωνο, Η Τρομπέτα, Το Ρεκ, Η Τάμπλα, Το Ταμπλ Μπάλαντι , Το Νταφ, Το Αιγυπτιακό Μάζχαρ, Το Κάτεμ, Τα Σαγκάτ";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -95,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 <p class="card-text"><a href="instr/accordion.php">Το Αραβικό Ακκορντεόν</a></p>
                                 <p class="card-text"><a href="instr/guitar.php">H Hλεκτρική Κιθάρα</a></p>
                                 <p class="card-text"><a href="instr/org.php">To Αραβικό Όργανο</a></p>
-                                <p class="card-text"><a href="instr/keyboard.php">To Αραβικό Αρμόνιο</a></p>
+                                <p class="card-text"><a href="instr/keyboard.php">To Ανατολίτικο Αρμόνιο</a></p>
                                 <p class="card-text"><a href="instr/piano.php">To Αραβικό Πιάνο</a></p>
                                 <p class="card-text"><a href="instr/saxophone.php">Το Αραβικό Σαξόφωνο</a></p>
                                 <p class="card-text"><a href="instr/trumpet.php">Η Αραβική Τρομπέτα</a></p>

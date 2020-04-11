@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Μακάμ Χουζάμ/Rahat al-Arwah";
-$page_description = "Μακάμ Χουζάμ/Rahat al-Arwah";
+$page_title = "Μακάμ Χουζάμ/Ράχατ αλ-Αρουάχ";
+$page_description = "Μακάμ Χουζάμ/Ράχατ αλ-Αρουάχ";
 $page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Μακάμ Σίκα, Μακάμ Χουζάμ, Μακάμ Ράχατ αλ-Αρουάχ, Μακάμ Ιράκ, ακάμ Μουσταάρ, Μακάμ Μπαστανικάρ, Μακάμ Αούτζ Ιράκ";
 $page_language = "el";
 

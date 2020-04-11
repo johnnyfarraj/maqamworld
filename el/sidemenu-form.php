@@ -8,7 +8,7 @@
     <li><a href="/el/form/ottoman.php#longa">Λόγκα</a></li>
     <li><a href="/el/form/instr_comp.php#maqtua">Μακτούα</a></li>
     <li><a href="/el/form/improv.php#mawwal">Μαουάλ</a></li>
-    <li><a href="/el/form/vocal_comp.php#monologue">Μονόλογο</a></li>
+    <li><a href="/el/form/vocal_comp.php#monologue">Μονόλογος</a></li>
     <li><a href="/el/form/vocal_comp.php#muwashah">Μουάσαχ</a></li>
     <li><a href="/el/form/instr_comp.php#muqaddima">Μουκάντιμα</a></li>
     <li><a href="/el/form/ottoman.php#Bachraf">Μπάσραφ</a></li>

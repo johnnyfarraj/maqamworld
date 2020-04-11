@@ -90,7 +90,7 @@ include($ROOT . 'inc/head.php');
                                     <span>Χορωδία των καθηγητών μουσικής - Πανεπιστήμιο Κασλίκ (Λίβανος)</span>
                                     <span>Μαέστρος: Άιντα Σαλχούμπ Ζιάντε</span>
                                     <span>Μουσική Σαΐντ Νταρουίς</span>
-                                    <span><img src="/img/cd.png"> Orientalia: Mouachah et Chansons</span>
+                                    <span><img src="/img/cd.png"> Orientalia: Muwashah and Songs</span>
                                 </div>
                             </label>
                         </div>

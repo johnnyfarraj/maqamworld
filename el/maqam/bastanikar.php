@@ -127,7 +127,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Μουάσαχ Ανσίντι Για Σάμπα</b>
                                     <span>Εθνική Αραβική Ορχήστρα Παλαιστίνης</span>
                                     <span>Μαέστρος: Ράμζι Αμπου Ρεντουάν</span>
-                                    <span>Μουσική Γιάχια αλ-Σαούντι</span>‘
+                                    <span>Μουσική Γιάχια αλ-Σαούντι</span>
                                 </div>
                             </label>
                         </div>
@@ -179,7 +179,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Τακσίμι Ούτι σε <a href="../maqam/sikah.php">Μακάμ Σίκα</a></b>
                                     <span>Ριάντ αλ-Σουνμπάτι</span>
-                                    <span><img src="/img/cd.png"> Τακασίμ Ούτι</span>
+                                    <span><img src="/img/cd.png"> Takaseem Oud</span>
                                 </div>
                             </label>
                         </div>

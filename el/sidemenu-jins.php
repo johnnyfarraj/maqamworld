@@ -24,5 +24,5 @@
     <li><a href="/el/jins/jiharkah.php">Τζιχάρκα</a></li>
     <li><a href="/el/jins/hijaz.php">Χιτζάζ</a></li>
     <li><a href="/el/jins/hijaz_murassaa.php">Χιτζάζ Μουράσα</a></li>
-    <li><a href="/el/jins/hijazkar.php">Χιτζαζκάρ</a></li>
+    <li><a href="/el/jins/hijazkar.php">Χιτζασκάρ</a></li>
 </ul>

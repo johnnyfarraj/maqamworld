@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Μακάμ Χιτζαζκάρ Κουρντ";
-$page_description = "Μακάμ Χιτζαζκάρ Κουρντ";
+$page_title = "Μακάμ Χιτζασκάρ Κουρντ";
+$page_description = "Μακάμ Χιτζασκάρ Κουρντ";
 $page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις";
 $page_language = "el";
 
@@ -29,14 +29,14 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Μακάμ Χιτζαζκάρ Κουρντ</h1>
+                        <h1>Μακάμ Χιτζασκάρ Κουρντ</h1>
                         <h3>Μέλος της <a href="f_kurd.php">Οικογένειας Μακάμ Κουρντ</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Μακάμ</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/hijazkar_kurd.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Χιτζαζκάρ Κουρντ</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/hijazkar_kurd.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Χιτζασκάρ Κουρντ</a>
                     </div>
 
                     <div class="notation" id="notation1">
@@ -65,7 +65,7 @@ include($ROOT . 'inc/head.php');
 
 					</map>
                     <p>
-                        Το μακάμ Χιτζασκάρ Κουρντ είναι μια αρχαϊκή εκδοχή του <a href="kurd.php">Μακάμ Κουρντ</a> με <a href="../jins/hijazkar.php">Τζινς Χιτζαζκάρ</a> στην οκτάβα. Η κλίμακά του αρχίζει με βάση το <a href="../jins/kurd.php">Τζινς Κουρντ</a> στην τονική, ακολουθούμενο από <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> στην 4η  βαθμίδα.
+                        Το μακάμ Χιτζασκάρ Κουρντ είναι μια αρχαϊκή εκδοχή του <a href="kurd.php">Μακάμ Κουρντ</a> με <a href="../jins/hijazkar.php">Τζινς Χιτζασκάρ</a> στην οκτάβα. Η κλίμακά του αρχίζει με βάση το <a href="../jins/kurd.php">Τζινς Κουρντ</a> στην τονική, ακολουθούμενο από <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> στην 4η  βαθμίδα.
                     </p>
 
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_kurd.php">Οικογένεια Μακάμ Κουρντ</a>.</p>
@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
                                     <span>Χορωδία των καθηγητών μουσικής - Πανεπιστήμιο Κασλίκ (Λίβανος)</span>
                                     <span>Μαέστρος: Άιντα Σαλχούμπ Ζιάντε</span>
                                     <span>Μουσική Σαΐντ Νταρουίς/Όμαρ αλ-Μπατς</span>
-                                    <span><img src="/img/cd.png"> Orientalia: Mouachah et Chansons</span>
+                                    <span><img src="/img/cd.png"> Orientalia: Muwashah and Songs</span>
                                 </div>
                             </label>
                         </div>
@@ -100,7 +100,7 @@ include($ROOT . 'inc/head.php');
                                     <span>Χορωδία των καθηγητών μουσικής - Πανεπιστήμιο Κασλίκ (Λίβανος)</span>
                                     <span>Μαέστρος: Άιντα Σαλχούμπ Ζιάντε</span>
                                     <span>Μουσική Νταρουίς αλ-Χαρίρι</span>
-                                    <span><img src="/img/cd.png"> Orientalia: Mouachah et Chansons</span>
+                                    <span><img src="/img/cd.png"> Orientalia: Muwashah and Songs</span>
                                 </div>
                             </label>
                         </div>

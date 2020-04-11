@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "To Αραβικό Αρμόνιο";
-$page_description = "To Αραβικό Αρμόνιο";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Αραβοποιημένα όργανα, Το Αραβικό Ακκορντεόν, H Hλεκτρική Κιθάρα, Τo Αραβικό Όργανο, To Αραβικό Αρμόνιο, To Αραβικό Πιάνο, Το Αραβικό Σαξόφωνο, Η Αραβική Τρομπέτα";
+$page_title = "To Ανατολίτικο Αρμόνιο";
+$page_description = "To Ανατολίτικο Αρμόνιο";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Αραβοποιημένα όργανα, Το Αραβικό Ακκορντεόν, H Hλεκτρική Κιθάρα, Τo Αραβικό Όργανο, To Ανατολίτικο Αρμόνιο, To Αραβικό Πιάνο, Το Αραβικό Σαξόφωνο, Η Αραβική Τρομπέτα";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -29,7 +29,7 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>To Αραβικό Αρμόνιο</h1>
+                        <h1>To Ανατολίτικο Αρμόνιο</h1>
                         <h3>Ένα <em>synthesizer/sampler</em> με πλήρη δυνατότητα υποδιαίρεσης του τόνου</h3>
                     </div>
 
@@ -37,8 +37,8 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
-                        <img src="/instr/keyboard.jpg" alt="To Αραβικό Αρμόνιο">
-                        <span>To Αραβικό Αρμόνιο Ketron Vega</span>
+                        <img src="/instr/keyboard.jpg" alt="To Ανατολίτικο Αρμόνιο">
+                        <span>To Ανατολίτικο Αρμόνιο Ketron Vega</span>
                     </div>
 
                     <p>
@@ -49,7 +49,7 @@ include($ROOT . 'inc/head.php');
                     </p>
 
                     <div class="image-with-caption">
-                        <img src="/instr/keyboard2.jpg" alt="To Αραβικό Αρμόνιο's Quartertone Buttons">
+                        <img src="/instr/keyboard2.jpg" alt="To Ανατολίτικο Αρμόνιο's Quartertone Buttons">
                         <span>12 κουμπιά για χαμήλωμα του τόνου κατα τέταρτα του τόνου</span>
                     </div>
 
@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Shamstep από τους 47Soul</b>
-                                <span>Το Παν-Παλαιστινιακό συγκρότημα <strong>47Soul</strong> πρόσθεσε μία ενδιαφέρουσα παραλλαγή στη συνηθισμένη χρήση του Ανατολίτικου Αρμόνιο χρησιμοποιώντας effects δημιουργώντας έτσι μία νέα γενιά της techno-dabke, όπως συμβαίνει στην εμπορική επιτυχία τους, το τραγούδι "Shamstep."
+                                <span>Το Παν-Παλαιστινιακό συγκρότημα <strong>47Soul</strong> πρόσθεσε μία ενδιαφέρουσα παραλλαγή στη συνηθισμένη χρήση του Ανατολίτικου Αρμόνιου χρησιμοποιώντας effects δημιουργώντας έτσι μία νέα γενιά της techno-dabke, όπως συμβαίνει στην εμπορική επιτυχία τους, το τραγούδι "Shamstep."
                                 </span>
                                 </div>
                             </label>
@@ -96,7 +96,7 @@ include($ROOT . 'inc/head.php');
 						<li><a href="guitar.php">H Hλεκτρική Κιθάρα</a></li>
 						<li><a href="org.php">Τo Αραβικό Όργανο</a></li>
                     	<!--
-						<li><a href="keyboard.php">To Αραβικό Αρμόνιο</a></li>
+						<li><a href="keyboard.php">To Ανατολίτικο Αρμόνιο</a></li>
 						-->
 						<li><a href="piano.php">To Αραβικό Πιάνο</a></li>
 						<li><a href="saxophone.php">Το Αραβικό Σαξόφωνο</a></li>
