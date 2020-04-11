@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>ιλ-Άλμπ Ιάσακ Κούλι Γκαμίλ </b>
+                                    <b>ιλ-Άλμπ Ιάσακ Κούλι Γκαμίλ (1961)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Ριάντ αλ-Σουνμπάτι</span>
                                 </div>

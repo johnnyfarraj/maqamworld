@@ -30,7 +30,6 @@ include($ROOT . 'inc/head.php');
                     
                     <div class="heading jins text-center">
                         <h1>Ικά Σαΐντι 4/4</h1>
-                        <h3>(also apelled Saidi)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Ρυθμοί</a>
                     <div class="clearfix"></div>
@@ -44,7 +43,7 @@ include($ROOT . 'inc/head.php');
                     </div>
                     
                     <p>
-                        Το Ικά Σαΐντι είναι ένας ζωηρός και πρωτίστως Αιγυπτιακός ρυθμός από την περιφέρεια του Σαΐντ. Μετατρέπεται σε άλλα ζωηρούς ρυθμούς όπως <a href="maqsum.php">Μακσούμ</a> και <a href="baladi.php">Μπάλαντι</a>. 
+                        Το Ικά Σαΐντι είναι ένας ζωηρός και πρωτίστως Αιγυπτιακός ρυθμός από την περιφέρεια του Σαΐντ. Μετατρέπεται σε άλλους ζωηρούς ρυθμούς όπως <a href="maqsum.php">Μακσούμ</a> και <a href="baladi.php">Μπάλαντι</a> και αντιστρόφως. 
                     </p>
                     
                     <div class="player-area">
