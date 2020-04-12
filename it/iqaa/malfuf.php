@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/malfuf.png" class="img-fluid">
                     </div>
 
-                    <p>L'Iqa‘ Malfuf (anche chiamato <strong>Laff</strong>) è usato principalmente nella musica folk popular araba. Ha un senso ciclico e di brevità, modula spesso a e da un altro iqa‘at in  2/4 come il <a href="karachi.php">Karacci</a> e il <a href="fox.php">Fox</a>. In alternativa due battute consecutive di Malfuf possono modulare a una misura ina 4/4 iqa‘  come il <a href="baladi.php">Baladi</a> o <a href="maqsum.php">Maqsum</a>, entrambi in 4/4.</p>
+                    <p>L'Iqa‘ Malfuf (anche chiamato <strong>Laff</strong>) è usato principalmente nella musica folk popular araba. Ha un senso ciclico e di brevità, modula spesso a e da un altro iqa‘at in  2/4 come il <a href="karachi.php">Karacci</a> e il <a href="fox.php">Fox</a>. In alternativa due battute consecutive di Malfuf possono modulare a una misura ina 4/4 iqa‘  come il <a href="baladi.php">Baladi</a> o <a href="maqsum.php">Maqsum</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

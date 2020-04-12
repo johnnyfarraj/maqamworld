@@ -45,11 +45,16 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/qanun.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Qanun</a>
                     </div>
 
-                    <p> The Qanun is a descendent of the old Egyptian harp. It has played an integral part in Arabic music since the 10<sup>th</sup> century. The word <em>qanun</em> means "law" in Arabic, and the word exists in English in the form of "canon". This name was probably given to the qanun because it's the instrument that lays down the law of pitch for other instruments and singers.
+                    <!-- TODO The qanun’s origins are traced back to ancient Greece and Pythagoras or the Egyptian harp. It takes its name from the ancient Greek word ‘κανών’, which means “rule”. Also, it appears in Byzantium with the name “psaltirion”. 
+                    -->
+                    <p>
+                        The Qanun is a descendent of the old Egyptian harp. It has played an integral part in Arabic music since the 10<sup>th</sup> century. The word <em>qanun</em> means "law" in Arabic, and the word exists in English in the form of "canon". This name was probably given to the qanun because it's the instrument that lays down the law of pitch for other instruments and singers.
                     </p>
-                    <p>The body of the qanun consists of a trapezoid-shaped flat wooden board over which 81 strings are stretched in groups of three, with 24 treble strings consisting of three strings to each note. The instrument is placed flat on the knees of the musician or on a small table. Qanun strings are plucked with two plectra, one plectrum attached to the forefinger of each hand. A long bridge on the right-hand side of the instrument rests on goat (or fish) skin covered windows that carry the resonance to the box. On the left hand side, each course of strings passes over a series of small brass levers that are used to make microtonal changes in pitch.
+                    <p>
+                        The body of the qanun consists of a trapezoid-shaped flat wooden board over which 81 strings are stretched in groups of three, with 24 treble strings consisting of three strings to each note. The instrument is placed flat on the knees of the musician or on a small table. Qanun strings are plucked with two plectra, one plectrum attached to the forefinger of each hand. A long bridge on the right-hand side of the instrument rests on goat (or fish) skin covered windows that carry the resonance to the box. On the left hand side, each course of strings passes over a series of small brass levers that are used to make microtonal changes in pitch.
                     </p>
-                    <p>Since the qanun only includes 8 notes per octave, the player initially sets the levers to create the scale of the starting <a href="../maqam.php">maqam</a>. When the player needs to modulate to another <a href="../maqam.php">maqam</a>, they need to switch some levers back and forth with the left hand while playing with the right hand. Quick modulation can also be achieved by using the fingernail of the left thumb to temporarily raise the tuning of some strings.
+                    <p>
+                        Since the qanun only includes 8 notes per octave, the player initially sets the levers to create the scale of the starting <a href="../maqam.php">maqam</a>. When the player needs to modulate to another <a href="../maqam.php">maqam</a>, they need to switch some levers back and forth with the left hand while playing with the right hand. Quick modulation can also be achieved by using the fingernail of the left thumb to temporarily raise the tuning of some strings.
                     </p>
 
                      <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=fZPY3or3D-Y&t=0s">
