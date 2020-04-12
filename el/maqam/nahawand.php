@@ -126,7 +126,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Μουάσαχ Χατ Ισκινίχα</b>
-                                    <span>Χάσαν αλ-Χαφφάρ (Συρία)</span>
+                                    <span>Χάσαν αλ-Χαφάρ (Συρία)</span>
                                     <spanΜουσική Γιάχια αλ-Σαούντι</span>
                                     <span><img src="/img/cd.png"> The Aleppo Suites</span>
                                 </div>

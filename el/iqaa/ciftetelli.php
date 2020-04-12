@@ -76,7 +76,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Κασίντα Ζαάτ Μουαδίμπατι</b>
                                     <span>Φάτιμα Σερχάν</span>
-                                    <span><img src="/img/cd.png"> The Queen of Baladi</span>
+                                    <span><img src="/img/cd.png"> The Queen of Balady</span>
                                 </div>
                             </label>
                         </div>

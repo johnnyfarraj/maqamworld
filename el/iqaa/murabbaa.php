@@ -122,7 +122,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Μουάσαχ Ραμάνι Μπι Σάχμι Χαουάχου</b>
-                                    <span>Χάσαν αλ-Χαφφάρ (Συρία)</span>
+                                    <span>Χάσαν αλ-Χαφάρ (Συρία)</span>
                                     <span>Μουσική Νταούντ Χόσνι</span>
                                 </div>
                             </label>

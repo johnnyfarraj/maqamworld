@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Μουάσαχ Άικάδα αλ-Χούμπου Φουάντι</b>
-                                    <span>Χάσαν αλ-Χαφφάρ (Συρία)</span>
+                                    <span>Χάσαν αλ-Χαφάρ (Συρία)</span>
                                     <span>Μουσική Μπαχτζάτ Χάσαν</span>
                                     <span><img src="/img/cd.png"> The Aleppo Suites Vol. 2</span>
                                 </div>

@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Κασίντα Μαν Μίθλουκομ</b>
-                                    <span>Χάσαν αλ-Χαφφάρ</span>
+                                    <span>Χάσαν αλ-Χαφάρ</span>
                                     <span><img src="/img/cd.png"> Muezzins D'Alep - Chants Religieux De L'Islam</span>
                                 </div>
                             </label>
