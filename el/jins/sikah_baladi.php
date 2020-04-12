@@ -38,8 +38,7 @@ include($ROOT . 'inc/head.php');
                     <div class="text-center mt-2 mb-3">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/sikah_baladi.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Σίκα Μπάλαντι</a>
                     </div>
-                    
-                    
+                
                      <div class="notation" id="notation1">
                         <img src="/note/jins/sikah_baladi.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
@@ -53,12 +52,9 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="318,67,13" href="#" alt="Λα4<i class='icon-halfflat'></i>↓" class="playNote" data-frequency="425" data-parent="#notation1"><!-- variable -->
 					  <area shape="circle" coords="395,60,13" href="#" alt="Σι4<i class='icon-halfflat'></i>↑" class="playNote" data-frequency="485" data-parent="#notation1"><!-- variable -->
 					  <area shape="circle" coords="473,51,13" href="#" alt="Ντο5↓" class="playNote" data-frequency="515" data-parent="#notation1"><!-- variable -->
-					 
-					  
-				     
 					</map>
                     <p>
-                        To Τζινς Σίκα Μπάλαντι Μπάλαντι δεν έχει νότες <em>γαμμάζ</em>, και ως εκ τούτου έχει ακαθόριστο μέγεθος. Η μελωδία του είναι επικεντρωμένη στην τονική του, καταγεγραμένη εδώ στον φθόγγο Σολ. To Τζινς Σίκα Μπάλαντι είναι πολύ δύσκολο να αποτυπωθεί με ακρίβεια στο χαρτί, αντιθέτως είναι καλύτερα τα διαστήματά του και επιτόνισή του να μαθαίνονται με το αυτί. To Τζινς Σίκα Μπάλαντι προκύπτει στην οκτάβα του <a href="../maqam/sikah_baladi.php">Μακάμ Σίκα Μπάλαντι</a>.
+                        To Τζινς Σίκα Μπάλαντι Μπάλαντι δεν έχει νότες <em>γαμάζ</em>, και ως εκ τούτου έχει ακαθόριστο μέγεθος. Η μελωδία του είναι επικεντρωμένη στην τονική του, καταγεγραμένη εδώ στον φθόγγο Σολ. To Τζινς Σίκα Μπάλαντι είναι πολύ δύσκολο να αποτυπωθεί με ακρίβεια στο χαρτί, αντιθέτως είναι καλύτερα τα διαστήματά του και η επιτόνισή του να μαθαίνονται με το αυτί. To Τζινς Σίκα Μπάλαντι προκύπτει στην οκτάβα του <a href="../maqam/sikah_baladi.php">Μακάμ Σίκα Μπάλαντι</a>.
                     </p>
                     
                     <div class="player-area">
@@ -72,8 +68,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Κασίντα Μαν Μιθλούκομ</b>
+                                    <b>Κασίντα Μαν Μίθλουκομ</b>
                                     <span>Χάσαν αλ-Χαφφάρ</span>
+                                    <span><img src="/img/cd.png"> Muezzins D'Alep - Chants Religieux De L'Islam</span>
                                 </div>
                             </label>
                         </div>

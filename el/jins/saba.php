@@ -55,7 +55,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="532,53,13" href="#" alt="Λα4♮" class="playNote" data-frequency="437" data-parent="#notation1"><!-- Hijaz 3rd tuned down from 440-->
 					  <area shape="circle" coords="609,45,13" href="#" alt="Σι4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					</map>
-                    <p>To Τζινς Σάμπα έχει ακαθόριστο μέγεθος. Στην παρούσα καταγραφή του έχει την τονική στον φθόγγο Ρε και δύο πιθανές νότες <em>γαμμάζ</em>: η 3η βαθμίδα (Φα) ή η 6η βαθμίδα (Σι&#x266d;). To Τζινς Σάμπα είναι το πρώτο Τζινς στο <a href="../maqam/saba.php">Μακάμ Σάμπα</a>.
+                    <p>To Τζινς Σάμπα έχει ακαθόριστο μέγεθος. Στην παρούσα καταγραφή του έχει την τονική στον φθόγγο Ρε και δύο πιθανές νότες <em>γαμάζ</em>: η 3η βαθμίδα (Φα) ή η 6η βαθμίδα (Σι&#x266d;). To Τζινς Σάμπα είναι το πρώτο Τζινς στο <a href="../maqam/saba.php">Μακάμ Σάμπα</a>.
                     </p>
 
                     <div class="player-area">

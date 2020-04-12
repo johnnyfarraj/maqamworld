@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Ικά Φαλλάχι";
-$page_description = "Ικά Φαλλάχι";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Φαλλάχι";
+$page_title = "Ικά Φαλάχι";
+$page_description = "Ικά Φαλάχι";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Φαλάχι";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -29,13 +29,13 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
                     
                     <div class="heading jins text-center">
-                        <h1>Ικά Φαλλάχι 2/4</h1>
+                        <h1>Ικά Φαλάχι 2/4</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Ρυθμοί</a>
                     <div class="clearfix"></div>
                     
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/fallahi.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Φαλλάχι</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/fallahi.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Φαλάχι</a>
                     </div>
                     
                     <div class="notation">
@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                     </div>
                     
                     <p>
-                        Το Ικά Φαλλάχι είναι ένας γρήγορος Αιγυπτιακός ρυθμός για παραδοσιακή μουσική. Παρόλο που θα μπορούσε να φέρνει σε <a href="maqsum.php">Μακσούμ</a> παιγμένο στην διπλάσια ταχύτητα, το Φαλλάχι έχει μία πολύ διαφορετική αίσθηση καθώς ρέει πολύ απαλά χωρίς μεγάλες αντιθέσεις (σε τονισμούς) μεταξύ των <strong>Ντουμ</strong> και <strong>Τακ</strong> χτυπημάτων.
+                        Το Ικά Φαλάχι είναι ένας γρήγορος Αιγυπτιακός ρυθμός για παραδοσιακή μουσική. Παρόλο που θα μπορούσε να φέρνει σε <a href="maqsum.php">Μακσούμ</a> παιγμένο στην διπλάσια ταχύτητα, το Φαλάχι έχει μία πολύ διαφορετική αίσθηση καθώς ρέει πολύ απαλά χωρίς μεγάλες αντιθέσεις (σε τονισμούς) μεταξύ των <strong>Ντουμ</strong> και <strong>Τακ</strong> χτυπημάτων.
                     </p>
                     
                     <div class="player-area">
@@ -96,7 +96,7 @@ include($ROOT . 'inc/head.php');
                             	<div class="thumb-area"><img src="/img/tabla.png" class=""></div>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ικά Φαλλάχι 2/4</b>
+                                    <b>Ικά Φαλάχι 2/4</b>
                                     <span>Επίδειξη στην τάμπλα από τον Φαϊζάλ Ζεϊντάν</span>
                                 </div>
                             </label>

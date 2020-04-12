@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "H Hλεκτρική Κιθάρα";
 $page_description = "H Hλεκτρική Κιθάρα";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Αραβοποιημένα όργανα, Το Αραβικό Ακκορντεόν, H Hλεκτρική Κιθάρα, Τo Αραβικό Όργανο, To Ανατολίτικο Αρμόνιο, To Αραβικό Πιάνο, Το Αραβικό Σαξόφωνο, Η Αραβική Τρομπέτα";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Αραβοποιημένα όργανα, Το Αραβικό Ακκορντεόν, H Hλεκτρική Κιθάρα, Τo Αραβικό Όργανο, To Αρμόνιο Οριένταλ, To Αραβικό Πιάνο, Το Αραβικό Σαξόφωνο, Η Αραβική Τρομπέτα";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
 						<li><a href="guitar.php">H Hλεκτρική Κιθάρα</a></li>
 						-->
 						<li><a href="org.php">Τo Αραβικό Όργανο</a></li>
-						<li><a href="keyboard.php">To Ανατολίτικο Αρμόνιο</a></li>
+						<li><a href="keyboard.php">To Αρμόνιο Οριένταλ</a></li>
 						<li><a href="piano.php">To Αραβικό Πιάνο</a></li>
 						<li><a href="saxophone.php">Το Αραβικό Σαξόφωνο</a></li>
 						<li><a href="trumpet.php">Η Αραβική Τρομπέτα</a></li>

@@ -133,7 +133,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Σαμάι Χιτζασκάρ Κουρντ</b>
                                     <span>Μουσικό Σύνολο αλ-Κίντι</span>
-                                    <span><img src="/img/cd.png"> Les Derviches Tourneurs of Damas Vol. 2</span>
+                                    <span><img src="/img/cd.png"> The Whiring Dervishes of Damascus Vol. 2</span>
                                     <span>Μουσική Σαλάχ αλ-Μάχντι (Τυνησία)</span>
                                 </div>
                             </label>
@@ -147,7 +147,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Τακσίμι Ούτι</b>
                                     <span>Ριάντ αλ-Σουνμπάτι</span>
-                                    <span><img src="/img/cd.png"> Τακασίμ Ούτι</span>
+                                    <span><img src="/img/cd.png"> Takaseem Oud</span>
                                 </div>
                             </label>
                         </div>

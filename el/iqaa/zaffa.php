@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Ικά Ζάφφα";
-$page_description = "Ικά Ζάφφα";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Ζάφφα";
+$page_title = "Ικά Ζάφα";
+$page_description = "Ικά Ζάφα";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Ζάφα";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -29,13 +29,13 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Ικά Ζάφφα 4/4</h1>
+                        <h1>Ικά Ζάφα 4/4</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Ρυθμοί</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/zaffa.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Ζάφφα</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/zaffa.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Ζάφα</a>
                     </div>
 
                     <div class="notation">
@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <p>
-                        Το Ικά Ζάφφα συναντάται μετά από γαμήλια τελετή περιλαμβάνοντας ένα δυνατό σε ένταση σχήμα με ποικίλα κρουστά. Πέρα από τους γάμους, είναι πιθανόν να εμφανιστεί ως μετατροπή από αργές εκδοχές ρυθμών 4/4 όπως <a href="baladi.php">Μπάλαντι</a> και <a href="maqsum.php">Μακσούμ</a>.
+                        Το Ικά Ζάφα συναντάται μετά από γαμήλια τελετή περιλαμβάνοντας ένα δυνατό σε ένταση σχήμα με ποικίλα κρουστά. Πέρα από τους γάμους, είναι πιθανόν να εμφανιστεί ως μετατροπή από αργές εκδοχές ρυθμών 4/4 όπως <a href="baladi.php">Μπάλαντι</a> και <a href="maqsum.php">Μακσούμ</a>.
                     </p>
 
                     <div class="player-area">
@@ -122,7 +122,7 @@ include($ROOT . 'inc/head.php');
                             	<div class="thumb-area"><img src="/img/tabla.png" class=""></div>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ικά Ζάφφα 4/4</b>
+                                    <b>Ικά Ζάφα 4/4</b>
                                     <span>Επίδειξη στην τάμπλα από τον Φαϊζάλ Ζεϊντάν</span>
                                 </div>
                             </label>

@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Ικά Μουχάμμας";
-$page_description = "Ικά Μουχάμμας";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Μουχάμμας";
+$page_title = "Ικά Μουχάμας";
+$page_description = "Ικά Μουχάμας";
+$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Μουχάμας";
 $page_language = "el";
 
 include($ROOT . 'inc/head.php');
@@ -29,13 +29,13 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Ικά Μουχάμμας 16/4</h1>
+                        <h1>Ικά Μουχάμας 16/4</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Ρυθμοί</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mukhammas.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Μουχάμμας</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mukhammas.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Μουχάμας</a>
                     </div>
 
                     <div class="notation">
@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <p>
-                        Το Ικά Μουχάμμας είναι περισσότερο περιορισμένο στο ρεπερτόριο των <a href="../form/vocal_comp.php#muwashah">Μουασαχάτ</a>. Άσχετα με το μέτρο με το οποίο αναφέρεται, η λέξη "Μουχάμμας" στα Αραβικά σημαίνει “με βάση τον αριθμό 5”.
+                        Το Ικά Μουχάμας είναι περισσότερο περιορισμένο στο ρεπερτόριο των <a href="../form/vocal_comp.php#muwashah">Μουασαχάτ</a>. Άσχετα με το μέτρο με το οποίο αναφέρεται, η λέξη "Μουχάμας" στα Αραβικά σημαίνει “με βάση τον αριθμό 5”.
                     </p>
 
                     <div class="player-area">
@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
                             	<div class="thumb-area"><img src="/img/tabla.png" class=""></div>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ικά Μουχάμμας 16/4</b>
+                                    <b>Ικά Μουχάμας 16/4</b>
                                     <span>Επίδειξη στην τάμπλα από τον Φαϊζάλ Ζεϊντάν</span>
                                 </div>
                             </label>

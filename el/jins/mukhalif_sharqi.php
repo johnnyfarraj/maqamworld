@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Τζινς Μουχάλεφ Σάρκι</h1>
-                        <h3>Μία παραλλαγή του Τ<a href="sikah.php">Τζινς Σίκα</a> με χαμηλωμένη την 3η βαθμίδα</h3>
+                        <h3>Μία παραλλαγή του <a href="sikah.php">Τζινς Σίκα</a> με χαμηλωμένη την 3η βαθμίδα</h3>
                     </div>
                     
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Τζινς</a>
@@ -54,7 +54,7 @@ include($ROOT . 'inc/head.php');
 
 					</map>
                     <p>
-                        To Τζινς Μουχάλεφ Σάρκι δεν έχει νότα <em>γαμμάζ</em>, και ως εκ τούτου έχει απροσδιόριστο μέγεθος. Στην παρούσα καταγραφή του έχει την τονική στον φθόγγο Μι<i class="icon-halfflat"></i> (με μισή ύφεση). To Τζινς Μουχάλεφ Σάρκι δεν είναι μέρος κάποιου μακάμ και συνήθως προκύπτει ως μετατροπία από το <a href="sikah.php">Τζινς Σίκα</a>.
+                        To Τζινς Μουχάλεφ Σάρκι δεν έχει νότα <em>γαμάζ</em>, και ως εκ τούτου έχει απροσδιόριστο μέγεθος. Στην παρούσα καταγραφή του έχει την τονική στον φθόγγο Μι<i class="icon-halfflat"></i> (με μισή ύφεση). To Τζινς Μουχάλεφ Σάρκι δεν είναι μέρος κάποιου μακάμ και συνήθως προκύπτει ως μετατροπία από το <a href="sikah.php">Τζινς Σίκα</a>.
                     </p>
 
                     <div class="player-area">
@@ -95,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ράκσατ αλ-Σους (1974)</b>
-                                    <span>Μουσική αδερφοί  Ραχμπάνι</span>
+                                    <span>Μουσική αδερφοί Ραχμπάνι</span>
                                     <span>Από την Οπερέτα “Λούλου”</span>
                                 </div>
                             </label>
@@ -132,7 +132,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Μουάσαχ Για Σαμίρι Ντάα Σάμπρι/b>
+                                    <b>Μουάσαχ Για Σαμίρι Ντάα Σάμπρι</b>
                                     <span>Μοχάμαντ Χαΐρι</span>
                                 </div>
                             </label>

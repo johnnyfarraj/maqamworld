@@ -7,7 +7,7 @@
     <li><a href="/el/iqaa/awfar.php">Άουφαρ Μάσρι 19/4</a></li>
     <li><a href="/el/iqaa/yuruk_semai.php">Γιουρούκ Σεμάι 6/8</a></li>
     <li><a href="/el/iqaa/dharafat.php">Δαραφάτ 13/8 </a></li>
-    <li><a href="/el/iqaa/zaffa.php">Ζάφφα 4/4</a></li>
+    <li><a href="/el/iqaa/zaffa.php">Ζάφα 4/4</a></li>
     <li><a href="/el/iqaa/thurayya.php">Θουράια 5/8</a></li>
     <li><a href="/el/iqaa/karachi.php">Καράτσι 2/4</a></li>
     <li><a href="/el/iqaa/katakufti.php">Κατακούφτι 8/8</a></li>
@@ -17,7 +17,7 @@
     <li><a href="/el/iqaa/mudawwar.php">Μουντάουαρ Μάσρι 12/4</a></li>
     <li><a href="/el/iqaa/mudawwar.php">Μουντάουαρ Σάμι 10/4</a></li>
     <li><a href="/el/iqaa/murabbaa.php">Μουράμπα 13/4</a></li>
-    <li><a href="/el/iqaa/mukhammas.php">Μουχάμμας 16/4</a></li>
+    <li><a href="/el/iqaa/mukhammas.php">Μουχάμας 16/4</a></li>
     <li><a href="/el/iqaa/muhajjar.php">Μουχάτζαρ 14/4</a></li>
     <li><a href="/el/iqaa/baladi.php">Μπάλαντι 4/4</a></li>
     <li><a href="/el/iqaa/bambi.php">Μπάμμπι 8/4</a></li>
@@ -37,7 +37,7 @@
     <li><a href="/el/iqaa/sittatu_ashar.php">Σίτατου Άσαρ Μάσρι 32/4</a></li>
     <li><a href="/el/iqaa/sudasi.php">Σουντάσι 6/4</a></li>
     <li><a href="/el/iqaa/jurjina.php">Τζουρτζίνα 10/8</a></li>
-    <li><a href="/el/iqaa/fallahi.php">Φαλλάχι 2/4</a></li>
+    <li><a href="/el/iqaa/fallahi.php">Φαλάχι 2/4</a></li>
     <li><a href="/el/iqaa/fakhit.php">Φάχιτ 20/4</a></li>
     <li><a href="/el/iqaa/fox.php">Φοξ 2/4</a></li>
     <li><a href="/el/iqaa/hachaa.php">Χάτσα 4/4</a></li>

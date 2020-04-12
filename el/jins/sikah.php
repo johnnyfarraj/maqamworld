@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
 
 
 					</map>
-                    <p>To Τζινς Σίκα είναι ένα 3χορδο. Στην παρούσα καταγραφή του έχει την τονική στον φθόγγο Μι<i class='icon-halfflat'></i> (μισή ύφεση) και την νότα γαμμάζ στον φθόγγο Σολ. To Τζινς Σίκα είναι το πρώτο Τζινς στα <a href="../maqam/sikah.php">Μακάμ Σίκα</a>, <a href="../maqam/huzam.php">Μακάμ Χουζάμ</a>, <a href="../maqam/iraq.php">Μακάμ Ιράκ</a> και <a href="../maqam/bastanikar.php">Μακάμ Μπαστανικάρ</a>.
+                    <p>To Τζινς Σίκα είναι ένα 3χορδο. Στην παρούσα καταγραφή του έχει την τονική στον φθόγγο Μι<i class='icon-halfflat'></i> (μισή ύφεση) και την νότα γαμάζ στον φθόγγο Σολ. To Τζινς Σίκα είναι το πρώτο Τζινς στα <a href="../maqam/sikah.php">Μακάμ Σίκα</a>, <a href="../maqam/huzam.php">Μακάμ Χουζάμ</a>, <a href="../maqam/iraq.php">Μακάμ Ιράκ</a> και <a href="../maqam/bastanikar.php">Μακάμ Μπαστανικάρ</a>.
                     </p>
 
                     <div class="player-area">

@@ -63,13 +63,13 @@ include($ROOT . 'inc/head.php');
                                     <li><a href="/el/iqaa/wahda_saghira.php">Ουάχντα Σαγίρα 2/4 </a></li>
                                     <li><a href="/el/iqaa/samai_darij.php">Σαμάι Ντάριτζ 3/4</a></li>
                                     <li><a href="/el/iqaa/samai_saraband.php">Σαμάι Σαραμπάντ 3/8</a></li>
-                                    <li><a href="/el/iqaa/fallahi.php">Φαλλάχι 2/4</a></li>
+                                    <li><a href="/el/iqaa/fallahi.php">Φαλάχι 2/4</a></li>
                                     <li><a href="/el/iqaa/fox.php">Φοξ 2/4</a></li>
                                 </ul>
                             </div>
                             <div class="col-sm-3">
                                 <ul class="page-list">
-                                    <li><a href="/el/iqaa/zaffa.php">Ζάφφα 4/4</a></li>
+                                    <li><a href="/el/iqaa/zaffa.php">Ζάφα 4/4</a></li>
                                     <li><a href="/el/iqaa/maqsum.php">Μακσούμ 4/4</a></li>
                                     <li><a href="/el/iqaa/baladi.php">Μπάλαντι 4/4</a></li>
                                     <li><a href="/el/iqaa/nawari.php">Νάουαρι 4/4</a></li>
@@ -103,7 +103,7 @@ include($ROOT . 'inc/head.php');
                                     <li><a href="/el/iqaa/mudawwar.php">Μουντάουαρ Μάσρι 12/4</a></li>
                                     <li><a href="/el/iqaa/mudawwar.php">Μουντάουαρ Σάμι 10/4</a></li>
                                     <li><a href="/el/iqaa/murabbaa.php">Μουράμπα 13/4</a></li>
-                                    <li><a href="/el/iqaa/mukhammas.php">Μουχάμμας 16/4</a></li>
+                                    <li><a href="/el/iqaa/mukhammas.php">Μουχάμας 16/4</a></li>
                                     <li><a href="/el/iqaa/muhajjar.php">Μουχάτζαρ 14/4</a></li>
                                     <li><a href="/el/iqaa/samai_thaqil.php">Σαμάι Θακίλ 10/8</a></li>
                                     <li><a href="/el/iqaa/sittatu_ashar.php">Σίτατου Άσαρ Μάσρι 32/4</a></li>
