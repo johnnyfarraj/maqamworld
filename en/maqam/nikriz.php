@@ -64,7 +64,10 @@ include($ROOT . 'inc/head.php');
 					</map>
                     <p>Maqam Nikriz is the main maqam in the Nikriz Family. Its scale starts with the root <a href="../jins/nikriz.php">Jins Nikriz</a> on the <em>tonic</em>, followed by <a href="../jins/nahawand.php">Jins Nahawand</a> on the 5<sup>th</sup> degree.
                     </p>
+
                     <p>Explore other maqamat in the <a href="f_nikriz.php">Maqam Nikriz Family</a>.</p>
+                
+                    <p>Listen to a 1-minute sample <a href="https://www.instagram.com/p/B-dBoriFT-3" target="_blank">Violin Taqsim in Maqam Nikriz</a> by Sami Abu Shumays.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

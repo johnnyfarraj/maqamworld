@@ -64,7 +64,10 @@ include($ROOT . 'inc/head.php');
 
                     <p>Maqam Bayati Shuri is a variation of <a href="bayati.php">Maqam Bayati</a> with a lowered 5<sup>th</sup> degree. It starts with the root <a href="../jins/bayati.php">Jins Bayati</a> on the <em>tonic</em> followed by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 4<sup>th</sup> degree.</p>
                     <p>It is a very popular maqam in its own right, especially in the Muwashahat and Adwar vocal compositions.</p>
+                    
                     <p>Explore other maqamat in the <a href="f_bayati.php">Maqam Bayati Family</a>.</p>
+                    
+                    <p>Listen to a 1-minute sample <a href="https://www.instagram.com/p/B-NQP22lCXX" target="_blank">Violin Taqsim in Maqam Bayati Shuri</a> by Sami Abu Shumays.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

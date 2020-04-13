@@ -48,25 +48,29 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-	  <area shape="circle" coords="63,131,13" href="#" alt="C4" class="playNote" data-frequency="260.74" data-parent="#notation1">
-	  <area shape="circle" coords="141,123,13" href="#" alt="D4♭" class="playNote" data-frequency="274" data-parent="#notation1">
-	  <area shape="circle" coords="218,115,13" href="#" alt="E4♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
-	  <area shape="circle" coords="296,107,13" href="#" alt="F4♯" class="playNote" data-frequency="375" data-parent="#notation1">
-	  <area shape="circle" coords="373,99,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-	  <area shape="circle" coords="450,91,13" href="#" alt="A4♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- Hijaz 2 tuned up from 420 -->
-	  <area shape="circle" coords="528,83,13" href="#" alt="B4♮" class="playNote" data-frequency="492" data-parent="#notation1"><!-- Hijaz 3 tuned down from 495 -->
-	  <area shape="circle" coords="605,75,13" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1">
+                      <area shape="circle" coords="63,131,13" href="#" alt="C4" class="playNote" data-frequency="260.74" data-parent="#notation1">
+                      <area shape="circle" coords="141,123,13" href="#" alt="D4♭" class="playNote" data-frequency="274" data-parent="#notation1">
+                      <area shape="circle" coords="218,115,13" href="#" alt="E4♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
+                      <area shape="circle" coords="296,107,13" href="#" alt="F4♯" class="playNote" data-frequency="375" data-parent="#notation1">
+                      <area shape="circle" coords="373,99,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
+                      <area shape="circle" coords="450,91,13" href="#" alt="A4♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- Hijaz 2 tuned up from 420 -->
+                      <area shape="circle" coords="528,83,13" href="#" alt="B4♮" class="playNote" data-frequency="492" data-parent="#notation1"><!-- Hijaz 3 tuned down from 495 -->
+                      <area shape="circle" coords="605,75,13" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1">
                        <!-- Links -->
                       <area shape="rect" coords="115,5,294,34" href="../jins/athar_kurd.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="337,144,483,175" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
-	     </map>
+	               </map>
 
                     <p>Maqam Athar Kurd is a very rare maqam that seems to be a 20<sup>th</sup> century development. Its scale starts with <a href="../jins/athar_kurd.php">Athar Kurd</a> on the <em>tonic</em> followed by <a href="../jins/hijazkar.php">Jins Hijazkar</a> centered around the 5<sup>th</sup> degree.
-		</p>
+		              </p>
+                    
                     <p>The Maqam Athar Kurd scale is a hybrid between <a href="nawa_athar.php">Maqam Nawa Athar</a>
                     and <a href="kurd.php">Maqam Kurd</a>, hence the name.
-		</p>
+		              </p>
+                    
                     <p>Explore other maqamat in the <a href="f_nikriz.php">Maqam Nikriz Family</a>.</p>
+
+                    <p>Listen to a 1-minute sample <a href="https://www.instagram.com/p/B-Ag4PLFM7t" target="_blank">Violin Taqsim in Maqam Athar Kurd</a> by Sami Abu Shumays.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

@@ -71,6 +71,8 @@ include($ROOT . 'inc/head.php');
                     <p>Maqam Bastanikar is effectively <a href="../jins/sikah.php">Jins Sikah</a> followed by <a href="saba.php">Maqam Saba</a>. Its scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the <em>tonic</em>, then <a href="../jins/saba.php">Jins Saba</a> on the 3<sup>rd</sup> degree, an overlapping <a href="../jins/hijaz.php">Jins Hijaz</a> on the 5<sup>th</sup> degree, and finally <a href="../jins/nikriz.php">Jins Nikriz</a> on the octave.</p>
 
                     <p>Explore other maqamat in the <a href="f_sikah.php">Maqam Sikah Family</a>.</p>
+                    
+                    <p>Listen to a 1-minute sample <a href="https://www.instagram.com/p/B-zzc0JFZpL" target="_blank">Violin Taqsim in Maqam Bastanikar</a> by Sami Abu Shumays.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

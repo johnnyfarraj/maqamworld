@@ -64,6 +64,8 @@ include($ROOT . 'inc/head.php');
                     <p>Maqam Nawa Athar is another popular maqam in the Nikriz Family. Its scale starts with the root <a href="../jins/nikriz.php">Jins Nikriz</a> on the <em>tonic</em>, followed by <a href="../jins/hijazkar.php">Jins Hijazkar</a> centered on the 5<sup>th</sup> degree. </p>
 
                     <p>Explore other maqamat in the <a href="f_nikriz.php">Maqam Nikriz Family</a>.</p>
+                    
+                    <p>Listen to a 1-minute sample <a href="https://www.instagram.com/p/B-u-dTMFQHE" target="_blank">Violin Taqsim in Maqam Nawa Athar</a> by Sami Abu Shumays.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

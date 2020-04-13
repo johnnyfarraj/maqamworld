@@ -65,11 +65,15 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="118,5,236,36" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="354,5,530,36" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="775,5,886,36" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
-
 				     </map>
-                    <p>Maqam Hijaz is the main maqam in the Hijaz Family. Its scale starts with the root <a href="../jins/hijaz.php">Jins Hijaz</a> on the <em>tonic</em> followed by either <a href="../jins/nahawand.php">Jins Nahawand</a> or <a href="../jins/rast.php">Jins Rast</a> on the 4<sup>th</sup> degree.</p>
+
+                    <p>
+                        Maqam Hijaz is the main maqam in the Hijaz Family. Its scale starts with the root <a href="../jins/hijaz.php">Jins Hijaz</a> on the <em>tonic</em> followed by either <a href="../jins/nahawand.php">Jins Nahawand</a> or <a href="../jins/rast.php">Jins Rast</a> on the 4<sup>th</sup> degree.
+                    </p>
 
                     <p>Explore other maqamat in the <a href="f_hijaz.php">Maqam Hijaz Family</a>.</p>
+
+                    <p>Listen to a 1-minute sample <a href="https://www.instagram.com/p/B-xPN9jFp-7" target="_blank">Violin Taqsim in Maqam Hijaz</a> by Sami Abu Shumays.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

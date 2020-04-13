@@ -63,7 +63,11 @@ include($ROOT . 'inc/head.php');
 
 					</map>
                     <p>Maqam Jiharkah is a somewhat rare maqam that starts with <a href="../jins/jiharkah.php">Jins Jiharkah</a> on the <em>tonic</em>, then <a href="../jins/upper_rast.php">Jins Upper Rast</a> on the 5<sup>th</sup> degree (with its tonic up on the 8<sup>th</sup> degree).</p>
+                    
                     <p>Maqam Jiharkah is not part of a maqam family.</p>
+                    
+                    <p>Listen to a 1-minute sample <a href="https://www.instagram.com/p/B-IJ05Ml4yF" target="_blank">Violin Taqsim in Maqam Jiharkah</a> by Sami Abu Shumays.</p>
+
                     <div class="player-area">
                         <audio id="player" controls>
                             <source src="/audio/maqam/jiharkah/kallili_ya_suhbu.mp3" type="audio/mp3">

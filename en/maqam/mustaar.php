@@ -65,7 +65,10 @@ include($ROOT . 'inc/head.php');
 					</map>
                     <p>Maqam Musta‘ar is extremely rare as an independent maqam, but more common as a jins, or as a partial sayr within <a href="huzam.php">Maqam Huzam</a> and <a href="sikah.php">Maqam Sikah</a>. Its scale starts with <a href="../jins/mustaar.php">Jins Musta‘ar</a> on the <em>tonic</em>, followed by <a href="../jins/nahawand.php">Jins Nahawand</a> on the 3<sup>rd</sup> degree, and <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree.
                     </p>
+
                     <p>Explore other maqamat in the <a href="f_sikah.php">Maqam Sikah Family</a>.</p>
+
+                    <p>Listen to a 1-minute sample <a href="https://www.instagram.com/p/B-4xCFQlknL" target="_blank">Violin Taqsim in Maqam Musta‘ar</a> by Sami Abu Shumays.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

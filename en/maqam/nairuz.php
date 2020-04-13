@@ -63,15 +63,17 @@ include($ROOT . 'inc/head.php');
                       <!-- Links -->
                       <area shape="rect" coords="164,5,275,34" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="438,5,570,34" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
-
-
 					</map>
+
                     <p>Maqam Nairuz starts with the root <a href="../jins/rast.php">Jins Rast</a> on the <em>tonic</em>, followed by <a href="../jins/bayati.php">Jins Bayati</a> on the 5<sup>th</sup> degree. </p>
                     <p>Maqam Nairuz is quite rare by itself, but it is prominent as a sayr within <a href="suznak.php">Maqam Suznak</a>/<a href="rast.php">Maqam Rast</a> – because of the affinity between <a href="../jins/bayati.php">Jins Bayati</a> and <a href="../jins/hijaz.php">Jins Hijaz</a> on the 5<sup>th</sup> scale degree.
                     </p>
+                    
                     <p><strong>Maqam Yakah</strong> is an archaic version of Maqam Nairuz, based on note G3 in the Arabic archaic 24-tone scale (named “Yakah”) rather than note C4.</p>
 
                     <p>Explore other maqamat in the <a href="f_rast.php">Maqam Rast Family</a>.</p>
+
+                    <p>Listen to a 1-minute sample <a href="https://www.instagram.com/p/B99Z0F2lS-T" target="_blank">Violin Taqsim in Maqam Nairuz</a> by Sami Abu Shumays.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

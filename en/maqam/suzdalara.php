@@ -64,7 +64,9 @@ include($ROOT . 'inc/head.php');
                     <p>Maqam Suzdalara is quite archaic and almost non-existent as an independent maqam, although its sayr is obligatory within nearly every performance and song in every branch of <a href="rast.php">Maqam Rast</a>: the <a href="../jins/nahawand.php">Jins Nahawand</a> on the 5<sup>th</sup> degree of Maqam Rast is a universal transition device from other modulations, signaling the return to the root <a href="../jins/rast.php">Jins Rast</a> on the <em>tonic</em>.</p>
 
                     <p>Explore other maqamat in the <a href="f_rast.php">Maqam Rast Family</a>.</p>
-
+                    
+                    <p>Listen to a 1-minute sample <a href="https://www.instagram.com/p/B-DHrrDFOgI" target="_blank">Violin Taqsim in Maqam Suzdalara</a> by Sami Abu Shumays.</p>
+                    
                     <div class="player-area">
                         <audio id="player" controls>
                             <source src="/audio/maqam/suzdalara/yana_yana.mp3" type="audio/mp3">

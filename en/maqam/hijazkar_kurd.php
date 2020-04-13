@@ -68,6 +68,8 @@ include($ROOT . 'inc/head.php');
 
                     <p>Explore other maqamat in the <a href="f_kurd.php">Maqam Kurd Family</a>.</p>
 
+                    <p>Listen to a 1-minute sample <a href="https://www.instagram.com/p/B-hZRqPFhWG/" target="_blank">Violin Taqsim in Maqam Hijazkar Kurd</a> by Sami Abu Shumays.</p>
+
                     <div class="player-area">
                         <audio id="player" controls>
                             <source src="/audio/maqam/hijazkar_kurd/tif_ya_durri.mp3" type="audio/mp3">

@@ -62,11 +62,12 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="494,7,600,35" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
 
 					</map>
-                    <p>Maqam Sikah is a rare member of the Sikah family. Its scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the <em>tonic</em>, 
-followed by <a href="../jins/upper_rast.php">Jins Upper Rast</a> on the 3<sup>rd</sup> degree (with its tonic on the 6<sup>th</sup> degree) 
-then <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree (which is a secondary ghammaz).
+                    <p>Maqam Sikah is a rare member of the Sikah family. Its scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the <em>tonic</em>, followed by <a href="../jins/upper_rast.php">Jins Upper Rast</a> on the 3<sup>rd</sup> degree (with its tonic on the 6<sup>th</sup> degree) then <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree (which is a secondary ghammaz).
                     </p>
+                    
                     <p>Explore other maqamat in the <a href="f_sikah.php">Maqam Sikah Family</a>.</p>
+                    
+                    <p>Listen to a 1-minute sample <a href="https://www.instagram.com/p/B-XUb5VFxVb" target="_blank">Violin Taqsim in Maqam Sikah</a> by Sami Abu Shumays.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

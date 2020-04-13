@@ -48,23 +48,24 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-	  <area shape="circle" coords="49,81,13" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1">
-	  <area shape="circle" coords="126,89,13" href="#" alt="B4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
-	  <area shape="circle" coords="202,97,13" href="#" alt="A4♮" class="playNote" data-frequency="440" data-parent="#notation1"><!-- Ajam 3rd, tune down from 440 -->
-	  <area shape="circle" coords="280,105,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-	  <area shape="circle" coords="358,114,13" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1">
-	  <area shape="circle" coords="434,122,13" href="#" alt="E4♮" class="playNote" data-frequency="328" data-parent="#notation1"><!-- Hijaz 3 tune down from 330 -->
-	  <area shape="circle" coords="512,130,13" href="#" alt="D4♭" class="playNote" data-frequency="277" data-parent="#notation1"><!-- Hijaz 2 tune up from 274 -->
-	  <area shape="circle" coords="590,139,13" href="#" alt="C4" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
-	  <!-- Links -->
+                      <area shape="circle" coords="49,81,13" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1">
+                      <area shape="circle" coords="126,89,13" href="#" alt="B4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
+                      <area shape="circle" coords="202,97,13" href="#" alt="A4♮" class="playNote" data-frequency="440" data-parent="#notation1"><!-- Ajam 3rd, tune down from 440 -->
+                      <area shape="circle" coords="280,105,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
+                      <area shape="circle" coords="358,114,13" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1">
+                      <area shape="circle" coords="434,122,13" href="#" alt="E4♮" class="playNote" data-frequency="328" data-parent="#notation1"><!-- Hijaz 3 tune down from 330 -->
+                      <area shape="circle" coords="512,130,13" href="#" alt="D4♭" class="playNote" data-frequency="277" data-parent="#notation1"><!-- Hijaz 2 tune up from 274 -->
+                      <area shape="circle" coords="590,139,13" href="#" alt="C4" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
+                      <!-- Links -->
                       <area shape="rect" coords="135,9,263,40" href="../jins/ajam.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="415,9,538,40" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
-
-
 					</map>
+
                     <p>Maqam Zanjaran is a variant of <a href="hijaz.php">Maqam Hijaz</a> with <a href="../jins/ajam.php">Jins ‘Ajam</a> as the second jins (on the 4<sup>th</sup> degree) and the root <a href="../jins/hijaz.php">Jins Hijaz</a> on the <em>tonic</em>. </p>
 
                     <p>Explore other maqamat in the <a href="f_hijaz.php">Maqam Hijaz Family</a>.</p>
+
+                    <p>Listen to a 1-minute sample <a href="https://www.instagram.com/p/B92Ui8FFDx6" target="_blank">Violin Taqsim in Maqam Zanjaran</a> by Sami Abu Shumays.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

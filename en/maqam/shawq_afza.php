@@ -62,6 +62,8 @@ include($ROOT . 'inc/head.php');
                     <p>Maqam Shawq Afza is the most common variant of <a href="ajam.php">Maqam ‘Ajam</a>. Its scale starts with the root <a href="../jins/ajam.php">Jins ‘Ajam</a> on the <em>tonic</em>, while <a href="../jins/hijaz.php">Jins Hijaz</a> on the 5<sup>th</sup> degree is its distinguishing characteristic, as well as a frequent <a href="../jins/saba_dalanshin.php">Jins Saba Dalanshin</a> modulation on the 3<sup>rd</sup>/5<sup>th</sup> degrees.</p>
 
                     <p>Explore other maqamat in the <a href="f_ajam.php">Maqam ‘Ajam Family</a>.</p>
+                    
+                    <p>Listen to a 1-minute sample <a href="https://www.instagram.com/p/B-SQ4tzFIiL" target="_blank">Violin Taqsim in Maqam Shawq Afza</a> by Sami Abu Shumays.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

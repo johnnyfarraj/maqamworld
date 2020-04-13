@@ -85,6 +85,8 @@ include($ROOT . 'inc/head.php');
 					</p>
 
                     <p>Explore other maqamat in the <a href="f_hijaz.php">Maqam Hijaz Family</a>.</p>
+                    
+                    <p>Listen to a 1-minute sample <a href="https://www.instagram.com/p/B-KjdyqFVPI" target="_blank">Violin Taqsim in Maqam Hijazkar</a> by Sami Abu Shumays.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

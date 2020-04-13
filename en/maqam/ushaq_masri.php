@@ -49,14 +49,14 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-	  <area shape="circle" coords="55,131,13" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1">
-	  <area shape="circle" coords="131,123,13" href="#" alt="E4" class="playNote" data-frequency="330" data-parent="#notation1">
-	  <area shape="circle" coords="209,115,13" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1">
-	  <area shape="circle" coords="287,106,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-	  <area shape="circle" coords="365,98,13" href="#" alt="A4" class="playNote" data-frequency="440" data-parent="#notation1">
-	  <area shape="circle" coords="441,90,13" href="#" alt="B4<i class='icon-halfflat'></i>" class="playNote" data-frequency="480" data-parent="#notation1"><!-- Bayati 2nd var-->
-	  <area shape="circle" coords="518,82,13" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1">
-	  <area shape="circle" coords="595,73,13" href="#" alt="D5" class="playNote" data-frequency="586.66" data-parent="#notation1">
+                      <area shape="circle" coords="55,131,13" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1">
+                      <area shape="circle" coords="131,123,13" href="#" alt="E4" class="playNote" data-frequency="330" data-parent="#notation1">
+                      <area shape="circle" coords="209,115,13" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1">
+                      <area shape="circle" coords="287,106,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
+                      <area shape="circle" coords="365,98,13" href="#" alt="A4" class="playNote" data-frequency="440" data-parent="#notation1">
+                      <area shape="circle" coords="441,90,13" href="#" alt="B4<i class='icon-halfflat'></i>" class="playNote" data-frequency="480" data-parent="#notation1"><!-- Bayati 2nd var-->
+                      <area shape="circle" coords="518,82,13" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1">
+                      <area shape="circle" coords="595,73,13" href="#" alt="D5" class="playNote" data-frequency="586.66" data-parent="#notation1">
                        <!-- Links -->
                       <area shape="rect" coords="114,10,292,39" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="414,9,548,40" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
@@ -65,6 +65,8 @@ include($ROOT . 'inc/head.php');
                     <p>Maqam ‘Ushaq Masri is a variation of <a href="nahawand.php">Maqam Nahawand</a> with <a href="../jins/bayati.php">Jins Bayati</a> on the 5<sup>th</sup> degree, above the root <a href="../jins/nahawand.php">Jins Nahawand</a> on the 1<sup>st</sup> degree.</p>
 
                     <p>Explore other maqamat in the <a href="f_nahawand.php">Maqam Nahawand Family</a>.</p>
+                    
+                    <p>Listen to a 1-minute sample <a href="https://www.instagram.com/p/B-aESLYlTvk" target="_blank">Violin Taqsim in Maqam ‘Ushaq Masri</a> by Sami Abu Shumays.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
