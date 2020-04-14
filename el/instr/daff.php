@@ -76,12 +76,12 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=dyNBVZAJKco&t=0s">
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=Ya_3rWXI1is&t=0s">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/dyNBVZAJKco/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/Ya_3rWXI1is/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">

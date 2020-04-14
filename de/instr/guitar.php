@@ -44,17 +44,17 @@ include($ROOT . 'inc/head.php');
                     <p> Die elektrische Gitarre wurde in den Sechzigerjahren des zwanzigsten Jahrhunderts in Ägypten in die arabische Musik eingeführt. Der Protagonist dieser Bewegung war Omar Khorshid. Einige arabische Gitarren erhielten zusätzliche Bünde (ähnlich wie der <a href="buzuq.php">Buzuk</a>) um einige arabische Skalen mit Vierteltönen spielen zu können. Meist jedoch wurde die elektrische Gitarre unverändert übernommen und ihre Arabisierung bestand im Wesentlichen aus dem Verzierungsstil. Die elektrische Gitarre wurde benutzt, um eine Kombination aus Melodielinien und einfachen Dur- und Moll-Akkorden zu spielen.
                     </p>
 
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=3uBB1pxeirw">
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=b9s1GvFSa68">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/3uBB1pxeirw/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/b9s1GvFSa68/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">
                                     <b>Omar Khorshid</b>
-                                    <span>Umm Kulthums <strong>Darit el-Ayyam</strong> (1970, Musik von Muhammad Abdel Wahab) mit Omar Khorshid (Ägypten) an der elektrischen Gitarre</span>
+                                    <span>Umm Kulthums <strong>Aghadan Alqaka</strong> (1971, Musik von Muhammad Abdel Wahab) mit Omar Khorshid (Ägypten) an der elektrischen Gitarre</span>
                                 </div>
                             </label>
                         </div>

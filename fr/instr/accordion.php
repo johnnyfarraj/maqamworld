@@ -67,7 +67,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/qhFLg5RQjQk/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/WLQD2L5TiTM/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">
@@ -94,12 +94,12 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=BcOGIHYnl_g">
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=oANW6M63pRE">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/BcOGIHYnl_g/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/oANW6M63pRE/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">

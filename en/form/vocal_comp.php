@@ -312,12 +312,12 @@ include($ROOT . 'inc/head.php');
                     <p> The Monologue is a composed song based loosely on the aria in Opera music. It was a popular form around the middle of the 20<sup>th</sup> century. The monologue is performed by one singer with an accompanying ensemble, and does not have any repeating sections, which means it keeps introducing new phrases and melodies from start to finish.
                     </p>
 
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=r3mrDcKXxd0">
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=t-easvB208E">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/r3mrDcKXxd0/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/t-easvB208E/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">
@@ -392,12 +392,12 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=W0yIIR0GxDA">
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=AdAuadp8tq4">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/W0yIIR0GxDA/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/AdAuadp8tq4/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">

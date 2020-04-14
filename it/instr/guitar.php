@@ -47,17 +47,17 @@ include($ROOT . 'inc/head.php');
                     <p>Ma la maggior parte delle chitarre elettriche venivano usate senza nessuna alterazione o effetti e acquisirono la loro caratteristica araba dall'abbellimento . La chitarra elettrica viene usata per suonare una combinazione di linee melodiche e accordi semplici (e.g. maggiori e minori).
                     </p>
 
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=3uBB1pxeirw">
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=b9s1GvFSa68">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/3uBB1pxeirw/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/b9s1GvFSa68/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">
                                     <b>Omar Khorshid</b>
-                                    <span>Il pioniere della chitarra elettrica nella musica araba Omar Khorshid mentre suona <strong>Daret el-Ayyam</strong> di Umm Kukthum (1970, musica di Muhammad Abdel Wahab).</span>
+                                    <span>Il pioniere della chitarra elettrica nella musica araba Omar Khorshid mentre suona <strong>Agadan Alqaka</strong> di Umm Kukthum (1971, musica di Muhammad Abdel Wahab).</span>
                                 </div>
                             </label>
                         </div>

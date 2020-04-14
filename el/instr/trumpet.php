@@ -51,17 +51,17 @@ include($ROOT . 'inc/head.php');
                         Σήμερα δύο νέοι μουσικοί με Αραβικές καταβολές μεταφέρουν την Αραβική τρομπέτα στο προσκήνιο, και οι δύο το κάνουν μέσω της τζαζ μουσικής συνδυάζοντας δυτική αρμονία με τα Αραβικές μελωδίες βασισμένες στα <a href="../maqam.php">μακάμ</a>: <a href="http://www.amirelsaffar.com/" target="_blank">Αμίρ Ελσαφάρ</a> (Ιράκ/ΗΠΑ) και <a href="http://www.ibrahimmaalouf.com/" target="_blank">Ιμπραχίμ Μααλούφ</a> (Λίβανος/Γαλλία).
                     </p>
 
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=29lYX1bQ8ns">
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=RqII6j4Hj_k">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/29lYX1bQ8ns/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/RqII6j4Hj_k/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">
                                     <b>Σάμι αλ-Μπάμπλι</b>
-                                    <span>Ένα σπάνιο βίντεο με τον πρωτοπόρο της Αραβικής τρομπέτας Σάμι αλ-Μπάμπλι (Αίγυπτος) κάνοντας ένα <a href="../form/improv.php#taqsim">Τακσίμ</a> σε <a href="../maqam/nahawand.php">Μακάμ Ναχαουάντ</a> κατά την διάρκεια γαμήλιας γιορτής.
+                                    <span>Ένα σπάνιο βίντεο με τον πρωτοπόρο της Αραβικής τρομπέτας Σάμι αλ-Μπάμπλι (Αίγυπτος) κάνοντας ένα <a href="../form/improv.php#taqsim">Τακσίμ</a> σε <a href="../maqam/nahawand.php">Μακάμ Ναχαουάντ</a> με Αμπντού Ντάγερ.
                                 </span>
                                 </div>
                             </label>

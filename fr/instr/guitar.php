@@ -44,17 +44,17 @@ include($ROOT . 'inc/head.php');
                     <p>La guitare électrique a été utilisée pour la première fois dans la musique arabe vers la fin des années 1960 en Égypte. Le pionnier a été Omar Khorchid. Certaines guitares électriques ont été modifiées par l'ajout de frettes supplémentaires (à la manière du <a href="buzuq.php">Bouzouk</a>) de manière à être en mesure de jouer les <a href="../maqam.php">Maqams</a> arabes et leurs quarts de ton. La plupart du temps, la guitare électrique a été utilisée sans être modifiée et sans effet, et a acquis son 'arabité' grâce au style ornemental. La guitare électrique a été utilisée pour jouer une combinaison de lignes mélodiques et d'accords simples (par exemple, majeurs et mineurs).
                     </p>
 
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=3uBB1pxeirw">
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=b9s1GvFSa68">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/3uBB1pxeirw/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/b9s1GvFSa68/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">
                                     <b>Omar Khorchid</b>
-                                    <span>Le pionnier de la Guitare Électrique Omar Khorchid joue la chanson <strong>Daret el-Ayyam</strong> de Oum Koulthoum (1970, musique de Mouhammad Abdel Wahab).</span>
+                                    <span>Le pionnier de la Guitare Électrique Omar Khorchid joue la chanson <strong>Aghadan Alqaka</strong> de Oum Koulthoum (1971, musique de Mouhammad Abdel Wahab).</span>
                                 </div>
                             </label>
                         </div>

@@ -49,17 +49,17 @@ include($ROOT . 'inc/head.php');
                     <p> Présentement, deux jeunes musiciens d'origine arabe poussent l'utilisation de la trompette dans de nouvelles directions, et les deux le font dans un contexte Jazz qui combine l'harmonie occidentale avec des mélodies du <a href="../maqam.php">maqam</a> arabe: <a href="http://www.amirelsaffar.com/" target="_blank">Amir Elsaffar</a> (Iraq/Etats-Unis) et <a href="http://www.ibrahimmaalouf.com/" target="_blank">Ibrahim Maalouf</a> (Liban/France).
                     </p>
 
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=29lYX1bQ8ns">
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=RqII6j4Hj_k">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/29lYX1bQ8ns/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/RqII6j4Hj_k/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">
                                     <b>Sami al-Babli</b>
-                                    <span>Une rare vidéo du trompettiste arabe Sami al-Babli (Égypte) jouant un <a href="../form/improv.php#taqsim">taqsim</a> dans le <a href="../maqam/nahawand.php">Maqam Nahawand</a> pendant une fête de mariage.</span>
+                                    <span>Une rare vidéo du trompettiste arabe Sami al-Babli (Égypte) jouant un <a href="../form/improv.php#taqsim">taqsim</a> dans le <a href="../maqam/nahawand.php">Maqam Nahawand</a> avec Abdou Dagher.</span>
                                 </div>
                             </label>
                         </div>

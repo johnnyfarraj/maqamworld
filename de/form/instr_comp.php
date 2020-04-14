@@ -203,12 +203,12 @@ include($ROOT . 'inc/head.php');
                     <p> Die Tahmila ist ein Instrumentalstück, das einen wiederkehrenden Refrain mit Strophen kombiniert, die teils komponiert, teils improvisiert sind. Die Tahmila wird gewöhnlich von einem kleinen Ensemble namens Takht gespielt, wobei die Spieler abwechselnd Strophe und Improvisation spielen und die Refrains vom gesamten Ensemble gespielt werden.
                     </p>
 
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=y3lE8MpM1kA">
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=bmtF02i7Oh8">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/y3lE8MpM1kA/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/bmtF02i7Oh8/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">

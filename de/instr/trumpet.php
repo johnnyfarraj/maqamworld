@@ -49,17 +49,17 @@ include($ROOT . 'inc/head.php');
                     <p>Heutzutage entwickeln zwei junge Musiker arabischer Herkunft die arabische Trompete weiter. Beide tun das in einem Jazz-Kontext, der westliche Harmonien mit arabischen Maqam-Melodien kombiniert. Es sind <a href="http://www.amirelsaffar.com/" target="_blank">Amir Elsaffar</a> (Irak/USA) und <a href="http://www.ibrahimmaalouf.com/" target="_blank">Ibrahim Maalouf</a> (Libanon/Frankreich).
                     </p>
 
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=29lYX1bQ8ns">
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=RqII6j4Hj_k">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/29lYX1bQ8ns/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/RqII6j4Hj_k/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">
                                     <b>Sami al-Babli</b>
-                                    <span>Eine seltene Videoaufnahme von Sami al-Babli, der einen Taqsim im Maqam Nahawand während einer ägyptischen Hochzeit spielt</span>
+                                    <span>Eine seltene Videoaufnahme von Sami al-Babli, der einen Taqsim im Maqam Nahawand mit ‘Abdu Daghir</span>
                                 </div>
                             </label>
                         </div>

@@ -49,17 +49,17 @@ include($ROOT . 'inc/head.php');
                     </h5>
                     <br>
                     
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=3uBB1pxeirw">
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=b9s1GvFSa68">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/3uBB1pxeirw/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/b9s1GvFSa68/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">
                                     <b>عمر خورشيد</b>
-                                    <span>رائد الجيتار الكهربائي في العالم العربي عمر خورشيد في أغنية أم كلثوم دارت الأيام (ألحان محمد عبد الوهاب، ١٩٧٠).</span>
+                                    <span>رائد الجيتار الكهربائي في العالم العربي عمر خورشيد في أغنية أم كلثوم اغدا القاك (ألحان محمد عبد الوهاب، ١٩٧١).</span>
                                 </div>
                             </label>
                         </div>

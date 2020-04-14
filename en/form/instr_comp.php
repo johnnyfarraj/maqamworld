@@ -221,12 +221,12 @@ include($ROOT . 'inc/head.php');
                     <p> The Tahmila is an instrumental piece that combines a repeating refrain with verses that are part-composed and part improvised. The <em>tahmila</em> is usually played by a small <em>takht</em> (traditional small ensemble) where each player takes turns playing the verse and improvising, and the refrain is played by the entire ensemble.
                     </p>
 
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=y3lE8MpM1kA">
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=bmtF02i7Oh8">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/y3lE8MpM1kA/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/bmtF02i7Oh8/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">

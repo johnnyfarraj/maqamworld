@@ -44,17 +44,17 @@ include($ROOT . 'inc/head.php');
                     <p> The Electric Guitar was first used in Arabic music in the late 1960s in Egypt, and its pioneer was Omar Khorshid. Some Arabic electric guitars were fitted with extra frets (in the manner of the <a href="buzuq.php">Buzuq</a>) in order to play some of the Arabic <a href="../maqam.php">Maqam</a> scales with quartertones. But mostly the electric guitar was used without any alteration or effects, and acquired its Arabness from its ornamentation style. The electric guitar was used to play a combination of melodic lines and simple chords (e.g. major and minor).
                     </p>
                     
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=3uBB1pxeirw">
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=b9s1GvFSa68">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/3uBB1pxeirw/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/b9s1GvFSa68/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">
                                     <b>Omar Khorshid</b>
-                                    <span>Arabic Electric Guitar pioneer Omar Khorshid plays Umm Kukthum's song <strong>Darit el-Ayyam</strong> (1970, music by Muhammad Abdel Wahab).</span>
+                                    <span>Arabic Electric Guitar pioneer Omar Khorshid plays Umm Kukthum's song <strong>Aghadan Alqaka</strong> (1971, music by Muhammad Abdel Wahab).</span>
                                 </div>
                             </label>
                         </div>

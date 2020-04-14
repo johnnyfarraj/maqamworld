@@ -51,17 +51,17 @@ include($ROOT . 'inc/head.php');
                         Al giorno d'oggi due giovani musicisti arabi portano avanti l'uso della tromba araba, e entrambi lo fanno con un arrangiamento jazz che combina l'armonia occidentale con le melodie dei <a href="../maqam.php">maqam</a> arabi: <a href="http://www.amirelsaffar.com/" target="_blank">Amir Elsaffar</a> (Iraq/U.S.A) e <a href="http://www.ibrahimmaalouf.com/" target="_blank">Ibrahim Maalouf</a> (Libano/Francia).
                     </p>
 
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=29lYX1bQ8ns">
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=RqII6j4Hj_k">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/29lYX1bQ8ns/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/RqII6j4Hj_k/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">
                                     <b>Sami al-Babli</b>
-                                    <span>Una rara registrazione del trombettista egiziano Sami al-Babli durante un <a href="../form/improv.php#taqsim">taqsim</a> sul <a href="../maqam/nahawand.php">Maqam Nahawand</a> durante una festa di matrimonio.
+                                    <span>Una rara registrazione del trombettista egiziano Sami al-Babli durante un <a href="../form/improv.php#taqsim">taqsim</a> sul <a href="../maqam/nahawand.php">Maqam Nahawand</a> con Abdo Dagher.
                                     </span>
                                 </div>
                             </label>

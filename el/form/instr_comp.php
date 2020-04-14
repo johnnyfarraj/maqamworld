@@ -236,12 +236,12 @@ include($ROOT . 'inc/head.php');
                         Η Ταχμίλα είναι ένα οργανικό κομμάτι που συνδυάζει ένα επαναλαμβανόμενο ρεφραίν με στροφές που είναι εν μέρει σύνθεση και εν μέρει αυτοσχεδιασμός. Η Ταχμίλα συνήθως παίζεται από μικρό σύνολο Ταχτ (παραδοσιακή μικρή ορχήστρα) όπου κάθε οργανοπαίχτης παίρνει σειρά παίζοντας την εκάστοτε στροφή και αυτοσχεδιάζει, και το ρεφραίν παίζεται από όλη την ορχήστρα.
                     </p>
 
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=y3lE8MpM1kA">
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=bmtF02i7Oh8">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/y3lE8MpM1kA/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/bmtF02i7Oh8/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">

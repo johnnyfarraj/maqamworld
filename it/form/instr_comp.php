@@ -226,12 +226,12 @@ include($ROOT . 'inc/head.php');
                     <p>La Tahmila è un brano strumentale che unisce un ritornello ripetuto con una strofa in parte composta e in parte improvvisata. La Tahmila è solitamente suonata da un piccolo <em>takht</em> (un piccolo gruppo tradizionale) dove tutti i musicisti a turno suonano la strofa e improvvisano, mentre il ritornello viene suonato da tutto il gruppo.
                     </p>
 
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=y3lE8MpM1kA">
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=bmtF02i7Oh8">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/y3lE8MpM1kA/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/bmtF02i7Oh8/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">

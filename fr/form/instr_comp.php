@@ -226,12 +226,12 @@ include($ROOT . 'inc/head.php');
                     <p>La Tahmila est une pièce instrumentale qui combine un refrain répété avec des phrases qui sont en partie composées et en partie improvisées. La tahmila est généralement jouée par un petit <em>takht</em> (le petit ensemble traditionnel), et chaque musicien joue à son tour la phrase, improvise, et le refrain est joué par l'ensemble au complet.
                     </p>
 
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=y3lE8MpM1kA">
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=bmtF02i7Oh8">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/y3lE8MpM1kA/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/bmtF02i7Oh8/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">

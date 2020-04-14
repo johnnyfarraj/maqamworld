@@ -50,17 +50,17 @@ include($ROOT . 'inc/head.php');
                     <a href="http://www.amirelsaffar.com/" target="_blank">Amir Elsaffar</a> (Iraq/U.S.A) and <a href="http://www.ibrahimmaalouf.com/" target="_blank">Ibrahim Maalouf</a> (Lebanon/France).
                     </p>
 
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=29lYX1bQ8ns">
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=RqII6j4Hj_k">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/29lYX1bQ8ns/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/RqII6j4Hj_k/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">
                                     <b>Sami al-Babli</b>
-                                    <span>A rare video recording of Arabic trumpet pioneer Sami al-Babli (Egypt) doing a Taqsim in <a href="../maqam/nahawand.php">Maqam Nahawand</a> during a wedding party.</span>
+                                    <span>A rare video recording of Arabic trumpet pioneer Sami al-Babli (Egypt) doing a Taqsim in <a href="../maqam/nahawand.php">Maqam Nahawand</a> with Abdo Dagher.</span>
                                 </div>
                             </label>
                         </div>

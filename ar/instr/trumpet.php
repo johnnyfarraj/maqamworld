@@ -60,17 +60,17 @@ include($ROOT . 'inc/head.php');
                     </h5>
                     <br>
 
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=29lYX1bQ8ns">
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=RqII6j4Hj_k">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/29lYX1bQ8ns/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/RqII6j4Hj_k/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">
                                     <b>سامي البابلي</b>
-                                    <span>تسجيل نادر لرائد الترومبيت في الموسيقى العربية سامي البابلي (مصر) يعزف تقسيماً من  مقام النهاوند خلال حفل زفاف.</span>
+                                    <span>تسجيل نادر لرائد الترومبيت في الموسيقى العربية سامي البابلي (مصر) يعزف تقسيماً من مقام النهاوند في جلسة مع عبده داغر.</span>
                                 </div>
                             </label>
                         </div>

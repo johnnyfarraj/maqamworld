@@ -333,12 +333,12 @@ include($ROOT . 'inc/head.php');
                     </h5>
                     <br>
                     
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=r3mrDcKXxd0">
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=t-easvB208E">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/r3mrDcKXxd0/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/t-easvB208E/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">
@@ -422,12 +422,12 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>    
                     
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=W0yIIR0GxDA">
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=AdAuadp8tq4">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/W0yIIR0GxDA/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/AdAuadp8tq4/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">

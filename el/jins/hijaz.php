@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Άγανταν Αλκάκ (1971)</b>
+                                    <b>Άγαντaν Αλκάκα (1971)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
