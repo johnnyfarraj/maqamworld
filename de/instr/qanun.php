@@ -94,7 +94,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Abdel Fattah Mansi</b>
-                                    <span>‘Abdel Fattah Mansi (Ägypten) spielt den Umm-Kulthum-Song <strong>Ana Fi-ntizarak</strong> (1943, Musik von Zakariyya Ahmad)</span>
+                                    <span>Abdel Fattah Mansi (Ägypten) spielt den Umm-Kulthum-Song <strong>Ana Fi-ntizarak</strong> (1943, Musik von Zakariyya Ahmad)</span>
                                 </div>
                             </label>
                         </div>
@@ -110,7 +110,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Abdel Halim Nuwayra</b>
-                                    <span>‘Abdel Halim Nuwayra (Ägypten), der musikalische Leiter des Arabic Music Nensemble, spielt einen Kanun-Taqsim im Maqam Bayati.</span>
+                                    <span>Abdel Halim Nuwayra (Ägypten), der musikalische Leiter des Arabic Music Nensemble, spielt einen Kanun-Taqsim im Maqam Bayati.</span>
                                 </div>
                             </label>
                         </div>
