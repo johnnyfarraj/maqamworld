@@ -7,7 +7,7 @@ include('../inc/config.php');
 $page_title = "Contact Maqam World";
 $page_description = "";
 $page_keywords = "";
-$page_language = "en"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "es"; // en / ar <!-- YOU MUST PUT THIS
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body>
 
     <?php
-      $page = "en/contact.php";
+      $page = "es/contact.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -51,7 +51,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
 
-    <?php include($ROOT . 'en/footer.php'); ?>
+    <?php include($ROOT . 'es/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
     
     <script>

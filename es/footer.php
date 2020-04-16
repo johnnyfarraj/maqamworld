@@ -22,7 +22,7 @@
                     <li><a href="#"><i class="fa fa-fw fa-phone"></i> Call Us</a></li>
                     <li><a href="#"><i class="fa fa-fw fa-map-marker"></i> Visit Us</a></li>
                     -->
-                    <li><a href="/en/contact.php"><i class="fa fa-fw fa-envelope"></i> Send us a message</a></li>
+                    <li><a href="/es/contact.php"><i class="fa fa-fw fa-envelope"></i> Send us a message</a></li>
                 </ul>
             </div>
             <div class="col-sm-5 text-right">

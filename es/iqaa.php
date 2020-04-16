@@ -7,7 +7,7 @@ include('../inc/config.php');
 $page_title = "Arabic Iqa‘at";
 $page_description = "Arabic Music Rhythms Iqa‘ Iqa";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "en"; // en / ar <!-- YOU MUST PUT THIS -->
+$page_language = "es";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="iqaas-page">
 
     <?php
-      $page = "en/iqaa.php";
+      $page = "es/iqaa.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -36,7 +36,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/iqaa.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Iqa‘/Iqa‘at</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/iqaa.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Iqa‘/Iqa‘at</a>
                     </div>
 
                     <p>Arabic music is composed over rhythmic cycles called <em>iqa‘at</em> (singular <em>iqa‘</em>), which are patterns of beats that repeat every measure. A composition can switch back and forth between many different iqa‘at. Each iqa‘ is defined using a prototypal measure and the two basic sounds: <em>dum</em> (bassy and sustained) and <em>tak</em> (dry and sharp).</p>
@@ -117,7 +117,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
 
-    <?php include($ROOT . 'en/footer.php'); ?>
+    <?php include($ROOT . 'es/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
 
   </body>

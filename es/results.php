@@ -7,7 +7,7 @@ include('../inc/config.php');
 $page_title = "";
 $page_description = "";
 $page_keywords = "";
-$page_language = "en"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "es"; // en / ar <!-- YOU MUST PUT THIS
 include($ROOT . 'inc/head.php');
 
 /* Security for searching */
@@ -18,7 +18,7 @@ $search_string = preg_replace('/[^A-Za-z0-9 "\']/', '', strip_tags(normalizeChar
   <body>
 
     <?php
-      $page = "en/results.php";
+      $page = "es/results.php";
       include($ROOT . 'inc/menu.php');
     ?>
     <style>
@@ -47,7 +47,7 @@ $search_string = preg_replace('/[^A-Za-z0-9 "\']/', '', strip_tags(normalizeChar
         </div>
     </div>
     
-    <?php include($ROOT . 'en/footer.php'); ?>
+    <?php include($ROOT . 'es/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
     <script>
         $(document).ready(function() {

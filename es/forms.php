@@ -7,7 +7,7 @@ include('../inc/config.php');
 $page_title = "Arabic Music Forms";
 $page_description = "Arabic Music Forms";
 $page_keywords = "arabic, music, forms, arab, world, maqam, jins, iqa‘, iqaa, rhythm, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "en"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "es"; // en / ar <!-- YOU MUST PUT THIS
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="forms-page">
 
     <?php
-      $page = "en/forms.php";
+      $page = "es/forms.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -36,7 +36,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qalab.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Qalab/Qawalib</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qalab.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Qalab/Qawalib</a>
                     </div>
 
                     <p>Most traditional and classical Arabic music, whether composed or improvised, follows set forms called <em>qawalib</em>
@@ -49,7 +49,7 @@ include($ROOT . 'inc/head.php');
                     <div class="row">
                         <div class="col-sm-12 col-md-6 col-lg-6 col-xl-4">
                             <div class="card">
-                                <img class="card-img-top" src="/img/riqq1.png" alt="Antique Riqq Pattern">
+                                <img class="card-img-top" src="/img/riqq1.png" alt="Antique Riq Pattern">
                                 <div class="card-body">
                                     <h5 class="card-title">Vocal Composed Forms</h5>
                                     <p class="card-text">Learn about the Dawr, Muwashah, Qadd, Taqtuqa, Ughniya, Qasida, Monologue and Duet.</p>
@@ -59,7 +59,7 @@ include($ROOT . 'inc/head.php');
                         </div>
                         <div class="col-sm-12 col-md-6 col-lg-6 col-xl-4">
                             <div class="card">
-                                <img class="card-img-top" src="/img/riqq2.png" alt="Antique Riqq Pattern">
+                                <img class="card-img-top" src="/img/riqq2.png" alt="Antique Riq Pattern">
                                 <div class="card-body">
                                     <h5 class="card-title">Instrumental Composed Forms</h5>
                                     <p class="card-text">Learn about the Dulab, Maqtu‘a, Muqaddima, Tahmila, and Darij.</p>
@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                         </div>
                         <div class="col-sm-12 col-md-6 col-lg-6 col-xl-4">
                             <div class="card">
-                                <img class="card-img-top" src="/img/riqq3.png" alt="Antique Riqq Pattern">
+                                <img class="card-img-top" src="/img/riqq3.png" alt="Antique Riq Pattern">
                                 <div class="card-body">
                                     <h5 class="card-title">Ottoman Instrumental Forms</h5>
                                     <p class="card-text">Learn about the Sama‘i, Longa and Bashraf.</p>
@@ -79,7 +79,7 @@ include($ROOT . 'inc/head.php');
                         </div>
                         <div class="col-sm-12 col-md-6 col-lg-6 col-xl-4">
                             <div class="card">
-                                <img class="card-img-top" src="/img/riqq4.png" alt="Antique Riqq Pattern">
+                                <img class="card-img-top" src="/img/riqq4.png" alt="Antique Riq Pattern">
                                 <div class="card-body">
                                     <h5 class="card-title">Improvised Forms</h5>
                                     <p class="card-text">Learn about the Taqsim, Layali, Mawwal and Qasida.</p>
@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
 
-    <?php include($ROOT . 'en/footer.php'); ?>
+    <?php include($ROOT . 'es/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
 
     </body>

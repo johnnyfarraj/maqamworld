@@ -7,7 +7,7 @@ include('../inc/config.php');
 $page_title = "Arabic Jins";
 $page_description = "Arabic Music Maqam Jins";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "en"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "es"; // en / ar <!-- YOU MUST PUT THIS
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="jins-page">
 
     <?php
-      $page = "en/jins.php";
+      $page = "es/jins.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -36,7 +36,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/jins.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Jins/Ajnas</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/jins.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Jins/Ajnas</a>
                     </div>
 
                     <p>The Jins (plural Ajnas) is a <a href="maqam.php">maqam</a> scale fragment of 3, 4 or 5 notes. The <em>jins</em> is the basic melodic unit in Arabic music, as a <a href="maqam.php">maqam</a> is really a pathway among many ajnas. Each <em>jins</em> is defined by its intervals, which don’t change when it is transposed and give it its distinct and recognizable character.</p>
@@ -109,7 +109,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
 
-    <?php include($ROOT . 'en/footer.php'); ?>
+    <?php include($ROOT . 'es/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
 
   </body>

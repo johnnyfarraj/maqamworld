@@ -7,14 +7,14 @@ include('../inc/config.php');
 $page_title = "";
 $page_description = "";
 $page_keywords = "";
-$page_language = "en";
+$page_language = "es";
 include($ROOT . 'inc/head.php');
 ?>
 
   <body>
 
     <?php
-      $page = "en/index.php";
+      $page = "es/index.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -62,7 +62,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="card-body">
                                     <h5 class="card-title">Maqam</h5>
                                     <p class="card-text">Learn about the Arabic Maqam modal system with notated scales and recorded examples.</p>
-                                    <a href="/en/maqam.php" class="btn btn-primary">Maqam<i class="fa fa-fw fa-angle-right"></i></a>
+                                    <a href="/es/maqam.php" class="btn btn-primary">Maqam<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="card-body">
                                     <h5 class="card-title">Jins</h5>
                                     <p class="card-text">Learn about the <b>Jins</b>, the scale fragment that is the building block of every Maqam.</p>
-                                    <a href="/en/jins.php" class="btn btn-primary">Jins<i class="fa fa-fw fa-angle-right"></i></a>
+                                    <a href="/es/jins.php" class="btn btn-primary">Jins<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="card-body">
                                     <h5 class="card-title">Rhythm</h5>
                                     <p class="card-text">Learn about the Arabic rhythmic cycle called <b>Iqa‘</b>, made of the primitive sounds <em>dum</em> and <em>tak</em>.</p>
-                                    <a href="/en/iqaa.php" class="btn btn-primary">Iqa‘<i class="fa fa-fw fa-angle-right"></i></a>
+                                    <a href="/es/iqaa.php" class="btn btn-primary">Iqa‘<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -92,7 +92,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="card-body">
                                     <h5 class="card-title">Forms</h5>
                                     <p class="card-text">Learn about the Arabic music forms, called <b>Qawalib</b>, used in both vocal and instrumental music, composed and improvised.</p>
-                                    <a href="/en/forms.php" class="btn btn-primary">Forms<i class="fa fa-fw fa-angle-right"></i></a>
+                                    <a href="/es/forms.php" class="btn btn-primary">Forms<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -102,7 +102,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="card-body">
                                     <h5 class="card-title">Instruments</h5>
                                     <p class="card-text">Learn about the traditional Arabic Instruments, melodic and percussion, as well as Western instruments that have been "Arabized".</p>
-                                    <a href="/en/instr.php" class="btn btn-primary">Instruments<i class="fa fa-fw fa-angle-right"></i></a>
+                                    <a href="/es/instr.php" class="btn btn-primary">Instruments<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -112,7 +112,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="card-body">
                                     <h5 class="card-title">Publications</h5>
                                     <p class="card-text">Learn about the book <strong>Inside Arabic Music</strong> (co-authored with Sami Abu Shumays) that was published in August 2019.</p>
-                                    <a href="/en/book.php" class="btn btn-primary">Publications<i class="fa fa-fw fa-angle-right"></i></a>
+                                    <a href="/es/book.php" class="btn btn-primary">Publications<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -129,7 +129,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
 
-    <?php include($ROOT . 'en/footer.php'); ?>
+    <?php include($ROOT . 'es/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
 
   </body>

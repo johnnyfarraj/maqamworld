@@ -46,7 +46,7 @@ function searchDirectoryIterator($path, $string){
             if($file->getBasename() == "results.php" || $file->getBasename() == "search.php") {
                 continue;
             }
-            $content2 = curl_get_contents(str_replace('./', 'http://maqamworld.com/en/', $file->getPathname()));
+            $content2 = curl_get_contents(str_replace('./', 'http://maqamworld.com/es/', $file->getPathname()));
             $content = strtolower($content2);
             $content = normalizeChars($content);
             if (strpos($content, strtolower($string)) !== false) {
@@ -56,7 +56,7 @@ function searchDirectoryIterator($path, $string){
 
                 $appeardTotal = substr_count($content, strtolower($string));
 
-                array_push($files, array("title" => $title, "link" => str_replace('./', 'http://maqamworld.com/en/', $file->getPathname()), "appearances" => $appeardTotal));
+                array_push($files, array("title" => $title, "link" => str_replace('./', 'http://maqamworld.com/es/', $file->getPathname()), "appearances" => $appeardTotal));
                 $cont++;
             }
         }
