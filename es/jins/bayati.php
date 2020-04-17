@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Jins Bayati";
 $page_description = "Jins Bayati";
-$page_keywords = "musique arabe, maqam, instruments, jins bayati, iqa‘, iqaa, rythme, oud, qanoun, nay, quart de ton, tarab";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "es";
 
 include($ROOT . 'inc/head.php');
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="jins-page">
 
     <?php
-      $page = "fr/jins/bayati.php";
+      $page = "en/jins/bayati.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -30,35 +30,36 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Jins Bayati</h1>
-                        <h3>Jins de base de la <a href="../maqam/f_bayati.php">Famille du Maqam Bayati</a></h3>
+                        <h3>raíz de la <a href="../maqam/f_bayati.php">Familia Maqam Bayati</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Jins</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/bayati.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Bayati</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/bayati.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Bayati</a>
                     </div>
 
                     <!-- Copy this too, just change the image SRC -->
                     <div class="notation" id="notation1">
                         <img src="/note/jins/bayati.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Click on each note with the mouse and hold to hear it play.</p>
                     </div>
 
                     <!-- Copy this bit -->
                     <map name="notemap">
-					  <area shape="circle" coords="71,105,12" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="243" data-parent="#notation1"><!-- variable -->
-					  <area shape="circle" coords="151,96,12" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
-					  <area shape="circle" coords="235,88,14" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
-					  <area shape="circle" coords="311,79,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!-- variable -->
-					  <area shape="circle" coords="392,71,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
-					  <area shape="circle" coords="472,63,14" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="547,53,12" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
-					  <area shape="circle" coords="626,45,12" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
+					  <area shape="circle" coords="71,105,12" href="#" alt="B3<i class='icon-halfflat'></i>" class="playNote" data-frequency="243" data-parent="#notation1"><!-- variable -->
+					  <area shape="circle" coords="151,96,12" href="#" alt="C4" class="playNote" data-frequency="260.74" data-parent="#notation1">
+					  <area shape="circle" coords="235,88,14" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="311,79,13" href="#" alt="E4<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!-- variable -->
+					  <area shape="circle" coords="392,71,13" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1">
+					  <area shape="circle" coords="472,63,14" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
+					  <area shape="circle" coords="547,53,12" href="#" alt="A4" class="playNote" data-frequency="440" data-parent="#notation1">
+					  <area shape="circle" coords="626,45,12" href="#" alt="B4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					</map>
 
-                    <p>Le Jins Bayati est un <em>jins</em> de 4 notes. Il est noté ici avec sa tonique sur Ré et son <em>ghammaz</em> sur Sol. Le Jins Bayati est le premier <em>jins</em> du <a href="../maqam/bayati.php">Maqam Bayati</a>.
+                    <p>
+                        El Jins Bayati es un jins de 4 notas. Se escribe aquí con su tónico en <strong>Re</strong> y su <em>ghammaz</em> en <strong>Sol</strong>. Jins Bayati es el primer jins en <a href="../maqam/bayati.php">Maqam Bayati</a>.
                     </p>
 
                     <div class="player-area">
@@ -72,9 +73,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>‘Ala Allah Téoud (1970)</b>
-                                    <span>Wadih al-Safi (Liban)</span>
-                                    <span>Musique de Farid al-Atrache</span>
+                                    <b>‘Ala Allah T‘ud (1970)</b>
+                                    <span>Wadih al-Safi</span>
+                                    <span>Music by Farid al-Atrash</span>
                                 </div>
                             </label>
                         </div>
@@ -86,9 +87,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>‘Ataba - Malaffat (1995)</b>
-                                    <span>Joseph Saqr (Liban)</span>
-                                    <span>Musique de Ziad Rahbani</span>
-                                    <span><img src="/img/cd.png"> Bema Énno</span>
+                                    <span>Joseph Saqr</span>
+                                    <span>Music by Ziad Rahbani</span>
+                                    <span><img src="/img/cd.png"> Bema Enno</span>
                                 </div>
                             </label>
                         </div>
@@ -99,9 +100,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Awwidti Eini (1957)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Riyad al-Soumbati</span>
+                                    <b>‘Awwidti ‘Eini (1957)</b>
+                                    <span>Umm Kulthum</span>
+                                    <span>Music by Riyad al-Sunbati</span>
                                 </div>
                             </label>
                         </div>
@@ -112,9 +113,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>el-Wardi Gamil (1946)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Zakaria Ahmad</span>
+                                    <b>el-Ward Gamil (1946)</b>
+                                    <span>Umm Kulthum</span>
+                                    <span>Music by Zakariyya Ahmad</span>
                                 </div>
                             </label>
                         </div>
@@ -124,9 +125,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ba‘id Annak (1965)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Baligh Hamdi</span>
+                                    <b>Ba‘id ‘Annak (1965)</b>
+                                    <span>Umm Kulthum</span>
+                                    <span>Music by Baligh Hamdi</span>
                                 </div>
                             </label>
                         </div>
@@ -138,8 +139,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Lamma ‘al-Bab</b>
-                                    <span>Fairouz (Liban)</span>
-                                    <span>Musique de Philémon Wéhbé</span>
+                                    <span>Fairouz</span>
+                                    <span>Music by Philemon Wehbe</span>
                                 </div>
                             </label>
                         </div>

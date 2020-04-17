@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Jins Sikah Baladi";
 $page_description = "Jins Sikah Baladi";
-$page_keywords = "musique arabe, maqam, instruments, jins sikah baladi, iqa‘, iqaa, rythme, oud, qanoun, nay, quart de ton, tarab";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "es";
 
 include($ROOT . 'inc/head.php');
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="jins-page">
 
     <?php
-      $page = "fr/jins/sikah_baladi.php";
+      $page = "en/jins/sikah_baladi.php";
       include($ROOT . 'inc/menu.php');
     ?>
     
@@ -29,33 +29,33 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
                     
                     <div class="heading jins text-center">
-                        <h1>Jins Sikah Baladi <span class="badge badge-custom">Nouveau</span></h1>
-                        <h3>(de taille indéfinie)</h3>
+                        <h1>Jins Sikah Baladi</h1>
+                        <h3>(tamaño indefinido)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Jins</a>
                     <div class="clearfix"></div>
                     
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/sikah_baladi.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Sikah Baladi</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/sikah_baladi.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Sikah Baladi</a>
                     </div>
-                    
                     
                      <div class="notation" id="notation1">
                         <img src="/note/jins/sikah_baladi.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Click on each note with the mouse and hold to hear it play.</p>
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="85,93,13" href="#" alt="Mi<i class='icon-halfflat'></i>↓" class="playNote" data-frequency="315" data-parent="#notation1"><!-- variable -->
-					  <area shape="circle" coords="163,85,13" href="#" alt="Fa<i class='icon-halfsharp'></i>↑" class="playNote" data-frequency="364" data-parent="#notation1"><!-- variable -->
-					  <area shape="circle" coords="243,77,14" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="318,67,13" href="#" alt="La<i class='icon-halfflat'></i>↓" class="playNote" data-frequency="425" data-parent="#notation1"><!-- variable -->
-					  <area shape="circle" coords="395,60,13" href="#" alt="Si<i class='icon-halfflat'></i>↑" class="playNote" data-frequency="485" data-parent="#notation1"><!-- variable -->
-					  <area shape="circle" coords="473,51,13" href="#" alt="Do↓" class="playNote" data-frequency="515" data-parent="#notation1"><!-- variable -->
+					  <area shape="circle" coords="85,93,13" href="#" alt="E4<i class='icon-halfflat'></i>↓" class="playNote" data-frequency="315" data-parent="#notation1"><!-- variable -->
+					  <area shape="circle" coords="163,85,13" href="#" alt="F4<i class='icon-halfsharp'></i>↑" class="playNote" data-frequency="364" data-parent="#notation1"><!-- variable -->
+					  <area shape="circle" coords="243,77,14" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
+					  <area shape="circle" coords="318,67,13" href="#" alt="A4<i class='icon-halfflat'></i>↓" class="playNote" data-frequency="425" data-parent="#notation1"><!-- variable -->
+					  <area shape="circle" coords="395,60,13" href="#" alt="B4<i class='icon-halfflat'></i>↑" class="playNote" data-frequency="485" data-parent="#notation1"><!-- variable -->
+					  <area shape="circle" coords="473,51,13" href="#" alt="C5↓" class="playNote" data-frequency="515" data-parent="#notation1"><!-- variable -->
 					</map>
 
-                    <p>Le Jins Sikah Baladi n'a pas de <em>ghammaz</em> et donc pas de taille définie. Sa mélodie est concentrée sur la tonique, notée ici sur Sol. Le Jins Sikah Baladi  est difficile à noter. Il est mieux, tant pour les intervalles que pour l'intonation, de l'apprendre par cœur. Le Jins Sikah Baladi apparaît sur l'octave du <a href="../maqam/sikah_baladi.php">Maqam Sikah Baladi</a>.
+                    <p>
+                        El Jins Sikah Baladi no tiene <em>ghammaz</em>, y por lo tanto no tiene un tamaño definido. Su melodía se centra alrededor de su tónica, anotada aquí en G. Jins Sikah Baladi es muy difícil de anotar con precisión; en cambio, sus intervalos y entonación se aprenden mejor por el oído. Jins Sikah Baladi ocurre en la octava del <a href="../maqam/sikah_baladi.php">Maqam Sikah Baladi</a>.
                     </p>
                     
                     <div class="player-area">
@@ -69,8 +69,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Qassida Man Mithloukoum</b>
-                                    <span>Hassan al-Haffar (Syrie)</span>
+                                    <b>Qasida Man Mithlukum</b>
+                                    <span>Hasan al-Haffar</span>
                                     <span><img src="/img/cd.png"> Muezzins D'Alep - Chants Religieux De L'Islam</span>
                                 </div>
                             </label>
@@ -82,9 +82,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Hakam Aleina el-Hawa (1973)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Baligh Hamdi</span>
+                                    <b>Hakam ‘Aleina el-Hawa (1973)</b>
+                                    <span>Umm Kulthum</span>
+                                    <span>Music by Baligh Hamdi</span>
                                 </div>
                             </label>
                         </div>
@@ -96,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Tal Intizari (1937)</b>
-                                    <span>Interprétation et Musique de Mouhammad Abdel Wahab</span>
+                                    <span>Vocals and Music by Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -107,9 +107,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Fantaisie Nahawand</b>
-                                    <span>Composition Instrumentale</span>
-                                    <span>Musique de Mouhammad Abdel Wahab</span>
+                                    <b>Fantasy Nahawand</b>
+                                    <span>Instrumental Composition</span>
+                                    <span>Music by Muhammad Abdel Wahab</span>
                                     <span><img src="/img/cd.png"> Qamar 14</span>
                                 </div>
                             </label>
@@ -121,9 +121,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim de Oud</b>
-                                    <span>Wasla en <a href="../maqam/rast.php">Maqam Rast</a></span>
-                                    <span>Ibrahim al-Haggar (Égypte)</span>
+                                    <b>Taqsim Oud (from Wasla in Rast)</b>
+                                    <span>Ibrahim al-Haggar</span>
                                 </div>
                             </label>
                         </div>

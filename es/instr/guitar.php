@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     </div> 
 
                     <p>
-                        La guitarra eléctrica se usó por primera vez en la música árabe a fines de la década de 1960 en Egipto, y su pionero fue Omar Khorshid. Algunas guitarras eléctricas árabes fueron equipadas con trastes adicionales (a la manera del <a href="buzuq.php">buzuq</a>) para tocar algunas de las escalas de <a href="../maqam.php">maqam</a> árabe con cuartos de tono. Pero sobre todo la guitarra eléctrica se usó sin ninguna alteración o efecto, y adquirió su carácter árabe de su estilo de ornamentación. La guitarra eléctrica se utilizó para tocar una combinación de líneas melódicas y acordes simples (por ejemplo, mayor y menor).
+                        La guitarra eléctrica se usó por primera vez en la música árabe a fines de la década de 1960 en Egipto, y su pionero fue Omar Khorshid. Algunas guitarras eléctricas árabes fueron equipadas con trastes adicionales (a la manera del <a href="buzuq.php">buzuq</a>) para tocar algunas de las escalas del <a href="../maqam.php">maqam</a> árabe con cuartos de tono. Pero sobre todo la guitarra eléctrica se usó sin ninguna alteración o efecto, y adquirió su carácter árabe de su estilo de ornamentación. La guitarra eléctrica se utilizó para tocar una combinación de líneas melódicas y acordes simples (por ejemplo, mayor y menor).
                     </p>
                     
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=b9s1GvFSa68">

@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <p>
-                        El órgano eléctrico (comúnmente llamado <strong>org</strong> en árabe, del francés "orgue") se hizo muy popular en la música árabe desde finales de los sesenta hasta los setenta. Su pionero y superestrella fue el tecladista egipcio Magdi el-Husseini. La organización se modificó para reproducir tonos de cuarto suficientemente buenos (tan buenos como los del acordeón) que le permitieron tocar la mayoría de las escalas de <a href="../maqam.php">maqam</a>. La org fue usada para tocar una combinación de líneas melódicas y acordes simples. Juntos, la organización y <a href="guitar.php">la guitarra eléctrica</a> crearon un sonido y un estado de ánimo distintivos que marcaron la música árabe de esa década.
+                        El órgano eléctrico (comúnmente llamado <strong>org</strong> en árabe, del francés "orgue") se hizo muy popular en la música árabe desde finales de los sesenta hasta los setenta. Su pionero y superestrella fue el tecladista egipcio Magdi el-Husseini. La organización se modificó para reproducir tonos de cuarto suficientemente buenos (tan buenos como los del acordeón) que le permitieron tocar la mayoría de las escalas del <a href="../maqam.php">maqam</a>. La org fue usada para tocar una combinación de líneas melódicas y acordes simples. Juntos, la organización y <a href="guitar.php">la guitarra eléctrica</a> crearon un sonido y un estado de ánimo distintivos que marcaron la música árabe de esa década.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=Ptd3R51Qj-s&t=2126">

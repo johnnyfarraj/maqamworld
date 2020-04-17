@@ -42,13 +42,13 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <p>
-                        Aunque el piano se incluyó en la música árabe desde principios del siglo XX, se usó como un instrumento occidental para agregar un color clásico a las composiciones árabes (por ejemplo, en "al-Siba wal-Gamal" de Muhammad Abdel Wahab, 1939). Por piano árabe, sin embargo, nos referimos a un piano que se toca melódicamente (sin armonía) dentro del marco de <a href="../maqam.php">maqam</a> árabe.
+                        Aunque el piano se incluyó en la música árabe desde principios del siglo XX, se usó como un instrumento occidental para agregar un color clásico a las composiciones árabes (por ejemplo, en "al-Siba wal-Gamal" de Muhammad Abdel Wahab, 1939). Por piano árabe, sin embargo, nos referimos a un piano que se toca melódicamente (sin armonía) dentro del marco del <a href="../maqam.php">maqam</a> árabe.
                     </p>
                     <p>
                         El primer pionero del piano árabe fue el libanés Wadih Sabra, quien tocó un piano con notas adicionales (tonos de cuarto) durante el Congreso de Música Árabe de El Cairo de 1932. Más tarde, el libanés Abdallah Chahine también modificó un piano para tocar los tonos de tono y grabó un álbum llamado "al- Nagham al-Khalid "con <a href="../form/improv.php#taqsim">taqasim</a> en el <a href="../maqam.php">maqamat</a> más común.
                     </p>
                     <p>
-                        Hacia el final del siglo XX, el músico y dramaturgo libanés Ziad Rahbani grabó muchas canciones y composiciones instrumentales usando un piano acústico o eléctrico (un Fender Rhodes) para interpretar líneas melódicas de <a href="../maqam.php">maqam</a>, o armonía dentro de un género de fusión de jazz.
+                        Hacia el final del siglo XX, el músico y dramaturgo libanés Ziad Rahbani grabó muchas canciones y composiciones instrumentales usando un piano acústico o eléctrico (un Fender Rhodes) para interpretar líneas melódicas del <a href="../maqam.php">maqam</a>, o armonía dentro de un género de fusión de jazz.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=3v9u-h4Vr5A">

@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>El Acordeón Árabe</h1>
-                        <h3>Un acordeón modificado para incluir notas de cuarto tono.</h3>
+                        <h3>Un acordeón modificado para incluir notas de cuarto tono</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Instrumentos</a>
@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <p>
-                        El Acordeón llegó a la escena musical árabe en Egipto a principios del siglo XX, y se usó originalmente sin ninguna alteración para agregar un sabor extraño a la música (por ejemplo, en "Sahirtu" de Muhammad Abdel Wahab en 1935). Más tarde, se modificó para agregar nuevas notas (los "cuartos tonos") que le permitieron tocar muchas más escalas de <a href="../maqam.php">maqam</a> árabe con una entonación lo suficientemente buena.
+                        El Acordeón llegó a la escena musical árabe en Egipto a principios del siglo XX, y se usó originalmente sin ninguna alteración para agregar un sabor extraño a la música (por ejemplo, en "Sahirtu" de Muhammad Abdel Wahab en 1935). Más tarde, se modificó para agregar nuevas notas (los "cuartos tonos") que le permitieron tocar muchas más escalas del <a href="../maqam.php">maqam</a> árabe con una entonación lo suficientemente buena.
                     </p>
                     <p>
                         El acordeón es extremadamente popular en los géneros <em>Raqs Sharqi</em> (danza del vientre) y <em>Sha‘bi</em>.

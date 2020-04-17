@@ -98,7 +98,7 @@ include($ROOT . 'inc/head.php');
                                 <!-- Header Cell: "undefined size" -->
                                 <ul class="page-list">
                                     <li><a href="jins/hijazkar.php">Jins Hijazkar</a></li>
-                                    <li><a href="jins/mukhalif_sharqi.php">Jins Mukhalif Sharqi</a></li>
+                                    <li><a href="jins/mukhalif_sharqi.php">Jins Mukhalef Sharqi</a></li>
                                     <li><a href="jins/nahawand_murassaa.php">Jins Nahawand Murassa‘</a></li>
                                     <li><a href="jins/saba.php">Jins Saba</a></li>
                                     <li><a href="jins/saba_dalanshin.php">Jins Saba Dalanshin</a></li>

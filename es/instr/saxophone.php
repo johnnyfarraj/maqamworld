@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>El Saxofón Árabe</h1>
-                        <h3>Un saxofón que solía tocar escalas árabes de <a href="../maqam.php">Maqam</a></h3>
+                        <h3>Un saxofón que solía tocar escalas árabes del <a href="../maqam.php">Maqam</a></h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Instrumentos</a>

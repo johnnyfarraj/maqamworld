@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Jins Mousta‘ar";
-$page_description = "Jins Mousta‘ar";
-$page_keywords = "musique arabe, maqam, instruments, jins moustaar, jins mousta‘ar, iqa‘, iqaa, rythme, oud, qanoun, nay, quart de ton, tarab";
+$page_title = "Jins Musta‘ar";
+$page_description = "Jins Musta‘ar";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "es";
 
 include($ROOT . 'inc/head.php');
@@ -29,20 +29,20 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins Mousta‘ar (ou Moustaar)</h1>
-                        <h3>Une variation du <a href="sikah.php">Jins Sikah</a> avec seconde augmentée</h3>
+                        <h1>Jins Musta‘ar (o Mustaar)</h1>
+                        <h3>Una variación de <a href="sikah.php">Jins Sikah</a> con el segundo grado sostenido</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Jins</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mustaar.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Mousta‘ar</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mustaar.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Musta‘ar</a>
                     </div>
 
                      <div class="notation" id="notation1">
                         <img src="/note/jins/mustaar.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Click on each note with the mouse and hold to hear it play.</p>
                     </div>
 
                     <map name="notemap">
@@ -52,9 +52,9 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="307,68,14" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
 					  <area shape="circle" coords="383,59,13" href="#" alt="La♮" class="playNote" data-frequency="440" data-parent="#notation1">
 					  <area shape="circle" coords="449,52,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
-
 					</map>
-                    <p>Le Jins Mousta'ar est un <em>jins</em> de 3 notes. Il est noté ici avec sa tonique sur Mi<i class="icon-halfflat"></i> et son <em>ghammaz</em> sur Sol. Le Jins Mousta'ar est le premier jins du <a href="../maqam/mustaar.php">Maqam Mousta‘ar</a>.
+                    <p>
+                        El Jins Musta'ar es un jins de 3 notas. Se escribe aquí con su tónico en <strong>Mi</strong><i class="icon-halfflat"></i> y su <em>ghammaz</em> en <strong>Sol</strong>. Jins Musta’ar es el primer jins en <a href="../maqam/mustaar.php">Maqam Musta‘ar</a>.
                     </p>
 
                     <div class="player-area">

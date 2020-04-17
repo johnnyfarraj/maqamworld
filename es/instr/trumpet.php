@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>La Trompeta Árabe</h1>
-                        <h3>Una trompeta usada para tocar escalas de <a href="../maqam.php">Maqam</a> en árabe</h3>
+                        <h3>Una trompeta usada para tocar escalas del <a href="../maqam.php">Maqam</a> en árabe</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Instrumentos</a>
@@ -42,13 +42,13 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <p>
-                        La trompeta árabe es una trompeta que se usa para tocar las escalas de <a href="../maqam.php">maqam</a> árabe. Algunos músicos logran eso al usar una trompeta equipada con una cuarta válvula (que puede producir cuartos de tono), otros lo logran al usar las diapositivas de la primera y tercera válvulas (disponibles en todas las trompetas profesionales).
+                        La trompeta árabe es una trompeta que se usa para tocar las escalas del <a href="../maqam.php">maqam</a> árabe. Algunos músicos logran eso al usar una trompeta equipada con una cuarta válvula (que puede producir cuartos de tono), otros lo logran al usar las diapositivas de la primera y tercera válvulas (disponibles en todas las trompetas profesionales).
                     </p>
                     <p>
                         La trompeta nunca se convirtió en un instrumento principal en la música árabe, y es el único instrumento Arabizado que nunca se presentó en la orquesta de Umm Kulthum. El pionero y pionero árabe más conocido es el egipcio Sami al-Babli, que actúa regularmente con el cantante <em>sha'bi</em>  Ahmed Adaweyya.
                     </p>
                     <p>
-                        Hoy, dos jóvenes músicos de ascendencia árabe llevan adelante la trompeta árabe, y ambos lo hacen en un ambiente de jazz que combina armonía occidental con melodías de <a href="../maqam.php">maqam</a> árabe: <a href="http://www.amirelsaffar.com/" target="_blank">Amir Elsaffar</a> (Iraq / EE. UU.) E <a href="http://www.ibrahimmaalouf.com/" target="_blank">Ibrahim Maalouf</a> (Líbano / Francia).
+                        Hoy, dos jóvenes músicos de ascendencia árabe llevan adelante la trompeta árabe, y ambos lo hacen en un ambiente de jazz que combina armonía occidental con melodías del <a href="../maqam.php">maqam</a> árabe: <a href="http://www.amirelsaffar.com/" target="_blank">Amir Elsaffar</a> (Iraq / EE. UU.) E <a href="http://www.ibrahimmaalouf.com/" target="_blank">Ibrahim Maalouf</a> (Líbano / Francia).
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=RqII6j4Hj_k">

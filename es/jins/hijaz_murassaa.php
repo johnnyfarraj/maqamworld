@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Jins Hijaz Mourassa‘";
-$page_description = "Jins Hijaz Mourassa‘";
-$page_keywords = "musique arabe, maqam, instruments, jins hijaz mourassaa, iqa‘, iqaa, rythme, oud, qanoun, nay, quart de ton, tarab";
+$page_title = "Jins Hijaz Murassa‘";
+$page_description = "Jins Hijaz Murassa‘";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "es";
 
 include($ROOT . 'inc/head.php');
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="jins-page">
 
     <?php
-      $page = "fr/jins/hijaz_murassaa.php";
+      $page = "en/jins/hijaz_murassaa.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -29,34 +29,35 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins Hijaz Mourassa‘ <span class="badge badge-custom">Nouveau</span></h1>
-                        <h3>Une variation du <a href="hijaz.php">Jins Hijaz</a> avec une quinte abaissée</h3>
+                        <h1>Jins Hijaz Murassa‘</h1>
+                        <h3>Una variación de <a href="hijaz.php">Jins Hijaz</a> con un quinto beimol</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Jins</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/hijaz_murassaa.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Hijaz Mourassa‘</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/hijaz_murassaa.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Hijaz Murassa‘</a>
                     </div>
 
 
                      <div class="notation" id="notation1">
                         <img src="/note/jins/hijaz_murassaa.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                        <p class="clicknotes">Click on each note with the mouse and hold to hear it play.</p>
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="43,106,12" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
-					  <area shape="circle" coords="88,106,12" href="#" alt="Do♯" class="playNote" data-frequency="281.24" data-parent="#notation1"><!-- fine tune-->
-					  <area shape="circle" coords="143,98,14" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
-					  <area shape="circle" coords="217,89,13" href="#" alt="Mi♭" class="playNote" data-frequency="315" data-parent="#notation1"><!-- fine tune-->
-					  <area shape="circle" coords="294,81,13" href="#" alt="Fa♯" class="playNote" data-frequency="375" data-parent="#notation1"><!-- fine tune-->
-					  <area shape="circle" coords="373,73,14" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="450,65,12" href="#" alt="La♭" class="playNote" data-frequency="422" data-parent="#notation1">
-
+					  <area shape="circle" coords="43,106,12" href="#" alt="C4" class="playNote" data-frequency="260.74" data-parent="#notation1">
+					  <area shape="circle" coords="88,106,12" href="#" alt="C4♯" class="playNote" data-frequency="281.24" data-parent="#notation1"><!-- fine tune-->
+					  <area shape="circle" coords="143,98,14" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="217,89,13" href="#" alt="E4♭" class="playNote" data-frequency="315" data-parent="#notation1"><!-- fine tune-->
+					  <area shape="circle" coords="294,81,13" href="#" alt="F4♯" class="playNote" data-frequency="375" data-parent="#notation1"><!-- fine tune-->
+					  <area shape="circle" coords="373,73,14" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
+					  <area shape="circle" coords="450,65,12" href="#" alt="A4♭" class="playNote" data-frequency="422" data-parent="#notation1">
 					</map>
-                    <p>Le Jins Hijaz Mourassa‘ est un <em>jins</em> de 4 notes. Il est noté ici avec sa tonique sur Ré et son <em>ghammaz</em> sur Sol. Le Jins Hijaz Mourassa ne fait partie d'aucun <em>maqam</em> et apparaît en général comme une modulation à partir du <a href="hijaz.php">Jins Hijaz</a>, généralement dans le <a href="../maqam/hijazkar.php">Maqam Hijazkar</a>.
+
+                    <p>
+                        El Jins Hijaz Murassa 'es un jins de 4 notas. Se escribe aquí con su tónico en <strong>Re</strong> y su <em>ghammaz</em> en <strong>Sol</strong>. Jins Hijaz Murassa 'no es parte de ninguna escala del <a href="../maqam.php">maqam</a> y generalmente ocurre como una modulación de <a href="hijaz.php">Jins Hijaz</a>, la mayoría en <a href="../maqam/hijazkar.php">Maqam Hijazkar</a>.
                     </p>
 
                     <div class="player-area">
@@ -71,8 +72,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Ana Fi-ntizarak (1943)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Zakaria Ahmad</span>
+                                    <span>Umm Kulthum</span>
+                                    <span>Music by Zakariyya Ahmad</span>
                                 </div>
                             </label>
                         </div>
@@ -83,9 +84,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Badrou Timmin (Taqsim de Oud)</b>
-                                    <span>Ghada Chbeir (Liban)</span>
-                                    <span>Musique du Cheikh Moursi al-Hariri</span>
+                                    <b>Muwashah Badru Timmin (Oud Taqsim)</b>
+                                    <span>Ghada Shbeir</span>
+                                    <span>Music by Sheikh Mursi al-Hariri</span>
                                 </div>
                             </label>
                         </div>
@@ -96,8 +97,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Badrou Timmin Haza Housnan</b>
-                                    <span>Interprétation et Musique du Cheikh Moursi al-Hariri</span>
+                                    <b>Muwashah Badru Timmin Haza Husnan</b>
+                                    <span>Vocals and Music by Sheikh Mursi al-Hariri</span>
                                 </div>
                             </label>
                         </div>
@@ -108,8 +109,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Laha Badrou-t-Tim</b>
-                                    <span>Interprétation du Cheikh Mahmoud Soubh</span>
+                                    <b>Muwashah Laha Badru-t-Tim</b>
+                                    <span>Vocals by Sheikh Mahmud Subh</span>
                                 </div>
                             </label>
                         </div>
@@ -120,9 +121,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Mala al-Kasat (khana)</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
-                                    <span>Musique de Mouhammad Outhman</span>
+                                    <b>Muwashah Mala al-Kasat (khana)</b>
+                                    <span>Sabah Fakhri</span>
+                                    <span>Music by Muhammad ‘Uthman</span>
                                 </div>
                             </label>
                         </div>
@@ -133,8 +134,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qaddouka-l-Mayyasse</b>
-                                    <span>Mouhammad Khayri (Syrie)</span>
+                                    <b>Qadduka al-Mayyas</b>
+                                    <span>Muhammad Khayri</span>
                                 </div>
                             </label>
                         </div>
@@ -145,8 +146,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mouachah Zarani al-Mahboub</b>
-                                    <span>Salatine al-Tarab (Syrie)</span>
+                                    <b>Muwashah Zarani al-Mahbub</b>
+                                    <span>Salatin Al-Tarab</span>
                                 </div>
                             </label>
                         </div>
@@ -158,7 +159,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Zahr El-Laymoun (1997)</b>
-                                    <span>Sonia M'Barek (Tunisie)</span>
+                                    <span>Sonia M'Barek</span>
                                     <span><img src="/img/cd.png"> Tawchih &copy; 1997</span>
                                 </div>
                             </label>
@@ -170,8 +171,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mawwal en Maqam Isba‘ayn</b>
-                                    <span>Sonia M'Barek (Tunisie)</span>
+                                    <b>Mawwal in Maqam Isba‘ayn</b>
+                                    <span>Sonia M'Barek</span>
                                     <span><img src="/img/cd.png"> Tawchih &copy; 1997</span>
                                 </div>
                             </label>
