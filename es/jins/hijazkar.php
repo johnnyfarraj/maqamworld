@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="jins-page">
 
     <?php
-      $page = "en/jins/hijazkar.php";
+      $page = "es/jins/hijazkar.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -47,12 +47,12 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="70,68,13" href="#" alt="A4♭" class="playNote" data-frequency="420" data-parent="#notation1">
-					  <area shape="circle" coords="149,60,13" href="#" alt="B4♮" class="playNote" data-frequency="493.33" data-parent="#notation1"><!-- vartiable -->
-					  <area shape="circle" coords="227,51,14" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1">
-					  <area shape="circle" coords="303,42,13" href="#" alt="D5♭" class="playNote" data-frequency="554" data-parent="#notation1"><!-- Hijaz 2 tuned up from 548 -->
-					  <area shape="circle" coords="380,35,13" href="#" alt="E5♮" class="playNote" data-frequency="656" data-parent="#notation1"><!-- Hijaz 3 tuned down from 660 -->
-					  <area shape="circle" coords="457,26,13" href="#" alt="F5" class="playNote" data-frequency="695.3" data-parent="#notation1">
+					  <area shape="circle" coords="70,68,13" href="#" alt="La♭" class="playNote" data-frequency="420" data-parent="#notation1">
+					  <area shape="circle" coords="149,60,13" href="#" alt="Si♮" class="playNote" data-frequency="493.33" data-parent="#notation1"><!-- vartiable -->
+					  <area shape="circle" coords="227,51,14" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
+					  <area shape="circle" coords="303,42,13" href="#" alt="Re♭" class="playNote" data-frequency="554" data-parent="#notation1"><!-- Hijaz 2 tuned up from 548 -->
+					  <area shape="circle" coords="380,35,13" href="#" alt="Mi♮" class="playNote" data-frequency="656" data-parent="#notation1"><!-- Hijaz 3 tuned down from 660 -->
+					  <area shape="circle" coords="457,26,13" href="#" alt="Fa" class="playNote" data-frequency="695.3" data-parent="#notation1">
 
 					</map>
                     <p>

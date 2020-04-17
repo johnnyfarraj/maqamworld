@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="jins-page">
 
     <?php
-      $page = "en/jins/mukhalif_sharqi.php";
+      $page = "es/jins/mukhalif_sharqi.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -47,9 +47,9 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="80,87,14" href="#" alt="E4<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
-					  <area shape="circle" coords="155,79,13" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1">
-					  <area shape="circle" coords="233,70,13" href="#" alt="G4♭" class="playNote" data-frequency="365.32" data-parent="#notation1">
+					  <area shape="circle" coords="80,87,14" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
+					  <area shape="circle" coords="155,79,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
+					  <area shape="circle" coords="233,70,13" href="#" alt="Sol♭" class="playNote" data-frequency="365.32" data-parent="#notation1">
 					</map>
 
                     <p>

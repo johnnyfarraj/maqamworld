@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="jins-page">
 
     <?php
-      $page = "en/jins/rast.php";
+      $page = "es/jins/rast.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -46,15 +46,15 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="41,110,12" href="#" alt="A3" class="playNote" data-frequency="220" data-parent="#notation1">
-					  <area shape="circle" coords="121,102,12" href="#" alt="B3<i class='icon-halfflat'></i>" class="playNote" data-frequency="241" data-parent="#notation1"><!--variable-->
-					  <area shape="circle" coords="203,94,14" href="#" alt="C4" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
-					  <area shape="circle" coords="280,85,13" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1">
-					  <area shape="circle" coords="359,77,13" href="#" alt="E4<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
-					  <area shape="circle" coords="436,69,13" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1">
-					  <area shape="circle" coords="514,61,14" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="593,52,12" href="#" alt="A4♭" class="playNote" data-frequency="422" data-parent="#notation1"><!-- variable: Hijaz 2nd -->
-				      <area shape="circle" coords="630,52,12" href="#" alt="A4" class="playNote" data-frequency="440" data-parent="#notation1">
+					  <area shape="circle" coords="41,110,12" href="#" alt="La" class="playNote" data-frequency="220" data-parent="#notation1">
+					  <area shape="circle" coords="121,102,12" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="241" data-parent="#notation1"><!--variable-->
+					  <area shape="circle" coords="203,94,14" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
+					  <area shape="circle" coords="280,85,13" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="359,77,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
+					  <area shape="circle" coords="436,69,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
+					  <area shape="circle" coords="514,61,14" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+					  <area shape="circle" coords="593,52,12" href="#" alt="La♭" class="playNote" data-frequency="422" data-parent="#notation1"><!-- variable: Hijaz 2nd -->
+				      <area shape="circle" coords="630,52,12" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
 					</map>
 
                     <p>

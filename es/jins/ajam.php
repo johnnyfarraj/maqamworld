@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="jins-page">
 
     <?php
-      $page = "en/jins/ajam.php";
+      $page = "es/jins/ajam.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -48,14 +48,14 @@ include($ROOT . 'inc/head.php');
 
                     <!-- Copy this bit -->
                     <map name="notemap">
-					  <area shape="circle" coords="49,119,12" href="#" alt="A3" class="playNote" data-frequency="220" data-parent="#notation1">
-					  <area shape="circle" coords="126,111,12" href="#" alt="B3" class="playNote" data-frequency="247.5" data-parent="#notation1">
-					  <area shape="circle" coords="209,103,14" href="#" alt="C4" class="playNote" data-frequency="260.74" data-parent="#notation1">
-					  <area shape="circle" coords="283,95,13" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1">
-					  <area shape="circle" coords="362,86,13" href="#" alt="E4" class="playNote" data-frequency="328" data-parent="#notation1"><!--variable, tuned down from 330-->
-					  <area shape="circle" coords="439,78,13" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1">
-					  <area shape="circle" coords="518,70,14" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="590,62,12" href="#" alt="A4" class="playNote" data-frequency="440" data-parent="#notation1">
+					  <area shape="circle" coords="49,119,12" href="#" alt="La" class="playNote" data-frequency="220" data-parent="#notation1">
+					  <area shape="circle" coords="126,111,12" href="#" alt="Si" class="playNote" data-frequency="247.5" data-parent="#notation1">
+					  <area shape="circle" coords="209,103,14" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
+					  <area shape="circle" coords="283,95,13" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="362,86,13" href="#" alt="Mi" class="playNote" data-frequency="328" data-parent="#notation1"><!--variable, tuned down from 330-->
+					  <area shape="circle" coords="439,78,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
+					  <area shape="circle" coords="518,70,14" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+					  <area shape="circle" coords="590,62,12" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
 					</map>
 
                     <p>

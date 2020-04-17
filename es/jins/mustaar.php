@@ -46,7 +46,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="66,91,12" href="#" alt="Ré♯" class="playNote" data-frequency="308.25" data-parent="#notation1">
+					  <area shape="circle" coords="66,91,12" href="#" alt="Re♯" class="playNote" data-frequency="308.25" data-parent="#notation1">
 					  <area shape="circle" coords="147,84,14" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable 318~324-->
 					  <area shape="circle" coords="233,76,13" href="#" alt="Fa♯" class="playNote" data-frequency="375" data-parent="#notation1">
 					  <area shape="circle" coords="307,68,14" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
@@ -68,9 +68,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Raqq el-Habib (1944)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Mouhammad al-Qasabgi</span>
+                                    <b>Raqq il-Habib (1944)</b>
+                                    <span>Umm Kulthum</span>
+                                    <span>Music by Muhammad al-Qasabgi</span>
                                 </div>
                             </label>
                         </div>
@@ -81,9 +81,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Arouh Li Min (1958)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Riyad al-Soumbati</span>
+                                    <b>Aruh Li Min (1958)</b>
+                                    <span>Umm Kulthum</span>
+                                    <span>Music by Riyad al-Sunbati</span>
                                 </div>
                             </label>
                         </div>
@@ -95,8 +95,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Habbeit Wala Banshi ‘Alayya (1930)</b>
-                                    <span>Oum Koulthoum (Égypte)</span>
-                                    <span>Musique de Mouhammad al-Qasabgi</span>
+                                    <span>Umm Kulthum</span>
+                                    <span>Music by Muhammad al-Qasabgi</span>
                                 </div>
                             </label>
                         </div>
@@ -107,9 +107,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Houwa el-Hobb Li‘ba</b>
+                                    <b>Huwwa el-Hobb Li‘ba</b>
                                     <span>Aziza Galal</span>
-                                    <span>Musique de Mouhammad al-Mougi</span>
+                                    <span>Music by Muhammad al-Mugi</span>
                                 </div>
                             </label>
                         </div>
@@ -121,7 +121,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mawwal Qadi al-Gharam</b>
-                                    <span>Abdel Hayy Hilmi (Égypte)</span>
+                                    <span>Abdel Hayy Hilmi</span>
                                 </div>
                             </label>
                         </div>
@@ -132,8 +132,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b><a href="../form/improv.php#taqsim">Taqsim</a> sur le <a href = "../instr/oud.php">Oud</a> en <a href="../maqam/sikah.php">Maqam Sikah</a></b>
-                                    <span>Riyad al-Soumbati (Égypte)</span>
+                                    <b>Taqsim Oud in Maqam Sikah</b>
+                                    <span>Riyad al-Sunbati</span>
                                     <span><img src="/img/cd.png"> Taqaseem</span>
                                 </div>
                             </label>
@@ -145,10 +145,10 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b><a href="../form/improv.php#taqsim">Taqsim</a> sur le <a href = "../instr/qanun.php">Qanoun</a> en <a href="../maqam/sikah.php">Maqam Sikah</a></b>
-                                    <span>‘Imad Moulki</span>
-                                    <span>Ensemble Al-Tourath (Syrie)</span>
-                                    <span><img src="/img/cd.png"> Gardens of Jasmin - Maqam Houzam</span>
+                                    <b>Taqsim Qanun in Maqam Sikah</b>
+                                    <span>‘Imad Mulki</span>
+                                    <span>Al-Turath Ensemble</span>
+                                    <span><img src="/img/cd.png"> Gardens of Jasmin - Maqam Huzam</span>
                                 </div>
                             </label>
                         </div>
@@ -159,8 +159,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qassida Qul Lil-Maliha</b>
-                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <b>Qasida Qul Lil-Maliha</b>
+                                    <span>Sabah Fakhri</span>
                                 </div>
                             </label>
                         </div>

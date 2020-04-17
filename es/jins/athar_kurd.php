@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="jins-page">
 
     <?php
-      $page = "en/jins/athar_kurd.php";
+      $page = "es/jins/athar_kurd.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -46,14 +46,14 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="59,118,12" href="#" alt="A3♭" class="playNote" data-frequency="211" data-parent="#notation1"><!-- octave below A4b -->
-					  <area shape="circle" coords="136,110,12" href="#" alt="B3♮" class="playNote" data-frequency="247.5" data-parent="#notation1">
-					  <area shape="circle" coords="218,102,14" href="#" alt="C4" class="playNote" data-frequency="260.74" data-parent="#notation1">
-					  <area shape="circle" coords="293,94,13" href="#" alt="D4♭" class="playNote" data-frequency="274" data-parent="#notation1"> <!-- fine tune minor 2nd (see Kurd)-->
-					  <area shape="circle" coords="370,86,13" href="#" alt="E4♭" class="playNote" data-frequency="309" data-parent="#notation1"><!-- minor 3rd -->
-					  <area shape="circle" coords="447,77,13" href="#" alt="F4♯" class="playNote" data-frequency="375" data-parent="#notation1">
-					  <area shape="circle" coords="526,69,14" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1"><!-- hijazkar tonic -->
-					  <area shape="circle" coords="599,61,12" href="#" alt="A4♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- variable: Hijaz 2nd -->
+					  <area shape="circle" coords="59,118,12" href="#" alt="La♭" class="playNote" data-frequency="211" data-parent="#notation1"><!-- octave below A4b -->
+					  <area shape="circle" coords="136,110,12" href="#" alt="Si♮" class="playNote" data-frequency="247.5" data-parent="#notation1">
+					  <area shape="circle" coords="218,102,14" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
+					  <area shape="circle" coords="293,94,13" href="#" alt="Re♭" class="playNote" data-frequency="274" data-parent="#notation1"> <!-- fine tune minor 2nd (see Kurd)-->
+					  <area shape="circle" coords="370,86,13" href="#" alt="Mi♭" class="playNote" data-frequency="309" data-parent="#notation1"><!-- minor 3rd -->
+					  <area shape="circle" coords="447,77,13" href="#" alt="Fa♯" class="playNote" data-frequency="375" data-parent="#notation1">
+					  <area shape="circle" coords="526,69,14" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1"><!-- hijazkar tonic -->
+					  <area shape="circle" coords="599,61,12" href="#" alt="La♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- variable: Hijaz 2nd -->
 					</map>
 
                     <p>

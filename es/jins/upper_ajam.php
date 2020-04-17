@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="jins-page">
 
     <?php
-      $page = "en/jins/upper_ajam.php";
+      $page = "es/jins/upper_ajam.php";
       include($ROOT . 'inc/menu.php');
     ?>
     
@@ -47,12 +47,12 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="68,81,12" href="#" alt="F4♮" class="playNote" data-frequency="347.65" data-parent="#notation1">
-					  <area shape="circle" coords="149,73,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="225,65,13" href="#" alt="A4" class="playNote" data-frequency="440" data-parent="#notation1">
-					  <area shape="circle" coords="304,56,13" href="#" alt="B4" class="playNote" data-frequency="495" data-parent="#notation1">
-					  <area shape="circle" coords="383,49,14" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1">
-					  <area shape="circle" coords="455,40,12" href="#" alt="D5" class="playNote" data-frequency="586.66" data-parent="#notation1">
+					  <area shape="circle" coords="68,81,12" href="#" alt="Fa♮" class="playNote" data-frequency="347.65" data-parent="#notation1">
+					  <area shape="circle" coords="149,73,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+					  <area shape="circle" coords="225,65,13" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
+					  <area shape="circle" coords="304,56,13" href="#" alt="Si" class="playNote" data-frequency="495" data-parent="#notation1">
+					  <area shape="circle" coords="383,49,14" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
+					  <area shape="circle" coords="455,40,12" href="#" alt="Re" class="playNote" data-frequency="586.66" data-parent="#notation1">
 					</map>
                     
                     <p>

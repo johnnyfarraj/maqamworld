@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="jins-page">
 
     <?php
-      $page = "en/jins/jiharkah.php";
+      $page = "es/jins/jiharkah.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -47,13 +47,13 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="27,91,12" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1">
-					  <area shape="circle" coords="106,82,12" href="#" alt="E4<i class='icon-halfflat'></i>" class="playNote" data-frequency="321.33" data-parent="#notation1"><!--variable-->
-					  <area shape="circle" coords="187,74,14" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1">
-					  <area shape="circle" coords="262,66,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="340,58,13" href="#" alt="A4♮↓" class="playNote" data-frequency="433" data-parent="#notation1"><!--variable-->
-					  <area shape="circle" coords="417,50,13" href="#" alt="B4♭↓" class="playNote" data-frequency="454" data-parent="#notation1"><!--variable-->
-					  <area shape="circle" coords="496,42,14" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1">
+					  <area shape="circle" coords="27,91,12" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="106,82,12" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="321.33" data-parent="#notation1"><!--variable-->
+					  <area shape="circle" coords="187,74,14" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
+					  <area shape="circle" coords="262,66,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+					  <area shape="circle" coords="340,58,13" href="#" alt="La♮↓" class="playNote" data-frequency="433" data-parent="#notation1"><!--variable-->
+					  <area shape="circle" coords="417,50,13" href="#" alt="Si♭↓" class="playNote" data-frequency="454" data-parent="#notation1"><!--variable-->
+					  <area shape="circle" coords="496,42,14" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
 					</map>
 
                     <p>

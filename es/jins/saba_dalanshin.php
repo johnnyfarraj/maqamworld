@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="jins-page">
 
     <?php
-      $page = "en/jins/saba_dalanshin.php";
+      $page = "es/jins/saba_dalanshin.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -46,14 +46,14 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="35,70,12" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="86,70,12" href="#" alt="G4♯" class="playNote" data-frequency="415" data-parent="#notation1"><!--ET???-->
-					  <area shape="circle" coords="133,62,14" href="#" alt="A4" class="playNote" data-frequency="440" data-parent="#notation1">
-					  <area shape="circle" coords="208,55,13" href="#" alt="B4<i class='icon-halfflat'></i>" class="playNote" data-frequency="477" data-parent="#notation1"><!--Bayati 2-->
-					  <area shape="circle" coords="281,46,14" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1"><!-- Hijaz Tonic-->
-					  <area shape="circle" coords="355,38,13" href="#" alt="D5♭" class="playNote" data-frequency="560  " data-parent="#notation1"><!--Hijaz 2-->
-					  <area shape="circle" coords="432,29,13" href="#" alt="E5♮" class="playNote" data-frequency="660" data-parent="#notation1"><!--Hijaz 3-->
-					  <area shape="circle" coords="509,21,13" href="#" alt="F5" class="playNote" data-frequency="695.3" data-parent="#notation1">
+					  <area shape="circle" coords="35,70,12" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+					  <area shape="circle" coords="86,70,12" href="#" alt="Sol♯" class="playNote" data-frequency="415" data-parent="#notation1"><!--ET???-->
+					  <area shape="circle" coords="133,62,14" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
+					  <area shape="circle" coords="208,55,13" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="477" data-parent="#notation1"><!--Bayati 2-->
+					  <area shape="circle" coords="281,46,14" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1"><!-- Hijaz Tonic-->
+					  <area shape="circle" coords="355,38,13" href="#" alt="Re♭" class="playNote" data-frequency="560  " data-parent="#notation1"><!--Hijaz 2-->
+					  <area shape="circle" coords="432,29,13" href="#" alt="Mi♮" class="playNote" data-frequency="660" data-parent="#notation1"><!--Hijaz 3-->
+					  <area shape="circle" coords="509,21,13" href="#" alt="Fa" class="playNote" data-frequency="695.3" data-parent="#notation1">
 					</map>
 
                     <p>

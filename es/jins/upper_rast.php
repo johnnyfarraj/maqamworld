@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="jins-page">
 
     <?php
-      $page = "en/jins/upper_rast.php";
+      $page = "es/jins/upper_rast.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -47,12 +47,12 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="61,84,12" href="#" alt="F4♮" class="playNote" data-frequency="347.65" data-parent="#notation1">
-					  <area shape="circle" coords="144,75,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="219,67,13" href="#" alt="A4" class="playNote" data-frequency="440" data-parent="#notation1">
-					  <area shape="circle" coords="297,58,13" href="#" alt="B4<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!--var-->
-					  <area shape="circle" coords="378,50,14" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1"><!--tonic-->
-					  <area shape="circle" coords="448,42,12" href="#" alt="D5" class="playNote" data-frequency="586.66" data-parent="#notation1">
+					  <area shape="circle" coords="61,84,12" href="#" alt="Fa♮" class="playNote" data-frequency="347.65" data-parent="#notation1">
+					  <area shape="circle" coords="144,75,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+					  <area shape="circle" coords="219,67,13" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
+					  <area shape="circle" coords="297,58,13" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!--var-->
+					  <area shape="circle" coords="378,50,14" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1"><!--tonic-->
+					  <area shape="circle" coords="448,42,12" href="#" alt="Re" class="playNote" data-frequency="586.66" data-parent="#notation1">
 				    </map>
 
                     <p>
