@@ -7,7 +7,7 @@ include('../inc/config.php');
 $page_title = "";
 $page_description = "";
 $page_keywords = "";
-$page_language = "es"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "es";
 include($ROOT . 'inc/head.php');
 
 /* Security for searching */

@@ -6,7 +6,7 @@ include('../inc/config.php');
 /* SEO settings for this page */
 $page_title = "El Mundo del Maqam";
 $page_description = "El Mundo del Maqam";
-$page_keywords = "";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "es";
 include($ROOT . 'inc/head.php');
 ?>

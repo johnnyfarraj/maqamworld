@@ -7,7 +7,7 @@ include('../inc/config.php');
 $page_title = "Publicaciónes de MaqamWorld";
 $page_description = "Publicaciónes de MaqamWorld - Inside Arabic Music";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "es"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "es";
 
 include($ROOT . 'inc/head.php');
 ?>
