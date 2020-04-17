@@ -46,7 +46,7 @@ include($ROOT . 'inc/head.php');
                     </div>
                     
                     <p>
-                        El Katem (del verbo "katama", silenciar) es un tambor de marco pesado con un sonido sordo. El Katem generalmente se aprieta entre las rodillas del jugador y está destinado a jugar con las manos en lugar de con los dedos. La mayoría de los Katems de hoy tienen una cabeza de plástico y son ajustables. El papel principal del Katem es apoyar otros instrumentos en la sección de ritmo acentuando el <strong>dum</strong> y <strong>tak</strong> tomando sonidos básicos con mucha ornamentación.
+                        El Katem (del verbo "katama", silenciar) es un tambor de marco pesado con un sonido sordo. El Katem generalmente se aprieta entre las rodillas del jugador y está destinado a tocar con las manos en lugar de con los dedos. La mayoría de los Katems de hoy tienen una cabeza de plástico y son ajustables. El papel principal del Katem es apoyar otros instrumentos en la sección de ritmo acentuando el <strong>dum</strong> y <strong>tak</strong> tomando sonidos básicos con mucha ornamentación.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=cU1uHX74qkE&t=0s">

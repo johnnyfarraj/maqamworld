@@ -4,8 +4,8 @@
 include('../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "";
-$page_description = "";
+$page_title = "El Mundo del Maqam";
+$page_description = "El Mundo del Maqam";
 $page_keywords = "";
 $page_language = "es";
 include($ROOT . 'inc/head.php');
@@ -23,36 +23,38 @@ include($ROOT . 'inc/head.php');
             <div class="row align-items-center">
                 <div class="col-sm-12">
                     <div class="heading">
-                        <h1>Welcome to the new <span>MaqamWorld</span></h1>
-                        <h3>MaqamWorld is an online resource dedicated to teaching the Arabic Maqam modal system, which is the foundation of traditional Arabic music. This website mainly covers music from the Eastern Mediterranean part of the Arab World (Egypt, Palestine, Jordan, Lebanon and Syria), with a focus on the early to mid-twentieth century period.</h3>
+                        <h1>Bienvenido al nuevo <span>Mundo del Maqam</span></h1>
+                        <h3>
+                            El Mundo del Maqam es un recurso en línea dedicado a la enseñanza del sistema modal árabe Maqam, que es la base de la música árabe tradicional. Este sitio web cubre principalmente música de la parte del Mediterráneo oriental del mundo árabe (Egipto, Palestina, Jordania, Líbano y Siria), con un enfoque en el período de principios a mediados del siglo XX.
+                        </h3>
                     </div>
-
                     <p>
-                    After 17 years in operation, MaqamWorld has been rebuilt with the help of a 2016 grant
-                    from <a href="http://arabculturefund.org/grantees/grantee.php?id=333" target="_blank">The Arab Fund for Arts and Culture (AFAC)</a>.
-                    MaqamWorld includes the following new features:
+                        Después de 17 años de funcionamiento, MaqamWorld se ha reconstruido con la ayuda de una subvención de 2016 del <a href="http://arabculturefund.org/grantees/grantee.php?id=333" target="_blank">Fondo Árabe para las Artes y la Cultura (AFAC)</a>. 
+                    </p>
+                    <p>
+                        MaqamWorld incluye las siguientes nuevas características:
                     </p>
 
                     <ul>
-                        <li>A full translation to 
-                            <a href="/ar/index.php"><strong>Arabic</strong></a>, 
-                            <a href="/fr/index.php"><strong>French</strong></a>, 
-                            <a href="/it/index.php"><strong>Italian</strong></a> and 
-                            <a href="/de/index.php"><strong>German</strong></a> (<a href="/el/index.php"><strong>Greek</strong></a> and Spanish are under construction).</li>
-                        <li>Support of displays of all sizes (especially smart phones).</li>
-                        <li>Google Search.</li>
-                        <li>Updated and more relevant content.</li>
-                        <li>Higher quality images and audio samples.</li>
-                        <li>Better navigation menus and sub-menus.</li>
-                        <li>Clickable notes that generate sound.</li>
-                        <li>A "Contact Us" page for viewer feedback.</li>
+                        <li>Una traducción completa al
+                            <a href="/en/index.php"><strong>inglés</strong></a>, 
+                            <a href="/ar/index.php"><strong>árabe</strong></a>, 
+                            <a href="/fr/index.php"><strong>francés</strong></a>, 
+                            <a href="/it/index.php"><strong>italiano</strong></a>, 
+                            <a href="/de/index.php"><strong>alemán</strong></a> y
+                            <a href="/el/index.php"><strong>griego</strong></a>.
+                        </li>
+                        <li>Soporte de pantallas de todos los tamaños (especialmente teléfonos inteligentes).</li>
+                        <li>Búsqueda de Google.</li>
+                        <li>Contenido actualizado y más relevante.</li>
+                        <li>Imágenes de mayor calidad y muestras de audio.</li>
+                        <li>Mejores menús de navegación y submenús.</li>
+                        <li>Notas cliqueables que generan sonido.</li>
+                        <li>Una página "Contáctenos" para recibir comentarios del espectador.</li>
                     </ul>
 
                     <p>
-                    If you like this website please check out the companion book <a href="book.php">INSIDE ARABIC MUSIC</a>, 
-                    co-authored with my friend Sami Abu Shumays (creator of <a href="http://maqamlessons.com" target="_blank">MaqamLessons</a>).
-                    The book is a comprehensive reference on Arabic Music and was released 
-                    by <a href="https://global.oup.com/academic/product/inside-arabic-music-9780190658366" target="_blank">Oxford University Press</a> in August 2019.
+                        Me complace anunciar la llegada de un libro coescrito con mi amigo Sami Abou Shumays (el creador de <a href="http://maqamlessons.com" target="_blank">MaqamLessons</a>). El libro se titula <a href="book.php">INSIDE ARABIC MUSIC</a>, y acaba de ser publicado en inglés por <a href="https://global.oup.com/academic/product/inside-arabic-music-9780190658366" target="_blank">Oxford University Press</a> en agosto de 2019. El libro será una referencia completa sobre la música árabe y este sitio web será su compañero. Este proyecto de libro también recibió una beca <a href="http://arabculturefund.org/" target="_blank">AFAC</a> en 2012.
                     </p>
 
                     <div class="row">
@@ -61,7 +63,8 @@ include($ROOT . 'inc/head.php');
                                 <img class="card-img-top" src="/img/taoufiq_oud.png" alt="The Arabic Oud">
                                 <div class="card-body">
                                     <h5 class="card-title">Maqam</h5>
-                                    <p class="card-text">Learn about the Arabic Maqam modal system with notated scales and recorded examples.</p>
+                                    <p class="card-text">Aprenda sobre el sistema modal árabe <strong>Maqam</strong> con escalas anotadas y ejemplos registrados.
+                                    </p>
                                     <a href="/es/maqam.php" class="btn btn-primary">Maqam<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
@@ -71,7 +74,8 @@ include($ROOT . 'inc/head.php');
                                 <img class="card-img-top" src="/img/nahat_star.png" alt="The Arabic Oud">
                                 <div class="card-body">
                                     <h5 class="card-title">Jins</h5>
-                                    <p class="card-text">Learn about the <b>Jins</b>, the scale fragment that is the building block of every Maqam.</p>
+                                    <p class="card-text">Aprende sobre los <strong>Jins</strong>, el fragmento de escala que es el bloque de construcción de cada Maqam.
+                                    </p>
                                     <a href="/es/jins.php" class="btn btn-primary">Jins<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
@@ -80,9 +84,10 @@ include($ROOT . 'inc/head.php');
                             <div class="card">
                                 <img class="card-img-top" src="/img/nahat_round.png" alt="The Arabic Oud">
                                 <div class="card-body">
-                                    <h5 class="card-title">Rhythm</h5>
-                                    <p class="card-text">Learn about the Arabic rhythmic cycle called <b>Iqa‘</b>, made of the primitive sounds <em>dum</em> and <em>tak</em>.</p>
-                                    <a href="/es/iqaa.php" class="btn btn-primary">Iqa‘<i class="fa fa-fw fa-angle-right"></i></a>
+                                    <h5 class="card-title">Ritmo</h5>
+                                    <p class="card-text">Aprende sobre el ciclo rítmico árabe llamado <strong>Iqa</strong>, hecho de los sonidos primitivos <em>dum</em> y <em>tak</em>.
+                                    </p>
+                                    <a href="/es/iqaa.php" class="btn btn-primary">Ritmo<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -90,9 +95,10 @@ include($ROOT . 'inc/head.php');
                             <div class="card">
                                 <img class="card-img-top" src="/img/nahat_etching.png" alt="The Arabic Oud">
                                 <div class="card-body">
-                                    <h5 class="card-title">Forms</h5>
-                                    <p class="card-text">Learn about the Arabic music forms, called <b>Qawalib</b>, used in both vocal and instrumental music, composed and improvised.</p>
-                                    <a href="/es/forms.php" class="btn btn-primary">Forms<i class="fa fa-fw fa-angle-right"></i></a>
+                                    <h5 class="card-title">Formas</h5>
+                                    <p class="card-text">Aprenda sobre las formas de la música árabe, llamadas <strong>Qawaleb</strong>, usadas tanto en la música vocal como en la instrumental, compuestas e improvisadas.
+                                    </p>
+                                    <a href="/es/forms.php" class="btn btn-primary">Formas<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -100,9 +106,10 @@ include($ROOT . 'inc/head.php');
                             <div class="card">
                                 <img class="card-img-top" src="/img/nahat_names.png" alt="The Arabic Oud">
                                 <div class="card-body">
-                                    <h5 class="card-title">Instruments</h5>
-                                    <p class="card-text">Learn about the traditional Arabic Instruments, melodic and percussion, as well as Western instruments that have been "Arabized".</p>
-                                    <a href="/es/instr.php" class="btn btn-primary">Instruments<i class="fa fa-fw fa-angle-right"></i></a>
+                                    <h5 class="card-title">Instrumentos</h5>
+                                    <p class="card-text">Aprenda sobre los instrumentos árabes tradicionales, melódicos y de percusión, así como los instrumentos occidentales que han sido "arabizados".
+                                    </p>
+                                    <a href="/es/instr.php" class="btn btn-primary">Instrumentos<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -110,9 +117,10 @@ include($ROOT . 'inc/head.php');
                             <div class="card">
                                 <img class="card-img-top" src="/img/vladimir_tamari.png" alt="The Arabic Oud">
                                 <div class="card-body">
-                                    <h5 class="card-title">Publications</h5>
-                                    <p class="card-text">Learn about the book <strong>Inside Arabic Music</strong> (co-authored with Sami Abu Shumays) that was published in August 2019.</p>
-                                    <a href="/es/book.php" class="btn btn-primary">Publications<i class="fa fa-fw fa-angle-right"></i></a>
+                                    <h5 class="card-title">Publicaciones</h5>
+                                    <p class="card-text">Conozca sobre el libro "<strong>Inside Arabic Music</strong>" (coautor con Sami Abu Shumays) que se publicó en agosto de 2019.
+                                    </p>
+                                    <a href="/es/book.php" class="btn btn-primary">Publicaciones<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
