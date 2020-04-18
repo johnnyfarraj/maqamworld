@@ -57,8 +57,8 @@ include($ROOT . 'inc/head.php');
                       <area shape="circle" coords="304,105,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
                       <area shape="circle" coords="381,113,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
                       <area shape="circle" coords="458,123,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
-                      <area shape="circle" coords="537,131,13" href="#" alt="Reâ™¯" class="playNote" data-frequency="310" data-parent="#notation1"><!-- var sikah leading tone-->
-                      <area shape="circle" coords="589,131,13" href="#" alt="Reâ™®" class="playNote" data-frequency="293.33" data-parent="#notation1">
+                      <area shape="circle" coords="537,131,13" href="#" alt="Re♯" class="playNote" data-frequency="310" data-parent="#notation1"><!-- var sikah leading tone-->
+                      <area shape="circle" coords="589,131,13" href="#" alt="Re♮" class="playNote" data-frequency="293.33" data-parent="#notation1">
                       <area shape="circle" coords="640,139,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
                        <!-- Links -->
                       <area shape="rect" coords="95,6,274,38" href="../jins/upper_rast.php" class="mapLink" data-parent="#notation1">

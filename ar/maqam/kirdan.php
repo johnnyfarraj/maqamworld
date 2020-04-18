@@ -44,14 +44,14 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-	  <area shape="circle" coords="75,81,13" href="#" alt="دو" class="playNote" data-frequency="521.48" data-parent="#notation1"><!--tonic-->
-	  <area shape="circle" coords="148,89,13" href="#" alt="سي<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!--var-->
-	  <area shape="circle" coords="225,97,13" href="#" alt="لا" class="playNote" data-frequency="440" data-parent="#notation1">
-	  <area shape="circle" coords="304,105,13" href="#" alt="صول" class="playNote" data-frequency="391.11" data-parent="#notation1">
-	  <area shape="circle" coords="381,113,13" href="#" alt="فا" class="playNote" data-frequency="347.65" data-parent="#notation1">
-	  <area shape="circle" coords="458,123,13" href="#" alt="مي<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
-	  <area shape="circle" coords="537,131,13" href="#" alt="ري♯" class="playNote" data-frequency="310" data-parent="#notation1"><!-- var sikah leading tone-->
-	  <area shape="circle" coords="589,131,13" href="#" alt="ري♮" class="playNote" data-frequency="293.33" data-parent="#notation1">
+                      <area shape="circle" coords="75,81,13" href="#" alt="دو" class="playNote" data-frequency="521.48" data-parent="#notation1"><!--tonic-->
+                      <area shape="circle" coords="148,89,13" href="#" alt="سي<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!--var-->
+                      <area shape="circle" coords="225,97,13" href="#" alt="لا" class="playNote" data-frequency="440" data-parent="#notation1">
+                      <area shape="circle" coords="304,105,13" href="#" alt="صول" class="playNote" data-frequency="391.11" data-parent="#notation1">
+                      <area shape="circle" coords="381,113,13" href="#" alt="فا" class="playNote" data-frequency="347.65" data-parent="#notation1">
+                      <area shape="circle" coords="458,123,13" href="#" alt="مي<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
+                      <area shape="circle" coords="537,131,13" href="#" alt="ري♯" class="playNote" data-frequency="310" data-parent="#notation1"><!-- var sikah leading tone-->
+                      <area shape="circle" coords="589,131,13" href="#" alt="ري♮" class="playNote" data-frequency="293.33" data-parent="#notation1">
                       <area shape="circle" coords="640,139,13" href="#" alt="دو" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
                        <!-- Links -->
                       <area shape="rect" coords="95,6,274,38" href="../jins/upper_rast.php" class="mapLink" data-parent="#notation1">
@@ -69,9 +69,7 @@ include($ROOT . 'inc/head.php');
 		 اما <strong>مقام سازكار</strong> فهو مشابه لمقام كِردان،
 		لكن درجة السلّم الثانية تُرفع في بعض المقاطع النغمية بحيث يتحوّل الجنس الاول الى <a href="../jins/sazkar.php">جنس سازكار</a> على القرار.
 		</h5>
-		<br>
-
-                    <h5>انظر الى مقامات اخرى في <a href="f_rast.php">عائلة مقام الراست</a>.</h5>
+		<br><h5>انظر الى مقامات اخرى في <a href="f_rast.php">عائلة مقام الراست</a>.</h5>
 		<br>
 
                     <div class="player-area">
