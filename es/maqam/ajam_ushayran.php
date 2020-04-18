@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam ‘Ajam ‘Ushayran";
 $page_description = "Maqam ‘Ajam ‘Ushayran";
-$page_keywords = "arabic, music, arab, world, maqam, jins, ajam ushayran, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "es";
 
 include($ROOT . 'inc/head.php');
@@ -62,7 +62,7 @@ include($ROOT . 'inc/head.php');
 		          </map>
 
                     <p>
-                        Maqam ‘Ajam ‘Ushayran es una versión arcaica de <a href="ajam.php">Maqam ‘Ajam</a> con un sayr diferente, y también tiene un énfasis tonal completamente diferente. En lugar de tonificar su quinto grado de escala (para comenzar los próximos jins), en lugar de eso tonifica sus grados de tercero y sexto.
+                        Maqam ‘Ajam ‘Ushayran es una versión arcaica de <a href="ajam.php">Maqam ‘Ajam</a> con un <em>sayr</em> diferente, y también tiene un énfasis tonal completamente diferente. En lugar de tonificar su quinto grado de escala (para comenzar los próximos jins), en lugar de eso tonifica sus grados de tercero y sexto.
                     </p>
                     <p>
                         La escala de Maqam 'Ajam' Ushayran comienza con la raíz <a href="../jins/ajam.php">Jins ‘Ajam</a> en la tónica, seguida de <a href="../jins/kurd.php">Jins Kurd</a> en el 3er grado y luego en <a href="../jins/nahawand.php">Jins Nahawand</a> a partir del 6º grado.

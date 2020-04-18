@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
 					</map>
                     
                     <p>
-                        El Jins ‘Ajam Alto es una versión de 4 notas de <a href="ajam.php">Jins ‘Ajam</a>, con la característica inusual (compartida por <a href="upper_rast.php">Jins Rast Alto</a>) de que su tónica es el último grado de la escala en lugar del primero. Se escribe aquí con su <em>ghammaz</em> en <strong>Sol</strong> y su tónico en <strong>Do</strong>. Jins ‘Ajam Alto es el segundo jins en <a href="../maqam/ajam.php">Maqam ‘Ajam</a> y también ocurre en el tercer grado del <a href="../maqam/bayati.php">Maqam Bayati</a>.
+                        Jins ‘Ajam Alto es una versión de 4 notas de <a href="ajam.php">Jins ‘Ajam</a>, con la característica inusual (compartida por <a href="upper_rast.php">Jins Rast Alto</a>) de que su tónica es el último grado de la escala en lugar del primero. Se escribe aquí con su <em>ghammaz</em> en <strong>Sol</strong> y su tónico en <strong>Do</strong>. Jins ‘Ajam Alto es el segundo <em>jins</em> en <a href="../maqam/ajam.php">Maqam ‘Ajam</a> y también ocurre en el tercer grado del <a href="../maqam/bayati.php">Maqam Bayati</a>.
                     </p>
                     
                     <div class="player-area">

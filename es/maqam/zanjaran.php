@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Zanjaran";
 $page_description = "Maqam Zanjaran";
-$page_keywords = "arabic, music, arab, world, maqam, jins, zanjaran, hijaz, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "es";
 
 include($ROOT . 'inc/head.php');
@@ -61,7 +61,9 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="415,9,538,40" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
 					</map>
 
-                    <p>Maqam Zanjaran is a variant of <a href="hijaz.php">Maqam Hijaz</a> with <a href="../jins/ajam.php">Jins ‘Ajam</a> as the second jins (on the 4<sup>th</sup> degree) and the root <a href="../jins/hijaz.php">Jins Hijaz</a> on the <em>tonic</em>. </p>
+                    <p>
+                        Maqam Zanjaran es una variante de <a href="hijaz.php">Maqam Hijaz</a> con <a href="../jins/ajam.php">Jins ‘Ajam</a> como segundo <em>jins</em> (en el cuarto grado) y la raíz <a href="../jins/hijaz.php">Jins Hijaz</a> en la tónica.
+                    </p>
 
                     <p>Explora otros maqamat en la <a href="f_hijaz.php">Familia Maqam Hijaz</a>.</p>
 

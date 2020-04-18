@@ -59,7 +59,7 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        El Jins Bayati es un jins de 4 notas. Se escribe aquí con su tónico en <strong>Re</strong> y su <em>ghammaz</em> en <strong>Sol</strong>. Jins Bayati es el primer jins en <a href="../maqam/bayati.php">Maqam Bayati</a>.
+                        Jins Bayati es un <em>jins</em> de 4 notas. Se escribe aquí con su tónico en <strong>Re</strong> y su <em>ghammaz</em> en <strong>Sol</strong>. Jins Bayati es el primer <em>jins</em> en <a href="../maqam/bayati.php">Maqam Bayati</a>.
                     </p>
 
                     <div class="player-area">

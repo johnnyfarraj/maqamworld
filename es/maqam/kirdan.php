@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Kirdan/Maqam Sazkar";
 $page_description = "Maqam Kirdan/Maqam Sazkar";
-$page_keywords = "arabic, music, arab, world, maqam kirdan, maqam sazkar, jins, kirdan, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "es";
 
 include($ROOT . 'inc/head.php');
@@ -64,11 +64,14 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="95,6,274,38" href="../jins/upper_rast.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="420,9,525,38" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="400,173,528,202" href="../jins/sazkar.php" class="mapLink" data-parent="#notation1">
-
 					</map>
-                    <p>Maqam Kirdan is a version of <a href="rast.php">Maqam Rast</a> whose sayr starts on the octave and eventually descends to the tonic. Its scale starts at the bottom with the root <a href="../jins/rast.php">Jins Rast</a> on the tonic, followed by <a href="../jins/upper_rast.php">Jins Upper Rast</a> on the 5<sup>th</sup> degree (with its tonic up on the 8<sup>th</sup> degree).
+
+                    <p>
+                        Maqam Kirdan es una versión de <a href="rast.php">Maqam Rast</a> cuyo <em>sayr</em> comienza en la octava y finalmente desciende a la tónica. Su escala comienza en la parte inferior con la raíz <a href="../jins/rast.php">Jins Rast</a> en la tónica, seguida de <a href="../jins/upper_rast.php">Jins Rast Alto</a> en el quinto grado (con su tónica en el 8º grado).
                     </p>
-                    <p><strong>Maqam Sazkar</strong> is nearly identical to Maqam Kirdan, except for the prominence of the raised 2<sup>nd</sup> degree that occurs in some melodic passages, which results in <a href="../jins/sazkar.php">Jins Sazkar</a> on the tonic.</p>
+                    <p>
+                        <strong>Maqam Sazkar</strong> es casi idéntico a Maqam Kirdan, excepto por la prominencia del segundo grado elevado que se produce en algunos pasajes melódicos, lo que resulta en <a href="../jins/sazkar.php">Jins Sazkar</a> en la tónica.
+                    </p>
 
                     <p>Explora otros maqamat en la <a href="f_rast.php">Familia Maqam Rast</a>.</p>
 

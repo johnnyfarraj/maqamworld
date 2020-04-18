@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        El Jins Hijaz Murassa 'es un jins de 4 notas. Se escribe aquí con su tónico en <strong>Re</strong> y su <em>ghammaz</em> en <strong>Sol</strong>. Jins Hijaz Murassa 'no es parte de ninguna escala del <a href="../maqam.php">maqam</a> y generalmente ocurre como una modulación de <a href="hijaz.php">Jins Hijaz</a>, la mayoría en <a href="../maqam/hijazkar.php">Maqam Hijazkar</a>.
+                        Jins Hijaz Murassa 'es un <em>jins</em> de 4 notas. Se escribe aquí con su tónico en <strong>Re</strong> y su <em>ghammaz</em> en <strong>Sol</strong>. Jins Hijaz Murassa 'no es parte de ninguna escala del <a href="../maqam.php">maqam</a> y generalmente ocurre como una modulación de <a href="hijaz.php">Jins Hijaz</a>, la mayoría en <a href="../maqam/hijazkar.php">Maqam Hijazkar</a>.
                     </p>
 
                     <div class="player-area">

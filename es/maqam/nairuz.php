@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Nairuz/ Maqam Yakah";
 $page_description = "Maqam Nairuz/ Maqam Yakah";
-$page_keywords = "arabic, music, arab, world, maqam, jins, nairuz, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "es";
 
 include($ROOT . 'inc/head.php');
@@ -65,11 +65,16 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="438,5,570,34" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
 					</map>
 
-                    <p>Maqam Nairuz starts with the root <a href="../jins/rast.php">Jins Rast</a> on the <em>tonic</em>, followed by <a href="../jins/bayati.php">Jins Bayati</a> on the 5<sup>th</sup> degree. </p>
-                    <p>Maqam Nairuz is quite rare by itself, but it is prominent as a sayr within <a href="suznak.php">Maqam Suznak</a>/<a href="rast.php">Maqam Rast</a> – because of the affinity between <a href="../jins/bayati.php">Jins Bayati</a> and <a href="../jins/hijaz.php">Jins Hijaz</a> on the 5<sup>th</sup> scale degree.
+                    <p>
+                        Maqam Nairuz comienza con la raíz <a href="../jins/rast.php">Jins Rast</a> en el tónico, seguido de <a href="../jins/bayati.php">Jins Bayati</a> en el quinto grado.
+                    </p>
+                    <p>
+                        Maqam Nairuz es bastante raro por sí mismo, pero es prominente <em>sayr</em> dentro de <a href="suznak.php">Maqam Suznak</a>/<a href="rast.php">Maqam Rast</a>, debido a la afinidad entre <a href="../jins/bayati.php">Jins Bayati</a> y <a href="../jins/hijaz.php">Jins Hijaz</a> en el quinto grado.
                     </p>
                     
-                    <p><strong>Maqam Yakah</strong> is an archaic version of Maqam Nairuz, based on note G3 in the Arabic archaic 24-tone scale (named “Yakah”) rather than note C4.</p>
+                    <p>
+                        <strong>Maqam Yakah</strong> es una versión arcaica de Maqam Nairuz, basada en la nota Sol3 en la escala arcaica de 24 tonos árabe (llamada <strong>Yakah</strong>) en lugar de la nota Do4.
+                    </p>
 
                     <p>Explora otros maqamat en la <a href="f_rast.php">Familia Maqam Rast</a>.</p>
 

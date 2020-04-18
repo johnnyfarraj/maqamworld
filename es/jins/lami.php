@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Jins Lami</h1>
-                        <h3>Un jins de 4 notas</h3>
+                        <h3>Un <em>jins</em> de 4 notas</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Jins</a>
                     <div class="clearfix"></div>
@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        El Jins Lami es un jins de 4 notas. Se escribe aquí con su tónico en Re y su <em>ghammaz</em> en <strong>Sol</strong>. Jins Lami es el primer jins en <a href="../maqam/lami.php">Maqam Lami</a>.
+                        Jins Lami es un <em>jins</em> de 4 notas. Se escribe aquí con su tónico en Re y su <em>ghammaz</em> en <strong>Sol</strong>. Jins Lami es el primer <em>jins</em> en <a href="../maqam/lami.php">Maqam Lami</a>.
                     </p>
 
                     <div class="player-area">

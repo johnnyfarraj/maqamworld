@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Sikah";
 $page_description = "Maqam Sikah";
-$page_keywords = "arabic, music, arab, world, maqam, jins, sikah, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "es";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Sikah</h1>
-                        <h3>El principal maqam en la <a href="f_sikah.php">Familia Maqam Sikah</a></h3>
+                        <h3>El principal <em>maqam</em> en la <a href="f_sikah.php">Familia Maqam Sikah</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <div class="clearfix"></div>
@@ -60,9 +60,10 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="95,14,218,43" href="../jins/sikah.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="260,10,444,43" href="../jins/upper_rast.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="494,7,600,35" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
-
 					</map>
-                    <p>Maqam Sikah is a rare member of the Sikah family. Its scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the <em>tonic</em>, followed by <a href="../jins/upper_rast.php">Jins Upper Rast</a> on the 3<sup>rd</sup> degree (with its tonic on the 6<sup>th</sup> degree) then <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree (which is a secondary ghammaz).
+
+                    <p>
+                        Maqam Sikah es un miembro poco común de la familia Sikah. Su escala comienza con la raíz <a href="../jins/sikah.php">Jins Sikah</a> en la tónica, seguida de <a href="../jins/upper_rast.php">Jins Rast Alto</a> en el 3er grado (con su tónica en el 6º grado) y luego <a href="../jins/rast.php">Jins Rast</a> en el 6º grado (que es un <em>ghammaz</em> secundario).
                     </p>
                     
                     <p>Explora otros maqamat en la <a href="f_sikah.php">Familia Maqam Sikah</a>.</p>

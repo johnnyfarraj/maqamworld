@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam ‘Ushaq Masri";
 $page_description = "Maqam ‘Ushaq Masri";
-$page_keywords = "arabic, music, arab, world, maqam, jins, nahawand murassaa, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "es";
 
 include($ROOT . 'inc/head.php');
@@ -60,9 +60,11 @@ include($ROOT . 'inc/head.php');
                        <!-- Links -->
                       <area shape="rect" coords="114,10,292,39" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="414,9,548,40" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
-
 					</map>
-                    <p>Maqam ‘Ushaq Masri is a variation of <a href="nahawand.php">Maqam Nahawand</a> with <a href="../jins/bayati.php">Jins Bayati</a> on the 5<sup>th</sup> degree, above the root <a href="../jins/nahawand.php">Jins Nahawand</a> on the 1<sup>st</sup> degree.</p>
+
+                    <p>
+                        Maqam 'Ushaq Masri es una variación de <a href="nahawand.php">Maqam Nahawand</a> con <a href="../jins/bayati.php">Jins Bayati</a> en el quinto grado, por encima de la raíz <a href="../jins/nahawand.php">Jins Nahawand</a> en el primer grado.
+                    </p>
 
                     <p>Explora otros maqamat en la <a href="f_nahawand.php">Familia Maqam Nahawand</a>.</p>
                     

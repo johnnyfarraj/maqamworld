@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Athar Kurd";
 $page_description = "Maqam Athar Kurd";
-$page_keywords = "arabic, music, arab, world, maqam, jins, athar_kurd, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "es";
 
 include($ROOT . 'inc/head.php');
@@ -62,7 +62,7 @@ include($ROOT . 'inc/head.php');
 	               </map>
 
                     <p>
-                        Maqam Athar Kurd es un maqam muy poco usado que parece ser un desarrollo del siglo XX. Su escala comienza con <a href="../jins/athar_kurd.php">Athar Kurd</a> en la tónica seguido de <a href="../jins/hijazkar.php">Jins Hijazkar</a> centrado en el quinto grado.
+                        Maqam Athar Kurd es un <em>maqam</em> muy poco usado que parece ser un desarrollo del siglo XX. Su escala comienza con <a href="../jins/athar_kurd.php">Athar Kurd</a> en la tónica seguido de <a href="../jins/hijazkar.php">Jins Hijazkar</a> centrado en el quinto grado.
 		            </p>
                     <p>
                         La escala Maqam Athar Kurd es un híbrido entre <a href="nawa_athar.php">Maqam Nawa Athar</a> y <a href="kurd.php">Maqam Kurd</a>, de ahí su nombre.

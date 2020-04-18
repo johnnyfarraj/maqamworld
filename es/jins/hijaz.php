@@ -58,7 +58,7 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        El Jins Hijaz es un jins de 4 notas. Se escribe aquí con su tónico en <strong>Re</strong> y su <em>ghammaz</em> en <strong>Sol</strong>. El intervalo entre los grados 2&deg; y 3&deg; generalmente se juega más pequeño de lo indicado anotando el 2&deg; poco y bajando el 3&deg; poco. Jins Hijaz es el primer jins en <a href="../maqam/hijaz.php">Maqam Hijaz</a>, <a href="../maqam/hijazkar.php">Maqam Hijazkar</a> y <a href="../maqam/zanjaran.php">Maqam Zanjaran</a>.
+                        Jins Hijaz es un <em>jins</em> de 4 notas. Se escribe aquí con su tónico en <strong>Re</strong> y su <em>ghammaz</em> en <strong>Sol</strong>. El intervalo entre los grados 2&deg; y 3&deg; generalmente se juega más pequeño de lo indicado anotando el 2&deg; poco y bajando el 3&deg; poco. Jins Hijaz es el primer <em>jins</em> en <a href="../maqam/hijaz.php">Maqam Hijaz</a>, <a href="../maqam/hijazkar.php">Maqam Hijazkar</a> y <a href="../maqam/zanjaran.php">Maqam Zanjaran</a>.
                     </p>
 
                     <div class="player-area">

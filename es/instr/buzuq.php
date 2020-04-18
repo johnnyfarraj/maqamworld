@@ -94,7 +94,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Matar Muhammad</b>
-                                    <span>The Lebanese Buzuq virtuoso Matar Muhammad plays a Buzuq Taqism in a live concert. Muhammad's taqasim put El Buzuq on par with any of the other traditional Arabic instruments for their complexity, technique, ornamentation, maqam modulations and length.</span>
+                                    <span>The Lebanese Buzuq virtuoso Matar Muhammad plays a Buzuq Taqism in a live concert. Muhammad's taqasim put El Buzuq on par with any of the other traditional Arabic instruments for their complexity, technique, ornamentation, <em>maqam</em> modulations and length.</span>
                                 </div>
                             </label>
                         </div>

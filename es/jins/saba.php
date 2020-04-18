@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
 					</map>
                     
                     <p>
-                        El Jins Saba tiene un tamaño ambiguo. Se escribe aquí con su tónico en <strong>Re</strong> y dos posibilidades de <em>ghammaz</em>: el 3er grado (anotado en <strong>Fa</strong>) o el 6to grado (anotado en <strong>Si</strong>&#x266d;). Jins Saba es el primer jins en <a href="../maqam/saba.php">Maqam Saba</a>.
+                        Jins Saba tiene un tamaño ambiguo. Se escribe aquí con su tónico en <strong>Re</strong> y dos posibilidades de <em>ghammaz</em>: el 3er grado (anotado en <strong>Fa</strong>) o el 6to grado (anotado en <strong>Si</strong>&#x266d;). Jins Saba es el primer <em>jins</em> en <a href="../maqam/saba.php">Maqam Saba</a>.
                     </p>
 
                     <div class="player-area">

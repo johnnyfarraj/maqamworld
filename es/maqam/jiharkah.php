@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        Maqam Jiharkah es un maqam que suena algo raro dado que que comienza con <a href="../jins/jiharkah.php">Jins Jiharkah</a> en el tónico, luego en el <a href="../jins/upper_rast.php">Jins Rast Alto</a> en el 5º grado (con su tónica en el 8º grado).
+                        Maqam Jiharkah es un <em>maqam</em> que suena algo raro dado que que comienza con <a href="../jins/jiharkah.php">Jins Jiharkah</a> en el tónico, luego en el <a href="../jins/upper_rast.php">Jins Rast Alto</a> en el 5º grado (con su tónica en el 8º grado).
                     </p>
                     
                     <p>Maqam Jiharkah no es miembro de una familia maqam.</p>

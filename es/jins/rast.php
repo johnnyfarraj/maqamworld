@@ -58,7 +58,7 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        El Jins Rast es un jins de 5 notas muy popular. Se escribe aquí con su tónico en <strong>Do</strong> y su <em>ghammaz</em> en <strong>Sol</strong>. Jins Rast es el primer jins en <a href="../maqam/rast.php">Maqam Rast</a>, <a href="../maqam/suznak.php">Maqam Suznak</a>, y otros maqamat en la <a href="../maqam/f_rast.php">Familia Maqam Rast</a>.
+                        Jins Rast es un <em>jins</em> de 5 notas muy popular. Se escribe aquí con su tónico en <strong>Do</strong> y su <em>ghammaz</em> en <strong>Sol</strong>. Jins Rast es el primer <em>jins</em> en <a href="../maqam/rast.php">Maqam Rast</a>, <a href="../maqam/suznak.php">Maqam Suznak</a>, y otros maqamat en la <a href="../maqam/f_rast.php">Familia Maqam Rast</a>.
                     </p>
 
                     <div class="player-area">

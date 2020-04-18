@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Nawa Athar";
 $page_description = "Maqam Nawa Athar";
-$page_keywords = "arabic, music, arab, world, maqam, jins, nawa_athar, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "es";
 
 include($ROOT . 'inc/head.php');
@@ -59,9 +59,11 @@ include($ROOT . 'inc/head.php');
                       <!-- Links -->
                       <area shape="rect" coords="129,6,260,36" href="../jins/nikriz.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="327,147,480,180" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
-
 					</map>
-                    <p>Maqam Nawa Athar is another popular maqam in the Nikriz Family. Its scale starts with the root <a href="../jins/nikriz.php">Jins Nikriz</a> on the <em>tonic</em>, followed by <a href="../jins/hijazkar.php">Jins Hijazkar</a> centered on the 5<sup>th</sup> degree. </p>
+
+                    <p>
+                        Maqam Nawa Athar es otro <em>maqam</em> popular en la familia Nikriz. Su escala comienza con la raíz <a href="../jins/nikriz.php">Jins Nikriz</a> en la tónica, seguida de <a href="../jins/hijazkar.php">Jins Hijazkar</a> centrada en el quinto grado.
+                    </p>
 
                     <p>Explora otros maqamat en la <a href="f_nikriz.php">Familia Maqam Nikriz</a>.</p>
                     

@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
 				    </map>
 
                     <p>
-                        El Jins Rast Alto es una versión de 4 notas de <a href="rast.php">Jins Rast</a>, con la característica inusual (compartida por <a href="upper_ajam.php">Jins ‘Ajam Alto</a>) de que su tónica es el último grado en la escala en lugar del primero. Se escribe aquí con su <em>ghammaz</em> en <strong>Sol</strong> y su tónico en <strong>Do</strong>. Jins Rast Alto es el segundo jins en <a href="../maqam/rast.php">Maqam Rast</a> y también ocurre en el quinto grado del <a href="../maqam/jiharkah.php">Maqam Jiharkah</a>.
+                        Jins Rast Alto es una versión de 4 notas de <a href="rast.php">Jins Rast</a>, con la característica inusual (compartida por <a href="upper_ajam.php">Jins ‘Ajam Alto</a>) de que su tónica es el último grado en la escala en lugar del primero. Se escribe aquí con su <em>ghammaz</em> en <strong>Sol</strong> y su tónico en <strong>Do</strong>. Jins Rast Alto es el segundo <em>jins</em> en <a href="../maqam/rast.php">Maqam Rast</a> y también ocurre en el quinto grado del <a href="../maqam/jiharkah.php">Maqam Jiharkah</a>.
                     </p>
 
                     <div class="player-area">

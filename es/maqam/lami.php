@@ -60,7 +60,7 @@ include($ROOT . 'inc/head.php');
 				     </map>
 
                     <p>
-                        Maqam Lami es un maqam poco usado en el Medio Oriente y fue tomado del repertorio iraquí. Su escala comienza con <a href="../jins/lami.php">Jins Lami</a> en la tónica, seguido por <a href="../jins/kurd.php">Jins Kurd</a> en 4to grado.
+                        Maqam Lami es un <em>maqam</em> poco usado en el Medio Oriente y fue tomado del repertorio iraquí. Su escala comienza con <a href="../jins/lami.php">Jins Lami</a> en la tónica, seguido por <a href="../jins/kurd.php">Jins Kurd</a> en 4to grado.
                     </p>
                     <p>Maqam Lami no es miembro de una familia maqam.</p>
 

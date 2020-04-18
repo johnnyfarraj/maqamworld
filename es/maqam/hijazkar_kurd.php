@@ -62,9 +62,11 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="170,8,322,38" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="634,11,746,40" href="../jins/kurd.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="323,146,495,172" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
-
 					</map>
-                    <p>Maqam Hijazkar Kurd is an archaic version of <a href="kurd.php">Maqam Kurd</a> with <a href="../jins/hijazkar.php">Jins Hijazkar</a> on the octave. Its scale starts with the root <a href="../jins/kurd.php">Jins Kurd</a> on the <em>tonic</em> followed by <a href="../jins/nahawand.php">Jins Nahawand</a> on the 4<sup>th</sup> degree.</p>
+
+                    <p>
+                        Maqam Hijazkar Kurd es una versión arcaica de <a href="kurd.php">Maqam Kurd</a> con <a href="../jins/hijazkar.php">Jins Hijazkar</a> en la octava. Su escala comienza con la raíz <a href="../jins/kurd.php">Jins Kurd</a> en la tónica seguida por <a href="../jins/nahawand.php">Jins Nahawand</a> en el cuarto grado.
+                    </p>
 
                     <p>Explora otros maqamat en la <a href="f_kurd.php">Familia Maqam Kurd</a>.</p>
 

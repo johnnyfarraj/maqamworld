@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Kurd</h1>
-                        <h3>El principal maqam en la <a href="f_kurd.php">Familia Maqam Kurd</a></h3>
+                        <h3>El principal <em>maqam</em> en la <a href="f_kurd.php">Familia Maqam Kurd</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <div class="clearfix"></div>
@@ -61,7 +61,9 @@ include($ROOT . 'inc/head.php');
 
 				     </map>
 
-                    <p>Maqam Kurd is the main maqam in the Kurd Family. Its scale starts with the root <a href="../jins/kurd.php">Jins Kurd</a> on the <em>tonic</em>, followed by <a href="../jins/nahawand.php">Jins Nahawand</a> on the 4<sup>th</sup> degree.</p>
+                    <p>
+                        Maqam Kurd es el principal <em>maqam</em> en la Familia Kurd. Su escala comienza con la raíz <a href="../jins/kurd.php">Jins Kurd</a> en la tónica, seguida de <a href="../jins/nahawand.php">Jins Nahawand</a> en el cuarto grado.
+                    </p>
 
                     <p>Explora otros maqamat en la <a href="f_kurd.php">Familia Maqam Kurd</a>.</p>
 

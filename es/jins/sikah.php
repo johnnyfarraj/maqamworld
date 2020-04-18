@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        El Jins Sikah es un jins de 3 notas. Se escribe aquí con su tónico en <strong>Mi</strong><i class='icon-halfflat'></i> y su <em>ghammaz</em> en <strong>Sol</strong>. Jins Sikah es el primer jins en <a href="../maqam/sikah.php">Maqam Sikah</a>, <a href="../maqam/huzam.php">Maqam Huzam</a>, <a href="../maqam/iraq.php">Maqam ‘Iraq</a> y <a href="../maqam/bastanikar.php">Maqam Bastanikar</a>.
+                        Jins Sikah es un <em>jins</em> de 3 notas. Se escribe aquí con su tónico en <strong>Mi</strong><i class='icon-halfflat'></i> y su <em>ghammaz</em> en <strong>Sol</strong>. Jins Sikah es el primer <em>jins</em> en <a href="../maqam/sikah.php">Maqam Sikah</a>, <a href="../maqam/huzam.php">Maqam Huzam</a>, <a href="../maqam/iraq.php">Maqam ‘Iraq</a> y <a href="../maqam/bastanikar.php">Maqam Bastanikar</a>.
                     </p>
 
                     <div class="player-area">

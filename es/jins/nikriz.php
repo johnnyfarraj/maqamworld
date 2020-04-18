@@ -60,7 +60,7 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        El Jins Nikriz es un jins de 5 notas. Se escribe aquí con su tónico en <strong>Do</strong> y su <em>ghammaz</em> en <strong>Sol</strong>. Jins Nikriz es el primer jins en <a href="../maqam/nikriz.php">Maqam Nikriz</a> y <a href="../maqam/nawa_athar.php">Maqam Nawa Athar</a>.
+                        Jins Nikriz es un <em>jins</em> de 5 notas. Se escribe aquí con su tónico en <strong>Do</strong> y su <em>ghammaz</em> en <strong>Sol</strong>. Jins Nikriz es el primer <em>jins</em> en <a href="../maqam/nikriz.php">Maqam Nikriz</a> y <a href="../maqam/nawa_athar.php">Maqam Nawa Athar</a>.
                     </p>
 
                     <div class="player-area">

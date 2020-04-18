@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Bayati";
 $page_description = "Maqam Bayati";
-$page_keywords = "arabic, music, arab, world, maqam, jins, bayati, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "es";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Bayati</h1>
-                        <h3>El principal maqam en la <a href="f_bayati.php">Familia Maqam Bayati</a></h3>
+                        <h3>El principal <em>maqam</em> en la <a href="f_bayati.php">Familia Maqam Bayati</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <div class="clearfix"></div>
@@ -67,7 +67,7 @@ include($ROOT . 'inc/head.php');
                     </map>
                     
                     <p>
-                        Maqam Bayati es uno de los maqamat más populares y populares del repertorio árabe. También es el principal maqam en la familia Bayati.
+                        Maqam Bayati es uno de los maqamat más populares y populares del repertorio árabe. También es el principal <em>maqam</em> en la familia Bayati.
                     </p>
                     <p>
                         Su escala comienza con <a href="../jins/bayati.php">Jins Bayati</a> en la tónica seguida por <a href="../jins/nahawand.php">Jins Nahawand</a> o <a href="../jins/rast.php">Jins Rast</a> en 4º grado.

@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Rast";
 $page_description = "Maqam Rast";
-$page_keywords = "arabic, music, arab, world, maqam, jins, rast, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "es";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Rast</h1>
-                        <h3>El principal maqam en la <a href="f_rast.php">Familia Maqam Rast</a></h3>
+                        <h3>El principal <em>maqam</em> en la <a href="f_rast.php">Familia Maqam Rast</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <div class="clearfix"></div>
@@ -63,10 +63,12 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="160,6,273,37" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="400,6,586,37" href="../jins/upper_rast.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="637,11,820,39" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
-
 					</map>
-                    <p>Maqam Rast is the main maqam in the Rast Family, and by far one of the most popular and common maqamat in the Arabic repertory.
-                    Its scale starts with the root <a href="../jins/rast.php">Jins Rast</a> on the <em>tonic</em>, followed on the 5<sup>th</sup> degree by either <a href="../jins/upper_rast.php">Jins Upper Rast</a> (with its tonic up on the 8<sup>th</sup> degree) or <a href="../jins/nahawand.php">Jins Nahawand</a>.
+
+                    <p>
+                        Maqam Rast es el principal <em>maqam</em> en la Familia Rast y, por mucho, uno de los maqamat más populares en el repertorio árabe.</p>
+                    <p>
+                        Su escala comienza con la raíz <a href="../jins/rast.php">Jins Rast</a> en la tónica, seguida en el quinto grado por <a href="../jins/upper_rast.php">Jins Rast Alto</a> (con su tónica en el octavo grado) o <a href="../jins/nahawand.php">Jins Nahawand</a>.
                     </p>
 
                     <p>Explora otros maqamat en la <a href="f_rast.php">Familia Maqam Rast</a>.</p>

@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Shawq Afza";
 $page_description = "Maqam Shawq Afza";
-$page_keywords = "arabic, music, arab, world, maqam, jins, shawq afza, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "es";
 
 include($ROOT . 'inc/head.php');
@@ -59,7 +59,10 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="137,5,263,36" href="../jins/ajam.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="425,5,544,36" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
 					</map>
-                    <p>Maqam Shawq Afza is the most common variant of <a href="ajam.php">Maqam ‘Ajam</a>. Its scale starts with the root <a href="../jins/ajam.php">Jins ‘Ajam</a> on the <em>tonic</em>, while <a href="../jins/hijaz.php">Jins Hijaz</a> on the 5<sup>th</sup> degree is its distinguishing characteristic, as well as a frequent <a href="../jins/saba_dalanshin.php">Jins Saba Dalanshin</a> modulation on the 3<sup>rd</sup>/5<sup>th</sup> degrees.</p>
+                    
+                    <p>
+                        Maqam Shawq Afza es la variante más común de<a href="ajam.php">Maqam ‘Ajam</a>. Su escala comienza con la raíz de <a href="../jins/ajam.php">Jins ‘Ajam</a> en la tónica, mientras que <a href="../jins/hijaz.php">Jins Hijaz</a> en el quinto grado es su característica distintiva, así como una frecuente modulación de <a href="../jins/saba_dalanshin.php">Jins Saba Dalanshin</a> en los grados tercero / quinto.
+                    </p>
 
                     <p>Explora otros maqamat en la <a href="f_ajam.php">Familia Maqam ‘Ajam</a>.</p>
                     

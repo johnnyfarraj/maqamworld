@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam ‘Ajam</h1>
-                        <h3>El principal maqam en la <a href="f_ajam.php">Familia Maqam ‘Ajam</a></h3>
+                        <h3>El principal <em>maqam</em> en la <a href="f_ajam.php">Familia Maqam ‘Ajam</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <div class="clearfix"></div>
@@ -65,7 +65,7 @@ include($ROOT . 'inc/head.php');
 		      </map>
 
 	               <p>
-                       Maqam ‘Ajam (también conocido como egipcio ‘Ajam) es el principal maqam en la <a href="f_ajam.php">Familia Maqam ‘Ajam</a>, y comienza con la raíz de <a href="../jins/ajam.php">Jins ‘Ajam</a> en la tónica, seguido de <a href="../jins/upper_ajam.php">Jins ‘Ajam Alto</a> en el quinto grado (con su tónico arriba en el octavo grado) o <a href="../jins/nahawand.php">Jins Nahawand</a> en el quinto grado.
+                       Maqam ‘Ajam (también conocido como egipcio ‘Ajam) es el principal <em>maqam</em> en la <a href="f_ajam.php">Familia Maqam ‘Ajam</a>, y comienza con la raíz de <a href="../jins/ajam.php">Jins ‘Ajam</a> en la tónica, seguido de <a href="../jins/upper_ajam.php">Jins ‘Ajam Alto</a> en el quinto grado (con su tónico arriba en el octavo grado) o <a href="../jins/nahawand.php">Jins Nahawand</a> en el quinto grado.
                     </p>
                     
                     <p>Explora otros maqamat en la <a href="f_ajam.php">Familia Maqam ‘Ajam</a>.</p>

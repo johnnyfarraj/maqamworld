@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Bayati Shuri";
 $page_description = "Maqam Bayati Shuri";
-$page_keywords = "arabic, music, arab, world, maqam, jins, bayati shuri, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "es";
 
 include($ROOT . 'inc/head.php');
@@ -65,7 +65,7 @@ include($ROOT . 'inc/head.php');
                         Maqam Bayati Shuri es una variación de <a href="bayati.php">Maqam Bayati</a> con un quinto grado bajado. Comienza con la raíz <a href="../jins/bayati.php">Jins Bayati</a> en la tónica seguida por <a href="../jins/hijaz.php">Jins Hijaz</a> en 4º grado.
                     </p>
                     <p>
-                        Es un maqam muy popular por derecho propio, especialmente en las <a href="../form/vocal_comp.php">composiciones vocales</a> de Muwashahat y Adwar.
+                        Es un <em>maqam</em> muy popular por derecho propio, especialmente en las <a href="../form/vocal_comp.php">composiciones vocales</a> de Muwashahat y Adwar.
                     </p>
                     
                     <p>Explora otros maqamat en la <a href="f_bayati.php">Familia Maqam Bayati</a>.</p>

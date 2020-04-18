@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Awj ‘Iraq";
 $page_description = "Maqam Awj ‘Iraq";
-$page_keywords = "arabic, music, arab, world, maqam, jins, sikah, awj iraq, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "es";
 
 include($ROOT . 'inc/head.php');
@@ -64,7 +64,7 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        Maqam Awj ‘Iraq es una versión de Maqam <a href="huzam.php">Maqam Rahat al-Arwah/Maqam Huzam</a> y <a href="iraq.php">Maqam ‘Iraq</a>, cuya sayr comienza en el tónico de la octava y desciende a la tónica, aunque comparte la mayoría de los mismos ajnas que <a href="huzam.php">Maqam Huzam</a>.
+                        Maqam Awj ‘Iraq es una versión de Maqam <a href="huzam.php">Maqam Rahat al-Arwah/Maqam Huzam</a> y <a href="iraq.php">Maqam ‘Iraq</a>, cuya <em>sayr</em> comienza en el tónico de la octava y desciende a la tónica, aunque comparte la mayoría de los mismos ajnas que <a href="huzam.php">Maqam Huzam</a>.
                     </p>
                     <p>
                         La escala de Maqam Awj ‘Iraq comienza con la raíz <a href="../jins/sikah.php">Jins Sikah</a> en la tónica, luego <a href="../jins/hijaz.php">Jins Hijaz</a> en el tercer grado seguido de otro <a href="../jins/sikah.php">Jins Sikah</a> en el octavo grado.

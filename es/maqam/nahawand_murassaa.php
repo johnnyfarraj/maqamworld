@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Maqam Nahawand Murassa‘";
 $page_description = "Maqam Maqam Nahawand Murassa‘";
-$page_keywords = "arabic, music, arab, world, maqam, jins, nahawand murassaa, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "es";
 
 include($ROOT . 'inc/head.php');
@@ -59,9 +59,10 @@ include($ROOT . 'inc/head.php');
                        <!-- Links -->
                       <area shape="rect" coords="53,7,331,36" href="../jins/nahawand_murassaa.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="337,141,454,174" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
-
 					</map>
-                    <p>Maqam Nahawand Murassa‘ is is basically <a href="nahawand.php">Maqam Nahawand</a> with a lowered 5<sup>th</sup> scale degree. Its scale starts with <a href="../jins/nahawand_murassaa.php">Jins Nahawand Murassa‘</a> on the <em>tonic</em>, overlapped by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 4<sup>th</sup> degree.
+
+                    <p>
+                        Maqam Nahawand Murassa’ es básicamente <a href="nahawand.php">Maqam Nahawand</a> con un grado de 5ta escala más bajo. Su escala comienza con <a href="../jins/nahawand_murassaa.php">Jins Nahawand Murassa‘</a> en la tónica, superpuesta por <a href="../jins/hijaz.php">Jins Hijaz</a> en el cuarto grado.
                     </p>
 
                     <p>Explora otros maqamat en la <a href="f_nahawand.php">Familia Maqam Nahawand</a>.</p>

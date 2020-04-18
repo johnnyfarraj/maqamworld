@@ -41,16 +41,16 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <p>
-                        El Jins (plural Ajnas) es un fragmento de escala <a href="maqam.php">maqam</a> de 3, 4 o 5 notas. El jins es la unidad melódica básica en la música árabe, ya que un maqam es realmente un camino entre muchos ajnas. Cada jins se define por sus intervalos, que no cambian cuando se transpone y le dan su carácter distintivo y reconocible.
+                        El Jins (plural Ajnas) es un fragmento de escala <a href="maqam.php">maqam</a> de 3, 4 o 5 notas. El <em>jins</em> es la unidad melódica básica en la música árabe, ya que un <em>maqam</em> es realmente un camino entre muchos ajnas. Cada <em>jins</em> se define por sus intervalos, que no cambian cuando se transpone y le dan su carácter distintivo y reconocible.
                     </p>
                     <p>
-                        La tónica de un jins es la nota del énfasis melódico principal, la nota a la que la melodía regresa para su resolución. Esta suele ser la primera nota en la escala jins. El tono principal es la nota inmediatamente debajo de la tónica de un jins. El ghammaz es la nota más importante del énfasis melódico (además del tónico), así como el punto de partida más común de un nuevo jins (el cambio a un nuevo jins o maqam se llama modulación).
+                        La tónica de un <em>jins</em> es la nota del énfasis melódico principal, la nota a la que la melodía regresa para su resolución. Esta suele ser la primera nota en la escala jins. El tono principal es la nota inmediatamente debajo de la tónica de un jins. El ghammaz es la nota más importante del énfasis melódico (además del tónico), así como el punto de partida más común de un nuevo <em>jins</em> (el cambio a un nuevo <em>jins</em> o <em>maqam</em> se llama modulación).
                     </p>
                     <p>
-                        El tamaño de un jins es el número de notas entre el tónico y el <em>ghammaz</em>. Estas notas se denominan escala básica de los jins (o simplemente escala). Fuera de la escala básica (a cada lado) hay notas que forman parte del vocabulario melódico de los jins. Estas notas se llaman el equipaje jins. La escala básica más el equipaje jins conforman la escala extendida de los jins.
+                        El tamaño de un <em>jins</em> es el número de notas entre el tónico y el <em>ghammaz</em>. Estas notas se denominan escala básica de los <em>jins</em> (o simplemente escala). Fuera de la escala básica (a cada lado) hay notas que forman parte del vocabulario melódico de los jins. Estas notas se llaman el equipaje jins. La escala básica más el equipaje <em>jins</em> conforman la escala extendida de los jins.
                     </p>
                     <p>
-                        Cada jins muestra la escala básica anotada usando notas grandes, con la tónica y el ghammaz como notas completas. Las notas de equipaje de jins se muestran en un tamaño más pequeño y, a veces, un jins incluye múltiples opciones para algunas notas en el equipaje de jins.
+                        Cada <em>jins</em> muestra la escala básica anotada usando notas grandes, con la tónica y el <em>ghammaz</em> como notas completas. Las notas de equipaje de <em>jins</em> se muestran en un tamaño más pequeño y, a veces, un <em>jins</em> incluye múltiples opciones para algunas notas en el equipaje de jins.
                     </p>
                     <p>
                         Puede comenzar a explorar ajnas usando el Índice de Jins (ordenados alfabéticamente) o usando la tabla a continuación (agrupada por tamaño):

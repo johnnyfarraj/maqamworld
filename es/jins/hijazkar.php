@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
 
 					</map>
                     <p>
-                        El Jins Hijazkar no tiene <em>ghammaz</em>, y por lo tanto no tiene un tamaño definido. Su melodía está centrada alrededor de su tónica, escrita aquí en <strong>Do</strong>. Jins Hijazkar aparece en la octava del <a href="../maqam/hijazkar.php">Maqam Hijazkar</a>.
+                        Jins Hijazkar no tiene <em>ghammaz</em>, y por lo tanto no tiene un tamaño definido. Su melodía está centrada alrededor de su tónica, escrita aquí en <strong>Do</strong>. Jins Hijazkar aparece en la octava del <a href="../maqam/hijazkar.php">Maqam Hijazkar</a>.
                     </p>
 
                     <div class="player-area">

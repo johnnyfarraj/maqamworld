@@ -41,16 +41,16 @@ include($ROOT . 'inc/head.php');
           </div>
 
           <p>
-              El Maqam árabe (Maqamat plural) es un sistema de escalas, frases melódicas habituales, posibilidades de modulación, técnicas de ornamentación y convenciones estéticas que juntas forman un rico marco melódico y tradición artística. El curso melódico del maqam (en música compuesta o improvisada) dentro de ese marco se llama <em>sayr</em> en árabe.
+              El Maqam árabe (Maqamat plural) es un sistema de escalas, frases melódicas habituales, posibilidades de modulación, técnicas de ornamentación y convenciones estéticas que juntas forman un rico marco melódico y tradición artística. El curso melódico del <em>maqam</em> (en música compuesta o improvisada) dentro de ese marco se llama <em>sayr</em> en árabe.
         </p>
           <p>
-              Cada escala de maqam puede construirse encadenando dos (o en algunos casos, tres) fragmentos de escala o bloques de construcción llamados <a href="jins.php">Jins</a> (pl. Ajnas). El maqam obtiene sus intervalos, comportamiento melódico y estado de ánimo general de estos ajnas constituyentes. Los primeros jins siempre inician la escala maqam con su tónica en primer grado, y los segundos jins comienzan en el <em>ghammaz</em> (punto de modulación) de los primeros jins (generalmente su última nota). Si se usa un tercer jins, su tónica coincide con el ghammaz del segundo jins, y así sucesivamente. La nota inmediatamente debajo de la tónica se llama el tono principal.
+              Cada escala de <em>maqam</em> puede construirse encadenando dos (o en algunos casos, tres) fragmentos de escala o bloques de construcción llamados <a href="jins.php">Jins</a> (pl. Ajnas). El <em>maqam</em> obtiene sus intervalos, comportamiento melódico y estado de ánimo general de estos ajnas constituyentes. Los primeros <em>jins</em> siempre inician la escala <em>maqam</em> con su tónica en primer grado, y los segundos <em>jins</em> comienzan en el <em>ghammaz</em> (punto de modulación) de los primeros <em>jins</em> (generalmente su última nota). Si se usa un tercer jins, su tónica coincide con el <em>ghammaz</em> del segundo jins, y así sucesivamente. La nota inmediatamente debajo de la tónica se llama el tono principal.
             </p>
           <p>
-              Tradicionalmente, cada maqam se basa en una escala. La primera nota en la escala se llama <em>tónica</em>. Las escalas de Maqam generalmente están compuestas por 7 notas que se repiten en la octava, aunque algunas escalas de Maqam pueden extenderse más allá de las 8 notas. Además, algunas escalas de maqam no alcanzan la equivalencia de octava en la octava nota.
+              Tradicionalmente, cada <em>maqam</em> se basa en una escala. La primera nota en la escala se llama <em>tónica</em>. Las escalas de Maqam generalmente están compuestas por 7 notas que se repiten en la octava, aunque algunas escalas de Maqam pueden extenderse más allá de las 8 notas. Además, algunas escalas de <em>maqam</em> no alcanzan la equivalencia de octava en la octava nota.
             </p>
           <p>
-              De acuerdo con la tradición, los maqamat se clasifican en familias según el hecho de compartir los mismos primeros jins (raíz). La raíz jins desempeña el papel más importante en la definición del carácter del maqam. El maqam más común en la rama usualmente comparte su nombre con los jins raíz. Los maqamat restantes en la misma familia se denominan maqamat de rama y se basan en el uso de un segundo jins (superior) diferente.
+              De acuerdo con la tradición, los maqamat se clasifican en familias según el hecho de compartir los mismos primeros <em>jins</em> (raíz). La raíz <em>jins</em> desempeña el papel más importante en la definición del carácter del maqam. El <em>maqam</em> más común en la rama usualmente comparte su nombre con los <em>jins</em> raíz. Los maqamat restantes en la misma familia se denominan maqamat de rama y se basan en el uso de un segundo <em>jins</em> (superior) diferente.
             </p>
 
           <p>

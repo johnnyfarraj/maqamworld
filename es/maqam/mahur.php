@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Mahur";
 $page_description = "Maqam Mahur";
-$page_keywords = "arabic, music, arab, world, maqam, jins, mahur, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "es";
 
 include($ROOT . 'inc/head.php');
@@ -59,9 +59,11 @@ include($ROOT . 'inc/head.php');
                       <!-- Links -->
                       <area shape="rect" coords="75,5,277,35" href="../jins/upper_ajam.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="394,5,500,35" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
-
 					</map>
-                    <p>Maqam Mahur starts with the root <a href="../jins/rast.php">Jins Rast</a> on the <em>tonic</em>, followed by <a href="../jins/upper_ajam.php">Jins Upper ‘Ajam</a> on the 5<sup>th</sup> degree (with its tonic up on the 8<sup>th</sup> degree).</p>
+
+                    <p>
+                        Maqam Mahur comienza con la raíz <a href="../jins/rast.php">Jins Rast</a> en el tónico, seguido de <a href="../jins/upper_ajam.php">Jins ‘Ajam Alto</a> en el quinto grado (con su tónico en el octavo grado).
+                    </p>
 
                     <p>Explora otros maqamat en la <a href="f_rast.php">Familia Maqam Rast</a>.</p>
 

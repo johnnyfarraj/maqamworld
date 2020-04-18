@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Sikah Baladi";
 $page_description = "Maqam Sikah Baladi";
-$page_keywords = "arabic, music, arab, world, maqam, jins, sikah baladi, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "es";
 
 include($ROOT . 'inc/head.php');
@@ -67,7 +67,7 @@ include($ROOT . 'inc/head.php');
                       </map>
 
                     <p>
-                        Maqam Sikah Baladi es posiblemente el maqam árabe más desafiante. Su escala (y sayr) es una especie de híbrido entre una transposición de <a href="huzam.php">Maqam Huzam</a> a una nota ordinaria que no es de Sikah, y <a href="hijazkar.php">Maqam Hijazkar</a>: los intervalos no son exactamente iguales a ninguno de los dos, pero suena un poco a ambos. Ninguno de sus intervalos coincide con una entonación justa o igual, lo que hace imposible reproducir en otra cosa que no sea la voz y los <a href="../instr.php">instrumentos árabes tradicionales</a>.
+                        Maqam Sikah Baladi es posiblemente el <em>maqam</em> árabe más desafiante. Su escala (y <em>sayr</em>) es una especie de híbrido entre una transposición de <a href="huzam.php">Maqam Huzam</a> a una nota ordinaria que no es de Sikah, y <a href="hijazkar.php">Maqam Hijazkar</a>: los intervalos no son exactamente iguales a ninguno de los dos, pero suena un poco a ambos. Ninguno de sus intervalos coincide con una entonación justa o igual, lo que hace imposible reproducir en otra cosa que no sea la voz y los <a href="../instr.php">instrumentos árabes tradicionales</a>.
                     </p>
                     
                     <p>Maqam Sikah Baladi no es miembro de una familia maqam.</p>

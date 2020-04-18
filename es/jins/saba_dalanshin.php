@@ -57,11 +57,11 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        El Jins Saba Dalanshin es un caso especial de <a href="saba.php">Jins Saba</a> que no tiene <em>ghammaz</em>, y por lo tanto no tiene un tamaño definido. Su melodía está centrada alrededor de su tónica, anotada aquí en <strong>Do</strong>. Los intervalos sobre la tónica son más o menos idénticos a los de <a href="hijaz.php">Jins Hijaz</a>. La nota que está 2 grados por debajo del tónico (en este caso <strong>La</strong>) es un tónico secundario.
+                        Jins Saba Dalanshin es un caso especial de <a href="saba.php">Jins Saba</a> que no tiene <em>ghammaz</em>, y por lo tanto no tiene un tamaño definido. Su melodía está centrada alrededor de su tónica, anotada aquí en <strong>Do</strong>. Los intervalos sobre la tónica son más o menos idénticos a los de <a href="hijaz.php">Jins Hijaz</a>. La nota que está 2 grados por debajo del tónico (en este caso <strong>La</strong>) es una tónica secundaria.
                     </p>
 
                     <p>
-                        El Jins Saba Dalanshin ocurre en la octava de <a href="../maqam/rast.php">Maqam Rast</a>, que en este caso se conoce como <a href="../maqam/dalanshin.php">Maqam Dalanshin</a>. También ocurre en el quinto grado de <a href="../maqam/shawq_afza.php">Maqam Shawq Afza</a>.
+                        Jins Saba Dalanshin ocurre en la octava de <a href="../maqam/rast.php">Maqam Rast</a>, que en este caso se conoce como <a href="../maqam/dalanshin.php">Maqam Dalanshin</a>. También ocurre en el quinto grado de <a href="../maqam/shawq_afza.php">Maqam Shawq Afza</a>.
                     </p>
 
                     <div class="player-area">

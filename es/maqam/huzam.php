@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Huzam/Rahat al-Arwah";
 $page_description = "Maqam Huzam/Rahat al-Arwah";
-$page_keywords = "arabic, music, arab, world, maqam, jins, sikah, huzam, rahat al-arwah, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "es";
 
 include($ROOT . 'inc/head.php');
@@ -66,9 +66,12 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="484,7,591,35" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
                     </map>
 
-                    <p>Maqam Huzam is by far the most common maqam in the Sikah family, and starts on E<i class="icon-halfflat"></i>. Its scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the <em>tonic</em>, followed by <a href="../jins/hijaz.php">Jins Hijaz</a> on the 3<sup>rd</sup> degree then <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree.</p>
-
-                    <p>The transposition of Maqam Huzam to B<i class="icon-halfflat"></i> has its own name: <strong>Maqam Rahat al-Arwah</strong>. Both maqamat have exactly the same sayr.</p>
+                    <p>
+                        Maqam Huzam es, por mucho, el <em>maqam</em> más común en la familia Sikah, y comienza en Mi<i class="icon-halfflat"></i>. Su escala comienza con la raíz <a href="../jins/sikah.php">Jins Sikah</a> en la tónica, seguida de <a href="../jins/hijaz.php">Jins Hijaz</a> en 4º grado y luego en <a href="../jins/rast.php">Jins Rast</a> en 6º grado.
+                    </p>
+                    <p>
+                        La transposición de Maqam Huzam a Si<i class="icon-halfflat"></i> tiene su propio nombre: <strong>Maqam Rahat al-Arwah</strong>. Ambos maqamat tienen exactamente el mismo <em>sayr</em>.
+                    </p>
 
                     <p>Explora otros maqamat en la <a href="f_sikah.php">Familia Maqam Sikah</a>.</p>
                     

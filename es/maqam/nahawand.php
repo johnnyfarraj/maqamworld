@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Nahawand";
 $page_description = "Maqam Nahawand";
-$page_keywords = "arabic, music, arab, world, maqam, jins, nahawand, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "es";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Nahawand</h1>
-                        <h3>El principal maqam en la <a href="f_nahawand.php">Familia Maqam Nahawand</a></h3>
+                        <h3>El principal <em>maqam</em> en la <a href="f_nahawand.php">Familia Maqam Nahawand</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <div class="clearfix"></div>
@@ -69,10 +69,10 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        Maqam Nahawand es el principal maqam en la Familia Nahawand. Su escala comienza con la raíz <a href="../jins/nahawand.php">Jins Nahawand</a> en la tónica, seguida de <a href="../jins/hijaz.php">Jins Hijaz</a> o <a href="../jins/kurd.php">Jins Kurd</a> en el quinto grado.
+                        Maqam Nahawand es el principal <em>maqam</em> en la Familia Nahawand. Su escala comienza con la raíz <a href="../jins/nahawand.php">Jins Nahawand</a> en la tónica, seguida de <a href="../jins/hijaz.php">Jins Hijaz</a> o <a href="../jins/kurd.php">Jins Kurd</a> en el quinto grado.
                     </p>
                     
-                    <p><strong>Maqam Farahfaza</strong> es Maqam Nahawand transpuesto a un tónico de Sol.</p>
+                    <p><strong>Maqam Farahfaza</strong> es Maqam Nahawand transpuesto a la tónica de Sol.</p>
 
                     <p>Explora otros maqamat en la <a href="f_nahawand.php">Familia Maqam Nahawand</a>.</p>
 

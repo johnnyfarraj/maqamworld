@@ -60,9 +60,10 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="83,4,204,32" href="../jins/sikah.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="276,5,403,33" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="485,5,592,33" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
-	</map>
+	               </map>
 
-                    <p>Maqam ‘Iraq is a rare member of the <a href="f_sikah.php">Sikah maqam family</a>, although it is more common as a modulation in the <em>sayr</em> of <a href="huzam.php">Maqam Huzam</a>. Its scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the <em>tonic</em> of B<i class="icon-halfflat"></i>, followed by <a href="../jins/bayati.php">Jins Bayati</a> on the 3<sup>rd</sup> degree then <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree.
+                    <p>
+                        Maqam 'Irak es un miembro poco común de la <a href="f_sikah.php">familia Sikah</a>, aunque es más común como modulación en el nombre de <a href="huzam.php">Maqam Huzam</a>. Su escala comienza con la raíz <a href="../jins/sikah.php">Jins Sikah</a> en la tónica de Si<i class="icon-halfflat"></i>, seguida por <a href="../jins/bayati.php">Jins Bayati</a> en el 3er grado y luego en <a href="../jins/rast.php">Jins Rast</a> en el 6º grado.
                     </p>
                     <p>Explora otros maqamat en la <a href="f_sikah.php">Familia Maqam Sikah</a>.</p>
 

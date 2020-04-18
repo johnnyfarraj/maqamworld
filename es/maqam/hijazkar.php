@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Hijazkar";
 $page_description = "Maqam Hijazkar";
-$page_keywords = "arabic, music, arab, world, maqam, jins, hijaz kar, hijazkar, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "es";
 
 include($ROOT . 'inc/head.php');
@@ -73,21 +73,23 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="165,3,320,30" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="321,139,455,166" href="../jins/nikriz.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="604,7,720,37" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
-
 					</map>
-                    <p>Maqam Hijazkar is the most common variant of <a href="hijaz.php">Maqam Hijaz</a>. Its scale starts with the root <a href="../jins/hijaz.php">Jins Hijaz</a> on the <em>tonic</em>, followed by <a href="../jins/nikriz.php">Jins Nikriz</a> on the 4<sup>th</sup> degree then <a href="../jins/hijazkar.php">Jins Hijazkar</a> on the octave.</p>
-					<p>For historic reasons, 3 of this maqam's transpositions have different names (and used to have a different sayr a long time ago):
-					</p>
+
+                    <p>
+                        Maqam Hijazkar es la variante más común de <a href="hijaz.php">Maqam Hijaz</a>. Su escala comienza con la raíz <a href="../jins/hijaz.php">Jins Hijaz</a> en la tónica, seguida de <a href="../jins/nikriz.php">Jins Nikriz</a> en el cuarto grado y luego <a href="../jins/hijazkar.php">Jins Hijazkar</a> en la octava.
+                    </p>
 					<p>
-					<li><strong>Maqam Shadd ‘Araban</strong> (Hijazkar on low G)</li>
-					<li><strong>Maqam Suzidil</strong> (Hijazkar on low A)</li>
-					<li><strong>Maqam Shahnaz</strong> (Hijazkar on D)</li>
+                        Por razones históricas, 3 de las transposiciones de este <em>maqam</em> tienen nombres diferentes (y solían tener un <em>sayr</em> diferente hace mucho tiempo):
+					</p>
+                    
+					<p>
+					<li><strong>Maqam Shadd ‘Araban</strong> (Hijazkar en baja <strong>Sol</strong>)</li>
+					<li><strong>Maqam Suzidil</strong> (Hijazkar en baja <strong>La</strong>)</li>
+					<li><strong>Maqam Shahnaz</strong> (Hijazkar en <strong>Re</strong>)</li>
 					</p>
 
                     <p>Explora otros maqamat en la <a href="f_hijaz.php">Familia Maqam Hijaz</a>.</p>
                     
-                    <p>Listen to a 1-minute sample <a href="https://www.instagram.com/p/B-KjdyqFVPI" target="_blank">Violin Taqsim in Maqam Hijazkar</a> by Sami Abu Shumays.</p>
-
                     <div class="player-area">
                         <audio id="player" controls>
                             <source src="/audio/maqam/hijazkar/ana_fintizarak.mp3" type="audio/mp3">

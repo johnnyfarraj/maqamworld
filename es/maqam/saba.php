@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Saba";
 $page_description = "Maqam Saba";
-$page_keywords = "arabic, music, arab, world, maqam, jins, saba, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "es";
 
 include($ROOT . 'inc/head.php');
@@ -68,7 +68,7 @@ include($ROOT . 'inc/head.php');
 
 					</map>
                     <p>
-                        Maqam Saba es un maqam muy popular y común en el repertorio árabe. Su escala comienza con <a href="../jins/saba.php">Jins Saba</a> en la tónica, superpuesta por <a href="../jins/hijaz.php">Jins Hijaz</a> en el 3er grado, seguida de <a href="../jins/ajam.php">Jins ‘Ajam</a> o <a href="../jins/nikriz.php">Jins Nikriz</a> en el 6º grado.
+                        Maqam Saba es un <em>maqam</em> muy popular y común en el repertorio árabe. Su escala comienza con <a href="../jins/saba.php">Jins Saba</a> en la tónica, superpuesta por <a href="../jins/hijaz.php">Jins Hijaz</a> en el 3er grado, seguida de <a href="../jins/ajam.php">Jins ‘Ajam</a> o <a href="../jins/nikriz.php">Jins Nikriz</a> en el 6º grado.
                     </p>
 
                     <p>Maqam Saba no es miembro de una familia maqam.</p>

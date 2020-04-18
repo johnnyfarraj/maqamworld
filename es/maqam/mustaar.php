@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Musta‘ar";
 $page_description = "Maqam Musta‘ar";
-$page_keywords = "arabic, music, arab, world, maqam, jins, sikah, mustaar, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "es";
 
 include($ROOT . 'inc/head.php');
@@ -61,9 +61,10 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="73,13,226,41" href="../jins/mustaar.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="258,13,433,41" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="488,5,597,34" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
-                      
 					</map>
-                    <p>Maqam Musta‘ar is extremely rare as an independent maqam, but more common as a jins, or as a partial sayr within <a href="huzam.php">Maqam Huzam</a> and <a href="sikah.php">Maqam Sikah</a>. Its scale starts with <a href="../jins/mustaar.php">Jins Musta‘ar</a> on the <em>tonic</em>, followed by <a href="../jins/nahawand.php">Jins Nahawand</a> on the 3<sup>rd</sup> degree, and <a href="../jins/rast.php">Jins Rast</a> on the 6<sup>th</sup> degree.
+
+                    <p>
+                        Maqam Musta’ar es extremadamente raro como un <em>maqam</em> independiente, pero más común como jins, o como una <em>sayr</em> parcial dentro de <a href="huzam.php">Maqam Huzam</a> y <a href="sikah.php">Maqam Sikah</a>. Su escala comienza con <a href="../jins/mustaar.php">Jins Musta‘ar</a> en la tónica, seguido de <a href="../jins/nahawand.php">Jins Nahawand</a> en el tercer grado, y <a href="../jins/rast.php">Jins Rast</a> en el sexto grado.
                     </p>
 
                     <p>Explora otros maqamat en la <a href="f_sikah.php">Familia Maqam Sikah</a>.</p>

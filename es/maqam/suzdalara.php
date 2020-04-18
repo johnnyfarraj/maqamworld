@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Suzdalara";
 $page_description = "Maqam Suzdalara";
-$page_keywords = "arabic, music, arab, world, maqam, jins, suzdalara, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "es";
 
 include($ROOT . 'inc/head.php');
@@ -59,9 +59,11 @@ include($ROOT . 'inc/head.php');
                       <!-- Links -->
                       <area shape="rect" coords="79,7,257,35" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="392,7,504,35" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
-
                     </map>
-                    <p>Maqam Suzdalara is quite archaic and almost non-existent as an independent maqam, although its sayr is obligatory within nearly every performance and song in every branch of <a href="rast.php">Maqam Rast</a>: the <a href="../jins/nahawand.php">Jins Nahawand</a> on the 5<sup>th</sup> degree of Maqam Rast is a universal transition device from other modulations, signaling the return to the root <a href="../jins/rast.php">Jins Rast</a> on the <em>tonic</em>.</p>
+
+                    <p>
+                        Maqam Suzdalara es bastante arcaico y casi inexistente como un maqam independiente, aunque su sayr es obligatorio en casi todas las actuaciones y canciones en cada rama de <a href="rast.php">Maqam Rast</a>: el <a href="../jins/nahawand.php">Jins Nahawand</a> en el quinto grado de Maqam Rast es un dispositivo de transición universal desde otras Modulaciones, señalando el retorno a la raíz <a href="../jins/rast.php">Jins Rast</a> sobre la tónica.
+                    </p>
 
                     <p>Explora otros maqamat en la <a href="f_rast.php">Familia Maqam Rast</a>.</p>
                     

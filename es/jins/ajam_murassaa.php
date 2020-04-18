@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        El Jins ‘Ajam Murassa‘ es un jins de 5 notas. Se escribe aquí con su tónico en <strong>Fa</strong> y su <em>ghammaz</em> en <strong>Do</strong>. Jins ‘Ajam Murassa‘ no es parte de ninguna escala de maqam y usualmente ocurre como una modulación de <a href="ajam.php">Jins ‘Ajam</a>.
+                        Jins ‘Ajam Murassa‘ es un <em>jins</em> de 5 notas. Se escribe aquí con su tónico en <strong>Fa</strong> y su <em>ghammaz</em> en <strong>Do</strong>. Jins ‘Ajam Murassa‘ no es parte de ninguna escala de <em>maqam</em> y usualmente ocurre como una modulación de <a href="ajam.php">Jins ‘Ajam</a>.
                     </p>
 
                     <div class="player-area">

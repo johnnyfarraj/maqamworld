@@ -59,7 +59,7 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        El Jins Nahawand es un jins de 5 notas. Se escribe aquí con su tónico en <strong>Do</strong> y su <em>ghammaz</em> en <strong>Sol</strong>. Jins Nahawand es el primer jins en <a href="../maqam/nahawand.php">Maqam Nahawand</a>.
+                        Jins Nahawand es un <em>jins</em> de 5 notas. Se escribe aquí con su tónico en <strong>Do</strong> y su <em>ghammaz</em> en <strong>Sol</strong>. Jins Nahawand es el primer <em>jins</em> en <a href="../maqam/nahawand.php">Maqam Nahawand</a>.
                     </p>
 
                     <div class="player-area">

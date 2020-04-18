@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Suznak";
 $page_description = "Maqam Suznak";
-$page_keywords = "arabic, music, arab, world, maqam, jins, suznak, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "es";
 
 include($ROOT . 'inc/head.php');
@@ -59,9 +59,11 @@ include($ROOT . 'inc/head.php');
                       <!-- Links -->
                       <area shape="rect" coords="154,9,265,36" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="422,8,546,35" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
-
 					</map>
-                    <p>Maqam Suznak is the most popular modulation of <a href="rast.php">Maqam Rast</a>, where the modulation to <a href="../jins/hjaz.php">Jins Hijaz</a> on the 5<sup>th</sup> scale degree is practically obligatory in any taqsim or mawwal starting on the root <a href="jns/rast.php">Jins Rast</a>.</p>
+
+                    <p>
+                        Maqam Suznak es la modulación más popular de <a href="rast.php">Maqam Rast</a>, donde la modulación a <a href="../jins/hjaz.php">Jins Hijaz</a> en el quinto grado de escala es prácticamente obligatoria en cualquier taqsim o mawwal a partir de la raíz <a href="jns/rast.php">Jins Rast</a>.
+                    </p>
 
                     <p>Explora otros maqamat en la <a href="f_rast.php">Familia Maqam Rast</a>.</p>
                     

@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Maqam Hijaz</h1>
-                        <h3>El principal maqam en la <a href="f_hijaz.php">Familia Maqam Hijaz</a></h3>
+                        <h3>El principal <em>maqam</em> en la <a href="f_hijaz.php">Familia Maqam Hijaz</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <div class="clearfix"></div>
@@ -68,7 +68,7 @@ include($ROOT . 'inc/head.php');
 				     </map>
 
                     <p>
-                        Maqam Hijaz is the main maqam in the Hijaz Family. Its scale starts with the root <a href="../jins/hijaz.php">Jins Hijaz</a> on the <em>tonic</em> followed by either <a href="../jins/nahawand.php">Jins Nahawand</a> or <a href="../jins/rast.php">Jins Rast</a> on the 4<sup>th</sup> degree.
+                       Maqam Hijaz es el principal <em>maqam</em> en la familia Hijaz. Su escala comienza con la raíz <a href="../jins/hijaz.php">Jins Hijaz</a> en la tónica seguida de <a href="../jins/nahawand.php">Jins Nahawand</a> o <a href="../jins/rast.php">Jins Rast</a> en 4º grado.
                     </p>
 
                     <p>Explora otros maqamat en la <a href="f_hijaz.php">Familia Maqam Hijaz</a>.</p>

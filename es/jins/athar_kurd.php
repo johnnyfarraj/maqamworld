@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        El Jins Athar Kurd es un jins de 5 notas. Se escribe aquí con su tónico en <strong>Do</strong> y su <em>ghammaz</em> en <strong>Sol</strong>. Jins Athar Kurd es el primer jins en <a href="../maqam/athar_kurd.php">Maqam Athar Kurd</a>.
+                        Jins Athar Kurd es un <em>jins</em> de 5 notas. Se escribe aquí con su tónico en <strong>Do</strong> y su <em>ghammaz</em> en <strong>Sol</strong>. Jins Athar Kurd es el primer <em>jins</em> en <a href="../maqam/athar_kurd.php">Maqam Athar Kurd</a>.
                     </p>
 
                     <div class="player-area">

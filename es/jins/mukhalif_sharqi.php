@@ -53,7 +53,7 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        El Jins Mukhalef Sharqi no tiene <em>ghammaz</em>, y por lo tanto no tiene un tamaño definido. Se escribe aquí con su tónico sobre <strong>Mi</strong><i class="icon-halfflat"></i>. Jins Mukhalef Sharqi no es parte de ninguna escala de maqam y generalmente ocurre como una modulación de <a href="sikah.php">Jins Sikah</a>.
+                        Jins Mukhalef Sharqi no tiene <em>ghammaz</em>, y por lo tanto no tiene un tamaño definido. Se escribe aquí con su tónico sobre <strong>Mi</strong><i class="icon-halfflat"></i>. Jins Mukhalef Sharqi no es parte de ninguna escala de <em>maqam</em> y generalmente ocurre como una modulación de <a href="sikah.php">Jins Sikah</a>.
                     </p>
 
                     <div class="player-area">

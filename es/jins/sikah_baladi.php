@@ -55,7 +55,7 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        El Jins Sikah Baladi no tiene <em>ghammaz</em>, y por lo tanto no tiene un tamaño definido. Su melodía se centra alrededor de su tónica, anotada aquí en G. Jins Sikah Baladi es muy difícil de anotar con precisión; en cambio, sus intervalos y entonación se aprenden mejor por el oído. Jins Sikah Baladi ocurre en la octava del <a href="../maqam/sikah_baladi.php">Maqam Sikah Baladi</a>.
+                        Jins Sikah Baladi no tiene <em>ghammaz</em>, y por lo tanto no tiene un tamaño definido. Su melodía se centra alrededor de su tónica, anotada aquí en G. Jins Sikah Baladi es muy difícil de anotar con precisión; en cambio, sus intervalos y entonación se aprenden mejor por el oído. Jins Sikah Baladi ocurre en la octava del <a href="../maqam/sikah_baladi.php">Maqam Sikah Baladi</a>.
                     </p>
                     
                     <div class="player-area">
