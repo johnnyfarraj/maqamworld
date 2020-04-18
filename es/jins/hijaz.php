@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                     <div class="notation" id="notation1">
                         <img src="/note/jins/hijaz.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Click on each note with the mouse and hold to hear it play.</p>
+                        <p class="clicknotes">Haz clic en cada nota y mantenga presionado para oírla.</p>
                     </div>
 
                     <map name="notemap">
