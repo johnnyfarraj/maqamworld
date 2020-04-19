@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="maqams-page">
 
     <?php
-      $page = "en/maqam/hijazkar.php";
+      $page = "es/maqam/hijazkar.php";
       include($ROOT . 'inc/menu.php');
     ?>
 

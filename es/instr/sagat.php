@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="instruments-page">
 
     <?php
-      $page = "en/instr/sagat.php";
+      $page = "es/instr/sagat.php";
       include($ROOT . 'inc/menu.php');
     ?>
 

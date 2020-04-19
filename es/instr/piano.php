@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="instruments-page">
 
     <?php
-      $page = "en/instr/piano.php";
+      $page = "es/instr/piano.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
