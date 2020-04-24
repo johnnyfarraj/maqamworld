@@ -61,13 +61,18 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="75,7,191,37" href="../jins/sikah.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="425,7,540,37" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="615,7,745,37" href="../jins/sikah.php" class="mapLink" data-parent="#notation1">
-
 					</map>
-                    <p>Maqam Awj ‘Iraq is a version of <a href="huzam.php">Maqam Rahat al-Arwah/Maqam Huzam</a> and <a href="iraq.php">Maqam ‘Iraq</a> whose sayr starts at the octave tonic and descends to the tonic – though it shares most of the same ajnas as <a href="huzam.php">Maqam Huzam</a>.</p>
-                    <p>The Maqam Awj ‘Iraq scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the <em>tonic</em>, then <a href="../jins/hijaz.php">Jins Hijaz</a> on the 3<sup>rd</sup> degree followed by another <a href="../jins/sikah.php">Jins Sikah</a> on the 8<sup>th</sup> degree.
+                    
+                    <p>
+                        Maqam Awj ‘Iraq is a version of <a href="huzam.php">Maqam Rahat al-Arwah/Maqam Huzam</a> and <a href="iraq.php">Maqam ‘Iraq</a> whose sayr starts at the octave tonic and descends to the tonic – though it shares most of the same ajnas as <a href="huzam.php">Maqam Huzam</a>.</p>
+
+                    <p>
+                        The Maqam Awj ‘Iraq scale starts with the root <a href="../jins/sikah.php">Jins Sikah</a> on the <em>tonic</em>, then <a href="../jins/hijaz.php">Jins Hijaz</a> on the 3<sup>rd</sup> degree followed by another <a href="../jins/sikah.php">Jins Sikah</a> on the 8<sup>th</sup> degree.
                     </p>
 
                     <p>Explore other maqamat in the <a href="f_sikah.php">Maqam Sikah Family</a>.</p>
+                    
+                    <p>Watch a 1-minute sample <a href="https://www.instagram.com/p/B-9wixJlwfl/" target="_blank">Violin Taqsim in Maqam Awj ‘Iraq</a> by Sami Abu Shumays.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

@@ -67,7 +67,7 @@ include($ROOT . 'inc/head.php');
                     
                     <p>Explore other maqamat in the <a href="f_bayati.php">Maqam Bayati Family</a>.</p>
                     
-                    <p>Listen to a 1-minute sample <a href="https://www.instagram.com/p/B-NQP22lCXX" target="_blank">Violin Taqsim in Maqam Bayati Shuri</a> by Sami Abu Shumays.</p>
+                    <p>Watch a 1-minute sample <a href="https://www.instagram.com/p/B-NQP22lCXX" target="_blank">Violin Taqsim in Maqam Bayati Shuri</a> by Sami Abu Shumays.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

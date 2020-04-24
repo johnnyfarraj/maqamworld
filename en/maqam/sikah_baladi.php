@@ -76,7 +76,7 @@ include($ROOT . 'inc/head.php');
                     
                     <p>Maqam Sikah Baladi is not part of a maqam family.</p>
                     
-                    <p>Listen to a 1-minute sample <a href="https://www.instagram.com/p/B-fX87oltjn" target="_blank">Violin Taqsim in Maqam Sikah Baladi</a> by Sami Abu Shumays.</p>
+                    <p>Watch a 1-minute sample <a href="https://www.instagram.com/p/B-fX87oltjn" target="_blank">Violin Taqsim in Maqam Sikah Baladi</a> by Sami Abu Shumays.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

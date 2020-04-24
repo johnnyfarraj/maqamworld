@@ -69,9 +69,12 @@ include($ROOT . 'inc/head.php');
 					</map>
                     <p>Maqam Kirdan is a version of <a href="rast.php">Maqam Rast</a> whose sayr starts on the octave and eventually descends to the tonic. Its scale starts at the bottom with the root <a href="../jins/rast.php">Jins Rast</a> on the tonic, followed by <a href="../jins/upper_rast.php">Jins Upper Rast</a> on the 5<sup>th</sup> degree (with its tonic up on the 8<sup>th</sup> degree).
                     </p>
+                    
                     <p><strong>Maqam Sazkar</strong> is nearly identical to Maqam Kirdan, except for the prominence of the raised 2<sup>nd</sup> degree that occurs in some melodic passages, which results in <a href="../jins/sazkar.php">Jins Sazkar</a> on the tonic.</p>
 
                     <p>Explore other maqamat in the <a href="f_rast.php">Maqam Rast Family</a>.</p>
+
+                    <p>Watch a 1-minute sample <a href="https://www.instagram.com/p/B_DQh3VlHEb/" target="_blank">Violin Taqsim in Maqam Kirdan/Sazkar</a> by Sami Abu Shumays.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

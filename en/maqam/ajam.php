@@ -65,6 +65,7 @@ include($ROOT . 'inc/head.php');
 		</map>
 
 	       <p>Maqam ‘Ajam (also known as Egyptian ‘Ajam) is The principal maqam in the <a href="f_ajam.php">Maqam ‘Ajam Family</a>, and starts with the root <a href="../jins/ajam.php">Jins ‘Ajam</a> on the <em>tonic</em>, followed by either <a href="../jins/upper_ajam.php">Jins Upper ‘Ajam</a> on the 5<sup>th</sup> degree (with its tonic up on the 8<sup>th</sup> degree) or <a href="../jins/nahawand.php">Jins Nahawand</a> on the 5<sup>th</sup> degree.</p>
+                    
                     <p>Explore other maqamat in the <a href="f_ajam.php">Maqam ‘Ajam Family</a>.</p>
 
                     <div class="player-area">

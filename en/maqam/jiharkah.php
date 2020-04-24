@@ -66,7 +66,7 @@ include($ROOT . 'inc/head.php');
                     
                     <p>Maqam Jiharkah is not part of a maqam family.</p>
                     
-                    <p>Listen to a 1-minute sample <a href="https://www.instagram.com/p/B-IJ05Ml4yF" target="_blank">Violin Taqsim in Maqam Jiharkah</a> by Sami Abu Shumays.</p>
+                    <p>Watch a 1-minute sample <a href="https://www.instagram.com/p/B-IJ05Ml4yF" target="_blank">Violin Taqsim in Maqam Jiharkah</a> by Sami Abu Shumays.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

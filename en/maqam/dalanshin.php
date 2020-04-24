@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>Explore other maqamat in the <a href="f_rast.php">Maqam Rast Family</a>.</p>
 
-                    <p>Listen to a 1-minute sample <a href="https://www.instagram.com/p/B-F24Hvl_Pl" target="_blank">Violin Taqsim in Maqam Dalanshin</a> by Sami Abu Shumays.</p>
+                    <p>Watch a 1-minute sample <a href="https://www.instagram.com/p/B-F24Hvl_Pl" target="_blank">Violin Taqsim in Maqam Dalanshin</a> by Sami Abu Shumays.</p>
                     
 
                  

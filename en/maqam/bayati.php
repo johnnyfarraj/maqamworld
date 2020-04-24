@@ -64,12 +64,16 @@ include($ROOT . 'inc/head.php');
                       <area shape="rect" coords="111,7,242,36" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="370,8,549,37" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="783,8,890,37" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
-
 				     </map>
+
                     <p>Maqam Bayati is by far one of the most popular and common maqamat in the Arabic repertory. It is also the main maqam in the Bayati Family. </p>
+                    
                     <p>Its scale starts with <a href="../jins/bayati.php">Jins Bayati</a> on the <em>tonic</em> followed by either <a href="../jins/nahawand.php">Jins Nahawand</a> or <a href="../jins/rast.php">Jins Rast</a> on the 4<sup>th</sup> degree.
                     </p>
+                    
                     <p>Explore other maqamat in the <a href="f_bayati.php">Maqam Bayati Family</a>.</p>
+                    
+                    <p>Watch a 1-minute sample <a href="https://www.instagram.com/p/B_FX2vUFKmX/" target="_blank">Violin Taqsim in Maqam Bayati</a> by Sami Abu Shumays.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

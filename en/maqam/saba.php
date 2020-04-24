@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>Maqam Saba is not part of a maqam family.</p>
                     
-                    <p>Listen to a 1-minute sample <a href="https://www.instagram.com/p/B9ztWCGFTvF" target="_blank">Violin Taqsim in Maqam Saba</a> by Sami Abu Shumays.</p>
+                    <p>Watch a 1-minute sample <a href="https://www.instagram.com/p/B9ztWCGFTvF" target="_blank">Violin Taqsim in Maqam Saba</a> by Sami Abu Shumays.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

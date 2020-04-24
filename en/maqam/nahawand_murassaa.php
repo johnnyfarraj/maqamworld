@@ -66,7 +66,7 @@ include($ROOT . 'inc/head.php');
 
                     <p>Explore other maqamat in the <a href="f_nahawand.php">Maqam Nahawand Family</a>.</p>
 
-                    <p>Listen to a 1-minute sample <a href="https://www.instagram.com/p/B-PvkvAFH5u" target="_blank">Violin Taqsim in Maqam Nahawand Murassa‘</a> by Sami Abu Shumays.</p>
+                    <p>Watch a 1-minute sample <a href="https://www.instagram.com/p/B-PvkvAFH5u" target="_blank">Violin Taqsim in Maqam Nahawand Murassa‘</a> by Sami Abu Shumays.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
