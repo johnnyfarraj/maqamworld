@@ -131,7 +131,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Bayna Qasiyun Wa Rabwa</b>
                                     <span>Hassan al-Haffar</span>
-                                    <span>Música de ‘Umar al-Batsh</span>
+                                    <span>Música de Omar al-Batsh</span>
                                 </div>
                             </label>
                         </div>
@@ -144,7 +144,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Zarani Taht al-Ghayahib</b>
                                     <span>Muhammad Khayri</span>
-                                    <span>Música de ‘Umar al-Batsh</span>
+                                    <span>Música de Omar al-Batsh</span>
                                 </div>
                             </label>
                         </div>

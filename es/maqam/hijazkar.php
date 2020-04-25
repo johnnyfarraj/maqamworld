@@ -155,7 +155,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Ya ‘Uyunan Ramiyat</b>
                                     <span>Sabri al-Mudallal</span>
-                                    <span>Música de ‘Umar al-Batsh</span>
+                                    <span>Música de Omar al-Batsh</span>
                                 </div>
                             </label>
                         </div>

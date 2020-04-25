@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Muwashah Tif Ya Durri</b>
                                     <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
                                     <span>Conductor: Aïda Shalhoub Ziadé</span>
-                                    <span>Música de Sayyed Darwish/‘Umar al-Batsh</span>
+                                    <span>Música de Sayyed Darwish/Omar al-Batsh</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>
                             </label>

@@ -88,7 +88,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Munyati Man Rumtu Qurbuh</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Música de ‘Umar al-Batsh</span>
+                                    <span>Música de Omar al-Batsh</span>
                                     <span><img src="/img/cd.png"> Nagham Al-Ams Vol.9 - Rast</span>
                                 </div>
                             </label>
@@ -103,7 +103,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Muwashah Munyati Sidu-l-Milah</b>
                                     <span>(performed in 11/4)</span>
                                     <span>The munshid Mahmud Fares</span>
-                                    <span>Música de ‘Umar al-Batsh</span>
+                                    <span>Música de Omar al-Batsh</span>
                                 </div>
                             </label>
                         </div>

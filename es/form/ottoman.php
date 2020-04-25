@@ -29,7 +29,7 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Las Formas Otomanos Compuestas Instrumentales</h1>
+                        <h1>Formas Otomanos Compuestas Instrumentales</h1>
                         <h3>El Sama‘i, La Longa y El Bashraf</h3>
                     </div>
 
