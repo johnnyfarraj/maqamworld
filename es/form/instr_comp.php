@@ -30,22 +30,24 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Formas Compuestas Instrumentales</h1>
-                        <h3>The Dulab, Maqtu‘a, Muqaddima, Tahmila, and Darij</h3>
+                        <h3>El Dulab, La Maqtu‘a, La Muqaddima, La Tahmila, y El Darij</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de las Formas</a>
                     <div class="clearfix"></div>
 
-                    <p>Formas Compuestas Instrumentales are not as widespread as <a href="vocal_comp.php">Formas Vocálicas Compuestas</a> in Arabic Music,
-                    since that tradition is primarily vocal. As such, performances of only instrumental Arabic music are rare. However, instrumental music complements vocal music beautifully, and provides essential introductions, transitions, and interludes, while also showcasing instrumentalists in the singer's ensemble.</p>
+                    <p>
+                        Las formas compuestas instrumentales no están tan extendidas o comunes como las <a href="vocal_comp.php">formas vocálicas compuestas</a> en la música árabe, ya que esa tradición es principalmente vocal. Así que, las actuaciones de música árabe puramente instrumental son raras. Sin embargo, la música instrumental complementa maravillosamente la música vocal y proporciona introducciones, transiciones e interludios esenciales, al mismo tiempo que muestra a los instrumentistas en el conjunto del cantante.
+                    </p>
 
                     <div id="maqtua" class="heading jins text-center full-width">
-                        <h3>The Maqtu‘a</h3>
+                        <h3>La Maqtu‘a</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/maqtua.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Maqtu‘a</a>
                     </div>
-                    <p> The Maqtu‘a (literally a piece) is a generic instrumental composition. It is also called <em>ma‘zufa</em> (played on an instrument, as opposed to sung). The <em>maqtu‘a</em> form is especially popular in <em>Raqs Sharqi</em> (belly dance) music.
+                    <p> 
+                        La Maqtu’a (literalmente una pieza) es una composición instrumental genérica. También es conocido como ma’zufa (tocado por un instrumento, como en vez de cantar). La forma <em>maqtu‘a</em> es muy popular en la música de Raqs Sharqi (baile del vientre).
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=9sxZVdKGe48">
@@ -58,7 +60,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Zikrayati (1944)</b>
-                                    <span>Muhammad al-Qasabji's instrumental composition <strong>Zikrayati</strong> (1944) in <a href="../maqam/nahawand.php">Maqam Nahawand</a>, recorded by the National Arabic Orchestra (USA).</span>
+                                    <span>La composición instrumental de Muhammad al-Qasabji, <strong>Zikrayati</strong> (19440 en el <a href="../maqam/nahawand.php">Maqam Nahawand</a>, la grabación de la Orquesta Nacional Árabe (EE.UU.)</span>
                                 </div>
                             </label>
                         </div>
@@ -74,7 +76,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>‘Aziza (1955)</b>
-                                    <span>Muhammad Abdel Wahab's instrumental composition <strong>‘Aziza</strong> (from the 1955 movie <strong>‘Aziza</strong>)</span>
+                                    <span>La composición instrumental de Muhammad Abdel Wahab, <strong>‘Aziza</strong>, de la 1955 película <strong>‘Aziza</strong>).
+                                </span>
                                 </div>
                             </label>
                         </div>
@@ -90,7 +93,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Tuta</b>
-                                    <span>Farid al-Atrash's instrumental composition Tuta.</span>
+                                    <span>La composición instrumental de Farid al-Atrash, <strong>Tuta</strong>.</span>
                                 </div>
                             </label>
                         </div>
@@ -106,19 +109,21 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Layali Zaman</b>
-                                    <span>Egyptian violinist ‘Abdu Dagher's instrumental composition Layali Zaman.</span>
+                                    <span>La composición instrumental del violinista ‘Abdu Dagher, <strong>Layali Zaman</strong>.
+                                </span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
                     <div id="muqaddima" class="heading jins text-center full-width">
-                        <h3>The Muqaddima</h3>
+                        <h3>La Muqaddima</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/muqaddima.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Muqaddima</a>
                     </div>
-                    <p> The Muqaddima literally means "introduction". This form became popular toward the mid 20<sup>th</sup> century as composers added long introductions to the new popular <a href="vocal_comp.php#ughniya">Ughniya</a> (long song) form. Elaborate <em>muqaddima</em>-s sometimes lasted over 5 minutes and featured multiple sectionsas well as <a href="../maqam.php">Maqam</a> modulations and instrumental solos.
+                    <p> 
+                        La Muqaddima significa literalmente una "introducción". Esta forma volvía a ser popular alrededor de la mitad del siglo XX cuando los compositores añadieron introducciones largas a la forma cancionera popular de <a href="vocal_comp.php#ughniya">Ughniya</a> (canción larga). <em>Muqaddimas</em> complicadas a veces duraron más de 5 minutos y tenían varias secciones, tanto como los modulaciones del <a href="../maqam.php">maqam</a> y los instrumentos solos.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=ul4z6sLnXYY">
@@ -130,8 +135,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Alf Leila w Leila (1969)</b>
-                                    <span>The introduction to Umm Kulthum's long song <strong>Alf Leila w Leila</strong> (1969) composed by Baligh Hamdi.</span>
+                                    <b>Alf Leila wi Leila (1969)</b>
+                                    <span>La introducción de la larga canción de Umm Kulthum, <strong>Alf Leila wi Leila</strong> (1969) compuesto de Baligh Hamdi. 
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -148,7 +154,7 @@ include($ROOT . 'inc/head.php');
                              --><div class="info">
                                     <b>Qari'at al-Fingan (1976)</b>
                                     <span>Abdel Halim</span>
-                                    <span>The introduction to Abdel Halim Hafez's long song <em>Qari'at al-Fingan</em> (1976) composed by Muhammad al-Mugi.</span>
+                                    <span>La introducción de la larga canción de Abdel Halim Hafez, <strong>Qari’at al-Fingan</strong> (1976) compuesto de Muhammad al-Mugi.</span>
                                 </div>
                             </label>
                         </div>
@@ -163,21 +169,22 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Fi Youm w Leila (1978)</b>
-                                    <span>The introduction to Warda's long song <strong>Fi Youm w Leila</strong> (1978) composed by Muhammad Abdel Wahab.</span>
+                                    <b>Fi Youm wi Leila (1978)</b>
+                                    <span>La introducción de la canción larga de Warda, <strong>Fi Youm wi Leila</strong> (1978) compuesto de Muhammad Abdel Wahab.
+                                </span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
                     <div id="dulab" class="heading jins text-center full-width">
-                        <h3>The Dulab</h3>
+                        <h3>El Dulab</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/dulab.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Dulab</a>
                     </div>
-                    <p> The Dulab is a very short composition that features and introduces a <a href="../maqam.php">Maqam</a>. Its name means "wheel" in Arabic because the same melody is repeated multiple times. The <em>dulab</em> could be a stand alone piece
-                        that precedes an <a href="improv.php">improvisation</a>, or it could serve as the introduction to a <a href="vocal_comp.php#dawr">Dawr</a>.
+                    <p> 
+                        El Dulab es una composición corta que tiene y que introduce un <a href="../maqam.php">maqam</a>. Su nombre significa “rueda” en árabe porque la misma melodía está repetida muchas veces. El <em>dulab</em> podría ser un solo antes de una <a href="improv.php">improvisación</a> o podría ser la introducción a un <a href="vocal_comp.php#dawr">dawr</a>.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=n60D-Mnodms">
@@ -190,7 +197,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Dulab Kurd</b>
-                                    <span>Sabah's Fakhri's Wasla in <a href="../maqam/hijazkar_kurd.php">Maqam Hijazkar Kurd</a> opens with a traditional Dulab Kurd.</span>
+                                    <span>La Wasla de Sabah Fakhri en el <a href="../maqam/hijazkar_kurd.php">Maqam Hijazkar Kurd</a> abre con un Dulab Kurd tradicional.
+                                </span>
                                 </div>
                             </label>
                         </div>
@@ -206,19 +214,21 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Dawr Inta Fahim</b>
-                                    <span>Zakariyya Ahmad's <a href="vocal_comp.php#dawr">Dawr</a> <strong>Inta Fahim</strong> opens with a single repetition of Dulab in <a href="../maqam/huzam.php">Maqam Rahat al-Arwah</a>.</span>
+                                    <span>Dawr <strong>Inta Fahim</strong> de Zakariyya Ahmed abre con un solo repetición del Dulab, en el <a href="../maqam/huzam.php">Maqam Rahat al-Arwah</a>.
+                                </span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
                     <div id="tahmila" class="heading jins text-center full-width">
-                        <h3>The Tahmila</h3>
+                        <h3>La Tahmila</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/tahmila.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Tahmila</a>
                     </div>
-                    <p> The Tahmila is an instrumental piece that combines a repeating refrain with verses that are part-composed and part improvised. The <em>tahmila</em> is usually played by a small <em>takht</em> (traditional small ensemble) where each player takes turns playing the verse and improvising, and the refrain is played by the entire ensemble.
+                    <p>
+                        La Tahmila es una obra instrumental que combina a los refranes repetidos con versos que son parte-compuestos y parte-improvisados. Normalmente está tocada por un <em>takht</em> pequeño (conjunto pequeño tradicional) dónde cada músico toma giros para tocar el verso y el refrán está tocada por todo el conjunto.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=bmtF02i7Oh8">
@@ -231,7 +241,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Tahmila Suznak</b>
-                                    <span>Tahmila <a href="../maqam/suznak.php">Suznak</a> (the best known Tahmila), recorded by Ahmad al-Hifnawi on the <a href="../instr/violin.php">violin</a>, George Michel on the <a href="../instr/oud.php">oud</a>, Mahmud ‘Effat on the <a href="../instr/nay.php">nay</a>, and Hasan Anwar on the <a href="../instr/riqq.php">riqq</a>.</span>
+                                    <span>Tahmila <a href="../maqam/suznak.php">Suznak</a> (la tahmila más conocida) grabación de Ahmad al-Hifnawi en el <a href="../instr/violin.php">violin</a>, George Michel en el <a href="../instr/oud.php">oud</a>, Mahmoud Effat en el <a href="../instr/nay.php">nay</a> y Hassan Anwar en el <a href="../instr/riqq.php">riq</a>.</span>
                                 </div>
                             </label>
                         </div>
@@ -247,24 +257,24 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Tahmila Saba</b>
-                                    <span>Syrian violinist Sami al-Shawwa recorded many <em>tahmila</em>-s, among which this Tahmila in <a href="../maqam/saba.php">Maqam Saba</a>.</span>
+                                    <span>El violinista Sami al-Shawwa, grabando ambos <em>tahmilas</em>, entre quién está la Tahmila en el <a href="../maqam/saba.php">Maqam Saba</a>.
+                                    </span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
                     <div id="darij" class="heading jins text-center full-width">
-                        <h3>The Darij</h3>
+                        <h3>El Darij</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/darij.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Darij</a>
                     </div>
-                    <p> The Darij form (formally called <em>Sama‘i Darij</em>) is a simple instrumental composition named
-                        after <a href="../iqaa/samai_darij.php">Iqa‘ Sama‘i Darij (3/4)</a>, which it uses. Like the <a href="ottoman.php">Formas Otomanos</a>, the <em>darij</em> composition is anchored in a principal <a href="../maqam.php">maqam</a> that lends it its name,
-                        followed by the composer’s name.</p>
+                    <p> 
+                        La forma Darij (llamada formalmente <em>Sama‘i Darij</em>) es una composición instrumental simple nombrada por el <a href="../iqaa/samai_darij.php">Iqa‘ Sama‘i Darij (3/4)</a> lo que utiliza. Como <a href="ottoman.php">las formas de los instrumentos otomanos</a>, la composición <em>darij</em>, está anclado en un <a href="../maqam.php">maqam</a> principal que se presta su nombre , seguido por el nombre del compositor.
+                    </p>
                     <p>
-                        <em>Darij</em> compositions were widespread in the Arab world before the 20<sup>th</sup> century,
-                        but nowadays they are very rarely performed or composed.
+                        Las composiciones del <em>Darij</em> fueron extendidos en el mundo árabe antes del siglo XX, aunque ahora es raro que son realizados o compuestos.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=n49RxJwqBT4">
@@ -277,7 +287,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Darij Bayati</b>
-                                    <span>The most well-known <em>darij</em> is the one composed by Syrian violinist Sami al-Shawwa in <a href="../maqam/bayati.php">Maqam Bayati</a>.</span>
+                                    <span>El darij más conocido es el que ha composado del violinista siriano Sami al-Shawwa en el <a href="../maqam/bayati.php">Maqam Bayati</a>. 
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -293,7 +304,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Darij Hijaz</b>
-                                    <span>Very well-known <em>darij</em> composition in <a href="../maqam/hijaz.php">Maqam Hijaz</a> (by an unknown composer) recorded by Syrian violinist Sami al-Shawwa in 1924.</span>
+                                    <span>Un <em>darij</em> muy conocido en el <a href="../maqam/hijaz.php">Maqam Hijaz</a> (por un compositor desconocido) grabado del violinista siriano Sami al-Shawwa en el año 1924.
+                                </span>
                                 </div>
                             </label>
                         </div>
