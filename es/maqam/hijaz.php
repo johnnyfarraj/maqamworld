@@ -112,7 +112,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mudnaka Gafahu Marqaduhu (1938)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab</span>
+                                    <span>Vocals and Música de Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -124,7 +124,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Hibbina (1975)</b>
-                                    <span>Vocals and Music by Farid al-Atrash</span>
+                                    <span>Vocals and Música de Farid al-Atrash</span>
                                 </div>
                             </label>
                         </div>
@@ -176,7 +176,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Sama‘i Hijaz</b>
                                     <span>Al-Turath Ensemble</span>
-                                    <span>Music by Muhammad ‘Abdu</span>
+                                    <span>Música de Muhammad ‘Abdu</span>
                                 </div>
                             </label>
                         </div>

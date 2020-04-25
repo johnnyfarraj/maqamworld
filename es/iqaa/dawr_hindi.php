@@ -59,7 +59,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Muwashah Sihtu Wajdan</b>
                                     <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
                                     <span>Conductor: Aïda Shalhoub Ziadé</span>
-                                    <span>Music by Sayyed Darwish</span>
+                                    <span>Música de Sayyed Darwish</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>
                             </label>
@@ -73,7 +73,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Jadaka al-Ghaythu</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Music by Majdi al-‘Aqili</span>
+                                    <span>Música de Majdi al-‘Aqili</span>
                                     <span><img src="/img/cd.png"> Beiteddine Festival Vol I</span>
                                 </div>
                             </label>

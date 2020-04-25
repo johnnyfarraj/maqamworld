@@ -103,7 +103,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Mubarqa'u al-Jamal</b>
                                     <span>Hasan al-Haffar</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
+                                    <span>Música de ‘Umar al-Batsh</span>
                                 </div>
                             </label>
                         </div>
@@ -116,7 +116,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr Asl il-Gharam (1945)</b>
                                     <span>Nour el-Hoda</span>
-                                    <span>Music by Muhammad ‘Uthman</span>
+                                    <span>Música de Muhammad ‘Uthman</span>
                                 </div>
                             </label>
                         </div>
@@ -129,7 +129,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ghannili Shwayy Shwayy (1945)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Zakariyya Ahmad</span>
+                                    <span>Música de Zakariyya Ahmad</span>
                                 </div>
                             </label>
                         </div>

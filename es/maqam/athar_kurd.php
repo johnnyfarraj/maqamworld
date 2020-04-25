@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Msafir w Albi Ma‘ak (1950)</b>
                                     <span>Leila Murad</span>
-                                    <span>Music by Ahmad Sidqi</span>
+                                    <span>Música de Ahmad Sidqi</span>
                                 </div>
                             </label>
                         </div>
@@ -96,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>el-Hana wel-Widd (1975)</b>
                                     <span>Leila Murad</span>
-                                    <span>Music by Abdel Mun‘im al-Hariri</span>
+                                    <span>Música de Abdel Mun‘im al-Hariri</span>
                                 </div>
                             </label>
                         </div>
@@ -109,7 +109,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Fagr Nurak Hall w Ban (c.1952)</b>
                                     <span>Vocals by Baligh Hamdi</span>
-                                    <span>Music by Yusef Shawqi</span>
+                                    <span>Música de Yusef Shawqi</span>
                                 </div>
                             </label>
                         </div>
@@ -122,7 +122,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>el-Hobb Kida (1959)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Riyad al-Sunbati</span>
+                                    <span>Música de Riyad al-Sunbati</span>
                                 </div>
                             </label>
                         </div>
@@ -136,7 +136,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Sama‘i Hijazkar Kurd</b>
                                     <span>Al-Kindi Ensemble</span>
                                     <span><img src="/img/cd.png"> The Whirling Dervishes of Damascus Vol. 2</span>
-                                    <span>Music by Salah al-Mahdi (Tunisia)</span>
+                                    <span>Música de Salah al-Mahdi (Tunisia)</span>
                                 </div>
                             </label>
                         </div>

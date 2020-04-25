@@ -65,7 +65,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Adhkuru al-Hubba</b>
                                     <span>Abdel Halim Noueira Ensemble</span>
-                                    <span>Music by Dawud Husni</span>
+                                    <span>Música de Dawud Husni</span>
                                 </div>
                             </label>
                         </div>

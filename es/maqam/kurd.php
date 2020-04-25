@@ -80,7 +80,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>‘Awwedti ‘Ayni (1958)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Riyad al-Sunbati</span>
+                                    <span>Música de Riyad al-Sunbati</span>
                                 </div>
                             </label>
                         </div>
@@ -93,7 +93,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Zalimni (1951)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Riyad al-Sunbati</span>
+                                    <span>Música de Riyad al-Sunbati</span>
                                 </div>
                             </label>
                         </div>
@@ -119,7 +119,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Yamurru ‘Ujuban</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
+                                    <span>Música de ‘Umar al-Batsh</span>
                                     <span><img src="/img/cd.png"> Au Palais Des Congrès (1995)</span>
                                 </div>
                             </label>
@@ -133,7 +133,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Ya Bahjet el-Rouh</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Music by Sayyed Darwish</span>
+                                    <span>Música de Sayyed Darwish</span>
                                     <span><img src="/img/cd.png"> Au Palais Des Congrès (1995)</span>
                                 </div>
                             </label>
@@ -147,7 +147,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mashghul ‘Aleik</b>
                                     <span>Karem Mahmud</span>
-                                    <span>Music by Ahmad Sidqi</span>
+                                    <span>Música de Ahmad Sidqi</span>
                                 </div>
                             </label>
                         </div>
@@ -160,7 +160,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Sanatein</b>
                                     <span>Leila Mourad</span>
-                                    <span>Music by Ra'uf Dhihni</span>
+                                    <span>Música de Ra'uf Dhihni</span>
                                 </div>
                             </label>
                         </div>
@@ -197,7 +197,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr ‘Ishiqti Ruhak (1930)</b>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <span>Música de Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>

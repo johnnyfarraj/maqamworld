@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Duqqu il-Mazahir (1952)</b>
-                                    <span>Vocals and Music by Farid al-Atrash</span>
+                                    <span>Vocals and Música de Farid al-Atrash</span>
                                 </div>
                             </label>
                         </div>
@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Alf Leila w Leila (1969)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <span>Música de Baligh Hamdi</span>
                                 </div>
                             </label>
                         </div>
@@ -94,7 +94,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Qadd Ya Mal il-Sham</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Music by Ahmad Abu Khalil al-Qabbani</span>
+                                    <span>Música de Ahmad Abu Khalil al-Qabbani</span>
                                 </div>
                             </label>
                         </div>
@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Hann el-Hadid (1974)</b>
                                     <span>Joseph Saqr</span>
-                                    <span>Music by Ziad Rahbani</span>
+                                    <span>Música de Ziad Rahbani</span>
                                     <span>From the musical Nazl el-Surur</span>
                                 </div>
                             </label>

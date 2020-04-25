@@ -58,7 +58,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Sawwah (1966)</b>
                                     <span>Abdel Halim Hafez</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <span>Música de Baligh Hamdi</span>
                                 </div>
                             </label>
                         </div>
@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Zayy el-Hawa (1970)</b>
                                     <span>Abdel Halim Hafez</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <span>Música de Baligh Hamdi</span>
                                 </div>
                             </label>
                         </div>
@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>‘Ala Hisb Widad Galbi (1953)</b>
                                     <span>Hossam Ramzi</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <span>Música de Baligh Hamdi</span>
                                 </div>
                             </label>
                         </div>
@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Bahibbak Saddaqni</b>
                                     <span>Warda</span>
-                                    <span>Music by Sayyed Makkawi</span>
+                                    <span>Música de Sayyed Makkawi</span>
                                 </div>
                             </label>
                         </div>
@@ -109,7 +109,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Habba Fouq We Habba Taht</b>
-                                    <span>Vocals and Music by Ahmad Adaweya</span>
+                                    <span>Vocals and Música de Ahmad Adaweya</span>
                                 </div>
                             </label>
                         </div>
@@ -121,7 +121,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Adik Ti'ul Makhadtesh</b>
-                                    <span>Vocals and Music by Ahmad Adaweya</span>
+                                    <span>Vocals and Música de Ahmad Adaweya</span>
                                 </div>
                             </label>
                         </div>

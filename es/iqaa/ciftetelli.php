@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Ishta'tillak (1962)</b>
-                                    <span>Vocals and Music by Farid al-Atrash</span>
+                                    <span>Vocals and Música de Farid al-Atrash</span>
                                 </div>
                             </label>
                         </div>
@@ -113,7 +113,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Dala‘ Dalla‘ (1974)</b>
                                     <span>Sabah</span>
-                                    <span>Music by Farid al-Atrash</span>
+                                    <span>Música de Farid al-Atrash</span>
                                 </div>
                             </label>
                         </div>
@@ -138,7 +138,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Tile‘ Li el-Biki</b>
                                     <span>Fairouz</span>
-                                    <span>Music by Philemon Wehbe</span>
+                                    <span>Música de Philemon Wehbe</span>
                                 </div>
                             </label>
                         </div>
@@ -171,7 +171,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>‘Aziza (1955)</b>
                                     <span>Instrumental Composition</span>
-                                    <span>Music by Muhammad Abdel Wahab (from the movie <strong>‘Aziza</strong>)</span>
+                                    <span>Música de Muhammad Abdel Wahab (from the movie <strong>‘Aziza</strong>)</span>
                                 </div>
                             </label>
                         </div>
@@ -195,7 +195,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Nura Nura (1953)</b>
-                                    <span>Vocals and Music by Farid al-Atrash</span>
+                                    <span>Vocals and Música de Farid al-Atrash</span>
                                 </div>
                             </label>
                         </div>
@@ -220,7 +220,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Tuta</b>
                                     <span>Instrumental Composition</span>
-                                    <span>Music by Farid al-Atrash</span>
+                                    <span>Música de Farid al-Atrash</span>
                                 </div>
                             </label>
                         </div>
@@ -233,7 +233,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Dara Duri Fina</b>
                                     <span>Fairouz</span>
-                                    <span>Music by Philemon Wehbe</span>
+                                    <span>Música de Philemon Wehbe</span>
                                 </div>
                             </label>
                         </div>

@@ -80,7 +80,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Halawit el-Dunya (c.1950)</b>
                                     <span>Sayyed Makkawi</span>
-                                    <span>Music by Zakariya Ahmad</span>
+                                    <span>Música de Zakariya Ahmad</span>
                                 </div>
                             </label>
                         </div>
@@ -93,7 +93,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Aya Daraha Bil-Huzn</b>
                                     <span>Hassan al-Haffar</span>
-                                    <span>Music by Majdi al-‘Aqili</span>
+                                    <span>Música de Majdi al-‘Aqili</span>
                                 </div>
                             </label>
                         </div>
@@ -105,7 +105,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mawwal Amana Ya Leil (1931)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab</span>
+                                    <span>Vocals and Música de Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>

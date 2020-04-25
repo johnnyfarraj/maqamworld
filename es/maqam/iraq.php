@@ -105,7 +105,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Sama‘i ‘Iraq</b>
                                     <span>Tunisian Radio Orchestra</span>
-                                    <span>Music by Yusuf Basha</span>
+                                    <span>Música de Yusuf Basha</span>
                                 </div>
                             </label>
                         </div>

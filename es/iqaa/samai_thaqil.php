@@ -94,7 +94,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Laha Badru al-Timm</b>
                                     <span>Abdel Halim Noueira Ensemble</span>
-                                    <span>Music by Sheikh Mahmud Subh</span>
+                                    <span>Música de Sheikh Mahmud Subh</span>
                                 </div>
                             </label>
                         </div>
@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Mala al-Kasat</b>
                                     <span>Ensemble Al-Kindi</span>
-                                    <span>Music by Muhammad ‘Uthman</span>
+                                    <span>Música de Muhammad ‘Uthman</span>
                                 </div>
                             </label>
                         </div>
@@ -133,7 +133,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Talaffata al-Dhabiyu</b>
                                     <span>Ensemble Al-Kindi</span>
-                                    <span>Music by Sheikh Mahmud Subh</span>
+                                    <span>Música de Sheikh Mahmud Subh</span>
                                 </div>
                             </label>
                         </div>

@@ -77,7 +77,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>el-Bortoqal (1938)</b>
                                     <span>Vocals by Ra'isa ‘Afifi and Muhammad Abdel Wahab</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <span>Música de Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -90,7 +90,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Tislam Idein Elli-shtara (c. 1960)</b>
                                     <span>Vocals by Muhammad Abdel Muttalib</span>
-                                    <span>Music by Mahmud Kamel (Egypt)</span>
+                                    <span>Música de Mahmud Kamel (Egypt)</span>
                                 </div>
                             </label>
                         </div>
@@ -102,7 +102,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Albi Bi Ulli Kalam (c.1954)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab</span>
+                                    <span>Vocals and Música de Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -114,7 +114,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ahmad Ya Habibi</b>
-                                    <span>Vocals and Music by Sabri al-Mudallal</span>
+                                    <span>Vocals and Música de Sabri al-Mudallal</span>
                                     <span><img src="/img/cd.png"> Songs from Aleppo</span>
                                 </div>
                             </label>
@@ -128,7 +128,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>el-Najmat Saru Yis'alu (1964)</b>
                                     <span>Wadih al-Safi</span>
-                                    <span>Music by Muhammad Muhsin</span>
+                                    <span>Música de Muhammad Muhsin</span>
                                 </div>
                             </label>
                         </div>

@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr Emta el-Hawa (1936)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Zakariyya Ahmad</span>
+                                    <span>Música de Zakariyya Ahmad</span>
                                 </div>
                             </label>
                         </div>
@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ghannili Shwayy Shwayy (1945)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Zakariyya Ahmad</span>
+                                    <span>Música de Zakariyya Ahmad</span>
                                 </div>
                             </label>
                         </div>
@@ -94,7 +94,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Raqsat al-Sus (1974)</b>
-                                    <span>Music by the Rahbani Brothers</span>
+                                    <span>Música de the Rahbani Brothers</span>
                                     <span>From the operetta "Lulu"</span>
                                 </div>
                             </label>
@@ -157,7 +157,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya ‘Ammi Ya Saheb el-Gamal</b>
-                                    <span>Vocals and Music by Ahmed Adaweyah</span>
+                                    <span>Vocals and Música de Ahmed Adaweyah</span>
                                 </div>
                             </label>
                         </div>
@@ -182,7 +182,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Layli Ma Birda Bukra</b>
-                                    <span>Vocals and Music by Wadih al-Safi</span>
+                                    <span>Vocals and Música de Wadih al-Safi</span>
                                 </div>
                             </label>
                         </div>
@@ -195,7 +195,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ib‘id ‘Anni ‘Uyunak</b>
                                     <span>Yasmin al-Khayyam</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <span>Música de Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -208,7 +208,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ib‘id ‘Anni ‘Uyunak - Nay Solo</b>
                                     <span>Yasmin al-Khayyam</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <span>Música de Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>

@@ -59,7 +59,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Hibbi Da‘ani Lil-Wisal</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Music by Sayyed Darwish</span>
+                                    <span>Música de Sayyed Darwish</span>
                                     <span><img src="/img/cd.png"> Nagham Al-Ams Vol.2 - Bayati Shuri</span>
                                 </div>
                             </label>
@@ -74,7 +74,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Muwashah Hibbi Da‘ani Lil-Wisal</b>
                                     <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
                                     <span>Conductor: Aïda Shalhoub Ziadé</span>
-                                    <span>Music by Sayyed Darwish</span>
+                                    <span>Música de Sayyed Darwish</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>
                             </label>
@@ -88,7 +88,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Munyati Man Rumtu Qurbuh</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
+                                    <span>Música de ‘Umar al-Batsh</span>
                                     <span><img src="/img/cd.png"> Nagham Al-Ams Vol.9 - Rast</span>
                                 </div>
                             </label>
@@ -103,7 +103,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Muwashah Munyati Sidu-l-Milah</b>
                                     <span>(performed in 11/4)</span>
                                     <span>The munshid Mahmud Fares</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
+                                    <span>Música de ‘Umar al-Batsh</span>
                                 </div>
                             </label>
                         </div>

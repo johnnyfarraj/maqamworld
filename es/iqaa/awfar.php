@@ -105,7 +105,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Muwashah Ya Man Ramani Bil-Siham</b>
                                     <span>(in <a href="../maqam/nikriz.php">Maqam Nikriz</a>)</span>
                                     <span>Ensemble Dugah</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
+                                    <span>Música de ‘Umar al-Batsh</span>
                                 </div>
                             </label>
                         </div>
@@ -119,7 +119,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Muwashah Ya Na‘isa al-Ajfan</b>
                                     <span>(in <a href="../maqam/nahawand.php">Maqam Nahawand</a>)</span>
                                     <span>Khaled al-Hafez</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
+                                    <span>Música de ‘Umar al-Batsh</span>
                                 </div>
                             </label>
                         </div>

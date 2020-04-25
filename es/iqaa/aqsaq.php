@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Jalla Man Bil Husni Sawwar</b>
                                     <span>Abdel Halim Noueira Ensemble</span>
-                                    <span>Music by Kamel al-Khula‘i</span>
+                                    <span>Música de Kamel al-Khula‘i</span>
                                 </div>
                             </label>
                         </div>
@@ -149,7 +149,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Muwashah Ayyuha al-Saqi</b>
                                     <span>Sabah Fakhri</span>
                                     <span><img src="/img/cd.png"> Beiteddine Festival Vol. 1</span>
-                                    <span>Music by Majdi al-‘Aqili</span>
+                                    <span>Música de Majdi al-‘Aqili</span>
                                 </div>
                             </label>
                         </div>
@@ -163,7 +163,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Muwashah ‘Adhibuni</b>
                                     <span>Ensemble Al-Kindi</span>
                                     <span><img src="/img/cd.png"> The Aleppian Music Room Vol. 1 - Hijazkar Kurd &amp; Saba</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
+                                    <span>Música de ‘Umar al-Batsh</span>
                                 </div>
                             </label>
                         </div>

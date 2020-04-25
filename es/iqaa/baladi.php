@@ -60,7 +60,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>‘Aziza (1955)</b>
                                     <span>Instrumental Composition</span>
-                                    <span>Music by Muhammad Abdel Wahab (from the movie ‘Aziza, 1955)</span>
+                                    <span>Música de Muhammad Abdel Wahab (from the movie ‘Aziza, 1955)</span>
                                 </div>
                             </label>
                         </div>

@@ -128,7 +128,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Khala al-‘Idhar</b>
-                                    <span>Vocals and Music by ‘Umar al-Batsh</span>
+                                    <span>Vocals and Música de ‘Umar al-Batsh</span>
                                 </div>
                             </label>
                         </div>

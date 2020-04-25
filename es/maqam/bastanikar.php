@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Zalamu (1957)</b>
                                     <span>Abdel Halim Hafez</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <span>Música de Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -98,7 +98,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ahl el-Hawa (1958)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Zakariyya Ahmad</span>
+                                    <span>Música de Zakariyya Ahmad</span>
                                 </div>
                             </label>
                         </div>
@@ -125,7 +125,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Muwashah Anshidi Ya Saba</b>
                                     <span>Palestininan National Arabic Orchestra</span>
                                     <span>Director Ramzi Abu Radwan</span>
-                                    <span>Music by Yehiya al-Sa‘udi</span>
+                                    <span>Música de Yehiya al-Sa‘udi</span>
                                 </div>
                             </label>
                         </div>
@@ -139,7 +139,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Muwashah Aqbala al-Subhu Yughanni</b>
                                     <span>Ensemble Ornina (Syria)</span>
                                     <span>Conductor Dr. Muhammad Qadri Dalal</span>
-                                    <span>Music by Bakri al-Kurdi</span>
+                                    <span>Música de Bakri al-Kurdi</span>
                                 </div>
                             </label>
                         </div>

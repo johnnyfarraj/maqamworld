@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Muwashah Ayqadha al-Hubbu Fu'adi</b>
                                     <span>Hassan al-Haffar</span>
                                     <span><img src="/img/cd.png"> The Aleppo Suites Vol.2</span>
-                                    <span>Music by Bahjat Hassan</span>
+                                    <span>Música de Bahjat Hassan</span>
                                 </div>
                             </label>
                         </div>
@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Da‘i al-Hawa Qad Sah</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
+                                    <span>Música de ‘Umar al-Batsh</span>
                                 </div>
                             </label>
                         </div>
