@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="jins-page">
 
     <?php
-      $page = "fr/jins/mustaar.php";
+      $page = "es/jins/mustaar.php";
       include($ROOT . 'inc/menu.php');
     ?>
 

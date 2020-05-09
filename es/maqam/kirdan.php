@@ -44,7 +44,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                      <div class="notation" id="notation1">
-                        <img src="/note/maqam/kirdan.png" class="img-fluid" usemap="#notemap">
+                        <img src="../note/maqam/kirdan.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
                         <p class="clicknotes">Haz clic en cada nota y mantenga presionado para oírla.</p>

@@ -15,8 +15,8 @@
     <li><a href="/es/form/instr_comp.php#muqaddima">Muqaddima</a></li>
     <li><a href="/es/form/vocal_comp.php#muwashah">Muwashah</a></li>
     <li><a href="/es/form/vocal_comp.php#qadd">Qadd</a></li>
-    <li><a href="/es/form/vocal_comp.php#qasida">Qasida (composed)</a></li>
-    <li><a href="/es/form/improv.php#qasida">Qasida (improvized)</a></li>
+    <li><a href="/es/form/vocal_comp.php#qasida">Qasida (compuesta)</a></li>
+    <li><a href="/es/form/improv.php#qasida">Qasida (improvisada)</a></li>
     <li><a href="/es/form/ottoman.php#samai">Sama‘i</a></li>
     <li><a href="/es/form/instr_comp.php#tahmila">Tahmila</a></li>
     <li><a href="/es/form/improv.php#taqsim">Taqsim</a></li>
