@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Badat Min al-Khidri (khana)</b>
-                                    <span>Ensemble Al-Kindi</span>
+                                    <span>Conjunto Al-Kindi</span>
                                     <span><img src="/img/cd.png"> Les Croisades Sous Le Regard De l'Orient Part I - Maqam Bayati</span>
                                 </div>
                             </label>

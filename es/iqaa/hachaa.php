@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/hachaa_4_4.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Hacha‘ in 4/4 is very popular in Sufi music, especially in pieces that only use percussion instruments. Although the 4/4 version is by far the most prevalent, it is an adaptation of a more folkloric <em>iqa‘</em> by the same name in 2/4. A rare adaptation is the 6/4 version used by composer Baligh Hamdi in Umm Kulthum's "Alf Leila w Leila".
+                    <p>Iqa‘ Hacha‘ in 4/4 is very popular in Sufi music, especially in pieces that only use percussion instruments. Although the 4/4 version is by far the most prevalent, it is an adaptation of a more folkloric <em>iqa‘</em> by the same name in 2/4. A rare adaptation is the 6/4 version used by composer Baligh Hamdi in Umm Kulthum's "Alf Leila wi Leila".
 					</p>
 
                     <div class="player-area">
@@ -143,7 +143,7 @@ include($ROOT . 'inc/head.php');
 
                     <br>
                     <div class="heading jins text-center">
-                        <h3>Examples of the 2/4 form of Iqa‘ Hacha‘</h3>
+                        <h3>TODO Examples of the 2/4 form of Iqa‘ Hacha‘</h3>
                     </div>
                     <br>
 
@@ -179,7 +179,7 @@ include($ROOT . 'inc/head.php');
 
                     <br>
                     <div class="heading jins text-center">
-                        <h3>Examples of the 6/4 form of Iqa‘ Hacha‘</h3>
+                        <h3>TODO Examples of the 6/4 form of Iqa‘ Hacha‘</h3>
                     </div>
                     <br>
 
@@ -192,7 +192,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Alf Leila w leila (1969)</b>
+                                    <b>Alf Leila wi leila (1969)</b>
                                     <span>Umm Kulthum</span>
                                     <span>Música de Baligh Hamdi</span>
                                 </div>

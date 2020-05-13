@@ -115,7 +115,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr Yama-nta Wahishni</b>
-                                    <span>Abdel Halim Noueira Ensemble</span>
+                                    <span>Orquesta Abdel Halim Noueira</span>
                                     <span>Música de Muhammad ‘Uthman</span>
                                 </div>
                             </label>
@@ -129,7 +129,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Nas Ana Mutti Fi Hubbi</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Música de Sayyed Darwish</span>
+                                    <span>Música de Sayed Darwish</span>
                                 </div>
                             </label>
                         </div>
@@ -168,7 +168,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Maria</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Música de Sayyed Darwish</span>
+                                    <span>Música de Sayed Darwish</span>
                                 </div>
                             </label>
                         </div>
@@ -179,8 +179,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Qanun in Maqam Hijaz</b>
-                                    <span>Sabri al-Mudallal Ensemble</span>
+                                    <b>Taqsim de Qanun en Maqam Hijaz</b>
+                                    <span>Conjunto Sabri al-Mudallal</span>
                                     <span><img src="/img/cd.png"> Songs from Aleppo</span>
                                 </div>
                             </label>
@@ -207,7 +207,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Laha Badru-t-Timm</b>
                                     <span>(Maqam Suzidil)</span>
-                                    <span>Firqat al-Musiqa al-Arabiyya</span>
+                                    <span>Firqat al-Musiqa al-Arabiya</span>
                                     <span>Música de Mahmud Subh</span>
                                 </div>
                             </label>
@@ -234,7 +234,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Shadd ‘Araban</b>
-                                    <span>‘Umar Sarmini Ensemble</span>
+                                    <span>Conjunto Omar al-Sarmini</span>
                                     <span>Música de Tanburi Cemil Bey</span>
                                 </div>
                             </label>

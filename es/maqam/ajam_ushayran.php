@@ -109,7 +109,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Hobbi Fi Albi Amana</b>
-                                    <span>Fathiyya Ahmad</span>
+                                    <span>Fathiya Ahmad</span>
                                     <span>Música de Muhammad al-Qasabgi</span>
                                 </div>
                             </label>

@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Ya Shadi al-Alhan</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Música de Sayyed Darwish</span>
+                                    <span>Música de Sayed Darwish</span>
                                 </div>
                             </label>
                         </div>
@@ -112,7 +112,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Asamina</b>
                                     <span>Fairouz</span>
-                                    <span>Música de Philemon Wehbe</span>
+                                    <span>Música de Philemon Wéhbe</span>
                                 </div>
                             </label>
                         </div>

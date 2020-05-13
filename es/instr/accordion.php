@@ -58,7 +58,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ya Msahharni</b>
-                                    <span>Egyptian Arabic Accordion pioneer Faruq Salama plays the introduction of Umm Kukthum's song <strong>Ya Msahharni</strong> (1972, music by Sayyed Makkawi.</span>
+                                    <span>Egyptian Arabic Accordion pioneer Faruq Salama plays the introduction of Umm Kukthum's song <strong>Ya Msahharni</strong> (1972, music by Sayed Makkawi.</span>
                                 </div>
                             </label>
                         </div>
@@ -106,7 +106,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                 <b>Ahmed ‘Adaweya</b>
-                                <span>Ahmed ‘Adaweya's song <strong>Ya Hilu il-Malamih</strong> (in the Egyptian <em>Sha‘bi</em> genre) accompanied by a belly dancer.</span>
+                                <span>Ahmed ‘Adaweya's song <strong>Ya Hilu el-Malamih</strong> (in the Egyptian <em>Sha‘bi</em> genre) accompanied by a belly dancer.</span>
                                 </div>
                             </label>
                         </div>

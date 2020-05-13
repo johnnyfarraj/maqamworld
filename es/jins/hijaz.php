@@ -100,7 +100,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Bi Karm el-Lulu</b>
                                     <span>Fairouz</span>
-                                    <span>Música de Philemon Wehbe</span>
+                                    <span>Música de Philemon Wéhbe</span>
                                 </div>
                             </label>
                         </div>

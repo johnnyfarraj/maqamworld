@@ -130,7 +130,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Bayati Ibrahim al-‘Aryan (Khana 2)</b>
-                                    <span>Salah ‘Arram Ensemble (Egypt)</span>
+                                    <span>Conjunto Salah ‘Arram (Egipto)</span>
                                 </div>
                             </label>
                         </div>

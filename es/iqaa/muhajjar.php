@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Badat Min al-Khidri</b>
-                                    <span>Ensemble Al-Kindi</span>
+                                    <span>Conjunto Al-Kindi</span>
                                 </div>
                             </label>
                         </div>
@@ -68,7 +68,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Hajarni Habibi</b>
-                                    <span>Al-Turath Ensemble</span>
+                                    <span>Conjunto Al-Turath</span>
                                 </div>
                             </label>
                         </div>
@@ -80,7 +80,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Hal ‘Ala al-Astar</b>
-                                    <span>Ensemble Morkos</span>
+                                    <span>Conjunto Morkos (Líbano)</span>
                                 </div>
                             </label>
                         </div>
@@ -92,9 +92,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Munyati ‘Azza Istibari</b>
-                                    <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
-                                    <span>Conductor: Aïda Shalhoub Ziadé</span>
-                                    <span>Música de Sayyed Darwish</span>
+                                    <span>Coro de la Universidad Kaslik (Líbano)</span>
+                                    <span>Conductor Aïda Shalhoub Ziadé</span>
+                                    <span>Música de Sayed Darwish</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>
                             </label>
@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Ya Tura Ba‘da al-Bi‘adi</b>
-                                    <span>Ensemble Al-Kindi</span>
+                                    <span>Conjunto Al-Kindi</span>
                                 </div>
                             </label>
                         </div>

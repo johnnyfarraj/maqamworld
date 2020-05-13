@@ -76,7 +76,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>el-Bortoqal (1938)</b>
-                                    <span>Voz por Ra'isa ‘Afifi and Muhammad Abdel Wahab</span>
+                                    <span>Voz por Ra'isa ‘Afifi y Muhammad Abdel Wahab</span>
                                     <span>Música de Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -90,7 +90,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Tislam Idein Elli-shtara (c. 1960)</b>
                                     <span>Voz por Muhammad Abdel Muttalib</span>
-                                    <span>Música de Mahmud Kamel (Egypt)</span>
+                                    <span>Música de Mahmud Kamel (Egipto)</span>
                                 </div>
                             </label>
                         </div>
@@ -141,7 +141,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Gulli Ya Hilu</b>
                                     <span>Nazem al-Ghazali</span>
-                                    <span>(Iraqi Traditional)</span>
+                                    <span>(Tradicional de Iraq)</span>
                                 </div>
                             </label>
                         </div>

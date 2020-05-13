@@ -186,8 +186,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Dawr Dayya‘ti Mustaqbal Hayati (1914)</b>
-                                    <span>La grabación de Sabah Fakhri de la canción <strong>Dawr Dayya‘ti Mustaqbal Hayati</strong> en el <a href="../maqam/bayati_shuri.php">Maqam Bayati Shuri</a> (1914, música de Sayyed Darwish).
+                                    <b>Dawr Daya‘ti Mustaqbal Hayati (1914)</b>
+                                    <span>La grabación de Sabah Fakhri de la canción <strong>Dawr Daya‘ti Mustaqbal Hayati</strong> en el <a href="../maqam/bayati_shuri.php">Maqam Bayati Shuri</a> (1914, música de Sayed Darwish).
                                 </span>
                                 </div>
                             </label>
@@ -262,8 +262,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Waraqu il-Asfar</b>
-                                    <span>La canción de Fairouz, <strong>Waraqu il-Asfar</strong> en el <a href="../maqam/rast.php">Maqam Rast</a>, compuesto de Philemon Wehbe.
+                                    <b>Waraqu el-Asfar</b>
+                                    <span>La canción de Fairouz, <strong>Waraqu el-Asfar</strong> en el <a href="../maqam/rast.php">Maqam Rast</a>, compuesto de Philemon Wéhbe.
                                 </span>
                                 </div>
                             </label>
@@ -377,8 +377,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Ya Salam ‘Ala Hubbi w Hubbak (1957)</b>
-                                    <span><strong>Ya Salam ‘Ala Hubbi w Hubbak</strong> de Farid al-Atrash y Shadia, compuesto de Farid al-Atrash, de la película <strong>Inta Habibi</strong> (1957).
+                                    <b>Ya Salam ‘Ala Hubbi wi Hubbak (1957)</b>
+                                    <span><strong>Ya Salam ‘Ala Hubbi wi Hubbak</strong> de Farid al-Atrash y Shadia, compuesto de Farid al-Atrash, de la película <strong>Inta Habibi</strong> (1957).
                                     </span>
                                 </div>
                             </label>
@@ -407,7 +407,7 @@ include($ROOT . 'inc/head.php');
                              --><div class="info">
                                     <b>Leh Ya Banafseg (1961)</b>
                                     <span>
-                                        La <em>Wasla</em> de Saleh Abdel Hayy en el <a href="../maqam/rast.php">Maqam Rast</a>, usando un <a href="improv.php#taqsim">Taqsim</a> por el <a href="../instr/oud.php">oud</a>, parte del <a href="ottoman.php#samai">Sama‘i</a> de Tatyos Effendi, un Taqsim por un <a href="../instr/violin.php">violin</a>, <a href="improv.php#layali">Layali</a> acompañada del <a href="../instr/qanun.php">qanun</a>, y finalmente la <a href="vocal_comp.php#taqtuqa">Taqtuqa</a> Leh Ya Banafseg (1961), compuesto de Riyad al-Sunbati.
+                                        La <em>Wasla</em> de Saleh Abdel Hay en el <a href="../maqam/rast.php">Maqam Rast</a>, usando un <a href="improv.php#taqsim">Taqsim</a> por el <a href="../instr/oud.php">oud</a>, parte del <a href="ottoman.php#samai">Sama‘i</a> de Tatyos Effendi, un Taqsim por un <a href="../instr/violin.php">violin</a>, <a href="improv.php#layali">Layali</a> acompañada del <a href="../instr/qanun.php">qanun</a>, y finalmente la <a href="vocal_comp.php#taqtuqa">Taqtuqa</a> Leh Ya Banafseg (1961), compuesto de Riyad al-Sunbati.
                                     </span>
                                 </div>
                             </label>
@@ -423,9 +423,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Dawr ‘Ishna w Shufna</b>
+                                    <b>Dawr ‘Ishna wi Shufna</b>
                                     <span> 
-                                        Una Wasla en el <a href="../maqam/rast.php">Maqam Rast</a>, realizado del cantante egipcio ‘Abbas al-Bleidi incluyendo un <a href="improv.php#taqsim">Taqsim</a> por el <a href="../instr/oud.php">oud</a> de George Michel, parte de un <a href="ottoman.php#samai">Sama‘i</a> Rast de Tatyos Effendi, un <a href="../instr/violin.php">violin</a> Taqsim de Muhammad al-’Aqqad, Muwashah Atani Zamani, un <a href="../instr/qanun.php">qanun</a> Taqsim de Fihmi ‘Awad, luego Layali, de final <strong>Dawr ‘Ishna w Shufna</strong> (compuesto de Muhammad ‘Uthman).
+                                        Una Wasla en el <a href="../maqam/rast.php">Maqam Rast</a>, realizado del cantante egipcio ‘Abbas al-Bleidi incluyendo un <a href="improv.php#taqsim">Taqsim</a> por el <a href="../instr/oud.php">oud</a> de George Michel, parte de un <a href="ottoman.php#samai">Sama‘i</a> Rast de Tatyos Effendi, un <a href="../instr/violin.php">violin</a> Taqsim de Muhammad al-’Aqqad, Muwashah Atani Zamani, un <a href="../instr/qanun.php">qanun</a> Taqsim de Fihmi ‘Awad, luego Layali, de final <strong>Dawr ‘Ishna wi Shufna</strong> (compuesto de Muhammad ‘Uthman).
                                 </span>
                                 </div>
                             </label>

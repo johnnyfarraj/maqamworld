@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                         <div class="row">
                             <div class="col-sm-3">
                                 <ul class="page-list">
-                                    <li><a href="iqaa/ayyub.php">Ayyub 2/4</a></li>
+                                    <li><a href="iqaa/ayyub.php">Ayub 2/4</a></li>
                                     <li><a href="iqaa/malfuf.php">Malfuf 2/4</a></li>
                                     <li><a href="iqaa/fox.php">Fox 2/4</a></li>
                                     <li><a href="iqaa/karachi.php">Karachi 2/4</a></li>
@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                             </div>
                             <div class="col-sm-3">
                                 <ul class="page-list">
-                                    <li><a href="iqaa/thurayya.php">Thurayya 5/8</a></li>
+                                    <li><a href="iqaa/thurayya.php">Thuraya 5/8</a></li>
                                     <li><a href="iqaa/sudasi.php">Sudasi 6/4</a></li>
                                     <li><a href="iqaa/yuruk_semai.php">Yuruk Semai 6/8</a></li>
                                     <li><a href="iqaa/dawr_hindi.php">Dawr Hindi 7/8</a></li>

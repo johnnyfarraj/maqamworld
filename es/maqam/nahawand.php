@@ -152,8 +152,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Nahawand</b>
-                                    <span>Simon Shaheen Ensemble</span>
-                                    <span>Música de Mesut Cemil (Turkey)</span>
+                                    <span>Conjunto Simon Shaheen</span>
+                                    <span>Música de Mesut Cemil (Turquía)</span>
                                 </div>
                             </label>
                         </div>
@@ -165,7 +165,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Nahawand</b>
-                                    <span>Abdel Halim Noueira Ensemble</span>
+                                    <span>Orquesta Abdel Halim Noueira</span>
                                     <span>Música de Safar ‘Ali</span>
                                 </div>
                             </label>
@@ -178,7 +178,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Longa Farahfaza</b>
-                                    <span>Simon Shaheen Ensemble</span>
+                                    <span>Conjunto Simon Shaheen</span>
                                     <span>Música de Riyad al-Sunbati</span>
                                 </div>
                             </label>
@@ -204,7 +204,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Longa Nahawand</b>
-                                    <span>Abdel Halim Noueira Ensemble</span>
+                                    <span>Orquesta Abdel Halim Noueira</span>
                                     <span>Música de Yorgo Baganos</span>
                                 </div>
                             </label>

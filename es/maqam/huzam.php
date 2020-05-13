@@ -88,7 +88,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Ya Ghusna Naqa</b>
                                     <span>(Maqam Huzam)</span>
-                                    <span>Firqat al-Musiqa al-Arabiyya, Egypt</span>
+                                    <span>Firqat al-Musiqa al-Arabiya (Egipto)</span>
                                 </div>
                             </label>
                         </div>
@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ayyuha al-Saqi</b>
+                                    <b>Muwashah Ayuha al-Saqi</b>
                                     <span>Sabah Fakhri</span>
                                     <span>Música de Majdi al-‘Aqili</span>
                                     <span>Nagham Al Ams Vol. 13 Huzam</span>
@@ -128,7 +128,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Marmar Zamani</b>
                                     <span>Fairouz</span>
-                                    <span>(Traditional melody)</span>
+                                    <span>(tradicional)</span>
                                 </div>
                             </label>
                         </div>
@@ -136,7 +136,7 @@ include($ROOT . 'inc/head.php');
 
                     <!-- Start Rahat al-Arwah section -->
                     <div class="heading jins text-center">
-                        <h3>Maqam Rahat al-Arwah examples</h3>
+                        <h3>Ejemplos en Maqam Rahat al-Arwah</h3>
                     </div>
                     <div class="clearfix"></div>
 
@@ -186,7 +186,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dulab Rahat al-Arwah</b>
                                     <span>Aicha Redouane</span>
-                                    <span><img src="/img/cd.png"> Egypte</span>
+                                    <span><img src="/img/cd.png"> Égypte</span>
                                 </div>
                             </label>
                         </div>

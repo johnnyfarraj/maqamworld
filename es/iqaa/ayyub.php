@@ -4,9 +4,9 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Ayyub";
-$page_description = "Iqa‘ Ayyub";
-$page_keywords = "Iqa‘ Ayyub, sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos, Ciclos Rítmicos Árabes, El Iqa‘";
+$page_title = "Iqa‘ Ayub";
+$page_description = "Iqa‘ Ayub";
+$page_keywords = "Iqa‘ Ayub, sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos, Ciclos Rítmicos Árabes, El Iqa‘";
 $page_language = "es";
 
 include($ROOT . 'inc/head.php');
@@ -29,14 +29,14 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Ayyub 2/4</h1>
+                        <h1>Iqa‘ Ayub 2/4</h1>
                         <h3>(también llamado <strong>Zar</strong>)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/ayyub.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Ayyub</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/ayyub.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Ayub</a>
                     </div>
 
                     <div class="notation">
@@ -44,7 +44,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <p>
-                        Iqa‘ Ayyub (también deletreado Ayoub) se usa principalmente en la música sufí, así como en algunas músicas folclóricas y <em>Raqs Sharqi</em> (Danza del vientre). Ayyub a veces se llama <strong>Zar</strong> en Egipto, llamado en honor a una ceremonia de curación popular dirigida por mujeres que tocan instrumentos de percusión de mano. La sensación de Ayyub es rápida, corta y cíclica.
+                        Iqa‘ Ayub (también deletreado Ayoub) se usa principalmente en la música sufí, así como en algunas músicas folclóricas y <em>Raqs Sharqi</em> (Danza del vientre). Ayub a veces se llama <strong>Zar</strong> en Egipto, llamado en honor a una ceremonia de curación popular dirigida por mujeres que tocan instrumentos de percusión de mano. La sensación de Ayub es rápida, corta y cíclica.
                     </p>
 
                     <div class="player-area">
@@ -95,7 +95,7 @@ include($ROOT . 'inc/head.php');
                             	<div class="thumb-area"><img src="/img/tabla.png" class=""></div>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Iqa‘ Ayyub 2/4</b>
+                                    <b>Iqa‘ Ayub 2/4</b>
                                     <span>Demostración en el Tabla por Faisal Zedan</span>
                                 </div>
                             </label>

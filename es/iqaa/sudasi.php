@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Ya Hajal Sannin (1965)</b>
                                     <span>Fairouz</span>
                                     <span>Music and lyrics by the Rahbani Brothers</span>
-                                    <span>From the movie <strong>Bayya‘ el-Khawatim</strong></span>
+                                    <span>From the movie <strong>Baya‘ el-Khawatim</strong></span>
                                 </div>
                             </label>
                         </div>

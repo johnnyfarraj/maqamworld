@@ -79,7 +79,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Ya Halawit el-Dunya (c.1950)</b>
-                                    <span>Sayyed Makkawi</span>
+                                    <span>Sayed Makkawi</span>
                                     <span>Música de Zakariya Ahmad</span>
                                 </div>
                             </label>
@@ -118,7 +118,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Layali Zanjaran</b>
                                     <span>Ahmad Khabbari</span>
-                                    <span>Al-Turath Ensemble</span>
+                                    <span>Conjunto Al-Turath</span>
                                     <span><img src="/img/cd.png"> The Music In Spanish Al-Andalus - Hijaz</span>
                                 </div>
                             </label>
@@ -130,7 +130,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Semiramis (Taqsim Oud Zanjaran)</b>
+                                    <b>Semiramis (Taqsim de Oud Zanjaran)</b>
                                     <span>‘Amer ‘Ammuri</span>
                                     <span><img src="/img/cd.png"> Takasim Oud</span>
                                 </div>
@@ -143,7 +143,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Qanun Zanjaran</b>
+                                    <b>Taqsim de Qanun Zanjaran</b>
                                     <span>Abraham Salman</span>
                                     <span><img src="/img/cd.png"> Saltanah</span>
                                 </div>

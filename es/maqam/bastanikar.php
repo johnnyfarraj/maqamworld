@@ -137,8 +137,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Aqbala al-Subhu Yughanni</b>
-                                    <span>Ensemble Ornina (Syria)</span>
-                                    <span>Conductor Dr. Muhammad Qadri Dalal</span>
+                                    <span>Conjunto Ornina (Siria)</span>
+                                    <span>Conductor Muhammad Qadri Dalal</span>
                                     <span>Música de Bakri al-Kurdi</span>
                                 </div>
                             </label>
@@ -151,7 +151,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Nuzhatu al-Arwahi Badri</b>
-                                    <span>(performer unknown)</span>
+                                    <span>(artista desconocido)</span>
                                 </div>
                             </label>
                         </div>
@@ -175,7 +175,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Oud in Maqam Sikah</b>
+                                    <b>Taqsim de Oud en Maqam Sikah</b>
                                     <span>Riyad al-Sunbati</span>
                                     <span><img src="/img/cd.png"> Taqaseem Oud</span>
                                 </div>

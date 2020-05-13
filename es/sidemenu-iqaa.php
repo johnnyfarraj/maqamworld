@@ -5,7 +5,7 @@
     <li><a href="/es/iqaa/aqsaq.php">Aqsaq 9/8</a></li>
     <li><a href="/es/iqaa/awfar.php">Awfar Masri 19/4</a></li>
     <li><a href="/es/iqaa/awis.php">‘Awis 11/8</a></li>
-    <li><a href="/es/iqaa/ayyub.php">Ayyub 2/4</a></li>
+    <li><a href="/es/iqaa/ayyub.php">Ayub 2/4</a></li>
     <li><a href="/es/iqaa/baladi.php">Baladi 4/4</a></li>
     <li><a href="/es/iqaa/bambi.php">Bambi 8/4</a></li>
     <li><a href="/es/iqaa/ciftetelli.php">Ciftetelli 8/4</a></li>
@@ -36,7 +36,7 @@
     <li><a href="/es/iqaa/samai_thaqil.php">Sama‘i Thaqil 10/8</a></li>
     <li><a href="/es/iqaa/sittatu_ashar.php">Sittatu ‘Ashar Masri 32/4</a></li>
     <li><a href="/es/iqaa/sudasi.php">Sudasi 6/4</a></li>
-    <li><a href="/es/iqaa/thurayya.php">Thurayya 5/8</a></li>
+    <li><a href="/es/iqaa/thurayya.php">Thuraya 5/8</a></li>
     <li><a href="/es/iqaa/wahda.php">Wahda 4/4</a></li>
     <li><a href="/es/iqaa/wahda_saghira.php">Wahda Saghira 2/4</a></li>
     <li><a href="/es/iqaa/wahda_kabira.php">Wahda Kabira 8/4</a></li>

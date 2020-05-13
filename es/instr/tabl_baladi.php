@@ -62,7 +62,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Tabl Baladi with Mizmar</b>
-                                    <span>Armenian-Lebanese tabl_baladi player Setrak Sarkissian starts the rhythm for singer Samira Tawfiq in her song <strong>‘al-‘Ein Mulayyitein</strong>, accompanied by a Riq and Table Baladi. Recorded on Lebanese Television with violinist Rafik Hobeika leading the orchestra.</span>
+                                    <span>Armenian-Lebanese tabl_baladi player Setrak Sarkissian starts the rhythm for singer Samira Tawfiq in her song <strong>‘al-‘Ein Mulayitein</strong>, accompanied by a Riq and Table Baladi. Recorded on Lebanese Television with violinist Rafik Hobeika leading the orchestra.</span>
                                 </div>
                             </label>
                         </div>

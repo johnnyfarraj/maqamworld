@@ -104,7 +104,7 @@ include($ROOT . 'inc/head.php');
 					<!-- divider -->
 					<br>
 					<div class="heading jins text-center">
-						<h3>Examples of the slower form of Iqa‘ Fox that can be notated in 4/4</h3>
+						<h3>TODO Examples of the slower form of Iqa‘ Fox that can be notated in 4/4</h3>
 					</div>
 					<div class="clearfix"></div>
 					<br>

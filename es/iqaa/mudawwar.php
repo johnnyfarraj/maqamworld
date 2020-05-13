@@ -64,7 +64,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Adhkuru al-Hubba</b>
-                                    <span>Abdel Halim Noueira Ensemble</span>
+                                    <span>Orquesta Abdel Halim Noueira</span>
                                     <span>Música de Dawud Husni</span>
                                 </div>
                             </label>
@@ -78,7 +78,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Fika Kullu Ma Ara Hasan</b>
                                     <span>Composed in <a href="../maqam/bayati.php">Maqam Bayati</a></span>
-                                    <span>Abdel Halim Noueira Ensemble</span>
+                                    <span>Orquesta Abdel Halim Noueira</span>
                                 </div>
                             </label>
                         </div>
@@ -116,7 +116,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Muwashah Fika Kullu Ma Ara Hasan</b>
                                     <span>Composed in <a href="../maqam/hijaz.php">Maqam Hijaz</a></span>
                                     <span>Omar al-Sarmini</span>
-                                    <span>Al-Kindi Ensemble</span>
+                                    <span>Conjunto Al-Kindi</span>
                                 </div>
                             </label>
                         </div>

@@ -55,8 +55,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Hayyar al-Afkar</b>
-                                    <span>Abdel Halim Noueira Ensemble</span>
+                                    <b>Muwashah Hayar al-Afkar</b>
+                                    <span>Orquesta Abdel Halim Noueira</span>
                                     <span>Música de Muhammad ‘Uthman</span>
                                 </div>
                             </label>
@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Hibbi Malik al-Milah</b>
-                                    <span>Abdel Halim Noueira Ensemble</span>
+                                    <span>Orquesta Abdel Halim Noueira</span>
                                 </div>
                             </label>
                         </div>
@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Isqini al-Rah</b>
-                                    <span>Abdel Halim Noueira Ensemble</span>
+                                    <span>Orquesta Abdel Halim Noueira</span>
                                     <span>Música de Muhammad ‘Uthman</span>
                                 </div>
                             </label>
@@ -106,7 +106,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Qum Bina Ya Nur ‘Ayni</b>
-                                    <span>Abdel Halim Noueira Ensemble</span>
+                                    <span>Orquesta Abdel Halim Noueira</span>
                                 </div>
                             </label>
                         </div>
@@ -131,9 +131,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Ya ‘Udhayb al-Marshaf</b>
-                                    <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
-                                    <span>Conductor: Aïda Shalhoub Ziadé</span>
-                                    <span>Música de Sayyed Darwish</span>
+                                    <span>Coro de la Universidad Kaslik (Líbano)</span>
+                                    <span>Conductor Aïda Shalhoub Ziadé</span>
+                                    <span>Música de Sayed Darwish</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>
                             </label>

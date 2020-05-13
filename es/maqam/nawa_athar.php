@@ -117,7 +117,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Adhkuru al-Hubba</b>
-                                    <span>Abdel Halim Noueira Ensemble</span>
+                                    <span>Orquesta Abdel Halim Noueira</span>
                                     <span>Música de Dawud Husni</span>
                                 </div>
                             </label>
@@ -131,7 +131,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Sama‘i Nawa Athar</b>
                                     <span>Syrian Ensemble of Homs</span>
-                                    <span>Música de Jamil ‘Uways (Syria)</span>
+                                    <span>Música de Jamil ‘Uways (Siria)</span>
                                 </div>
                             </label>
                         </div>

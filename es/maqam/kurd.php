@@ -133,7 +133,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Ya Bahjet el-Rouh</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Música de Sayyed Darwish</span>
+                                    <span>Música de Sayed Darwish</span>
                                     <span><img src="/img/cd.png"> Au Palais Des Congrès (1995)</span>
                                 </div>
                             </label>

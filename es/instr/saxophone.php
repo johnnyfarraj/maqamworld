@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/saxophone.jpg" alt="The Saxophone">
-                        <span>TODO Arabic Saxophone pioneer Samir Surour (Egypt)</span>
+                        <span>TODO Arabic Saxophone pioneer Samir Surour (Egipto)</span>
                     </div>
 
                     <p>

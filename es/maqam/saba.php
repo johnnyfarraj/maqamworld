@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dulab, Taqsim Nay &amp; Layai Saba</b>
+                                    <b>Dulab, Taqsim de Nay y Layai en Maqam Saba</b>
                                     <span>Sabri al-Mudallal</span>
                                 </div>
                             </label>
@@ -109,7 +109,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Huwwa Sahih il-Hawa Ghallab (1960)</b>
+                                    <b>Huwwa Sahih el-Hawa Ghallab (1960)</b>
                                     <span>Umm Kulthum</span>
                                     <span>Música de Zakariya Ahmad</span>
                                 </div>
@@ -146,9 +146,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qadd Ya m-as‘ad el-Sabahiyya</b>
+                                    <b>Qadd Yamas‘ad el-Sabahiya</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>(Traditional Melody)</span>
                                 </div>
                             </label>
                         </div>

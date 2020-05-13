@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Hayyarti Albi Ma‘ak (1961)</b>
+                                    <b>Hayarti Albi Ma‘ak (1961)</b>
                                     <span>Umm Kulthum</span>
                                     <span>Música de Riyad al-Sunbati</span>
                                 </div>

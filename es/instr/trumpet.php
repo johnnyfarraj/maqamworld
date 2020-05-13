@@ -45,7 +45,7 @@ include($ROOT . 'inc/head.php');
                         La trompeta árabe es una trompeta que se usa para tocar las escalas del <a href="../maqam.php">maqam</a> árabe. Algunos músicos logran eso al usar una trompeta equipada con una cuarta válvula (que puede producir cuartos de tono), otros lo logran al usar las diapositivas de la primera y tercera válvulas (disponibles en todas las trompetas profesionales).
                     </p>
                     <p>
-                        La trompeta nunca se convirtió en un instrumento principal en la música árabe, y es el único instrumento Arabizado que nunca se presentó en la orquesta de Umm Kulthum. El pionero y pionero árabe más conocido es el egipcio Sami al-Babli, que actúa regularmente con el cantante <em>sha'bi</em>  Ahmed Adaweyya.
+                        La trompeta nunca se convirtió en un instrumento principal en la música árabe, y es el único instrumento Arabizado que nunca se presentó en la orquesta de Umm Kulthum. El pionero y pionero árabe más conocido es el egipcio Sami al-Babli, que actúa regularmente con el cantante <em>sha'bi</em>  Ahmed Adaweya.
                     </p>
                     <p>
                         Hoy, dos jóvenes músicos de ascendencia árabe llevan adelante la trompeta árabe, y ambos lo hacen en un ambiente de jazz que combina armonía occidental con melodías del <a href="../maqam.php">maqam</a> árabe: <a href="http://www.amirelsaffar.com/" target="_blank">Amir Elsaffar</a> (Iraq / EE. UU.) E <a href="http://www.ibrahimmaalouf.com/" target="_blank">Ibrahim Maalouf</a> (Líbano / Francia).
@@ -61,7 +61,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sami al-Babli</b>
-                                    <span>A rare video recording of Arabic trumpet pioneer Sami al-Babli (Egypt) doing a Taqsim in <a href="../maqam/nahawand.php">Maqam Nahawand</a> with Abdo Dagher.</span>
+                                    <span>A rare video recording of Arabic trumpet pioneer Sami al-Babli (Egipto) doing a Taqsim in <a href="../maqam/nahawand.php">Maqam Nahawand</a> with Abdo Dagher.</span>
                                 </div>
                             </label>
                         </div>
@@ -77,7 +77,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sami al-Babli</b>
-                                    <span>Another rare video recording of Sami al-Babli doing a Taqsim in <a href="../maqam/saba.php">Maqam Saba</a> during the introduction to a song by <em>Sha‘bi</em> singer Ahmed Adaweyya. Al-Babli was regularly featured in Adaweyya's ensemble.</span>
+                                    <span>Another rare video recording of Sami al-Babli doing a Taqsim in <a href="../maqam/saba.php">Maqam Saba</a> during the introduction to a song by <em>Sha‘bi</em> singer Ahmed Adaweya. Al-Babli was regularly featured in Adaweya's ensemble.</span>
                                 </div>
                             </label>
                         </div>
@@ -109,7 +109,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ibrahim Maalouf</b>
-                                <span>Lebanese-French trumpet player Ibrahim Maalouf playing a cover of Umm Kukthum's song <strong>Alf Leila w Leila</strong> (1969, music by Baligh Hamdi) in a Jazz arrangement that nevertheless allows room for Arabic Maqam scales.</span>
+                                <span>Lebanese-French trumpet player Ibrahim Maalouf playing a cover of Umm Kukthum's song <strong>Alf Leila wi Leila</strong> (1969, music by Baligh Hamdi) in a Jazz arrangement that nevertheless allows room for Arabic Maqam scales.</span>
                                 </div>
                             </label>
                         </div>

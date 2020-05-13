@@ -93,7 +93,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Laha Badru al-Timm</b>
-                                    <span>Abdel Halim Noueira Ensemble</span>
+                                    <span>Orquesta Abdel Halim Noueira</span>
                                     <span>Música de Sheikh Mahmud Subh</span>
                                 </div>
                             </label>
@@ -106,7 +106,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Mala al-Kasat</b>
-                                    <span>Ensemble Al-Kindi</span>
+                                    <span>Conjunto Al-Kindi</span>
                                     <span>Música de Muhammad ‘Uthman</span>
                                 </div>
                             </label>
@@ -119,7 +119,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Rashiq al-Qadd</b>
-                                    <span>Ensemble Morkos</span>
+                                    <span>Conjunto Morkos (Líbano)</span>
                                     <span><img src="/img/cd.png"> Cèdre</span>
                                 </div>
                             </label>
@@ -132,7 +132,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Talaffata al-Dhabiyu</b>
-                                    <span>Ensemble Al-Kindi</span>
+                                    <span>Conjunto Al-Kindi</span>
                                     <span>Música de Sheikh Mahmud Subh</span>
                                 </div>
                             </label>
@@ -145,7 +145,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Tarraza al-Rayhan</b>
-                                    <span>Ensemble Morkos</span>
+                                    <span>Conjunto Morkos (Líbano)</span>
                                     <span><img src="/img/cd.png"> Cèdre</span>
                                 </div>
                             </label>

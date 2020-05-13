@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Ya Msafir w Albi Ma‘ak (1950)</b>
+                                    <b>Ya Msafir wi Albi Ma‘ak (1950)</b>
                                     <span>Leila Murad</span>
                                     <span>Música de Ahmad Sidqi</span>
                                 </div>
@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Fagr Nurak Hall w Ban (c.1952)</b>
+                                    <b>Ya Fagr Nurak Hall wi Ban (c.1952)</b>
                                     <span>Voz por Baligh Hamdi</span>
                                     <span>Música de Yusef Shawqi</span>
                                 </div>
@@ -134,7 +134,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Hijazkar Kurd</b>
-                                    <span>Al-Kindi Ensemble</span>
+                                    <span>Conjunto Al-Kindi</span>
                                     <span><img src="/img/cd.png"> The Whirling Dervishes of Damascus Vol. 2</span>
                                     <span>Música de Salah al-Mahdi (Tunisia)</span>
                                 </div>

@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Qadd Dhatul-Jamal Ukhtul-Hilal</b>
-                                    <span>Al-Turath Ensemble</span>
+                                    <span>Conjunto Al-Turath</span>
                                     <span><img src="/img/cd.png"> Hermana de la Luna - Rast</span>
                                 </div>
                             </label>
@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Siret il-Hubb (1964)</b>
+                                    <b>Siret el-Hubb (1964)</b>
                                     <span>Umm Kulthum</span>
                                     <span>Música de Baligh Hamdi</span>
                                 </div>
@@ -121,7 +121,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Darit il-Ayyam (1970)</b>
+                                    <b>Darit el-Ayam (1970)</b>
                                     <span>Umm Kulthum</span>
                                     <span>Música de Muhammad Abdel Wahab</span>
                                 </div>

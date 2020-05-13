@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Jalla Man Bil Husni Sawwar</b>
-                                    <span>Abdel Halim Noueira Ensemble</span>
+                                    <span>Orquesta Abdel Halim Noueira</span>
                                     <span>Música de Kamel al-Khula‘i</span>
                                 </div>
                             </label>
@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Bashraf Bulbul al-Afrah</b>
-                                    <span>Ensemble Morkos</span>
+                                    <span>Conjunto Morkos (Líbano)</span>
                                 </div>
                             </label>
                         </div>
@@ -134,7 +134,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Ma-htiyali</b>
-                                    <span>Al-Turath Ensemble</span>
+                                    <span>Conjunto Al-Turath</span>
                                     <span><img src="/img/cd.png"> The Music In Spanish Al Andalus - Hijaz</span>
                                 </div>
                             </label>
@@ -146,7 +146,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Ayyuha al-Saqi</b>
+                                    <b>Muwashah Ayuha al-Saqi</b>
                                     <span>Sabah Fakhri</span>
                                     <span><img src="/img/cd.png"> Beiteddine Festival Vol. 1</span>
                                     <span>Música de Majdi al-‘Aqili</span>
@@ -161,7 +161,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah ‘Adhibuni</b>
-                                    <span>Ensemble Al-Kindi</span>
+                                    <span>Conjunto Al-Kindi</span>
                                     <span><img src="/img/cd.png"> The Aleppian Music Room Vol. 1 - Hijazkar Kurd &amp; Saba</span>
                                     <span>Música de Omar al-Batsh</span>
                                 </div>
@@ -175,7 +175,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Bi Abi Bahi al-Jamal</b>
-                                    <span>Muhammad Khayri (Syria)</span>
+                                    <span>Muhammad Khayri (Siria)</span>
                                 </div>
                             </label>
                         </div>

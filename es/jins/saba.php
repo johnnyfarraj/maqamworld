@@ -110,7 +110,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dulab in Maqam Saba</b>
+                                    <b>Dulab en Maqam Saba</b>
                                     <span>Sabri al-Mudallal</span>
                                 </div>
                             </label>
@@ -134,7 +134,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Lissa Fakir (1963)</b>
+                                    <b>Lissa Faker (1960)</b>
                                     <span>Umm Kulthum</span>
                                     <span>Música de Riyad al-Sunbati</span>
                                 </div>
@@ -147,9 +147,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Tiri Ya Tiyyara</b>
+                                    <b>Tiri Ya Tiyara</b>
                                     <span>Fairouz</span>
-                                    <span>Música de Philemon Wehbe</span>
+                                    <span>Música de Philemon Wéhbe</span>
                                 </div>
                             </label>
                         </div>

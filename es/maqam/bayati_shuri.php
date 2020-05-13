@@ -93,7 +93,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Violin in Maqam Bayati Shuri</b>
+                                    <b>Taqsim de Violin en Maqam Bayati Shuri</b>
                                     <span>Nagham al-Ams Vol. 2 (Bayati Shuri)</span>
                                 </div>
                             </label>
@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Hibbi Da‘ani Lil-Wisal</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Música de Sayyed Darwish</span>
+                                    <span>Música de Sayed Darwish</span>
                                     <span>Nagham al-Ams Vol. 2 (Bayati Shuri)</span>
                                 </div>
                             </label>
@@ -132,8 +132,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr Dayya‘ti Mustaqbal Hayati</b>
-                                    <span>Music and Voz por Sayyed Darwish</span>
+                                    <b>Dawr Daya‘ti Mustaqbal Hayati</b>
+                                    <span>Music and Voz por Sayed Darwish</span>
                                 </div>
                             </label>
                         </div>
@@ -168,9 +168,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Qanun in Maqam Bayati Shuri</b>
+                                    <b>Taqsim de Qanun en Maqam Bayati Shuri</b>
                                     <span>Marie Jubran</span>
-                                    <span>Wasla in Bayati Shuri</span>
+                                    <span>Wasla en Maqam Bayati Shuri</span>
                                 </div>
                             </label>
                         </div>

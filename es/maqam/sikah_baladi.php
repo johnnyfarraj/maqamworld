@@ -183,7 +183,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Qanun</b>
+                                    <b>Taqsim de Qanun</b>
                                     <span>Abraham Salman (Irak)</span>
                                     <span><img src="/img/cd.png"> Saltanah</span>
                                 </div>

@@ -123,7 +123,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" checked>
                                 <div class="info">
                                     <b>Min Hobbi Fik Ya Gari (1958)</b>
-                                    <span>Horeyya Hasan</span>
+                                    <span>Horeya Hasan</span>
                                     <span>Música de Muhammad al-Mugi</span>
                                 </div>
                             </label>

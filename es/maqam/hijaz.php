@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Ma-Htiyali</b>
-                                    <span>Al Turath Ensemble</span>
+                                    <span>Conjunto Al-Turath</span>
                                     <span><img src="/img/cd.png"> The Music In Spanish Al Andalus - Hijaz</span>
                                 </div>
                             </label>
@@ -98,8 +98,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Badri Adir</b>
-                                    <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
-                                    <span>Conductor: Aïda Shalhoub Ziadé</span>
+                                    <span>Coro de la Universidad Kaslik (Líbano)</span>
+                                    <span>Conductor Aïda Shalhoub Ziadé</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>
                             </label>
@@ -136,8 +136,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Foug el-Nakhal</b>
-                                    <span>Munir Bashir and Omar Bashir</span>
-                                    <span>(Traditional Iraqi Folklore)</span>
+                                    <span>Munir y Omar Bashir</span>
+                                    <span>(tradicional de Iraq)</span>
                                 </div>
                             </label>
                         </div>
@@ -150,7 +150,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Qasida Mawlaya Ajfani</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>From Fasil Isqi al-‘Itash</span>
+                                    <span>Fasil Isqi al-‘Itash</span>
                                 </div>
                             </label>
                         </div>
@@ -161,7 +161,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qadduka al-Mayyas</b>
+                                    <b>Qadduka al-Mayas</b>
                                     <span>Sabah Fakhri</span>
                                     <span>Nagham al-Ams Vol. 14 Hijaz</span>
                                 </div>
@@ -175,7 +175,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Hijaz</b>
-                                    <span>Al-Turath Ensemble</span>
+                                    <span>Conjunto Al-Turath</span>
                                     <span>Música de Muhammad ‘Abdu</span>
                                 </div>
                             </label>
@@ -187,7 +187,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dulab and Nay Taqsim Hijaz</b>
+                                    <b>Dulab y Taqsim de Nay en Maqam Hijaz</b>
                                     <span>Sabah Fakhri</span>
                                     <span>Nagham al-Ams Vol. 14 Hijaz</span>
                                 </div>

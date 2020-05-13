@@ -77,7 +77,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ziad Rahbani</b>
-                                    <span>Lebanese pianst Ziad Rahbani plays Arabic piano on his song <strong>Shu Hal-Iyyam</strong> from his CD <strong>Ana Moush Kafer</strong>, 1985.</span>
+                                    <span>Lebanese pianst Ziad Rahbani plays Arabic piano on his song <strong>Shu Hal-Iyam</strong> from his CD <strong>Ana Moush Kafer</strong>, 1985.</span>
                                 </div>
                             </label>
                         </div>

@@ -59,7 +59,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Tif Ya Durri Bil Qanani</b>
-                                    <span>Al-Kindi Ensemble</span>
+                                    <span>Conjunto Al-Kindi</span>
                                     <span>Música de Omar al-Batsh</span>
                                     <span><img src="/img/cd.png"> The Aleppian Music Room I - Maqam Hijazkar Kurd</span>
                                 </div>
@@ -73,8 +73,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Tif Ya Durri Bil Qanani</b>
-                                    <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
-                                    <span>Conductor: Aïda Shalhoub Ziadé</span>
+                                    <span>Coro de la Universidad Kaslik (Líbano)</span>
+                                    <span>Conductor Aïda Shalhoub Ziadé</span>
                                     <span>Música de Omar al-Batsh</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>
@@ -88,7 +88,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Wal-ladhi Wallaka Qalbi</b>
-                                    <span>Ensemble Morkos</span>
+                                    <span>Conjunto Morkos (Líbano)</span>
                                 </div>
                             </label>
                         </div>

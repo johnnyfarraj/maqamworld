@@ -134,7 +134,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qadduka al-Mayyas</b>
+                                    <b>Qadduka al-Mayas</b>
                                     <span>Muhammad Khayri</span>
                                 </div>
                             </label>
@@ -171,7 +171,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Mawwal in Maqam Isba‘ayn</b>
+                                    <b>Mawwal en Maqam Isba‘ayn</b>
                                     <span>Sonia M'Barek</span>
                                     <span><img src="/img/cd.png"> Tawchih &copy; 1997</span>
                                 </div>

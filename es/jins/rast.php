@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Ghannili Shwayy Shwayy (1945)</b>
+                                    <b>Ghannili Shway Shway (1945)</b>
                                     <span>Umm Kulthum</span>
                                     <span>Música de Zakariya Ahmad</span>
                                 </div>
@@ -112,7 +112,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Min ‘Izz el-Nawm</b>
                                     <span>Fairouz</span>
-                                    <span>Música de Philemon Wehbe</span>
+                                    <span>Música de Philemon Wéhbe</span>
                                 </div>
                             </label>
                         </div>

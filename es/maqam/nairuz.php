@@ -90,7 +90,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Ya Hilalan</b>
-                                    <span>Firqat al-Musiqa al-Arabiyya (Egypt)</span>
+                                    <span>Firqat al-Musiqa al-Arabiya (Egipto)</span>
                                 </div>
                             </label>
                         </div>
@@ -101,7 +101,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Mubarqa'u al-Jamal</b>
+                                    <b>Muwashah Mubarqa‘u al-Jamal</b>
                                     <span>Hasan al-Haffar</span>
                                     <span>Música de Omar al-Batsh</span>
                                 </div>
@@ -114,7 +114,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dawr Asl il-Gharam (1945)</b>
+                                    <b>Dawr Asl el-Gharam (1945)</b>
                                     <span>Nour el-Hoda</span>
                                     <span>Música de Muhammad ‘Uthman</span>
                                 </div>
@@ -127,7 +127,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ghannili Shwayy Shwayy (1945)</b>
+                                    <b>Ghannili Shway Shway (1945)</b>
                                     <span>Umm Kulthum</span>
                                     <span>Música de Zakariya Ahmad</span>
                                 </div>

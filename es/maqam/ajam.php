@@ -134,7 +134,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Zuruni Kulli Sana Marra</b>
                                     <span>Karem Mahmud</span>
-                                    <span>Música de Sayyed Darwish</span>
+                                    <span>Música de Sayed Darwish</span>
                                 </div>
                             </label>
                         </div>

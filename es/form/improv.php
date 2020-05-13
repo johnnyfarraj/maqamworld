@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Taqtuqa Leh Ya Banafseg</b>
-                                    <span>TODO Saleh Abdel Hayy's recording of <strong>Taqtuqa Leh Ya Banafseg</strong> (music by Riyad al-Sunbati) is a long <a href="vocal_comp.php#wasla">Wasla</a> that starts with an <a href="../instr/oud.php">oud</a> <a href"#taqsim">Taqsim</a>, a <a href="ottoman.php/samai">Sama‘i</a>, a <a href="../instr/qanun.php">qanun</a> Taqsim, a recap of the Sama‘i's <em>taslim</em>, then a <em>Layali</em>, all in <a href="../maqam/rast.php">Maqam Rast</a>.</span>
+                                    <span>TODO Saleh Abdel Hay's recording of <strong>Taqtuqa Leh Ya Banafseg</strong> (music by Riyad al-Sunbati) is a long <a href="vocal_comp.php#wasla">Wasla</a> that starts with an <a href="../instr/oud.php">oud</a> <a href"#taqsim">Taqsim</a>, a <a href="ottoman.php/samai">Sama‘i</a>, a <a href="../instr/qanun.php">qanun</a> Taqsim, a recap of the Sama‘i's <em>taslim</em>, then a <em>Layali</em>, all in <a href="../maqam/rast.php">Maqam Rast</a>.</span>
                                 </div>
                             </label>
                         </div>

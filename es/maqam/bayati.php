@@ -126,7 +126,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mijana and ‘Ataba</b>
                                     <span>Wadih Al-Safi</span>
-                                    <span>Music from Folklore Libanés</span>
+                                    <span>(folklore libanés)</span>
                                 </div>
                             </label>
                         </div>
@@ -138,7 +138,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Imlali al-Aqdaha Sirfan</b>
-                                    <span>Sabah Fakhri (Traditional)</span>
+                                    <span>Sabah Fakhri</span>
+                                    <span>(tradicional de Siria)</span>
                                 </div>
                             </label>
                         </div>
@@ -161,9 +162,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Rayt Minnun (Qanun Taqsim)</b>
+                                    <b>Ya Rayt Minnun (Taqsim de Qanun)</b>
                                     <span>Fairouz</span>
-                                    <span>Música de Philemon Wehbe</span>
+                                    <span>Música de Philemon Wéhbe</span>
                                 </div>
                             </label>
                         </div>
@@ -176,7 +177,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Rayt Minnun</b>
                                     <span>Fairouz</span>
-                                    <span>Música de Philemon Wehbe</span>
+                                    <span>Música de Philemon Wéhbe</span>
                                 </div>
                             </label>
                         </div>
@@ -188,7 +189,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Bayati Ibrahim al-‘Aryan</b>
-                                    <span>Farhan Sabbagh (Oud solo)</span>
+                                    <span>Farhan Sabbagh</span>
                                 </div>
                             </label>
                         </div>
@@ -200,7 +201,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Bayati Iskandar Shalfun</b>
-                                    <span>Ensemble Morkos</span>
+                                    <span>Conjunto Morkos (Líbano)</span>
                                 </div>
                             </label>
                         </div>

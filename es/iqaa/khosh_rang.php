@@ -56,8 +56,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Salla Fina al-Lahdha Hindiyya</b>
-                                    <span>Ensemble Al-Kindi</span>
+                                    <b>Muwashah Salla Fina al-Lahdha Hindiya</b>
+                                    <span>Conjunto Al-Kindi</span>
                                     <span><img src="/img/cd.png"> Les Croisades Sous Le Regard De l'Orient - Hijaz</span>
                                 </div>
                             </label>
@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Salla Fina al-Lahdha Hindiyya</b>
+                                    <b>Muwashah Salla Fina al-Lahdha Hindiya</b>
                                     <span>Sabah Fakhri</span>
                                     <span><img src="/img/cd.png"> Nagham Al Ams Vol 08 - Hijaz</span>
                                 </div>

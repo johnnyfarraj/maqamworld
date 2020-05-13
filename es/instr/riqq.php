@@ -112,8 +112,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Mustafa Bayyumi</b>
-                                    <span>Egyptian percussionist Mustafa Bayyumi performs a Riq Solo (on a riqq with a plastic head) where he explores many iqa‘at.</span>
+                                    <b>Mustafa Bayumi</b>
+                                    <span>Egyptian percussionist Mustafa Bayumi performs a Riq Solo (on a riqq with a plastic head) where he explores many iqa‘at.</span>
                                 </div>
                             </label>
                         </div>

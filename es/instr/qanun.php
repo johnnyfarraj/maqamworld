@@ -67,7 +67,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Muhammad Abdu Saleh</b>
-                                    <span>Umm Kulthum's qanun player for decades, Muhammad Abdu Saleh (Egypt) in a medley of her well-known  songs</span>
+                                    <span>Umm Kulthum's qanun player for decades, Muhammad Abdu Saleh (Egipto) in a medley of her well-known  songs</span>
                                 </div>
                             </label>
                         </div>
@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Muhammad ‘Abdu Saleh</b>
-                                    <span>Muhammad ‘Abdu Saleh (Egypt) in a Taqsim on El Qanun in <a href="../maqam/saba.php">Maqam Saba</a></span>
+                                    <span>Muhammad ‘Abdu Saleh (Egipto) in a Taqsim on El Qanun in <a href="../maqam/saba.php">Maqam Saba</a></span>
                                 </div>
                             </label>
                         </div>
@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Abdel Fattah Mansi</b>
-                                    <span>Abdel Fattah Mansi (Egypt) plays Umm Kuklthum's song <strong>Ana Fi-ntizarak</strong> (1943, music by Zakariya Ahmad)</span>
+                                    <span>Abdel Fattah Mansi (Egipto) plays Umm Kuklthum's song <strong>Ana Fi-ntizarak</strong> (1943, music by Zakariya Ahmad)</span>
                                 </div>
                             </label>
                         </div>
@@ -115,7 +115,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Abdel Halim Nuwayra</b>
-                                    <span>Abdel Halim Nuwayra (Egypt), the music director of the Arabic Music Ensemble, plays a Taqsim on El Qanun in <a href="../maqam/bayati.php">Maqam Bayati</a></span>
+                                    <span>Abdel Halim Nuwayra (Egipto), the music director of the Arabic Music Ensemble, plays a Taqsim on El Qanun in <a href="../maqam/bayati.php">Maqam Bayati</a></span>
                                 </div>
                             </label>
                         </div>
