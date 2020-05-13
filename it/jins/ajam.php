@@ -112,7 +112,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Lissa Faker (1963)</b>
+                                    <b>Lissa Faker (1960)</b>
                                     <span>Umm Kulthum (Egitto)</span>
                                     <span>Musica di Riyad al-Sunbati</span>
                                 </div>

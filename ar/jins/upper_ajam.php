@@ -91,7 +91,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>اغنية لِسّه فاكر (١٩٦٣)</b>
+                                    <b>اغنية لِسّه فاكر (١٩٦٠)</b>
                                     <span>ام كلثوم</span>
                                     <span>كلمات عبد الفتاح مصطفى</span>
                                     <span>الحان رياض السنباطي (مصر)</span>

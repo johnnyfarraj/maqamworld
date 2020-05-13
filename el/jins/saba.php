@@ -132,7 +132,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Λίσα Φάκερ (1963)</b>
+                                    <b>Λίσα Φάκερ (1960)</b>
                                     <span>Ουμ Κουλθούμ</span>
                                     <span>Μουσική Ριάντ αλ-Σουνμπάτι</span>
                                 </div>
