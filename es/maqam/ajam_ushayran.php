@@ -110,7 +110,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>el-Hobbi Fi Albi Amana</b>
                                     <span>Fathiyya Ahmad</span>
-                                    <span>Music By Muhammad al-Qasabgi</span>
+                                    <span>Música de Muhammad al-Qasabgi</span>
                                 </div>
                             </label>
                         </div>

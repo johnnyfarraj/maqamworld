@@ -73,7 +73,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>il-Ward Gamil (1946)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Música de Zakariyya Ahmad</span>
+                                    <span>Música de Zakariya Ahmad</span>
                                 </div>
                             </label>
                         </div>
@@ -86,7 +86,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Hayhat Yabu al-Zuluf</b>
                                     <span>Sabah</span>
-                                    <span>(Lebanese Folklore)</span>
+                                    <span>(Folklore Libanés)</span>
                                 </div>
                             </label>
                         </div>

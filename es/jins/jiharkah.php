@@ -111,7 +111,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Taqsim Oud in Maqam Rast</b>
                                     <span>Ibrahim al-Haggar</span>
-                                    <span>Wasla in Maqam Rast</span>
+                                    <span>Wasla en Maqam Rast</span>
                                 </div>
                             </label>
                         </div>

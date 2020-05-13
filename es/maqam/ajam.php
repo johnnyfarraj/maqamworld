@@ -95,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Bahr Biyidhak</b>
-                                    <span>Vocals and Música de Sheikh Imam</span>
+                                    <span>Voz y música por Sheikh Imam</span>
                                 </div>
                             </label>
                         </div>
@@ -108,7 +108,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Fi Youm Wi Leila (1978)</b>
                                     <span>Warda</span>
-                                    <span>Music By Muhammad Abdel Wahab</span>
+                                    <span>Música de Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -121,7 +121,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Tal‘a Min Beit Abuha</b>
                                     <span>Nazem al-Ghazali</span>
-                                    <span>(Iraqi Traditional)</span>
+                                    <span>(Tradicional de Irak)</span>
                                 </div>
                             </label>
                         </div>

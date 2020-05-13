@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Duqqu il-Mazahir (1952)</b>
-                                    <span>Vocals and Música de Farid al-Atrash</span>
+                                    <span>Voz y música por Farid al-Atrash</span>
                                 </div>
                             </label>
                         </div>

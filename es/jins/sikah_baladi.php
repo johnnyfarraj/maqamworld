@@ -96,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Tal Intizari (1937)</b>
-                                    <span>Vocals and Música de Muhammad Abdel Wahab</span>
+                                    <span>Voz y música por Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -121,8 +121,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Oud (from Wasla in Rast)</b>
-                                    <span>Ibrahim al-Haggar</span>
+                                    <b>Taqsim de Oud (de Wasla en Maqam Rast)</b>
+                                    <span>Conjunto de Ibrahim al-Haggar</span>
                                 </div>
                             </label>
                         </div>

@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>el-Bortoqal (1938)</b>
-                                    <span>Vocals and Música de Muhammad Abdel Wahab</span>
+                                    <span>Voz y música por Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ahmad Ya Habibi</b>
-                                    <span>Vocals and Música de Sabri al-Mudallal</span>
+                                    <span>Voz y música por Sabri al-Mudallal</span>
                                 </div>
                             </label>
                         </div>
@@ -95,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Najmat (1964)</b>
-                                    <span>Vocals and Música de Wadih al-Safi</span>
+                                    <span>Voz y música por Wadih al-Safi</span>
                                 </div>
                             </label>
                         </div>
@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Gulli Ya Hilu</b>
-                                    <span>Kazem el-Saher (Iraq)</span>
+                                    <span>Kazem el-Saher (Irak)</span>
                                 </div>
                             </label>
                         </div>
@@ -119,7 +119,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Qasida Aqulu Wa Qad Nahat Bi Qurbi Hamamatun</b>
-                                    <span>Nazem al-Ghazali (Iraq)</span>
+                                    <span>Nazem al-Ghazali (Irak)</span>
                                 </div>
                             </label>
                         </div>

@@ -183,8 +183,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Layali Zaman</b>
-                                    <span>Instrumental composition by ‘Abdu Dagher</span>
-                                    <span>Recorded with his ensemble at the Cairo Opera House.</span>
+                                    <span>Composición instrumental de ‘Abdu Dagher</span>
+                                    <span>Grabado con su orquesta musical en la ópera del Cairo.</span>
                                 </div>
                             </label>
                         </div>

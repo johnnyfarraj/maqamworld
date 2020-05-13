@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Sahirtu Minhu al-Layali (1935)</b>
-                                    <span>Vocals and Música de Muhammad Abdel Wahab</span>
+                                    <span>Voz y música por Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -148,7 +148,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Kulli Da Kan Leh (1954)</b>
-                                    <span>Vocals and Música de Muhammad Abdel Wahab</span>
+                                    <span>Voz y música por Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -160,7 +160,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Habib el-Majhul(1972)</b>
-                                    <span>Vocals and Música de Muhammad Abdel Wahab</span>
+                                    <span>Voz y música por Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -184,7 +184,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Taqsim Qanun</b>
-                                    <span>Abraham Salman (Iraq)</span>
+                                    <span>Abraham Salman (Irak)</span>
                                     <span><img src="/img/cd.png"> Saltanah</span>
                                 </div>
                             </label>

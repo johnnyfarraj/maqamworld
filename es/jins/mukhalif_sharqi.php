@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr Emta el-Hawa (1936)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Música de Zakariyya Ahmad</span>
+                                    <span>Música de Zakariya Ahmad</span>
                                 </div>
                             </label>
                         </div>
@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ghannili Shwayy Shwayy (1945)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Música de Zakariyya Ahmad</span>
+                                    <span>Música de Zakariya Ahmad</span>
                                 </div>
                             </label>
                         </div>
@@ -157,7 +157,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya ‘Ammi Ya Saheb el-Gamal</b>
-                                    <span>Vocals and Música de Ahmed Adaweyah</span>
+                                    <span>Voz y música por Ahmed Adaweyah</span>
                                 </div>
                             </label>
                         </div>
@@ -182,7 +182,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Layli Ma Birda Bukra</b>
-                                    <span>Vocals and Música de Wadih al-Safi</span>
+                                    <span>Voz y música por Wadih al-Safi</span>
                                 </div>
                             </label>
                         </div>

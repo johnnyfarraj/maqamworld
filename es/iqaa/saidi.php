@@ -109,7 +109,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Habba Fouq We Habba Taht</b>
-                                    <span>Vocals and Música de Ahmad Adaweya</span>
+                                    <span>Voz y música por Ahmad Adaweya</span>
                                 </div>
                             </label>
                         </div>
@@ -121,7 +121,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Adik Ti'ul Makhadtesh</b>
-                                    <span>Vocals and Música de Ahmad Adaweya</span>
+                                    <span>Voz y música por Ahmad Adaweya</span>
                                 </div>
                             </label>
                         </div>

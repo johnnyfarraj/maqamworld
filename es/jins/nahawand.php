@@ -113,7 +113,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr Ahibb Ashufak Kulli Youm (1930)</b>
-                                    <span>Vocals and Música de Muhammad Abdel Wahab</span>
+                                    <span>Voz y música por Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -138,7 +138,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Dunya Ya Gharami (1938)</b>
-                                    <span>Vocals and Música de Muhammad Abdel Wahab</span>
+                                    <span>Voz y música por Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -151,7 +151,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Habibi Kullama Habba al-Hawa (2000)</b>
                                     <span>Fairouz</span>
-                                    <span>Música de Rahbani Brothers</span>
+                                    <span>Música por los Hermanos Rahbani</span>
                                 </div>
                             </label>
                         </div>

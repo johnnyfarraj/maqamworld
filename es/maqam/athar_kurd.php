@@ -65,7 +65,7 @@ include($ROOT . 'inc/head.php');
                         Maqam Athar Kurd es un <em>maqam</em> muy poco usado que parece ser un desarrollo del siglo XX. Su escala comienza con <a href="../jins/athar_kurd.php">Athar Kurd</a> en la tónica seguido de <a href="../jins/hijazkar.php">Jins Hijazkar</a> centrado en el quinto grado.
 		            </p>
                     <p>
-                        La escala Maqam Athar Kurd es un híbrido entre <a href="nawa_athar.php">Maqam Nawa Athar</a> y <a href="kurd.php">Maqam Kurd</a>, de ahí su nombre.
+                        La escala de Maqam Athar Kurd es un híbrido entre <a href="nawa_athar.php">Maqam Nawa Athar</a> y <a href="kurd.php">Maqam Kurd</a>, de ahí su nombre.
 		            </p>
                     
                     <p>Explora otros maqamat en la <a href="f_nikriz.php">Familia Maqam Nikriz</a>.</p>
@@ -108,7 +108,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Fagr Nurak Hall w Ban (c.1952)</b>
-                                    <span>Vocals by Baligh Hamdi</span>
+                                    <span>Voz por Baligh Hamdi</span>
                                     <span>Música de Yusef Shawqi</span>
                                 </div>
                             </label>
@@ -147,7 +147,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Oud</b>
+                                    <b>Taqsim de Oud</b>
                                     <span>Riyad al-Sunbati</span>
                                     <span><img src="/img/cd.png"> Taqaseem Oud</span>
                                 </div>
@@ -160,7 +160,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Oud Athar Kurd</b>
+                                    <b>Taqsim de Oud en Maqam Athar Kurd</b>
                                     <span>Muhammad Qadri Dalal</span>
                                     <span><img src="/img/cd.png"> Maqamat Insolites</span>
                                 </div>

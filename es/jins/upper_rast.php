@@ -86,7 +86,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Hann el-Hadid (1974)</b>
                                     <span>Joseph Saqr</span>
                                     <span>Música de Ziad Rahbani</span>
-                                    <span>From the musical Nazl el-Surur</span>
+                                    <span>Del musical Nazl el-Surur</span>
                                 </div>
                             </label>
                         </div>
@@ -150,7 +150,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Min ‘Azzibak (1931)</b>
-                                    <span>Vocals and Música de Muhammad Abdel Wahab</span>
+                                    <span>Voz y música por Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>

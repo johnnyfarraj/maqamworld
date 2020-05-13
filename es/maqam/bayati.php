@@ -101,7 +101,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Akun Sa‘id (1932)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Música de Zakariyya Ahmad</span>
+                                    <span>Música de Zakariya Ahmad</span>
                                 </div>
                             </label>
                         </div>
@@ -113,7 +113,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Lamma-nta Nawi (1929)</b>
-                                    <span>Vocals and Música de Muhammad Abdel Wahab</span>
+                                    <span>Voz y música por Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -126,7 +126,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mijana and ‘Ataba</b>
                                     <span>Wadih Al-Safi</span>
-                                    <span>Music from Lebanese Folklore</span>
+                                    <span>Music from Folklore Libanés</span>
                                 </div>
                             </label>
                         </div>
@@ -150,7 +150,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Nura Nura (1953)</b>
-                                    <span>Music and Vocals by Farid al-Atrash</span>
+                                    <span>Music and Voz por Farid al-Atrash</span>
                                 </div>
                             </label>
                         </div>

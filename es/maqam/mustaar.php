@@ -108,7 +108,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Raqq el-Habib (1944)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music By Muhammad al-Qasabgi</span>
+                                    <span>Música de Muhammad al-Qasabgi</span>
                                 </div>
                             </label>
                         </div>

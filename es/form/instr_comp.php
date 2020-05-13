@@ -214,7 +214,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Dawr Inta Fahim</b>
-                                    <span>Dawr <strong>Inta Fahim</strong> de Zakariyya Ahmed abre con un solo repetición del Dulab, en el <a href="../maqam/huzam.php">Maqam Rahat al-Arwah</a>.
+                                    <span>Dawr <strong>Inta Fahim</strong> de Zakariya Ahmed abre con un solo repetición del Dulab, en el <a href="../maqam/huzam.php">Maqam Rahat al-Arwah</a>.
                                 </span>
                                 </div>
                             </label>

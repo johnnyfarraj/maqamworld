@@ -113,8 +113,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qanun Taqsim (from Layali Rast)</b>
-                                    <span>‘Abbas al-Bleidi</span>
+                                    <b>Taqsim de Qanun (de Layali Rast)</b>
+                                    <span>Conjunto de ‘Abbas al-Bleidi</span>
                                 </div>
                             </label>
                         </div>
@@ -127,7 +127,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Halawit el-Dunya</b>
                                     <span>Sayyed Makkawi</span>
-                                    <span>Música de Zakariyya Ahmad</span>
+                                    <span>Música de Zakariya Ahmad</span>
                                 </div>
                             </label>
                         </div>
