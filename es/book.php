@@ -31,23 +31,18 @@ include($ROOT . 'inc/head.php');
                     </div>
                     
                     <div class="clearfix"></div>
-
                     <p>
-                        TODO I am happy to announce the recent release of my book <strong>Inside Arabic Music</strong> co-authored with my friend Sami Abu Shumays (creator of <a href="http://maqamlessons.com" target="_blank">MaqamLessons</a>).
+                        Estoy feliz de anunciar la publicación de mi libro <strong>Inside Arabic Music</strong> (Adentro de la música árabe), co-autorizado entre yo y mi amigo Sami Abu Shumays (creador de <a href="http://maqamlessons.com" target="_blank">MaqamLessons</a>).
                     </p>
-                    
                     <p>
-                        TODO This new book was released by <a href="http://global.oup.com" target="_blank">Oxford University Press</a> in August 2019. The book is a comprehensive reference on Arabic music and MaqamWorld will be its companion website.
+                        Este nuevo libro fue publicado de <a href="http://global.oup.com" target="_blank">Oxford University Press</a> en agosto de 2019. El libro es una referencia integral sobre la música árabe y <strong>El Mundo Del Maqam</strong> será su compañero como sitio de la red.
                     </p>
-                    
                     <p>
                         El proyecto del libro recibió una beca de 2012 del <a href="http://arabculturefund.org/grantees/grantee.php?id=333" target="_blank">Fondo Árabe para las Artes y la Cultura</a>.
                     </p>
-                    
                     <p style="margin-bottom:40px;">
                         Puede pre-ordenar una copia de <strong>Inside Arabic Music</strong> desde <a href="https://www.amazon.com/Inside-Arabic-Music-Performance-Century/dp/0190658363/ref=sr_1_1" target="_blank">Amazon.com</a> o directamente desde la editorial <a href="https://global.oup.com/academic/product/inside-arabic-music-9780190658366" target="_blank">Oxford University Press</a>.
                     </p>
-                    
                     <div class="row">
                         <div class="col-md-6 ml-auto mr-auto">
                             <a href="https://www.amazon.com/Inside-Arabic-Music-Performance-Century/dp/0190658363/ref=sr_1_1" target="_blank">
