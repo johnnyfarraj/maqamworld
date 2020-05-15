@@ -59,7 +59,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Bi-Hamdika Ya Ilahi</b>
-                                    <span>Sheikh Hamza Shakkur y Conjunto Al-Kindi</span>
+                                    <span>Sheikh Hamza Shakkur</span>
+                                    <span>Conjunto Al-Kindi</span>
                                     <span><img src="/img/cd.png"> Whirling Dervishes of Damascus Vol. 1</span>
                                 </div>
                             </label>

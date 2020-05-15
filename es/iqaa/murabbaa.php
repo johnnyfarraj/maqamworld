@@ -96,7 +96,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Jalla Man Qad Ansha Jamalak</b>
-                                    <span>Umar Sarmini con Conjunto Al-Kindi</span>
+                                    <span>Omar Sarmini</span>
+                                    <span>Conjunto Al-Kindi</span>
                                 </div>
                             </label>
                         </div>

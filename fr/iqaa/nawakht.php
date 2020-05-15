@@ -82,6 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Qoultou Lamma Ghaba ‘Anni</b>
                                     <span>Hassan al-Haffar (Syrie)</span>
+                                    <span>Musique de Omar al-Batch</span>
                                 </div>
                             </label>
                         </div>

@@ -83,7 +83,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Tajallat Wa-njalat Laylan</b>
-                                    <span>Sheikh Hamza Shakkur y Conjunto Al-Kindi</span>
+                                    <span>Sheikh Hamza Shakkur</span>
+                                    <span>Conjunto Al-Kindi</span>
                                 </div>
                             </label>
                         </div>

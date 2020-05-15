@@ -45,7 +45,7 @@ include($ROOT . 'inc/head.php');
 
                     <br>
                     <div class="heading jins text-center">
-                        <h3>Iqa‘ Mudawwar Masri 12/4</h3>
+                        <h3>Ejemplos de Iqa‘ Mudawwar Masri 12/4</h3>
                     </div>
 
                     <div class="notation">
@@ -77,7 +77,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Fika Kullu Ma Ara Hasan</b>
-                                    <span>Composed in <a href="../maqam/bayati.php">Maqam Bayati</a></span>
+                                    <span>Compuesto en <a href="../maqam/bayati.php">Maqam Bayati</a></span>
                                     <span>Orquesta Abdel Halim Noueira</span>
                                 </div>
                             </label>
@@ -100,7 +100,7 @@ include($ROOT . 'inc/head.php');
                     <!-- Need some kind of divider here -->
                     <br>
                     <div class="heading jins text-center">
-                        <h3>Iqa‘ Mudawwar Shami 10/4</h3>
+                        <h3>Ejemplos de Iqa‘ Mudawwar Shami 10/4</h3>
                     </div>
                     <br>
 
@@ -114,7 +114,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Fika Kullu Ma Ara Hasan</b>
-                                    <span>Composed in <a href="../maqam/hijaz.php">Maqam Hijaz</a></span>
+                                    <span>Compuesto en <a href="../maqam/hijaz.php">Maqam Hijaz</a></span>
                                     <span>Omar al-Sarmini</span>
                                     <span>Conjunto Al-Kindi</span>
                                 </div>
@@ -128,7 +128,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Fika Kullu Ma Ara Hasan</b>
-                                    <span>Composed in <a href="../maqam/hijaz.php">Maqam Hijaz</a></span>
+                                    <span>Compuesto en <a href="../maqam/hijaz.php">Maqam Hijaz</a></span>
                                     <span>Sabah Fakhri</span>
                                 </div>
                             </label>

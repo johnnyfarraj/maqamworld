@@ -83,6 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Μουάσαχ Κούλτου Λάμα Γάμπα Άννι</b>
                                     <span>Χάσαν αλ-Χαφάρ (Συρία)</span>
+                                    <span>Μουσική Όμαρ αλ-Μπατς</span>
                                 </div>
                             </label>
                         </div>
@@ -130,7 +131,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Μουάσαχ Χάλα αλ-Ιδάρ</b>
-                                    <span>Vocals and Μουσική Όμαρ αλ-Μπατς</span>
+                                    <span>Φωνή και Μουσική Όμαρ αλ-Μπατς</span>
                                 </div>
                             </label>
                         </div>

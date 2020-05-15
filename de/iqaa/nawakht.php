@@ -81,6 +81,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Qultu Lamma Ghaba ‘Anni</b>
                                     <span>Hasan al-Haffar</span>
+                                    <span>Musik von ‘Umar al-Batsh</span>
                                 </div>
                             </label>
                         </div>
