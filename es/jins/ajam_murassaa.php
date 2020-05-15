@@ -120,7 +120,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Taqsim de Qanun en Maqam ‘Ajam</b>
-                                    <span>Abdu Daghir</span>
+                                    <span>Abdu Dagher</span>
                                     <span><img src="/img/cd.png"> Al-Gibali</span>
                                 </div>
                             </label>

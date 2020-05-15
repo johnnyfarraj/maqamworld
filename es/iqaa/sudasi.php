@@ -42,7 +42,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/sudasi.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Sudasi (whose name means based on the number "six") is a very popular <em>iqa‘</em> to accompany folk line dances from Lebanon and Palestine, like the Dabke. It can modulate to 3 back-to-back measures of <a href="malfuf.php">Iqa‘ Malfuf</a>.</p>
+                    <p>
+                        Iqa‘ Sudasi (cuyo nombre significa basado en el número "seis ") es un <em>iqa‘</em> muy popular para acompañar las danzas folklóricas del Líbano y Palestina, como el Dabke. Se puede modular a 3 compases consecutivos de <a href="malfuf.php">Iqa‘ Malfuf</a>.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -70,7 +72,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Mahla Layali el-Hawa (1963)</b>
                                     <span>Fairouz</span>
-                                    <span>Music and lyrics by the Rahbani Brothers</span>
+                                    <span>Música y letras de los Hermanos Rahbani</span>
                                 </div>
                             </label>
                         </div>
@@ -83,8 +85,8 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Hajal Sannin (1965)</b>
                                     <span>Fairouz</span>
-                                    <span>Music and lyrics by the Rahbani Brothers</span>
-                                    <span>From the movie <strong>Baya‘ el-Khawatim</strong></span>
+                                    <span>Música y letras de los Hermanos Rahbani</span>
+                                    <span>de la película <strong>Baya‘ el-Khawatim</strong></span>
                                 </div>
                             </label>
                         </div>

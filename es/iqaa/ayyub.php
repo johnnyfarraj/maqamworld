@@ -59,7 +59,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Atani Zamani</b>
-                                    <span>Noureddine Khourshid Et Les Derviches De Damas</span>
+                                    <span><img src="/img/cd.png"> Noureddine Khourshid Et Les Derviches De Damas</span>
                                 </div>
                             </label>
                         </div>
@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Ya Man Nasha</b>
-                                    <span>Rima Khcheich and Salim Sahhab Orchestra</span>
+                                    <span>Rima Khcheich y Orquesta Salim Sahhab</span>
                                 </div>
                             </label>
                         </div>
@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Tajallat Wa-njalat Laylan</b>
-                                    <span>Sheikh Hamza Shakkur and Ensemble Al Kindi</span>
+                                    <span>Sheikh Hamza Shakkur y Conjunto Al-Kindi</span>
                                 </div>
                             </label>
                         </div>

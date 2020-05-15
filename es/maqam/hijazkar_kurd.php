@@ -83,7 +83,6 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Tif Ya Durri</b>
                                     <span>Coro de la Universidad Kaslik (Líbano)</span>
-                                    <span>Conductor Aïda Shalhoub Ziadé</span>
                                     <span>Música de Sayed Darwish/Omar al-Batsh</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>
@@ -98,7 +97,6 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Hibbi Zurni Ma Tayassar</b>
                                     <span>Coro de la Universidad Kaslik (Líbano)</span>
-                                    <span>Conductor Aïda Shalhoub Ziadé</span>
                                     <span>Música de Darwish al-Hariri</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>

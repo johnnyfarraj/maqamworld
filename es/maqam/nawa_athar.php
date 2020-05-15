@@ -130,7 +130,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Nawa Athar</b>
-                                    <span>Syrian Ensemble of Homs</span>
+                                    <span>El conjunto sirio de Homs</span>
                                     <span>Música de Jamil ‘Uways (Siria)</span>
                                 </div>
                             </label>

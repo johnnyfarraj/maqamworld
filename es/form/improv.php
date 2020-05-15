@@ -257,8 +257,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>‘Amer ‘Ammuri</b>
-                                    <span>Taqsim de <a href="../instr/oud.php">Oud</a> de ‘Amer ‘Ammuri (Siria) en el <a href="../maqam/huzam.php">Maqam Huzam</a> durante un concierto de Sabah Fakhri.
+                                    <b>Amer Ammuri</b>
+                                    <span>Taqsim de <a href="../instr/oud.php">Oud</a> de Amer Ammuri (Siria) en el <a href="../maqam/huzam.php">Maqam Huzam</a> durante un concierto de Sabah Fakhri.
                                     </span>
                                 </div>
                             </label>

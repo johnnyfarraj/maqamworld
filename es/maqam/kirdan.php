@@ -88,7 +88,6 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Sihtu Wajdan</b>
                                     <span>Coro de la Universidad Kaslik (Líbano)</span>
-                                    <span>Conductor Aïda Shalhoub Ziadé</span>
                                     <span>Música de Sayed Darwish</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>

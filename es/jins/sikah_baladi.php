@@ -108,7 +108,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Fantasy Nahawand</b>
-                                    <span>Instrumental Composition</span>
+                                    <span>Composición Instrumental</span>
                                     <span>Música de Muhammad Abdel Wahab</span>
                                     <span><img src="/img/cd.png"> Qamar 14</span>
                                 </div>

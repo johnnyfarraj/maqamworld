@@ -133,7 +133,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr Daya‘ti Mustaqbal Hayati</b>
-                                    <span>Music and Voz por Sayed Darwish</span>
+                                    <span>Música y Voz por Sayed Darwish</span>
                                 </div>
                             </label>
                         </div>

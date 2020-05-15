@@ -184,8 +184,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Longa ‘Ajam de ‘Abdu Daghir</b>
-                                    <span>Longa en el <a href="../maqam/ajam.php">Maqam ‘Ajam</a> de ‘Abdu Daghir (Egípto) grabado por su conjunto.
+                                    <b>Longa ‘Ajam de ‘Abdu Dagher</b>
+                                    <span>Longa en el <a href="../maqam/ajam.php">Maqam ‘Ajam</a> de ‘Abdu Dagher (Egípto) grabado por su conjunto.
                                     </span>
                                 </div>
                             </label>

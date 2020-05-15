@@ -3,11 +3,11 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-5"> <img src="/img/logo-bottom.png" height="30" class="footer-logo">
-                <p>&copy; 2001-2018 El Mundo Del Maqam
-                <br>Reservados todos los derechos.
-                <br>Concepto, contenido y diseño: <a href="https://www.amazon.com/Johnny-Farraj/e/B07SD841D2" target="_blank">Johnny Farraj</a>
+                <p>&copy; 2001-2018 El Mundo del Maqam
+                <br>Todos los derechos reservados.
+                <br>Concepto, diseño y texto: <a href="https://www.amazon.com/Johnny-Farraj/e/B07SD841D2" target="_blank">Johnny Farraj</a>
                 <br>Desarrollo web y programación: <a href="http://filiptodorov.com" target="_blank">Filip Todorov</a>
-                <br>Traducción al español: <strong>Aaron Rosenberg, Nazira Bashour, Alejandro Farha, David Marcus, Roberto Paolo Riggio</strong>
+                <br>Traducción al español: <strong>Aaron Rosenberg, Nazira Bashour, Alejandro Farha, David Marcus</strong>
                 </p>
                 <!--
                 <ul class="socials">

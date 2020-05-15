@@ -193,7 +193,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dulab Hijazkar</b>
-                                    <span>Sabah Fakhri Ensemble</span>
+                                    <span>Conjunto Sabah Fakhri</span>
                                     <span>Nagham Al-Ams Vol. 04 Hijazkar</span>
                                 </div>
                             </label>

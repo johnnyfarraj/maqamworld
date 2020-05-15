@@ -42,7 +42,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/sittatu_ashar.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Sittatu ‘Ashar Masri ("sittatu ‘ashar" means sixteen, "masri" means Egyptian) is a rare <em>iqa‘</em> mostly used in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre. It spans 8 measures of 4/4, bringing its time signature to 32/4.</p>
+                    <p>
+                        Iqa‘ Sittatu ‘Ashar Masri ("sittatu ‘ashar" significa dieciséis, "masri" significa egipcio) es un <em>iqa‘</em> raro utilizado principalmente en el género vocal <a href="../form/vocal_comp.php#muwashah">Muwashah</a>. Abarca 8 compases de 4/4 y lleva la cifra de 32/4 al principio del compás.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -82,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Badat Min al-Khidri (khana)</b>
-                                    <span>Louis Hage and Aida Chalhoub</span>
+                                    <span>Louis Hage y Aida Chalhoub</span>
                                 </div>
                             </label>
                         </div>

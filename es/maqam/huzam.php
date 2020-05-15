@@ -173,7 +173,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr Inta Fahim</b>
                                     <span>(Maqam Rahat al-Arwah)</span>
-                                    <span>Music and Voz por Zakariya Ahmad</span>
+                                    <span>Música y Voz por Zakariya Ahmad</span>
                                 </div>
                             </label>
                         </div>

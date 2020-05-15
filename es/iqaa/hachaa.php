@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Hacha‘ 4/4</h1>
-                        <h3>(also in 2/4 and 6/4)</h3>
+                        <h3>(también en 2/4 y 6/4)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘</a>
                     <div class="clearfix"></div>
@@ -43,7 +43,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/hachaa_4_4.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Hacha‘ in 4/4 is very popular in Sufi music, especially in pieces that only use percussion instruments. Although the 4/4 version is by far the most prevalent, it is an adaptation of a more folkloric <em>iqa‘</em> by the same name in 2/4. A rare adaptation is the 6/4 version used by composer Baligh Hamdi in Umm Kulthum's "Alf Leila wi Leila".
+                    <p>
+                        Iqa‘ Hacha‘ en 4/4 es muy popular en la música sufí, especialmente en piezas que solo usan instrumentos de percusión. Aunque la versión en 4/4 es la más frecuente, es una adaptación de un <em>iqa‘</em> más folklórico del mismo nombre en 2/4. Una adaptación rara es la versión en 6/4 utilizada por el compositor Baligh Hamdi en <strong>Alf Leila wi Leila</strong> de Umm Kulthum.
 					</p>
 
                     <div class="player-area">
@@ -58,7 +59,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Bi-Hamdika Ya Ilahi</b>
-                                    <span>Sheikh Hamza Shakkur &amp; Ensemble Al Kindi</span>
+                                    <span>Sheikh Hamza Shakkur y Conjunto Al-Kindi</span>
                                     <span><img src="/img/cd.png"> Whirling Dervishes of Damascus Vol. 1</span>
                                 </div>
                             </label>
@@ -71,7 +72,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Subhana</b>
-                                    <span>Sheikh Habboush &amp; Ensemble Al Kindi</span>
+                                    <span>Sheikh Habboush &amp; Conjunto Al-Kindi</span>
                                     <span><img src="/img/cd.png"> Transe Soufie d'Aleppe Vol.2</span>
                                 </div>
                             </label>
@@ -143,7 +144,7 @@ include($ROOT . 'inc/head.php');
 
                     <br>
                     <div class="heading jins text-center">
-                        <h3>TODO Examples of the 2/4 form of Iqa‘ Hacha‘</h3>
+                        <h3>Ejemplos de la forma de Iqa‘ Hacha‘ en 2/4</h3>
                     </div>
                     <br>
 
@@ -158,7 +159,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>‘Al-Maya</b>
                                     <span>Diyab Mashhur</span>
-                                    <span>(Syrian Folk Song)</span>
+                                    <span>(Folklore sirio)</span>
                                 </div>
                             </label>
                         </div>
@@ -179,7 +180,7 @@ include($ROOT . 'inc/head.php');
 
                     <br>
                     <div class="heading jins text-center">
-                        <h3>TODO Examples of the 6/4 form of Iqa‘ Hacha‘</h3>
+                        <h3>Ejemplos de la forma de Iqa‘ Hacha‘ en 6/4</h3>
                     </div>
                     <br>
 

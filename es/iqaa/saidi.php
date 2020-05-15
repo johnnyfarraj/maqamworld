@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
                     
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Sa‘idi 4/4</h1>
-                        <h3>(also apelled Saidi)</h3>
+                        <h3>(también escrito Saidi)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘</a>
                     <div class="clearfix"></div>
@@ -43,7 +43,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/saidi.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Sa‘idi is a lively and quintessentially Egyptian <em>iqa‘</em> from the Sa‘id region. It modulates back and forth with other lively 4/4 <em>iqa‘at</em> like <a href="maqsum.php">Maqsum</a> and <a href="baladi.php">Baladi</a>.</p>
+                    <p>
+                        Iqa‘ Sa‘idi es un <em>iqa‘</em> animado y el <em>iqa‘</em> por excelencia egipcio de la región de <strong>Sa‘id</strong>. Se modula entre otros <em>iqa‘at</em> animados en 4/4 como <a href="maqsum.php">Maqsum</a> y <a href="baladi.php">Baladi</a>.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>

@@ -48,7 +48,7 @@ include($ROOT . 'inc/head.php');
                     </p>
 
                     <p>
-                        Ciftetelli generalmente tiene un ritmo lento y se extiende sobre dos compases de 4/4 (véase la notación), y puede tener el mismo tempo y movimiento que <a href="masmudi_kabir.php">Masmudi Kabir</a>. Alternativamente, se puede realizar más rápido y más ligero, en cuyo caso se puede anotar en 4/4 y se vuelve muy similar a <a href="wahda_w_nuss.php">Wahda u Nuss</a> (más o menos alguna ornamentación).
+                        Ciftetelli generalmente tiene un ritmo lento y se extiende sobre dos compases de 4/4 (véase la notación), y puede tener el mismo tempo y movimiento que <a href="masmudi_kabir.php">Masmudi Kabir</a>. Alternativamente, se puede realizar más rápido y más ligero, en cuyo caso se puede anotar en 4/4 y se vuelve muy similar a <a href="wahda_w_nuss.php">Wahda wi Nuss</a> (más o menos alguna ornamentación).
                     </p>
 
                     <div class="player-area">
@@ -87,7 +87,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Layali Rast (from ‘Addini ya M‘addawi)</b>
+                                    <b>Layali Rast</b>
+                                    <span>(de la cancion ‘Addini ya M‘addawi)</span>
                                     <span>‘Abbas al-Bleidi</span>
                                 </div>
                             </label>
@@ -170,8 +171,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>‘Aziza (1955)</b>
-                                    <span>Instrumental Composition</span>
-                                    <span>Música de Muhammad Abdel Wahab (from the movie <strong>‘Aziza</strong>)</span>
+                                    <span>Composición Instrumental</span>
+                                    <span>Música de Muhammad Abdel Wahab (de la película <strong>‘Aziza</strong>)</span>
                                 </div>
                             </label>
                         </div>
@@ -206,7 +207,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Nay Bayati</b>
+                                    <b>Taqsim de Nay en Maqam Bayati</b>
                                     <span>Muhammad Khayri</span>
                                 </div>
                             </label>
@@ -219,7 +220,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Tuta</b>
-                                    <span>Instrumental Composition</span>
+                                    <span>Composición Instrumental</span>
                                     <span>Música de Farid al-Atrash</span>
                                 </div>
                             </label>

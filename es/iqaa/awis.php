@@ -73,7 +73,6 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Hibbi Da‘ani Lil-Wisal</b>
                                     <span>Coro de la Universidad Kaslik (Líbano)</span>
-                                    <span>Conductor Aïda Shalhoub Ziadé</span>
                                     <span>Música de Sayed Darwish</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>
@@ -101,8 +100,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Munyati Sidu-l-Milah</b>
-                                    <span>(performed in 11/4)</span>
-                                    <span>The munshid Mahmud Fares</span>
+                                    <span>(tocado en 11/4)</span>
+                                    <span>El cantor Mahmud Fares</span>
                                     <span>Música de Omar al-Batsh</span>
                                 </div>
                             </label>

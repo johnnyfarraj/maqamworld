@@ -42,7 +42,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/muhajjar.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Muhajjar is a very popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> repertoire. It is immediately recognizable by the 3 consecutive <em>dum</em>-s that open the measure. The word "muhajjar" in Arabic means made of/turned into stone.</p>
+                    <p>
+                        Iqa‘ Muhajjar es un <em>iqa‘</em> muy popular en el repertorio de <a href="../form/vocal_comp.php#muwashah">Muwashah</a>. Es inmediatamente reconocible por los 3 golpes de dum consecutivos que comienzan el patrón. La palabra "muhajjar" en árabe significa hecho de piedra.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -93,7 +95,6 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Munyati ‘Azza Istibari</b>
                                     <span>Coro de la Universidad Kaslik (Líbano)</span>
-                                    <span>Conductor Aïda Shalhoub Ziadé</span>
                                     <span>Música de Sayed Darwish</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>

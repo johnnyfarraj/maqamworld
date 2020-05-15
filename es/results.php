@@ -36,11 +36,11 @@ $search_string = preg_replace('/[^A-Za-z0-9 "\']/', '', strip_tags(normalizeChar
                 <div class="col-sm-12">
                     <div id="results">
                         <div class="heading">
-                            <h1>Search Results</h1>
-                            <h3>Results for "<?php echo $search_string; ?>"</h3>
+                            <h1>Resultados de la Búsqueda</h1>
+                            <h3>Resultados para "<?php echo $search_string; ?>"</h3>
                         </div>
                         <i class="fa fa-fw fa-circle-o-notch fa-spin fa-2x"></i>
-                        <p>Please wait, we are searching the website.</p>
+                        <p>Por favor espere, estamos buscando en el sitio.</p>
                     </div>
                 </div>
             </div>
@@ -59,14 +59,14 @@ $search_string = preg_replace('/[^A-Za-z0-9 "\']/', '', strip_tags(normalizeChar
                     console.log(result);
                     $("#results").html("");
                     result = JSON.parse(result);
-                    $("#results").append('<div class="heading"><h1>Search Results</h1><h3>Results for "<?php echo addslashes($search_string); ?>"</h3></div>');
+                    $("#results").append('<div class="heading"><h1>Resultados de la Búsqueda</h1><h3>Resultados para "<?php echo addslashes($search_string); ?>"</h3></div>');
                     if(result.status == "error") {
                         $("#results").append("<p>" + result.message + "</p>");
                     } else {
-                        $("#results").append("<p>" + result.totalFiles + " matches found for your search keyword.</p>");
+                        $("#results").append("<p>Encontramos " + result.totalFiles + " resultados para su palabra clave de búsqueda.</p>");
                     }
                     for(var res in result.files) {
-                        $("#results").append('<div><a href="' + result.files[res].link + '" class="search-result">'+ result.files[res].title +'<span>' + result.files[res].link + '</span><b>Found the search keyword '+ result.files[res].appearances +' times</b></a></div>');
+                        $("#results").append('<div><a href="' + result.files[res].link + '" class="search-result">'+ result.files[res].title +'<span>' + result.files[res].link + '</span><b>Se encontró la palabra clave de búsqueda '+ result.files[res].appearances +' veces</b></a></div>');
                     }
                 }
             })

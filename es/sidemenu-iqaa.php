@@ -40,7 +40,7 @@
     <li><a href="/es/iqaa/wahda.php">Wahda 4/4</a></li>
     <li><a href="/es/iqaa/wahda_saghira.php">Wahda Saghira 2/4</a></li>
     <li><a href="/es/iqaa/wahda_kabira.php">Wahda Kabira 8/4</a></li>
-    <li><a href="/es/iqaa/wahda_w_nuss.php">Wahda u Nuss 4/4</a></li>
+    <li><a href="/es/iqaa/wahda_w_nuss.php">Wahda wi Nuss 4/4</a></li>
     <li><a href="/es/iqaa/yuruk_semai.php">Yuruk Semai 6/8</a></li>
     <li><a href="/es/iqaa/zaffa.php">Zaffa 4/4</a></li>
 </ul>

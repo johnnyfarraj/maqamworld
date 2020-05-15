@@ -43,9 +43,12 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/nawari.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Nawari is variation on <a href="saidi.php">Iqa‘ Sa‘idi</a> and <a href="baladi.php">Baladi</a> primarily used in Levantine folk music and Dabke line dances.</p>
-                    
-                    <p>Iqa‘ Nawari is often called <strong>Katakufti</strong> by percussionists, although the original <a href="katakufti.php">Iqa‘ Katakufti</a> has a different signature. The reason for this alternate name is because <a href="katakufti.php">Iqa‘ Katakufti</a> sounds exactly like Nawari when it is started from the last <em>tak</em>.</p>
+                    <p>
+                        Iqa‘ Nawari es una variación de <a href="saidi.php">Iqa‘ Sa‘idi</a> y <a href="baladi.php">Iqa‘ Baladi</a> que se usa principalmente en la música folklórica levantina y en las danzas de línea <strong>Dabke</strong>.
+                    </p>
+                    <p>
+                        Iqa‘ Nawari a menudo es llamado <strong>Katakufti</strong> por los percusionistas, aunque el <a href="katakufti.php">Iqa‘ Katakufti</a> original está en un tiempo diferente. La razón detrás de este nombre alternativo es porque <a href="katakufti.php">Iqa‘ Katakufti</a> suena exactamente como Nawari cuando se inicia desde el último <strong>tak</strong>.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -83,7 +86,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Initiation Of Ecstasy</b>
-                                    <span>El-Funoun Ensemble</span>
+                                    <span>Conjunto al-Funoun</span>
                                     <span><img src="/img/cd.png"> Zaghareed: Music From The Palestinian Holy Land</span>
                                 </div>
                             </label>

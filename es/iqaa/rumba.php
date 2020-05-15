@@ -42,7 +42,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/rumba.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Rumba is an Arabic adaptation of the Latin American dance rhythm by the same name. It became fashionable starting from the 1930s and was used to add a litte foreign flavor to Arabic arrangements.</p>
+                    <p>
+                        Iqa‘ Rumba es una adaptación árabe del ritmo de baile latinoamericano del mismo nombre. Se puso de moda a partir de la década de 1930 y se utilizó para agregar un poco de sabor extranjero a los arreglos árabes.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>

@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
                     
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Wahda Kabira 8/4</h1>
-                        <h3>(también llamado Wahda Sunbati)</h3>
+                        <h3>(también llamado <strong>Wahda Sunbati</strong>)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘</a>
                     <div class="clearfix"></div>
@@ -47,7 +47,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/wahda_kabira.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Wahda Kabira ("kabira" is Arabic for large), also known as <strong>Wahda Sunbati</strong>, is a stretched out version of <a href="wahda.php">Iqa‘ Wahda</a> over two measures. It is very popular in the vocal and instrumental music of the mid-twentieth century.</p>
+                    <p>
+                        Iqa‘ Wahda Kabira ("kabira" significa "grande" en árabe), también conocido como <strong>Wahda Sunbati</strong>, es una versión extendida de <a href="wahda.php">Iqa‘ Wahda</a> en dos compases. Es muy popular en la música vocal e instrumental de mediados del siglo XX.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -99,7 +101,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Tuta</b>
-                                    <span>Instrumental Composition</span>
+                                    <span>Composición Instrumental</span>
                                     <span>Música de Farid al-Atrash</span>
                                 </div>
                             </label>

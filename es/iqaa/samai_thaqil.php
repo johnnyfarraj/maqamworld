@@ -42,7 +42,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/samai_thaqil.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Sama‘i Thaqil (también llamado Sama‘i, for short) is a very popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre, as well as the principal <em>iqa‘</em> used in the <a href="../form/ottoman.php#samai">Sama‘i</a> Turkish/Ottoman instrumental form. </p>
+                    <p>
+                        Iqa‘ Sama‘i Thaqil (también llamado <strong>Sama‘i</strong>) es un <em>iqa‘</em> muy popular en el género vocal <a href="../form/vocal_comp.php#muwashah">Muwashah</a>, y también el <em>iqa‘</em> principal utilizado en el <a href="../form/ottoman.php#samai">Sama‘i</a>, una forma instrumental de origen turco / otomano.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -56,7 +58,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Sama‘i Bayati Ibrahim al-‘Aryan</b>
-                                    <span>The Takht Ensemble of Cairo</span>
+                                    <span>Conjunto Takht de Cairo</span>
                                     <span><img src="/img/cd.png"> Music Of Islam Vol. 1: AL-Qahirah</span>
                                 </div>
                             </label>
@@ -69,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah ‘Atini Bikra al-Dinan</b>
-                                    <span>Salim Sahhab Orchestra</span>
+                                    <span>Orquesta Salim Sahhab</span>
                                 </div>
                             </label>
                         </div>
@@ -81,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Imlali al-Aqdaha Sirfan</b>
-                                    <span>Sheikh Hamza Shakkur and Ensemble Al Kindi</span>
+                                    <span>Sheikh Hamza Shakkur y Conjunto Al-Kindi</span>
                                 </div>
                             </label>
                         </div>

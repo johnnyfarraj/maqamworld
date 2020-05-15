@@ -119,7 +119,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Jiharkah</b>
-                                    <span>Sabah Fakhri Orchestra</span>
+                                    <span>Conjunto Sabah Fakhri</span>
                                     <span><img src="/img/cd.png"> Live Au Théatre Des Amandiers</span>
                                 </div>
                             </label>
@@ -132,7 +132,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dulab Jiharkah</b>
-                                    <span>Sabah Fakhri Orchestra</span>
+                                    <span>Conjunto Sabah Fakhri</span>
                                     <span><img src="/img/cd.png"> Live Au Théatre Des Amandiers</span>
                                 </div>
                             </label>

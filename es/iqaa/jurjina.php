@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/jurjina.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Jurjina is a widely used <em>iqa‘</em> in Iraq and Iran, as well as in the Turkish and the Kurdish repertoires, both in the folk and classical genres. While it is infrequently used in the Near Eastern repertoire, it is sometimes used in Tunisian Malouf compositions.               
+                    <p>
+                        Iqa‘ Jurjina es un <em>iqa‘</em> utilizado ampliamente en Irak e Irán, así como en el repertorio turco y kurdo, tanto en los géneros folklóricos como clásicos. Aunque se usa con poca frecuencia en el repertorio del Cercano Oriente, a veces se usa en composiciones tunecinas de Malouf.               
                     </p>
                     
                     <div class="player-area">
@@ -56,8 +57,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Ya Umm el-'Uyun el-Sud</b>
+                                    <b>Ya Umm el-‘Uyun el-Sud</b>
                                     <span>Nazem al-Ghazali</span>
+                                    <spand>Musica de Nazem Na‘im</spand>
                                 </div>
                             </label>
                         </div>

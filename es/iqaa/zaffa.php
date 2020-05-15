@@ -42,7 +42,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/zaffa.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Zaffa is named after a wedding procession involving a loud and diverse group of precussion instruments. Aside from weddings, it is a possible modulation from slowed down versions of 4/4 <em>iqa‘at</em> like <a href="baladi.php">Baladi</a> and <a href="maqsum.php">Maqsum</a>.</p>
+                    <p>
+                        Iqa‘ Zaffa viene del la procesión de bodas del mismo nombre que incluye un grupo ruidoso y diverso de instrumentos de percusión. Además de las bodas, se puede usar como una modulación de otros <em>iqa‘at</em> en 4/4 como <a href="baladi.php">Baladi</a> y <a href="maqsum.php">Maqsum</a> pero a una velocidad más lenta.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>

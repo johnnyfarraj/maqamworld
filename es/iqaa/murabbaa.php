@@ -42,7 +42,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/murabbaa.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Murabba‘ is mostly confined to the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> repertoire. Unrelated to its time signature, the word <em>murabba‘</em> in Arabic means squared or based on the number 4.</p>
+                    <p>
+                        Iqa‘ Murabba‘ se limita principalmente al repertorio de <a href="../form/vocal_comp.php#muwashah">Muwashah</a>. Aunque la palabra murabba‘ en árabe significa cuadrado o basado en el número 4, no es relacionado con su tiempo de compás.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -94,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Jalla Man Qad Ansha Jamalak</b>
-                                    <span>Umar Sarmini and al-Kindi Ensemble</span>
+                                    <span>Umar Sarmini con Conjunto Al-Kindi</span>
                                 </div>
                             </label>
                         </div>
@@ -132,7 +134,6 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Ya ‘Udhayb al-Marshaf</b>
                                     <span>Coro de la Universidad Kaslik (Líbano)</span>
-                                    <span>Conductor Aïda Shalhoub Ziadé</span>
                                     <span>Música de Sayed Darwish</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>

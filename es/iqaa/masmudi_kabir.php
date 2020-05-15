@@ -42,7 +42,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/masmudi_kabir.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Masmudi Kabir (or Masmudi, for short) is one of the most popular rhythms in the Tarab repertoire of the twentieth century. The word "kabir" means great/large in Arabic, to distinguish it from <a href="baladi.php">Masmudi Saghir</a> (small Masmudi, more commonly called Baladi.) </p>
+                    <p>
+                        Iqa‘ Masmudi Kabir (o simplemente <strong>Masmudi</strong>) es uno de los ritmos más populares en el repertorio <em>Tarab</em> del siglo XX. La palabra "kabir" significa grande en árabe, se usa para distinguirlo de <a href="baladi.php">Masmudi Saghir</a> (pequeño Masmudi, más comúnmente llamado <strong>Baladi</strong>).
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -56,7 +58,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Bint el-Balad (1951)</b>
-                                    <span>Instrumental Composition</span>
+                                    <span>Composición Instrumental</span>
                                     <span>Muhammad Abdel Wahab</span>
                                 </div>
                             </label>

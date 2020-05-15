@@ -131,7 +131,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Semiramis (Taqsim de Oud Zanjaran)</b>
-                                    <span>‘Amer ‘Ammuri</span>
+                                    <span>Amer Ammuri</span>
                                     <span><img src="/img/cd.png"> Takasim Oud</span>
                                 </div>
                             </label>
@@ -143,7 +143,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim de Qanun Zanjaran</b>
+                                    <b>Taqsim de Qanun en Maqam Zanjaran</b>
                                     <span>Abraham Salman</span>
                                     <span><img src="/img/cd.png"> Saltanah</span>
                                 </div>
@@ -156,7 +156,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Buzuq Zanjaran</b>
+                                    <b>Taqsim de Buzuq en Maqam Zanjaran</b>
                                     <span>Muhammad Abdel Karim</span>
                                 </div>
                             </label>

@@ -44,7 +44,7 @@ include($ROOT . 'inc/head.php');
 
                     <br>
                     <div class="heading jins text-center">
-                        <h3>Forma I</h3>
+                        <h3>Ejemplos de la primera forma de Iqa‘ Awfar Masri</h3>
                     </div>
                     <div class="clearfix"></div>
                     <br>
@@ -74,7 +74,7 @@ include($ROOT . 'inc/head.php');
 
                     <br>
                     <div class="heading jins text-center">
-                        <h3>Forma II</h3>
+                        <h3>Ejemplos de la segunda forma de Iqa‘ Awfar Masri</h3>
                     </div>
                     <div class="clearfix"></div>
                     <br>
@@ -104,7 +104,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Ya Man Ramani Bil-Siham</b>
                                     <span>(in <a href="../maqam/nikriz.php">Maqam Nikriz</a>)</span>
-                                    <span>Ensemble Dugah</span>
+                                    <span>Conjunto Dugah</span>
                                     <span>Música de Omar al-Batsh</span>
                                 </div>
                             </label>
@@ -117,7 +117,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Ya Na‘isa al-Ajfan</b>
-                                    <span>(in <a href="../maqam/nahawand.php">Maqam Nahawand</a>)</span>
+                                    <span>(en <a href="../maqam/nahawand.php">Maqam Nahawand</a>)</span>
                                     <span>Khaled al-Hafez</span>
                                     <span>Música de Omar al-Batsh</span>
                                 </div>

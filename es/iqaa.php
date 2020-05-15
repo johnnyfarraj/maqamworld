@@ -40,7 +40,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <p>
-                        Música árabe se compone sobre ciclos rítmicos llamados <em>iqa‘at</em> (singular <em>iqa‘</em> ), que son patrones de ritmos que repiten cada compás. Una composición puede alternar entre muchos iqa‘at diferentes. Cada iqa’ se define utilizando un compás prototípico y los dos sonidos básicos: <strong>dum</strong> (grave y resonante) y <strong>tak</strong> (seco y agudo).
+                        La música árabe se compone sobre ciclos rítmicos llamados <em>iqa‘at</em> (singular <em>iqa‘</em> ), que son patrones de ritmos que repiten cada compás. Una composición puede alternar entre muchos iqa‘at diferentes. Cada iqa’ se define utilizando un compás prototípico y los dos sonidos básicos: <strong>dum</strong> (grave y resonante) y <strong>tak</strong> (seco y agudo).
                     </p>
                     <p>
                         El <em>Iqa‘</em> anotado sirve como un esqueleto o un prototipo de cómo realizarlo. En práctica, los percusionistas adornan un iqa’ (lo desarrollan) con ritmos adicionales: <strong>dum</strong>, <strong>tak</strong> y cualquier otro sonido que el instrumento pueda producir. Esa ornamentación depende mucho del género de la música árabe, el arreglo estético deseado, el instrumento en sí, el tamaño de la sección rítmica y el estilo personal del percusionista.
@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                                     <li><a href="iqaa/baladi.php">Baladi 4/4</a></li>
                                     <li><a href="iqaa/saidi.php">Sa‘idi 4/4</a></li>
                                     <li><a href="iqaa/wahda.php">Wahda 4/4</a></li>
-                                    <li><a href="iqaa/wahda_w_nuss.php">Wahda u Nuss 4/4</a></li>
+                                    <li><a href="iqaa/wahda_w_nuss.php">Wahda wi Nuss 4/4</a></li>
                                     <li><a href="iqaa/rumba.php">Rumba 4/4</a></li>
                                     <li><a href="iqaa/zaffa.php">Zaffa 4/4</a></li>
                                     <li><a href="iqaa/hachaa.php">Hacha‘ 4/4</a></li>

@@ -68,7 +68,7 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Hassan al-Haffar's Ensemble</b>
+                                    <b>Conjunto Hassan al-Haffar</b>
                                     <span>El Daf is used in Aleppan <em>munshid</em> (Islamic cantor) Hassan al-Haffar's ensemble in a concert recorded live in Paris.</span>
                                 </div>
                             </label>

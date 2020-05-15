@@ -112,8 +112,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>‘Abdu Daghir</b>
-                                    <span>Egyptian violinist ‘Abdu Daghir and his ensemble playing his instrumenal composition Sama‘i <a href="../maqam/kurd.php">Maqam Kurd</a>, including violin and qanun solos</span>
+                                    <b>‘Abdu Dagher</b>
+                                    <span>Egyptian violinist ‘Abdu Dagher and his ensemble playing his instrumenal composition Sama‘i <a href="../maqam/kurd.php">Maqam Kurd</a>, including violin and qanun solos</span>
                                 </div>
                             </label>
                         </div>

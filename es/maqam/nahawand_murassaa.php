@@ -143,7 +143,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dulab Nahawand Murassa‘</b>
-                                    <span>Zikrayat Ensemble</span>
+                                    <span>Conjunto Zikrayat</span>
                                     <span>Música de Sami Abu Shumays</span>
                                 </div>
                             </label>

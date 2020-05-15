@@ -87,7 +87,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Balad el-Mahbub</b>
-                                    <span>Instrumental Composition</span>
+                                    <span>Composición Instrumental</span>
                                     <span>Música de Muhammad Abdel Wahab</span>
                                 </div>
                             </label>

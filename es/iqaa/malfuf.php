@@ -43,7 +43,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/malfuf.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Malfuf (también llamado <strong>Laff</strong>) is primarily used in folk and popular Arabic music. If feels short and cyclical, and often modulates to and ftom other 2/4 <em>iqa‘at</em> like <a href="karachi.php">Karachi</a> and <a href="fox.php">Fox</a>. Alternatively 2 consecutive measures of Malfuf could modulate to one measure of a 4/4 <em>iqa‘</em> like <a href="baladi.php">Baladi</a> ot <a href="maqsum.php">Maqsum</a>.</p>
+                    <p>
+                        Iqa‘ Malfuf (también llamado <strong>Laff</strong>) se utiliza principalmente en la música folkórica y popular árabe. Se siente corto y cíclico, y se modula a menudo entre otros <em>iqa‘at</em> en 2/4 como <a href="karachi.php">Karachi</a> y <a href="fox.php">Fox</a>. Alternativamente, 2 compases consecutivos de Malfuf podrían modular a un <em>iqa‘</em> de 4/4 como <a href="baladi.php">Baladi</a> o <a href="maqsum.php">Maqsum</a>.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -96,7 +98,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Ya Sahi al-Sabru Waha Minni</b>
                                     <span>Sheikh Hamza Shakkur</span>
-                                    <span>Ensemble Al Kindi</span>
+                                    <span>Conjunto Al-Kindi</span>
                                 </div>
                             </label>
                         </div>
@@ -108,7 +110,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Tulbah (Proposition)</b>
-                                    <span>El-Funoun Ensemble</span>
+                                    <span>Conjunto al-Funun</span>
                                     <span><img src="/img/cd.png"> Zaghareed: Music From The Palestinian Holy Land</span>
                                 </div>
                             </label>

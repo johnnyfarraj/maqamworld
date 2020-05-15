@@ -42,7 +42,9 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/mukhammas.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Mukhammas is mostly confined to the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> repertoire. Unrelated to its time signature, the word "mukhammas" in Arabic means based on the number 5.</p>
+                    <p>
+                        Iqa‘ Mukhammas se limita principalmente al repertorio de <a href="../form/vocal_comp.php#muwashah">Muwashah</a>. Aunque la palabra "mukhammas" en árabe significa basado en el número 5, no es relacionado con su tiempo de compás.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -57,7 +59,6 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Badri Adir Kas al-Tila</b>
                                     <span>Coro de la Universidad Kaslik (Líbano)</span>
-                                    <span>Conductor Aïda Shalhoub Ziadé</span>
                                     <span>Música de Muhammad ‘Uthman</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>

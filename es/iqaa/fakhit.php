@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Zarani Taht al-Ghayahib</b>
-                                    <span>Firqat Usama Bin Zayd</span>
+                                    <span>Conjunto Usama Bin Zayd</span>
                                     <span>Música de Omar al-Batsh</span>
                                 </div>
                             </label>

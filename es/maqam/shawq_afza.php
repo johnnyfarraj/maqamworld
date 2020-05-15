@@ -104,7 +104,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Longa ‘Ajam</b>
-                                    <span>Música de Abdu Daghir</span>
+                                    <span>Música de Abdu Dagher</span>
                                     <span><img src="/img/cd.png"> Malik al-Taqasim</span>
                                 </div>
                             </label>

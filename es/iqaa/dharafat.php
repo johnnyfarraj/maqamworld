@@ -44,7 +44,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <p>
-                        Iqa‘ Dharafat (también deletreado Zarafat) se usa principalmente con el género vocal <a href="../form/vocal_comp.php#muwashah">Muwashah</a>. El uso de este iqa‘ fuera de <a href="../form/vocal_comp.php#muwashah">muwashahat</a> (por ejemplo, en una canción popular) tiene el efecto de agregar un color clásico al evocar el repertorio anterior.
+                        Iqa‘ Dharafat (también deletreado Zarafat) se usa principalmente con el género vocal <a href="../form/vocal_comp.php#muwashah">Muwashah</a>. El uso de este <em>iqa‘</em> fuera de <a href="../form/vocal_comp.php#muwashah">muwashahat</a> (por ejemplo, en una canción popular) tiene el efecto de agregar un color clásico al evocar el repertorio anterior.
                     </p>
 
                     <div class="player-area">
@@ -74,7 +74,6 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Tif Ya Durri Bil Qanani</b>
                                     <span>Coro de la Universidad Kaslik (Líbano)</span>
-                                    <span>Conductor Aïda Shalhoub Ziadé</span>
                                     <span>Música de Omar al-Batsh</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>

@@ -118,7 +118,7 @@ include($ROOT . 'inc/head.php');
 
                     <br>
                     <div class="heading jins text-center">
-                        <h3>La segunda forma de Iqa‘ Aqsaq</h3>
+                        <h3>Segunda forma de Iqa‘ Aqsaq</h3>
                     </div>
                     <div class="notation">
                         <img src="/note/iqaa/aqsaq_f2.png" class="img-fluid">
@@ -148,8 +148,8 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Ayuha al-Saqi</b>
                                     <span>Sabah Fakhri</span>
-                                    <span><img src="/img/cd.png"> Beiteddine Festival Vol. 1</span>
                                     <span>Música de Majdi al-‘Aqili</span>
+                                    <span><img src="/img/cd.png"> Beiteddine Festival Vol. 1</span>
                                 </div>
                             </label>
                         </div>
@@ -162,8 +162,8 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah ‘Adhibuni</b>
                                     <span>Conjunto Al-Kindi</span>
-                                    <span><img src="/img/cd.png"> The Aleppian Music Room Vol. 1 - Hijazkar Kurd &amp; Saba</span>
                                     <span>Música de Omar al-Batsh</span>
+                                    <span><img src="/img/cd.png"> The Aleppian Music Room Vol. 1 - Hijazkar Kurd &amp; Saba</span>
                                 </div>
                             </label>
                         </div>

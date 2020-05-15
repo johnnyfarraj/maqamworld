@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/samai_darij.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Sama‘i Darij (también llamado Darij, for short) is a general 3/4 <em>iqa‘</em> used both in vocal and instrumental genre. Iqa‘ Sama‘i Darij is also the principal <em>iqa‘</em> used in the <a href="../form/instr_comp.php#darij">Darij</a> instrumental composed form.
+                    <p>
+                        Iqa‘ Sama‘i Darij (también llamado <strong>Darij</strong>) es un <em>iqa‘</em> en 3/4 utilizado tanto en el género vocal como en el instrumental. Iqa‘ Sama‘i Darij es también el <em>iqa‘</em> principal utilizado en el <a href="../form/instr_comp.php#darij">Darij</a>, una forma de composición instrumental.
                     </p>
                     
                     <div class="player-area">

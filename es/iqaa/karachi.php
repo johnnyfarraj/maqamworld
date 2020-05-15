@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/karachi.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Karachi is a member of the 2/4 <em>iqa‘at</em> family that has a lazy feel and can be played at relatively slow tempos. Although it modulates often to and from <a href="malfuf.php">Malfuf</a>, Karachi does not share its rapid and urgent feel.
+                    <p>
+                        Iqa‘ Karachi es un miembro de la familia de <em>iqa‘at</em> en 2/4 que tiene una sensación lánguida y se puede tocar en tiempos relativamente lentos. Aunque a menudo se modula hacia y desde Ma<a href="malfuf.php">Malfuf</a>lfuf, Karachi no comparte su sensación rápida y urgente.
 					</p>
 
                     <div class="player-area">

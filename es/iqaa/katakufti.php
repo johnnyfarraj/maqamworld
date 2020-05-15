@@ -42,11 +42,12 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/katakufti.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Katakufti is a rare <em>iqa‘</em> used in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre.
+                    <p>
+                        Iqa ‘Katakufti es un <em>iqa‘</em> poco común utilizado en el género vocal <a href="../form/vocal_comp.php#muwashah">Muwashah</a>. Una forma alternativa de este <em>iqa‘</em> reemplaza el silencio del quinto tiempo con un <strong>dum</strong>, creando 2 golpes de <strong>dum</strong> consecutivos (de manera similar a la segunda forma de <a href="aqsaq.php">Iqa‘ Aqsaq</a>).
                     </p>
-                    <p>An alternate form of this <em>iqa‘</em> replaces the rest on the 5<sup>th</sup> beat with a <em>dum</em>, creating 2 consecutive <em>dum</em>-s (similarly to the second form of <a href="aqsaq.php">Iqa‘ Aqsaq</a>).
+                    <p>
+                        El nombre <strong>Katakufti</strong> a veces se usa como un nombre alternativo para <a href="nawari.php">Iqa‘ Nawari</a> porque suenan igual cuando Iqa‘ Katakufti se toca en 4/4 y comienza desde el último tiempo (el último <strong>tak</strong>).
                     </p>
-                    <p>The name <strong>Katakufti</strong> is sometimes used as an alternate name for <a href="nawari.php">Iqa‘ Nawari</a> because they sound alike when <strong>Iqa‘ Katakufti</strong> is played in 4/4 and started from the last beat (the last <em>tak</em>).</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -73,7 +74,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Ah Min Nari Jafahum</b>
-                                    <span>Ensemble Nour al-Charq</span>
+                                    <span>Conjunto Nur al-Sharq</span>
                                     <span>Música de Sheikh Ali al-Darwish</span>
                                 </div>
                             </label>
