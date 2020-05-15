@@ -63,7 +63,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Khatwit Habibi (1953)</b>
-                                    <span>Instrumental by Muhammad Abdel Wahab</span>
+                                    <span>Composición instrumental</span>
+                                    <span>Música de Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -128,7 +129,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Sawa Rbina (1968)</b>
                                     <span>Fairouz</span>
-                                    <span>Música de the Rahbani Brothers</span>
+                                    <span>Música de los Hermanos Rahbani</span>
                                 </div>
                             </label>
                         </div>

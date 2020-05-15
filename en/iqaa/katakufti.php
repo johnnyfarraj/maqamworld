@@ -61,7 +61,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Khadduka al-Naddi</b>
                                     <span>Khaled al-Hafez</span>
-                                    <span>Music by Omar al-Batsh</span>
+                                    <span>Music by ‘Umar al-Batsh</span>
                                 </div>
                             </label>
                         </div>

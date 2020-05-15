@@ -59,7 +59,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dal‘ona</b>
                                     <span>Fairouz</span>
-                                    <span>(traditional Lebanese folk song)</span>
+                                    <span>(folklore tradicional libanés)</span>
                                 </div>
                             </label>
                         </div>
@@ -86,7 +86,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Ya Hajal Sannin (1965)</b>
                                     <span>Fairouz</span>
                                     <span>Música y letras de los Hermanos Rahbani</span>
-                                    <span>de la película <strong>Baya‘ el-Khawatim</strong></span>
+                                    <span>De la película <strong>Baya‘ el-Khawatim</strong></span>
                                 </div>
                             </label>
                         </div>
