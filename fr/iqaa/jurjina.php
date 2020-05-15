@@ -58,6 +58,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Oum el-‘Ouyoun el-Soud</b>
                                     <span>Nazem al-Ghazali (Irak)</span>
+                                    <span>Musique de Nazem Na‘im</span>
                                 </div>
                             </label>
                         </div>

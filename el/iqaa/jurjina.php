@@ -59,6 +59,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Για Ουμ ελ-Οϊούν ελ-Σουντ</b>
                                     <span>Νάζεμ αλ-Γαζάλι</span>
+                                    <span>Μουσική Νάζεμ Ναϊμ</span>
                                 </div>
                             </label>
                         </div>

@@ -56,6 +56,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية يا امّ العيون السود</b>
                                     <span>غناء ناظم الغزالي (عراق)</span>
+                                    <span>الحان ناظم نعيم (عراق)</span>
                                 </div>
                             </label>
                         </div>
