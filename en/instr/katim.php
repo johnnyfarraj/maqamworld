@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Zaffa (Wedding Party)</b>
-                                    <span>An Egyptian Zaffa (wedding party) with a large group of percussionists using a combination of Katim-s, <a href="mazhar.php">Mazhar</a>-s and <a href="tabla.php">Tabla</a>-s, all with with synthetic heads.</span>
+                                    <span>An Egyptian Zaffa (wedding party) with a large group of percussionists using a combination of Katim-s, <a href="mazhar.php">Mazhar</a>-s and <a href="tabla.php">Tabla</a>-s, all with synthetic heads.</span>
                                 </div>
                             </label>
                         </div>
