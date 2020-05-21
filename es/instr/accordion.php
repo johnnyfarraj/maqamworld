@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/accordion.jpg" alt="El Acordeón Árabe">
-                        <span>TODO Faruq Salama playing accordion on Umm Kulthum's "Ya Msahharni", Cairo, 1971</span>
+                        <span>Faruq Salama playing accordion on Umm Kulthum's "Ya Msahharni", Cairo, 1971</span>
                     </div>
 
                     <p>

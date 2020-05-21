@@ -126,7 +126,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Marhabtayn</b>
-                                    <span>Lebanese diva Sabah in her song <strong>Mahabtayn</strong> (recorded live in Kuweit) featuring El Buzuq in her orchestra (conducted by violinist Abbud Abdel ‘Al)</span>
+                                    <span>Lebanese diva Sabah in her song <strong>Marhabtayn</strong> (recorded live in Kuwait) featuring El Buzuq in her orchestra (conducted by violinist Abbud Abdel ‘Al)</span>
                                 </div>
                             </label>
                         </div>
