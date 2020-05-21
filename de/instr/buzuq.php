@@ -127,7 +127,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Marhabtayn</b>
-                                    <span>Die libanesische Diva Sabah in ihrem Lied <strong>Mahabtayn</strong> (live aufgenommen in Kuwait) mit einem Buzuk in ihrem Orchester</span>
+                                    <span>Die libanesische Diva Sabah in ihrem Lied <strong>Marhabtayn</strong> (live aufgenommen in Kuwait) mit einem Buzuk in ihrem Orchester</span>
                                 </div>
                             </label>
                         </div>
