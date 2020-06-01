@@ -79,6 +79,19 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/jins/hijaz_murassaa/el-hobb-mahush-bis-sahl.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Dawr el-Hobb Ma Hush Bis-Sahl</b>
+                                    <span>Sabah Fakhri</span>
+                                    <span>Música de Dawud Husni</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                     <div class="track" data-song="/audio/jins/hijaz_murassaa/badru_timmin_oud.mp3">
                         <div class="radio">
                             <label>
@@ -86,7 +99,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Badru Timmin (Oud Taqsim)</b>
                                     <span>Ghada Shbeir</span>
-                                    <span>Música de Sheikh Mursi al-Hariri</span>
+                                    <span>Música de  Música de Sheikh Mursi al-Hariri</span>
                                 </div>
                             </label>
                         </div>

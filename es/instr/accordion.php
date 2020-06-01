@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/accordion.jpg" alt="El Acordeón Árabe">
-                        <span>Faruq Salama playing accordion on Umm Kulthum's "Ya Msahharni", Cairo, 1971</span>
+                        <span>Faruq Salama tocando el acordeón en "Ya Msahharni" de Umm Kulthum, Cairo, 1971</span>
                     </div>
 
                     <p>
@@ -58,7 +58,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ya Msahharni</b>
-                                    <span>Egyptian Arabic Accordion pioneer Faruq Salama plays the introduction of Umm Kukthum's song <strong>Ya Msahharni</strong> (1972, music by Sayed Makkawi.</span>
+                                    <span>Faruq Salama, pionero egipcio del acordeón árabe, toca la introducción de la canción <strong>Ya Msahharni</strong> de Umm Kulthum, Cairo, 1971, musica de Sayed Makkawi.</span>
                                 </div>
                             </label>
                         </div>
@@ -73,8 +73,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Faruq Salama Interview</b>
-                                    <span>Interview about Faruq Salama about his experience playing El Acordeón Árabe with Umm Kulthum's orchestra</span>
+                                    <b>Entrevista de Faruq Salama</b>
+                                    <span>Entrevista de Faruq Salama sobre su experiencia tocando el acordeón árabe con la orquesta de Umm Kulthum.</span>
                                 </div>
                             </label>
                         </div>
@@ -90,7 +90,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Fifi ‘Abdou</b>
-                                    <span>A dance clip by Egyptian belly dancer Fifi ‘Abdou that opens with an Arabic accordion</span>
+                                    <span>Un clip de baile de la bailarina egipcia Fifi ‘Abdou que se abre con un acordeón árabe.</span>
                                 </div>
                             </label>
                         </div>
@@ -106,7 +106,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                 <b>Ahmed ‘Adaweya</b>
-                                <span>Ahmed ‘Adaweya's song <strong>Ya Hilu el-Malamih</strong> (in the Egyptian <em>Sha‘bi</em> genre) accompanied by a belly dancer.</span>
+                                <span>La canción <strong>Ya Hilu el-Malamih</strong> (en el estilo egipcio <em>Sha‘bi</em>) de Ahmed ‘Adaweya, acompañada por una bailarina belly.</span>
                                 </div>
                             </label>
                         </div>
@@ -122,7 +122,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Elias Lammam</b>
-                                <span>The National Arab Orchestra (USA) performing Farid al-Atrash's instrumental composition <strong>Kahramana</strong> in an arrangement that features El Acordeón Árabe alongside traditional Arabic instruments.</span>
+                                <span>La orquesta árabe national (EE.UU.) tocando la composición instrumental <strong>Kahramana</strong> de Farid al-Atrash, en un arreglo en que se resalta el acordeón árabe, con otros instrumentos árabes tradicionales.</span>
                                 </div>
                             </label>
                         </div>

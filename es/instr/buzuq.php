@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/buzuq.jpg" alt="El Buzuq">
-                        <span>TODO Two buzuq-s made in Lebanon. &copy; MaqamWorld</span>
+                        <span>Dos buzuqs hechos en Líbano. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
@@ -62,7 +62,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Muhyiddin Ba‘yun</b>
-                                    <span>Lebanese buzuq player and singer Muhyiddin Ba‘yun in a Buzuq Taqsim in <a href="../maqam/bayati.php">Maqam Bayati</a></span>
+                                    <span>Muhyiddin Ba‘yun, cantante libanés quien toca el buzuq, en un <a href="../form/improv.php#taqsim">taqsim</a> buzuq en <a href="../maqam/bayati.php">Maqam Bayati</a>.</span>
                                 </div>
                             </label>
                         </div>
@@ -78,7 +78,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Muhammad Abdel Karim</b>
-                                    <span>Syrian Buzuq player Muhammad Abdel Karim (dubbed the Prince of Buzuq) in a Buzuq Taqsim. Abdel Karim left many recordings, and his style was mellow and meditative.</span>
+                                    <span>Abdel Karim left many recordings, and his style was mellow and meditative. Abdel Karim left many recordings, and his style was mellow and meditative.Syrian Buzuq player Muhammad Abdel Karim (dubbed the Prince of Buzuq) in a Buzuq Taqsim. Abdel Karim left many recordings, and his style was mellow and meditative.</span>
                                 </div>
                             </label>
                         </div>
