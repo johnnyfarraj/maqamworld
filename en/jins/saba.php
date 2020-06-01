@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Huwwa Sahih el-Hawa Ghallab (1960)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Zakariyya Ahmad</span>
+                                    <span>Music by Zakariyya Ahmad (Egypt)</span>
                                 </div>
                             </label>
                         </div>
@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Aghadan Alqaka (1971)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <span>Music by Muhammad Abdel Wahab (Egypt)</span>
                                 </div>
                             </label>
                         </div>
@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ansak Da Kalam (1961)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <span>Music by Baligh Hamdi (Egypt)</span>
                                 </div>
                             </label>
                         </div>

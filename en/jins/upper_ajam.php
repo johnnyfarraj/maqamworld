@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Zayy el-Hawa (1970)</b>
                                     <span>Abdel Halim Hafez</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <span>Music by Baligh Hamdi (Egypt)</span>
                                 </div>
                             </label>
                         </div>
@@ -96,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Huwwa Sahih el-Hawa Ghallab (1960)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Zakariyya Ahmad</span>
+                                    <span>Music by Zakariyya Ahmad (Egypt)</span>
                                 </div>
                             </label>
                         </div>

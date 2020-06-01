@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Siret il-Hubb (1964)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <span>Music by Baligh Hamdi (Egypt)</span>
                                 </div>
                             </label>
                         </div>
@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Fakkaruni (1966)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <span>Music by Muhammad Abdel Wahab (Egypt)</span>
                                 </div>
                             </label>
                         </div>
@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ba‘id ‘Annak (1965)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <span>Music by Baligh Hamdi (Egypt)</span>
                                 </div>
                             </label>
                         </div>
@@ -110,7 +110,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Amal Hayati(1965)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <span>Music by Muhammad Abdel Wahab (Egypt)</span>
                                 </div>
                             </label>
                         </div>
@@ -123,7 +123,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Darit il-Ayyam (1970)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <span>Music by Muhammad Abdel Wahab (Egypt)</span>
                                 </div>
                             </label>
                         </div>

@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>‘Ala Hisb Widad Albi (1953)</b>
                                     <span>Abdel Halim Hafez</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <span>Music by Baligh Hamdi (Egypt)</span>
                                 </div>
                             </label>
                         </div>
@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Gana el-Hawa (1969)</b>
                                     <span>Abdel Halim Hafez</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <span>Music by Baligh Hamdi (Egypt)</span>
                                 </div>
                             </label>
                         </div>
@@ -98,7 +98,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Zayy el-Hawa (1970)</b>
                                     <span>Abdel Halim Hafez</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <span>Music by Baligh Hamdi (Egypt)</span>
                                 </div>
                             </label>
                         </div>
@@ -111,7 +111,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Nibtidi Mnein el-Hikaya (1975)</b>
                                     <span>Abdel Halim Hafez</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <span>Music by Muhammad Abdel Wahab (Egypt)</span>
                                 </div>
                             </label>
                         </div>

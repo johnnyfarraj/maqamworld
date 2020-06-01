@@ -194,7 +194,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Alf Leila w leila (1969)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <span>Music by Baligh Hamdi (Egypt)</span>
                                 </div>
                             </label>
                         </div>

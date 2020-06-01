@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Halawit el-Dunya</b>
                                     <span>Sayyed Makkawi</span>
-                                    <span>Music by Zakariyya Ahmad</span>
+                                    <span>Music by Zakariyya Ahmad (Egypt)</span>
                                 </div>
                             </label>
                         </div>

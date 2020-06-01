@@ -117,7 +117,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Kull Illi Habb Itnasaf (1931)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab</span>
+                                    <span>Vocals and Music by Muhammad Abdel Wahab (Egypt)</span>
                                 </div>
                             </label>
                         </div>

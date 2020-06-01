@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Al-Fann (1945)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab</span>
+                                    <span>Vocals and Music by Muhammad Abdel Wahab (Egypt)</span>
                                 </div>
                             </label>
                         </div>
@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Amal Hayati (1965)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <span>Music by Muhammad Abdel Wahab (Egypt)</span>
                                 </div>
                             </label>
                         </div>
@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ansak Da Kalam (1961)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <span>Music by Baligh Hamdi (Egypt)</span>
                                 </div>
                             </label>
                         </div>
@@ -95,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ba‘id ‘Annak (1965)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <span>Music by Baligh Hamdi (Egypt)</span>
                                 </div>
                             </label>
                         </div>
@@ -108,7 +108,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Darit el-Ayyam (1970)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <span>Music by Muhammad Abdel Wahab (Egypt)</span>
                                 </div>
                             </label>
                         </div>

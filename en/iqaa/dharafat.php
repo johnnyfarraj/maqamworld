@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>il-Hubbi Kullo (1971)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <span>Music by Baligh Hamdi (Egypt)</span>
                                 </div>
                             </label>
                         </div>
@@ -112,7 +112,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mistanniyak</b>
                                     <span>‘Aziza Galal</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <span>Music by Baligh Hamdi (Egypt)</span>
                                 </div>
                             </label>
                         </div>

@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Raqq il-Habib (1944)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad al-Qasabgi</span>
+                                    <span>Music by Muhammad al-Qasabgi (Egypt)</span>
                                 </div>
                             </label>
                         </div>
@@ -96,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Habbeit Wala Banshi ‘Alayya (1930)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad al-Qasabgi</span>
+                                    <span>Music by Muhammad al-Qasabgi (Egypt)</span>
                                 </div>
                             </label>
                         </div>

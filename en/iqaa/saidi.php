@@ -58,7 +58,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Sawwah (1966)</b>
                                     <span>Abdel Halim Hafez</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <span>Music by Baligh Hamdi (Egypt)</span>
                                 </div>
                             </label>
                         </div>
@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Zayy el-Hawa (1970)</b>
                                     <span>Abdel Halim Hafez</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <span>Music by Baligh Hamdi (Egypt)</span>
                                 </div>
                             </label>
                         </div>
@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>‘Ala Hisb Widad Galbi (1953)</b>
                                     <span>Hossam Ramzi</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <span>Music by Baligh Hamdi (Egypt)</span>
                                 </div>
                             </label>
                         </div>

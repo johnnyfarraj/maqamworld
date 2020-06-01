@@ -95,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ba‘id ‘Annak (1965)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <span>Music by Baligh Hamdi (Egypt)</span>
                                 </div>
                             </label>
                         </div>
@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr il-Alb Yama Intazar (1931)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab</span>
+                                    <span>Vocals and Music by Muhammad Abdel Wahab (Egypt)</span>
                                 </div>
                             </label>
                         </div>
@@ -119,7 +119,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Saga al-Laylu (1939)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab</span>
+                                    <span>Vocals and Music by Muhammad Abdel Wahab (Egypt)</span>
                                 </div>
                             </label>
                         </div>

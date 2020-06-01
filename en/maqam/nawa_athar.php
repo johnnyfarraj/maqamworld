@@ -105,7 +105,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Fakkaruni (1966)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <span>Music by Muhammad Abdel Wahab (Egypt)</span>
                                 </div>
                             </label>
                         </div>
@@ -118,7 +118,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Adhkuru al-Hubba</b>
                                     <span>Abdel Halim Noueira Ensemble</span>
-                                    <span>Music by Dawud Husni</span>
+                                    <span>Music by Dawud Husni (Egypt)</span>
                                 </div>
                             </label>
                         </div>

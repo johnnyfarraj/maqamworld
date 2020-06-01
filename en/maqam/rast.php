@@ -164,7 +164,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Lah Tilaw‘ini (1938)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad al-Qasabgi</span>
+                                    <span>Music by Muhammad al-Qasabgi (Egypt)</span>
                                 </div>
                             </label>
                         </div>

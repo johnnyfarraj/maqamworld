@@ -119,7 +119,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Ramani Bi Sahmi Hawahu</b>
                                     <span>Hasan al-Haffar</span>
-                                    <span>Music by Dawud Husni</span>
+                                    <span>Music by Dawud Husni (Egypt)</span>
                                 </div>
                             </label>
                         </div>

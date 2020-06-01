@@ -114,7 +114,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>el-Ward Gamil (1946)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Zakariyya Ahmad</span>
+                                    <span>Music by Zakariyya Ahmad (Egypt)</span>
                                 </div>
                             </label>
                         </div>
@@ -126,7 +126,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ba‘id ‘Annak (1965)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <span>Music by Baligh Hamdi (Egypt)</span>
                                 </div>
                             </label>
                         </div>

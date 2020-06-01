@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Aghadan Alqak (1971)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <span>Music by Muhammad Abdel Wahab (Egypt)</span>
                                 </div>
                             </label>
                         </div>
@@ -106,7 +106,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Fi Youm Wi Leila (1978)</b>
                                     <span>Warda</span>
-                                    <span>Music By Muhammad Abdel Wahab</span>
+                                    <span>Music by Muhammad Abdel Wahab (Egypt)</span>
                                 </div>
                             </label>
                         </div>

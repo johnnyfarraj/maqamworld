@@ -132,7 +132,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Nibtidi Mnein el-Hikaya (1975)</b>
                                     <span>Abdel Halim Hafez</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <span>Music by Muhammad Abdel Wahab (Egypt)</span>
                                 </div>
                             </label>
                         </div>

@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Amal Hayati (1965)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <span>Music by Muhammad Abdel Wahab (Egypt)</span>
                                 </div>
                             </label>
                         </div>

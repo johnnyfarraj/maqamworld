@@ -94,7 +94,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Khusara (1957)</b>
                                     <span>Abdel Halim Hafez</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <span>Music by Baligh Hamdi (Egypt)</span>
                                 </div>
                             </label>
                         </div>

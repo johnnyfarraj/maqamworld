@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Gafnuhu ‘Allam al-Ghazal (1933)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab</span>
+                                    <span>Vocals and Music by Muhammad Abdel Wahab (Egypt)</span>
                                 </div>
                             </label>
                         </div>
@@ -120,7 +120,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Andah ‘Aleik (1982)</b>
                                     <span>Warda</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <span>Music by Muhammad Abdel Wahab (Egypt)</span>
                                 </div>
                             </label>
                         </div>
@@ -133,7 +133,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Alf Leila w Leila (1969)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Baligh Hamdi</span>
+                                    <span>Music by Baligh Hamdi (Egypt)</span>
                                 </div>
                             </label>
                         </div>
@@ -159,7 +159,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Layali Lubnan (1954)</b>
                                     <span>Instrumental Composition</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <span>Music by Muhammad Abdel Wahab (Egypt)</span>
                                 </div>
                             </label>
                         </div>

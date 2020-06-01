@@ -111,7 +111,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Inta ‘Omri (1964)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <span>Music by Muhammad Abdel Wahab (Egypt)</span>
                                 </div>
                             </label>
                         </div>

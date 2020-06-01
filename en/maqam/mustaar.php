@@ -96,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Haramuha Minni</b>
                                     <span>Fathiyya Ahmad</span>
-                                    <span>Music by Muhammad al-Qasabgi</span>
+                                    <span>Music by Muhammad al-Qasabgi (Egypt)</span>
                                 </div>
                             </label>
                         </div>
@@ -109,7 +109,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Raqq el-Habib (1944)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music By Muhammad al-Qasabgi</span>
+                                    <span>Music by Muhammad al-Qasabgi (Egypt)</span>
                                 </div>
                             </label>
                         </div>

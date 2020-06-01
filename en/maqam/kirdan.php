@@ -117,7 +117,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Hayrana Leh (1930)</b>
                                     <span>Leila Murad</span>
-                                    <span>Music by Dawud Husni</span>
+                                    <span>Music by Dawud Husni (Egypt)</span>
                                 </div>
                             </label>
                         </div>

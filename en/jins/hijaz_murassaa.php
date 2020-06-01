@@ -72,12 +72,23 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ana Fi-ntizarak (1943)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Zakariyya Ahmad</span>
+                                    <span>Music by Zakariyya Ahmad (Egypt)</span>
                                 </div>
                             </label>
                         </div>
                     </div>
-
+                    <div class="track" data-song="/audio/jins/hijaz_murassaa/el-hobb-mahush-bis-sahl.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Dawr el-Hobb Ma Hush Bis-Sahl</b>
+                                    <span>Sabah Fakhri</span>
+                                    <span>Music by Dawud Husni (Egypt)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
                     <div class="track" data-song="/audio/jins/hijaz_murassaa/badru_timmin_oud.mp3">
                         <div class="radio">
                             <label>

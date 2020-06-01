@@ -76,7 +76,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>el-Bortoqal (1938)</b>
                                     <span>Vocals by Ra'isa ‘Afifi and Muhammad Abdel Wahab</span>
-                                    <span>Music by Muhammad Abdel Wahab</span>
+                                    <span>Music by Muhammad Abdel Wahab (Egypt)</span>
                                 </div>
                             </label>
                         </div>
@@ -101,7 +101,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Albi Bi Ulli Kalam (c.1954)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab</span>
+                                    <span>Vocals and Music by Muhammad Abdel Wahab (Egypt)</span>
                                 </div>
                             </label>
                         </div>
