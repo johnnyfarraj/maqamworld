@@ -109,6 +109,19 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/iqaa/awis/ukhfi_el_hawa.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Μουάσαχ Ούχφι ελ-Χάουα (2019)</b>
+                                    <span>Μουσική Δρ. Χάιαφ Γιασίν</span>
+                                    <span>Ποίημα του Όμαρ Εμπν αλ-Φάρεντ</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                     <div class="track demo-track" data-song="/demo/iqaa/tabla/awis.mp3">
                         <div class="radio">
                             <label>
@@ -117,19 +130,6 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ικά Αουίς 11/8</b>
                                     <span>Επίδειξη στην τάμπλα από τον Φαϊζάλ Ζεϊντάν</span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-
-                    <div class="track" data-song="/audio/iqaa/awis/ukhfi_el_hawa.mp3">
-                        <div class="radio">
-                            <label>
-                                <input type="radio" name="song" value="1">
-                                <div class="info">
-                                    <b>Μουάσαχ Ukhfi el-Hawa (2019)</b>
-                                    <span>Μουσική Dr. Hayaf Yassine</span>
-                                    <span>Poem by 'Umar Ibn al-Faridh</span>
                                 </div>
                             </label>
                         </div>
