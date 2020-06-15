@@ -139,7 +139,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Til‘it Ya Mahla Nurha</b>
                                     <span>Muhammad Abdel Karim</span>
-                                    <span>Musica di Sayed Darwish</span>
+                                    <span>Musica di Sayyed Darwish</span>
                                 </div>
                             </label>
                         </div>

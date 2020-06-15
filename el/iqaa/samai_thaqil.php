@@ -141,6 +141,19 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
                     
+                    <div class="track" data-song="/audio/iqaa/samai_thaqil/ya_ghusayn_al_ban.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Μουάσαχ Μουάσαχ Για Γουσαΐν αλ-Μμαν</b>
+                                    <span>Σάμπρι αλ-Μουντάλαλ</span>
+                                    <span>Μουσική Σαΐντ Νταρουίς</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+                    
                     <div class="track" data-song="/audio/iqaa/samai_thaqil/tarraza_al_rayhan.mp3">
                         <div class="radio">
                             <label>

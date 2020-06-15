@@ -155,6 +155,19 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
                     
+                    <div class="track" data-song="/audio/iqaa/samai_thaqil/ya_ghusayn_al_ban.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Muwashah Ya Ghusayn al-Ban</b>
+                                    <span>Orquesta Sabri al-Mudallal</span>
+                                    <span>Música de Sayed Darwish</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                     <div class="track demo-track" data-song="/demo/iqaa/tabla/samai_thaqil.mp3">
                         <div class="radio">
                             <label>
