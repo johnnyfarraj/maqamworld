@@ -108,6 +108,20 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/iqaa/awis/ukhfi_el_hawa.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Muwashah Ukhfi el-Hawa (2019)</b>
+                                    <span>Conjunto de herencia musical árabe (Líbano)</span>
+                                    <span>Música de Dr. Hayaf Yassine</span>
+                                    <span>Poema de Omar Ibn al-Fared</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                     <div class="track demo-track" data-song="/demo/iqaa/tabla/awis.mp3">
                         <div class="radio">
                             <label>

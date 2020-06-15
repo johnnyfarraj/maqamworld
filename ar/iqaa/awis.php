@@ -113,7 +113,21 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                 </div>
+                    <div class="track" data-song="/audio/iqaa/awis/ukhfi_el_hawa.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>موشّح أخفي الهوى (٢٠١٩)</b>
+                                    <span>فرقة التّراث الموسيقيّ العربيّ</span>
+                                    <span>تلحين د. هياف ياسين (لبنان)</span>
+                                    <span>شعر عمر بن الفارض</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
                 </div>

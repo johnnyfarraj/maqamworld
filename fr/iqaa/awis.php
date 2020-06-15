@@ -108,6 +108,20 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/iqaa/awis/ukhfi_el_hawa.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Mouachah Ukhfi el-Hawa (2019)</b>
+                                    <span>Ensemble du patrimoine musical arabe (Liban)</span>
+                                    <span>Musique de Dr. Hayaf Yassine</span>
+                                    <span>Poème de Omar Ibn al-Fared</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                 </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
