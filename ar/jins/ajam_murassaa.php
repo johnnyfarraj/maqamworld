@@ -85,6 +85,20 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track " data-song="/audio/jins/ajam_murassaa/3ala_shatt_bahr_el_hawa.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1" >
+                                <div class="info">
+                                    <b>على شط بحر الهوى</b>
+                                    <span>كارم محمود (مصر)</span>
+                                    <span>ألحان محمود الشريف (مصر)</span>
+                                    <span>كلمات فتحي قورة (مصر)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                     <div class="track" data-song="/audio/jins/ajam_murassaa/bein_shattein_w_mayya.mp3">
                         <div class="radio">
                             <label>
@@ -92,7 +106,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>بين شطين وميه</b>
                                     <span>غناء محمد قنديل</span>
-                                    <span>ألحان كمال الطويلن (مصر)</span>
+                                    <span>ألحان كمال الطويل (مصر)</span>
                                     <span>كلمات محمد على احمدن (مصر)</span>
                                 </div>
                             </label>

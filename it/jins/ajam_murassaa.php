@@ -76,6 +76,18 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track " data-song="/audio/jins/ajam_murassaa/3ala_shatt_bahr_el_hawa.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1" >
+                                <div class="info">
+                                    <b>‘Ala Shatti Bahr el-Hawa</b>
+                                    <span>Karem Mahmud</span>
+                                    <span>Musica di Mahmoud al-Sherif</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
                     <div class="track" data-song="/audio/jins/ajam_murassaa/bein_shattein_w_mayya.mp3">
                         <div class="radio">
                             <label>
