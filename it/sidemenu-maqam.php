@@ -21,6 +21,7 @@
     <li><a href="/it/maqam/kurd.php">Kurd</a></li>
     <li><a href="/it/maqam/lami.php">Lami</a></li>
     <li><a href="/it/maqam/mahur.php">Mahur</a></li>
+    <li><a href="/it/maqam/bayati.php">Muhayyar</a></li>
     <li><a href="/it/maqam/mustaar.php">Musta‘ar</a></li>
     <li><a href="/it/maqam/nahawand.php">Nahawand</a></li>
     <li><a href="/it/maqam/nahawand_murassaa.php">Nahawand Murassa‘</a></li>

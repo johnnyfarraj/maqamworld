@@ -34,6 +34,7 @@
     <li><a href="/ar/maqam/kirdan.php">كِردان</a></li>
     <li><a href="/ar/maqam/lami.php">لامي</a></li>
     <li><a href="/ar/maqam/mahur.php">ماهور</a></li>
+    <li><a href="/ar/maqam/bayati.php">مُحَيّر</a></li>
     <li><a href="/ar/maqam/mustaar.php">مُستعار</a></li>
     <li><a href="/ar/maqam/nahawand.php">نهاوند</a></li>
     <li><a href="/ar/maqam/nahawand_murassaa.php">نهاوند مرصّع</a></li>

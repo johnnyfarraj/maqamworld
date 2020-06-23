@@ -43,33 +43,39 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-		  <area shape="circle" coords="68,128,13" href="#" alt="ري" class="playNote" data-frequency="293.33" data-parent="#notation1">
-		  <area shape="circle" coords="145,120,13" href="#" alt="مي<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!-- variable -->
-		  <area shape="circle" coords="222,112,13" href="#" alt="فا" class="playNote" data-frequency="345" data-parent="#notation1"><!-- fine tune down from 347.65 -->
-		  <area shape="circle" coords="300,104,13" href="#" alt="صول" class="playNote" data-frequency="391.11" data-parent="#notation1">
-		  <area shape="circle" coords="377,96,13" href="#" alt="لا" class="playNote" data-frequency="440" data-parent="#notation1">
-		  <area shape="circle" coords="454,88,13" href="#" alt="سي♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
-		  <area shape="circle" coords="531,80,13" href="#" alt="دو" class="playNote" data-frequency="521.48" data-parent="#notation1">
-		  <area shape="circle" coords="609,72,13" href="#" alt="ري" class="playNote" data-frequency="586.66" data-parent="#notation1">
-	      <area shape="circle" coords="684,104,13" href="#" alt="صول" class="playNote" data-frequency="391.11" data-parent="#notation1">
-	  <area shape="circle" coords="762,96,13" href="#" alt="لا" class="playNote" data-frequency="440" data-parent="#notation1">
-	  <area shape="circle" coords="841,88,13" href="#" alt="سي<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!--var-->
-                      <area shape="circle" coords="917,80,13" href="#" alt="دو" class="playNote" data-frequency="521.48" data-parent="#notation1">
+                      <area shape="circle" coords="68,128,13" href="#" alt="ري" class="playNote" data-frequency="293.33" data-parent="#notation1">
+                      <area shape="circle" coords="145,120,13" href="#" alt="مي<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!-- variable -->
+                      <area shape="circle" coords="222,112,13" href="#" alt="فا" class="playNote" data-frequency="345" data-parent="#notation1"><!-- fine tune down from 347.65 -->
+                      <area shape="circle" coords="300,104,13" href="#" alt="صول" class="playNote" data-frequency="391.11" data-parent="#notation1">
+                      <area shape="circle" coords="377,96,13" href="#" alt="لا" class="playNote" data-frequency="440" data-parent="#notation1">
+                      <area shape="circle" coords="454,88,13" href="#" alt="سي♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
+                      <area shape="circle" coords="531,80,13" href="#" alt="دو" class="playNote" data-frequency="521.48" data-parent="#notation1">
+                      <area shape="circle" coords="609,72,13" href="#" alt="ري" class="playNote" data-frequency="586.66" data-parent="#notation1">
+                      <area shape="circle" coords="684,104,13" href="#" alt="صول" class="playNote" data-frequency="391.11" data-parent="#notation1">
+                        <area shape="circle" coords="762,96,13" href="#" alt="لا" class="playNote" data-frequency="440" data-parent="#notation1">
+                    <area shape="circle" coords="841,88,13" href="#" alt="سي<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!--var-->
+                    <area shape="circle" coords="917,80,13" href="#" alt="دو" class="playNote" data-frequency="521.48" data-parent="#notation1">
                       <area shape="circle" coords="995,72,13" href="#" alt="ري" class="playNote" data-frequency="586.66" data-parent="#notation1">
                        <!-- Links -->
                       <area shape="rect" coords="111,7,242,36" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="370,8,549,37" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="783,8,890,37" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
-	     </map>
-		<br>
+                     </map>
+                    <br>
 
       		  <h5>
       		  مقام البياتي هو المقام الاساسي في عائلة البياتي ومن اهم المقامات استعمالاً في الموسيقى العربية.
-		</h5>
-      		  <h5>يبدأ سلّم هذا المقام <a href="../jins/bayati.php">بجنس البياتي</a> على القرار
+         يبدأ سلّم هذا المقام <a href="../jins/bayati.php">بجنس البياتي</a> على القرار
       		  ثمّ يليه <a href="../jins/rast.php">جنس الراست</a> او
 			 <a href="../jins/nahawand.php">جنس النهاوند</a> على الغمّاز (الدرجة الرابعة).
-		</h5>
+		      </h5>
+                    
+            <h5>
+                أما <strong>مقام المُحَيّر</strong> فهو صنف من مقام البياتي يبدأ سيره على درجة الجواب (المسمّاة بالمُحَيّر في السلم العربي القديم).
+                وغالباً ما يصعد لحن هذا المقام على <a href="../jins/rast.php">جنس الراست</a> (من الدرجة الرابعة)
+                الى جواب سلم المقام حيث يركز على <a href="../jins/bayati.php">جنس البياتي</a> على الجواب ثم ينزل عائداً الى القرار معتمداً على الاجناس المستعملة في مقام البياتي.
+            </h5>
+                    
 		<br>
         		<h5>انظر الى مقامات اخرى في <a href="f_bayati.php">عائلة مقام البياتي</a>.</h5>
 		<br>

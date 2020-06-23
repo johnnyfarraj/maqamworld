@@ -68,6 +68,9 @@ include($ROOT . 'inc/head.php');
 				     </map>
                     <p>Il Maqam Bayati è di molto il più famoso e più usato tra i maqamat del reportorio arabo. È anche il maqam principale della <a href="f_bayati.php">Famiglia Bayati</a>. La sua scala inizia con il <a href="../jins/bayati.php">Jins Bayati</a> sulla tonica seguito dal <a href="../jins/nahawand.php">Jins Nahawand</a> o dal <a href="../jins/rast.php">Jins Rast</a> sul quarto grado.
                     </p>
+                    <p>Il <strong>Maqam Muhayyar</strong> è una versione di Maqam Bayati il cui <em>sayr</em> inizia dalla nota di ottava (chiamata <em>Muhayyar</em> nella vecchia scala araba). Maqam Muhayyar usa spesso <a href="../jins/rast.php">Jins Rast</a> di quarto grado per salire, quindi sottolinea <a href="../jins/bayati.php">Jins Bayati</a> sull'ottava prima di scendere attraverso gli altri ajna comuni a Maqam Bayati.
+                    </p>
+
                     <p>Scopri altri maqamat della <a href="f_bayati.php">Famiglia Maqam Bayati</a>.</p>
 
                     <div class="player-area">

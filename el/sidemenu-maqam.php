@@ -13,9 +13,10 @@
     <li><a href="/el/maqam/lami.php">Λάμι</a></li>
     <li><a href="/el/maqam/mahur.php">Μαχούρ</a></li>
     <li><a href="/el/maqam/mustaar.php">Μουσταάρ</a></li>
+    <li><a href="/el/maqam/bayati.php">Μουχάϊαρ</a></li>
     <li><a href="/el/maqam/bayati.php">Μπαϊάτι</a></li>
     <li><a href="/el/maqam/bayati_shuri.php">Μπαϊάτι Σούρι</a></li>
-    <li><a href="/el/maqam/bastanikar.php">Μπαστανικάρ </a></li>
+    <li><a href="/el/maqam/bastanikar.php">Μπαστανικάρ</a></li>
     <li><a href="/el/maqam/nairuz.php">Ναϊρούζ</a></li>
     <li><a href="/el/maqam/nawa_athar.php">Νάουα Άθαρ</a></li>
     <li><a href="/el/maqam/nahawand.php">Ναχαουάντ</a></li>

@@ -67,11 +67,12 @@ include($ROOT . 'inc/head.php');
 				     </map>
 
                     <p>
-                        Το Μακάμ Μπαϊάτι είναι μακράν ένα από τα πιο δημοφιλή και κοινά μακαμάτ στο Αραβικό ρεπερτόριο. Είναι επίσης το κύριο μακάμ στην <a href="f_bayati.php">Οικογένεια Μακάμ Μπαϊάτι</a>.
+                        Το Μακάμ Μπαϊάτι είναι μακράν ένα από τα πιο δημοφιλή και κοινά μακαμάτ στο Αραβικό ρεπερτόριο. Είναι επίσης το κύριο μακάμ στην <a href="f_bayati.php">Οικογένεια Μακάμ Μπαϊάτι</a>. Η κλίμακά του αρχίζει με <a href="../jins/bayati.php">Τζινς Μπαϊάτι</a> στην τονική, ακολουθούμενο είτε από <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> ή <a href="../jins/rast.php">Τζινς Ραστ</a> στην 4η βαθμίδα.
                     </p>
                     <p>
-                        Η κλίμακά του αρχίζει με <a href="../jins/bayati.php">Τζινς Μπαϊάτι</a> στην τονική, ακολουθούμενο είτε από <a href="../jins/nahawand.php">Τζινς Ναχαουάντ</a> ή <a href="../jins/rast.php">Τζινς Ραστ</a> στην 4η βαθμίδα.
+                        <strong>Μακάμ Μουχάϊαρ</strong> είναι a version of Μακάμ Μπαϊάτι whose <em>sayr</em> starts at the octave note (called <em>Μουχάϊαρ</em> in the old Arabic scale). Μακάμ Μουχάϊαρ often uses <a href="../jins/rast.php">Τζινς Ραστ</a> στην 4η βαθμίδα to ascend then emphasizes <a href="../jins/bayati.php">Τζινς Μπαϊάτι</a> on the octave before descending through the other ajnas common to Μακάμ Μπαϊάτι.
                     </p>
+
                     <p>Εξερευνήστε άλλα μακαμάτ στην <a href="f_bayati.php">Οικογένεια Μακάμ Μπαϊάτι</a>.</p>
 
                     <div class="player-area">

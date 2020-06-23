@@ -67,12 +67,12 @@ include($ROOT . 'inc/head.php');
                     </map>
                     
                     <p>
-                        Maqam Bayati es uno de los maqamat más populares y populares del repertorio árabe. También es el principal <em>maqam</em> en la familia Bayati.
+                        Maqam Bayati es uno de los maqamat más populares y populares del repertorio árabe. También es el principal <em>maqam</em> en la familia Bayati. Su escala comienza con <a href="../jins/bayati.php">Jins Bayati</a> en la tónica seguida por <a href="../jins/nahawand.php">Jins Nahawand</a> o <a href="../jins/rast.php">Jins Rast</a> en 4º grado.
                     </p>
                     <p>
-                        Su escala comienza con <a href="../jins/bayati.php">Jins Bayati</a> en la tónica seguida por <a href="../jins/nahawand.php">Jins Nahawand</a> o <a href="../jins/rast.php">Jins Rast</a> en 4º grado.
+                        <strong>Maqam Muhayyar</strong> is a version of Maqam Bayati whose <em>sayr</em> starts at the octave note (called <em>Muhayyar</em> in the old Arabic scale). Maqam Muhayyar often uses <a href="../jins/rast.php">Jins Rast</a>  en 4º grado to ascend then emphasizes <a href="../jins/bayati.php">Jins Bayati</a> on the octave before descending through the other ajnas common to Maqam Bayati.
                     </p>
-                    
+
                     <p>Explora otros maqamat en la <a href="f_bayati.php">Familia Maqam Bayati</a>.</p>
 
                     <div class="player-area">

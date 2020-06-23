@@ -48,6 +48,7 @@ include($ROOT . 'inc/head.php');
                         <li><h5><a href="bayati.php">مقام بياتي</a></h5></li>
                         <li><h5><a href="bayati_shuri.php">مقام بياتي شُوري</a></h5></li>
                         <li><h5><a href="husayni.php">مقام حُسيني</a></h5></li>
+                        <li><h5><a href="bayati.php">مقام مُحَيّر</a></h5></li>
                     </ul>
 
                     <h5>عائلات المقامات الاخرى:</h5>

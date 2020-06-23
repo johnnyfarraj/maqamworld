@@ -46,6 +46,7 @@ include($ROOT . 'inc/head.php');
                         <li><a href="bayati.php">Maqam Bayati</a></li>
                         <li><a href="bayati_shuri.php">Maqam Bayati Chouri</a></li>
                         <li><a href="husayni.php">Maqam Houssayni</a></li>
+                        <li><a href="bayati.php">Maqam Mouhayyar</a></li>
                     </ul>
 
                     <p>Les autres familles de <em>maqams</em>:</p>

@@ -40,12 +40,12 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <p>La Famiglia Maqam Bayati comprende <em>maqamat</em> che iniziano con <a href="../jins/bayati.php">Jins Bayati</a>.</p>
-
                     
                     <ul>
                         <li><a href="bayati.php">Maqam Bayati</a></li>
                         <li><a href="bayati_shuri.php">Maqam Bayati Shuri</a></li>
                         <li><a href="husayni.php">Maqam Hussayni</a></li>
+                        <li><a href="bayati.php">Maqam Muhayyar</a></li>
                     </ul>
 
                     <p>Altre famiglie del <em>maqam</em>:</p>

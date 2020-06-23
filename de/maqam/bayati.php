@@ -47,17 +47,17 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <map name="notemap">
-	  <area shape="circle" coords="68,128,13" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1">
-	  <area shape="circle" coords="145,120,13" href="#" alt="E4<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!-- variable -->
-	  <area shape="circle" coords="222,112,13" href="#" alt="F4" class="playNote" data-frequency="345" data-parent="#notation1"><!-- fine tune down from 347.65 -->
-	  <area shape="circle" coords="300,104,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-	  <area shape="circle" coords="377,96,13" href="#" alt="A4" class="playNote" data-frequency="440" data-parent="#notation1">
-	  <area shape="circle" coords="454,88,13" href="#" alt="B4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
-	  <area shape="circle" coords="531,80,13" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1">
-	  <area shape="circle" coords="609,72,13" href="#" alt="D5" class="playNote" data-frequency="586.66" data-parent="#notation1">
-	      <area shape="circle" coords="684,104,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-	  <area shape="circle" coords="762,96,13" href="#" alt="A4" class="playNote" data-frequency="440" data-parent="#notation1">
-	  <area shape="circle" coords="841,88,13" href="#" alt="B4<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!--var-->
+                      <area shape="circle" coords="68,128,13" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1">
+                      <area shape="circle" coords="145,120,13" href="#" alt="E4<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!-- variable -->
+                      <area shape="circle" coords="222,112,13" href="#" alt="F4" class="playNote" data-frequency="345" data-parent="#notation1"><!-- fine tune down from 347.65 -->
+                      <area shape="circle" coords="300,104,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
+                      <area shape="circle" coords="377,96,13" href="#" alt="A4" class="playNote" data-frequency="440" data-parent="#notation1">
+                      <area shape="circle" coords="454,88,13" href="#" alt="B4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
+                      <area shape="circle" coords="531,80,13" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1">
+                      <area shape="circle" coords="609,72,13" href="#" alt="D5" class="playNote" data-frequency="586.66" data-parent="#notation1">
+                          <area shape="circle" coords="684,104,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
+                      <area shape="circle" coords="762,96,13" href="#" alt="A4" class="playNote" data-frequency="440" data-parent="#notation1">
+                      <area shape="circle" coords="841,88,13" href="#" alt="B4<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!--var-->
                       <area shape="circle" coords="917,80,13" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1">
                       <area shape="circle" coords="995,72,13" href="#" alt="D5" class="playNote" data-frequency="586.66" data-parent="#notation1">
                        <!-- Links -->
@@ -68,7 +68,9 @@ include($ROOT . 'inc/head.php');
 
                     <p>Maqam Bayati ist einer der beliebtesten und am häufigsten verwendeten Maqamat im Repertoire der arabischen Musik. Er ist auch der Haupt-Maqam der <a href="f_bayati.php">Bayati-Familie</a>. Seine Leiter beginnt mit <a href="../jins/bayati.php">Jins Bayati</a> auf der Tonika. Es folgt entweder <a href="../jins/nahawand.php">Jins Nahawand</a> oder <a href="../jins/rast.php">Jins Rast</a> auf der vierten Stufe.
                     </p>
-                    
+                    <p><strong>Maqam Muhayyar</strong> ist eine Version von Maqam Bayati, deren <em>Sayr</em> bei der Oktavnote beginnt (auf der alten arabischen Skala <em>Muhayyar</em> genannt). Maqam Muhayyar verwendet häufig <a href="../jins/rast.php">Jins Rast</a> auf der vierten Stufe, um aufzusteigen, und betont dann <a href="../jins/bayati.php">Jins Bayati</a> in der Oktave, bevor er durch die anderen Ajnas absteigt, die Maqam Bayati gemeinsam haben.
+                    </p>
+
                     <p>Erkunden Sie andere Maqamat der <a href="f_bayati.php">Maqam-Bayati-Familie</a>.</p>
 
                     <div class="player-area">

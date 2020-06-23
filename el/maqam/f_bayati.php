@@ -43,6 +43,7 @@ include($ROOT . 'inc/head.php');
                         Η οικογένεια των μακάμ Μπαϊάτι αποτελείται από μακαμάτ που αρχίζουν με <a href="../jins/bayati.php">Τζινς Μπαϊάτι</a>.
                     </p>
                     <ul>
+                        <li><a href="bayati.php">Μακάμ Μουχάϊαρ</a></li>
                         <li><a href="bayati.php">Μακάμ Μπαϊάτι</a></li>
                         <li><a href="bayati_shuri.php">Μακάμ Μπαϊάτι Σούρι</a></li>
                         <li><a href="husayni.php">Μακάμ Χουσάινι</a></li>
