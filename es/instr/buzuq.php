@@ -78,7 +78,9 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Muhammad Abdel Karim</b>
-                                    <span>Abdel Karim left many recordings, and his style was mellow and meditative. Abdel Karim left many recordings, and his style was mellow and meditative.Syrian Buzuq player Muhammad Abdel Karim (dubbed the Prince of Buzuq) in a Buzuq Taqsim. Abdel Karim left many recordings, and his style was mellow and meditative.</span>
+                                    <span>
+                                        El sirio Buzuqista Muhammad Abdel Karim (apodado el Príncipe del Buzuq) en un Taqsim de Buzuq. Abdel Karim dejó muchas grabaciones, y su estilo era suave y meditativo.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -94,7 +96,9 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Matar Muhammad</b>
-                                    <span>The Lebanese Buzuq virtuoso Matar Muhammad plays a Buzuq Taqism in a live concert. Muhammad's taqasim put El Buzuq on par with any of the other traditional Arabic instruments for their complexity, technique, ornamentation, <em>maqam</em> modulations and length.</span>
+                                    <span>
+                                        El virtuoso libanés del Buzuq, Matar Muhammad, toca un taqsim de Buzuq en un concierto en vivo. El taqsim de Muhammad puso a el Buzuq a la par de cualquiera de los otros instrumentos árabes tradicionales por su complejidad, técnica, ornamentación, modulaciones de maqam y longitud.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -110,7 +114,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Zoro Yussef</b>
-                                    <span>Lebanese-Kurdish Buzuq player Zoro Yussef (Zoro Seîd Yûsiv) plays a Buzuq Taqism in <a href="../maqam/rast.php">Maqam Rast</a>, recorded live on Lebanese Television</span>
+                                    <span>El instrumentista de Buzuq libanés-kurdo Zoro Yussef (Zoro Seîd Yûsiv) toca un taqsim de Buzuq en <a href="../maqam/rast.php">Maqam Rast</a>, grabado en vivo en la televisión libanesa.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -126,7 +131,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Marhabtayn</b>
-                                    <span>Lebanese diva Sabah in her song <strong>Marhabtayn</strong> (recorded live in Kuwait) featuring El Buzuq in her orchestra (conducted by violinist Abbud Abdel ‘Al)</span>
+                                    <span>La diva libanesa Sabah en su canción <strong>Marhabtayn</strong> (grabada en vivo en Kuwait) presentando Buzuq en su orquesta (dirigida por el violinista Abbud Abdel ‘Al).
+                                    </span>
                                 </div>
                             </label>
                         </div>

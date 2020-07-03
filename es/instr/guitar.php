@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/guitar.jpg" alt="La Guitarra Eléctrica Árabe">
-                        <span>TODO Omar Khorshid, the pioneer of Electric Guitar in Egypt</span>
+                        <span>Omar Khorshid, el pionero de la guitarra eléctrica en Egipto</span>
                     </div> 
 
                     <p>
@@ -55,7 +55,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Omar Khorshid</b>
-                                    <span>Arabic Electric Guitar pioneer Omar Khorshid plays Umm Kukthum's song <strong>Aghadan Alqaka</strong> (1971, music by Muhammad Abdel Wahab).</span>
+                                    <span>El pionero de la guitarra eléctrica árabe Omar Khorshid toca la canción de Umm Kulthum <strong>Aghadan Alqaka</strong> (1971, música de Muhammad Abdel Wahab).
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -71,7 +72,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Omar Khorshid Interview</b>
-                                    <span>Interview with Omar Khorshid about his experience playing La Guitarra Eléctrica Árabe with Umm Kulthum's Orchestra</span>
+                                    <span>Entrevista con Omar Khorshid sobre su experiencia tocando La Guitarra Eléctrica Árabe con la Orquesta de Umm Kulthum.
+                                </span>
                                 </div>
                             </label>
                         </div>

@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>El Katem</h1>
-                        <h3>TODO A Blunt Supporting Frame Drum</h3>
+                        <h3>Un tambor de marco apoyador con sonido amortiguado</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Instrumentos</a>
@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/katim.jpg" alt="Katem">
-                        <span>A tunable Katem with a plastic head. &copy; MaqamWorld</span>
+                        <span>Un Katem con una cabeza de plástico que se puede afinar. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
@@ -58,8 +58,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Zaffa (Wedding Party)</b>
-                                    <span>An Egyptian Zaffa (wedding party) with a large group of percussionists using a combination of Katem-s, <a href="mazhar.php">Mazhar</a>-s and <a href="tabla.php">Tabla</a>-s, all with with synthetic heads.</span>
+                                    <b>Zaffa (fiesta de bodas)</b>
+                                    <span>Una Zaffa (fiesta de bodas) egipcia con un gran grupo de percusionistas que usa una combinación de Katem-s, <a href="mazhar.php">Mazhar</a>-es y <a href="tabla.php">Tabla</a>-s, todos con pieles sintéticas.
+                                    </span>
                                 </div>
                             </label>
                         </div>

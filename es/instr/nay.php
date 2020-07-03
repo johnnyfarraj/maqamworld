@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/nay.jpg" alt="El Nay">
-                        <span>TODO A set of 7 Lebanese nayat made by Atif Wehbi. &copy; MaqamWorld</span>
+                        <span>Un conjunto de 7 nayat libaneses hecho por Atif Wehbi. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
@@ -62,7 +62,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sayed Salem</b>
-                                    <span>Sayed Salem (Egipto), a longtime member of the Umm Kulthum Orchestra (Egipto) in a Nay solo during her song <strong>Ba‘id ‘Annak</strong> (1965, music by Baligh Hamdi)</span>
+                                    <span>Sayed Salem (Egipto), miembro de mucho tiempo de la Orquesta de Umm Kulthum (Egipto) en un solo de Nay durante su canción <strong>Ba‘id ‘Annak</strong> (1965, música de Baligh Hamdi).
+                                </span>
                                 </div>
                             </label>
                         </div>
@@ -78,7 +79,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Mahmud ‘Effat</b>
-                                    <span>Veteran nay player and teacher, Mahmud ‘Effat (Egipto), a longtime member of the Diamond Orchestra in a Taqsim on El Nay in <a href="../maqam/saba.php">Maqam Saba</a></span>
+                                    <span>El veterano instrumentista y profesor de nay, Mahmud ‘Effat (Egipto), antiguo miembro de la Orquesta Diamante en un Taqsim del Nay en <a href="../maqam/saba.php">Maqam Saba</a>.
+                                </span>
                                 </div>
                             </label>
                         </div>
@@ -94,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Reda Bdeir</b>
-                                    <span>Reda Bdeir (Egipto) playing the song Kulli Da Kan Leh (1954, music by Muhammad Abdel Wahab)</span>
+                                    <span>Reda Bdeir (Egipto) tocando la canción Kulli Da Kan Leh (1954, música de Muhammad Abdel Wahab).</span>
                                 </div>
                             </label>
                         </div>
@@ -110,7 +112,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Michael Ibrahim</b>
-                                    <span> Michael Ibrahim (Siria), director of the National Arab Orchestra (USA) in a Taqsim on El Nay in <a href="../maqam/saba.php">Maqam Saba</a> during a live performance by the NAO</span>
+                                    <span>Michael Ibrahim (Siria), director de la Orquesta Árabe Nacional (EE. UU.) En un Taqsim en El Nay en <a href="../maqam/saba.php">Maqam Saba</a> durante una presentación en vivo de la OAN.
+                                </span>
                                 </div>
                             </label>
                         </div>

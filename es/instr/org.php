@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/org.jpg" alt="El Órgano Eléctrico">
-                        <span>TODO Org pioneer Magdi el-Husseini (Egipto).</span>
+                        <span>Pionero del organo Magdi el-Husseini (Egipto).</span>
                     </div>
 
                     <p>

@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/egy_mazhar.jpg" alt="Egyptian Mazhar">
-                        <span>TODO A tunable Egyptian Mazhar with a plastic head. &copy; MaqamWorld</span>
+                        <span>Un Mazhar egipcio con una cabeza de plástico que se puede afinar. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
@@ -58,8 +58,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Zaffa (Wedding party)</b>
-                                    <span>An Egyptian Zaffa (wedding party) with a large group of percussionists using a combination of Egyptian Mazhar-s, <a href="katim.php">Katem</a>-s and <a href="tabla.php">Tabla</a>-s, all with synthetic heads.</span>
+                                    <b>Zaffa (fiesta de bodas)</b>
+                                    <span>Una Zaffa (fiesta de bodas) egipcia con un gran grupo de percusionistas que usa una combinación de <a href="katim.php">Katem</a>-s, <a href="tabla.php">Tabla</a>-es y <a href="tabla.php">Tabla</a>-s, todos con pieles sintéticas.
+                                </span>
                                 </div>
                             </label>
                         </div>

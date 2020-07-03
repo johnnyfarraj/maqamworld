@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/daff.jpg" alt="Daf">
-                        <span>TODO Three daf-s with goat and deer skins. &copy; MaqamWorld</span>
+                        <span>Tres daf-s con pieles de cabra y venado. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
@@ -69,7 +69,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Conjunto Hassan al-Haffar</b>
-                                    <span>El Daf is used in Aleppan <em>munshid</em> (Islamic cantor) Hassan al-Haffar's ensemble in a concert recorded live in Paris.</span>
+                                    <span>El Daf se utiliza en el conjunto de <em>munshid</em> (cantor islámico) Hassan al-Haffar de Aleppo en un concierto grabado en vivo en París.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -84,8 +85,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Duqqu el-Mazahir</b>
-                                    <span>Farid al-Atrash's wedding song <strong>Duqqu el-Mazahir</strong> ("Play the frame drums", 1952) features a number of frame drums used in a wedding celebration.</span>
+                                    <b>Duqqu el-Mazaher</b>
+                                    <span>La canción de boda de Farid al-Atrash, <strong>Duqqu el-Mazaher</strong> ("Toca los tambores de marco", 1952) presenta varios tambores de marco usados en una celebración de boda.
+                                    </span>
                                 </div>
                             </label>
                         </div>
