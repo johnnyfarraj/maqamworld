@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/tabla.jpg" alt="La Tabla">
-                        <span>TODO Aluminum-body tabla with plastic head from Gawharet El-Fan, Egypt. &copy; MaqamWorld</span>
+                        <span>Tabla de cuerpo de aluminio con cabeza de plástico de Gawharet El-Fan, Egipto. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
@@ -68,7 +68,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Hossam Ramzi</b>
-                                    <span>Egyptian veteran Tabla player Hossam Ramzi talks about the instrument in an interview at Analogue to Digital Music Expo, 2013</span>
+                                    <span>El veterano egipcio Tablista Hossam Ramzi habla sobre el instrumento en una entrevista en Analogue to Digital Music Expo, 2013.</span>
                                 </div>
                             </label>
                         </div>
@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sa‘id al-Artist</b>
-                                    <span>Egyptian tabla master and teacher Sa‘id al-Artist with his percussion ensemble.</span>
+                                    <span>Maestro de tabla egipcia y profesor Sa‘id el-Artist con su conjunto de percusión.</span>
                                 </div>
                             </label>
                         </div>

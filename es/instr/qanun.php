@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/qanun.jpg" alt="El Qanun">
-                        <span>TODO Syrian Qanun made by Bashir Bij. &copy; MaqamWorld</span>
+                        <span>Qanun sirio hecho por Bashir Bij. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
@@ -67,7 +67,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Muhammad Abdu Saleh</b>
-                                    <span>Umm Kulthum's qanun player for decades, Muhammad Abdu Saleh (Egipto) in a medley of her well-known  songs</span>
+                                    <span>El qanunista de Umm Kulthum durante décadas, Muhammad ‘Abdu Saleh (Egipto) en una mezcla de sus canciones conocidas.</span>
                                 </div>
                             </label>
                         </div>
@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Muhammad ‘Abdu Saleh</b>
-                                    <span>Muhammad ‘Abdu Saleh (Egipto) in a Taqsim on El Qanun in <a href="../maqam/saba.php">Maqam Saba</a></span>
+                                    <span>Muhammad ‘Abdu Saleh (Egipto) en un Taqsim de Qanun en <a href="../maqam/saba.php">Maqam Saba</a>.</span>
                                 </div>
                             </label>
                         </div>
@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Abdel Fattah Mansi</b>
-                                    <span>Abdel Fattah Mansi (Egipto) plays Umm Kuklthum's song <strong>Ana Fi-ntizarak</strong> (1943, music by Zakariya Ahmad)</span>
+                                    <span>Abdel Fattah Mansi (Egipto) toca la canción de Umm Kulthum <strong>Ana Fi-ntizarak</strong> (1943, música de Zakariya Ahmad).</span>
                                 </div>
                             </label>
                         </div>
@@ -115,7 +115,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Abdel Halim Nuwayra</b>
-                                    <span>Abdel Halim Nuwayra (Egipto), the music director of the Arabic Music Ensemble, plays a Taqsim on El Qanun in <a href="../maqam/bayati.php">Maqam Bayati</a></span>
+                                    <span>Abdel Halim Nuwayra (Egipto), el director musical del Conjunto de Música Árabe, toca un Taqsim del Qanun en <a href="../maqam/bayati.php">Maqam Bayati</a>.
+                                </span>
                                 </div>
                             </label>
                         </div>
@@ -131,7 +132,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Abraham Salman</b>
-                                    <span>Abraham Salman (Irak) in a Taqsim on El Qanun in <a href="../maqam/rast.php">Maqam Rast</a> from his CD Saltanah (1998)</span>
+                                    <span>Abraham Salman (Irak) en un Taqsim de Qanun en <a href="../maqam/rast.php">Maqam Rast</a> de su CD Saltanah (1998).</span>
                                 </div>
                             </label>
                         </div>

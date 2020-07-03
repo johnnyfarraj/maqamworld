@@ -65,7 +65,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Karim Nagi</b>
-                                    <span>Percussionist Karim Nagi (Egypt/USA) plays a Sagat solo</span>
+                                    <span>El percusionista Karim Nagi (Egipto / Estados Unidos) toca un solo de Sagat.</span>
                                 </div>
                             </label>
                         </div>

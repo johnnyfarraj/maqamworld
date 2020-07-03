@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/saxophone.jpg" alt="The Saxophone">
-                        <span>TODO Arabic Saxophone pioneer Samir Surour (Egipto)</span>
+                        <span>Pionero del saxofón árabe Samir Surur (Egipto)</span>
                     </div>
 
                     <p>
@@ -58,7 +58,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                 <b>Hawil Tiftikirni (1973)</b>
-                                <span>Abdel Halim Hafez's song <strong>Hawil Tiftikirni</strong> (1973, music by Baligh Hamdi) opens with the Arabic Org, La Guitarra Eléctrica Árabe, then a Saxophone solo by Samir Surour.</span>
+                                <span>La canción de Abdel Halim Hafez, <strong>Hawil Tiftikirni</strong> (1973, música de Baligh Hamdi) comienza con el órgano árabe, La Guitarra Eléctrica Árabe, y luego un solo de saxofón de Samir Surur.
+                                </span>
                                 </div>
                             </label>
                         </div>
@@ -73,8 +74,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Fat el-Ma'ad (1967)</b>
-                                <span>Umm Kulthum's song <strong>Fat el-Ma'ad</strong> (1967, music by Baligh Hamdi) includes in its arrangement Faruq Salama on El Acordeón Árabe, Abdel Fattah Khayri on La Guitarra Eléctrica Árabe and Samir Surour on the Saxophone.</span>
+                                    <b>Fat el-Ma‘ad (1967)</b>
+                                    <span>La canción de Umm Kulthum <strong>Fat el-Ma‘ad</strong> (1967, música de Baligh Hamdi) incluye en su arreglo Faruq Salama en El Acordeón Árabe, Abdel Fattah Khayri en La Guitarra Eléctrica Árabe y Samir Surur en el saxofón.</span>
                                 </div>
                             </label>
                         </div>

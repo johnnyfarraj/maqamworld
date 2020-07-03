@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/oud.jpg" alt="El Oud">
-                        <span>TODO Syrian oud made by Nahat Brothers (right) and Iraqi oud made by Muhammad Fadil (left). &copy; 2018 MaqamWorld</span>
+                        <span>Oud sirio hecho por los hermanos Nahat (derecha) e oud iraquí hecho por Muhammad Fadil (izquierda). &copy; 2018 MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
@@ -68,8 +68,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Muhammad al-Qasabgi</b>
-                                    <span>Egyptian oud virtuoso and composer Muhammad al-Qasabgi playing some Taqasim in <a href="../maqam/rast.php">Maqam Rast</a>.
-                                    (Recorded at the Arabic Music Conservatory, Cairo, 1955)</span>
+                                    <span>El virtuoso del oud y compositor egipcio Muhammad al-Qasabgi tocando algunos Taqasim en <a href="../maqam/rast.php">Maqam Rast</a>. (Grabado en el Conservatorio de Música Árabe, El Cairo, 1955).
+                                </span>
                                 </div>
                             </label>
                         </div>
@@ -85,7 +85,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Farid al-Atrash</b>
-                                    <span>Syrian oud virtuoso Farid al-Atrash (also known as the "King of Oud") playing a very famous Oud Taqsim in <a href="../maqam/bayati.php">Maqam Bayati</a> preceding his composition "al-Rabi‘" (1949)</span>
+                                    <span>El virtuoso sirio del oud Farid al-Atrash (también conocido como el "Rey de Oud") tocando un muy famoso Taqsim de oud en <a href="../maqam/bayati.php">Maqam Bayati</a> que precede a su composición <strong>al-Rabi‘</strong> (1949).
+                                </span>
                                 </div>
                             </label>
                         </div>
@@ -101,7 +102,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Simon Shaheen</b>
-                                    <span>Palestinian oud player Simon Shaheen plays an in <a href="../maqam/hijaz.php">Maqam Hijaz</a>, recorded at the Metropolitan Museum in New York, 1987</span>
+                                    <span>Oudista palestino Simon Shaheen toca un Taqsim en <a href="../maqam/hijaz.php">Maqam Hijaz</a>, grabado en el Museo Metropolitano de Nueva York, 1987.
+                                </span>
                                 </div>
                             </label>
                         </div>
@@ -117,7 +119,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>George Michel</b>
-                                    <span>Egyptian oud player George Michel playing an Oud Taqsim in <a href="../maqam/nahawand.php">Maqam Nahawand</a></span>
+                                    <span>El instrumentista egipcio del oud George Michel tocando un Taqsim de Oud en <a href="../maqam/nahawand.php">Maqam Nahawand</a>.
+                                </span>
                                 </div>
                             </label>
                         </div>
@@ -133,7 +136,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>‘Amer ‘Ammouri</b>
-                                    <span>Syrian oud player ‘Amer ‘Ammouri playing an Oud Taqsim in <a href="../maqam/bayati.php">Maqam Bayati</a>, as part of Sabah Fakhri's orchestra (recorded at the Cairo Opera House)</span>
+                                    <span>Oudista sirio ‘Amer ‘Ammouri tocando un Taqsim de Oud en <a href="../maqam/bayati.php">Maqam Bayati</a>, como parte de la orquesta de Sabah Fakhri (grabado en la Ópera de El Cairo)
+                                    </span>
                                 </div>
                             </label>
                         </div>

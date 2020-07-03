@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/piano.jpg" alt="El Piano Árabe">
-                        <span>TODO Lebanese pianist Ziad Rahbani, from a concert poster in the 1980s</span>
+                        <span>El pianista libanés Ziad Rahbani, de un póster de concierto en la década de 1980</span>
                     </div>
 
                     <p>
@@ -61,7 +61,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Abdallah Chahine</b>
-                                <span>Lebanese pianist Abdallah Chahine playing a Piano Taqsim in <a href="../maqam/saba.php">Maqam Saba</a> followed by the song <strong>Batit ‘Uyuni</strong> from his album "Angham Min al-Sharq".</span>
+                                    <span>El pianista libanés Abdallah Chahine tocando un Taqsim de Piano en <a href="../maqam/saba.php">Maqam Saba</a> seguido por la canción <strong>Batit ‘Uyuni</strong> de su álbum <strong>Angham Min al-Sharq</strong>.
+                                </span>
                                 </div>
                             </label>
                         </div>
@@ -77,7 +78,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ziad Rahbani</b>
-                                    <span>Lebanese pianst Ziad Rahbani plays Arabic piano on his song <strong>Shu Hal-Iyam</strong> from his CD <strong>Ana Moush Kafer</strong>, 1985.</span>
+                                    <span>El pianista libanés Ziad Rahbani toca el piano árabe en su canción <strong>Shu Hal-Iyam</strong> de su CD <strong>Ana Mush Kafer</strong>, 1985.</span>
                                 </div>
                             </label>
                         </div>
@@ -93,7 +94,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                 <b>W'Qamh</b>
-                                <span>Ziad Rahbani's instrumental composition <strong>W'Qamh</strong> in <a href="../maqam/hijaz.php">Maqam Hijaz</a> uses El Piano Árabe in a Jazz fusion arrangement. From Fairouz's CD <strong>Mish Kayin Hayk Tkoun</strong>, 1987.</span>
+                                <span>La composición instrumental de Ziad Rahbani <strong>W'Qamh</strong> en <a href="../maqam/hijaz.php">Maqam Hijaz</a> usa El Piano Árabe en un arreglo de fusión de Jazz. Del CD de Fairouz, <strong>Mish Kayin Hayk Tkun</strong>, 1987.
+                                </span>
                                 </div>
                             </label>
                         </div>

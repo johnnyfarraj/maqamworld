@@ -55,7 +55,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Magdi el-Husseini</b>
-                                    <span>Abdel Halim Hafez's song <strong>Qari'at al-Fingan</strong> (1976, music by Muhammad al-Mugi) featuring Egyptian electric organ players Magdi el-Husseini and Hani Mehanna (both part of The Diamond Orchestra).</span>
+                                    <span>La canción de Abdel Halim Hafez, <strong>Qari'at al-Fingan</strong> (1976, música de Muhammad al-Mugi) presentando los instrumentistas del órgano eléctrico Magdi el-Husseini y Hani Mehanna (ambos forman parte de La Orquesta Diamante).</span>
                                 </div>
                             </label>
                         </div>
@@ -70,8 +70,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Magdi el-Husseini Interview</b>
-                                    <span>Interview with Magdi el-Husseini about his experience meeting singer Abdel Halim Hafez and performing in his orchestra.</span>
+                                    <b>Entrevista de Magdi el-Husseini</b>
+                                    <span>Entrevista de Magdi el-Husseini sobre su experiencia al conocer a el cantante Abdel Halim Hafez y a tocar en su orquesta.</span>
                                 </div>
                             </label>
                         </div>
@@ -86,8 +86,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Hani Mehanna Interview</b>
-                                    <span>Interview with Hani Mehanna about his experience meeting composer Muhammad Abdel Wahab and singer Umm Kulthum and performing the song <strong>Leilet Hobb</strong> with her orchestra.</span>
+                                    <b>Entrevista de Hani Mehanna</b>
+                                    <span>Entrevista de Hani Mehanna sobre su experiencia al conocer a el compositor Muhammad Abdel Wahab y la cantante Umm Kulthum e interpretando la canción <strong>Leilet Hobb</strong> con su orquesta.
+                                </span>
                                 </div>
                             </label>
                         </div>

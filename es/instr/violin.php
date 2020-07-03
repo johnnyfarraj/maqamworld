@@ -65,7 +65,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sami al-Shawwa</b>
-                                    <span>One of the early 20<sup>th</sup> century Arabic violin pioneers, Syrian violinist Sami al-Shawwa (also known as the Prince of Violin) playing a Violin Taqsim in <a href="../maqam/hijazkar.php">Maqam Hijazkar</a></span>
+                                    <span>Uno de los pioneros del violín árabe de principios del siglo XX, el violinista sirio Sami al-Shawwa (también conocido como el Príncipe del violín) tocando un Taqsim de violín en <a href="../maqam/hijazkar.php">Maqam Hijazkar</a>.
+                                </span>
                                 </div>
                             </label>
                         </div>
@@ -81,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ahmad al-Hifnawi</b>
-                                    <span>Egyptian violinist Ahmad al-Hifnawi (who played first violin in the Umm Kulthum orchestra) playing the traditional instrumental composition <strong>Tahmila Rast (Suznak)</strong>, which includes a lot of improvisations. The ensemble also features George Michel on Oud, Mahmud ‘Effat on Nay and Hassan Anwar on Riq</span>
+                                    <span>El violinista egipcio Ahmad al-Hifnawi (que tocó el primer violín en la orquesta de Umm Kulthum) tocando la composición instrumental tradicional <strong>Tahmila Rast (Suznak)</strong>, que incluye muchas improvisaciones. El conjunto también presenta a George Michel en Oud, Mahmud ‘Effat en Nay y Hassan Anwar en Riq.</span>
                                 </div>
                             </label>
                         </div>
@@ -97,7 +98,8 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Abbud Abdel ‘Al</b>
-                                    <span>Palestinian-Lebanese violinist Abbud Abdel ‘Al playing a Violin Taqsim in <a href="../maqam/bayati.php">Maqam Bayati</a> over <a href="../iqaa/samai.php">Iqa‘ Sama‘i Thaqil</a> (recorded on Lebanese Television)</span>
+                                    <span>El violinista palestino-libanés Abbud Abdel ‘Al tocando un Taqsim de violín en <a href="../maqam/bayati.php">Maqam Bayati</a> sobre <a href="../iqaa/samai.php">Iqa‘ Sama‘i Thaqil</a> (grabado en la televisión libanesa).
+                                </span>
                                 </div>
                             </label>
                         </div>
@@ -113,7 +115,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>‘Abdu Dagher</b>
-                                    <span>Egyptian violinist ‘Abdu Dagher and his ensemble playing his instrumenal composition Sama‘i <a href="../maqam/kurd.php">Maqam Kurd</a>, including violin and qanun solos</span>
+                                    <span>El violinista egipcio ‘Abdu Dagher y su conjunto tocando su composición instrumental Sama‘i <a href="../maqam/kurd.php">Maqam Kurd</a>, incluyendo los solos de violín y qanun.</span>
                                 </div>
                             </label>
                         </div>
@@ -129,7 +131,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Simon Shaheen</b>
-                                    <span>Palestinian violinist Simon Shaheen playing a Violin Taqsim in <a href="../maqam/rast.php">Maqam Rast</a> over  <a href="../iqaa/rumba.php">Iqa‘ Rumba</a>, ending with the second half of Riyad al-Sunbati's instrumental composition Longa <a href="../maqam/nahawand.php">Farahfaza</a></span>
+                                    <span>El violinista palestino Simon Shaheen tocando un Taqsim de violín en <a href="../maqam/rast.php">Maqam Rast</a> sobre <a href="../iqaa/rumba.php">Iqa‘ Rumba</a>, que termina con la segunda mitad de la composición instrumental de Riyad al-Sunbati Longa <a href="../maqam/nahawand.php">Farahfaza</a>.</span>
                                 </div>
                             </label>
                         </div>

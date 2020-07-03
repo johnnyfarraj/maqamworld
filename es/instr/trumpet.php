@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/trumpet.jpg" alt="La Trompeta Árabe">
-                        <span>TODO Arabic Trumpet pioneer Sami al-Babli</span>
+                        <span>Pionero de la trompeta árabe Sami al-Babli</span>
                     </div>
 
                     <p>
@@ -61,7 +61,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sami al-Babli</b>
-                                    <span>A rare video recording of Arabic trumpet pioneer Sami al-Babli (Egipto) doing a Taqsim in <a href="../maqam/nahawand.php">Maqam Nahawand</a> with Abdo Dagher.</span>
+                                    <span>Una raro video del pionero de la trompeta árabe Sami al-Babli (Egipto) tocando un Taqsim en <a href="../maqam/nahawand.php">Maqam Nahawand</a> con Abdo Dagher.</span>
                                 </div>
                             </label>
                         </div>
@@ -77,7 +77,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sami al-Babli</b>
-                                    <span>Another rare video recording of Sami al-Babli doing a Taqsim in <a href="../maqam/saba.php">Maqam Saba</a> during the introduction to a song by <em>Sha‘bi</em> singer Ahmed Adaweya. Al-Babli was regularly featured in Adaweya's ensemble.</span>
+                                    <span>Otra rara grabación de video de Sami al-Babli tocando un Taqsim en <a href="../maqam/saba.php">Maqam Saba</a> durante la introducción de una canción del cantante <em>Sha‘bi</em> Ahmed Adaweya. Al-Babli apareció regularmente con el conjunto de Adaweya.</span>
                                 </div>
                             </label>
                         </div>
@@ -93,7 +93,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Amir Elsaffar</b>
-                                    <span>Iraqi-American Trumpet and <em>Santur</em> player Amir Elsaffar in an NPR Music Field Recording playing one of his compositions which blend elements from the Arabic Maqam system and Jazz.</span>
+                                    <span>El trompetista iraquí-estadounidense y el músico de <em>Santur</em> Amir Elsaffar en una grabación de NPR Music Field Recording tocando una de sus composiciones que combina elementos del sistema árabe Maqam y Jazz.</span>
                                 </div>
                             </label>
                         </div>
@@ -109,7 +109,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ibrahim Maalouf</b>
-                                <span>Lebanese-French trumpet player Ibrahim Maalouf playing a cover of Umm Kukthum's song <strong>Alf Leila wi Leila</strong> (1969, music by Baligh Hamdi) in a Jazz arrangement that nevertheless allows room for Arabic Maqam scales.</span>
+                                <span>El trompetista libanés-francés Ibrahim Maalouf tocando una versión de la canción de Umm Kulthum <strong>Alf Leila wi Leila</strong> (1969, música de Baligh Hamdi) en un arreglo de Jazz que, sin embargo, deja espacio para las escalas árabes de Maqam.</span>
                                 </div>
                             </label>
                         </div>

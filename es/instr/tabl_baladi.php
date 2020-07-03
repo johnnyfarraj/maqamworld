@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/tabl_baladi.jpg" alt="Tabl Baladi">
-                        <span>TODO Tabl Baladi with goat skin. &copy; MaqamWorld</span>
+                        <span>Tabl Baladi con piel de cabra. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
@@ -61,8 +61,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Tabl Baladi with Mizmar</b>
-                                    <span>Armenian-Lebanese tabl_baladi player Setrak Sarkissian starts the rhythm for singer Samira Tawfiq in her song <strong>‘al-‘Ein Mulayitein</strong>, accompanied by a Riq and Table Baladi. Recorded on Lebanese Television with violinist Rafik Hobeika leading the orchestra.</span>
+                                    <b>Tabl Baladi con Mizmar</b>
+                                    <span>El armenio-libanés Setrak Sarkissian, instrumentista de el tabl baladi comienza el ritmo para la cantante Samira Tawfiq en su canción <strong>‘al-‘Ein Mulayitein</strong>, acompañada de un Riq y Tabl Baladi. Grabado en televisión libanesa con el violinista Rafik Hobeika dirigiendo la orquesta.</span>
                                 </div>
                             </label>
                         </div>

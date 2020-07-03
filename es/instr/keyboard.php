@@ -50,7 +50,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/keyboard2.jpg" alt="El Teclado Oriental's Quartertone Buttons">
-                        <span>TODO 12 switches to lower each note on the keyboard by a quartertone</span>
+                        <span>12 interruptores para bajar cada nota en el teclado por un cuarto de tono</span>
                     </div>
 
                     <p>
@@ -67,7 +67,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Aw‘idak</b>
-                                    <span>The National Arab Orchestra (U.S.A.) performing Su‘ad Muhammad's song <strong>Aw‘idak</strong> in an arrangement that includes El Teclado Oriental and La Guitarra Eléctrica Árabe alongside traditional Arabic instruments.</span>
+                                    <span>La Orquesta Árabe Nacional (EE. UU.) Interpreta la canción <strong>Aw‘idak</strong> de Su‘ad Muhammad en un arreglo que incluye El Teclado Oriental y La Guitarra Eléctrica Árabe junto con instrumentos árabes tradicionales.</span>
                                 </div>
                             </label>
                         </div>
@@ -82,8 +82,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Shamstep by 47Soul</b>
-                                <span>Pan-Palestinian group 47Soul added an interesting twist to the normal usage of El Teclado Oriental by using sound effects to create a new genre of techno-<em>dabke</em>, as in their hit song <strong>Shamstep</strong>.</span>
+                                    <b>Shamstep de 47Soul</b>
+                                <span>El grupo pan-palestino 47Soul agregó una inovación interesante al sonido del Teclado Oriental mediante el uso de efectos de sonido para crear un nuevo género de techno-<em>dabke</em>, como en su exitosa canción <strong>Shamstep</strong>.
+                                </span>
                                 </div>
                             </label>
                         </div>

@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/riqq.jpg" alt="El Riq">
-                        <span>TODO Two traditional fish-skin riqq-s. &copy; MaqamWorld</span>
+                        <span>Dos riqq-s tradicionales con piel de pescado. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
@@ -65,7 +65,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Hassan Anwar</b>
-                                <span>Riq player Hassan Anwar (the official <em>dabet al-iqa‘</em> for the Diamond Orchestra in Egypt) exchanges solos with the org player in Abdel Halim Hafez's song <strong>Qari'at al-Fingan</strong> (1976, music by Muhammad al-Mugi).</span>
+                                <span>Instrumentista de Riqq Hassan Anwar (el <em>dabet al-iqa‘</em> oficial para la Orquesta Diamante en Egipto) intercambia solos con el organista en la canción de Abdel Halim Hafez <strong>Qari'at al-Fingan</strong> (1976, música de Muhammad al-Mugi).</span>
                                 </div>
                             </label>
                         </div>
@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Muhammad al-‘Arabi</b>
-                                    <span>Egyptian riqq player Muhammad al-‘Arabi performs a Riq Solo (on a riqq with a plastic head) where he explores many iqa‘at.</span>
+                                    <span>El instrumentista egipcio de riqq Muhammad al-‘Arabi realiza un Solo de Riqq (en un riqq con una cabeza de plástico) donde explora muchos iqa‘at.</span>
                                 </div>
                             </label>
                         </div>
@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Adel Shams el-Din</b>
-                                    <span>Egyptian percussionist Adel Shams el-Din performs a Riq Solo on a fishskin riqq, where he explores many iqa‘at (recorded in 2005 at the Institut du Monde Arabe, Paris).</span>
+                                    <span>El percusionista egipcio Adel Shams el-Din realiza un Solo de Riqq en un riqq con piel de pescado, donde explora muchos iqa‘at (grabado en 2005 en el Institut du Monde Arabe, París).</span>
                                 </div>
                             </label>
                         </div>
@@ -113,7 +113,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Mustafa Bayumi</b>
-                                    <span>Egyptian percussionist Mustafa Bayumi performs a Riq Solo (on a riqq with a plastic head) where he explores many iqa‘at.</span>
+                                    <span>El percusionista egipcio Mustafa Bayumi realiza un Solo de Riqq (en un riqq con una cabeza de plástico) donde explora muchos iqa‘at.</span>
                                 </div>
                             </label>
                         </div>
