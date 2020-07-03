@@ -74,7 +74,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ziad Rahbani</b>
-                                    <span>Lebanese pianist Ziad Rahbani plays Arabic piano on his song <strong>Shu Hal-Iyyam</strong> from his CD <strong>Ana Moush Kafer</strong>, 1985.</span>
+                                    <span>Lebanese pianist Ziad Rahbani plays Arabic piano on his song <strong>Shu Hal-Iyyam</strong> from his CD <strong>Ana Mush Kafer</strong>, 1985.</span>
                                 </div>
                             </label>
                         </div>
@@ -90,7 +90,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                 <b>W'Qamh</b>
-                                <span>Ziad Rahbani's instrumental composition <strong>W'Qamh</strong> in <a href="../maqam/hijaz.php">Maqam Hijaz</a> uses the Arabic piano in a Jazz fusion arrangement. From Fairouz's CD <strong>Mish Kayin Hayk Tkoun</strong>, 1987.</span>
+                                <span>Ziad Rahbani's instrumental composition <strong>W'Qamh</strong> in <a href="../maqam/hijaz.php">Maqam Hijaz</a> uses the Arabic piano in a Jazz fusion arrangement. From Fairouz's CD <strong>Mish Kayin Hayk Tkun</strong>, 1987.</span>
                                 </div>
                             </label>
                         </div>

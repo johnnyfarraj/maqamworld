@@ -71,8 +71,8 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div><!--
                              --><div class="info">
-                                    <b>Fat el-Ma'ad (1967)</b>
-                                <span>Umm Kulthum's song <strong>Fat el-Ma'ad</strong> (1967, music by Baligh Hamdi) includes in its arrangement Faruq Salama on the Arabic Accordion, Abdel Fattah Khayri on the Electric Guitar and Samir Surour on the Saxophone.</span>
+                                    <b>Fat el-Ma‘ad (1967)</b>
+                                <span>Umm Kulthum's song <strong>Fat el-Ma‘ad</strong> (1967, music by Baligh Hamdi) includes in its arrangement Faruq Salama on the Arabic Accordion, Abdel Fattah Khayri on the Electric Guitar and Samir Surour on the Saxophone.</span>
                                 </div>
                             </label>
                         </div>
