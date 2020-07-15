@@ -79,6 +79,32 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/jins/upper_rast/atani_zamani.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Μουάσαχ Ατάνι Ζαμάνι</b>
+                                    <span>Σαμπάχ Φαχρί</span>
+                                    <span>Μουσική Μοχάμαντ Οθμάν</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="track" data-song="/audio/jins/upper_rast/dhabiyun-min-al-turki.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Μουάσαχ Δάμπιον Μιν αλ-Τούρκι</b>
+                                    <span>Άχμαντ Σούκρι</span>
+                                    <span>(άγνωστος συνθέτης)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                     <div class="track" data-song="/audio/jins/upper_rast/hann_el_hadid.mp3">
                         <div class="radio">
                             <label>
@@ -114,19 +140,6 @@ include($ROOT . 'inc/head.php');
                                     <b>Ασαμίνα</b>
                                     <span>Φεϊρούζ</span>
                                     <span>Μουσική Φιλίμων Ουάχμπι</span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-
-                    <div class="track" data-song="/audio/jins/upper_rast/atani_zamani.mp3">
-                        <div class="radio">
-                            <label>
-                                <input type="radio" name="song" value="1">
-                                <div class="info">
-                                    <b>Μουάσαχ Ατάνι Ζαμάνι</b>
-                                    <span>Σαμπάχ Φαχρί</span>
-                                    <span>Μουσική Μοχάμαντ Οθμάν</span>
                                 </div>
                             </label>
                         </div>

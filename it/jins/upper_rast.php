@@ -78,6 +78,32 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/jins/upper_rast/atani_zamani.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Muwashah Atani Zamani</b>
+                                    <span>Sabah Fakhri (Siria)</span>
+                                    <span>Musica di Muhammad Uthman</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="track" data-song="/audio/jins/upper_rast/dhabiyun-min-al-turki.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Muwashah Dhabiyun Min al-Turki</b>
+                                    <span>Ahmad Shukri (Siria)</span>
+                                    <span>(compositore sconosciuto)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                     <div class="track" data-song="/audio/jins/upper_rast/hann_el_hadid.mp3">
                         <div class="radio">
                             <label>
@@ -113,19 +139,6 @@ include($ROOT . 'inc/head.php');
                                     <b>Asamina</b>
                                     <span>Fairouz (Libano)</span>
                                     <span>Musica di Philemon Wehbe</span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-
-                    <div class="track" data-song="/audio/jins/upper_rast/atani_zamani.mp3">
-                        <div class="radio">
-                            <label>
-                                <input type="radio" name="song" value="1">
-                                <div class="info">
-                                    <b>Muwashah Atani Zamani</b>
-                                    <span>Sabah Fakhri (Siria)</span>
-                                    <span>Musica di Muhammad Uthman</span>
                                 </div>
                             </label>
                         </div>

@@ -84,6 +84,32 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/jins/upper_rast/atani_zamani.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>موشّح اتاني زماني</b>
+                                    <span>صباح فخري (سوريا)</span>
+                                    <span>الحان محمد عثمان (مصر)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="track" data-song="/audio/jins/upper_rast/dhabiyun-min-al-turki.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>موشّح موشح ظبيٌ من التركِ لهُ</b>
+                                    <span>احمد شكري (سوريا)</span>
+                                    <span>اللحن والكلمات قديمان</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                     <div class="track" data-song="/audio/jins/upper_rast/hann_el_hadid.mp3">
                         <div class="radio">
                             <label>
@@ -121,19 +147,6 @@ include($ROOT . 'inc/head.php');
                                     <span>فيروز (لبنان)</span>
                                     <span>كلمات جوزيف حرب (لبنان)</span>
                                     <span>الحان فيلمون وهبي (لبنان)</span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-
-                    <div class="track" data-song="/audio/jins/upper_rast/atani_zamani.mp3">
-                        <div class="radio">
-                            <label>
-                                <input type="radio" name="song" value="1">
-                                <div class="info">
-                                    <b>موشّح اتاني زماني</b>
-                                    <span>صباح فخري (سوريا)</span>
-                                    <span>الحان محمد عثمان (مصر)</span>
                                 </div>
                             </label>
                         </div>
