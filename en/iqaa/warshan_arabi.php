@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Iqa‘ Warashan ‘Arabi";
-$page_description = "Iqa‘ Warashan ‘Arabi";
+$page_title = "Iqa‘ Warshan ‘Arabi";
+$page_description = "Iqa‘ Warshan ‘Arabi";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, sittatu ashar masri, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "en"; // en / ar <!-- YOU MUST PUT THIS
 
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="iqaas-page">
 
     <?php
-      $page = "en/iqaa/warashan_arabi.php";
+      $page = "en/iqaa/warshan_arabi.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -29,28 +29,28 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Warashan ‘Arabi 32/4</h1>
+                        <h1>Iqa‘ Warshan ‘Arabi 32/4</h1>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/warashan_arabi.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Warashan ‘Arabi</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/warshan_arabi.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Warshan ‘Arabi</a>
                     </div>
 
                     <div class="notation">
-                        <img src="/note/iqaa/warashan_arabi.png" class="img-fluid">
+                        <img src="/note/iqaa/warshan_arabi.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Warashan ‘Arabi ("‘Arabi" means Arab) is a rare <em>iqa‘</em> mostly used in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre. It spans 8 measures of 4/4, bringing its time signature to 32/4.</p>
+                    <p>Iqa‘ Warshan ‘Arabi ("‘Arabi" means Arab) is a rare <em>iqa‘</em> mostly used in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre. It spans 8 measures of 4/4, bringing its time signature to 32/4.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
-                            <source src="/audio/iqaa/warashan_arabi/qatili_bi_ghunjil_alkindi.mp3" type="audio/mp3">
+                            <source src="/audio/iqaa/warshan_arabi/qatili_bi_ghunjil_alkindi.mp3" type="audio/mp3">
                         </audio>
                     </div>
 
-                    <div class="track " data-song="/audio/iqaa/warashan_arabi/qatili_bi_ghunjil_alkindi.mp3">
+                    <div class="track " data-song="/audio/iqaa/warshan_arabi/qatili_bi_ghunjil_alkindi.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1" >
@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track " data-song="/audio/iqaa/warashan_arabi/ah_min_jour_el_ghawani.mp3">
+                    <div class="track " data-song="/audio/iqaa/warshan_arabi/ah_min_jour_el_ghawani.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1" >
