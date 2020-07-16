@@ -121,6 +121,7 @@ include($ROOT . 'inc/head.php');
                                     <li><a href="iqaa/awfar.php">أوفر مصري ١٩/٤</a></li>
                                     <li><a href="iqaa/fakhit.php">فاخت ٢٠/٤</a></li>
                                     <li><a href="iqaa/sittatu_ashar.php">ستة عشر مصري ٣٢/٤</a></li>
+                                    <li><a href="iqaa/warshan_arabi.php">ورشان عربي ٣٢/٤</a></li>
                                 </ul>
                             </div>
                         </div>

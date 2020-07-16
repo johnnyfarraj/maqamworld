@@ -41,5 +41,6 @@
     <li><a href="/ar/iqaa/wahda_saghira.php">واحدة صغيرة ٢/٤</a></li>
     <li><a href="/ar/iqaa/wahda_kabira.php">واحدة كبيرة ٨/٤</a></li>
     <li><a href="/ar/iqaa/wahda_w_nuss.php">واحدة ونصّ ٤/٤</a></li>
+    <li><a href="/ar/iqaa/warshan_arabi.php">ورشان عربي ٣٢/٤</a></li>
     <li><a href="/ar/iqaa/yuruk_semai.php">يورك سماعي ٦/٨</a></li>
 </ul>
