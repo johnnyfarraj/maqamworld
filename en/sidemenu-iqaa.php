@@ -41,6 +41,7 @@
     <li><a href="/en/iqaa/wahda_saghira.php">Wahda Saghira 2/4</a></li>
     <li><a href="/en/iqaa/wahda_kabira.php">Wahda Kabira 8/4</a></li>
     <li><a href="/en/iqaa/wahda_w_nuss.php">Wahda w-Nuss 4/4</a></li>
+    <li><a href="/en/iqaa/warashan_arabi.php">Warashan ‘Arabi 32/4</a></li>
     <li><a href="/en/iqaa/yuruk_semai.php">Yuruk Semai 6/8</a></li>
     <li><a href="/en/iqaa/zaffa.php">Zaffa 4/4</a></li>
 </ul>
