@@ -46,7 +46,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="player-area">
                         <audio id="player" controls>
-                            <source src="/audio/iqaa/warashan_arabi/badat_alkindi.mp3" type="audio/mp3">
+                            <source src="/audio/iqaa/warashan_arabi/qatili_bi_ghunjil_alkindi.mp3" type="audio/mp3">
                         </audio>
                     </div>
 
@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Qatili Bi Ghunji al-Kahali</b>
                                     <span>Ensemble Al-Kindi</span>
-                                    <span>Music by ???</span>
+                                    <span><img src="/img/cd.png"> Les Croisades Sous Le Regard De l'Orient Part I - Maqam Bayati</span>
                                 </div>
                             </label>
                         </div>
@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Ahi Min Juri al-Ghawani</b>
                                     <span>Abdel Halim Noueira Ensemble</span>
-                                    <span>Music by ???</span>
+                                    <span>Music by Ahmad Abu Khalil al-Qabbani</span>
                                 </div>
                             </label>
                         </div>
