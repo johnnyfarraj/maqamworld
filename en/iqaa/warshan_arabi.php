@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/warshan_arabi.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Warshan ‘Arabi ("‘Arabi" means Arab) is a rare <em>iqa‘</em> mostly used in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre. It spans 8 measures of 4/4, bringing its time signature to 32/4.</p>
+                    <p>Iqa‘ Warshan ‘Arabi (<em>‘Arabi</em> means Arab) is a rare <em>iqa‘</em> mostly used in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre. It spans 8 measures of 4/4, bringing its time signature to 32/4.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
