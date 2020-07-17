@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Wajhak Mushriq</b>
-                                    <span>Abdel Halim Noueira Ensemble</span>
+                                    <span>L'orchestra Abdel Halim Nouera</span>
                                 </div>
                             </label>
                         </div>

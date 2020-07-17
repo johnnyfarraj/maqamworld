@@ -4,10 +4,10 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Ικά Ουαρσάν Άραμπι";
-$page_description = "Ικά Ουαρσάν Άραμπι";
-$page_keywords = "Μακάμ, Τζινς, Ρυθμοί, Φόρμες, Mουσικά Όργανα, Δημοσιεύσεις, Ικά Ουαρσάν Άραμπι ";
-$page_language = "el";
+$page_title = "Iqa‘ Warchane ‘Arabi";
+$page_description = "Iqa‘ Warchane ‘Arabi";
+$page_keywords = "musique arabe, mode arabe, maqam, jins, iqa‘, iqaa, rhythme, sittatu ashar masri, oud, qanoun, nay, quart de ton, tetrachorde, musique modale, moyen orient, tarab";
+$page_language = "fr";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="iqaas-page">
 
     <?php
-      $page = "el/iqaa/warshan_arabi.php";
+      $page = "fr/iqaa/warshan_arabi.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -23,28 +23,26 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Ρυθμοί</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Ικά Ουαρσάν Άραμπι  32/4</h1>
+                        <h1>Iqa‘ Warchane ‘Arabi 32/4</h1>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Ευρετήριο Ρυθμοί</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Index des Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/warshan_arabi.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Ουαρσάν Άραμπι</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/warshan_arabi.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Warchane ‘Arabi</a>
                     </div>
-
+                    
                     <div class="notation">
                         <img src="/note/iqaa/warshan_arabi.png" class="img-fluid">
                     </div>
 
-                    <p>
-                        Το Ικά Ουαρσάν Άραμπι ("Άραμπι" σημαίνει Αραβικό) είναι ένας σπάνιος ρυθμός περισσότερο χρησιμοποιημένος στο φωνητικό είδος των <a href="../form/vocal_comp.php#muwashah">Μουασαχάτ</a>. Εκτείνεται σε 8 μέτρα 4/4, ανεβάζοντας τον αριθμό των παλμών σε 32/4.
-                    </p>
+                    <p>Iqa‘ Warchane ‘Arabi (<em>‘Arabi</em> veut dire 'arabe') est un <em>iqa‘</em> rare utilisé surtout dans le genre vocal du <a href="../form/vocal_comp.php#muwashah">Mouachah</a>. Il est composé de 8 mesures de 4/4, en faisant une signature métriques de 32/4.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -57,9 +55,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Μουάσαχ Κάτιλι μπι Γούνζι αλ-Κάχαλι</b>
-                                    <span>Μουσικό Σύνολο αλ-Κίντι</span>
-                                    <span><img src="/img/cd.png"> Les Croisades Sous Le Regard De l'Orient Part I - Maqam Bayati</span>
+                                    <b>Mouachah Qatili Bi Ghounji al-Kahali</b>
+                                    <span>Ensemble Al-Kindi (Syrie/France)</span>
+                                    <span><img src="/img/cd.png"> Les Croisades Sous Le Regard De l'Orient - I (Maqam Bayati)</span>
                                 </div>
                             </label>
                         </div>
@@ -70,9 +68,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Μουάσαχ Άχι Μιν Ζούρι αλ-Γαουάνι</b>
-                                    <span>Μουσικό Σύνολο Αμπντέλ Χαλίμ Νουέϊρα</span>
-                                    <span>Μουσική Άχμαντ Αμπού Χαλίλ αλ-Καμπάνι</span>
+                                    <b>Mouachah Ahi Min Jouri al-Ghawani</b>
+                                    <span>Ensemble Abdel Halim Nouéra (Égypte)</span>
+                                    <span>Musique de Ahmad Abou Khalil al-Qabbani</span>
                                 </div>
                             </label>
                         </div>
@@ -86,7 +84,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
 
-    <?php include($ROOT . 'el/footer.php'); ?>
+    <?php include($ROOT . 'fr/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
 
   </body>

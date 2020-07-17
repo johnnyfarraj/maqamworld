@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Mouachah Kallili Ya Souhbou</b>
-                                    <span>Ensemble Abdel Halim Noueirah (Égypte)</span>
+                                    <span>Ensemble Abdel Halim Nouéra (Égypte)</span>
                                     <span>Musique de Mouhammad Outhman</span>
                                 </div>
                             </label>

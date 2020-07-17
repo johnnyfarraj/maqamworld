@@ -164,7 +164,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Nahawand</b>
-                                    <span>Ensemble Abdel Halim Noueirah (Égypte)</span>
+                                    <span>Ensemble Abdel Halim Nouéra (Égypte)</span>
                                     <span>Musique de Safar Ali</span>
                                 </div>
                             </label>
@@ -203,7 +203,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Longa Nahawand</b>
-                                    <span>Abdel Halim Noueirah Ensemble</span>
+                                    <span>Abdel Halim Nouéra Ensemble</span>
                                     <span>Musique de Yorgo Baganos</span>
                                 </div>
                             </label>
