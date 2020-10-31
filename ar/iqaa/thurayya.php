@@ -40,7 +40,7 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/iqaa/thurayya.png" class="img-fluid">
                     </div>
 
-                    <h5>إيقاع ثُريّا (و يُسمّى ايضاً <strong>اقصاق تُركي</strong>) هو إيقاع نادر، وقد استُعمل في <a href="../form/vocal_comp.php#muwashah">موشّح</a> واحد فقط (في الروض انا شفت الجميل).
+                    <h5>إيقاع ثُريّا (و يُسمّى ايضاً <strong>اقصاق تُركي</strong>) هو إيقاع نادر، غالباً ما يستعمل في <a href="../form/vocal_comp.php#muwashah">قالب الموشّح</a> الغنائي.
                     </h5>
 
                     <div class="player-area">
@@ -62,6 +62,20 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track " data-song="/audio/iqaa/thurayya/fattakatul-lahdhi.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1" >
+                                <div class="info">
+                                    <b>موشّح فتّاكة اللحظِ ممشوقة القدِّ</b>
+                                    <span>غناء د. كريم عزب (فلسطين)</span>
+                                    <span>كلمات د. فؤاد رجائي (حلب)</span>
+                                    <span>الحان عمر البطش (حلب)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+                    
                 </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>

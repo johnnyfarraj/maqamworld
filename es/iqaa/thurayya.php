@@ -70,6 +70,19 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
                     
+                    <div class="track " data-song="/audio/iqaa/thurayya/fattakatul-lahdhi.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1" >
+                                <div class="info">
+                                    <b>Muwashah Fattakatu al-Lahdhi</b>
+                                    <span>Karim Azab (Palestina)</span>
+                                    <span>Música de Omar al-Batsh</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                     <div class="track demo-track" data-song="/demo/iqaa/tabla/thurayya.mp3">
                         <div class="radio">
                             <label>

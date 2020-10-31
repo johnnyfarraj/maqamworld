@@ -68,7 +68,7 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
                     
-                    <div class="track " data-song="/audio/iqaa/fattakatul-lahdhi.mp3">
+                    <div class="track " data-song="/audio/iqaa/thurayya/fattakatul-lahdhi.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1" >
