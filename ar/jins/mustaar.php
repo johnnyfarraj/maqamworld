@@ -83,6 +83,20 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/jins/mustaar/sahran-li-wahdi.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>اغنية سهران لوحدي (١٩٥٠)</b>
+                                    <span>ام كلثوم</span>
+                                    <span>كلمات أحمد رامي (مصر)</span>
+                                    <span>الحان رياض السنباطي (مصر)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                     <div class="track" data-song="/audio/jins/mustaar/aruh_li_min.mp3">
                         <div class="radio">
                             <label>

@@ -76,6 +76,19 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/jins/mustaar/sahran-li-wahdi.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Sahrane li-Wahdi (1950)</b>
+                                    <span>Oum Koulthoum (Égypte)</span>
+                                    <span>Musique de Riyad al-Soumbati</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                     <div class="track" data-song="/audio/jins/mustaar/aruh_li_min.mp3">
                         <div class="radio">
                             <label>
