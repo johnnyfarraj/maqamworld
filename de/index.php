@@ -36,12 +36,13 @@ include($ROOT . 'inc/head.php');
                         <li>Unterstützung aller Displaygrößen (insbesondere Smartphones)</li>
                         <li>Google-Suche</li>
                         <li>eine komplette Übersetzung ins 
-                            <a href="/en/index.php"><strong>Englisch</strong></a>,
-                            <a href="/it/index.php"><strong>Italienisch</strong></a>,
-                            <a href="/fr/index.php"><strong>Französisch</strong></a>,
+                            <a href="/en/index.php"><strong>Englische</strong></a>,
+                            <a href="/it/index.php"><strong>Italienische</strong></a>,
+                            <a href="/fr/index.php"><strong>Französische</strong></a>,
                             <a href="/ar/index.php"><strong>Arabische</strong></a>,
-                            <a href="/el/index.php"><strong>Griechisch</strong></a> und
-                            <a href="/es/index.php"><strong>Spanisch</strong></a>.
+                            <!-- brasilianische Portugiesisch -->
+                            <a href="/el/index.php"><strong>Griechische</strong></a> und
+                            <a href="/es/index.php"><strong>Spanische</strong></a>.
                         </li>
                         <li>qualitativ bessere Bilder und Audiobeispiele</li>
                         <li>bessere Navigationsmenüs und -untermenüs</li>
