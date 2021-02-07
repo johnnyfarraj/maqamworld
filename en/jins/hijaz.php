@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Bi Karm el-Lulu</b>
                                     <span>Fairouz</span>
-                                    <span>Music By Philemon Wehbe</span>
+                                    <span>Music by Philemon Wehbe</span>
                                 </div>
                             </label>
                         </div>

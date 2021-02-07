@@ -117,7 +117,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>el-Hali Ta‘bani Ya Layla</b>
                                     <span>Joseph Saqr</span>
-                                    <span>Music By Ziad Rahbani</span>
+                                    <span>Music by Ziad Rahbani</span>
                                 </div>
                             </label>
                         </div>
