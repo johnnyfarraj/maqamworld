@@ -98,8 +98,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Tuta</b>
-                                    <span>Instrumental Composition</span>
+                                    <b>Tuta (1942)</b>
+                                    <span>Instrumental Composition (from the movie <strong>Ahlam el-Shabab</strong>)</span>
                                     <span>Music by Farid al-Atrash</span>
                                 </div>
                             </label>
