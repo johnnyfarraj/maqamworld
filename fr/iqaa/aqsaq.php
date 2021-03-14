@@ -90,6 +90,19 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/iqaa/aqsaq_form1/el_sama3_wel_rah.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Mouachah el-Sama‘ ouel-Rah</b>
+                                    <span>Ibrahim al-Haggar (Égypte)</span>
+                                    <span>usique de Daoud Housni</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                     <div class="track" data-song="/audio/iqaa/aqsaq_form1/bashraf_bulbul_al_afrah.mp3">
                         <div class="radio">
                             <label>
