@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/yuruk_semai.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Yuruk Semai is originally a Turkish usul. It is very popular in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> genre, and is alternatively called <strong>Yugrug</strong>. When it accelerates, it may modulate to <a href="samai_darij.php">Iqa' Sama‘i darij</a> in 3/4 or <a href="samai_saraband.php">Iqa' Sama‘i Saraband</a> in 3/8.
+                    <p>Iqa‘ Yuruk Semai is originally a Turkish usul. It is very popular in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> genre, and is alternatively called <strong>Yugrug</strong>. When it accelerates, it may modulate to <a href="samai_darij.php">Iqa' Sama‘i Darij</a> in 3/4 or <a href="samai_saraband.php">Iqa' Sama‘i Saraband</a> in 3/8.
                     </p>
                     
                     <div class="player-area">
