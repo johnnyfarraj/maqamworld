@@ -103,6 +103,44 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <!-- Need some kind of divider here to start the Form 2  examples -->
+                    <br>
+                    <div class="heading jins text-center">
+                        <h3>The second form of Iqa‘ Sudasi 6/4</h3>
+                    </div>
+                    <div class="notation">
+                        <img src="/note/iqaa/sudasi-f2.png" class="img-fluid">
+                    </div>
+					<br>
+                    <p>An alternative form of Iqa‘ Sudasi starts with 3 <em>dum</em>-s, and is commonly used in Lebanese <em>dabke</em> songs.
+					</p>
+					<br>
+
+                    <div class="track" data-song="/audio/iqaa/sudasi_f2/ya_trab_3ayntura.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Allah Allah Ya Trab ‘Ayntura</b>
+                                    <span>Fairouz, Wadih al-Safi and Nasri Shamseddine</span>
+                                    <span>Music and lyrics by the Rahbani Brothers</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="track" data-song="/audio/iqaa/sudasi_f2/ya_b3albak.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Ya Ba‘albak</b>
+                                    <span>Music and lyrics by Tania Saleh</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                 </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
