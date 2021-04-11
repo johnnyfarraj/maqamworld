@@ -48,11 +48,11 @@ include($ROOT . 'inc/head.php');
 
                     <div class="player-area">
                         <audio id="player" controls>
-                            <source src="/audio/iqaa/sudasi/dal3ona.mp3" type="audio/mp3">
+                            <source src="/audio/iqaa/sudasi_f1/dal3ona.mp3" type="audio/mp3">
                         </audio>
                     </div>
 
-                    <div class="track " data-song="/audio/iqaa/sudasi/dal3ona.mp3">
+                    <div class="track " data-song="/audio/iqaa/sudasi_f1/dal3ona.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1" >
@@ -65,7 +65,7 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/sudasi/ya_mahla_layali.mp3">
+                    <div class="track" data-song="/audio/iqaa/sudasi_f1/ya_mahla_layali.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
@@ -78,7 +78,7 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/sudasi/ya_7ajal_sannin.mp3">
+                    <div class="track" data-song="/audio/iqaa/sudasi_f1/ya_7ajal_sannin.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
@@ -100,6 +100,43 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Iqa‘ Sudasi 6/4</b>
                                     <span>Demostración en el Tabla por Faisal Zedan</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <br>
+                    <div class="heading jins text-center">
+                        <h3>Segunda forma de Iqa‘ Sudasi</h3>
+                    </div>
+                    <div class="notation">
+                        <img src="/note/iqaa/sudasi-f2.png" class="img-fluid">
+                    </div>
+					<br>
+                    <p>Una forma alternativa de Iqa‘ Sudasi comienza con 3 <em>dum</em>-s consecutivos y se usa comúnmente en canciones de j<em>dabke</em>azz libanés.
+					</p>
+					<br>
+
+                    <div class="track" data-song="/audio/iqaa/sudasi_f2/ya_trab_3ayntura.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Ya Trab ‘Ayntura</b>
+                                    <span>Fairouz, Wadih al-Safi and Nasri Shamseddine</span>
+                                    <span>Música y letras de los Hermanos Rahbani</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="track" data-song="/audio/iqaa/sudasi_f2/ya_b3albak.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Ya Ba‘albak</b>
+                                    <span>Música y letras de Tania Saleh</span>
                                 </div>
                             </label>
                         </div>

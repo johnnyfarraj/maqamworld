@@ -128,7 +128,6 @@ include($ROOT . 'inc/head.php');
                     وبذلك يحصل هذا الشكل من إيقاع اقصاق على دمّين متتاليتين تزيده شبهاً بإيقاع <a href="samai_thaqil.php">سماعي ثقيل</a>.
 					</h5>
                     <br>
-
                     <div class="notation">
                         <img src="../note/iqaa/aqsaq_f2.png" class="img-fluid">
                     </div>

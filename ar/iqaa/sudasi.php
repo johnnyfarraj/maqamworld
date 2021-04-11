@@ -46,11 +46,11 @@ include($ROOT . 'inc/head.php');
 
                     <div class="player-area">
                         <audio id="player" controls>
-                            <source src="/audio/iqaa/sudasi/dal3ona.mp3" type="audio/mp3">
+                            <source src="/audio/iqaa/sudasi_f1/dal3ona.mp3" type="audio/mp3">
                         </audio>
                     </div>
 
-                    <div class="track " data-song="/audio/iqaa/sudasi/dal3ona.mp3">
+                    <div class="track " data-song="/audio/iqaa/sudasi_f1/dal3ona.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1" >
@@ -63,28 +63,66 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/sudasi/ya_mahla_layali.mp3">
+                    <div class="track" data-song="/audio/iqaa/sudasi_f1/ya_mahla_layali.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>اغنية يا محلا ليالي الهوى (١٩٦٣)</b>
                                     <span>غناء فيروز (لبنان)</span>
-                                    <span>كلمات  وألحان الأخوين رحباني</span>
+                                    <span>كلمات وألحان الأخوين رحباني</span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/sudasi/ya_7ajal_sannin.mp3">
+                    <div class="track" data-song="/audio/iqaa/sudasi_f1/ya_7ajal_sannin.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>أغنية يا حجل صنّين (١٩٦٥)</b>
                                     <span>غناء فيروز (لبنان)</span>
-                                    <span>كلمات  وألحان الأخوين رحباني</span>
+                                    <span>كلمات وألحان الأخوين رحباني</span>
                                     <span>من فيلم <strong>بيّاع الخواتم</strong></span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <!-- Need some kind of divider here to start the Form 2 examples -->
+                    <br>
+                    <div class="heading jins text-center">
+                        <h3>الشكل الثاني لايقاع السداسي</h3>
+                    </div>
+                    <div class="clearfix"></div>
+					<br>
+                    <h5>يأتي إيقاع السداسي على شكلٍ ثانٍ كما هو مدوّن ادناه، حيث يبدأ بثلات دُمّات. وغالباً ما يستعمل هذا الشكل في اغاني الدبكة اللبنانية.</h5>
+					<br>
+                    <div class="notation">
+                        <img src="/note/iqaa/sudasi-f2.png" class="img-fluid">
+                    </div>
+
+                    <div class="track" data-song="/audio/iqaa/sudasi_f2/ya_trab_3ayntura.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>يا تراب عينطورة</b>
+                                    <span>غناء فيروز ,وديع الصافي ونصري شمس الدين (لبنان)</span>
+                                    <span>كلمات وألحان الأخوين رحباني</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="track" data-song="/audio/iqaa/sudasi_f2/ya_b3albak.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>يا بعلبك</b>
+                                    <span>كلمات وألحان تانيا صالح</span>
                                 </div>
                             </label>
                         </div>

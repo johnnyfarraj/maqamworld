@@ -47,11 +47,11 @@ include($ROOT . 'inc/head.php');
 
                     <div class="player-area">
                         <audio id="player" controls>
-                            <source src="/audio/iqaa/sudasi/dal3ona.mp3" type="audio/mp3">
+                            <source src="/audio/iqaa/sudasi_f1/dal3ona.mp3" type="audio/mp3">
                         </audio>
                     </div>
 
-                    <div class="track " data-song="/audio/iqaa/sudasi/dal3ona.mp3">
+                    <div class="track " data-song="/audio/iqaa/sudasi_f1/dal3ona.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1" >
@@ -64,7 +64,7 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/sudasi/ya_mahla_layali.mp3">
+                    <div class="track" data-song="/audio/iqaa/sudasi_f1/ya_mahla_layali.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
@@ -77,7 +77,7 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/sudasi/ya_7ajal_sannin.mp3">
+                    <div class="track" data-song="/audio/iqaa/sudasi_f1/ya_7ajal_sannin.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
@@ -91,7 +91,45 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <br>
+                    <div class="heading jins text-center">
+                        <h3>La seconde forme de Iqa‘ Soudassi</h3>
+                    </div>
+                    <div class="notation">
+                        <img src="/note/iqaa/sudasi-f2.png" class="img-fluid">
+                    </div>
+					<br>
+                    <p>Une forme alternative de Iqa‘ Soudassi est possible, et commence par 3 <em>doum</em>-s consécutifs. 
+                        Cette forme est populaire dans le répertoire vocal de la <em>dabké</em> libaniase.
+					</p>
+					<br>
+
+                    <div class="track" data-song="/audio/iqaa/sudasi_f2/ya_trab_3ayntura.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Ya Trab ‘Ayntoura</b>
+                                    <span>Fairouz, Wadih al-Safi and Nasri Shamseddine</span>
+                                    <span>Musique et paroles par Les Frères Rahbani</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="track" data-song="/audio/iqaa/sudasi_f2/ya_b3albak.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Ya Ba‘albak</b>
+                                    <span>Musique et paroles par Tania Saleh</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
                 </div>
+
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
                 </div>

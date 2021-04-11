@@ -46,11 +46,11 @@ include($ROOT . 'inc/head.php');
 
                     <div class="player-area">
                         <audio id="player" controls>
-                            <source src="/audio/iqaa/sudasi/dal3ona.mp3" type="audio/mp3">
+                            <source src="/audio/iqaa/sudasi_f1/dal3ona.mp3" type="audio/mp3">
                         </audio>
                     </div>
 
-                    <div class="track " data-song="/audio/iqaa/sudasi/dal3ona.mp3">
+                    <div class="track " data-song="/audio/iqaa/sudasi_f1/dal3ona.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1" >
@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/sudasi/ya_mahla_layali.mp3">
+                    <div class="track" data-song="/audio/iqaa/sudasi_f1/ya_mahla_layali.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
@@ -76,7 +76,7 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/sudasi/ya_7ajal_sannin.mp3">
+                    <div class="track" data-song="/audio/iqaa/sudasi_f1/ya_7ajal_sannin.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
@@ -103,16 +103,15 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <!-- Need some kind of divider here to start the Form 2  examples -->
                     <br>
                     <div class="heading jins text-center">
-                        <h3>The second form of Iqa‘ Sudasi 6/4</h3>
+                        <h3>The second form of Iqa‘ Sudasi</h3>
                     </div>
                     <div class="notation">
                         <img src="/note/iqaa/sudasi-f2.png" class="img-fluid">
                     </div>
 					<br>
-                    <p>An alternative form of Iqa‘ Sudasi starts with 3 <em>dum</em>-s, and is commonly used in Lebanese <em>dabke</em> songs.
+                    <p>An alternative form of Iqa‘ Sudasi starts with 3 consecutive <em>dum</em>-s, and is commonly used in Lebanese <em>dabke</em> songs.
 					</p>
 					<br>
 
@@ -121,7 +120,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Allah Allah Ya Trab ‘Ayntura</b>
+                                    <b>Ya Trab ‘Ayntura</b>
                                     <span>Fairouz, Wadih al-Safi and Nasri Shamseddine</span>
                                     <span>Music and lyrics by the Rahbani Brothers</span>
                                 </div>

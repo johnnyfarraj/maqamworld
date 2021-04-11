@@ -118,15 +118,16 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <!-- Need some kind of divider here to start the Form 2  examples -->
-                    <p></p>
-
+                    <br>
                     <div class="heading jins text-center">
                         <h3>Beispiele für die zweite Form von Iqa‘ Aqsaq</h3>
                     </div>
-
                     <div class="notation">
                         <img src="/note/iqaa/aqsaq_f2.png" class="img-fluid">
                     </div>
+                    <br>
+                    <p>An alternate form of Aqsaq replaces the rest on the 6the beat with another dum, thereby creating a sequence of 2 consecutive dum-s that evokes Iqa‘ Sama‘i Thaqil.</p>
+                    <br>
 
                     <div class="track" data-song="/audio/iqaa/aqsaq_form2/ma_htiyali.mp3">
                         <div class="radio">

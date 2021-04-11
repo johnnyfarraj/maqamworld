@@ -46,11 +46,11 @@ include($ROOT . 'inc/head.php');
 
                     <div class="player-area">
                         <audio id="player" controls>
-                            <source src="/audio/iqaa/sudasi/dal3ona.mp3" type="audio/mp3">
+                            <source src="/audio/iqaa/sudasi_f1/dal3ona.mp3" type="audio/mp3">
                         </audio>
                     </div>
 
-                    <div class="track " data-song="/audio/iqaa/sudasi/dal3ona.mp3">
+                    <div class="track " data-song="/audio/iqaa/sudasi_f1/dal3ona.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1" >
@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/sudasi/ya_mahla_layali.mp3">
+                    <div class="track" data-song="/audio/iqaa/sudasi_f1/ya_mahla_layali.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
@@ -76,7 +76,7 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/sudasi/ya_7ajal_sannin.mp3">
+                    <div class="track" data-song="/audio/iqaa/sudasi_f1/ya_7ajal_sannin.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
@@ -85,6 +85,43 @@ include($ROOT . 'inc/head.php');
                                     <span>Fairouz</span>
                                     <span>Musik von den Rahbani-Brüdern</span>
                                     <span>aus dem Film <strong>Bayya‘ el-Khawatim</strong></span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <br>
+                    <div class="heading jins text-center">
+                        <h3>Beispiele für die zweite Form von Iqa‘ Sudasi</h3>
+                    </div>
+                    <div class="notation">
+                        <img src="/note/iqaa/sudasi-f2.png" class="img-fluid">
+                    </div>
+					<br>
+                    <p>Eine alternative Form des Iqa‘ Sudasi beginnt mit 3 aufeinanderfolgenden <em>dum</em>-s, und wird häufig in der libanesischen <em>dabke</em> verwendet.
+					</p>
+					<br>
+
+                    <div class="track" data-song="/audio/iqaa/sudasi_f2/ya_trab_3ayntura.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Ya Trab ‘Ayntura</b>
+                                    <span>Fairouz, Wadih al-Safi und Nasri Shamseddine</span>
+                                    <span>Musik von den Rahbani-Brüdern</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="track" data-song="/audio/iqaa/sudasi_f2/ya_b3albak.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Ya Ba‘albak</b>
+                                    <span>Musik von Tania Saleh</span>
                                 </div>
                             </label>
                         </div>
