@@ -36,10 +36,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <audio id="pronunciation" controls style="display: none;">
-                            <source src="/name/kurd.mp3" type="audio/mp3">
-                        </audio>
-                        <a href="#" class="pronunciation btn btn-default"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Kurd</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/kurd.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Kurd</a>
                     </div>
 
                     <p>Maqam Kurd Family is made of <em>maqamat</em> that start with <a href="../jins/kurd.php">Jins Kurd</a>.</p>
