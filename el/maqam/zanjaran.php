@@ -110,7 +110,32 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
+                    
+                    <div class="track" data-song="/audio/maqam/zanjaran/huwwa-dah-yikhallas.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Ντάουρ Χούα Ντα Γιχάλλας (1931)</b>
+                                    <span>Ουμ Κουλθούμ (Αίγυπτος)</span>
+                                    <span>Μουσική Ζακαρία Άχμαντ</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
 
+                    <div class="track" data-song="/audio/maqam/zanjaran/fi-shar3i-min.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Φι Σάργι Μιν</b>
+                                    <span>Φωνή και μουσική Σάιεντ Νταρουίς</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+                    
                     <div class="track" data-song="/audio/maqam/zanjaran/layali_zanjaran.mp3">
                         <div class="radio">
                             <label>

@@ -108,6 +108,31 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/maqam/zanjaran/huwwa-dah-yikhallas.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Dawr Huwwa Dah Yikhallas (1931)</b>
+                                    <span>Umm Kulthum</span>
+                                    <span>Musik von Zakariya Ahmad</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="track" data-song="/audio/maqam/zanjaran/fi-shar3i-min.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Fi Shar‘i Min</b>
+                                    <span>Musik mit Gesang von Sayyed Darwish</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+                    
                     <div class="track" data-song="/audio/maqam/zanjaran/layali_zanjaran.mp3">
                         <div class="radio">
                             <label>

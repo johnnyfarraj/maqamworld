@@ -78,7 +78,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>اغنية يا حلاوة الدنيا (١٩٥٠)</b>
                                     <span>غناء سيد مكاوي (مصر)</span>
-                                    <span>الحان زكريا احمد (مضر)</span>
+                                    <span>الحان زكريا احمد (مصر)</span>
                                 </div>
                             </label>
                         </div>
@@ -110,6 +110,33 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/maqam/zanjaran/huwwa-dah-yikhallas.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>دور هو ده يخلّص من الله (١٩٣١)</b>
+                                    <span>أم كلثوم</span>
+                                    <span>كلمات بديع خيري (مصر)</span>
+                                    <span>الحان زكريا احمد (مصر)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="track" data-song="/audio/maqam/zanjaran/fi-shar3i-min.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>في شرع مين</b>
+                                    <span>كلمات محمد يونس القاضي (مصر)</span>
+                                    <span>غناء والحان سيد درويش (مصر)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+                    
                     <div class="track" data-song="/audio/maqam/zanjaran/layali_zanjaran.mp3">
                         <div class="radio">
                             <label>

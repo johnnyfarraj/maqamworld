@@ -92,7 +92,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Aya Daraha Bil-Houzn</b>
                                     <span>Hassan al-Haffar (Syrie)</span>
-                                    <span>Musique de Majdi al-‘Aqili</span>
+                                    <span>Musique de Majdi al-‘Aqili (Syrie)</span>
                                 </div>
                             </label>
                         </div>
@@ -109,7 +109,32 @@ include($ROOT . 'inc/head.php');
                             </label>
                         </div>
                     </div>
+                    
+                    <div class="track" data-song="/audio/maqam/zanjaran/huwwa-dah-yikhallas.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Dawr Huwwa Dah Yikhallas (1931)</b>
+                                    <span>Umm Kulthum (Égypte)</span>
+                                    <span>Musique de Zakariya Ahmad (Égypte)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
 
+                    <div class="track" data-song="/audio/maqam/zanjaran/fi-shar3i-min.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Fi Char‘i Min</b>
+                                    <span>Interprétation et Musique de Sayyed Darwish (Égypte)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+                    
                     <div class="track" data-song="/audio/maqam/zanjaran/layali_zanjaran.mp3">
                         <div class="radio">
                             <label>
