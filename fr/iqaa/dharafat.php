@@ -66,21 +66,6 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/dharafat/tif_ya_durri_kaslik.mp3">
-                        <div class="radio">
-                            <label>
-                                <input type="radio" name="song" value="1">
-                                <div class="info">
-                                    <b>Mouachah Tif Ya Dourri Bil Qanani</b>
-                                    <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Liban)</span>
-                                    <span>Chef d'orchestre: Aïda Chalhoub Ziadé</span>
-                                    <span>Musique de Omar al-Batch</span>
-                                    <span><img src="/img/cd.png"> Orientalia: Mouachah et Chansons</span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-
                     <div class="track" data-song="/audio/iqaa/dharafat/walladhi_wallaka_qalbi.mp3">
                         <div class="radio">
                             <label>

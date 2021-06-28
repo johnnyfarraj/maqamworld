@@ -66,20 +66,6 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/awis/hibbi_da3ani2.mp3">
-                        <div class="radio">
-                            <label>
-                                <input type="radio" name="song" value="1">
-                                <div class="info">
-                                    <b>Muwashah Hibbi Da‘ani Lil-Wisal</b>
-                                    <span>Coro de la Universidad Kaslik (Líbano)</span>
-                                    <span>Música de Sayed Darwish</span>
-                                    <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-
                     <div class="track" data-song="/audio/iqaa/awis/munyati_man_rumtu.mp3">
                         <div class="radio">
                             <label>

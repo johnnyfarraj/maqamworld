@@ -70,21 +70,6 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/awis/hibbi_da3ani2.mp3">
-                        <div class="radio">
-                            <label>
-                                <input type="radio" name="song" value="1">
-                                <div class="info">
-                                    <b>موشّح حبّي دعاني للوصال</b>
-                                    <span>فرقة الغناء الشرقي - جامعة الروح القدس في الكسليك</span>
-                                    <span>بقيادة عايدة شلهوب زيادة</span>
-                                    <span>الحان سيّد درويش (مصر)</span>
-                                    <span><img src="/img/cd.png"> سلسلة اسطوانات اوريانتاليا: موشّح وأغنية</span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-
                     <div class="track" data-song="/audio/iqaa/awis/munyati_man_rumtu.mp3">
                         <div class="radio">
                             <label>

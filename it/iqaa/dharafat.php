@@ -65,20 +65,6 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/dharafat/tif_ya_durri_kaslik.mp3">
-                        <div class="radio">
-                            <label>
-                                <input type="radio" name="song" value="1">
-                                <div class="info">
-                                    <b>Muwashah Tif Ya Durri Bil Qanani</b>
-                                    <span>Coro della Facoltà di Musica - Università di Kaslik (Libano)</span>
-                                    <span>Musica di Omar al-Batsh</span>
-                                    <span><img src="/img/cd.png"> Orientalia: Muwashah e Song series</span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-
                     <div class="track" data-song="/audio/iqaa/dharafat/walladhi_wallaka_qalbi.mp3">
                         <div class="radio">
                             <label>

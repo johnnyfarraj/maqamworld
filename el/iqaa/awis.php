@@ -66,21 +66,6 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/awis/hibbi_da3ani2.mp3">
-                        <div class="radio">
-                            <label>
-                                <input type="radio" name="song" value="1">
-                                <div class="info">
-                                    <b>Μουάσαχ Χίμπι Νταάνι Λιλ-Ουισάλ</b>
-                                    <span>Μουάσαχ Τιφ Για Ντούρι Μπελ Κανάνι</span>
-                                    <span>Μαέστρος: Άιντα Σαλχούμπ Ζιάντε</span>
-                                    <span>Μουσική Σαΐντ Νταρουίς</span>
-                                    <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-
                     <div class="track" data-song="/audio/iqaa/awis/munyati_man_rumtu.mp3">
                         <div class="radio">
                             <label>

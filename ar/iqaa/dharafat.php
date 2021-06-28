@@ -64,21 +64,6 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/dharafat/tif_ya_durri_kaslik.mp3">
-                        <div class="radio">
-                            <label>
-                                <input type="radio" name="song" value="1">
-                                <div class="info">
-                                    <b>موشّح طِف يا دُرّي بالقناني</b>
-                                    <span>فرقة الغناء الشرقي - جامعة الروح القدس في الكسليك</span>
-                                    <span>بقيادة عايدة شلهوب زيادة</span>
-                                    <span>الحان عمر البطش (حلب)</span>
-                                    <span><img src="/img/cd.png"> سلسلة اسطوانات اوريانتاليا: موشّح وأغنية</span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-
                     <div class="track" data-song="/audio/iqaa/dharafat/walladhi_wallaka_qalbi.mp3">
                         <div class="radio">
                             <label>

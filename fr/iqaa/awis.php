@@ -65,21 +65,6 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/awis/hibbi_da3ani2.mp3">
-                        <div class="radio">
-                            <label>
-                                <input type="radio" name="song" value="1">
-                                <div class="info">
-                                    <b>Mouachah Hibbi Da‘ani Lil-Wisal</b>
-                                    <span>Chorale de la faculté de musique - Université Saint-Esprit de Kaslik (Liban)</span>
-                                    <span>Chef d'orchestre: Aïda Chalhoub Ziadé</span>
-                                    <span>Musique de Sayyed Darwich</span>
-                                    <span><img src="/img/cd.png"> Orientalia: Mouachah et Chansons</span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-
                     <div class="track" data-song="/audio/iqaa/awis/munyati_man_rumtu.mp3">
                         <div class="radio">
                             <label>

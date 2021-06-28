@@ -67,21 +67,6 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/dharafat/tif_ya_durri_kaslik.mp3">
-                        <div class="radio">
-                            <label>
-                                <input type="radio" name="song" value="1">
-                                <div class="info">
-                                    <b>Μουάσαχ Τιφ Για Ντούρι Μπελ Κανάνι</b>
-                                    <span>Μουάσαχ Τιφ Για Ντούρι Μπελ Κανάνι</span>
-                                    <span>Μαέστρος: Άιντα Σαλχούμπ Ζιάντε</span>
-                                    <span>Μουσική Όμαρ αλ-Μπατς</span>
-                                    <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-
                     <div class="track" data-song="/audio/iqaa/dharafat/walladhi_wallaka_qalbi.mp3">
                         <div class="radio">
                             <label>
