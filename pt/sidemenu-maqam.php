@@ -1,0 +1,47 @@
+<?php defined('_DEFVAR') or exit('Restricted Access'); ?>
+<ul class="sub-menu">
+    <li class="d-block d-sm-none"><a href="#" class="hide-side-menu"><i class="fa fa-fw fa-times"></i></a></li>
+    <li><a href="/pt/maqam/ajam.php">‘Ajam</a></li>
+    <li><a href="/pt/maqam/ajam_ushayran.php">‘Ajam ‘Ushayran</a></li>
+    <li><a href="/pt/maqam/athar_kurd.php">Athar Kurd</a></li>
+    <li><a href="/pt/maqam/awj_iraq.php">Awj ‘Iraq</a></li>
+    <li><a href="/pt/maqam/bastanikar.php">Bastanikar</a></li>
+    <li><a href="/pt/maqam/bayati.php">Bayati</a></li>
+    <li><a href="/pt/maqam/bayati_shuri.php">Bayati Shuri</a></li>
+    <li><a href="/pt/maqam/dalanshin.php">Dalanshin</a></li>
+    <li><a href="/pt/maqam/nahawand.php">Farahfaza</a></li>
+    <li><a href="/pt/maqam/hijaz.php">Hijaz</a></li>
+    <li><a href="/pt/maqam/hijazkar.php">Hijazkar</a></li>
+    <li><a href="/pt/maqam/hijazkar_kurd.php">Hijazkar Kurd</a></li>
+    <li><a href="/pt/maqam/husayni.php">Husayni</a></li>
+    <li><a href="/pt/maqam/huzam.php">Huzam</a></li>
+    <li><a href="/pt/maqam/iraq.php">‘Iraq</a></li>
+    <li><a href="/pt/maqam/jiharkah.php">Jiharkah</a></li>
+    <li><a href="/pt/maqam/kirdan.php">Kirdan</a></li>
+    <li><a href="/pt/maqam/kurd.php">Kurd</a></li>
+    <li><a href="/pt/maqam/lami.php">Lami</a></li>
+    <li><a href="/pt/maqam/mahur.php">Mahur</a></li>
+    <li><a href="/pt/maqam/bayati.php">Muhayyar</a></li>
+    <li><a href="/pt/maqam/mustaar.php">Musta‘ar</a></li>
+    <li><a href="/pt/maqam/nahawand.php">Nahawand</a></li>
+    <li><a href="/pt/maqam/nahawand_murassaa.php">Nahawand Murassa‘</a></li>
+    <li><a href="/pt/maqam/nairuz.php">Nairuz</a></li>
+    <li><a href="/pt/maqam/nawa_athar.php">Nawa Athar</a></li>
+    <li><a href="/pt/maqam/nikriz.php">Nikriz</a></li>
+    <li><a href="/pt/maqam/huzam.php">Rahat al-Arwah</a></li>
+    <li><a href="/pt/maqam/rast.php">Rast</a></li>
+    <li><a href="/pt/maqam/saba.php">Saba</a></li>
+    <li><a href="/pt/maqam/saba_zamzam.php">Saba Zamzam</a></li>
+    <li><a href="/pt/maqam/kirdan.php">Sazkar</a></li>
+    <li><a href="/pt/maqam/hijazkar.php">Shadd ‘Araban</a></li>
+    <li><a href="/pt/maqam/hijazkar.php">Shahnaz</a></li>
+    <li><a href="/pt/maqam/shawq_afza.php">Shawq Afza</a></li>
+    <li><a href="/pt/maqam/sikah.php">Sikah</a></li>
+    <li><a href="/pt/maqam/sikah_baladi.php">Sikah Baladi</a></li>
+    <li><a href="/pt/maqam/suzdalara.php">Suzdalara</a></li>
+    <li><a href="/pt/maqam/hijazkar.php">Suzidil</a></li>
+    <li><a href="/pt/maqam/suznak.php">Suznak</a></li>
+    <li><a href="/pt/maqam/ushaq_masri.php">‘Ushaq Masri</a></li>
+    <li><a href="/pt/maqam/nairuz.php">Yakah</a></li>
+    <li><a href="/pt/maqam/zanjaran.php">Zanjaran</a></li>
+</ul>
