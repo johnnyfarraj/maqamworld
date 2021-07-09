@@ -4,8 +4,8 @@
 include('../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Arabic Iqa‘at";
-$page_description = "Arabic Music Rhythms Iqa‘ Iqa";
+$page_title = "Iqa‘at Árabes";
+$page_description = "Os Ciclos Rítmicos Árabes Iqa‘ Iqa";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "pt"; // en / ar <!-- YOU MUST PUT THIS -->
 
@@ -23,29 +23,29 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
                     <?php include('sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading text-center jins">
-                        <h1>Arabic Rhythmic Cycles</h1>
-                        <h3>The Iqa‘</h3>
+                        <h1>Os Ciclos Rítmicos Árabes</h1>
+                        <h3>O Iqa‘</h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/iqaa.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Iqa‘/Iqa‘at</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/iqaa.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Iqa‘/Iqa‘at</a>
                     </div>
 
-                    <p>Arabic music is composed over rhythmic cycles called <em>iqa‘at</em> (singular <em>iqa‘</em>), which are patterns of beats that repeat every measure. A composition can switch back and forth between many different iqa‘at. Each iqa‘ is defined using a prototypal measure and the two basic sounds: <em>dum</em> (bassy and sustained) and <em>tak</em> (dry and sharp).</p>
+                    <p>A música árabe é composta sobre ciclos rítmicos chamados de <em>iqa‘at</em> (singular: <em>iqa‘</em>), que são padrões de batidas que se repetem a cada compasso. Uma composição pode alternar entre vários iqa'at diferentes. Cada iqa' é definido usado um compasso prototípico e dois sons básicos: <em>dum</em> (grave e ressonante) e <em>tak</em> (agudo e seco).</p>
 
-                    <p>The notated <em>iqa‘</em> is meant to be a skeleton or a prototype for how to perform it. In practice, percussionists ornament an <em>iqa‘</em> (flesh it out) with additional beats: <em>dum</em>-s, <em>tak</em>-s and whatever other sounds the instrument is able to produce. That ornamentation depends a lot on the genre of Arabic music, the desired arrangement aesthetic, the instrument itself, the size of the rhythm section, and on the percussionist’s personal style.</p>
+                    <p>A notação do <em>iqa‘</em> é serve como um esqueleto ou um protótipo de como executá-lo. Na prática, percussionistas ornamentam um <em>iqa‘</em> (elaboram-no) com batidas adicionais: <em>dum</em>-s, <em>tak</em>-s e quaisquer outros sons que o instrumento for capaz de produzir. A ornamentação depende muito do gênero de música árabe, da estética desejada para o arranjo, do instrumento em si, do tamanho da seção rítmica e do estilo pessoal de cada percussionista.</p>
 
-                    <p>Arabic <em>iqa‘at</em> come is many different time signatures, which can be even as well as odd. The smaller time signatures (2/4, 3/4, 4/4, 6/4 and 8/4) are mostly used in folk music, the tarab genre of the mid-twentieth century and contemporary popular music. Longer <em>iqa‘at</em> (7/8, 9/8, 10/8 all the way to 32/4) are mostly used in the traditional Muwashahat vocal genre.</p>
+                    <p>Os <em>iqa‘at</em> árabes aparecem em muitas fórmulas de compasso diferentes, que podem ser pares ou ímpares. Os tempos menores (2/4, 3/4, 4/4, 6/4 e 8/4) são usados principalmente na música folclórica, no gênero tarab do meio do século XX e na música popular contemporânea. Os <em>iqa‘at</em> maiores (7/8, 9/8, 10/8, até 32/4) são usados principalmente no gênero vocal tradicional Muwashahat.</p>
 
-                    <p>You can start exploring a sample of Arabic iqa‘at using the Iqa‘ Index (sorted alphabetically) or using the table below (sorted by number of beats per measure):</p>
+                    <p>Você pode começar a explorar uma amostra dos iqa'at árabes usando o Índice de Iqa’ (organizada em ordem alfabética) ou utilizando a tabela abaixo (organizada por número de tempos por compasso):</p>
 
                     <div class="page-list-area">
                         <div class="row">

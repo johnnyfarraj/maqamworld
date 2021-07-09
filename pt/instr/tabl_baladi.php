@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/tabl_baladi.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Tabl baladi</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/tabl_baladi.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Tabl baladi</a>
                     </div>
 
                     <p> The Tabl Baladi is a large drum with wood frame and heavy skin on both sides. It is hung by a belt around the player's shoulder is and played with two sticks: the thick one is for the <em>dum</em> sound played with the dominant hand, and the thin stick is for the <em>tak</em> sound played with the other hand.

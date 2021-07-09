@@ -36,7 +36,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/hijaz.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Hijaz</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/hijaz.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Hijaz</a>
                     </div>
 
                     <p>Maqam Hijaz Family is made of <em>maqamat</em> that start with <a href="../jins/hijaz.php">Jins Hijaz</a>.</p>

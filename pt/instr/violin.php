@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/kamanja.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Kamanja</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/kamanja.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Kamanja</a>
                     </div>
 
                     <p> The violin (called <em>kamanja</em> or <em>kaman</em> in Arabic) was incorporated into the Arabic ensemble toward the end of the 19<sup>th</sup> century and replaced indigenous varieties of fiddles like the <em>kamanja</em>, <em>rababa</em>, and <em>jowza</em>. While the argument can be made that the violin is the most obvious example of an Arabized instrument, it has long been naturalized, and has acquired its own tuning, playing technique and ornamentation style. The Arabic violin's sound is as esential to Arabic music as that of the <a href="oud.php">oud</a> and the <a href="qanun.php">qanun</a>.
