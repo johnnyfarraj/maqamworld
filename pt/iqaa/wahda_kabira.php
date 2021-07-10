@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
                     
                     <div class="heading jins text-center">
                         <h1>O Iqa‘ Wahda Kabira 8/4</h1>
-                        <h3>(também chamado de Wahda Sunbati)</h3>
+                        <h3>(também chamado de <strong>Wahda Sunbati</strong>)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <div class="clearfix"></div>

@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>O Iqa‘ Ciftetelli 8/4</h1>
-                        <h3>(can also be played in 4/4)</h3>
+                        <h3>(também pode ser tocado em 4/4)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <div class="clearfix"></div>
