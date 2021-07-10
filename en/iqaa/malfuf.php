@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/malfuf.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Malfuf (also called <strong>Laff</strong>) is primarily used in folk and popular Arabic music. If feels short and cyclical, and often modulates to and from other 2/4 <em>iqa‘at</em> like <a href="karachi.php">Karachi</a> and <a href="fox.php">Fox</a>. Alternatively 2 consecutive measures of Malfuf could modulate to one measure of a 4/4 <em>iqa‘</em> like <a href="baladi.php">Baladi</a> ot <a href="maqsum.php">Maqsum</a>.</p>
+                    <p>Iqa‘ Malfuf (also called <strong>Laff</strong>) is primarily used in folk and popular Arabic music. If feels short and cyclical, and often modulates to and from other 2/4 <em>iqa‘at</em> like <a href="karachi.php">Karachi</a> and <a href="fox.php">Fox</a>. Alternatively 2 consecutive measures of Malfuf could modulate to one measure of a 4/4 <em>iqa‘</em> like <a href="baladi.php">Baladi</a> or <a href="maqsum.php">Maqsum</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
