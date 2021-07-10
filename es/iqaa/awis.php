@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <p>
-                        Iqa‘ ‘Awis se usa principalmente con el género <a href="../form/vocal_comp.php#muwashah">Muwashah</a>. Algunas piezas de ‘Awis comienzan desde el tercer tiempo (el primer <em>tak</em>), como por ejemplo "Muwashah Munyati Man Rumtu Qurbuhu". Mientras tanto, "Muwashah Hibbi Da‘ani Lil-Wisal" comienza la melodía en el undécimo ritmo (el último <em>tak</em>).
+                        Iqa‘ ‘Awis se usa principalmente con el género <a href="../form/vocal_comp.php#muwashah">Muwashah</a>. Algunas piezas de ‘Awis comienzan desde el tercer tiempo (el primer <em>tak</em>), como por ejemplo "Muwashah Munyati Man Rumtu Qurbuhu". Mientras tanto, "Muwashah Hibbi Da‘ani Lil-Wisal" comienza la melodía en el undécimo tempo (el último <em>tak</em>).
                     </p>
 
                     <div class="player-area">
