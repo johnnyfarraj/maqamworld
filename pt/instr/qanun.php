@@ -4,10 +4,10 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "The Qanun";
-$page_description = "The Qanun";
+$page_title = "O Qanoun";
+$page_description = "O Qanoun";
 $page_keywords = "arabic, music, istruments, arab world, middle east, oud, 'ud, qanun, nay, buzuq, arabic violin";
-$page_language = "pt"; -->
+$page_language = "pt";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -23,35 +23,35 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Instrument Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Instrumentos</a>
                     <?php include('../sidemenu-instr.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>The Qanun</h1>
+                        <h1>O Qanoun</h1>
                         <h3>A Plucked Zither</h3>
                     </div>
 
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Instrument Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Instrumentos</a>
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
-                        <img src="/instr/qanun.jpg" alt="The Qanun">
-                        <span>Syrian Qanun made by Bashir Bij. &copy; MaqamWorld</span>
+                        <img src="/instr/qanun.jpg" alt="O Qanoun">
+                        <span>Syrian Qanoun made by Bashir Bij. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qanun.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Qanun</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qanun.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Qanoun</a>
                     </div>
 
                     <!-- TODO The qanun’s origins are traced back to ancient Greece and Pythagoras or the Egyptian harp. It takes its name from the ancient Greek word ‘κανών’, which means “rule”. Also, it appears in Byzantium with the name “psaltirion”. 
                     -->
                     <p>
-                        The Qanun is a descendent of the old Egyptian harp. It has played an integral part in Arabic music since the 10<sup>th</sup> century. The word <em>qanun</em> means "law" in Arabic, and the word exists in English in the form of "canon". This name was probably given to the qanun because it's the instrument that lays down the law of pitch for other instruments and singers.
+                        O Qanoun is a descendent of the old Egyptian harp. It has played an integral part in Arabic music since the 10<sup>th</sup> century. The word <em>qanun</em> means "law" in Arabic, and the word exists in English in the form of "canon". This name was probably given to the qanun because it's the instrument that lays down the law of pitch for other instruments and singers.
                     </p>
                     <p>
-                        The body of the qanun consists of a trapezoid-shaped flat wooden board over which 81 strings are stretched in groups of three, with 24 treble strings consisting of three strings to each note. The instrument is placed flat on the knees of the musician or on a small table. Qanun strings are plucked with two plectra, one plectrum attached to the forefinger of each hand. A long bridge on the right-hand side of the instrument rests on goat (or fish) skin covered windows that carry the resonance to the box. On the left hand side, each course of strings passes over a series of small brass levers that are used to make microtonal changes in pitch.
+                        The body of the qanun consists of a trapezoid-shaped flat wooden board over which 81 strings are stretched in groups of three, with 24 treble strings consisting of three strings to each note. The instrument is placed flat on the knees of the musician or on a small table. Qanoun strings are plucked with two plectra, one plectrum attached to the forefinger of each hand. A long bridge on the right-hand side of the instrument rests on goat (or fish) skin covered windows that carry the resonance to the box. On the left hand side, each course of strings passes over a series of small brass levers that are used to make microtonal changes in pitch.
                     </p>
                     <p>
                         Since the qanun only includes 8 notes per octave, the player initially sets the levers to create the scale of the starting <a href="../maqam.php">maqam</a>. When the player needs to modulate to another <a href="../maqam.php">maqam</a>, they need to switch some levers back and forth with the left hand while playing with the right hand. Quick modulation can also be achieved by using the fingernail of the left thumb to temporarily raise the tuning of some strings.
@@ -64,8 +64,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/fZPY3or3D-Y/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                                <div class="info">
                                     <b>Muhammad Abdu Saleh</b>
                                     <span>Umm Kulthum's qanun player for decades, Muhammad Abdu Saleh (Egito) in a medley of her well-known  songs</span>
                                 </div>
@@ -80,10 +80,10 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/IUMC6-OHp1I/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                             <div class="info">
                                     <b>Muhammad ‘Abdu Saleh</b>
-                                    <span>Muhammad ‘Abdu Saleh (Egito) in a Taqsim on the Qanun in <a href="../maqam/saba.php">Maqam Saba</a></span>
+                                    <span>Muhammad ‘Abdu Saleh (Egito) in a Taqsim on the Qanoun in <a href="../maqam/saba.php">Maqam Saba</a></span>
                                 </div>
                             </label>
                         </div>
@@ -96,8 +96,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/QqLcPLu6PXc/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                                <div class="info">
                                     <b>Abdel Fattah Mansi</b>
                                     <span>Abdel Fattah Mansi (Egito) plays Umm Kuklthum's song <strong>Ana Fi-ntizarak</strong> (1943, music by Zakariyya Ahmad)</span>
                                 </div>
@@ -112,10 +112,10 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/DJnoomttU9Y/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                                <div class="info">
                                     <b>Abdel Halim Nuwayra</b>
-                                    <span>Abdel Halim Nuwayra (Egito), the music director of the Arabic Music Ensemble, plays a Taqsim on the Qanun in <a href="../maqam/bayati.php">Maqam Bayati</a></span>
+                                    <span>Abdel Halim Nuwayra (Egito), the music director of the Arabic Music Ensemble, plays a Taqsim on the Qanoun in <a href="../maqam/bayati.php">Maqam Bayati</a></span>
                                 </div>
                             </label>
                         </div>
@@ -128,21 +128,21 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/GS9v3r3WDro/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                                <div class="info">
                                     <b>Abraham Salman</b>
-                                    <span>Abraham Salman (Iraq) in a Taqsim on the Qanun in <a href="../maqam/rast.php">Maqam Rast</a> from his CD Saltanah (1998)</span>
+                                    <span>Abraham Salman (Iraq) in a Taqsim on the Qanoun in <a href="../maqam/rast.php">Maqam Rast</a> from his CD Saltanah (1998)</span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
-                    <p>Explore other traditional instruments:</p>
+                    <p>Explore outros instrumentos tradicionais:</p>
                     <ul>
-                        <li><a href="oud.php">The Oud</a></li>
-                        <li><a href="nay.php">The Nay</a></li>
-                        <li><a href="violin.php">The Arabic Violin</a></li>
-                        <li><a href="buzuq.php">The Buzuq</a></li>
+                        <li><a href="oud.php">O Oud</a></li>
+                        <li><a href="nay.php">O Nay</a></li>
+                        <li><a href="violin.php">O Violino Árabe</a></li>
+                        <li><a href="buzuq.php">O Buzuq</a></li>
                    </ul>
 
                 </div>

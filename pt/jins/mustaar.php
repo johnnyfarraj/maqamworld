@@ -158,7 +158,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Qanun in Maqam Sikah</b>
+                                    <b>Taqsim Qanoun in Maqam Sikah</b>
                                     <span>‘Imad Mulki</span>
                                     <span>Conjunto Al-Turath</span>
                                     <span><img src="/img/cd.png"> Gardens of Jasmin - Maqam Huzam</span>

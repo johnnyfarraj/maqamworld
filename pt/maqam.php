@@ -7,7 +7,7 @@ include('../inc/config.php');
 $page_title = "Arabic Maqam";
 $page_description = "Arabic Music Maqam Jins";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "pt"; -->
+$page_language = "pt";
 
 include($ROOT . 'inc/head.php');
 ?>

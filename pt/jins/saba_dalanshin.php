@@ -109,7 +109,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qanun Taqsim (from Layali Rast)</b>
+                                    <b>Qanoun Taqsim (from Layali Rast)</b>
                                     <span>‘Abbas al-Bleidi</span>
                                 </div>
                             </label>

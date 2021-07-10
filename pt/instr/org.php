@@ -4,10 +4,10 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "The Arabic Org";
-$page_description = "The Arabic Org";
+$page_title = "O Org Árabe";
+$page_description = "O Org Árabe";
 $page_keywords = "arabic, music, istruments, arab world, middle east, oud, 'ud, qanun, nay, buzuq, riqq, tabla, bendir, sagat, tabl baladi, violin, org, guitar, accordion, trumpet, saxophone";
-$page_language = "pt"; -->
+$page_language = "pt";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -23,17 +23,17 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Instrument Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Instrumentos</a>
                     <?php include('../sidemenu-instr.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>The Arabic Org</h1>
+                        <h1>O Org Árabe</h1>
                         <h3>1970s Electric Organ fitted with some quartertones</h3>
                     </div>
 
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Instrument Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Instrumentos</a>
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
@@ -51,8 +51,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/Ptd3R51Qj-s/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                             <div class="info">
                                     <b>Magdi el-Husseini</b>
                                     <span>Abdel Halim Hafez's song <strong>Qari'at al-Fingan</strong> (1976, music by Muhammad al-Mugi) featuring Egyptian electric organ players Magdi el-Husseini and Hani Mehanna (both part of The Diamond Orchestra).</span>
                                 </div>
@@ -67,8 +67,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/dgXdCUH8nxY/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                                <div class="info">
                                     <b>Magdi el-Husseini Interview</b>
                                     <span>Interview with Magdi el-Husseini about his experience meeting singer Abdel Halim Hafez and performing in his orchestra.</span>
                                 </div>
@@ -83,8 +83,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/G92v98oBCHA/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                                <div class="info">
                                     <b>Hani Mehanna Interview</b>
                                     <span>Interview with Hani Mehanna about his experience meeting composer Muhammad Abdel Wahab and singer Umm Kulthum and performing the song <strong>Leilet Hobb</strong> with her orchestra.</span>
                                 </div>
@@ -92,17 +92,17 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <p>Explore other Arabized instruments:</p>
+                    <p>Explore outros instrumentos arabizados:</p>
                     <ul>
-                       <li><a href="accordion.php">The Arabic Accordion</a></li>
-                       <li><a href="guitar.php">The Electric Guitar</a></li>
+                       <li><a href="accordion.php">O Acordeão Árabe</a></li>
+                       <li><a href="guitar.php">A Guitarra Elétrica</a></li>
                         <!--
                        <li><a href="org.php">The Electric Organ</a></li>
                         -->
-                       <li><a href="keyboard.php">The Oriental Keyboard</a></li>
-                       <li><a href="piano.php">The Arabic Piano</a></li>
-                       <li><a href="saxophone.php">The Saxophone</a></li>
-                       <li><a href="trumpet.php">The Trumpet</a></li>
+                       <li><a href="keyboard.php">O Teclado Oriental</a></li>
+                       <li><a href="piano.php">O Piano Árabe</a></li>
+                       <li><a href="saxophone.php">O Saxofone</a></li>
+                       <li><a href="trumpet.php">O Trompete</a></li>
                    </ul>
 
                 </div>

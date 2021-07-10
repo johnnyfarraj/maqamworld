@@ -177,7 +177,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Qanun in Maqam Hijaz</b>
+                                    <b>Taqsim Qanoun in Maqam Hijaz</b>
                                     <span>Sabri al-Mudallal Ensemble</span>
                                     <span><img src="/img/cd.png"> Songs from Aleppo</span>
                                 </div>

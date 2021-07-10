@@ -58,8 +58,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/eK6iCYSuaKI/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                             <div class="info">
                                     <b>Muwashah Mala al-Kasat</b>
                                     <span>Muhammad Khayri's recording of <strong>Muwashah Mala al-Kasat</strong> in <a href="../maqam/rast.php">Maqam Rast</a> (music by Muhammad ‘Uthman).</span>
                                 </div>
@@ -74,8 +74,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/FIbZbvU7UZ8/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                             <div class="info">
                                     <b>Muwashah Imla li al-Aqdaha</b>
                                 <span>Sabah Fakhri's recording of <strong>Muwashah Imla li al-Aqdaha</strong> in <a href="../maqam/bayati.php">Maqam Bayati</a>.</span>
                                 </div>
@@ -90,8 +90,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/asf278QZx4E/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                             <div class="info">
                                     <b>Hasan al-Haffar Wasla</b>
                                     <span>Hasan al-Haffar's recording of a Muwashahat Wasla in <a href="../maqam/nahawand.php">Maqam Nahawand</a>, all composed by Omar al-Batch.</span>
                                 </div>
@@ -115,8 +115,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/zX7gJKlDDyY/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                             <div class="info">
                                     <b>Muhammad Khayri - Qudud</b>
                                     <span>Following a <a href="improv.php#mawwal">Mawwal Baghdadi</a>, Muhammad Khayri sings Qudud <strong>Awwal ‘Ishrit Mahbubi</strong>, <strong>Zaman Zaman</strong> and <strong>Ah Ya Hilu</strong> in <a href="../maqam/bayati.php">Maqam Bayati</a>.</span>
                                 </div>
@@ -142,8 +142,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/UzVLpFNjsgs/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                             <div class="info">
                                     <b>Dawr Inta Fahim</b>
                                     <span>Su‘ad Muhammad (Lebanon) covers <strong>Dawr Inta Fahim</strong> in <a href="../maqam/huzam.php">Maqam Huzam</a> composed by Zakariyya Ahmad.</span>
                                 </div>
@@ -158,8 +158,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/iL71BmxC9Do/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                             <div class="info">
                                     <b>Dawr Ahibb Ashufak Kulli Youm (1931)</b>
                                     <span><strong>Dawr Ahibb Ashufak Kulli Youm</strong> (1931) in <a href="../maqam/nahawand.php">Maqam Nahawand</a> by Muhammad Abdel Wahab.</span>
                                 </div>
@@ -174,8 +174,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/IrfNZ3oN0Yg/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                             <div class="info">
                                     <b>Dawr Dayya‘ti Mustaqbal Hayati (1914)</b>
                                     <span>Sabah Fakhri's recording of <strong>Dawr Dayya‘ti Mustaqbal Hayati</strong> in <a href="../maqam/bayati_shuri.php">Maqam Bayati Shuri</a> (1914, music by Sayyed Darwish).</span>
                                 </div>
@@ -199,8 +199,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/uO8eElxaaUY/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                             <div class="info">
                                     <b>Hayrana Leh (1930)</b>
                                     <span>Leila Murad's <strong>Hayrana Leh</strong> in <a href="../maqam/rast.php">Maqam Rast</a> (1930, composed by Dawud Husni).</span>
                                 </div>
@@ -215,8 +215,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/_UxfjsIe6nI/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                             <div class="info">
                                     <b>Ya Dala‘ Dalla‘ (1974)</b>
                                     <span>Sabah's song <strong>Ya Dala‘ Dalla‘</strong> in <a href="../maqam/rast.php">Maqam Rast</a> (1974, music by Farid al-Atrash).</span>
                                 </div>
@@ -231,8 +231,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/TEAgQgA_mBA/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                             <div class="info">
                                     <b>Min Azzibak (c.1930s)</b>
                                     <span>Muhammad Abdel Wahab's song <strong>Min Azzibak</strong> in <a href="../maqam/rast.php">Maqam Rast</a>(c.1930s).</span>
                                 </div>
@@ -247,8 +247,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/a-7eto6cJq8/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                             <div class="info">
                                     <b>Waraqu il-Asfar</b>
                                     <span>Fairouz's song <strong>Waraqu il-Asfar</strong> in <a href="../maqam/rast.php">Maqam Rast</a>, composed by Philemon Wehbe.</span>
                                 </div>
@@ -272,8 +272,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/Ptd3R51Qj-s/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                             <div class="info">
                                     <b>Qari'at al-Fingan (1976)</b>
                                     <span>Abdel Halim Hafez's <strong>Qari'at al-Fingan</strong> (1976, composed by Muhammad al-Mugi).</span>
                                 </div>
@@ -297,8 +297,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/5z8LvG5tfOE/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                             <div class="info">
                                     <b>al-Atlal (1966)</b>
                                     <span>Umm Kulthum's Qasida <strong>al-Atlal</strong> (1966) composed by Riyad al-Sunbati.</span>
                                 </div>
@@ -319,8 +319,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/t-easvB208E/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                             <div class="info">
                                     <b>Ya Tuyur (1941)</b>
                                     <span>Asmahan's Monologue <strong>Ya Tuyur</strong> (1941) composed by Muhammad al-Qasabgi.</span>
                                 </div>
@@ -341,8 +341,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/is-xYmL9YVc/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                             <div class="info">
                                     <b>Ya Din-Na‘im</b>
                                     <span>Muhammad Abdel Wahab and Leila Murad's <strong>Ya Din-Na‘im</strong> composed by Muhammad Abdel Wahab, do filme <strong>Yahya al-Hubb</strong> (1938).</span>
                                 </div>
@@ -357,8 +357,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/amjqJ_MGg0A/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                             <div class="info">
                                     <b>Ya Salam ‘Ala Hubbi w Hubbak (1957)</b>
                                     <span>Farid al-Atrash and Shadia's <strong>Ya Salam ‘Ala Hubbi w Hubbak</strong> composed by Farid al-Atrash, do filme <strong>Inta Habibi</strong> (1957).</span>
                                 </div>
@@ -383,8 +383,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/D0DQxDwgDw8/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                             <div class="info">
                                     <b>Leh Ya Banafseg (1961)</b>
                                     <span>Saleh Abdel Hayy's <em>Wasla</em> in <a href="../maqam/rast.php">Maqam Rast</a> featuring a <a href="improv.php#taqsim">Taqsim</a> on the <a href="../instr/oud.php">oud</a>, part of <a href="ottoman.php#samai">Sama‘i</a> Rast by Tatyos Effendi, a <a href="../instr/violin.php">violin</a> Taqsim, <a href="improv.php#layali">Layali</a> accompanied by the <a href="../instr/qanun.php">qanun</a>, and finally the <a href="vocal_comp.php#taqtuqa">Taqtuqa</a> <strong>Leh Ya Banafseg</strong> (1961), composed by Riyad al-Sunbati.</span>
                                 </div>
@@ -399,8 +399,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/AdAuadp8tq4/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                             <div class="info">
                                     <b>Dawr ‘Ishna w Shufna</b>
                                     <span> A Wasla in <a href="../maqam/rast.php">Maqam Rast</a> by Egyptian singer ‘Abbas al-Bleidi including a <a href="improv.php#taqsim">Taqsim</a> on the <a href="../instr/oud.php">oud</a> by George Michel, part of <a href="ottoman.php#samai">Sama‘i</a> Rast by Tatyos Effendi, a <a href="../instr/violin.php">Violin</a> Taqsim by Muhammad al-‘Aqqad, Muwashah Atani Zamani, a <a href="../instr/qanun.php">qanun</a> Taqsim by Fihmi ‘Awad, then Layali, then finally <strong>Dawr ‘Ishna w Shufna</strong> (composed by Muhammad ‘Uthman).</span>
                                 </div>

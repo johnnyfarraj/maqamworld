@@ -4,10 +4,10 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "The Nay";
-$page_description = "The Nay";
+$page_title = "O Nay";
+$page_description = "O Nay";
 $page_keywords = "arabic, music, istruments, arab world, middle east, oud, 'ud, qanun, nay, buzuq, arabic violin";
-$page_language = "pt"; -->
+$page_language = "pt";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -23,21 +23,21 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Instrument Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Instrumentos</a>
                     <?php include('../sidemenu-instr.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>The Nay</h1>
+                        <h1>O Nay</h1>
                         <h3>An end-blown Flute</h3>
                     </div>
 
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Instrument Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Instrumentos</a>
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
-                        <img src="/instr/nay.jpg" alt="The Nay">
+                        <img src="/instr/nay.jpg" alt="O Nay">
                         <span>A set of 7 Lebanese nayat made by Atif Wehbi. &copy; MaqamWorld</span>
                     </div>
 
@@ -46,7 +46,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <p>
-                    The Nay (Farsi for "reed") is an open-ended, obliquely end blown flute made of cane. They nay was known in the Near East since antiquity. It is nine-jointed, and usually has 6 holes in the front for the fingers to play and 1 hole underneath for the thumb. It is played with the pads of the fingers. Nays come in different lengths, each one being tuned to a specific pitch and named after the note produced with the 1st fingerhole open (D4 for the most commonly used nay; Lowest note: C4).
+                    O Nay (Farsi for "reed") is an open-ended, obliquely end blown flute made of cane. They nay was known in the Near East since antiquity. It is nine-jointed, and usually has 6 holes in the front for the fingers to play and 1 hole underneath for the thumb. It is played with the pads of the fingers. Nays come in different lengths, each one being tuned to a specific pitch and named after the note produced with the 1st fingerhole open (D4 for the most commonly used nay; Lowest note: C4).
                     </p>
                     <p>Although very simple, the nay is one of the most difficult Arabic instruments to play. A fine player can produce a large variety of liquid sounds and ornaments; it is an extremely soulful instrument. Its poetical timbre makes it especially suitable for melancholy effects expressing both joy and yearning. It is the only wind instrument used in Arab art music, widely appreciated for its warm, breathy sound and its subtle tonal and dynamic inflections.
                     </p>
@@ -58,8 +58,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/JhOs_1SodTA/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                             <div class="info">
                                     <b>Sayyed Salem</b>
                                     <span>Sayyed Salem (Egito), a longtime member of the Umm Kulthum Orchestra (Egito) in a Nay solo during her song <strong>Ba‘id ‘Annak</strong> (1965, music by Baligh Hamdi)</span>
                                 </div>
@@ -74,8 +74,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/D2oBZADKIS4/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                                <div class="info">
                                     <b>Mahmud ‘Effat</b>
                                     <span>Veteran nay player and teacher, Mahmud ‘Effat (Egito), a longtime member of the Diamond Orchestra in a Taqsim on the Nay in <a href="../maqam/saba.php">Maqam Saba</a></span>
                                 </div>
@@ -90,8 +90,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/5OflJML1yF8/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                                <div class="info">
                                     <b>Reda Bdeir</b>
                                     <span>Reda Bdeir (Egito) playing the song Kulli Da Kan Leh (1954, music by Muhammad Abdel Wahab)</span>
                                 </div>
@@ -106,8 +106,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/CozVcLFpOeM/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                                <div class="info">
                                     <b>Michael Ibrahim</b>
                                     <span> Michael Ibrahim (Syria), director of the National Arab Orchestra (USA) in a Taqsim on the Nay in <a href="../maqam/saba.php">Maqam Saba</a> during a live performance by the NAO</span>
                                 </div>
@@ -115,12 +115,12 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <p>Explore other traditional instruments:</p>
+                    <p>Explore outros instrumentos tradicionais:</p>
                     <ul>
-                        <li><a href="oud.php">The Oud</a></li>
-                        <li><a href="qanun.php">The Qanun</a></li>
-                        <li><a href="violin.php">The Arabic Violin</a></li>
-                        <li><a href="buzuq.php">The Buzuq</a></li>
+                        <li><a href="oud.php">O Oud</a></li>
+                        <li><a href="qanun.php">O Qanoun</a></li>
+                        <li><a href="violin.php">O Violino Árabe</a></li>
+                        <li><a href="buzuq.php">O Buzuq</a></li>
                    </ul>
 
                 </div>

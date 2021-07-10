@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "The Arabic Saxophone";
 $page_description = "The Arabic Saxophone";
 $page_keywords = "arabic, music, istruments, arab world, middle east, oud, 'ud, qanun, nay, buzuq, riqq, tabla, bendir, sagat, tabl baladi, violin";
-$page_language = "pt"; -->
+$page_language = "pt";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Instrument Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Instrumentos</a>
                     <?php include('../sidemenu-instr.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -33,15 +33,15 @@ include($ROOT . 'inc/head.php');
                         <h3>A Saxophone used to play Arabic <a href="../maqam.php">Maqam</a> scales</h3>
                     </div>
 
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Instrument Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Instrumentos</a>
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
-                        <img src="/instr/saxophone.jpg" alt="The Saxophone">
+                        <img src="/instr/saxophone.jpg" alt="O Saxofone">
                         <span>Arabic Saxophone pioneer Samir Surour (Egito)</span>
                     </div>
 
-                    <p> The Saxophone is a rare instrument in Arabic music, despite the fact that it can produce good <a href="../maqam.php">maqam</a> scale intonation. It never went mainstream the way the <a href="accordion.php">Arabic Accordion</a> did and was mostly used to add an innovative sound to Arabic orchestral arrangements.
+                    <p> O Saxofone is a rare instrument in Arabic music, despite the fact that it can produce good <a href="../maqam.php">maqam</a> scale intonation. It never went mainstream the way the <a href="accordion.php">Arabic Accordion</a> did and was mostly used to add an innovative sound to Arabic orchestral arrangements.
                     </p>
                     <p> The principal pioneer of the Arabic saxophone is Samir Surour (Egito) whose background was in military brass band music. Surour played on quite a few Umm Kulthum songs then went to record a series of solo instrumental albums under the name <em>‘Ashiq el-Sax</em> (The Sax Lover).
                     </p>
@@ -53,10 +53,10 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/n_2qIVjgboM/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
-                                <b>Hawil Tiftikirni (1973)</b>
-                                <span>Abdel Halim Hafez's song <strong>Hawil Tiftikirni</strong> (1973, music by Baligh Hamdi) opens with the Arabic Org, the Electric Guitar, then a Saxophone solo by Samir Surour.</span>
+                                </div>
+                                <div class="info">
+                                    <b>Hawil Tiftikirni (1973)</b>
+                                    <span>Abdel Halim Hafez's song <strong>Hawil Tiftikirni</strong> (1973, music by Baligh Hamdi) opens with the Arabic Org, the Electric Guitar, then a Saxophone solo by Samir Surour.</span>
                                 </div>
                             </label>
                         </div>
@@ -69,26 +69,26 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/tNskrvpodqA/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                                <div class="info">
                                     <b>Fat el-Ma‘ad (1967)</b>
-                                <span>Umm Kulthum's song <strong>Fat el-Ma‘ad</strong> (1967, music by Baligh Hamdi) includes in its arrangement Faruq Salama on the Arabic Accordion, Abdel Fattah Khayri on the Electric Guitar and Samir Surour on the Saxophone.</span>
+                                    <span>Umm Kulthum's song <strong>Fat el-Ma‘ad</strong> (1967, music by Baligh Hamdi) includes in its arrangement Faruq Salama on the Arabic Accordion, Abdel Fattah Khayri on the Electric Guitar and Samir Surour on the Saxophone.</span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
-                    <p>Explore other Arabized instruments:</p>
+                    <p>Explore outros instrumentos arabizados:</p>
                     <ul>
-                       <li><a href="accordion.php">The Arabic Accordion</a></li>
-                       <li><a href="guitar.php">The Electric Guitar</a></li>
-                       <li><a href="org.php">The Arabic Org</a></li>
-                       <li><a href="keyboard.php">The Oriental Keyboard</a></li>
-                       <li><a href="piano.php">The Arabic Piano</a></li>
+                       <li><a href="accordion.php">O Acordeão Árabe</a></li>
+                       <li><a href="guitar.php">A Guitarra Elétrica</a></li>
+                       <li><a href="org.php">O Org Árabe</a></li>
+                       <li><a href="keyboard.php">O Teclado Oriental</a></li>
+                       <li><a href="piano.php">O Piano Árabe</a></li>
                         <!--
-                       <li><a href="saxophone.php">The Saxophone</a></li>
+                       <li><a href="saxophone.php">O Saxofone</a></li>
                         -->
-                       <li><a href="trumpet.php">The Trumpet</a></li>
+                       <li><a href="trumpet.php">O Trompete</a></li>
                    </ul>
 
                 </div>

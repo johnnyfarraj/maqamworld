@@ -4,10 +4,10 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "The Arabic Piano";
-$page_description = "The Arabic Piano";
+$page_title = "O Piano Árabe";
+$page_description = "O Piano Árabe";
 $page_keywords = "arabic, music, istruments, arab world, middle east, oud, 'ud, qanun, nay, buzuq, riqq, tabla, bendir, sagat, tabl baladi, violin";
-$page_language = "pt"; -->
+$page_language = "pt";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -23,21 +23,21 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Instrument Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Instrumentos</a>
                     <?php include('../sidemenu-instr.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>The Arabic Piano</h1>
+                        <h1>O Piano Árabe</h1>
                         <h3>A piano that plays <a href="../maqam.php">Maqamat</a> without harmony</h3>
                     </div>
 
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Instrument Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Instrumentos</a>
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
-                        <img src="/instr/piano.jpg" alt="The Arabic Piano">
+                        <img src="/instr/piano.jpg" alt="O Piano Árabe">
                         <span>Lebanese pianist Ziad Rahbani, from a concert poster in the 1980s</span>
                     </div>
 
@@ -55,8 +55,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/3v9u-h4Vr5A/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                                <div class="info">
                                     <b>Abdallah Chahine</b>
                                 <span>Lebanese pianist Abdallah Chahine playing a Piano Taqsim in <a href="../maqam/saba.php">Maqam Saba</a> followed by the song <strong>Batit ‘Uyuni</strong> from his album "Angham Min al-Sharq".</span>
                                 </div>
@@ -71,8 +71,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/rbzYUIPPk90/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                                <div class="info">
                                     <b>Ziad Rahbani</b>
                                     <span>Lebanese pianist Ziad Rahbani plays Arabic piano on his song <strong>Shu Hal-Iyyam</strong> from his CD <strong>Ana Mush Kafer</strong>, 1985.</span>
                                 </div>
@@ -87,26 +87,27 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/BGsD1eZ-PVQ/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
-                                <b>W'Qamh</b>
-                                <span>Ziad Rahbani's instrumental composition <strong>W'Qamh</strong> in <a href="../maqam/hijaz.php">Maqam Hijaz</a> uses the Arabic piano in a Jazz fusion arrangement. From Fairouz's CD <strong>Mish Kayin Hayk Tkun</strong>, 1987.</span>
+                                </div>
+                                <div class="info">
+                                    <b>W'Qamh</b>
+                                    <span>Ziad Rahbani's instrumental composition <strong>W'Qamh</strong> in <a href="../maqam/hijaz.php">Maqam Hijaz</a> uses the Arabic piano in a Jazz fusion arrangement. From Fairouz's CD <strong>Mish Kayin Hayk Tkun</strong>, 1987.
+                                    </span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
-                    <p>Explore other Arabized instruments:</p>
+                    <p>Explore outros instrumentos arabizados:</p>
                     <ul>
-                       <li><a href="accordion.php">The Arabic Accordion</a></li>
-                       <li><a href="guitar.php">The Electric Guitar</a></li>
-                       <li><a href="org.php">The Arabic Org</a></li>
-                       <li><a href="keyboard.php">The Oriental Keyboard</a></li>
+                       <li><a href="accordion.php">O Acordeão Árabe</a></li>
+                       <li><a href="guitar.php">A Guitarra Elétrica</a></li>
+                       <li><a href="org.php">O Org Árabe</a></li>
+                       <li><a href="keyboard.php">O Teclado Oriental</a></li>
                         <!--
-                       <li><a href="piano.php">The Arabic Piano</a></li>
+                       <li><a href="piano.php">O Piano Árabe</a></li>
                         -->
-                       <li><a href="saxophone.php">The Saxophone</a></li>
-                       <li><a href="trumpet.php">The Trumpet</a></li>
+                       <li><a href="saxophone.php">O Saxofone</a></li>
+                       <li><a href="trumpet.php">O Trompete</a></li>
                    </ul>
 
                 </div>

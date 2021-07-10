@@ -4,10 +4,10 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "The Sagat";
-$page_description = "The Sagat";
+$page_title = "As Sagat";
+$page_description = "As Sagat";
 $page_keywords = "arabic, music, istruments, arab world, middle east, oud, 'ud, qanun, nay, buzuq, riqq, tabla, bendir, sagat, tabl baladi, violin";
-$page_language = "pt"; -->
+$page_language = "pt";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -23,17 +23,17 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Instrument Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Instrumentos</a>
                     <?php include('../sidemenu-instr.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>The Sagat</h1>
+                        <h1>As Sagat</h1>
                         <h3>Brass Finger Cymbals</h3>
                     </div>
                     
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Instrument Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Instrumentos</a>
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
@@ -60,8 +60,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/UpG__9CAiVE/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                                <div class="info">
                                     <b>Karim Nagi</b>
                                     <span>Percussionist Karim Nagi (Egypt/USA) plays a Sagat solo</span>
                                 </div>
@@ -69,16 +69,16 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <p>Explore other percussion instruments:</p>
+                    <p>Explore outros instrumentos de percussão:</p>
                     <ul>
-                        <li><a href="riqq.php">The Riqq</a></li>
-                        <li><a href="tabla.php">The Tabla</a></li>
-                        <li><a href="tabl_baladi.php">The Tabl Baladi</a></li>
-                        <li><a href="daff.php">The Daff</a></li>
-                        <li><a href="mazhar.php">The Mazhar</a></li>
-                        <li><a href="katim.php">The Katim</a></li>
+                        <li><a href="riqq.php">O Riqq</a></li>
+                        <li><a href="tabla.php">A Tabla</a></li>
+                        <li><a href="tabl_baladi.php">O Tambor de Aldeia</a></li>
+                        <li><a href="daff.php">O Daff</a></li>
+                        <li><a href="mazhar.php">O Mazhar</a></li>
+                        <li><a href="katim.php">O Katem</a></li>
                         <!--
-                        <li><a href="sagat.php">The Sagat</a></li>
+                        <li><a href="sagat.php">As Sagat</a></li>
                         -->
                    </ul>
 

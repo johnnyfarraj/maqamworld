@@ -162,7 +162,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Ya Rayt Minnun (Qanun Taqsim)</b>
+                                    <b>Ya Rayt Minnun (Qanoun Taqsim)</b>
                                     <span>Fairouz</span>
                                     <span>Música de Philemon Wehbe</span>
                                 </div>

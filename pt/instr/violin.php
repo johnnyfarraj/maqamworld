@@ -4,10 +4,10 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "The Arabic Violin";
-$page_description = "The Arabic Violin";
+$page_title = "O Violino Árabe";
+$page_description = "O Violino Árabe";
 $page_keywords = "arabic, music, istruments, arab world, middle east, oud, 'ud, qanun, nay, buzuq, arabic violin";
-$page_language = "pt"; -->
+$page_language = "pt";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -23,17 +23,17 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Instrument Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Instrumentos</a>
                     <?php include('../sidemenu-instr.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>The Arabic Violin</h1>
+                        <h1>O Violino Árabe</h1>
                         <h3><em>Kamanja</em> or <em>Kaman</em> in Arabic</h3>
                     </div>
 
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Instrument Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Instrumentos</a>
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
@@ -59,8 +59,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/_ZWvLygSqkY/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                                <div class="info">
                                     <b>Sami al-Shawwa</b>
                                     <span>One of the early 20<sup>th</sup> century Arabic violin pioneers, Syrian violinist Sami al-Shawwa (also known as the Prince of Violin) playing a Violin Taqsim in <a href="../maqam/hijazkar.php">Maqam Hijazkar</a></span>
                                 </div>
@@ -75,8 +75,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/bmtF02i7Oh8/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                                <div class="info">
                                     <b>Ahmad al-Hifnawi</b>
                                     <span>Egyptian violinist Ahmad al-Hifnawi (who played first violin in the Umm Kulthum orchestra) playing the traditional instrumental composition <strong>Tahmila Rast (Suznak)</strong>, which includes a lot of improvisations. The ensemble also features George Michel on Oud, Mahmud ‘Effat on Nay and Hassan Anwar on Riqq</span>
                                 </div>
@@ -91,8 +91,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/-Atnx8aRrIg/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                                <div class="info">
                                     <b>Abbud Abdel ‘Al</b>
                                     <span>Palestinian-Lebanese violinist Abbud Abdel ‘Al playing a Violin Taqsim in <a href="../maqam/bayati.php">Maqam Bayati</a> over <a href="../iqaa/samai.php">Iqa‘ Sama‘i Thaqil</a> (recorded on Lebanese Television)</span>
                                 </div>
@@ -107,8 +107,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/IQkQoZcC0jk/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                                <div class="info">
                                     <b>‘Abdu Daghir</b>
                                     <span>Egyptian violinist ‘Abdu Daghir and his ensemble playing his instrumental composition Sama‘i <a href="../maqam/kurd.php">Maqam Kurd</a>, including violin and qanun solos</span>
                                 </div>
@@ -123,8 +123,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/2jVRlAbqscg/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                                <div class="info">
                                     <b>Simon Shaheen</b>
                                     <span>Palestinian violinist Simon Shaheen playing a Violin Taqsim in <a href="../maqam/rast.php">Maqam Rast</a> over  <a href="../iqaa/rumba.php">Iqa‘ Rumba</a>, ending with the second half of Riyad al-Sunbati's instrumental composition Longa <a href="../maqam/nahawand.php">Farahfaza</a></span>
                                 </div>
@@ -132,12 +132,12 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <p>Explore other traditional instruments:</p>
+                    <p>Explore outros instrumentos tradicionais:</p>
                     <ul>
-                        <li><a href="oud.php">The Oud</a></li>
-                        <li><a href="nay.php">The Nay</a></li>
-                        <li><a href="qanun.php">The Qanun</a></li>
-                        <li><a href="buzuq.php">The Buzuq</a></li>
+                        <li><a href="oud.php">O Oud</a></li>
+                        <li><a href="nay.php">O Nay</a></li>
+                        <li><a href="qanun.php">O Qanoun</a></li>
+                        <li><a href="buzuq.php">O Buzuq</a></li>
                    </ul>
 
                 </div>

@@ -7,7 +7,7 @@ include('../inc/config.php');
 $page_title = "Iqa‘at Árabes";
 $page_description = "Os Ciclos Rítmicos Árabes Iqa‘ Iqa";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "pt"; -->
+$page_language = "pt";
 
 include($ROOT . 'inc/head.php');
 ?>

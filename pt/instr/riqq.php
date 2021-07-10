@@ -4,10 +4,10 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "The Riqq";
-$page_description = "The Riqq";
+$page_title = "O Riqq";
+$page_description = "O Riqq";
 $page_keywords = "arabic, music, istruments, arab world, middle east, oud, 'ud, qanun, nay, buzuq, riqq, tabla, bendir, sagat, tabl baladi, violin";
-$page_language = "pt"; -->
+$page_language = "pt";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -23,21 +23,21 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Instrument Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Instrumentos</a>
                     <?php include('../sidemenu-instr.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>The Riqq</h1>
+                        <h1>O Riqq</h1>
                         <h3>A Small Hand-Held Frame Drum with Cymbals</h3>
                     </div>
 
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Instrument Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Instrumentos</a>
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
-                        <img src="/instr/riqq.jpg" alt="The Riqq">
+                        <img src="/instr/riqq.jpg" alt="O Riqq">
                         <span>Two traditional fish-skin riqq-s. &copy; MaqamWorld</span>
                     </div>
 
@@ -46,7 +46,7 @@ include($ROOT . 'inc/head.php');
                     </div>
                     
                     <p>
-                        The Riqq is a small hand-held frame drum with cymbals. The frame is usually made of wood (a few aluminum models exist), and is 9 to 10 inches in diameter. It is traditionally fitted with fish skin, although modern <em>riqq</em>-s use plastic (Mylar) instead. The cymbals give the <em>riqq</em> its distinctive sound. They are made of brass (around 0.8mm to 0.9mm thick) and come in 5 (sometimes 6) groups of four. </p>
+                        O Riqq is a small hand-held frame drum with cymbals. The frame is usually made of wood (a few aluminum models exist), and is 9 to 10 inches in diameter. It is traditionally fitted with fish skin, although modern <em>riqq</em>-s use plastic (Mylar) instead. The cymbals give the <em>riqq</em> its distinctive sound. They are made of brass (around 0.8mm to 0.9mm thick) and come in 5 (sometimes 6) groups of four. </p>
                     <p>
                         The <em>riqq</em> can be used to play very complex <a href="../iqaa.php">rhythmic cycles</a> and ornamentations using intricate fingering technique, and can produce a wide variety of sounds by utilizing the skin, the wood frame and the cymbals.</p>
                     <p>
@@ -59,10 +59,10 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/Ptd3R51Qj-s/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                                <div class="info">
                                     <b>Hassan Anwar</b>
-                                <span>Riqq player Hassan Anwar (the official <em>dabet al-iqa‘</em> for the Diamond Orchestra in Egypt) exchanges solos with the org player in Abdel Halim Hafez's song <strong>Qari'at al-Fingan</strong> (1976, music by Muhammad al-Mugi).</span>
+                                    <span>Riqq player Hassan Anwar (the official <em>dabet al-iqa‘</em> for the Diamond Orchestra in Egypt) exchanges solos with the org player in Abdel Halim Hafez's song <strong>Qari'at al-Fingan</strong> (1976, music by Muhammad al-Mugi).</span>
                                 </div>
                             </label>
                         </div>
@@ -75,8 +75,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/BdNS93A3Itg/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                                <div class="info">
                                     <b>Muhammad al-‘Arabi</b>
                                     <span>Egyptian riqq player Muhammad al-‘Arabi performs a Riqq Solo (on a riqq with a plastic head) where he explores many iqa‘at.</span>
                                 </div>
@@ -91,8 +91,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/on7vkhzPXPM/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                                <div class="info">
                                     <b>Adel Shams el-Din</b>
                                     <span>Egyptian percussionist Adel Shams el-Din performs a Riqq Solo on a fishskin riqq, where he explores many iqa‘at (recorded in 2005 at the Institut du Monde Arabe, Paris).</span>
                                 </div>
@@ -107,8 +107,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/ga3CAHh2JmM/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                                <div class="info">
                                     <b>Mustafa Bayyumi</b>
                                     <span>Egyptian percussionist Mustafa Bayyumi performs a Riqq Solo (on a riqq with a plastic head) where he explores many iqa‘at.</span>
                                 </div>
@@ -116,17 +116,17 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
                     
-                    <p>Explore other percussion instruments:</p>
+                    <p>Explore outros instrumentos de percussão:</p>
                     <ul>
                         <!-- 
-                        <li><a href="riqq.php">The Riqq</a></li>
+                        <li><a href="riqq.php">O Riqq</a></li>
                         -->
-                        <li><a href="tabla.php">The Tabla</a></li>
-                        <li><a href="tabl_baladi.php">The Tabl Baladi</a></li>
-                        <li><a href="daff.php">The Daff</a></li>
-                        <li><a href="mazhar.php">The Mazhar</a></li>
-                        <li><a href="katim.php">The Katim</a></li>
-                        <li><a href="sagat.php">The Sagat</a></li>                  
+                        <li><a href="tabla.php">A Tabla</a></li>
+                        <li><a href="tabl_baladi.php">O Tambor de Aldeia</a></li>
+                        <li><a href="daff.php">O Daff</a></li>
+                        <li><a href="mazhar.php">O Mazhar</a></li>
+                        <li><a href="katim.php">O Katem</a></li>
+                        <li><a href="sagat.php">As Sagat</a></li>                  
                    </ul>
 
                 </div>

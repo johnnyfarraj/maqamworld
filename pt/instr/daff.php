@@ -4,10 +4,10 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "The Daff";
-$page_description = "The Daff";
+$page_title = "O Daff";
+$page_description = "O Daff";
 $page_keywords = "arabic, music, istruments, arab world, middle east, oud, 'ud, qanun, nay, buzuq, riqq, tabla, bendir, sagat, tabl baladi, violin";
-$page_language = "pt"; -->
+$page_language = "pt";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -23,22 +23,22 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Instrument Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Instrumentos</a>
                     <?php include('../sidemenu-instr.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>The Daff</h1>
-                        <h3>The Generic Frame Drum</h3>
+                        <h1>O Daff</h1>
+                        <h3>O Tambor de Armação Genérico</h3>
                     </div>
 
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Instrument Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Instrumentos</a>
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
                         <img src="/instr/daff.jpg" alt="Daff">
-                        <span>Three daff-s with goat and deer skins. &copy; MaqamWorld</span>
+                        <span>Três daff-s com peles de cabra e veado. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
@@ -49,14 +49,13 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/bendir.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Bendir</a>
                     </div>
                     
-                    <p><em>Daff</em> is a generic word for a frame drum in Arabic, and local varieties may have different names like <em>Mazhar</em> in Syria/Egypt or <em>Bendir</em> in North Africa.
+                    <p>Daff é uma palavra genérica para tambor de armação (frame drum) em Árabe, e as variedades locais podem ter nomes diferentes, como <em>Mazhar</em> na Síria / Egito ou <em>Bendir</em> no Norte da África.
                     </p>
                     
-                    <p> The <em>daff</em> has a circular wooden frame ranging from 12 inches in diameter for smaller instruments to 24 inches and more on larger (and bassier) instruments. The frame can be about 4 inches deep for small diameters, and 2-3 inches deep for larger diameters. The skin is traditionally goat, deer or another natural skin, and is permanently glued to the frame, while modern <em>daff</em>-s have plastic skin, and are tunable.
+                    <p>O daff tem uma moldura circular de madeira que varia de 12 polegadas de diâmetro para instrumentos menores a 24 polegadas ou mais em instrumentos maiores (e mais graves). A estrutura pode ter cerca de 4 polegadas de profundidade para diâmetros pequenos e 2-3 polegadas de profundidade para diâmetros maiores. A pele é tradicionalmente de cabra, veado ou outra pele natural, e fica permanentemente colada à estrutura, enquanto os <em>daff</em>-s modernos têm pele de plástico e afinação ajustável.
                     </p>
                     
-                    <p>
-                    The daff is especially popular in Sufi music (where often it is the only instrument used to accompany singing), and is also use in classical, folk and pop genres to achieve a bigger rhythm section.
+                    <p>O daff é especialmente popular na música sufi (onde frequentemente é o único instrumento usado para acompanhar o canto), e também é usado nos gêneros clássico, folclórico e pop para obter uma seção rítmica maior.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=FFViUJriwXE&t=515s">
@@ -66,10 +65,11 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/FFViUJriwXE/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
-                                    <b>Hassan al-Haffar's Ensemble</b>
-                                    <span>The daff is used in Aleppan <em>munshid</em> (Islamic cantor) Hassan al-Haffar's ensemble in a concert recorded live in Paris.</span>
+                                </div>
+                                <div class="info">
+                                    <b>Conjunto de Hassan al-Haffar</b>
+                                    <span>O daff é utilizado no conjunto do <em>munshid</em> (cantor Islâmico) de Aleppo Hassan al-Haffar, em um concerto gravado ao vivo em Paris.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -82,26 +82,26 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/Ya_3rWXI1is/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                                <div class="info">
                                     <b>Duqqu el-Mazahir</b>
-                                    <span>Farid al-Atrash's wedding song <strong>Duqqu el-Mazahir</strong> ("Play the frame drums", 1952) features a number of frame drums used in a wedding celebration.</span>
+                                    <span><strong>Duqqu el-Mazahir</strong> ("Toquem os Tambores", 1952), canção nupcial de Farid al-Atrash, inclui tambores de armação usados em uma celebração de casamento.</span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
-                    <p>Explore other percussion instruments:</p>
+                    <p>Explore outros instrumentos de percussão:</p>
                     <ul>
-                        <li><a href="riqq.php">The Riqq</a></li>
-                        <li><a href="tabla.php">The Tabla</a></li>
-                        <li><a href="tabl_baladi.php">The Tabl Baladi</a></li>
+                        <li><a href="riqq.php">O Riqq</a></li>
+                        <li><a href="tabla.php">A Tabla</a></li>
+                        <li><a href="tabl_baladi.php">O Tambor de Aldeia</a></li>
                         <!-- 
-                        <li><a href="daff.php">The Daff</a></li>
+                        <li><a href="daff.php">O Daff</a></li>
                         -->
-                        <li><a href="mazhar.php">The Mazhar</a></li>
-                        <li><a href="katim.php">The Katim</a></li>
-                        <li><a href="sagat.php">The Sagat</a></li>                  
+                        <li><a href="mazhar.php">O Mazhar</a></li>
+                        <li><a href="katim.php">O Katem</a></li>
+                        <li><a href="sagat.php">As Sagat</a></li>                  
                    </ul>
 
                 </div>

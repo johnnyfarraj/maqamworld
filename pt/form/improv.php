@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Improvised Forms";
 $page_description = "Improvised Forms";
 $page_keywords = "arabic, music, arab, world, maqam, jins, improvised forms, rast, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, taqsim, layali, mawwal, qasida";
-$page_language = "pt"; -->
+$page_language = "pt";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -56,8 +56,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/wOlB3-EiweY/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                             <div class="info">
                                     <b>Dawr Kadni el-Hawa</b>
                                     <span>Marie Jubran's recording of <a href="vocal_comp.php#dawr">Dawr</a> <strong>Kadni el-Hawa</strong> (music by Muhammad ‘Uthman) starts with a <a href="../instr/qanun.php">qanun</a> taqsim followed by layali in <a href="../maqam/nahawand.php">Maqam Nahawand</a>.</span>
                                 </div>
@@ -72,8 +72,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/D0DQxDwgDw8/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                             <div class="info">
                                     <b>Taqtuqa Leh Ya Banafseg</b>
                                     <span>Saleh Abdel Hayy's recording of <strong>Taqtuqa Leh Ya Banafseg</strong> (music by Riyad al-Sunbati) is a long <a href="vocal_comp.php#wasla">Wasla</a> that starts with an <a href="../instr/oud.php">oud</a> <a href"#taqsim">Taqsim</a>, a <a href="ottoman.php/samai">Sama‘i</a>, a <a href="../instr/qanun.php">qanun</a> Taqsim, a recap of the Sama‘i's <em>taslim</em>, then a <em>Layali</em>, all in <a href="../maqam/rast.php">Maqam Rast</a>.</span>
                                 </div>
@@ -88,8 +88,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/TE7Y7bzgbns/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                             <div class="info">
                                     <b>Muhammad Khayri - Layali</b>
                                     <span>Aleppan singer Muhammad Khayri starts his <a href="vocal_comp.php#wasla">Wasla</a> in <a href="../maqam/rast.php">Maqam Rast</a> with a Layali before proceeding to an <a href="#qasida">improvised Qasida</a>, then some <a href="vocal_comp.php#qadd">Qudud</a>.</span>
                                 </div>
@@ -115,8 +115,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/zX7gJKlDDyY/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                             <div class="info">
                                     <b>Sadduk ‘Anni el-‘Ida</b>
                                     <span>Aleppan singer Muhammad Khayri starts his <a href="vocal_comp.php#wasla">Wasla</a> in <a href="../maqam/bayati.php">Maqam Bayati</a> with a <a href="ottoman.php/samai">Sama‘i</a>, followed by <strong>Mawwal Sadduk ‘Anni el-‘Ida</strong></span>
                                 </div>
@@ -131,8 +131,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/8MMxY_CIi_I/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                             <div class="info">
                                     <b>Ashki Li Min el-Hawa</b>
                                     <span><strong>Mawwal Ashki Li Min el-Hawa</strong> in <a href="../maqam/kurd.php">Maqam Kurd</a>, by Muhammad Abdel Wahab (1931).</span>
                                 </div>
@@ -147,8 +147,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/2iMNi2qeA7w/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                             <div class="info">
                                     <b>Min Youm Firgak</b>
                                     <span><strong>Mawwal Baghdadi Min Youm Firgak</strong> by Sabah Fakhri.</span>
                                 </div>
@@ -172,8 +172,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/GJPYRZwdbhw/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                             <div class="info">
                                     <b>Ya Man Yara Admu‘i</b>
                                     <span>Muhammad Khayri's Qasida <strong>Ya Man Yara Admu‘i</strong> in <a href="../maqam/rast.php">Maqam Rast</a>.</span>
                                 </div>
@@ -188,8 +188,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/U0OWUGYqjZo/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                             <div class="info">
                                     <b>Qul Lil-Maliha</b>
                                 <span>Sabah Fakhri's signature Qasida <strong>Qul Lil-Maliha</strong> in <a href="../maqam/huzam.php">Maqam Huzam</a>.</span>
                                 </div>
@@ -217,8 +217,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/-Atnx8aRrIg/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                             <div class="info">
                                     <b>‘Aboud Abdel ‘Al</b>
                                     <span><a href="../instr/violin.php">Violin</a> Taqsim in <a href="../maqam/bayati.php">Maqam Bayati</a> by Aboud Abdel ‘Al, preceded by <a href="../ottoman.php#samai">Sama‘i</a> Bayati Ibrahim al-‘Aryan</span>
                                 </div>
@@ -233,8 +233,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/7iB4JFYArFg/hqdefault.jpg">
                                     </div>
-                                </div><!--
-                             --><div class="info">
+                                </div>
+                             <div class="info">
                                     <b>‘Amer ‘Ammuri</b>
                                     <span>Taqsim Oud by ‘Amer ‘Ammuri (Syria) in <a href="../maqam/huzam.php">Maqam Huzam</a> during a concert by Sabah Fakhri.</span>
                                 </div>
