@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Iqa‘ Maqsum";
 $page_description = "Iqa‘ Maqsum";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, maqsum, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "pt"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "pt";
 
 include($ROOT . 'inc/head.php');
 ?>

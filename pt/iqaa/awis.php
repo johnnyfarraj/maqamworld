@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/awis.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ ‘Awis is mostly used with the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> genre. Some ‘Awis pieces start from the 3<sup>rd</sup> beat (the first <em>tak</em>), like for example "Muwashah Munyati Man Rumtu Qurbuhu". Meanwhile "Muwashah Hibbi Da‘ani Lil-Wisal" starts the melody on the 11<sup>th</sup> beat (the last <em>tak</em>).
+                    <p>O Iqa‘ ‘Awis é usado principalmente no gênero <a href="../form/vocal_comp.php#muwashah">Muwashah</a>. Algumas peças de ‘Awis começam pelo terceiro tempo (o primeiro <em>tak</em>), como é o caso de "Muwashah Munyati Man Rumtu Qurbuhu". Da mesma forma, o "Muwashah Hibbi Da‘ani Lil-Wisal" inicia a melodia pelo décimo primeiro tempo (o último <em>tak</em>).
                     </p>
 
                     <div class="player-area">
@@ -85,8 +85,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Munyati Sidu-l-Milah</b>
-                                    <span>(performed in 11/4)</span>
-                                    <span>The munshid Mahmud Fares</span>
+                                    <span>(tocado en 11/4)</span>
+                                    <span>O Munshid Mahmud Fares</span>
                                     <span>Música de Omar al-Batch</span>
                                 </div>
                             </label>
@@ -101,7 +101,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Muwashah Ukhfi el-Hawa (2019)</b>
                                     <span>Firqat al-Turath al-Musiqi al-Arabi (Lebanon)</span>
                                     <span>Música de Dr. Hayaf Yassine</span>
-                                    <span>Poem by 'Umar Ibn al-Fared</span>
+                                    <span>Poema de 'Umar Ibn al-Fared</span>
                                 </div>
                             </label>
                         </div>

@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Iqa‘ Katakufti";
 $page_description = "Iqa‘ Katakufti";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, katakufti, nawari, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "pt"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "pt";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -42,11 +42,10 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/katakufti.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Katakufti is a rare <em>iqa‘</em> used in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre.
+                    <p>O Iqa‘ Katakufti é um iqa‘ raro usado no gênero vocal <a href="../form/vocal_comp.php#muwashah">Muwashah</a>.
                     </p>
-                    <p>An alternate form of this <em>iqa‘</em> replaces the rest on the 5<sup>th</sup> beat with a <em>dum</em>, creating 2 consecutive <em>dum</em>-s (similarly to the second form of <a href="aqsaq.php">Iqa‘ Aqsaq</a>).
-                    </p>
-                    <p>The name <strong>Katakufti</strong> is sometimes used as an alternate name for <a href="nawari.php">Iqa‘ Nawari</a> because they sound alike when <strong>Iqa‘ Katakufti</strong> is played in 4/4 and started from the last beat (the last <em>tak</em>).</p>
+                    <p>Uma forma alternativa deste <em>iqa‘</em> substitui a pausa no quinto tempo com um <em>dum</em>, criando dois <em>dum</em>-s consecutivos (de forma similar à segunda forma do <a href="aqsaq.php">Iqa‘ Aqsaq</a>).</p>
+                    <p>O nome <strong>Katakufti</strong> é usado às vezes como um nome alternativo para o <a href="nawari.php">Iqa‘ Nawari</a>, porque eles soam de forma parecida quando o <strong>Iqa‘ Katakufti</strong> é tocado em 4/4, começando pelo último tempo (o último <em>tak</em>).</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -73,7 +72,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Ah Min Nari Jafahum</b>
-                                    <span>Ensemble Nour al-Charq</span>
+                                    <span>Conjunto Nour al-Sharq</span>
                                     <span>Música de Sheikh Ali al-Darwish</span>
                                 </div>
                             </label>

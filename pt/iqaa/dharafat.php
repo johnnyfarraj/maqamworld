@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>O Iqa‘ Dharafat 13/8</h1>
-                        <h3>(also spelled Zarafat)</h3>
+                        <h3>(também escrito como Zarafat)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <div class="clearfix"></div>
@@ -43,7 +43,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/dharafat.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Dharafat (also spelled Zarafat) is mostly used with the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre. Using this <em>iqa‘</em> outside <a href="../form/vocal_comp.php#muwashah">muwashahat</a> (e.g. in a popular song) has the effect of adding a classical color by evoking the former repertoire.</p>
+                    <p>O Iqa‘ Dharafat (também transliterado como <strong>Zarafat</strong>) é usado principalmente no gênero vocal <a href="../form/vocal_comp.php#muwashah">Muwashah</a>. O uso deste 'iqa' fora do muwashah (por exemplo, em canções populares) produz o efeito de agregar uma coloração clássica ao evocar o repertório desse gênero.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -57,7 +58,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Tif Ya Durri Bil Qanani</b>
-                                    <span>Al-Kindi Ensemble</span>
+                                    <span>Conjunto Al-Kindi</span>
                                     <span>Música de Omar al-Batch</span>
                                     <span><img src="/img/cd.png"> The Aleppian Music Room I - Maqam Hijazkar Kurd</span>
                                 </div>
@@ -71,7 +72,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Wal-ladhi Wallaka Qalbi</b>
-                                    <span>Ensemble Morkos</span>
+                                    <span>Conjunto Morkos (Líbano)</span>
                                 </div>
                             </label>
                         </div>

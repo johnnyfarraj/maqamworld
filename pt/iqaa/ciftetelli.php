@@ -43,11 +43,11 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/ciftetelli.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Ciftetelli (pronounced "shaftatalli" in Arabic) is a Turkish usul that became popular in Arabic music.
-                    It is rarely used for composed melodies; instead, its primary use is to support <a href="../form/improv.php">improvisations</a> (both vocal and instrumental).</p>
+                    <p>O Iqa‘ Ciftetelli (pronunciado "shaftatalli" em árabe) é um ritmo (usul) turco que se popularizou na música árabe. Ele é raramente usado em composições melódicas, mas sim principalmente usado para suportar <a href="../form/improv.php">improvisações</a> (tanto vocais quanto instrumentais).
+                    </p>
 
-                    <p>Ciftetelli is usually slow paced and stretched out over two 4/4 measures (see notation), and can share the same tempo and pace as <a href="masmudi_kabir.php">Masmudi Kabir</a>. Alternatively, it can be performed faster and lighter,
-                    in which case it can be notated in 4/4 and becomes very similar to <a href="wahda_w_nuss.php">Wahda w-Nuss</a> (plus or minus some ornamentation).</p>
+                    <p>O Ciftetelli é geralmente lento e se estende por dois compassos de 4/4 (ver notação), e pode ter o mesmo andamento que o <a href="masmudi_kabir.php">Masmudi Kabir</a>. Alternativamente, ele pode ser executado de forma mais rápida e leve e, neste caso, pode ser escrito em 4/4 e se torna muito parecido com o <a href="wahda_w_nuss.php">Wahda w-Nuss</a> (com mais ou menos ornamentações).
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -85,7 +85,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Layali Rast (from ‘Addini ya M‘addawi)</b>
+                                    <b>Layali Rast (da canção ‘Addini ya M‘addawi)</b>
                                     <span>‘Abbas al-Bleidi</span>
                                 </div>
                             </label>
@@ -158,7 +158,7 @@ include($ROOT . 'inc/head.php');
                     <!-- Need some kind of divider here -->
                     <br>
                     <div class="heading jins text-center">
-						<h3>Examples of the faster form of Iqa‘ Ciftetelli that can be notated in 4/4</h3>
+						<h3>Exemplos da forma mais rápida do Iqa‘ Ciftetelli, que pode ser escrita em 4/4</h3>
                     </div>
                     <div class="clearfix"></div>
 
@@ -204,7 +204,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Nay Bayati</b>
+                                    <b>Taqsim de Nay en Maqam Bayati</b>
                                     <span>Muhammad Khayri</span>
                                 </div>
                             </label>

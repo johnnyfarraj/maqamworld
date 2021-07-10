@@ -7,7 +7,7 @@ include('../inc/config.php');
 $page_title = "Arabic Musical Instruments";
 $page_description = "Arabic Musical Instruments";
 $page_keywords = "arabic, music, instruments, accordion, buzuq, daff, mazhar, electric guitar, katim, nay, keyboard, electric organ, oud, 'ud, piano, qanun, riqq, sagat, sajat, saxophone, tabla, tabl baladi, trumpet, violin, arab, world, maqam, jins, iqa‘, iqaa, rhythm, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "pt"; // en / ar <!-- YOU MUST PUT THIS -->
+$page_language = "pt"; -->
 
 include($ROOT . 'inc/head.php');
 ?>

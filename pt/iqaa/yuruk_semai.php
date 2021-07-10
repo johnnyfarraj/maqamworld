@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Iqa‘ Yuruk Semai";
 $page_description = "Iqa‘ Yuruk Semai";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, yuruk semai, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "pt"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "pt";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/yuruk_semai.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Yuruk Semai is originally a Turkish usul. It is very popular in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> genre, and is alternatively called <strong>Yugrug</strong>. When it accelerates, it may modulate to <a href="samai_darij.php">Iqa' Sama‘i Darij</a> in 3/4 or <a href="samai_saraband.php">Iqa' Sama‘i Saraband</a> in 3/8.
+                    <p>O Iqa‘ Yuruk Semai é originalmente um ritmo (usul) turco. Ele é muito popular no gênero <a href="../form/vocal_comp.php#muwashah">Muwashah</a>, e alternativamente também é chamado de <strong>Yugrug</strong>. Quando acelerado, ele pode ser modulado com o <a href="samai_darij.php">Iqa‘ Sama‘i Darij</a> em 3/4 e com o <a href="samai_saraband.php">Iqa‘ Sama‘i Saraband</a> em 3/8.
                     </p>
                     
                     <div class="player-area">
@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Ahwa al-Ghazal al-Rabrabi</b>
-                                    <span>Al-Kindi Ensemble</span>
+                                    <span>Conjunto Al-Kindi</span>
                                 </div>
                             </label>
                         </div>
@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Bil-Ladhi Askara</b>
-                                    <span>Louis Hage and Aida Chalhoub</span>
+                                    <span>Louis Hage e Aida Chalhoub</span>
                                 </div>
                             </label>
                         </div>
@@ -93,7 +93,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Ila Kam Dha al-Tamadi</b>
-                                    <span>Ensemble Morkos</span>
+                                    <span>Conjunto Morkos (Líbano)</span>
                                     <span><img src="/img/cd.png"> Cèdre</span>
                                 </div>
                             </label>

@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Iqa‘ Jurjina";
 $page_description = "Iqa‘ Jurjina";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, jurjina, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "pt"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "pt";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/jurjina.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Jurjina is a widely used <em>iqa‘</em> in Iraq and Iran, as well as in the Turkish and the Kurdish repertoires, both in the folk and classical genres. While it is infrequently used in the Near Eastern repertoire, it is sometimes used in Tunisian Malouf compositions.               
+                    <p>O Iqa‘ Jurjina é um <em>iqa‘</em> utilizado vastamente no Iraque e no Irã, assim como nos repertórios turco e curdo, tanto nos gêneros folclóricos como nos clássicos. Apesar de ele não ser usado frequentemente no repertório do Oriente Próximo, ele é usado às vezes em composições tunisianas de Malouf.              
                     </p>
                     
                     <div class="player-area">
@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Adir Rahati</b>
-                                    <span>Tunisian Malouf</span>
+                                    <span>Malouf Tunisiano</span>
                                 </div>
                             </label>
                         </div>
@@ -94,7 +94,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Ma Kuntu Adri</b>
-                                    <span>Tunisian Malouf</span>
+                                    <span>Malouf Tunisiano</span>
                                 </div>
                             </label>
                         </div>

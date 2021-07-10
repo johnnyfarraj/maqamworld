@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Iqa‘ Nawakht";
 $page_description = "Iqa‘ Nawakht";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, nawakht, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "pt"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "pt";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/nawakht.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Nawakht is a very popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> repertoire, and tends to be played at mellow speed.</p>
+                    <p>O Iqa‘ Nawakht é um <em>iqa‘</em> muito popular no repertório <a href="../form/vocal_comp.php#muwashah">Muwashah</a>, e tende a ser executado em andamentos moderados.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -117,7 +117,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Jalla Man Qad Sagha Badran</b>
-                                    <span>Ensemble Morkos</span>
+                                    <span>Conjunto Morkos (Líbano)</span>
                                 </div>
                             </label>
                         </div>

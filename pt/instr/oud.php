@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "The Oud";
 $page_description = "The Oud";
 $page_keywords = "arabic, music, istruments, arab world, middle east, oud, 'ud, qanun, nay, buzuq, arabic violin";
-$page_language = "pt"; // en / ar <!-- YOU MUST PUT THIS -->
+$page_language = "pt"; -->
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -45,7 +45,7 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/oud.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Oud</a>
                     </div>
 
-                    <p>The Oud (also spelled ‘Ud) is one of the most popular instruments in Arabic music. Its name means "a thin strip of wood" in Arabic, and this refers to the strips of wood used in making its pear-shaped body. The neck of the oud is short in comparison to its body and has no frets. This allows the oud to achieve excellent intonation and makes it ideal for performing the Arabic <a href="../maqam.php">maqamat</a>.
+                    <p>The Oud (também escrito como ‘Ud) is one of the most popular instruments in Arabic music. Its name means "a thin strip of wood" in Arabic, and this refers to the strips of wood used in making its pear-shaped body. The neck of the oud is short in comparison to its body and has no frets. This allows the oud to achieve excellent intonation and makes it ideal for performing the Arabic <a href="../maqam.php">maqamat</a>.
                     </p>
                     <p>The oud usually has 5 pairs of strings tuned in unison and a single bass string, although some ouds have one extra pair. The most common tuning (low to high) is C, F, A, D, G, C, which makes all intervals (except F to A) perfect fourths. Strings were historically made of animal gut, and were plucked with a plectrum known as <em>risha</em> (Arabic for feather). Modern strings are made of steel wound over nylon, and modern <em>risha</em>-s are made of plastic, tortoise shell, animal horn or even bamboo.
                     </p>

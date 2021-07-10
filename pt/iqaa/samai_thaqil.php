@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Iqa‘ Sama‘i Thaqil";
 $page_description = "Iqa‘ Sama‘i Thaqil";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, sama‘i, samai thaqil, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "pt"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "pt";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/samai_thaqil.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Sama‘i Thaqil (também chamado de Sama‘i, for short) is a very popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre, as well as the principal iqa‘ used in the <a href="../form/ottoman.php#samai">Sama‘i</a> Turkish/Ottoman instrumental form. </p>
+                    <p>O Iqa‘ Sama‘i Thaqil (também chamado simplesmente de Sama‘i) é um <em>iqa‘</em> muito popular no gênero vocal <a href="../form/vocal_comp.php#muwashah">Muwashah</a>, além de ser o principal iqa‘ utilizado no <a href="../form/ottoman.php#samai">Sama‘i</a>, uma forma instrumental de origem turca/otomana.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -106,7 +107,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Mala al-Kasat</b>
-                                    <span>Ensemble Al-Kindi</span>
+                                    <span>Conjunto Al-Kindi</span>
                                     <span>Música de Muhammad ‘Uthman</span>
                                 </div>
                             </label>
@@ -119,7 +120,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Rashiq al-Qadd</b>
-                                    <span>Ensemble Morkos</span>
+                                    <span>Conjunto Morkos (Líbano)</span>
                                     <span><img src="/img/cd.png"> Cèdre</span>
                                 </div>
                             </label>
@@ -132,7 +133,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Talaffata al-Dhabiyu</b>
-                                    <span>Ensemble Al-Kindi</span>
+                                    <span>Conjunto Al-Kindi</span>
                                     <span>Música de Sheikh Mahmud Subh</span>
                                 </div>
                             </label>
@@ -145,7 +146,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Tarraza al-Rayhan</b>
-                                    <span>Ensemble Morkos</span>
+                                    <span>Conjunto Morkos (Líbano)</span>
                                     <span><img src="/img/cd.png"> Cèdre</span>
                                 </div>
                             </label>

@@ -7,7 +7,7 @@ include('../inc/config.php');
 $page_title = "Arabic Music Forms";
 $page_description = "Arabic Music Forms";
 $page_keywords = "arabic, music, forms, arab, world, maqam, jins, iqa‘, iqaa, rhythm, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "pt"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "pt";
 
 include($ROOT . 'inc/head.php');
 ?>

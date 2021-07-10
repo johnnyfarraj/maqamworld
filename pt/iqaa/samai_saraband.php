@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Iqa‘ Sama‘i Saraband";
 $page_description = "Iqa‘ Sama‘i Saraband";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, sama‘i, samai saraband, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "pt"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "pt";
 
 include($ROOT . 'inc/head.php');
 ?>

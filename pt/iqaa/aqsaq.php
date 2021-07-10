@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/aqsaq_f1.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Aqsaq is very popular in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre. It is 1 beat short of <a href="samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a> but sometimes it can be played immediately before or after a piece in that iqa‘ without interruption, during a Wasla.
+                    <p>O Iqa‘ Aqsaq é muito popular no género vocal <a href="../form/vocal_comp.php#muwashah">Muwashah</a>. Ele tem um tempo a menos que o <a href="samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a>, mas às vezes pode ser tocado imediatamente antes ou depois deste iqa‘, sem interrupção, durante uma Wasla.
 					</p>
 
                     <div class="player-area">
@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Ma-htiyali</b>
-                                    <span>Louis Hage &amp; Aida Chalhoub</span>
+                                    <span>Louis Hage e Aida Chalhoub</span>
                                     <span><img src="/img/cd.png"> Mouwashah - Chants Arabo-andalous</span>
                                 </div>
                             </label>
@@ -109,7 +109,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Bashraf Bulbul al-Afrah</b>
-                                    <span>Ensemble Morkos</span>
+                                    <span>Conjunto Morkos (Líbano)</span>
                                 </div>
                             </label>
                         </div>
@@ -131,13 +131,13 @@ include($ROOT . 'inc/head.php');
                     <!-- Need some kind of divider here to start the Form 2  examples -->
                     <br>
                     <div class="heading jins text-center">
-                        <h3>The second form of Iqa‘ Aqsaq</h3>
+                        <h3>Segunda forma do Iqa‘ Aqsaq</h3>
                     </div>
                     <div class="notation">
                         <img src="/note/iqaa/aqsaq_f2.png" class="img-fluid">
                     </div>
 					<br>
-                    <p>An alternate form of Aqsaq replaces the rest on the 6<sup>the</sup> beat with another <em>dum</em>, thereby creating a sequence of 2 consecutive <em>dum</em>-s that evokes <a href="samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a>.
+                    <p>Uma forma alternativa do Aqsaq  substitui o silêncio do sexto tempo com outro <em>dum</em>, criando desta forma uma sequência de dois <em>dum</em>-s consecutivos que evoca o <a href="samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a>.
 					</p>
 					<br>
 
@@ -161,8 +161,8 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Ayyuha al-Saqi</b>
                                     <span>Sabah Fakhri</span>
-                                    <span><img src="/img/cd.png"> Beiteddine Festival Vol. 1</span>
                                     <span>Música de Majdi al-‘Aqili</span>
+                                    <span><img src="/img/cd.png"> Beiteddine Festival Vol. 1</span>
                                 </div>
                             </label>
                         </div>
@@ -174,9 +174,9 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah ‘Adhibuni</b>
-                                    <span>Ensemble Al-Kindi</span>
-                                    <span><img src="/img/cd.png"> The Aleppian Music Room Vol. 1 - Hijazkar Kurd &amp; Saba</span>
+                                    <span>Conjunto Al-Kindi</span>
                                     <span>Música de Omar al-Batch</span>
+                                    <span><img src="/img/cd.png"> The Aleppian Music Room Vol. 1 - Hijazkar Kurd &amp; Saba</span>
                                 </div>
                             </label>
                         </div>

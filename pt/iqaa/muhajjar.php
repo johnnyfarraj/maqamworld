@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/muhajjar.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Muhajjar is a very popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> repertoire. It is immediately recognizable by the 3 consecutive <em>dum</em>-s that open the measure. The word "muhajjar" in Arabic means made of/turned into stone.</p>
+                    <p>O Iqa‘ Muhajjar é um <em>iqa‘</em> muito popular no repertório <a href="../form/vocal_comp.php#muwashah">Muwashah</a>. Ele é reconhecível imediatamente pelos três primeiros <em>dum</em>-s que abrem o compasso. A palavra árabe "muhajjar" significa feito de pedra, ou transformado em pedra.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -56,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Badat Min al-Khidri</b>
-                                    <span>Ensemble Al-Kindi</span>
+                                    <span>Conjunto Al-Kindi</span>
                                 </div>
                             </label>
                         </div>
@@ -80,7 +81,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Hal ‘Ala al-Astar</b>
-                                    <span>Ensemble Morkos</span>
+                                    <span>Conjunto Morkos (Líbano)</span>
                                 </div>
                             </label>
                         </div>
@@ -92,8 +93,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Munyati ‘Azza Istibari</b>
-                                    <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
-                                    <span>Conductor: Aïda Shalhoub Ziadé</span>
+                                    <span>Coral da Universidade de Kaslik (Líbano) </span>
                                     <span>Música de Sayyed Darwish</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>
@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Ya Tura Ba‘da al-Bi‘adi</b>
-                                    <span>Ensemble Al-Kindi</span>
+                                    <span>Conjunto Al-Kindi</span>
                                 </div>
                             </label>
                         </div>

@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Iqa‘ Masmudi Kabir";
 $page_description = "Iqa‘ Masmudi Kabir";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, masmudi kabir, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "pt"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "pt";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/masmudi_kabir.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Masmudi Kabir (or Masmudi, for short) is one of the most popular rhythms in the Tarab repertoire of the twentieth century. The word "kabir" means great/large in Arabic, to distinguish it from <a href="baladi.php">Masmudi Saghir</a> (small Masmudi, more commonly called Baladi.) </p>
+                    <p>O Iqa‘ Masmudi Kabir (ou simplemente Masmudi) é um dos ritmos mais populares no repertório Tarab do século XX. A palavra "kabir" significa grande em árabe, e é usada para distinguir este ritmo do <a href="baladi.php">Masmudi Saghir</a> (Masmudi pequeno, mais conhecido como <strong>Baladi</strong>).
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>

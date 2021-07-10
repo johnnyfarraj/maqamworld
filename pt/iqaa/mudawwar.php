@@ -39,8 +39,9 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/mudawwar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Mudawwar</a>
                     </div>
 
-                    <p>Iqa‘ Mudawwar is a popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> repertoire. The word "mudawwar" in Arabic means round/circular.</p>
-                    <p>Many forms of Iqa‘ Mudawwar are in use, among which Mudawwar Masri (Egyptian) in 12/4 and Mudawwar Shami (Damascene/pan-Syrian) in 10/4.
+                    <p>O Iqa‘ Mudawwar é um <em>iqa‘</em> popular no repertório de <a href="../form/vocal_comp.php#muwashah">Muwashah</a>. A palavra "mudawwar" significa redondo / circular em árabe.
+                    </p>
+                    <p>Há várias formas do Iqa‘ Mudawwar em uso, incluindo o Mudawwar Masri (egipcio) em 12/4 e o  Mudawwar Shami (damasceno / pan-sirio) em 10/4.
                     </p>
 
                     <br>
@@ -77,7 +78,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Fika Kullu Ma Ara Hasan</b>
-                                    <span>Composed in <a href="../maqam/bayati.php">Maqam Bayati</a></span>
+                                    <span>Composto no <a href="../maqam/bayati.php">Maqam Bayati</a></span>
                                     <span>Orquesta Abdel Halim Noueira</span>
                                 </div>
                             </label>
@@ -114,9 +115,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Fika Kullu Ma Ara Hasan</b>
-                                    <span>Composed in <a href="../maqam/hijaz.php">Maqam Hijaz</a></span>
-                                    <span>Omar al-Sarmini</span>
-                                    <span>Al-Kindi Ensemble</span>
+                                    <span>Composto no <a href="../maqam/hijaz.php">Maqam Hijaz</a></span>
+                                    <span>Omar Sarmini e Conjunto Al-Kindi</span>
                                 </div>
                             </label>
                         </div>
@@ -128,7 +128,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Fika Kullu Ma Ara Hasan</b>
-                                    <span>Composed in <a href="../maqam/hijaz.php">Maqam Hijaz</a></span>
+                                    <span>Composto no <a href="../maqam/hijaz.php">Maqam Hijaz</a></span>
                                     <span>Sabah Fakhri</span>
                                 </div>
                             </label>

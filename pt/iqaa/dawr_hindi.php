@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/dawr_hindi.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Dawr Hindi is a very popular <em>iqa‘</em> for the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal composed genre.</p>
+                    <p>O Iqa‘ Dawr Hindi é um <em>iqa‘</em> muito popular no gênero vocal <a href="../form/vocal_comp.php#muwashah">Muwashah</a>.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -56,8 +57,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Sihtu Wajdan</b>
-                                    <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
-                                    <span>Conductor: Aïda Shalhoub Ziadé</span>
+                                    <span>Coral do departamento de Música - Universidade de Kaslik (Líbano)</span>
                                     <span>Música de Sayyed Darwish</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>

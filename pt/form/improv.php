@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Improvised Forms";
 $page_description = "Improvised Forms";
 $page_keywords = "arabic, music, arab, world, maqam, jins, improvised forms, rast, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, taqsim, layali, mawwal, qasida";
-$page_language = "pt"; // en / ar <!-- YOU MUST PUT THIS -->
+$page_language = "pt"; -->
 
 include($ROOT . 'inc/head.php');
 ?>

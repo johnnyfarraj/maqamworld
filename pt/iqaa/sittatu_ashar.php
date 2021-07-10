@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Iqa‘ Sittatu ‘Ashar Masri";
 $page_description = "Iqa‘ Sittatu ‘Ashar Masri";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, sittatu ashar masri, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "pt"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "pt";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/sittatu_ashar.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Sittatu ‘Ashar Masri ("sittatu ‘ashar" means sixteen, "masri" means Egyptian) is a rare <em>iqa‘</em> mostly used in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre. It spans 8 measures of 4/4, bringing its time signature to 32/4.</p>
+                    <p>O Iqa‘ Sittatu ‘Ashar Masri ("sittatu ‘ashar" significa dezesseis, "masri" significa egípcio) é um <em>iqa‘</em> raro utilizado principalmente no gênero vocal <a href="../form/vocal_comp.php#muwashah">Muwashah</a>. Ele engloba 8 compassos de 4/4, de forma que sua fórmula de compasso seja 32/4.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -56,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Badat Min al-Khidri (khana)</b>
-                                    <span>Ensemble Al-Kindi</span>
+                                    <span>Conjunto Al-Kindi</span>
                                     <span><img src="/img/cd.png"> Les Croisades Sous Le Regard De l'Orient Part I - Maqam Bayati</span>
                                 </div>
                             </label>
@@ -82,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Badat Min al-Khidri (khana)</b>
-                                    <span>Louis Hage and Aida Chalhoub</span>
+                                    <span>Louis Hage e Aida Chalhoub</span>
                                 </div>
                             </label>
                         </div>

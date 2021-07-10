@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Iqa‘ Bambi";
 $page_description = "Iqa‘ Bambi";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, bambi, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "pt"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "pt";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/bambi_f1.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Bambi is a stretched-out Egyptian 8/4 <em>iqa‘</em> that beautifully accompanies <a href="../form/improv.php">improvisations</a> and sparse vocal sections. It is customary to start playing Bambi from the 7<sup>th</sup> beat (the <em>dum</em> before last), thereby emphacizing the 3 consecutive <em>dum</em>-s that start each cycle. An alternate form of Bambi actually starts the measure with the 3 consecutive <em>dum</em>-s. 
+                    <p>O Iqa ‘Bambi é um <em>iqa‘</em> egipcio prolongado em 8/4 que acompanha belamente <a href="../form/improv.php">improvisações</a> e seções vocais. Normalmente, começa-se a tocar o Bambi pelo sétimo tempo (o penúltimo <em>dum</em>), enfatizando, dessa forma, os 3 <em>dum</em>-s consecutivos que iniciam cada ciclo. Na verdade, uma forma alternativa do Bambi inicia o compasso com 3 <em>dum</em>-s consecutivos. 
 					</p>
 
                     <div class="player-area">
@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Iqa‘ Bambi 8/4 - Form I</b>
                                     <span>Demonstração em Tabla por Faisal Zedan</span>
-                                    <span>(with the last <em>dum</em> replaced with a <em>tak</em>)</span>
+                                    <span>(com o último <em>dum</em> substituído por um <em>tak</em>)</span>
                                 </div>
                             </label>
                         </div>
@@ -105,7 +105,7 @@ include($ROOT . 'inc/head.php');
 
                     <br>
                     <div class="heading jins text-center">
-                        <h3>Examples of the second form of Iqa‘ Bambi</h3>
+                        <h3>Exemplos da segunda forma do Iqa‘ Bambi</h3>
                     </div>
                     <br>
 

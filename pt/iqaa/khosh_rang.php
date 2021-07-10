@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Iqa‘ Khosh Rang";
 $page_description = "Iqa‘ Khosh Rang";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, khosh rang, khush rank, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "pt"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "pt";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
                     
                     <div class="heading jins text-center">
                         <h1>O Iqa‘ Khosh Rang 17/8</h1>
-                        <h3>(also spelled Khush Rank)</h3>
+                        <h3>(também escrito como Khush Rank)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <div class="clearfix"></div>
@@ -43,7 +43,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/khosh_rang.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Khosh Rang (also spelled Khush Rank) is a very rare <em>iqa‘</em> that is only used in one known <a href="../form/vocal_comp.php#muwashah">Muwashah</a> and a few rare modern compositions.</p>
+                    <p>O Iqa‘ Khosh Rang (também escrito como <strong>Khush Rank</strong>) é um <em>iqa‘</em> muito raro usado em uma composição conhecida de <a href="../form/vocal_comp.php#muwashah">Muwashah</a> e em algumas raras composições modernas.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -57,7 +58,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Salla Fina al-Lahdha Hindiyya</b>
-                                    <span>Ensemble Al-Kindi</span>
+                                    <span>Conjunto Al-Kindi</span>
                                     <span><img src="/img/cd.png"> Les Croisades Sous Le Regard De l'Orient - Hijaz</span>
                                 </div>
                             </label>

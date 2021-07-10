@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Iqa‘ Fakhit";
 $page_description = "Iqa‘ Fakhit";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, fakhit, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "pt"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "pt";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/fakhit.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Fakhit is a relatively long <em>iqa‘</em> that spans 5 measures of 4/4, resulting in a 20/4 time signature. This <em>iqa‘</em> is rare outside the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> genre.</p>
+                    <p>O Iqa‘ Fakhit é um <em>iqa‘</em> relativamente longo que engloba 5 compassos de 4/4, resultando em uma fórmula de compasso de 20/4. Este iqa‘ é raro fora do gênero <a href="../form/vocal_comp.php#muwashah">Muwashah</a>.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -56,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Bi Sifatin Ja‘alatni</b>
-                                    <span>Al-Kindi Ensemble</span>
+                                    <span>Conjunto Al-Kindi</span>
                                     <span><img src="/img/cd.png"> The Aleppian Music Room II - Maqam Rast</span>
                                 </div>
                             </label>

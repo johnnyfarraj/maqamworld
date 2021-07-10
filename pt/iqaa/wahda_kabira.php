@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Iqa‘ Wahda Kabira";
 $page_description = "Iqa‘ Wahda Kabira";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, wahda kabira, wahda sunbati, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
-$page_language = "pt"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "pt";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -47,7 +47,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/wahda_kabira.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Wahda Kabira ("kabira" is Arabic for large), also known as <strong>Wahda Sunbati</strong>, is a stretched out version of <a href="wahda.php">Iqa‘ Wahda</a> over two measures. It is very popular in the vocal and instrumental music of the mid-twentieth century.</p>
+                    <p>O Iqa‘ Wahda Kabira ("kabira" significa "grande" em árabe), também conhecido como <strong>Wahda Sunbati</strong>, é uma versão estendida do <a href="wahda.php">Iqa‘ Wahda</a> em dois compassos. Ele é muito popular na música vocal e instrumental dos meados do século XX.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -61,7 +62,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Khatwit Habibi (1953)</b>
-                                    <span>Instrumental by Muhammad Abdel Wahab (Egito)</span>
+                                    <span>Composição Instrumental</span>
+                                    <span>Música de Muhammad Abdel Wahab (Egito)</span>
                                 </div>
                             </label>
                         </div>

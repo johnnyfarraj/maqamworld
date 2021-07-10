@@ -232,7 +232,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Shadd ‘Araban</b>
-                                    <span>‘Umar Sarmini Ensemble</span>
+                                    <span>Conjunto Omar Sarmini</span>
                                     <span>Música de Tanburi Cemil Bey</span>
                                 </div>
                             </label>

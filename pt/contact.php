@@ -7,7 +7,7 @@ include('../inc/config.php');
 $page_title = "Contact Maqam World";
 $page_description = "";
 $page_keywords = "";
-$page_language = "pt"; // en / ar <!-- YOU MUST PUT THIS
+$page_language = "pt";
 
 include($ROOT . 'inc/head.php');
 ?>

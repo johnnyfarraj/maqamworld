@@ -39,12 +39,12 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/awfar_masri.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Awfar Masri</a>
                     </div>
 
-                    <p>Iqa‘ Awfar Masri is a popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> repertoire. Its main two forms are described here.
+                    <p>O Iqa‘ Awfar Masri é um <em>iqa‘</em> popular no repertório <a href="../form/vocal_comp.php#muwashah">Muwashah</a>. Suas duas formas principais são descritas abaixo.
                     </p>
 
                     <br>
                     <div class="heading jins text-center">
-                        <h3>Form I</h3>
+                        <h3>Exemplos da primeira forma do Iqa‘ Awfar Masri</h3>
                     </div>
                     <div class="clearfix"></div>
                     <br>
@@ -65,7 +65,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Man Kunta Anta Habibahu</b>
-                                    <span>Al-Kindi Ensemble</span>
+                                    <span>Conjunto Al-Kindi</span>
                                     <span><img src="/img/cd.png"> The Aleppian Music Room II - Maqam Rast</span>
                                 </div>
                             </label>
@@ -74,7 +74,7 @@ include($ROOT . 'inc/head.php');
 
                     <br>
                     <div class="heading jins text-center">
-                        <h3>Form II</h3>
+                        <h3>Exemplos da segunda forma do Iqa‘ Awfar Masri</h3>
                     </div>
                     <div class="clearfix"></div>
                     <br>
@@ -89,7 +89,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Ghuddi Jufunaki</b>
-                                    <span>(in <a href="../maqam/saba.php">Maqam Saba</a>)</span>
+                                    <span>(em <a href="../maqam/saba.php">Maqam Saba</a>)</span>
                                     <span>Ghada Shbeir</span>
                                     <span><img src="/img/cd.png"> Muwashahat</span>
                                 </div>
@@ -104,7 +104,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Ya Man Ramani Bil-Siham</b>
                                     <span>(in <a href="../maqam/nikriz.php">Maqam Nikriz</a>)</span>
-                                    <span>Ensemble Dugah</span>
+                                    <span>Conjunto Dugah</span>
                                     <span>Música de Omar al-Batch</span>
                                 </div>
                             </label>
@@ -117,7 +117,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Ya Na‘isa al-Ajfan</b>
-                                    <span>(in <a href="../maqam/nahawand.php">Maqam Nahawand</a>)</span>
+                                    <span>(em <a href="../maqam/nahawand.php">Maqam Nahawand</a>)</span>
                                     <span>Khaled al-Hafez</span>
                                     <span>Música de Omar al-Batch</span>
                                 </div>

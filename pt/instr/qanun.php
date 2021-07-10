@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "The Qanun";
 $page_description = "The Qanun";
 $page_keywords = "arabic, music, istruments, arab world, middle east, oud, 'ud, qanun, nay, buzuq, arabic violin";
-$page_language = "pt"; // en / ar <!-- YOU MUST PUT THIS -->
+$page_language = "pt"; -->
 
 include($ROOT . 'inc/head.php');
 ?>

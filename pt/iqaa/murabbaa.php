@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/murabbaa.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Murabba‘ is mostly confined to the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> repertoire. Unrelated to its time signature, the word <em>murabba‘</em> in Arabic means squared or based on the number 4.</p>
+                    <p>O Iqa‘ Murabba‘ é restrito principalmente ao repertório <a href="../form/vocal_comp.php#muwashah">Muwashah</a>. Embora o nome não se relacione com sua fórmula de compasso, a palavra árabe murabba’ significa quadrado, ou baseado no número 4.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -94,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Jalla Man Qad Ansha Jamalak</b>
-                                    <span>Umar Sarmini and al-Kindi Ensemble</span>
+                                    <span>Omar Sarmini e Conjunto Al-Kindi</span>
                                 </div>
                             </label>
                         </div>
@@ -131,8 +132,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Ya ‘Udhayb al-Marshaf</b>
-                                    <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
-                                    <span>Conductor: Aïda Shalhoub Ziadé</span>
+                                    <span>Coral da Universidade de Kaslik (Líbano) </span>
                                     <span>Música de Sayyed Darwish</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>
