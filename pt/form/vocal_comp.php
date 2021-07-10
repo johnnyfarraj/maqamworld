@@ -93,7 +93,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Hasan al-Haffar Wasla</b>
-                                    <span>Hasan al-Haffar's recording of a Muwashahat Wasla in <a href="../maqam/nahawand.php">Maqam Nahawand</a>, all composed by ‘Umar al-Batsh.</span>
+                                    <span>Hasan al-Haffar's recording of a Muwashahat Wasla in <a href="../maqam/nahawand.php">Maqam Nahawand</a>, all composed by Omar al-Batch.</span>
                                 </div>
                             </label>
                         </div>
@@ -344,7 +344,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ya Din-Na‘im</b>
-                                    <span>Muhammad Abdel Wahab and Leila Murad's <strong>Ya Din-Na‘im</strong> composed by Muhammad Abdel Wahab, from the movie <strong>Yahya al-Hubb</strong> (1938).</span>
+                                    <span>Muhammad Abdel Wahab and Leila Murad's <strong>Ya Din-Na‘im</strong> composed by Muhammad Abdel Wahab, do filme <strong>Yahya al-Hubb</strong> (1938).</span>
                                 </div>
                             </label>
                         </div>
@@ -360,7 +360,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Ya Salam ‘Ala Hubbi w Hubbak (1957)</b>
-                                    <span>Farid al-Atrash and Shadia's <strong>Ya Salam ‘Ala Hubbi w Hubbak</strong> composed by Farid al-Atrash, from the movie <strong>Inta Habibi</strong> (1957).</span>
+                                    <span>Farid al-Atrash and Shadia's <strong>Ya Salam ‘Ala Hubbi w Hubbak</strong> composed by Farid al-Atrash, do filme <strong>Inta Habibi</strong> (1957).</span>
                                 </div>
                             </label>
                         </div>

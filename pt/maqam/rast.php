@@ -86,7 +86,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Ya Shadi al-Alhan</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Music by Sayyed Darwish</span>
+                                    <span>Música de Sayyed Darwish</span>
                                 </div>
                             </label>
                         </div>
@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Mala al-Kasat</b>
                                     <span>Al-Kindi Ensemble</span>
-                                    <span>Music by Muhammad ‘Uthman</span>
+                                    <span>Música de Muhammad ‘Uthman</span>
                                 </div>
                             </label>
                         </div>
@@ -113,7 +113,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Muwashah Ya ‘Udhayb al-Marshaf</b>
                                     <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
                                     <span>Conductor: Aïda Shalhoub Ziadé</span>
-                                    <span>Music by Sayyed Darwish</span>
+                                    <span>Música de Sayyed Darwish</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>
                             </label>
@@ -127,7 +127,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Waraqu el-Asfar Shahr Aylul</b>
                                     <span>Fairouz</span>
-                                    <span>Music by Philemon Wehbe</span>
+                                    <span>Música de Philemon Wehbe</span>
                                 </div>
                             </label>
                         </div>
@@ -164,7 +164,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Lah Tilaw‘ini (1938)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad al-Qasabgi (Egypt)</span>
+                                    <span>Música de Muhammad al-Qasabgi (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -188,7 +188,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Rast George Michel (Egypt)</b>
+                                    <b>Sama‘i Rast George Michel (Egito)</b>
                                     <span>Al-Kindi Ensemble</span>
                                     <span><img src="/img/cd.png"> The Aleppian Music Room Vol. 2 (Rast)</span>
                                 </div>

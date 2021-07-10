@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>el-Bortoqal (1938)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab (Egypt)</span>
+                                    <span>Voz e música por Muhammad Abdel Wahab (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ahmad Ya Habibi</b>
-                                    <span>Vocals and Music by Sabri al-Mudallal</span>
+                                    <span>Voz e música por Sabri al-Mudallal</span>
                                 </div>
                             </label>
                         </div>
@@ -94,7 +94,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Najmat (1964)</b>
-                                    <span>Vocals and Music by Wadih al-Safi</span>
+                                    <span>Voz e música por Wadih al-Safi</span>
                                 </div>
                             </label>
                         </div>

@@ -104,7 +104,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Sama‘i ‘Iraq</b>
                                     <span>Tunisian Radio Orchestra</span>
-                                    <span>Music by Yusuf Basha</span>
+                                    <span>Música de Yusuf Basha</span>
                                 </div>
                             </label>
                         </div>
@@ -117,7 +117,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>el-Hali Ta‘bani Ya Layla</b>
                                     <span>Joseph Saqr</span>
-                                    <span>Music by Ziad Rahbani</span>
+                                    <span>Música de Ziad Rahbani</span>
                                 </div>
                             </label>
                         </div>

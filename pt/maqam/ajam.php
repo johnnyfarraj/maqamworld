@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Aghadan Alqak (1971)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad Abdel Wahab (Egypt)</span>
+                                    <span>Música de Muhammad Abdel Wahab (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -93,7 +93,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Bahr Biyidhak</b>
-                                    <span>Vocals and Music by Sheikh Imam</span>
+                                    <span>Voz e música por Sheikh Imam</span>
                                 </div>
                             </label>
                         </div>
@@ -106,7 +106,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Fi Youm Wi Leila (1978)</b>
                                     <span>Warda</span>
-                                    <span>Music by Muhammad Abdel Wahab (Egypt)</span>
+                                    <span>Música de Muhammad Abdel Wahab (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -132,7 +132,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Zuruni Kulli Sana Marra</b>
                                     <span>Karem Mahmud</span>
-                                    <span>Music by Sayyed Darwish</span>
+                                    <span>Música de Sayyed Darwish</span>
                                 </div>
                             </label>
                         </div>

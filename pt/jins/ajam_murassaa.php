@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwshah Kallili Ya Suhbu</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Music by Muhammad ‘Uthman</span>
+                                    <span>Música de Muhammad ‘Uthman</span>
                                 </div>
                             </label>
                         </div>
@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>‘Ala Shatti Bahr el-Hawa</b>
                                     <span>Karem Mahmud</span>
-                                    <span>Music by Mahmud al-Sherif</span>
+                                    <span>Música de Mahmud al-Sherif</span>
                                 </div>
                             </label>
                         </div>
@@ -145,7 +145,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Nibtidi Mnein el-Hikaya (1975)</b>
                                     <span>Abdel Halim Hafez</span>
-                                    <span>Music by Muhammad Abdel Wahab (Egypt)</span>
+                                    <span>Música de Muhammad Abdel Wahab (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -158,7 +158,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Qari'at al-Fingan (1976)</b>
                                     <span>Abdel Halim Hafez</span>
-                                    <span>Music by Muhammad al-Mugi</span>
+                                    <span>Música de Muhammad al-Mugi</span>
                                 </div>
                             </label>
                         </div>

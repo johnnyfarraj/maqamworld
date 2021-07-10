@@ -23,16 +23,16 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
                     
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Wahda Kabira 8/4</h1>
-                        <h3>(also called Wahda Sunbati)</h3>
+                        <h1>O Iqa‘ Wahda Kabira 8/4</h1>
+                        <h3>(também chamado de Wahda Sunbati)</h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <div class="clearfix"></div>
                     
                     <div class="text-center mt-2 mb-3">
@@ -61,7 +61,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Khatwit Habibi (1953)</b>
-                                    <span>Instrumental by Muhammad Abdel Wahab (Egypt)</span>
+                                    <span>Instrumental by Muhammad Abdel Wahab (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -74,7 +74,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Habibi Yis‘id Awqatu (1943)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Zakariyya Ahmad (Egypt)</span>
+                                    <span>Música de Zakariyya Ahmad (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -87,7 +87,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>il-Albi Yi‘shaq Kulli Gamil (1961)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Riyad al-Sunbati</span>
+                                    <span>Música de Riyad al-Sunbati</span>
                                 </div>
                             </label>
                         </div>
@@ -99,8 +99,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Tuta (1942)</b>
-                                    <span>Instrumental Composition (from the movie <strong>Ahlam el-Shabab</strong>)</span>
-                                    <span>Music by Farid al-Atrash</span>
+                                    <span>Composição Instrumental (do filme <strong>Ahlam el-Shabab</strong>)</span>
+                                    <span>Música de Farid al-Atrash</span>
                                 </div>
                             </label>
                         </div>
@@ -113,7 +113,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Bid‘ el-Ward (1944)</b>
                                     <span>Asmahan</span>
-                                    <span>Music by Farid al-Atrash</span>
+                                    <span>Música de Farid al-Atrash</span>
                                 </div>
                             </label>
                         </div>
@@ -126,7 +126,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Sawa Rbina (1968)</b>
                                     <span>Fairouz</span>
-                                    <span>Music by the Rahbani Brothers</span>
+                                    <span>Música dos Irmãos Rahbani</span>
                                 </div>
                             </label>
                         </div>
@@ -139,7 +139,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Iqa‘ Wahda Kabira 8/4</b>
-                                    <span>Tabla demonstration by Faisal Zedan</span>
+                                    <span>Demonstração em Tabla por Faisal Zedan</span>
                                 </div>
                             </label>
                         </div>

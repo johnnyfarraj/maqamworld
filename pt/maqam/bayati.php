@@ -89,7 +89,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>‘Ala Balad el-Mahbub Waddini (1935)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Riyad al-Sunbati</span>
+                                    <span>Música de Riyad al-Sunbati</span>
                                 </div>
                             </label>
                         </div>
@@ -102,7 +102,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Akun Sa‘id (1932)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Zakariyya Ahmad (Egypt)</span>
+                                    <span>Música de Zakariyya Ahmad (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -114,7 +114,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Lamma-nta Nawi (1929)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab (Egypt)</span>
+                                    <span>Voz e música por Muhammad Abdel Wahab (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -151,7 +151,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Nura Nura (1953)</b>
-                                    <span>Music and Vocals by Farid al-Atrash</span>
+                                    <span>Music and Voz por Farid al-Atrash</span>
                                 </div>
                             </label>
                         </div>
@@ -164,7 +164,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Rayt Minnun (Qanun Taqsim)</b>
                                     <span>Fairouz</span>
-                                    <span>Music by Philemon Wehbe</span>
+                                    <span>Música de Philemon Wehbe</span>
                                 </div>
                             </label>
                         </div>
@@ -177,7 +177,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Rayt Minnun</b>
                                     <span>Fairouz</span>
-                                    <span>Music by Philemon Wehbe</span>
+                                    <span>Música de Philemon Wehbe</span>
                                 </div>
                             </label>
                         </div>

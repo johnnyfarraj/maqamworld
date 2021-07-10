@@ -61,7 +61,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sayyed Salem</b>
-                                    <span>Sayyed Salem (Egypt), a longtime member of the Umm Kulthum Orchestra (Egypt) in a Nay solo during her song <strong>Ba‘id ‘Annak</strong> (1965, music by Baligh Hamdi)</span>
+                                    <span>Sayyed Salem (Egito), a longtime member of the Umm Kulthum Orchestra (Egito) in a Nay solo during her song <strong>Ba‘id ‘Annak</strong> (1965, music by Baligh Hamdi)</span>
                                 </div>
                             </label>
                         </div>
@@ -77,7 +77,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Mahmud ‘Effat</b>
-                                    <span>Veteran nay player and teacher, Mahmud ‘Effat (Egypt), a longtime member of the Diamond Orchestra in a Taqsim on the Nay in <a href="../maqam/saba.php">Maqam Saba</a></span>
+                                    <span>Veteran nay player and teacher, Mahmud ‘Effat (Egito), a longtime member of the Diamond Orchestra in a Taqsim on the Nay in <a href="../maqam/saba.php">Maqam Saba</a></span>
                                 </div>
                             </label>
                         </div>
@@ -93,7 +93,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Reda Bdeir</b>
-                                    <span>Reda Bdeir (Egypt) playing the song Kulli Da Kan Leh (1954, music by Muhammad Abdel Wahab)</span>
+                                    <span>Reda Bdeir (Egito) playing the song Kulli Da Kan Leh (1954, music by Muhammad Abdel Wahab)</span>
                                 </div>
                             </label>
                         </div>

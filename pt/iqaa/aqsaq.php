@@ -23,15 +23,15 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Aqsaq 9/8</h1>
+                        <h1>O Iqa‘ Aqsaq 9/8</h1>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -83,8 +83,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Jalla Man Bil Husni Sawwar</b>
-                                    <span>Abdel Halim Noueira Ensemble</span>
-                                    <span>Music by Kamel al-Khula‘i</span>
+                                    <span>Orquesta Abdel Halim Noueira</span>
+                                    <span>Música de Kamel al-Khula‘i</span>
                                 </div>
                             </label>
                         </div>
@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah el-Sama‘ wel-Rah</b>
                                     <span>Ibrahim el-Haggar</span>
-                                    <span>Music by Dawud Husni</span>
+                                    <span>Música de Dawud Husni</span>
                                 </div>
                             </label>
                         </div>
@@ -122,7 +122,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Iqa‘ Aqsaq 9/8 - Form I</b>
-                                    <span>Tabla demonstration by Faisal Zedan</span>
+                                    <span>Demonstração em Tabla por Faisal Zedan</span>
                                 </div>
                             </label>
                         </div>
@@ -147,7 +147,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Ma-htiyali</b>
-                                    <span>Al-Turath Ensemble</span>
+                                    <span>Conjunto Al-Turath</span>
                                     <span><img src="/img/cd.png"> The Music In Spanish Al Andalus - Hijaz</span>
                                 </div>
                             </label>
@@ -162,7 +162,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Muwashah Ayyuha al-Saqi</b>
                                     <span>Sabah Fakhri</span>
                                     <span><img src="/img/cd.png"> Beiteddine Festival Vol. 1</span>
-                                    <span>Music by Majdi al-‘Aqili</span>
+                                    <span>Música de Majdi al-‘Aqili</span>
                                 </div>
                             </label>
                         </div>
@@ -176,7 +176,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Muwashah ‘Adhibuni</b>
                                     <span>Ensemble Al-Kindi</span>
                                     <span><img src="/img/cd.png"> The Aleppian Music Room Vol. 1 - Hijazkar Kurd &amp; Saba</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
+                                    <span>Música de Omar al-Batch</span>
                                 </div>
                             </label>
                         </div>
@@ -201,7 +201,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Iqa‘ Aqsaq 9/8 - Form II</b>
-                                    <span>Tabla demonstration by Faisal Zedan</span>
+                                    <span>Demonstração em Tabla por Faisal Zedan</span>
                                 </div>
                             </label>
                         </div>

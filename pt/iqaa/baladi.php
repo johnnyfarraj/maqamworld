@@ -23,16 +23,16 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Baladi 4/4</h1>
-                        <h3>(also called <strong>Masmudi Saghir</strong>)</h3>
+                        <h1>O Iqa‘ Baladi 4/4</h1>
+                        <h3>(também chamado de <strong>Masmudi Saghir</strong>)</h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/baladi.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Baladi is a very common <em>iqa‘</em> in the Near Eastern Arabic vocal repertoire. It is also called <strong>Masmudi Saghir</strong>, "saghir" meaning little in Arabic, to distinguish it from <a href="masmudi_kabir.php">Masmudi Kabir</a>, which spans two 4/4 measures instead of one. Baladi modulates frequently to <a href="maqsum.php">Maqsum</a> and back, as well as to <a href="malfuf.php">Malfuf</a> (using 2 measures of <a href="malfuf.php">Malfuf</a> to 1 measure of Baladi).
+                    <p>O Iqa‘ Baladi é um <em>iqa‘</em> muito comum no repertório vocal árabe do Oriente Próximo. Ele também é chamado de <strong>Masmudi Saghir</strong>, sendo que "saghir" significa “pequeno” em árabe, diferenciando-se do <a href="masmudi_kabir.php">Masmudi Kabir</a>, que se estende por dois compassos 4/4 no lugar de um. O Baladi se modula frequentemente com o <a href="maqsum.php">Maqsum</a> e também com o <a href="malfuf.php">Malfuf</a> (usando dois compassos de <a href="malfuf.php">Malfuf</a> para um compasso de Baladi).
                     </p>
 
                     <div class="player-area">
@@ -58,8 +58,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>‘Aziza (1955)</b>
-                                    <span>Instrumental Composition</span>
-                                    <span>Music by Muhammad Abdel Wahab (from the movie ‘Aziza, 1955)</span>
+                                    <span>Composição Instrumental</span>
+                                    <span>Música de Muhammad Abdel Wahab (do filme ‘Aziza, 1955)</span>
                                 </div>
                             </label>
                         </div>
@@ -96,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Iqa‘ Baladi 4/4</b>
-                                    <span>Tabla demonstration by Faisal Zedan</span>
+                                    <span>Demonstração em Tabla por Faisal Zedan</span>
                                 </div>
                             </label>
                         </div>

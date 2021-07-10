@@ -23,15 +23,15 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
                     
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Maqsum 4/4</h1>
+                        <h1>O Iqa‘ Maqsum 4/4</h1>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <div class="clearfix"></div>
                     
                     <div class="text-center mt-2 mb-3">
@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/maqsum.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Maqsum is by far the most widely used <em>iqa‘</em> in Arabic music. It modulates to other 4/4 <em>iqa‘at</em> like <a href="baladi.php">Baladi</a> and <a href="wahda.php">Wahda</a>.</p>
+                    <p>O Iqa‘ Maqsum é, de longe, o <em>iqa‘</em> mais usado na música árabe. Ele se modula para outros <em>iqa‘at</em> 4/4, como <a href="baladi.php">Baladi</a> and <a href="wahda.php">Wahda</a>.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -57,7 +58,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>il-Alb Yi‘shaq Kulli Gamil (1961)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Riyad al-Sunbati</span>
+                                    <span>Música de Riyad al-Sunbati</span>
                                 </div>
                             </label>
                         </div>
@@ -68,9 +69,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Darit el-Ayyam (1970)</b>
+                                    <b>Daret el-Ayyam (1970)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad Abdel Wahab (Egypt)</span>
+                                    <span>Música de Muhammad Abdel Wahab (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -83,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Qari'at al-Fingan (1976)</b>
                                     <span>Abdel Halim Hafez</span>
-                                    <span>Music by Muhammad al-Mugi</span>
+                                    <span>Música de Muhammad al-Mugi</span>
                                 </div>
                             </label>
                         </div>
@@ -96,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Waraqu al-Asfar</b>
                                     <span>Fairouz</span>
-                                    <span>Music by Philemon Wehbe</span>
+                                    <span>Música de Philemon Wehbe</span>
                                 </div>
                             </label>
                         </div>
@@ -120,7 +121,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ana Bahibb el-Gedid</b>
-                                    <span>Vocals and Music by Ahmad Adaweya</span>
+                                    <span>Voz e música por Ahmad Adaweya</span>
                                 </div>
                             </label>
                         </div>
@@ -133,7 +134,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Iqa‘ Maqsum 4/4</b>
-                                    <span>Tabla demonstration by Faisal Zedan</span>
+                                    <span>Demonstração em Tabla por Faisal Zedan</span>
                                 </div>
                             </label>
                         </div>

@@ -23,16 +23,16 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
                     
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Nawari 4/4</h1>
-                        <h3>(also called <strong>Katakufti</strong>)</h3>
+                        <h1>O Iqa‘ Nawari 4/4</h1>
+                        <h3>(também chamado de <strong>Katakufti</strong>)</h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <div class="clearfix"></div>
                     
                     <div class="text-center mt-2 mb-3">
@@ -43,9 +43,11 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/nawari.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Nawari is variation on <a href="saidi.php">Iqa‘ Sa‘idi</a> and <a href="baladi.php">Baladi</a> primarily used in Levantine folk music and Dabke line dances.</p>
+                    <p>O Iqa‘ Nawari é uma variação do <a href="saidi.php">Iqa‘ Sa‘idi</a> e do <a href="baladi.php">Baladi</a> que é utilizado principalmente na música folclórica levantina e nas danças em roda Dabke.
+                    </p>
                     
-                    <p>Iqa‘ Nawari is often called <strong>Katakufti</strong> by percussionists, although the original <a href="katakufti.php">Iqa‘ Katakufti</a> has a different signature. The reason for this alternate name is because <a href="katakufti.php">Iqa‘ Katakufti</a> sounds exactly like Nawari when it is started from the last <em>tak</em>.</p>
+                    <p>O Iqa‘ Nawari é frequentemente chamado de <strong>Katakufti</strong> pelos percussionistas, embora o <a href="katakufti.php">Iqa‘ Katakufti</a> original tenha uma fórmula de compasso diferente. A razão para este nome alternativo é o fato de o <a href="katakufti.php">Iqa‘ Katakufti</a> soar exatamente como o Nawari quando iniciado pelo último <em>tak</em>.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -70,8 +72,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dal‘ona (traditional)</b>
-                                    <span>(performer unknown)</span>
+                                    <b>Dal‘ona (tradicional)</b>
+                                    <span>(artista desconhecido)</span>
                                 </div>
                             </label>
                         </div>
@@ -83,7 +85,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Initiation Of Ecstasy</b>
-                                    <span>El-Funoun Ensemble</span>
+                                    <span>Conjunto El-Funoun</span>
                                     <span><img src="/img/cd.png"> Zaghareed: Music From The Palestinian Holy Land</span>
                                 </div>
                             </label>
@@ -97,7 +99,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Iqa‘ Nawari 4/4</b>
-                                    <span>Tabla demonstration by Faisal Zedan</span>
+                                    <span>Demonstração em Tabla por Faisal Zedan</span>
                                 </div>
                             </label>
                         </div>

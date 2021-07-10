@@ -48,7 +48,7 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/dirbakki.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Dirbakki</a>
                     </div>
 
-                    <p> The Tabla (also called "Dirbakki" in Levantine dialects or "Darbuka" in Western countries) is a goblet shaped drum with skin fixed on one side.
+                    <p> The Tabla (também chamado de "Dirbakki" in Levantine dialects or "Darbuka" in Western countries) is a goblet shaped drum with skin fixed on one side.
 		</p>
 		<p>Traditional <em>tabla</em>-s are made of clay and have fish or goat skin glued on and held tightly with a system of woven threads. Modern <em>tabla</em>-s have an aluminum body with a replaceable and tunable plastic (Mylar) head.
                     </p>

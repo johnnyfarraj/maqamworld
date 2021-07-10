@@ -23,15 +23,15 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
                     
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Wahda 4/4</h1>
+                        <h1>O Iqa‘ Wahda 4/4</h1>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <div class="clearfix"></div>
                     
                     <div class="text-center mt-2 mb-3">
@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/wahda.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Wahda is the principal <em>iqa‘</em> used in vocal phrases in the Tarab genre of the twentieth century. "Wahda" is Arabic for one, referring to the single <em>dum</em> per measure, which leaves a lot of room for the singer to ornament and gives them some control over speed.</p>
+                    <p>O Iqa‘ Wahda é o principal <em>iqa‘</em> usado em frases vocais no gênero Tarab do século XX. "Wahda" significa “um” em árabe, em referência a um único <em>dum</em> por compasso, o que deixa bastante espaço para o(a) cantor(a)  ornamentar, além de fornecer algum controle sobre a velocidade.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -57,7 +58,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ba‘id ‘Annak (1965)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad Abdel Wahab (Egypt)</span>
+                                    <span>Música de Muhammad Abdel Wahab (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -68,9 +69,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Darit el-Ayyam (1970)</b>
+                                    <b>Daret el-Ayyam (1970)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad Abdel Wahab (Egypt)</span>
+                                    <span>Música de Muhammad Abdel Wahab (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -83,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Qari’at al-Fingan (1976)</b>
                                     <span>Abdel Halim Hafez</span>
-                                    <span>Music by Muhammad al-Mugi</span>
+                                    <span>Música de Muhammad al-Mugi</span>
                                 </div>
                             </label>
                         </div>
@@ -96,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Qasida Salu Qalbi (1946)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Riyad al-Sunbati</span>
+                                    <span>Música de Riyad al-Sunbati</span>
                                 </div>
                             </label>
                         </div>
@@ -109,7 +110,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Iqa‘ Wahda 4/4</b>
-                                    <span>Tabla demonstration by Faisal Zedan</span>
+                                    <span>Demonstração em Tabla por Faisal Zedan</span>
                                 </div>
                             </label>
                         </div>

@@ -23,15 +23,15 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Sudasi 6/4</h1>
+                        <h1>O Iqa‘ Sudasi 6/4</h1>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/sudasi.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Sudasi (whose name means based on the number "six") is a very popular <em>iqa‘</em> to accompany folk line dances from Lebanon and Palestine, like the Dabke. It can modulate to 3 back-to-back measures of <a href="malfuf.php">Iqa‘ Malfuf</a>.</p>
+                    <p>O Iqa‘ Sudassi (cujo nome significa “baseado no número seis”) é um <em>iqa‘</em>  muito popular em acompanhamentos de danças folclóricas do Líbano e da Palestina, como o <strong>Dabke</strong>. Ele pode ser modulado em 3 compassos consecutivos do <a href="malfuf.php">Iqa‘ Malfuf</a>.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -57,7 +58,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dal‘ona</b>
                                     <span>Fairouz</span>
-                                    <span>(traditional Lebanese folk song)</span>
+                                    <span>(folclore tradicional libanés)</span>
                                 </div>
                             </label>
                         </div>
@@ -70,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Mahla Layali el-Hawa (1963)</b>
                                     <span>Fairouz</span>
-                                    <span>Music and lyrics by the Rahbani Brothers</span>
+                                    <span>Música e letra dos Irmãos Rahbani</span>
                                 </div>
                             </label>
                         </div>
@@ -83,8 +84,8 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Hajal Sannin (1965)</b>
                                     <span>Fairouz</span>
-                                    <span>Music and lyrics by the Rahbani Brothers</span>
-                                    <span>From the movie <strong>Bayya‘ el-Khawatim</strong></span>
+                                    <span>Música e letra dos Irmãos Rahbani</span>
+                                    <span>Do filme <strong>Bayya‘ el-Khawatim</strong></span>
                                 </div>
                             </label>
                         </div>
@@ -97,7 +98,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Iqa‘ Sudasi 6/4</b>
-                                    <span>Tabla demonstration by Faisal Zedan</span>
+                                    <span>Demonstração em Tabla por Faisal Zedan</span>
                                 </div>
                             </label>
                         </div>
@@ -105,13 +106,14 @@ include($ROOT . 'inc/head.php');
 
                     <br>
                     <div class="heading jins text-center">
-                        <h3>The second form of Iqa‘ Sudasi</h3>
+                        <h3>A segunda forma de Iqa‘ Sudasi</h3>
                     </div>
                     <div class="notation">
                         <img src="/note/iqaa/sudasi-f2.png" class="img-fluid">
                     </div>
 					<br>
-                    <p>An alternative form of Iqa‘ Sudasi starts with 3 consecutive <em>dum</em>-s, and is commonly used in Lebanese <em>dabke</em> songs.
+                    
+                    <p>Uma forma alternativa de Iqa ‘Sudasi começa com 3 <em>dum</em>-s consecutivos e é comumente usada em canções <em>dabke</em> libanesas.
 					</p>
 					<br>
 
@@ -121,8 +123,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Trab ‘Ayntura</b>
-                                    <span>Fairouz, Wadih al-Safi and Nasri Shamseddine</span>
-                                    <span>Music and lyrics by the Rahbani Brothers</span>
+                                    <span>Fairouz, Wadih al-Safi e Nasri Shamseddine</span>
+                                    <span>Música e letra dos Irmãos Rahbani</span>
                                 </div>
                             </label>
                         </div>
@@ -134,7 +136,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Ba‘albak</b>
-                                    <span>Music and lyrics by Tania Saleh</span>
+                                    <span>Música e letra do Tania Saleh</span>
                                 </div>
                             </label>
                         </div>

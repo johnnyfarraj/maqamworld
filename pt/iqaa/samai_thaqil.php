@@ -23,15 +23,15 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
                     
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Sama‘i Thaqil 10/8</h1>
+                        <h1>O Iqa‘ Sama‘i Thaqil 10/8</h1>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <div class="clearfix"></div>
                     
                     <div class="text-center mt-2 mb-3">
@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/samai_thaqil.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Sama‘i Thaqil (also called Sama‘i, for short) is a very popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre, as well as the principal iqa‘ used in the <a href="../form/ottoman.php#samai">Sama‘i</a> Turkish/Ottoman instrumental form. </p>
+                    <p>Iqa‘ Sama‘i Thaqil (também chamado de Sama‘i, for short) is a very popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre, as well as the principal iqa‘ used in the <a href="../form/ottoman.php#samai">Sama‘i</a> Turkish/Ottoman instrumental form. </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah ‘Atini Bikra al-Dinan</b>
-                                    <span>Salim Sahhab Orchestra</span>
+                                    <span>Orquestra Salim Sahhab</span>
                                 </div>
                             </label>
                         </div>
@@ -81,7 +81,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Imlali al-Aqdaha Sirfan</b>
-                                    <span>Sheikh Hamza Shakkur and Ensemble Al Kindi</span>
+                                    <span>Sheikh Hamza Shakkur e Conjunto Al-Kindi</span>
                                 </div>
                             </label>
                         </div>
@@ -93,8 +93,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Laha Badru al-Timm</b>
-                                    <span>Abdel Halim Noueira Ensemble</span>
-                                    <span>Music by Sheikh Mahmud Subh</span>
+                                    <span>Orquesta Abdel Halim Noueira</span>
+                                    <span>Música de Sheikh Mahmud Subh</span>
                                 </div>
                             </label>
                         </div>
@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Mala al-Kasat</b>
                                     <span>Ensemble Al-Kindi</span>
-                                    <span>Music by Muhammad ‘Uthman</span>
+                                    <span>Música de Muhammad ‘Uthman</span>
                                 </div>
                             </label>
                         </div>
@@ -133,7 +133,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Talaffata al-Dhabiyu</b>
                                     <span>Ensemble Al-Kindi</span>
-                                    <span>Music by Sheikh Mahmud Subh</span>
+                                    <span>Música de Sheikh Mahmud Subh</span>
                                 </div>
                             </label>
                         </div>
@@ -159,7 +159,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Ya Ghusayn al-Ban</b>
                                     <span>Sabri al-Mudallal</span>
-                                    <span>Music by Sayyed Darwish</span>
+                                    <span>Música de Sayyed Darwish</span>
                                 </div>
                             </label>
                         </div>
@@ -172,7 +172,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Iqa‘ Sama‘i Thaqil 10/8</b>
-                                    <span>Tabla demonstration by Faisal Zedan</span>
+                                    <span>Demonstração em Tabla por Faisal Zedan</span>
                                 </div>
                             </label>
                         </div>

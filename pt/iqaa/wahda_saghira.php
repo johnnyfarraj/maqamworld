@@ -23,16 +23,16 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
                     
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Wahda Saghira 2/4</h1>
-                        <h3>(also called <strong>Wahda Basita</strong>)</h3>
+                        <h1>O Iqa‘ Wahda Saghira 2/4</h1>
+                        <h3>(também chamado de <strong>Wahda Basita</strong>)</h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <div class="clearfix"></div>
                     
                     <div class="text-center mt-2 mb-3">
@@ -43,7 +43,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/wahda_saghira.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Wahda Saghira is a simple 2/4 <em>iqa‘</em> used in both vocals and instrumental phrases. "Wahda" means one in Arabic, referring to the single <em>dum</em> per measure, while "saghira" means small. It is also known as Wahda Basita ("basita" is Arabic for simple).</p>
+                    <p>O Iqa‘ Wahda Saghira é um <em>iqa‘</em> 2/4 simples usado tanto em frases vocais quanto instrumentais. “Wahda” significa “um” em árabe, em referindo-se ao único <em>dum</em> por compasso, enquanto “saghira” significa “pequeno”. Ele também é conhecido como Wahda Bassita (“bassita” significa “simples” em árabe).
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -56,9 +57,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Darit el-Ayyam (1970)</b>
+                                    <b>Daret el-Ayyam (1970)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad Abdel Wahab (Egypt)</span>
+                                    <span>Música de Muhammad Abdel Wahab (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -71,7 +72,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>‘Ala Hesb Widad Albi (1953)</b>
                                     <span>Abdel Halim Hafez</span>
-                                    <span>Music by Baligh Hamdi (Egypt)</span>
+                                    <span>Música de Baligh Hamdi (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -83,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Qasida Mudnaka (1938)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab (Egypt)</span>
+                                    <span>Voz e música por Muhammad Abdel Wahab (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -96,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Nibtidi Mnein el-Hikaya (1975)</b>
                                     <span>Abdel Halim Hafez</span>
-                                    <span>Music by Muhammad Abdel Wahab (Egypt)</span>
+                                    <span>Música de Muhammad Abdel Wahab (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -109,7 +110,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Qal Eh Biyis'aluni</b>
                                     <span>Warda</span>
-                                    <span>Music by Sayed Makkawi</span>
+                                    <span>Música de Sayed Makkawi</span>
                                 </div>
                             </label>
                         </div>

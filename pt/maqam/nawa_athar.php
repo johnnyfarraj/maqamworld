@@ -80,7 +80,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ghulubti Asalih Fi Rouhi (1948)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Riyad al-Sunbati</span>
+                                    <span>Música de Riyad al-Sunbati</span>
                                 </div>
                             </label>
                         </div>
@@ -92,7 +92,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" checked>
                                 <div class="info">
                                     <b>Gamil Gamal (1952)</b>
-                                    <span>Vocals and Music by Farid al-Atrash</span>
+                                    <span>Voz e música por Farid al-Atrash</span>
                                 </div>
                             </label>
                         </div>
@@ -105,7 +105,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Fakkaruni (1966)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad Abdel Wahab (Egypt)</span>
+                                    <span>Música de Muhammad Abdel Wahab (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -117,8 +117,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Adhkuru al-Hubba</b>
-                                    <span>Abdel Halim Noueira Ensemble</span>
-                                    <span>Music by Dawud Husni (Egypt)</span>
+                                    <span>Orquesta Abdel Halim Noueira</span>
+                                    <span>Música de Dawud Husni (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -131,7 +131,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Sama‘i Nawa Athar</b>
                                     <span>Syrian Ensemble of Homs</span>
-                                    <span>Music by Jamil ‘Uways (Syria)</span>
+                                    <span>Música de Jamil ‘Uways (Syria)</span>
                                 </div>
                             </label>
                         </div>

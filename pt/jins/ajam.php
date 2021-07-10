@@ -101,7 +101,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Aghadan Alqaka (1971)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad Abdel Wahab (Egypt)</span>
+                                    <span>Música de Muhammad Abdel Wahab (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -114,7 +114,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>el-Buwab (1994)</b>
                                     <span>Fairouz</span>
-                                    <span>Music by Philemon Wehbe</span>
+                                    <span>Música de Philemon Wehbe</span>
                                 </div>
                             </label>
                         </div>
@@ -127,7 +127,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Fi Youm we Leila (1978)</b>
                                     <span>Warda</span>
-                                    <span>Music by Muhammad Abdel Wahab (Egypt)</span>
+                                    <span>Música de Muhammad Abdel Wahab (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -140,7 +140,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Lissa Fakir (1960)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Riyad al-Sunbati</span>
+                                    <span>Música de Riyad al-Sunbati</span>
                                 </div>
                             </label>
                         </div>
@@ -165,7 +165,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Til‘it Ya Mahla Nurha</b>
                                     <span>Muhammad Abdel Karim</span>
-                                    <span>Music by Sayed Darwish</span>
+                                    <span>Música de Sayed Darwish</span>
                                 </div>
                             </label>
                         </div>
@@ -185,7 +185,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ba‘id ‘Annak (1965)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad Abdel Wahab (Egypt)</span>
+                                    <span>Música de Muhammad Abdel Wahab (Egito)</span>
                                     <span>3-note Jins ‘Ajam on the 6<sup>th</sup> degree of <a href="../maqam/kurd.php">Maqam Bayati</a></span>
                                 </div>
                             </label>
@@ -199,7 +199,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Habba Fouq w Habba Taht</b>
                                     <span>Ahmad Adaweya</span>
-                                    <span>Music by Mohamed el-Mesery</span><!--  الحان : محمد المسيري -->
+                                    <span>Música de Mohamed el-Mesery</span><!--  الحان : محمد المسيري -->
                                     <span>3-note Jins ‘Ajam on the 6<sup>th</sup> degree of <a href="../maqam/saba.php">Maqam Saba</a></span>
                                 </div>
                             </label>
@@ -213,7 +213,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ahu Da-lli Sar</b>
                                     <span>Nay Barghouthi</span>
-                                    <span>Music by Sayed Darwish</span>
+                                    <span>Música de Sayed Darwish</span>
                                     <span>3-note Jins ‘Ajam on the 6<sup>th</sup> degree of <a href="../maqam/kurd.php">Maqam Kurd</a></span>
                                 </div>
                             </label>

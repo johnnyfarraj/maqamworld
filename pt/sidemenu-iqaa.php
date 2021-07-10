@@ -14,7 +14,7 @@
     <li><a href="/pt/iqaa/fakhit.php">Fakhit 20/4</a></li>
     <li><a href="/pt/iqaa/fallahi.php">Fallahi 2/4</a></li>
     <li><a href="/pt/iqaa/fox.php">Fox 2/4</a></li>
-    <li><a href="/pt/iqaa/hachaa.php">Hacha‘ 4/4</a></li>
+    <li><a href="/pt/iqaa/hachaa.php">Hatcha‘ 4/4</a></li>
     <li><a href="/pt/iqaa/jurjina.php">Jurjina 10/8</a></li>
     <li><a href="/pt/iqaa/karachi.php">Karachi 2/4</a></li>
     <li><a href="/pt/iqaa/katakufti.php">Katakufti 8/8</a></li>

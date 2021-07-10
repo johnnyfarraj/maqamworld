@@ -74,7 +74,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ghannili Shwayy Shwayy (1945)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Zakariyya Ahmad (Egypt)</span>
+                                    <span>Música de Zakariyya Ahmad (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -87,7 +87,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>‘Ala Allah T‘ud (1970)</b>
                                     <span>Wadih al-Safi</span>
-                                    <span>Music by Farid al-Atrash</span>
+                                    <span>Música de Farid al-Atrash</span>
                                 </div>
                             </label>
                         </div>
@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Min ‘Azzibak</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab (Egypt)</span>
+                                    <span>Voz e música por Muhammad Abdel Wahab (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -112,7 +112,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Min ‘Izz el-Nawm</b>
                                     <span>Fairouz</span>
-                                    <span>Music by Philemon Wehbe</span>
+                                    <span>Música de Philemon Wehbe</span>
                                 </div>
                             </label>
                         </div>

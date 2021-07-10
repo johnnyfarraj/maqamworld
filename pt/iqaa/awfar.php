@@ -23,16 +23,16 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Awfar Masri 19/4</h1>
+                        <h1>O Iqa‘ Awfar Masri 19/4</h1>
                     </div>
 
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -105,7 +105,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Muwashah Ya Man Ramani Bil-Siham</b>
                                     <span>(in <a href="../maqam/nikriz.php">Maqam Nikriz</a>)</span>
                                     <span>Ensemble Dugah</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
+                                    <span>Música de Omar al-Batch</span>
                                 </div>
                             </label>
                         </div>
@@ -119,7 +119,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Muwashah Ya Na‘isa al-Ajfan</b>
                                     <span>(in <a href="../maqam/nahawand.php">Maqam Nahawand</a>)</span>
                                     <span>Khaled al-Hafez</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
+                                    <span>Música de Omar al-Batch</span>
                                 </div>
                             </label>
                         </div>

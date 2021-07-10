@@ -60,7 +60,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sami al-Babli</b>
-                                    <span>A rare video recording of Arabic trumpet pioneer Sami al-Babli (Egypt) doing a Taqsim in <a href="../maqam/nahawand.php">Maqam Nahawand</a> with Abdo Dagher.</span>
+                                    <span>A rare video recording of Arabic trumpet pioneer Sami al-Babli (Egito) doing a Taqsim in <a href="../maqam/nahawand.php">Maqam Nahawand</a> with Abdo Dagher.</span>
                                 </div>
                             </label>
                         </div>

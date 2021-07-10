@@ -23,15 +23,15 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
                     
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Sama‘i Darij 3/4</h1>
+                        <h1>O Iqa‘ Sama‘i Darij 3/4</h1>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <div class="clearfix"></div>
                     
                     <div class="text-center mt-2 mb-3">
@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/samai_darij.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Sama‘i Darij (also called Darij, for short) is a general 3/4 <em>iqa‘</em> used both in vocal and instrumental genre. Iqa‘ Sama‘i Darij is also the principal <em>iqa‘</em> used in the <a href="../form/instr_comp.php#darij">Darij</a> instrumental composed form.
+                    <p>O Iqa‘ Sama‘i Darij (também chamado de Darij) é um iqa‘ 3/4 comum usado tanto em gêneros vocais como instrumentais. O Iqa‘ Sama‘i Darij também é o principal <em>iqa‘</em> usado na forma musical composta instrumental <a href="../form/instr_comp.php#darij">Darij</a>.
                     </p>
                     
                     <div class="player-area">
@@ -57,8 +57,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Kallili Ya Suhbu</b>
-                                    <span>Abdel Halim Noueira Ensemble</span>
-                                    <span>Music by Muhammad ‘Uthman</span>
+                                    <span>Orquesta Abdel Halim Noueira</span>
+                                    <span>Música de Muhammad ‘Uthman</span>
                                 </div>
                             </label>
                         </div>
@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" checked>
                                 <div class="info">
                                     <b>Muwashah Ya Man La`ibat Bihi Shamulu</b>
-                                    <span>Al-Turath Ensemble</span>
+                                    <span>Conjunto Al-Turath</span>
                                 </div>
                             </label>
                         </div>
@@ -95,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Iqa‘ Sama‘i Darij 3/4</b>
-                                    <span>Tabla demonstration by Faisal Zedan</span>
+                                    <span>Demonstração em Tabla por Faisal Zedan</span>
                                 </div>
                             </label>
                         </div>

@@ -23,15 +23,15 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Zaffa 4/4</h1>
+                        <h1>O Iqa‘ Zaffa 4/4</h1>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/zaffa.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Zaffa is named after a wedding procession involving a loud and diverse group of precussion instruments. Aside from weddings, it is a possible modulation from slowed down versions of 4/4 <em>iqa‘at</em> like <a href="baladi.php">Baladi</a> and <a href="maqsum.php">Maqsum</a>.</p>
+                    <p>O Iqa‘ Zaffa recebeu esse nome a partir das processões de casamentos envolvendo um grupo diverso e sonoro de instrumentos de percussão. Além de casamentos, é possível usar modulações a partir de versões lentas de <em>iqa‘at</em> 4/4 como o <a href="baladi.php">Baladi</a> e o <a href="maqsum.php">Maqsum</a>.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -56,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Duqqu il-Mazahir (1952)</b>
-                                    <span>Vocals and Music by Farid al-Atrash</span>
+                                    <span>Voz e música por Farid al-Atrash</span>
                                 </div>
                             </label>
                         </div>
@@ -69,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Alf Leila w Leila (1969)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Baligh Hamdi (Egypt)</span>
+                                    <span>Música de Baligh Hamdi (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -94,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Qadd Ya Mal il-Sham</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Music by Ahmad Abu Khalil al-Qabbani</span>
+                                    <span>Música de Ahmad Abu Khalil al-Qabbani</span>
                                 </div>
                             </label>
                         </div>
@@ -107,8 +108,8 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Hann el-Hadid (1974)</b>
                                     <span>Joseph Saqr</span>
-                                    <span>Music by Ziad Rahbani</span>
-                                    <span>From the musical Nazl el-Surur</span>
+                                    <span>Música de Ziad Rahbani</span>
+                                    <span>Do musical Nazl el-Surur</span>
                                 </div>
                             </label>
                         </div>
@@ -121,7 +122,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Iqa‘ Zaffa 4/4</b>
-                                    <span>Tabla demonstration by Faisal Zedan</span>
+                                    <span>Demonstração em Tabla por Faisal Zedan</span>
                                 </div>
                             </label>
                         </div>

@@ -23,15 +23,15 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
                     
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Fallahi 2/4</h1>
+                        <h1>O Iqa‘ Fallahi 2/4</h1>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <div class="clearfix"></div>
                     
                     <div class="text-center mt-2 mb-3">
@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/fallahi.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Fallahi is a fast-paced Egyptian iqa‘ suitable for folk music. Although it might resemble <a href="maqsum.php">Maqsum</a> played at double speed, it has a very different feel as Fallahi flows very smoothly without a big contrast (in accents) between <em>dum</em> and <em>tak</em> beats.</p>
+                    <p>O Iqa‘ Fallahi é um ritmo rápido egípcio próprio de música folclórica. Apesar de ele se parecer com o <a href="maqsum.php">Maqsum</a> tocado com o dobro da velocidade, sua sensação é muito diferente, já que o Fallahi flui muito suavemente sem um grande contraste (em acentos) entre batidas <em>dum</em> e <em>tak</em>.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -56,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>il-Benti Beida</b>
-                                    <span>Vocals and Music by Metqal Qannawi</span>
+                                    <span>Voz e música por Metqal Qannawi</span>
                                 </div>
                             </label>
                         </div>
@@ -68,8 +69,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Hizz Ya Hubb</b>
-                                    <span>Vocals by Ahmad Adaweya</span>
-                                    <span>Music by Hassan Abu el-Su‘ud</span>
+                                    <span>Voz por Ahmad Adaweya</span>
+                                    <span>Música de Hassan Abu el-Su‘ud</span>
                                 </div>
                             </label>
                         </div>
@@ -81,8 +82,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Salametha Ummu Hasan</b>
-                                    <span>Vocals by Ahmad Adaweya</span>
-                                    <span>Music by Faruq Salamah</span>
+                                    <span>Voz por Ahmad Adaweya</span>
+                                    <span>Música de Faruq Salama</span>
                                 </div>
                             </label>
                         </div>
@@ -95,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Iqa‘ Fallahi 2/4</b>
-                                    <span>Tabla demonstration by Faisal Zedan</span>
+                                    <span>Demonstração em Tabla por Faisal Zedan</span>
                                 </div>
                             </label>
                         </div>

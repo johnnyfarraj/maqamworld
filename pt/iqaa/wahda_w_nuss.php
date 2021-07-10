@@ -23,15 +23,15 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
                     
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Wahda w-Nuss 4/4</h1>
+                        <h1>O Iqa‘ Wahda w-Nuss 4/4</h1>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <div class="clearfix"></div>
                     
                     <div class="text-center mt-2 mb-3">
@@ -42,7 +42,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/wahda_w_nuss.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Wahda w-Nuss (meaning "one and a half" in Arabic) is a syncopated and version of <a href="maqsum.php">Iqa‘ Maqsum</a> with a first <em>tak</em> delayed by half of an an eighth note. It is very popular in the Tarab genre of the mid-twentieth century.</p>
+                    <p>O Iqa‘ Wahda w-Nuss ("um e meio" em árabe) é uma versão sincopada do <a href="maqsum.php">Iqa‘ Maqsum</a>, com o primeiro <em>tak</em> atrasado em metade de uma colcheia. Ele é muito popular no gênero Tarab desde meados do século XX.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -56,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Nura Nura (1953)</b>
-                                    <span>Vocals and Music by Farid al-Atrash</span>
+                                    <span>Voz e música por Farid al-Atrash</span>
                                 </div>
                             </label>
                         </div>
@@ -69,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Amal Hayati (1965)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad Abdel Wahab (Egypt)</span>
+                                    <span>Música de Muhammad Abdel Wahab (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -82,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ba‘id ‘Annak (1965)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Baligh Hamdi (Egypt)</span>
+                                    <span>Música de Baligh Hamdi (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -95,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Kawini Ya ‘Ali (1953)</b>
                                     <span>Sabah</span>
-                                    <span>Music by Farid al-Atrash</span>
+                                    <span>Música de Farid al-Atrash</span>
                                 </div>
                             </label>
                         </div>
@@ -108,7 +109,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Iqa‘ Wahda w-Nuss 4/4</b>
-                                    <span>Tabla demonstration by Faisal Zedan</span>
+                                    <span>Demonstração em Tabla por Faisal Zedan</span>
                                 </div>
                             </label>
                         </div>

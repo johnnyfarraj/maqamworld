@@ -90,7 +90,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Muwashah Sihtu Wajdan</b>
                                     <span>Choir of the faculty of Music - Kaslik University (Lebanon)</span>
                                     <span>Conductor: Aïda Shalhoub Ziadé</span>
-                                    <span>Music by Sayyed Darwish</span>
+                                    <span>Música de Sayyed Darwish</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>
                             </label>
@@ -104,7 +104,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Ya Shadi al-Alhan</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Music by Sayyed Darwish</span>
+                                    <span>Música de Sayyed Darwish</span>
                                 </div>
                             </label>
                         </div>
@@ -117,7 +117,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Hayrana Leh (1930)</b>
                                     <span>Leila Murad</span>
-                                    <span>Music by Dawud Husni (Egypt)</span>
+                                    <span>Música de Dawud Husni (Egito)</span>
                                 </div>
                             </label>
                         </div>

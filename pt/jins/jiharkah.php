@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>‘Awwidti ‘Eini (1957)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Riyad al-Sunbati</span>
+                                    <span>Música de Riyad al-Sunbati</span>
                                 </div>
                             </label>
                         </div>
@@ -96,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Shams el-Asil (1958)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Riyad al-Sunbati</span>
+                                    <span>Música de Riyad al-Sunbati</span>
                                 </div>
                             </label>
                         </div>
@@ -122,7 +122,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Mal il-Sham</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Music by Ahmad Abu Khalil al-Qabbani</span>
+                                    <span>Música de Ahmad Abu Khalil al-Qabbani</span>
                                 </div>
                             </label>
                         </div>

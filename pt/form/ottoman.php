@@ -68,7 +68,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sama‘i Bayati - Ibrahim al-‘Aryan</b>
-                                    <span>Sama‘i in <a href="../maqam/bayati.php">Maqam Bayati</a> by Ibrahim al-‘Aryan (Egypt), recorded by the Tunisian Radio Orchestra.</span>
+                                    <span>Sama‘i in <a href="../maqam/bayati.php">Maqam Bayati</a> by Ibrahim al-‘Aryan (Egito), recorded by the Tunisian Radio Orchestra.</span>
                                 </div>
                             </label>
                         </div>
@@ -102,7 +102,7 @@ include($ROOT . 'inc/head.php');
                              --><div class="info">
                                     <b>Sama‘i Kurd - ‘Abdu Dagher</b>
                                     <span></span>
-                                    <span>Sama‘i in <a href="../maqam/kurd.php">Maqam Kurd</a> by ‘Abdu Dagher (Egypt), which features a long <a href="instr_comp.php#muqaddima">muqaddima</a> (composed introduction).</span>
+                                    <span>Sama‘i in <a href="../maqam/kurd.php">Maqam Kurd</a> by ‘Abdu Dagher (Egito), which features a long <a href="instr_comp.php#muqaddima">muqaddima</a> (composed introduction).</span>
                                 </div>
                             </label>
                         </div>
@@ -118,7 +118,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Sama‘i Rast - George Michel</b>
-                                    <span>Sama‘i in <a href="../maqam/rast.php">Maqam Rast</a> by George Michel (Egypt), recorded by the Tunisian Radio Orchestra.</span>
+                                    <span>Sama‘i in <a href="../maqam/rast.php">Maqam Rast</a> by George Michel (Egito), recorded by the Tunisian Radio Orchestra.</span>
                                 </div>
                             </label>
                         </div>
@@ -161,7 +161,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Longa Farahfaza - Riyad al-Sunbati</b>
-                                    <span>Longa in <a href="../maqam/nahawand.php">Maqam Farahfaza</a> by Riyad al-Sunbati (Egypt), recorded by the Simon Shaheen Ensemble.</span>
+                                    <span>Longa in <a href="../maqam/nahawand.php">Maqam Farahfaza</a> by Riyad al-Sunbati (Egito), recorded by the Simon Shaheen Ensemble.</span>
                                 </div>
                             </label>
                         </div>
@@ -177,7 +177,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Longa ‘Ajam - ‘Abdu Daghir</b>
-                                    <span>Longa in <a href="../maqam/ajam.php">Maqam ‘Ajam</a> by ‘Abdu Daghir (Egypt), recorded by his ensemble.</span>
+                                    <span>Longa in <a href="../maqam/ajam.php">Maqam ‘Ajam</a> by ‘Abdu Daghir (Egito), recorded by his ensemble.</span>
                                 </div>
                             </label>
                         </div>
@@ -193,7 +193,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Longa Nahawand - Dr. Alfred Gamil</b>
-                                    <span>Longa in <a href="../maqam/nahawand.php">Maqam Nahawand</a> by Dr. Alfred Gamil (Egypt), recorded by his ensemble.</span>
+                                    <span>Longa in <a href="../maqam/nahawand.php">Maqam Nahawand</a> by Dr. Alfred Gamil (Egito), recorded by his ensemble.</span>
                                 </div>
                             </label>
                         </div>
@@ -236,7 +236,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Bashraf Kara Batak Sikah (1929)</b>
-                                    <span>Bashraf Kara Batak in <a href="../maqam/sikah.php">Maqam Sikah</a>, recorded in 1929 by Sami al-Shawwa (Syria) on <a href="../instr/violin.php">violin</a> and Muhammad al-Qasabgi (Egypt) on <a href="../instr/oud.php">oud</a>.</span>
+                                    <span>Bashraf Kara Batak in <a href="../maqam/sikah.php">Maqam Sikah</a>, recorded in 1929 by Sami al-Shawwa (Syria) on <a href="../instr/violin.php">violin</a> and Muhammad al-Qasabgi (Egito) on <a href="../instr/oud.php">oud</a>.</span>
                                 </div>
                             </label>
                         </div>

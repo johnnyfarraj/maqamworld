@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Msahharni (1972)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Sayyed Makkawi</span>
+                                    <span>Música de Sayyed Makkawi</span>
                                 </div>
                             </label>
                         </div>
@@ -95,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ba‘id ‘Annak (1965)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Baligh Hamdi (Egypt)</span>
+                                    <span>Música de Baligh Hamdi (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr il-Alb Yama Intazar (1931)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab (Egypt)</span>
+                                    <span>Voz e música por Muhammad Abdel Wahab (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -119,7 +119,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Saga al-Laylu (1939)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab (Egypt)</span>
+                                    <span>Voz e música por Muhammad Abdel Wahab (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -132,7 +132,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Bayna Qasiyun Wa Rabwa</b>
                                     <span>Hassan al-Haffar</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
+                                    <span>Música de Omar al-Batch</span>
                                 </div>
                             </label>
                         </div>
@@ -145,7 +145,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Zarani Taht al-Ghayahib</b>
                                     <span>Muhammad Khayri</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
+                                    <span>Música de Omar al-Batch</span>
                                 </div>
                             </label>
                         </div>
@@ -158,7 +158,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr Yalli Qawamak Ya‘gibni</b>
                                     <span>Karem Mahmoud</span>
-                                    <span>Music by Sayyed Darwish</span>
+                                    <span>Música de Sayyed Darwish</span>
                                 </div>
                             </label>
                         </div>

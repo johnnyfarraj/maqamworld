@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ya Halawit el-Dunya</b>
                                     <span>Sayyed Makkawi</span>
-                                    <span>Music by Zakariyya Ahmad (Egypt)</span>
+                                    <span>Música de Zakariyya Ahmad (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Hibbi Zurni My Tayassar</b>
                                     <span>Karem Mahmud</span>
-                                    <span>Music by Darwish al-Hariri</span>
+                                    <span>Música de Darwish al-Hariri</span>
                                 </div>
                             </label>
                         </div>
@@ -110,7 +110,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Ramani Bi Sahmi Hawahu</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Music by Daoud Husni</span>
+                                    <span>Música de Daoud Husni</span>
                                 </div>
                             </label>
                         </div>
@@ -123,7 +123,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr Ya Ma-nta Wahishni</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Music by Muhammad ‘Uthman</span>
+                                    <span>Música de Muhammad ‘Uthman</span>
                                 </div>
                             </label>
                         </div>
@@ -136,7 +136,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr Ya Nas Ana Mutt Fi Hubbi</b>
                                     <span>Ghada Shbeir</span>
-                                    <span>Music by Sayyed Darwish</span>
+                                    <span>Música de Sayyed Darwish</span>
                                 </div>
                             </label>
                         </div>

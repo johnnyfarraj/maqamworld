@@ -90,7 +90,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Tuta (1942)</b>
-                                    <span>Farid al-Atrash's instrumental composition Tuta (from the movie <strong>Ahlam el-Shabab</strong>)</span>
+                                    <span>Farid al-Atrash's instrumental composition Tuta (do filme <strong>Ahlam el-Shabab</strong>)</span>
                                 </div>
                             </label>
                         </div>

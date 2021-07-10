@@ -23,16 +23,16 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Ayyub 2/4</h1>
-                        <h3>(also called <strong>Zar</strong>)</h3>
+                        <h1>O Iqa‘ Ayyub 2/4</h1>
+                        <h3>(também chamado de <strong>Zar</strong>)</h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -43,7 +43,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/ayyub.png" class="img-fluid">
                     </div>
 
-                    <p>Iqa‘ Ayyub (also spelled Ayoub) is primarily used in Sufi music as well as in some folk music and <em>Raqs Sharqi</em> (Belly Dance). Ayyub is sometimes called Zar in Egypt, after a folk healing ceremony led by women who play hand-held percussion instruments. Ayyub’s feel is rapid, short and cyclical.</p>
+                    <p>O Iqa‘ Ayyub (também soletrado como Ayoub) é primariamente usado na música Sufi, assim como em algumas músicas folclóricas e <em>Raqs Sharqi</em> (Dança do Ventre). O Ayyub é às vezes chamado de Zar no Egito, a partir de uma cerimônia popular de cura conduzida por mulheres, que tocam instrumentos de percussão de mão. A sensação do Ayyub é rápida, curta e cíclica.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -69,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Ya Man Nasha</b>
-                                    <span>Rima Khcheich and Salim Sahhab Orchestra</span>
+                                    <span>Rima Khcheich e Orquestra Salim Sahhab</span>
                                 </div>
                             </label>
                         </div>
@@ -81,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Tajallat Wa-njalat Laylan</b>
-                                    <span>Sheikh Hamza Shakkur and Ensemble Al Kindi</span>
+                                    <span>Sheikh Hamza Shakkur e Conjunto Al-Kindi</span>
                                 </div>
                             </label>
                         </div>
@@ -94,7 +95,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Iqa‘ Ayyub 2/4</b>
-                                    <span>Tabla demonstration by Faisal Zedan</span>
+                                    <span>Demonstração em Tabla por Faisal Zedan</span>
                                 </div>
                             </label>
                         </div>

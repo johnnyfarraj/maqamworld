@@ -75,7 +75,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Bayna Qasiyun Wa Rabwa</b>
                                     <span>Syrian National Orchestra</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
+                                    <span>Música de Omar al-Batch</span>
                                 </div>
                             </label>
                         </div>
@@ -88,7 +88,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>‘Awwidti ‘Eini (1957)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Riyad al-Sunbati</span>
+                                    <span>Música de Riyad al-Sunbati</span>
                                 </div>
                             </label>
                         </div>
@@ -101,7 +101,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Hawwil Ya Ghannam</b>
                                     <span>Najah Salam</span>
-                                    <span>Music by Eliya al-Matni</span>
+                                    <span>Música de Eliya al-Matni</span>
                                 </div>
                             </label>
                         </div>
@@ -114,7 +114,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ba‘id ‘Annak (1965)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Baligh Hamdi (Egypt)</span>
+                                    <span>Música de Baligh Hamdi (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -127,7 +127,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Fi Youm We Leila (1978)</b>
                                     <span>Warda</span>
-                                    <span>Music by Muhammad Abdel Wahab (Egypt)</span>
+                                    <span>Música de Muhammad Abdel Wahab (Egito)</span>
                                 </div>
                             </label>
                         </div>

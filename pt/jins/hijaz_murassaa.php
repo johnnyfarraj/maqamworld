@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ana Fi-ntizarak (1943)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Zakariyya Ahmad (Egypt)</span>
+                                    <span>Música de Zakariyya Ahmad (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr el-Hobb Ma Hush Bis-Sahl</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Music by Dawud Husni (Egypt)</span>
+                                    <span>Música de Dawud Husni (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -96,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Badru Timmin (Oud Taqsim)</b>
                                     <span>Ghada Shbeir</span>
-                                    <span>Music by Sheikh Mursi al-Hariri</span>
+                                    <span>Música de Sheikh Mursi al-Hariri</span>
                                 </div>
                             </label>
                         </div>
@@ -108,7 +108,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Badru Timmin Haza Husnan</b>
-                                    <span>Vocals and Music by Sheikh Mursi al-Hariri</span>
+                                    <span>Voz e música por Sheikh Mursi al-Hariri</span>
                                 </div>
                             </label>
                         </div>
@@ -120,7 +120,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Laha Badru-t-Tim</b>
-                                    <span>Vocals by Sheikh Mahmud Subh</span>
+                                    <span>Voz por Sheikh Mahmud Subh</span>
                                 </div>
                             </label>
                         </div>
@@ -133,7 +133,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Mala al-Kasat (khana)</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Music by Muhammad ‘Uthman</span>
+                                    <span>Música de Muhammad ‘Uthman</span>
                                 </div>
                             </label>
                         </div>

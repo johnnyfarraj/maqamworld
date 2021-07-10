@@ -23,16 +23,16 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <?php include('../sidemenu-iqaa.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
                     
                     <div class="heading jins text-center">
-                        <h1>Iqa‘ Sama‘i Saraband 3/8</h1>
-                        <h3>(also called <strong>Sama‘i Ta’ir</strong>)</h3>
+                        <h1>O Iqa‘ Sama‘i Saraband 3/8</h1>
+                        <h3>(também chamado de <strong>Sama‘i Ta’ir</strong>)</h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa’at</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Iqa‘at</a>
                     <div class="clearfix"></div>
                     
                     <div class="text-center mt-2 mb-3">
@@ -43,7 +43,8 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/iqaa/samai_saraband.png" class="img-fluid">
                     </div>
                     
-                    <p>Iqa‘ Sama‘i Saraband, also called <strong>Sama‘i Ta’ir</strong> ("ta’ir" means flying in Arabic), is a light and fast <em>iqa‘</em> that is popular in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> vocal genre.</p>
+                    <p>O Iqa‘ Sama‘i Saraband, também chamado de <strong>Sama‘i Ta’ir</strong> ("ta’ir" significa “voando” em árabe), é um <em>iqa‘</em> rápido e leve que é popular no gênero vocal <a href="../form/vocal_comp.php#muwashah">Muwashah</a>.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -58,7 +59,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Qultu Lamma Ghaba ‘Anni</b>
                                     <span>Hamam Khayri</span>
-                                    <span>Music by ‘Umar al-Batsh</span>
+                                    <span>Música de Omar al-Batch</span>
                                 </div>
                             </label>
                         </div>
@@ -71,7 +72,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Iqa‘ Sama‘i Saraband 3/8</b>
-                                    <span>Tabla demonstration by Faisal Zedan</span>
+                                    <span>Demonstração em Tabla por Faisal Zedan</span>
                                 </div>
                             </label>
                         </div>
