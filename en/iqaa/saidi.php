@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
                     
                     <div class="heading jins text-center">
                         <h1>Iqa‘ Sa‘idi 4/4</h1>
-                        <h3>(also apelled Saidi)</h3>
+                        <h3>(also spelled Saidi)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Iqa‘ Index</a>
                     <div class="clearfix"></div>
