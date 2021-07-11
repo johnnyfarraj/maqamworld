@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>A Tabla</h1>
-                        <h3>Also called Dirbakki or Darbuka</h3>
+                        <h3>Também chamada Dirbakki ou Darbuka</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Instrumentos</a>
@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/tabla.jpg" alt="A Tabla">
-                        <span>Aluminum-body tabla with plastic head from Gawharet El-Fan, Egypt. &copy; MaqamWorld</span>
+                        <span>Tabla feita de alumínio com pele de plástico da Gawharet El-Fan, Egito. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
@@ -48,11 +48,13 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/dirbakki.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Dirbakki</a>
                     </div>
 
-                    <p> A Tabla (também chamado de "Dirbakki" in Levantine dialects or "Darbuka" in Western countries) is a goblet shaped drum with skin fixed on one side.
+                    <p>A Tabla (também chamada de "Dirbakki" nos dialetos levantinos ou "Darbuka" nos países ocidentais) é um tambor em forma de cálice com uma pele fixada em um dos lados.
                     </p>
-                    <p>Traditional <em>tabla</em>-s are made of clay and have fish or goat skin glued on and held tightly with a system of woven threads. Modern <em>tabla</em>-s have an aluminum body with a replaceable and tunable plastic (Mylar) head.
+                    
+                    <p>As tabla-s tradicionais são feitas de argila e têm pele de peixe ou cabra colada e presa firmemente com um sistema de fios tecidos. Tabla-s modernas têm um corpo de alumínio com uma pele de plástico substituível e ajustável (Mylar).
                     </p>
-                    <p> The <em>tabla</em> is a very popular instrument in folk and pop music, and is especially popular in the Belly Dance genre. It is used to a certain extent in more classical genres.
+                    
+                    <p>A tabla é um instrumento muito utilizado na música folclórica e no pop, e é especialmente popular no gênero musical para Dança do Ventre. É usada até certo ponto em gêneros mais clássicos.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=dpSa2SEnFh8">
@@ -65,7 +67,8 @@ include($ROOT . 'inc/head.php');
                                 </div>
                                 <div class="info">
                                     <b>Hossam Ramzi</b>
-                                    <span>Egyptian veteran Tabla player Hossam Ramzi talks about the instrument in an interview at Analogue to Digital Music Expo, 2013</span>
+                                    <span>O veterano derbakista egípcio Hossam Ramzy fala sobre o instrumento em uma entrevista na Analogue to Digital Music Expo de 2013
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -81,7 +84,8 @@ include($ROOT . 'inc/head.php');
                                 </div>
                                 <div class="info">
                                     <b>Sa‘id al-Artist</b>
-                                    <span>Egyptian tabla master and teacher Sa‘id al-Artist with his percussion ensemble.</span>
+                                    <span>O mestre egípcio da tabla e professor Sa'id al-Artist com seu conjunto de percussão
+                                    </span>
                                 </div>
                             </label>
                         </div>

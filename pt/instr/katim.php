@@ -30,22 +30,23 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>O Katem</h1>
-                        <h3>A Blunt Supporting Frame Drum</h3>
+                        <h3>Um tambor de armação de apoio de som abafado</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Instrumentos</a>
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
-                        <img src="/instr/katim.jpg" alt="Katim">
-                        <span>A tunable Katim with a plastic head. &copy; MaqamWorld</span>
+                        <img src="/instr/katim.jpg" alt="Katem">
+                        <span>TODO A tunable Katem with a plastic head. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/katim.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Katim</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/katim.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Katem</a>
                     </div>
                     
-                    <p> O Katem (from the verb "katama", to mute or to muffle) is a heavy frame drum with a dull sound. The <em>Katim</em> is usually squeezed between the player's knees and is meant to be played with the hands as opposed to the fingers. Most <em>Katim</em>-s today have a plastic head and are tunable. The <em>Katim</em>'s main role is to support other instruments in the rhythm section by accenting the <em>dum</em> and <em>tak</em> basic sounds with much ornamentation.</p>
+                    <p>O Katim (do verbo "katama", silenciar ou abafar) é um tambor de armação pesado de som abafado. O Katim é geralmente segurado entre os joelhos do instrumentista e é para ser tocado com as mãos e não com os dedos. A maioria dos <em>Katem</em>-s de hoje tem pele de plástico e afinação ajustável. O papel principal do <em>Katem</em> é dar apoio a outros instrumentos na seção rítmica, acentuando os sons básicos do <strong>dum</strong> e <strong>tak</strong>strong> com muita ornamentação.
+                    </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=cU1uHX74qkE&t=0s">
                         <div class="radio">
@@ -56,8 +57,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div>
                                 <div class="info">
-                                    <b>Zaffa (Wedding Party)</b>
-                                    <span>An Egyptian Zaffa (wedding party) with a large group of percussionists using a combination of Katim-s, <a href="mazhar.php">Mazhar</a>-s and <a href="tabla.php">Tabla</a>-s, all with synthetic heads.</span>
+                                    <b>Zaffa (Festa de casamento)</b>
+                                    <span>Uma Zaffa (festa de casamento) egípcia com um grande grupo de percussionistas usando uma combinação de <a href="mazhar.php">Mazhar</a>-s, Katem-s e <a href="tabla.php">Tabla</a>-s egípcios, todos feitos com peles sintéticas.
+                                    </span>
                                 </div>
                             </label>
                         </div>

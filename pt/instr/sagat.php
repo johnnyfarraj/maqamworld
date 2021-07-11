@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>As Sagat</h1>
-                        <h3>Brass Finger Cymbals</h3>
+                        <h3>Címbalos de dedo feitos de latão</h3>
                     </div>
                     
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Instrumentos</a>
@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/sagat.jpg" alt="Sagat">
-                        <span>A pair of brass sagat. &copy; MaqamWorld.</span>
+                        <span>Um par de sagat de latão. &copy; MaqamWorld.</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
@@ -48,9 +48,10 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/tura.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Tura</a>
                     </div>
 
-                    <p>Sagat (called <em>Sajat</em> outside Egypt) are brass finger cymbals around 1&#189; to 2 inches in diameter (larger cymbals of up to twice that diameter exist and are called <em>Tura</em>). They are worn on the thumb and the 3<sup>rd</sup> finger of each hand using stretchy bands. Sagat are sometimes called by their Turkish name "zills".</p>
+                    <p>Sagat (pronuncia-se <em>Sajat</em> fora do Egito) são címbalos de latão com cerca de 1&#189; a 2 polegadas (entre 4 e 5 cm) de diâmetro (existem címbalos maiores de até duas vezes esse diâmetro; estes são chamados de <em>Tura</em>). Eles são presos no polegar e no terceiro dedo de cada mão usando faixas elásticas. Sagat são às vezes chamadas pelo nome turco de "zills".
+                    </p>
 
-                    <p><em>Sagat</em> are very popular among <em>Raqs Sharqi</em> professionals (belly dancers) as they beautifully accent and add color to other perussion instruments in the rhythm section. For this reason, countless YouTube videos exist on finger cymbal technique and performance.
+                    <p>As Sagat são muito populares entre profissionais de <em>Raqs Sharqi</em> (bailarinas de dança do ventre), pois acentuam e adicionam cor a outros instrumentos de percussão na seção rítmica. Por esse motivo, existem inúmeros vídeos no YouTube sobre técnica e performance dos címbalos de dedo.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=UpG__9CAiVE&t=0s">
@@ -63,7 +64,7 @@ include($ROOT . 'inc/head.php');
                                 </div>
                                 <div class="info">
                                     <b>Karim Nagi</b>
-                                    <span>Percussionist Karim Nagi (Egypt/USA) plays a Sagat solo</span>
+                                    <span>O percussionista Karim Nagi (Egito/EUA) toca um Sagat solo</span>
                                 </div>
                             </label>
                         </div>

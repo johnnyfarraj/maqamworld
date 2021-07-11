@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>O Nay</h1>
-                        <h3>An end-blown Flute</h3>
+                        <h3>Uma flauta soprada pela extremidade</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Instrumentos</a>
@@ -38,17 +38,17 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/nay.jpg" alt="O Nay">
-                        <span>A set of 7 Lebanese nayat made by Atif Wehbi. &copy; MaqamWorld</span>
+                        <span>Um conjunto de 7 nayat libaneses feitos por Atif Wehbi. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/nay.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Nay</a>
                     </div>
 
-                    <p>
-                    O Nay (Farsi for "reed") is an open-ended, obliquely end blown flute made of cane. They nay was known in the Near East since antiquity. It is nine-jointed, and usually has 6 holes in the front for the fingers to play and 1 hole underneath for the thumb. It is played with the pads of the fingers. Nays come in different lengths, each one being tuned to a specific pitch and named after the note produced with the 1st fingerhole open (D4 for the most commonly used nay; Lowest note: C4).
+                    <p>O Nay ("junco" em farsi) é uma flauta aberta e soprada transversalmente feita de cana. O Nay é conhecido no Oriente Próximo desde a antiguidade. Tem nove juntas e geralmente 6 orifícios na frente para os dedos tocarem e 1 orifício na parte inferior para o polegar. É tocado com as pontas dos dedos. Nays têm diferentes comprimentos, cada um deles afinado em uma altura específica e chamado pelo nome da nota produzida com o primeiro orifício aberto (Ré 4) para o Nay mais comumente utilizado; nota mais grave: Dó 3).
                     </p>
-                    <p>Although very simple, the nay is one of the most difficult Arabic instruments to play. A fine player can produce a large variety of liquid sounds and ornaments; it is an extremely soulful instrument. Its poetical timbre makes it especially suitable for melancholy effects expressing both joy and yearning. It is the only wind instrument used in Arab art music, widely appreciated for its warm, breathy sound and its subtle tonal and dynamic inflections.
+                    
+                    <p>Embora muito simples, o Nay é um dos instrumentos árabes mais difíceis de tocar. Um bom instrumentista pode produzir uma grande variedade de sons e ornamentos; é um instrumento extremamente comovente. Seu timbre poético o torna especialmente adequado para efeitos melancólicos que expressam tanto alegria quanto anseio. É o único instrumento de sopro usado na música clássica árabe, amplamente apreciado por seu som cálido e soproso e suas sutis inflexões tonais e dinâmicas.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=JhOs_1SodTA&t=0s">
@@ -61,7 +61,8 @@ include($ROOT . 'inc/head.php');
                                 </div>
                              <div class="info">
                                     <b>Sayyed Salem</b>
-                                    <span>Sayyed Salem (Egito), a longtime member of the Umm Kulthum Orchestra (Egito) in a Nay solo during her song <strong>Ba‘id ‘Annak</strong> (1965, music by Baligh Hamdi)</span>
+                                    <span>Sayyed Salem (Egito), um membro de longa data da Umm Kulthum Orchestra (Egito) em um solo de Nay durante a canção <strong>Ba‘id ‘Annak</strong> (1965, composição de Baligh Hamdi)
+                                 </span>
                                 </div>
                             </label>
                         </div>
@@ -77,7 +78,7 @@ include($ROOT . 'inc/head.php');
                                 </div>
                                 <div class="info">
                                     <b>Mahmud ‘Effat</b>
-                                    <span>Veteran nay player and teacher, Mahmud ‘Effat (Egito), a longtime member of the Diamond Orchestra in a Taqsim on the Nay in <a href="../maqam/saba.php">Maqam Saba</a></span>
+                                    <span>O instrumentista e professor veterano Mahmud ‘Effat (Egito), um membro de longa data da Orquestra Diamante em um Taqsim no Nay em <a href="../maqam/saba.php">Maqam Saba</a></span>
                                 </div>
                             </label>
                         </div>
@@ -93,7 +94,7 @@ include($ROOT . 'inc/head.php');
                                 </div>
                                 <div class="info">
                                     <b>Reda Bdeir</b>
-                                    <span>Reda Bdeir (Egito) playing the song Kulli Da Kan Leh (1954, music by Muhammad Abdel Wahab)</span>
+                                    <span>Reda Bdeir (Egito) toca a canção Kulli Da Kan Leh (1954, composição de Muhammad Abdel Wahab)</span>
                                 </div>
                             </label>
                         </div>
@@ -109,7 +110,8 @@ include($ROOT . 'inc/head.php');
                                 </div>
                                 <div class="info">
                                     <b>Michael Ibrahim</b>
-                                    <span> Michael Ibrahim (Syria), director of the National Arab Orchestra (USA) in a Taqsim on the Nay in <a href="../maqam/saba.php">Maqam Saba</a> during a live performance by the NAO</span>
+                                    <span>Michael Ibrahim (Síria), diretor da National Arab Orchestra (EUA) em um Taqsim no Nay em <a href="../maqam/saba.php">Maqam Saba</a> durante uma apresentação ao vivo da NAO
+                                    </span>
                                 </div>
                             </label>
                         </div>

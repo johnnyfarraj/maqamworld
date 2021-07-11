@@ -107,9 +107,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Oud in Maqam Rast</b>
+                                    <b><a href="../form/improv.php#taqsim">Taqsim</a> Oud in Maqam Rast</b>
                                     <span>Ibrahim al-Haggar</span>
-                                    <span>Wasla in Maqam Rast</span>
+                                    <span>Wasla in <a href="../maqam/rast.php">Maqam Rast</a></span>
                                 </div>
                             </label>
                         </div>

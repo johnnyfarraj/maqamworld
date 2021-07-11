@@ -48,9 +48,9 @@ include($ROOT . 'inc/head.php');
                     <p>O Buzuq é um instrumento de cordas da família do <a href="oud.php">alaúde</a> com um corpo menor e um braço mais longo e com trastes. Em relação ao seu formato, é mais próximo do <em>Bouzouki</em> grego e do <em>Saz</em> turco. O Buzuq é originalmente um instrumento típico do Mediterrâneo Oriental (Palestina, Jordânia, Líbano e Síria), que é geralmente tocado solo. Mas está listado junto aos outros instrumentos tradicionais porque adentrou a música árabe popular em meados do século XX. Desde então, já apareceu em muitas gravações e apresentações ao vivo, tornando-se parte do conjunto árabe.
                     </p>
                     <p>
-                    O Buzuq tradicional tinha duas fileiras de cordas de metal, uma dupla (Do 4) e uma tripla (Sol 3), tocadas com um fino pedaço de chifre ou palheta de plástico. Hoje, os <em>buzuq</em>-s são feitos com três fileiras de cordas para expandir sua extensão. As cordas de metal, junto com as cravelhas metálicas (idênticas às de uma guitarra) conferem ao instrumento um som brilhante, enquanto a distribuição dos trastes cobre os quartos de tom mais comuns. Aliado ao fato de que o instrumentista pode mover os trastes levemente para ajustar sua afinação, isso permite que o buzuq execute as escalas <a href="../maqam.php">maqam</a> mais comuns com razoável precisão.
+                    O Buzuq tradicional tinha duas fileiras de cordas de metal, uma dupla (Dó 4) e uma tripla (Sol 3), tocadas com um fino pedaço de chifre ou palheta de plástico. Hoje, os <em>buzuq</em>-s são feitos com três fileiras de cordas para expandir sua extensão. As cordas de metal, junto com as cravelhas metálicas (idênticas às de uma guitarra) conferem ao instrumento um som brilhante, enquanto a distribuição dos trastes cobre os quartos de tom mais comuns. Aliado ao fato de que o instrumentista pode mover os trastes levemente para ajustar sua afinação, isso permite que o buzuq execute as escalas <a href="../maqam.php">maqam</a> mais comuns com razoável precisão.
                     </p>
-
+                    
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=isAhZyRcA0M&t=0s">
                         <div class="radio">
                             <label>

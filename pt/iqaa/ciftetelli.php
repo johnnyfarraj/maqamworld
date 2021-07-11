@@ -204,7 +204,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim de Nay en Maqam Bayati</b>
+                                    <b><a href="../form/improv.php#taqsim">Taqsim</a> de Nay en <a htef="../maqam/bayati.php">Maqam Bayati</a> </b>
                                     <span>Muhammad Khayri</span>
                                 </div>
                             </label>

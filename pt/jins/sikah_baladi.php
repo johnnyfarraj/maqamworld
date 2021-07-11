@@ -122,7 +122,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Oud (from Wasla in Rast)</b>
+                                    <b><a href="../form/improv.php#taqsim">Taqsim</a> Oud (from Wasla in Rast)</b>
                                     <span>Ibrahim al-Haggar</span>
                                 </div>
                             </label>

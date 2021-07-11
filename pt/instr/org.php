@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>O Org Árabe</h1>
-                        <h3>1970s Electric Organ fitted with some quartertones</h3>
+                        <h3>Órgão Elétrico dos anos 1970 Electric Organ equipado com alguns quartos de tom</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Instrumentos</a>
@@ -38,10 +38,10 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/org.jpg" alt="The Electric Organ">
-                        <span>Org pioneer Magdi el-Husseini (Egito).</span>
+                        <span>O pioneiro do Org Magdi el-Husseini (Egito).</span>
                     </div>
 
-                    <p> The Electric Organ (commonly called <em>org</em> in Arabic, from the French "orgue") became very popular in Arabic music in the late 1960s through the 1970s. Its pioneer and superstar was Egyptian keyboardist Magdi el-Husseini. The <em>org</em> was altered to play good-enough quartertones (as good as the accordion's) which allowed it to play most <a href="../maqam.php">maqam</a> scales. The <em>org</em> was used to play a combination of melodic lines and simple chords. Together, the <em>org</em> and the <a href="guitar.php">electric guitar</a> created a distinctive sound and mood that marked Arabic music from that decade.
+                    <p>O órgão elétrico (comumente chamado de <strong>org</strong> em árabe, do francês "orgue") tornou-se muito popular na música árabe no final dos anos 1960 até os anos 1970. Seu pioneiro e superstar do instrumento foi o tecladista egípcio Magdi el-Husseini.O org foi alterado para tocar quartos de tom suficientemente bons (tão bons quanto os do acordeão), o que lhe permitiu tocar a maioria das escalas <a href="../maqam.php">maqam</a>. O org foi usado para tocar uma combinação de linhas melódicas e acordes simples. Juntos, o org e a <a href="guitar.php">guitarra elétrica</a> criaram um som e um clima distintos que marcaram a música árabe daquela década.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=Ptd3R51Qj-s&t=2126">
@@ -54,7 +54,8 @@ include($ROOT . 'inc/head.php');
                                 </div>
                              <div class="info">
                                     <b>Magdi el-Husseini</b>
-                                    <span>Abdel Halim Hafez's song <strong>Qari'at al-Fingan</strong> (1976, music by Muhammad al-Mugi) featuring Egyptian electric organ players Magdi el-Husseini and Hani Mehanna (both part of The Diamond Orchestra).</span>
+                                    <span>A canção <strong>Qari'at al-Fingan</strong> de Abdel Halim Hafez (1976, mcomposição de Muhammad al-Mugi) com os instrumentistas egípcios de órgão elétrico Magdi el-Husseini e Hani Mehanna (ambos integrantes da Orquestra Diamante).
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -69,8 +70,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div>
                                 <div class="info">
-                                    <b>Magdi el-Husseini Interview</b>
-                                    <span>Interview with Magdi el-Husseini about his experience meeting singer Abdel Halim Hafez and performing in his orchestra.</span>
+                                    <b>Entrevista com Magdi el-Husseini</b>
+                                    <span>Entrevista com Magdi el-Husseini sobre sua experiência em conhecer o cantor Abdel Halim Hafez e se apresentar em sua orquestra.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -85,8 +87,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div>
                                 <div class="info">
-                                    <b>Hani Mehanna Interview</b>
-                                    <span>Interview with Hani Mehanna about his experience meeting composer Muhammad Abdel Wahab and singer Umm Kulthum and performing the song <strong>Leilet Hobb</strong> with her orchestra.</span>
+                                    <b>Entrevista com Hani Mehanna</b>
+                                    <span>Entrevista com Hani Mehanna sobre sua experiência em conhecer o compositor Muhammad Abdel Wahab e a cantora Umm Kulthum e interpretar a música Leilet Hobb com a orquestra dela.
+                                    </span>
                                 </div>
                             </label>
                         </div>

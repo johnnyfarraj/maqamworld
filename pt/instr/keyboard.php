@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>O Teclado Oriental</h1>
-                        <h3>A Synthesizer/Sampler with full quartertone capability</h3>
+                        <h3>Um Sintetizador / Sampler com capacidade total de produzir quartos de tom</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Instrumentos</a>
@@ -38,22 +38,21 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/keyboard.jpg" alt="O Teclado Oriental">
-                        <span>The Ketron Vega Teclado Oriental.</span>
+                        <span>O teclado oriental Ketron Vega</span>
                     </div>
 
-                    <p> O Teclado Oriental is the successor of the <a href="org.php">org</a>, and it came to the market toward the end of the 20<sup>th</sup> century. Its strength was that it could imitate sounds from various traditional Arabic instruments by sampling them, and as such the player could summon a <em>Mijwiz</em>, a <a href="qanun.php">Qanoun</a>, or even a <a href="saxophone.php">Saxophone</a> at the touch of a button.
+                    <p>O Teclado Oriental é o sucessor do <a href="org.php">org</a> e foi introduzido no mercado no final do século XX. Sua principal vantagem era sua capacidade de imitar sons de vários instrumentos tradicionais árabes por sampleamento e, dessa forma, o músico poderia invocar um <em>Mijwiz</em>, um <a href="qanun.php">Qanoun</a> ou mesmo um <a href="saxophone.php">Saxofone</a> com o toque de um botão.
                     </p>
-                    <p>
-                    Most synthesizer companies (like Roland, Yamaha, GEM, Kawai, Korg and Ketron) manufacture Teclado Oriental models, and include a built-in electronic rhythm generator where the player can supplement their melody/chords with <a href="../iqaa.php">iqa‘at</a> pre-recorded from sampled Arabic Percussion Instruments. This makes the Teclado Oriental a very powerful and versatile instrument, and an essential one in Arabic pop and dance music.
+                    
+                    <p>A maioria das empresas de sintetizadores (como Roland, Yamaha, GEM, Kawai, Korg e Ketron) fabrica modelos de teclado oriental e inclui um gerador de ritmo eletrônico integrado onde o músico pode complementar sua melodia / acordes com <a href="../iqaa.php">iqa‘at</a> pré-gravados de Instrumentos de percussão árabes sampleados. Isso torna o Teclado Oriental um instrumento muito poderoso e versátil, e essencial na música árabe pop e na música para dança.
                     </p>
 
                     <div class="image-with-caption">
                         <img src="/instr/keyboard2.jpg" alt="O Teclado Oriental's Quartertone Buttons">
-                        <span>12 switches to lower each note on the keyboard by a quartertone</span>
+                        <span>12 botões para abaixar cada nota do teclado em um quarto de tom</span>
                     </div>
 
-                    <p> The oriental keyboard is able to play a quartertone on any of the 12 notes of the
-                    keyboard simply by pressing a switch.
+                    <p>O teclado oriental é capaz de tocar um quarto de tom em qualquer uma das 12 notas do teclado simplesmente pressionando um botão.
                     </p>
                     
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=3YMxXobcrc8">
@@ -66,7 +65,8 @@ include($ROOT . 'inc/head.php');
                                 </div>
                                 <div class="info">
                                     <b>Aw‘idak</b>
-                                    <span>The National Arab Orchestra (U.S.A.) performing Su‘ad Muhammad's song <strong>Aw‘idak</strong> in an arrangement that includes the Teclado Oriental and the Electric Guitar alongside traditional Arabic instruments.</span>
+                                    <span>A National Arab Orchestra(EUA) apresenta a música <strong>Aw‘idak</strong> de Su'ad Muhammad, em um arranjo que inclui o teclado oriental e a guitarra elétrica ao lado de instrumentos árabes tradicionais.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -82,7 +82,8 @@ include($ROOT . 'inc/head.php');
                                 </div>
                                 <div class="info">
                                     <b>Shamstep by 47Soul</b>
-                                <span>Pan-Palestinian group 47Soul added an interesting twist to the normal usage of the Teclado Oriental by using sound effects to create a new genre of techno-<em>dabke</em>, as in their hit song <strong>Shamstep</strong>.</span>
+                                    <span>O grupo pan-palestino 47Soul acrescentaram um toque interessante ao uso tradicional do Teclado Oriental, usando efeitos sonoros para criar um novo gênero de techno-dabke, como em sua canção de sucesso <strong>Shamstep</strong>.
+                                    </span>
                                 </div>
                             </label>
                         </div>

@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>O Riqq</h1>
-                        <h3>A Small Hand-Held Frame Drum with Cymbals</h3>
+                        <h3>Um pequeno tambor de armação com címbalos</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Instrumentos</a>
@@ -38,19 +38,21 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/riqq.jpg" alt="O Riqq">
-                        <span>Two traditional fish-skin riqq-s. &copy; MaqamWorld</span>
+                        <span>Dois riqq-s tradicionais feitos com couro de peixe. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/name/riqq.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Riqq</a>
                     </div>
                     
-                    <p>
-                        O Riqq is a small hand-held frame drum with cymbals. The frame is usually made of wood (a few aluminum models exist), and is 9 to 10 inches in diameter. It is traditionally fitted with fish skin, although modern <em>riqq</em>-s use plastic (Mylar) instead. The cymbals give the <em>riqq</em> its distinctive sound. They are made of brass (around 0.8mm to 0.9mm thick) and come in 5 (sometimes 6) groups of four. </p>
-                    <p>
-                        The <em>riqq</em> can be used to play very complex <a href="../iqaa.php">rhythmic cycles</a> and ornamentations using intricate fingering technique, and can produce a wide variety of sounds by utilizing the skin, the wood frame and the cymbals.</p>
-                    <p>
-                        The <em>riqq</em> is usually the only percussion instrument in a <em>takht</em> (traditional Arabic chamber group) and its player is called <em>dabet al-iqa‘</em> (controller/manager of rhythm).</p>
+                    <p>O Riqq é um pequeno tambor de armação com pratos. O aro é geralmente feito de madeira (existem alguns modelos de alumínio) e tem de 9 a 10 polegadas (entre 23 e 25 cm) de diâmetro. É tradicionalmente coberto com couro de peixe, embora os riqq-s modernos utilizem plástico (Mylar). Os címbalos dão ao riqq seu som distinto. Eles são feitos de latão (cerca de 0,8 mm a 0,9 mm de espessura) e vêm em 5 (às vezes 6) grupos de quatro.
+                    </p>
+                    
+                    <p>O riqq pode ser usado para tocar <a href="../iqaa.php">ciclos rítmicos</a> e ornamentações muito complexas usando intrincadas técnicas de dedilhado, e pode produzir uma grande variedade de sons utilizando a pele, a armação de madeira e os címbalos.
+                    </p>
+                    
+                    <p>O riqq é geralmente o único instrumento de percussão em um <em>takht</em> (conjunto de câmara tradicional árabe) e seu instrumentista é chamado de <em>dabet al-iqa‘</em> (controlador / gerenciador do ritmo).
+                    </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=Ptd3R51Qj-s&t=2100s">
                         <div class="radio">
@@ -62,7 +64,8 @@ include($ROOT . 'inc/head.php');
                                 </div>
                                 <div class="info">
                                     <b>Hassan Anwar</b>
-                                    <span>Riqq player Hassan Anwar (the official <em>dabet al-iqa‘</em> for the Diamond Orchestra in Egypt) exchanges solos with the org player in Abdel Halim Hafez's song <strong>Qari'at al-Fingan</strong> (1976, music by Muhammad al-Mugi).</span>
+                                    <span>O instrumentista Hassan Anwar (o <em>dabet al-iqa‘</em> oficial da Diamond Orchestra no Egito) alterna solos com o org na canção <strong>Qari'at al-Fingan</strong> (1976, música de Muhammad al-Mugi), de Abdel Halim Hafez.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -78,7 +81,8 @@ include($ROOT . 'inc/head.php');
                                 </div>
                                 <div class="info">
                                     <b>Muhammad al-‘Arabi</b>
-                                    <span>Egyptian riqq player Muhammad al-‘Arabi performs a Riqq Solo (on a riqq with a plastic head) where he explores many iqa‘at.</span>
+                                    <span>O instrumentista egípcio Muhammad al-‘Arabi toca um Riqq Solo (em um riqq com pele de plástico) em que explora diversos <a href="../iqaa.php">iqa‘at</a>.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -94,7 +98,8 @@ include($ROOT . 'inc/head.php');
                                 </div>
                                 <div class="info">
                                     <b>Adel Shams el-Din</b>
-                                    <span>Egyptian percussionist Adel Shams el-Din performs a Riqq Solo on a fishskin riqq, where he explores many iqa‘at (recorded in 2005 at the Institut du Monde Arabe, Paris).</span>
+                                    <span>O percussionista egípcio Adel Shams el-Din toca um Riqq Solo em um riqq com pele de peixe, explorando diversos iqa‘at (gravado em 2005 no Institut du Monde Arabe, em Paris).
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -110,7 +115,8 @@ include($ROOT . 'inc/head.php');
                                 </div>
                                 <div class="info">
                                     <b>Mustafa Bayyumi</b>
-                                    <span>Egyptian percussionist Mustafa Bayyumi performs a Riqq Solo (on a riqq with a plastic head) where he explores many iqa‘at.</span>
+                                    <span>O percussionista egípcio Mustafa Bayyumi toca um Riqq Solo (em um riqq com pele de plástico) em que explora diversos iqa‘at.
+                                    </span>
                                 </div>
                             </label>
                         </div>

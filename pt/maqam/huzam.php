@@ -114,7 +114,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr Emta el-Hawa (1936)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Música de Zakariyya Ahmad (Egito)</span>
+                                    <span>Música de Zakariya Ahmad (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -146,7 +146,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>el-Ward Gamil (1947)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Música de Zakariyya Ahmad (Egito)</span>
+                                    <span>Música de Zakariya Ahmad (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -172,7 +172,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr Inta Fahim</b>
                                     <span>(Maqam Rahat al-Arwah)</span>
-                                    <span>Music and Voz por Zakariyya Ahmad</span>
+                                    <span>Music and Voz por Zakariya Ahmad</span>
                                 </div>
                             </label>
                         </div>

@@ -100,7 +100,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ahl el-Hawa (1958)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Música de Zakariyya Ahmad (Egito)</span>
+                                    <span>Música de Zakariya Ahmad (Egito)</span>
                                 </div>
                             </label>
                         </div>

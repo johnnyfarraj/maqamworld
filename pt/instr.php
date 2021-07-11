@@ -60,7 +60,7 @@ include($ROOT . 'inc/head.php');
                     <p>A flauta, o <a href="instr/saxophone.php">saxofone</a>, o clarinete e o <a href="instr/trumpet.php">trompete</a> são instrumentos não-temperados e possibilitam maior controle sobre a afinação do que os anteriormente citados. Eles são usados de várias formas na música Árabe, especialmente em estilos modernos de fusão Jazz Árabe.
                     </p>
 
-                    <p>O <a href="instr/violin.php">violino</a>, a viola, o violoncelo e o contrabaixo são amplamente utilizados na música Árabe, especialmente em grandes conjuntos como a Orquestra de <strong>Umm Kulthum</strong> e a Diamond Orchestra no Egito. Como todos não possuem trastes, estes instrumentos podem ser confortavelmente utilizados para executar as escalas Árabes <a href="maqam.php">Maqam</a>.
+                    <p>O <a href="instr/violin.php">violino</a>, a viola, o violoncelo e o contrabaixo são amplamente utilizados na música Árabe, especialmente em grandes conjuntos como a Orquestra de <strong>Umm Kulthum</strong> e a Orquestra Diamante no Egito. Como todos não possuem trastes, estes instrumentos podem ser confortavelmente utilizados para executar as escalas Árabes <a href="maqam.php">Maqam</a>.
                     </p>
 
                     <div class="row">

@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>The Arabic Saxophone</h1>
-                        <h3>A Saxophone used to play Arabic <a href="../maqam.php">Maqam</a> scales</h3>
+                        <h3>Um Saxofone usado para tocar escalas árabes <a href="../maqam.php">Maqam</a></h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Instrumentos</a>
@@ -38,12 +38,13 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/saxophone.jpg" alt="O Saxofone">
-                        <span>Arabic Saxophone pioneer Samir Surour (Egito)</span>
+                        <span>TODO Arabic Saxophone pioneer Samir Surour (Egito)</span>
                     </div>
 
-                    <p> O Saxofone is a rare instrument in Arabic music, despite the fact that it can produce good <a href="../maqam.php">maqam</a> scale intonation. It never went mainstream the way the <a href="accordion.php">Arabic Accordion</a> did and was mostly used to add an innovative sound to Arabic orchestral arrangements.
+                    <p>O saxofone é um instrumento raro na música árabe, apesar de ser capaz de produzir uma boa afinação em escalas <a href="../maqam.php">maqam</a>. Nunca chegou a se popularizar como o <a href="accordion.php">acordeão árabe</a> e foi usado principalmente para adicionar um som inovador aos arranjos orquestrais árabes.
                     </p>
-                    <p> The principal pioneer of the Arabic saxophone is Samir Surour (Egito) whose background was in military brass band music. Surour played on quite a few Umm Kulthum songs then went to record a series of solo instrumental albums under the name <em>‘Ashiq el-Sax</em> (The Sax Lover).
+                    
+                    <p>O principal pioneiro do saxofone árabe é Samir Surour (Egito), cuja formação foi em bandas militares de metais. Surour tocou em algumas canções de Umm Kulthum, e depois gravou uma série de álbuns instrumentais solo sob o nome ‘<em>‘Ashiq el-Sax</em> (O Amante de Sax).
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=n_2qIVjgboM">
@@ -56,7 +57,8 @@ include($ROOT . 'inc/head.php');
                                 </div>
                                 <div class="info">
                                     <b>Hawil Tiftikirni (1973)</b>
-                                    <span>Abdel Halim Hafez's song <strong>Hawil Tiftikirni</strong> (1973, music by Baligh Hamdi) opens with the Arabic Org, the Electric Guitar, then a Saxophone solo by Samir Surour.</span>
+                                    <span>A canção <strong>Hawil Tiftikirni</strong>, de Abdel Halim Hafez (1973, música de Baligh Hamdi), abre com o Org árabe, a guitarra elétrica e, em seguida, um solo de saxofone de Samir Surour.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -72,7 +74,8 @@ include($ROOT . 'inc/head.php');
                                 </div>
                                 <div class="info">
                                     <b>Fat el-Ma‘ad (1967)</b>
-                                    <span>Umm Kulthum's song <strong>Fat el-Ma‘ad</strong> (1967, music by Baligh Hamdi) includes in its arrangement Faruq Salama on the Arabic Accordion, Abdel Fattah Khayri on the Electric Guitar and Samir Surour on the Saxophone.</span>
+                                    <span>A canção <strong>Fat el-Ma‘ad</strong>, de Umm Kulthum (1967, música de Baligh Hamdi), inclui em seu arranjo Faruq Salama no acordeão árabe, Abdel Fattah Khayri na guitarra elétrica e Samir Surour no saxofone.
+                                    </span>
                                 </div>
                             </label>
                         </div>

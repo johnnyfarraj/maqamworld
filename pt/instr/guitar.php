@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>A Guitarra Elétrica</h1>
-                        <h3>Plays melody and simple chords</h3>
+                        <h3>Toca melodia e acordes simples</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Instrumentos</a>
@@ -38,10 +38,10 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/guitar.jpg" alt="A Guitarra Elétrica">
-                        <span>Omar Khorshid, the pioneer of Electric Guitar in Egypt</span>
+                        <span>Omar Khorshid, pioneiro da guitarra elétrica no Egito</span>
                     </div> 
 
-                    <p> A Guitarra Elétrica was first used in Arabic music in the late 1960s in Egypt, and its pioneer was Omar Khorshid. Some Arabic electric guitars were fitted with extra frets (in the manner of the <a href="buzuq.php">Buzuq</a>) in order to play some of the Arabic <a href="../maqam.php">Maqam</a> scales with quartertones. But mostly the electric guitar was used without any alteration or effects, and acquired its Arabness from its ornamentation style. The electric guitar was used to play a combination of melodic lines and simple chords (e.g. major and minor).
+                    <p> A Guitarra Elétrica foi usada pela primeira vez na música árabe no final dos anos 1960 no Egito, e seu pioneiro foi Omar Khorshid. Algumas guitarras elétricas árabes foram equipadas com trastes extras (à maneira do <a href="buzuq.php">Buzuq</a>) para tocar algumas das escalas árabes <a href="../maqam.php">Maqam</a> com quartos de tom. Mas, de modo geral, a guitarra elétrica foi usada sem qualquer alteração ou efeito, e foi arabizada a partir de seu estilo de ornamentação. A guitarra elétrica foi usada para tocar uma combinação de linhas melódicas e acordes simples (por exemplo, maior e menor).
                     </p>
                     
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=b9s1GvFSa68">
@@ -54,7 +54,8 @@ include($ROOT . 'inc/head.php');
                                 </div>
                                 <div class="info">
                                     <b>Omar Khorshid</b>
-                                    <span>Arabic Electric Guitar pioneer Omar Khorshid plays Umm Kukthum's song <strong>Aghadan Alqaka</strong> (1971, music by Muhammad Abdel Wahab).</span>
+                                    <span>O pioneiro da guitarra elétrica árabe Omar Khorshid toca a canção <strong>Aghadan Alqaka</strong>de Umm Kulthum (1971, composição de Muhammad Abdel Wahab).
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -69,8 +70,9 @@ include($ROOT . 'inc/head.php');
                                     </div>
                                 </div>
                                 <div class="info">
-                                    <b>Omar Khorshid Interview</b>
-                                    <span>Interview with Omar Khorshid about his experience playing the Electric Guitar with Umm Kulthum's Orchestra</span>
+                                    <b>Entrevista com Omar Khorshid</b>
+                                    <span>Entrevista com Omar Khorshid sobre sua experiência tocando guitarra elétrica com a Orquestra de Umm Kulthum.
+                                    </span>
                                 </div>
                             </label>
                         </div>

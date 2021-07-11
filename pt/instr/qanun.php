@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>O Qanoun</h1>
-                        <h3>A Plucked Zither</h3>
+                        <h3>Uma Cítara de Cordas Pinçadas</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Instrumentos</a>
@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/qanun.jpg" alt="O Qanoun">
-                        <span>Syrian Qanoun made by Bashir Bij. &copy; MaqamWorld</span>
+                        <span>Qanun sírio fabricado por Bashir Bij. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
@@ -47,14 +47,11 @@ include($ROOT . 'inc/head.php');
 
                     <!-- TODO The qanun’s origins are traced back to ancient Greece and Pythagoras or the Egyptian harp. It takes its name from the ancient Greek word ‘κανών’, which means “rule”. Also, it appears in Byzantium with the name “psaltirion”. 
                     -->
-                    <p>
-                        O Qanoun is a descendent of the old Egyptian harp. It has played an integral part in Arabic music since the 10<sup>th</sup> century. The word <em>qanun</em> means "law" in Arabic, and the word exists in English in the form of "canon". This name was probably given to the qanun because it's the instrument that lays down the law of pitch for other instruments and singers.
+                    <p>O Qanun é um descendente da antiga harpa egípcia. Desempenha um papel fundamental na música árabe desde o século X. A palavra <em>qanun</em> significa "lei" em árabe, e a palavra existe em português na forma de "cânone". Este nome provavelmente foi dado ao qanun porque é o instrumento que estabelece o tom para outros instrumentos e cantores.
                     </p>
-                    <p>
-                        The body of the qanun consists of a trapezoid-shaped flat wooden board over which 81 strings are stretched in groups of three, with 24 treble strings consisting of three strings to each note. The instrument is placed flat on the knees of the musician or on a small table. Qanoun strings are plucked with two plectra, one plectrum attached to the forefinger of each hand. A long bridge on the right-hand side of the instrument rests on goat (or fish) skin covered windows that carry the resonance to the box. On the left hand side, each course of strings passes over a series of small brass levers that are used to make microtonal changes in pitch.
+                    <p>O corpo do qanun consiste em uma placa de madeira em forma de trapézio sobre a qual 81 cordas são esticadas em grupos de três, com 24 cordas agudas compostas por três cordas para cada nota. O instrumento é apoiado sobre o colo do músico ou sobre uma pequena mesa. As cordas do qanun são dedilhadas com dois plectros, um plectro preso ao dedo indicador de cada mão. Uma longa ponte no lado direito do instrumento repousa sobre janelas cobertas de couro de cabra (ou peixe) que transportam a ressonância para a caixa. No lado esquerdo, cada conjunto de cordas atravessa uma série de pequenas alavancas de latão que são usadas para fazer mudanças microtonais na afinação.
                     </p>
-                    <p>
-                        Since the qanun only includes 8 notes per octave, the player initially sets the levers to create the scale of the starting <a href="../maqam.php">maqam</a>. When the player needs to modulate to another <a href="../maqam.php">maqam</a>, they need to switch some levers back and forth with the left hand while playing with the right hand. Quick modulation can also be achieved by using the fingernail of the left thumb to temporarily raise the tuning of some strings.
+                    <p>Como o qanun inclui apenas 8 notas por oitava, o instrumentista inicialmente regula as alavancas para criar a escala do <a href="../maqam.php">maqam</a> inicial. Quando o instrumentista precisa modular para outro <a href="../maqam.php">maqam</a>, ele ou ela precisa girar algumas alavancas para frente e para trás com a mão esquerda enquanto toca com a mão direita. Uma modulação rápida também pode ser obtida usando a unha do polegar esquerdo para subir temporariamente a afinação de algumas cordas.
                     </p>
 
                      <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=fZPY3or3D-Y&t=0s">
@@ -67,7 +64,7 @@ include($ROOT . 'inc/head.php');
                                 </div>
                                 <div class="info">
                                     <b>Muhammad Abdu Saleh</b>
-                                    <span>Umm Kulthum's qanun player for decades, Muhammad Abdu Saleh (Egito) in a medley of her well-known  songs</span>
+                                    <span>Instrumentista de Umm Kulthum por décadas, Muhammad Abdu Saleh (Egito) em um medley de suas canções mais conhecidas</span>
                                 </div>
                             </label>
                         </div>
@@ -83,7 +80,7 @@ include($ROOT . 'inc/head.php');
                                 </div>
                              <div class="info">
                                     <b>Muhammad ‘Abdu Saleh</b>
-                                    <span>Muhammad ‘Abdu Saleh (Egito) in a Taqsim on the Qanoun in <a href="../maqam/saba.php">Maqam Saba</a></span>
+                                    <span>Muhammad ‘Abdu Saleh (Egito) em um Taqsim no Qanun no <a href="../maqam/saba.php">Maqam Saba</a></span>
                                 </div>
                             </label>
                         </div>
@@ -99,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                 </div>
                                 <div class="info">
                                     <b>Abdel Fattah Mansi</b>
-                                    <span>Abdel Fattah Mansi (Egito) plays Umm Kuklthum's song <strong>Ana Fi-ntizarak</strong> (1943, music by Zakariyya Ahmad)</span>
+                                    <span>Abdel Fattah Mansi (Egito) toca a canção <strong>Ana Fi-ntizarak</strong> (1943, música de Zakariya Ahmad), de Umm Kulthum</span>
                                 </div>
                             </label>
                         </div>
@@ -115,7 +112,8 @@ include($ROOT . 'inc/head.php');
                                 </div>
                                 <div class="info">
                                     <b>Abdel Halim Nuwayra</b>
-                                    <span>Abdel Halim Nuwayra (Egito), the music director of the Arabic Music Ensemble, plays a Taqsim on the Qanoun in <a href="../maqam/bayati.php">Maqam Bayati</a></span>
+                                    <span>Abdel Halim Nuwayra (Egito), diretor musical do Arabic Music Ensemble, toca um Taqsim no Qanun no <a href="../maqam/bayati.php">Maqam Bayati</a>
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -131,7 +129,7 @@ include($ROOT . 'inc/head.php');
                                 </div>
                                 <div class="info">
                                     <b>Abraham Salman</b>
-                                    <span>Abraham Salman (Iraq) in a Taqsim on the Qanoun in <a href="../maqam/rast.php">Maqam Rast</a> from his CD Saltanah (1998)</span>
+                                    <span>Abraham Salman (Iraque) em um Taqsim no Qanun no <a href="../maqam/rast.php">Maqam Rast</a>, do seu CD <strong>Saltanah</strong> (1998)</span>
                                 </div>
                             </label>
                         </div>

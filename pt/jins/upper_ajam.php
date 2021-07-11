@@ -96,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Huwwa Sahih el-Hawa Ghallab (1960)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Música de Zakariyya Ahmad (Egito)</span>
+                                    <span>Música de Zakariya Ahmad (Egito)</span>
                                 </div>
                             </label>
                         </div>

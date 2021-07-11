@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ana Fi-ntizarak (1943)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Música de Zakariyya Ahmad (Egito)</span>
+                                    <span>Música de Zakariya Ahmad (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -94,7 +94,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Badru Timmin (Oud Taqsim)</b>
+                                    <b>Muwashah Badru Timmin (Oud <a href="../form/improv.php#taqsim">Taqsim</a>)</b>
                                     <span>Ghada Shbeir</span>
                                     <span>Música de Sheikh Mursi al-Hariri</span>
                                 </div>

@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>O Piano Árabe</h1>
-                        <h3>A piano that plays <a href="../maqam.php">Maqamat</a> without harmony</h3>
+                        <h3>Um piano que toca <a href="../maqam.php">Maqamat</a> sem harmonia</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Instrumentos</a>
@@ -38,14 +38,16 @@ include($ROOT . 'inc/head.php');
 
                     <div class="image-with-caption">
                         <img src="/instr/piano.jpg" alt="O Piano Árabe">
-                        <span>Lebanese pianist Ziad Rahbani, from a concert poster in the 1980s</span>
+                        <span>O pianista libanês Ziad Rahbani, em um pôster de uma apresentação nos anos 1980</span>
                     </div>
 
-                    <p> Although the piano was included in Arabic music since the early 20<sup>th</sup> century, it was used as a Western instrument to add a classical color to Arabic compositions (e.g. in "al-Siba wal-Gamal" by Muhammad Abdel Wahab, 1939). By Arabic Piano, however, we refer to a piano that's played melodically (without harmony) within the Arabic <a href="../maqam.php">maqam</a> framework.
+                    <p>Embora o piano tenha sido incluído na música árabe desde o início do século 20, ele era usado como um instrumento ocidental para adicionar uma pitada clássica às composições árabes (por exemplo, em "al-Siba wal-Gamal" de Muhammad Abdel Wahab, 1939). Por Piano Árabe, entretanto, nos referimos a um piano que é tocado melodicamente (sem harmonia) dentro da estrutura do <a href="../maqam.php">maqam</a> árabe.
                     </p>
-                    <p>The earliest Arabic piano pioneer was the Lebanese Wadih Sabra who played a piano endowed with additional notes (quartertones) during the Cairo Arabic Music Congress of 1932. Later, Lebanese Abdallah Chahine also altered a piano to play quartertones and recorded an album called "al-Nagham al-Khalid" with <a href="../form/improv.php#taqsim">taqasim</a> in the most common <a href="../maqam.php">maqamat</a>.
+                    
+                    <p>O pioneiro do piano árabe foi o libanês Wadih Sabra, que tocou um piano dotado de notas adicionais (quartos de tom) durante o Congresso de Música Árabe do Cairo de 1932. Mais tarde, o libanês Abdallah Chahine também alterou um piano para tocar quartos de tom e gravou um álbum chamado "<strong>al- Nagham al-Khalid</strong>" com <a href="../form/improv.php#taqsim">taqasim</a> nos <a href="../maqam.php">maqamat</a> mais comuns.
                     </p>
-                    <p>Toward the end of the 20<sup>th</sup> century, Lebanese musician and playwright Ziad Rahbani recorded many songs and instrumental compositions using an acoustic or electric piano (a Fender Rhodes) to play either <a href="../maqam.php">maqam</a> melodic lines, or harmony within a Jazz-fusion genre.
+                    
+                    <p>No final do século 20, o músico e dramaturgo libanês Ziad Rahbani gravou muitas canções e composições instrumentais usando um piano acústico ou elétrico (um Fender Rhodes) para tocar linhas melódicas em <a href="../maqam.php">maqam</a> ou harmonia dentro de um gênero de fusão com jazz.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=3v9u-h4Vr5A">
@@ -58,7 +60,8 @@ include($ROOT . 'inc/head.php');
                                 </div>
                                 <div class="info">
                                     <b>Abdallah Chahine</b>
-                                <span>Lebanese pianist Abdallah Chahine playing a Piano Taqsim in <a href="../maqam/saba.php">Maqam Saba</a> followed by the song <strong>Batit ‘Uyuni</strong> from his album "Angham Min al-Sharq".</span>
+                                    <span>O pianista libanês Abdallah Chahine toca um Taqsim Piano em <a href="../maqam/saba.php">Maqam Saba</a> seguido da canção <strong>Batit ‘Uyuni</strong> em seu álbum "<strong>Angham Min al-Sharq</strong>".
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -74,7 +77,8 @@ include($ROOT . 'inc/head.php');
                                 </div>
                                 <div class="info">
                                     <b>Ziad Rahbani</b>
-                                    <span>Lebanese pianist Ziad Rahbani plays Arabic piano on his song <strong>Shu Hal-Iyyam</strong> from his CD <strong>Ana Mush Kafer</strong>, 1985.</span>
+                                    <span>O pianista libanês Ziad Rahbani toca piano árabe em sua canção <strong>Shu Hal-Iyyam</strong> do seu álbum <strong>Ana Mush Kafer</strong>, 1985.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -90,7 +94,7 @@ include($ROOT . 'inc/head.php');
                                 </div>
                                 <div class="info">
                                     <b>W'Qamh</b>
-                                    <span>Ziad Rahbani's instrumental composition <strong>W'Qamh</strong> in <a href="../maqam/hijaz.php">Maqam Hijaz</a> uses the Arabic piano in a Jazz fusion arrangement. From Fairouz's CD <strong>Mish Kayin Hayk Tkun</strong>, 1987.
+                                    <span><strong>W'Qamh</strong>, composição instrumental de Ziad Rahbani em <a href="../maqam/hijaz.php">Maqam Hijaz</a>, utiliza o piano árabe em um arranjo de jazz fusion. Do álbum de Fairouz <strong>Mish Kayin Hayk Tkun</strong>, 1987.
                                     </span>
                                 </div>
                             </label>

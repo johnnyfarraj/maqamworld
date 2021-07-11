@@ -75,7 +75,7 @@ include($ROOT . 'inc/head.php');
                                 </div>
                              <div class="info">
                                     <b>Taqtuqa Leh Ya Banafseg</b>
-                                    <span>Saleh Abdel Hayy's recording of <strong>Taqtuqa Leh Ya Banafseg</strong> (music by Riyad al-Sunbati) is a long <a href="vocal_comp.php#wasla">Wasla</a> that starts with an <a href="../instr/oud.php">oud</a> <a href"#taqsim">Taqsim</a>, a <a href="ottoman.php/samai">Sama‘i</a>, a <a href="../instr/qanun.php">qanun</a> Taqsim, a recap of the Sama‘i's <em>taslim</em>, then a <em>Layali</em>, all in <a href="../maqam/rast.php">Maqam Rast</a>.</span>
+                                    <span>Saleh Abdel Hayy's recording of <strong>Taqtuqa Leh Ya Banafseg</strong> (music by Riyad al-Sunbati) is a long <a href="vocal_comp.php#wasla">Wasla</a> that starts with an <a href="../instr/oud.php">oud</a> Taqsim, a <a href="ottoman.php/samai">Sama‘i</a>, a <a href="../instr/qanun.php">qanun</a> Taqsim, a recap of the Sama‘i's <em>taslim</em>, then a <em>Layali</em>, all in <a href="../maqam/rast.php">Maqam Rast</a>.</span>
                                 </div>
                             </label>
                         </div>
@@ -220,7 +220,7 @@ include($ROOT . 'inc/head.php');
                                 </div>
                              <div class="info">
                                     <b>‘Aboud Abdel ‘Al</b>
-                                    <span><a href="../instr/violin.php">Violin</a> Taqsim in <a href="../maqam/bayati.php">Maqam Bayati</a> by Aboud Abdel ‘Al, preceded by <a href="../ottoman.php#samai">Sama‘i</a> Bayati Ibrahim al-‘Aryan</span>
+                                    <span><a href="../instr/violin.php">Violin</a> <a href="../form/improv.php#taqsim">Taqsim</a> in <a href="../maqam/bayati.php">Maqam Bayati</a> by Aboud Abdel ‘Al, preceded by <a href="../ottoman.php#samai">Sama‘i</a> Bayati Ibrahim al-‘Aryan</span>
                                 </div>
                             </label>
                         </div>
@@ -236,7 +236,7 @@ include($ROOT . 'inc/head.php');
                                 </div>
                              <div class="info">
                                     <b>‘Amer ‘Ammuri</b>
-                                    <span>Taqsim Oud by ‘Amer ‘Ammuri (Syria) in <a href="../maqam/huzam.php">Maqam Huzam</a> during a concert by Sabah Fakhri.</span>
+                                    <span><a href="../form/improv.php#taqsim">Taqsim</a> Oud by ‘Amer ‘Ammuri (Syria) in <a href="../maqam/huzam.php">Maqam Huzam</a> during a concert by Sabah Fakhri.</span>
                                 </div>
                             </label>
                         </div>
