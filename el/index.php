@@ -39,6 +39,7 @@ include($ROOT . 'inc/head.php');
                             <a href="/en/index.php"><strong>Αγγλικά</strong></a>, 
                             <a href="/el/index.php"><strong>Γαλλικά</strong></a>, 
                             <a href="/it/index.php"><strong>Ιταλικά</strong></a>, 
+                            <a href="/pt/index.php"><strong>Πορτογαλικά</strong></a>, 
                             <a href="/de/index.php"><strong>Γερμανικά</strong></a> και
                             <a href="/es/index.php"><strong>Ισπανικά</strong></a>.
                         </li>

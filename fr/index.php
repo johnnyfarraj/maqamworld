@@ -38,8 +38,9 @@ include($ROOT . 'inc/head.php');
                             en <a href="/it/index.php"><strong>italien</strong></a>, 
                             en <a href="/ar/index.php"><strong>arabe</strong></a>, 
                             en <a href="/de/index.php"><strong>allemand</strong></a>,
-                            en <a href="/el/index.php"><strong>grec</strong></a> et
-                            en <a href="/de/index.php"><strong>espagnol</strong></a>.
+                            en <a href="/el/index.php"><strong>grec</strong></a>,
+                            en <a href="/de/index.php"><strong>espagnol</strong></a> et 
+                            en <a href="/pt/index.php"><strong>portugais</strong></a>. 
                         </li>
                         <li>Support des écrans de toutes tailles (particulièrement les téléphones intelligents).</li>
                         <li>Recherche Google.</li>

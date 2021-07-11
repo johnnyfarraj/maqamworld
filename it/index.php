@@ -40,8 +40,9 @@ include($ROOT . 'inc/head.php');
                             <a href="/ar/index.php"><strong>arabo</strong></a>, 
                             <a href="/fr/index.php"><strong>francese</strong></a>, 
                             <a href="/de/index.php"><strong>tedesco</strong></a>,
-                            <a href="/el/index.php"><strong>greco</strong></a> e
-                            <a href="/es/index.php"><strong>spagnolo</strong></a>.
+                            <a href="/el/index.php"><strong>greco</strong></a>,
+                            <a href="/es/index.php"><strong>spagnolo</strong></a> e
+                            <a href="/pt/index.php"><strong>portoghese</strong></a>.
                         </li>
                         <li>Supporto per tutti i dispositivi (in particolare per gli smartphone).</li>
                         <li>Ricerca su google.</li>

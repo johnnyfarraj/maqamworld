@@ -40,7 +40,7 @@ include($ROOT . 'inc/head.php');
                             <a href="/it/index.php"><strong>Italienische</strong></a>,
                             <a href="/fr/index.php"><strong>Französische</strong></a>,
                             <a href="/ar/index.php"><strong>Arabische</strong></a>,
-                            <!-- brasilianische Portugiesisch -->
+                            <a href="/pt/index.php"><strong>Portugiesisch</strong></a>,<!-- brasilianische  -->
                             <a href="/el/index.php"><strong>Griechische</strong></a> und
                             <a href="/es/index.php"><strong>Spanische</strong></a>.
                         </li>

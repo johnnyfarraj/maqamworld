@@ -4,8 +4,8 @@
 include('../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Publications";
-$page_description = "MaqamWorld Publications - Inside Arabic Music";
+$page_title = "Publicações";
+$page_description = "MaqamWorld Publicações - Inside Arabic Music";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "pt";
 

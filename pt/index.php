@@ -4,8 +4,8 @@
 include('../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "";
-$page_description = "";
+$page_title = "O Mundo de Maqam";
+$page_description = "O Mundo de Maqam";
 $page_keywords = "";
 $page_language = "pt";
 include($ROOT . 'inc/head.php');
@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
             <div class="row align-items-center">
                 <div class="col-sm-12">
                     <div class="heading">
-                        <h1>Welcome to the new <span>MaqamWorld</span></h1>
+                        <h1>bem vindo ao <span>Mundo de Maqam</span></h1>
                         <h3>MaqamWorld is an online resource dedicated to teaching the Arabic Maqam modal system, which is the foundation of traditional Arabic music. This website mainly covers music from the Eastern Mediterranean part of the Arab World (Egypt, Palestine, Jordan, Lebanon and Syria), with a focus on the early to mid-twentieth century period.</h3>
                     </div>
 
@@ -35,6 +35,7 @@ include($ROOT . 'inc/head.php');
 
                     <ul>
                         <li>A full translation to 
+                            <a href="/en/index.php"><strong>English</strong></a>, 
                             <a href="/ar/index.php"><strong>Arabic</strong></a>, 
                             <a href="/fr/index.php"><strong>French</strong></a>, 
                             <a href="/it/index.php"><strong>Italian</strong></a>,
@@ -83,7 +84,7 @@ include($ROOT . 'inc/head.php');
                             <div class="card">
                                 <img class="card-img-top" src="/img/nahat_round.png" alt="The Arabic Oud">
                                 <div class="card-body">
-                                    <h5 class="card-title">Rhythm</h5>
+                                    <h5 class="card-title">Rítmos</h5>
                                     <p class="card-text">Learn about the Arabic rhythmic cycle called <b>Iqa‘</b>, made of the primitive sounds <em>dum</em> and <em>tak</em>.</p>
                                     <a href="/pt/iqaa.php" class="btn btn-primary">Iqa‘<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
@@ -93,7 +94,7 @@ include($ROOT . 'inc/head.php');
                             <div class="card">
                                 <img class="card-img-top" src="/img/nahat_etching.png" alt="The Arabic Oud">
                                 <div class="card-body">
-                                    <h5 class="card-title">Forms</h5>
+                                    <h5 class="card-title">Formas</h5>
                                     <p class="card-text">Learn about the Arabic music forms, called <b>Qawalib</b>, used in both vocal and instrumental music, composed and improvised.</p>
                                     <a href="/pt/forms.php" class="btn btn-primary">Forms<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
@@ -103,7 +104,7 @@ include($ROOT . 'inc/head.php');
                             <div class="card">
                                 <img class="card-img-top" src="/img/nahat_names.png" alt="The Arabic Oud">
                                 <div class="card-body">
-                                    <h5 class="card-title">Instruments</h5>
+                                    <h5 class="card-title">Instrumentos</h5>
                                     <p class="card-text">Learn about the traditional Arabic Instruments, melodic and percussion, as well as Western instruments that have been "Arabized".</p>
                                     <a href="/pt/instr.php" class="btn btn-primary">Instruments<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
@@ -113,9 +114,9 @@ include($ROOT . 'inc/head.php');
                             <div class="card">
                                 <img class="card-img-top" src="/img/vladimir_tamari.png" alt="The Arabic Oud">
                                 <div class="card-body">
-                                    <h5 class="card-title">Publications</h5>
+                                    <h5 class="card-title">Publicações</h5>
                                     <p class="card-text">Learn about the book <strong>Inside Arabic Music</strong> (co-authored with Sami Abu Shumays) that was published in August 2019.</p>
-                                    <a href="/pt/book.php" class="btn btn-primary">Publications<i class="fa fa-fw fa-angle-right"></i></a>
+                                    <a href="/pt/book.php" class="btn btn-primary">Publicações<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>

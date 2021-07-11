@@ -5,10 +5,10 @@
 			<a class="nav-link" href="/pt/index.php"><i class="fa fa-fw fa-home"></i></a>
 		</li>
 		<li class="nav-item <?php if($page == "pt/instr.php") { echo "active"; } ?>">
-			<a class="nav-link" href="/pt/instr.php">Instruments</a>
+			<a class="nav-link" href="/pt/instr.php">Instrumentos</a>
 		</li>
 		<li class="nav-item <?php if($page == "pt/forms.php") { echo "active"; } ?>">
-			<a class="nav-link" href="/pt/forms.php">Forms</a>
+			<a class="nav-link" href="/pt/forms.php">Formas</a>
 		</li>
 		<li class="nav-item <?php if($page == "pt/jins.php") { echo "active"; } ?>">
 			<a class="nav-link" href="/pt/jins.php">Jins</a>
@@ -17,10 +17,10 @@
 			<a class="nav-link" href="/pt/maqam.php">Maqam</a>
 		</li>
 		<li class="nav-item <?php if($page == "pt/iqaa.php") { echo "active"; } ?>">
-			<a class="nav-link" href="/pt/iqaa.php">Rhythms</a>
+			<a class="nav-link" href="/pt/iqaa.php">Rítmos</a>
 		</li>
 		<li class="nav-item <?php if($page == "pt/book.php") { echo "active"; } ?>">
-			<a class="nav-link" href="/pt/book.php">Publications</a>
+			<a class="nav-link" href="/pt/book.php">Publicações</a>
 		</li>
 	</ul>
 </div>

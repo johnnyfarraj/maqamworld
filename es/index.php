@@ -41,6 +41,7 @@ include($ROOT . 'inc/head.php');
                             <a href="/ar/index.php"><strong>árabe</strong></a>, 
                             <a href="/fr/index.php"><strong>francés</strong></a>, 
                             <a href="/it/index.php"><strong>italiano</strong></a>, 
+                            <a href="/pt/index.php"><strong>portugués</strong></a>, 
                             <a href="/de/index.php"><strong>alemán</strong></a> y
                             <a href="/el/index.php"><strong>griego</strong></a>.
                         </li>
