@@ -92,6 +92,19 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/iqaa/dawr_hindi/arji3i-ya-alfa-leila.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Muwashah Arji‘i Ya Alfa Layla (1966)</b>
+                                    <span>Fairouz</span>
+                                    <span>Música de los Hermanos Rahbani</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                     <div class="track demo-track" data-song="/demo/iqaa/tabla/dawr_hindi.mp3">
                         <div class="radio">
                             <label>
