@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "The Arabic Trumpet";
-$page_description = "The Arabic Trumpet";
+$page_title = "O Trompete Árabe";
+$page_description = "O Trompete Árabe";
 $page_keywords = "arabic, music, istruments, arab world, middle east, oud, 'ud, qanun, nay, buzuq, riqq, tabla, bendir, sagat, tabl baladi, violin";
 $page_language = "pt";
 
@@ -29,25 +29,25 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>The Arabic Trumpet</h1>
-                        <h3>A Trumpet used to play Arabic <a href="../maqam.php">Maqam</a> scales</h3>
+                        <h1>O Trompete Árabe</h1>
+                        <h3>Um Trompete usado para tocar escalas árabes <a href="../maqam.php">Maqam</a></h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Instrumentos</a>
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
-                        <img src="/instr/trumpet.jpg" alt="The Arabic Trumpet">
-                        <span>Arabic Trumpet pioneer Sami al-Babli</span>
+                        <img src="/instr/trumpet.jpg" alt="O Trompete Árabe">
+                        <span>O pioneiro do Trompete Árabe Sami al-Babli</span>
                     </div>
 
-                    <p> The Arabic Trumpet is a trumpet that is used to play the Arabic <a href="../maqam.php">maqam</a> scales. Some musicians achieve that by using a trumpet fitted with a fourth valve (that can produce quartertones), others achieve it by using the slides on the first and third valves (available on all professional trumpets).
+                    <p>O Trompete Árabe é usado para tocar as escalas árabes <a href="../maqam.php">maqam</a>. Alguns músicos conseguem isso usando um trompete equipado com uma quarta válvula (que pode produzir quartos de tom), outros o fazem usando as varas na primeira e na terceira válvulas (disponíveis em todos os trompetes profissionais).
                     </p>
-                    <p>
-                    The trumpet never became a mainstream instrument in Arabic music, and is the only Arabized instrument that was never featured in the Umm Kulthum orchestra. The most well-known Arabic trumpet player and pioneer is the Egyptian Sami al-Babli who performed regularly with <em>Sha'bi</em> singer Ahmed Adaweyya.
+                    
+                    <p>O trompete nunca chegou a se tornar um instrumento mainstream na música árabe, e é o único instrumento arabizado que nunca foi incluído na orquestra de Umm Kulthum. O mais conhecido trompetista árabe e pioneiro é o egípcio Sami al-Babli, que se apresentava regularmente com o cantor <em>Sha'bi</em> Ahmed Adaweyya.
                     </p>
-                    <p> Today two young musicans of Arab descent carry the Arabic Trumpet forward, and both do it within a Jazz setting that combines Western harmony with Arabic <a href="../maqam.php">maqam</a> melodies:
-                    <a href="http://www.amirelsaffar.com/" target="_blank">Amir Elsaffar</a> (Iraq/U.S.A) and <a href="http://www.ibrahimmaalouf.com/" target="_blank">Ibrahim Maalouf</a> (Lebanon/France).
+                    
+                    <p>Hoje em dia, dois jovens músicos de ascendência árabe levam adiante o Trompete Árabe, e ambos o fazem em uma roupagem de jazz que combina a harmonia ocidental com melodias <a href="../maqam.php">maqam</a> árabes: <a href="http://www.amirelsaffar.com/" target="_blank">Amir Elsaffar</a> (Iraque / EUA) e <a href="http://www.ibrahimmaalouf.com/" target="_blank">Ibrahim Maalouf</a> (Líbano / França).
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=RqII6j4Hj_k">
@@ -60,7 +60,8 @@ include($ROOT . 'inc/head.php');
                                 </div>
                                 <div class="info">
                                     <b>Sami al-Babli</b>
-                                    <span>A rare video recording of Arabic trumpet pioneer Sami al-Babli (Egito) doing a Taqsim in <a href="../maqam/nahawand.php">Maqam Nahawand</a> with Abdo Dagher.</span>
+                                    <span>Uma rara gravação em vídeo do pioneiro do trompete árabe Sami al-Babli (Egito) fazendo um Taqsim em <a href="../maqam/nahawand.php">Maqam Nahawand</a> com Abdo Dagher.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -76,7 +77,8 @@ include($ROOT . 'inc/head.php');
                                 </div>
                                 <div class="info">
                                     <b>Sami al-Babli</b>
-                                    <span>Another rare video recording of Sami al-Babli doing a Taqsim in <a href="../maqam/saba.php">Maqam Saba</a> during the introduction to a song by <em>Sha‘bi</em> singer Ahmed Adaweyya. Al-Babli was regularly featured in Adaweyya's ensemble.</span>
+                                    <span>Outra rara gravação de vídeo de Sami al-Babli fazendo um Taqsim em <a href="../maqam/saba.php">Maqam Saba</a> durante a introdução de uma música do cantor de <em>Sha‘bi</em> Ahmed Adaweyya. Al-Babli participava regularmente do ensemble de Adaweyya.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -92,7 +94,8 @@ include($ROOT . 'inc/head.php');
                                 </div>
                                 <div class="info">
                                     <b>Amir Elsaffar</b>
-                                    <span>Iraqi-American Trumpet and <em>Santur</em> player Amir Elsaffar in an NPR Music Field Recording playing one of his compositions which blend elements from the Arabic Maqam system and Jazz.</span>
+                                    <span>O instrumentista iraquiano-americano Amir Elsaffar, que toca Trompete e <em>Santur</em>, em uma gravação da National Public Radio (NPR) Music Field Recording tocando uma de suas composições que mesclam elementos do sistema árabe Maqam e do Jazz.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -108,7 +111,8 @@ include($ROOT . 'inc/head.php');
                                 </div>
                                 <div class="info">
                                     <b>Ibrahim Maalouf</b>
-                                    <span>Lebanese-French trumpet player Ibrahim Maalouf playing a cover of Umm Kukthum's song <strong>Alf Leila w Leila</strong> (1969, music by Baligh Hamdi) in a Jazz arrangement that nevertheless allows room for Arabic Maqam scales.</span>
+                                    <span>O trompetista libanês-francês Ibrahim Maalouf toca um cover da canção <strong>Alf Leila w Leila</strong>, de Umm Kulthum (1969, música de Baligh Hamdi) em um arranjo de jazz que dá espaço para escalas árabes Maqam.
+                                    </span>
                                 </div>
                             </label>
                         </div>

@@ -18,6 +18,6 @@
     <li><a href="/pt/instr/tabla.php">A Tabla</a></li>
     <li><a href="/pt/instr/tabl_baladi.php">O Tambor de Aldeia</a></li>
     <li><a href="/pt/instr/keyboard.php">O Teclado Oriental</a></li>
-    <li><a href="/pt/instr/trumpet.php">O Trompete</a></li>
+    <li><a href="/pt/instr/trumpet.php">O Trompete Árabe</a></li>
     <li><a href="/pt/instr/violin.php">O Violino Árabe</a></li>
 </ul>
