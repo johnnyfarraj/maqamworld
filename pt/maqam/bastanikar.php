@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Maqam Bastanikar";
 $page_description = "Maqam Bastanikar";
 $page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
-$page_language = "es";
+$page_language = "pt";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="maqams-page">
 
     <?php
-      $page = "es/maqam/bastanikar.php";
+      $page = "pt/maqam/bastanikar.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -145,6 +145,19 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/maqam/bastanikar/nara_al_3iqda.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Muwashah Nara al-‘Iqda</b>
+                                    <span>Ensemble Ornina (Siria)</span>
+                                    <span>Conductor Dr. Muhammad Qadri Dalal</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+                    
                     <div class="track" data-song="/audio/maqam/bastanikar/nuzhatul_arwahi.mp3">
                         <div class="radio">
                             <label>
@@ -191,7 +204,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
 
-    <?php include($ROOT . 'es/footer.php'); ?>
+    <?php include($ROOT . 'pt/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
 
 </body>

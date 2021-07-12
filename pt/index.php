@@ -29,7 +29,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <p>
-                    Após 17 anos em funcionamento, o Mundo do Maqam foi reconstruído com o apoio financeiro do <a href="http://arabculturefund.org/grantees/grantee.php?id=333" target="_blank">Fundo Árabe para as Artes e Cultura (AFAC)</a>, concedido em 2016.
+                    Após 17 anos em funcionamento, o Mundo do Maqam foi reconstruído com o apoio financeiro do <a href="http://arabculturefund.org/grantept/grantee.php?id=333" target="_blank">Fundo Árabe para as Artes e Cultura (AFAC)</a>, concedido em 2016.
                     <br>
                     O Mundo do Maqam agora conta com:
                     </p>
@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                             <a href="/it/index.php"><strong>Italian</strong></a>,
                             <a href="/de/index.php"><strong>German</strong></a>,
                             <a href="/el/index.php"><strong>Greek</strong></a> and
-                            <a href="/es/index.php"><strong>Spanish</strong></a>.
+                            <a href="/pt/index.php"><strong>Spanish</strong></a>.
                         </li>
                         <li>Suporte para monitores e telas de todos os tamanhos (especialmente smartphones)</li>
                         <li>Google Search</li>

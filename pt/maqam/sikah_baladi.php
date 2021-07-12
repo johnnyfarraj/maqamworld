@@ -7,7 +7,7 @@ include('../../inc/config.php');
 $page_title = "Maqam Sikah Baladi";
 $page_description = "Maqam Sikah Baladi";
 $page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
-$page_language = "es";
+$page_language = "pt";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="maqams-page">
 
     <?php
-      $page = "es/maqam/sikah_baladi.php";
+      $page = "pt/maqam/sikah_baladi.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -199,7 +199,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
 
-    <?php include($ROOT . 'es/footer.php'); ?>
+    <?php include($ROOT . 'pt/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
 
 </body>
