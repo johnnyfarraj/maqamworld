@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>موشح ارجعي يا الف ليلة (١٩٦٦</b>
+                                    <b>موشح ارجعي يا الف ليلة (١٩٦٦)</b>
                                     <span>فيروز</span>
                                     <span>كلمات رفيق خوري</span>
                                     <span>ألحان الأخوين رحباني</span>
