@@ -146,6 +146,19 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/maqam/bastanikar/nara_al_3iqda.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Muwashah Nara al-‘Iqda</b>
+                                    <span>Ensemble Ornina (Siria)</span>
+                                    <span>Direttore d'orchestra Dr. Muhammad Qadri Dalal</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+                    
                     <div class="track" data-song="/audio/maqam/bastanikar/nuzhatul_arwahi.mp3">
                         <div class="radio">
                             <label>

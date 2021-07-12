@@ -147,6 +147,19 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/maqam/bastanikar/nara_al_3iqda.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Μουάσαχ Νάρα αλ-Έκντα</b>
+                                    <span>Μουσικό Σύνολο Ορμίνα (Συρία)</span>
+                                    <span>Μαέστρος: Δρ. Μοχάμαντ Κάντρι Νταλάλ</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+                    
                     <div class="track" data-song="/audio/maqam/bastanikar/nuzhatul_arwahi.mp3">
                         <div class="radio">
                             <label>
