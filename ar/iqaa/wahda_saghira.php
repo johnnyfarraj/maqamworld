@@ -63,6 +63,20 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/iqaa/wahda_saghira/al_atlal.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1" >
+                                <div class="info">
+                                    <b>اغنية الاطلال (١٩٦٦)</b>
+                                    <span>امّ كلثوم</span>
+                                    <span>الحان رياض السنباطي (مصر)</span>
+                                    <span>كلمات ابراهيم ناجى (مصر)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                     <div class="track" data-song="/audio/iqaa/wahda_saghira/3ala_hisbi_widab_albi.mp3">
                         <div class="radio">
                             <label>
