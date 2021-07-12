@@ -5,7 +5,7 @@ include('../inc/config.php');
 
 /* SEO settings for this page */
 $page_title = "Publicações";
-$page_description = "MaqamWorld Publicações - Inside Arabic Music";
+$page_description = "Publicações - Inside Arabic Music";
 $page_keywords = "arabic, music, arab, world, maqam, jins, iqa‘, iqaa, rhythm, oud, qanun, nay, quarter tone, tetrachord, modal, middle east, tarab";
 $page_language = "pt";
 
@@ -26,20 +26,20 @@ include($ROOT . 'inc/head.php');
                     
                     <div class="heading text-center jins">
                         <h1>Inside Arabic Music</h1>
-                        <h3>&copy; 2019 Johnny Farraj and Sami Abu Shumays</h3>
+                        <h3>&copy; 2019 Johnny Farraj e Sami Abu Shumays</h3>
                         <h3>Oxford University Press</h3>
                     </div>
                     
                     <div class="clearfix"></div>
 
-                    <p>I am happy to announce the recent release of my book <strong>Inside Arabic Music</strong> co-authored with my friend Sami Abu Shumays (creator of <a href="http://maqamlessons.com" target="_blank">MaqamLessons</a>).
+                    <p>Estou feliz de anunciar o lançamento recente do meu livro <strong>Inside Arabic Music</strong> (Por Dentro da Música Árabe), co-escrito com meu amigo Sami Abu Shumays (criador do <a href="http://maqamlessons.com" target="_blank">MaqamLessons</a>). Este novo livro foi publicado pela Oxford University Press em agosto de 2019. O livro é uma referência completa em música árabe, e o Mundo do Maqam será seu site parceiro.
+                    </p>
                     
-                    This new book was released by <a href="http://global.oup.com" target="_blank">Oxford University Press</a> in August 2019. The book is a comprehensive reference on Arabic music and MaqamWorld will be its companion website.
+                    <p>O livro <strong>Inside Arabic Music</strong> recebeu fomento do <a href="http://arabculturefund.org/grantees/grantee.php?id=333" target="_blank">Fundo Árabe pelas Artes e Cultura (AFAC)</a> em 2012.
                     </p>
-                    <p><strong>Inside Arabic Music</strong> was the recipient of a 2012 grant from <a href="http://arabculturefund.org/grantees/grantee.php?id=333" target="_blank">The Arab Fund For Arts and Culture</a>.
-                    </p>
+                    
                     <p style="margin-bottom:40px;">
-                    You can order a copy of <strong>Inside Arabic Music</strong> from <a href="https://www.amazon.com/Inside-Arabic-Music-Performance-Century/dp/0190658363/ref=sr_1_1" target="_blank">Amazon.com</a> or directly from the publisher <a href="https://global.oup.com/academic/product/inside-arabic-music-9780190658366" target="_blank">Oxford University Press</a>.
+                    Você pode encomendar uma cópia pela <a href="https://www.amazon.com/Inside-Arabic-Music-Performance-Century/dp/0190658363/ref=sr_1_1" target="_blank">Amazon.com</a> (link does not work) ou diretamente com a <a href="https://global.oup.com/academic/product/inside-arabic-music-9780190658366" target="_blank">Oxford University Press</a>.
                     </p>
                     
                     <div class="row">
