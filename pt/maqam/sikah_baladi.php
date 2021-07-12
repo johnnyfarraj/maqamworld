@@ -6,8 +6,8 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Sikah Baladi";
 $page_description = "Maqam Sikah Baladi";
-$page_keywords = "arabic, music, arab, world, maqam, jins, sikah baladi, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
-$page_language = "pt";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
+$page_language = "es";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="maqams-page">
 
     <?php
-      $page = "pt/maqam/sikah_baladi.php";
+      $page = "es/maqam/sikah_baladi.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -23,60 +23,55 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Maqam Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
                         <h1>Maqam Sikah Baladi</h1>
-                        <h3>(not part of a maqam family)</h3>
+                        <h3>(no es miembro de una familia maqam)</h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Maqam Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/sikah_baladi.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Sikah Baladi</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/sikah_baladi.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Sikah Baladi</a>
                     </div>
+
 
                      <div class="notation" id="notation1">
                         <img src="/note/maqam/sikah_baladi.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
+                        <p class="clicknotes">Haz clic en cada nota y mantenga presionado para oírla.</p>
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="69,90,13" href="#" alt="C5↓" class="playNote" data-frequency="xxx" data-parent="#notation1">
-					  <area shape="circle" coords="149,98,13" href="#" alt="B4<i class='icon-halfflat'></i>↑" class="playNote" data-frequency="xxx" data-parent="#notation1">
-					  <area shape="circle" coords="227,106,13" href="#" alt="A4<i class='icon-halfflat'></i>↓" class="playNote" data-frequency="xxx" data-parent="#notation1">
-					  <area shape="circle" coords="302,114,13" href="#" alt="G4" class="playNote" data-frequency="xxx" data-parent="#notation1">
-					  <area shape="circle" coords="381,122,13" href="#" alt="F4<i class='icon-halfsharp'></i>↑" class="playNote" data-frequency="xxxx" data-parent="#notation1">
-					  <area shape="circle" coords="462,131,13" href="#" alt="E4<i class='icon-halfflat'></i>↓" class="playNote" data-frequency="xxx" data-parent="#notation1">
-					  <area shape="circle" coords="533,139,13" href="#" alt="D4" class="playNote" data-frequency="xxx" data-parent="#notation1">
-					  <area shape="circle" coords="605,147,13" href="#" alt="C4♯" class="playNote" data-frequency="xxx" data-parent="#notation1">
-                      <area shape="circle" coords="672,147,13" href="#" alt="C4↓" class="playNote" data-frequency="xxx" data-parent="#notation1">
-					  <area shape="circle" coords="737,155,13" href="#" alt="B3<i class='icon-halfflat'></i>↑" class="playNote" data-frequency="xxx" data-parent="#notation1">
+					  <area shape="circle" coords="69,90,13" href="#" alt="Do↓" class="playNote" data-frequency="xxx" data-parent="#notation1">
+					  <area shape="circle" coords="149,98,13" href="#" alt="Si<i class='icon-halfflat'></i>↑" class="playNote" data-frequency="xxx" data-parent="#notation1">
+					  <area shape="circle" coords="227,106,13" href="#" alt="La<i class='icon-halfflat'></i>↓" class="playNote" data-frequency="xxx" data-parent="#notation1">
+					  <area shape="circle" coords="302,114,13" href="#" alt="Sol" class="playNote" data-frequency="xxx" data-parent="#notation1">
+					  <area shape="circle" coords="381,122,13" href="#" alt="Fa<i class='icon-halfsharp'></i>↑" class="playNote" data-frequency="xxxx" data-parent="#notation1">
+					  <area shape="circle" coords="462,131,13" href="#" alt="Mi<i class='icon-halfflat'></i>↓" class="playNote" data-frequency="xxx" data-parent="#notation1">
+					  <area shape="circle" coords="533,139,13" href="#" alt="Re" class="playNote" data-frequency="xxx" data-parent="#notation1">
+					  <area shape="circle" coords="605,147,13" href="#" alt="Do♯" class="playNote" data-frequency="xxx" data-parent="#notation1">
+                      <area shape="circle" coords="672,147,13" href="#" alt="Do↓" class="playNote" data-frequency="xxx" data-parent="#notation1">
+					  <area shape="circle" coords="737,155,13" href="#" alt="Si<i class='icon-halfflat'></i>↑" class="playNote" data-frequency="xxx" data-parent="#notation1">
 					  <area shape="circle" coords="817,164,13" href="#" alt="A3<i class='icon-halfflat'></i>↓" class="playNote" data-frequency="xxx" data-parent="#notation1">
 					  <area shape="circle" coords="893,173,13" href="#" alt="G3" class="playNote" data-frequency="xxx" data-parent="#notation1">
                       <!-- Links -->
                       <area shape="rect" coords="174,8,374,38" href="../jins/sikah_baladi.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="675,16,874,46" href="../jins/sikah_baladi.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="272,184,636,213" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
-
                       </map>
-                    <p>Maqam Sikah Baladi is arguably the most challenging Arabic maqam.
-                    Its scale (and sayr) is something of a hybrid between a transposition of <a href="huzam.php">Maqam Huzam</a>
-                    to an ordinary non-Sikah note, and <a href="hijazkar.php">Maqam Hijazkar</a> – the intervals
-                    are not quite the same as either, but it sounds a bit like both.
-                    None of its intervals match either just or equal-tempered intonation, making it impossible to reproduce
-                    on anything but the voice and <a href="../instr.php">traditional Arabic instruments</a>.
+
+                    <p>
+                        Maqam Sikah Baladi es posiblemente el <em>maqam</em> árabe más desafiante. Su escala (y <em>sayr</em>) es una especie de híbrido entre una transposición de <a href="huzam.php">Maqam Huzam</a> a una nota ordinaria que no es de Sikah, y <a href="hijazkar.php">Maqam Hijazkar</a>: los intervalos no son exactamente iguales a ninguno de los dos, pero suena un poco a ambos. Ninguno de sus intervalos coincide con una entonación justa o igual, lo que hace imposible reproducir en otra cosa que no sea la voz y los <a href="../instr.php">instrumentos árabes tradicionales</a>.
                     </p>
                     
-                    <p>Maqam Sikah Baladi is not part of a maqam family.</p>
+                    <p>Maqam Sikah Baladi no es miembro de una familia maqam.</p>
                     
-                    <p>Watch a 1-minute sample <a href="https://www.instagram.com/p/B-fX87oltjn" target="_blank">Violin Taqsim in Maqam Sikah Baladi</a> by Sami Abu Shumays.</p>
-
                     <div class="player-area">
                         <audio id="player" controls>
                             <source src="/audio/maqam/sikah_baladi/sahirtu.mp3" type="audio/mp3">
@@ -89,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Sahirtu Minhu al-Layali (1935)</b>
-                                    <span>Voz e música por Muhammad Abdel Wahab (Egito)</span>
+                                    <span>Voz y música por Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -153,7 +148,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Kulli Da Kan Leh (1954)</b>
-                                    <span>Voz e música por Muhammad Abdel Wahab (Egito)</span>
+                                    <span>Voz y música por Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -165,7 +160,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Habib el-Majhul(1972)</b>
-                                    <span>Voz e música por Muhammad Abdel Wahab (Egito)</span>
+                                    <span>Voz y música por Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -188,8 +183,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Qanoun</b>
-                                    <span>Abraham Salman (Iraq)</span>
+                                    <b>Taqsim de Qanun</b>
+                                    <span>Abraham Salman (Irak)</span>
                                     <span><img src="/img/cd.png"> Saltanah</span>
                                 </div>
                             </label>
@@ -204,7 +199,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
 
-    <?php include($ROOT . 'pt/footer.php'); ?>
+    <?php include($ROOT . 'es/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
 
 </body>

@@ -6,8 +6,8 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Maqam Lami";
 $page_description = "Maqam Lami";
-$page_keywords = "arabic, music, arab, world, maqam, jins, ajam, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
-$page_language = "pt";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
+$page_language = "es";
 
 include($ROOT . 'inc/head.php');
 ?>
@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="maqams-page">
 
     <?php
-      $page = "pt/maqam/lami.php";
+      $page = "es/maqam/lami.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -23,45 +23,46 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Maqam Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <?php include('../sidemenu-maqam.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
                         <h1>Maqam Lami</h1>
-                        <h3>(not part of a maqam family)</h3>
+                        <h3>(no es miembro de una familia maqam)</h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Maqam Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/lami.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Lami</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/lami.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Lami</a>
                     </div>
 
                     <div class="notation" id="notation1">
                         <img src="/note/maqam/lami.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
+                        <p class="clicknotes">Haz clic en cada nota y mantenga presionado para oírla.</p>
                     </div>
                      <map name="notemap">
-					  <area shape="circle" coords="53,130,13" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1">
-					  <area shape="circle" coords="130,122,13" href="#" alt="E4♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
-					  <area shape="circle" coords="208,113,13" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1">
-					  <area shape="circle" coords="286,105,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="364,97,13" href="#" alt="A4♭" class="playNote" data-frequency="420" data-parent="#notation1">
-					  <area shape="circle" coords="440,88,13" href="#" alt="B4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
-					  <area shape="circle" coords="517,80,13" href="#" alt="C5" class="playNote" data-frequency="521.48" data-parent="#notation1">
-					  <area shape="circle" coords="594,72,13" href="#" alt="D5" class="playNote" data-frequency="586.66" data-parent="#notation1">
+					  <area shape="circle" coords="53,130,13" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="130,122,13" href="#" alt="Mi♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
+					  <area shape="circle" coords="208,113,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
+					  <area shape="circle" coords="286,105,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+					  <area shape="circle" coords="364,97,13" href="#" alt="La♭" class="playNote" data-frequency="420" data-parent="#notation1">
+					  <area shape="circle" coords="440,88,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
+					  <area shape="circle" coords="517,80,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
+					  <area shape="circle" coords="594,72,13" href="#" alt="Re" class="playNote" data-frequency="586.66" data-parent="#notation1">
                       <!-- Links -->
                       <area shape="rect" coords="100,9,220,37" href="../jins/lami.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="340,140,460,167" href="../jins/kurd.php" class="mapLink" data-parent="#notation1">
-
 				     </map>
 
-                    <p>Maqam Lami is a rare maqam in the Middle East and was borrowed from the Iraqi repertoire. Its scale starts with <a href="../jins/lami.php">Jins Lami</a> on the <em>tonic</em>, followed by <a href="../jins/kurd.php">Jins Kurd</a> on the 4<sup>th</sup> degree.</p>
-                    <p>Maqam Lami is not part of a maqam family.</p>
+                    <p>
+                        Maqam Lami es un <em>maqam</em> poco usado en el Medio Oriente y fue tomado del repertorio iraquí. Su escala comienza con <a href="../jins/lami.php">Jins Lami</a> en la tónica, seguido por <a href="../jins/kurd.php">Jins Kurd</a> en 4to grado.
+                    </p>
+                    <p>Maqam Lami no es miembro de una familia maqam.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -75,8 +76,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>el-Bortoqal (1938)</b>
-                                    <span>Voz por Ra'isa ‘Afifi and Muhammad Abdel Wahab</span>
-                                    <span>Música de Muhammad Abdel Wahab (Egito)</span>
+                                    <span>Voz por Ra'isa ‘Afifi y Muhammad Abdel Wahab</span>
+                                    <span>Música de Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -89,7 +90,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Tislam Idein Elli-shtara (c. 1960)</b>
                                     <span>Voz por Muhammad Abdel Muttalib</span>
-                                    <span>Música de Mahmud Kamel (Egito)</span>
+                                    <span>Música de Mahmud Kamel (Egipto)</span>
                                 </div>
                             </label>
                         </div>
@@ -101,7 +102,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Albi Bi Ulli Kalam (c.1954)</b>
-                                    <span>Voz e música por Muhammad Abdel Wahab (Egito)</span>
+                                    <span>Voz y música por Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -113,7 +114,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ahmad Ya Habibi</b>
-                                    <span>Voz e música por Sabri al-Mudallal</span>
+                                    <span>Voz y música por Sabri al-Mudallal</span>
                                     <span><img src="/img/cd.png"> Songs from Aleppo</span>
                                 </div>
                             </label>
@@ -140,7 +141,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Gulli Ya Hilu</b>
                                     <span>Nazem al-Ghazali</span>
-                                    <span>(Iraqi Traditional)</span>
+                                    <span>(Tradicional de Iraq)</span>
                                 </div>
                             </label>
                         </div>
@@ -154,7 +155,7 @@ include($ROOT . 'inc/head.php');
         </div>
     </div>
 
-    <?php include($ROOT . 'pt/footer.php'); ?>
+    <?php include($ROOT . 'es/footer.php'); ?>
     <?php include($ROOT . 'inc/javascriptFiles.php'); ?>
 
 </body>
