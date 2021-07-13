@@ -35,7 +35,7 @@ include($ROOT . 'inc/head.php');
                     </p>
 
                     <ul>
-                        <li>A full translation to 
+                        <li>Uma tradução completa para
                             <a href="/en/index.php"><strong>Inglês</strong></a>, 
                             <a href="/ar/index.php"><strong>Árabe</strong></a>, 
                             <a href="/fr/index.php"><strong>Francês</strong></a>, 
