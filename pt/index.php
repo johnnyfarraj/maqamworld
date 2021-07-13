@@ -36,13 +36,13 @@ include($ROOT . 'inc/head.php');
 
                     <ul>
                         <li>A full translation to 
-                            <a href="/en/index.php"><strong>English</strong></a>, 
-                            <a href="/ar/index.php"><strong>Arabic</strong></a>, 
-                            <a href="/fr/index.php"><strong>French</strong></a>, 
-                            <a href="/it/index.php"><strong>Italian</strong></a>,
-                            <a href="/de/index.php"><strong>German</strong></a>,
-                            <a href="/el/index.php"><strong>Greek</strong></a> and
-                            <a href="/pt/index.php"><strong>Spanish</strong></a>.
+                            <a href="/en/index.php"><strong>Inglês</strong></a>, 
+                            <a href="/ar/index.php"><strong>Árabe</strong></a>, 
+                            <a href="/fr/index.php"><strong>Francês</strong></a>, 
+                            <a href="/it/index.php"><strong>Italiano</strong></a>,
+                            <a href="/de/index.php"><strong>Alemão</strong></a>,
+                            <a href="/el/index.php"><strong>Grego</strong></a> e
+                            <a href="/es/index.php"><strong>Espanhol</strong></a>.
                         </li>
                         <li>Suporte para monitores e telas de todos os tamanhos (especialmente smartphones)</li>
                         <li>Google Search</li>
