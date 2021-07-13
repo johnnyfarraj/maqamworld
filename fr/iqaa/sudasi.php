@@ -110,7 +110,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Trab ‘Ayntoura</b>
-                                    <span>Fairouz, Wadih al-Safi and Nasri Shamseddine</span>
+                                    <span>Fairouz, Wadih al-Safi and Nasri Chamseddine</span>
                                     <span>Musique et paroles par Les Frères Rahbani</span>
                                 </div>
                             </label>

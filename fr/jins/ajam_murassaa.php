@@ -81,9 +81,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>‘Ala Shatti Bahr el-Hawa</b>
+                                    <b>‘Ala Chatti Bahr el-Hawa</b>
                                     <span>Karem Mahmoud</span>
-                                    <span>Musique de Mahmoud al-Sherif</span>
+                                    <span>Musique de Mahmoud al-Cherif</span>
                                 </div>
                             </label>
                         </div>

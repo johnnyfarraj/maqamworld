@@ -102,7 +102,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taht el-Shibbak</b>
+                                    <b>Taht el-Chibbak</b>
                                     <span>Aziz Outhman (Égypte)</span>
                                 </div>
                             </label>

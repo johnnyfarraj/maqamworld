@@ -77,7 +77,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Mouachah Ah Min Nari Jafahum</b>
                                     <span>Ensemble Nour al-Charq</span>
-                                    <span>Musique de Sheikh Ali al-Darwish</span>
+                                    <span>Musique de Cheikh Ali al-Darwish</span>
                                 </div>
                             </label>
                         </div>

@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mouachah Dhabiyon Min al-Tourki</b>
-                                    <span>Ahmad Shoukri (Syrie)</span>
+                                    <span>Ahmad Choukri (Syrie)</span>
                                     <span>(compositeur inconnu)</span>
                                 </div>
                             </label>
