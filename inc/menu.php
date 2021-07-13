@@ -58,8 +58,8 @@
             <?php
             $languages_array = [
                 "en" => "English",
-                "fr" => "Français",
                 "ar" => "العربية",
+                "fr" => "Français",
                 "de" => "Deutsch",
                 "it" => "Italiano",
                 "el" => "Ελληνικά",
