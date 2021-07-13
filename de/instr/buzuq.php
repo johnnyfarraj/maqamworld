@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/buzuq.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Buzuk</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/buzuq.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Buzuk</a>
                     </div>
 
                     <p>Der Buzuk (im Kontext arabischer Musik auch oft Buzuq geschrieben, arabisches Geschlecht: Maskulinum) ist ein Saiteninstrument aus der <a href="oud.php">Oud</a>-Familie. Er hat einen längeren Hals und einen kleineren Korpus als die Oud. Der Name stammt aus dem Türkischen. Bozuk heißt dort soviel wie “kaputt”, “zerbrochen” oder “unterbrochen”. Die Bezeichnung rührt höchstwahrscheinlich daher, dass im Gegensatz zur Oud Bünde ins Griffbrett eingelassen sind und somit das Griffbrett von diesen Bünden unterbrochen ist.

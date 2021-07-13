@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/tabl_baladi.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Tabl baladi</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/tabl_baladi.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Tabl baladi</a>
                     </div>
 
                     <p>O Tabl Baladi é um grande tambor com estrutura de madeira e pele grossa em ambos os lados. É usado pendurado por um cinto em volta do ombro do músico e tocado com duas baquetas: a grossa é para o som do <em>dum</em> tocado com a mão dominante, e a baqueta fina é para o som do <em>tak</em> tocado com a outra mão.

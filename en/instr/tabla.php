@@ -42,10 +42,10 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/tabla.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Tabla</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/tabla.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Tabla</a>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/dirbakki.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Dirbakki</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/dirbakki.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Dirbakki</a>
                     </div>
 
                     <p> The Tabla (also called "Dirbakki" in Levantine dialects or "Darbuka" in Western countries) is a goblet shaped drum with skin fixed on one side.

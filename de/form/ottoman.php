@@ -38,10 +38,10 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/khana.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Khana</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/khana.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Khana</a>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/taslim.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Taslim</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/taslim.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Taslim</a>
                     </div>
 
                     <p>Drei kompositorische Instrumentalformen wurden der türkischen, also ottomanischen Musik entlehnt und sind immer noch Teil der arabischen Musik: der Sama’i, die Longa und der Bashraf. Von all diesen hat der Sama’i am besten überlebt, was sich daran zeigt, dass arabische Musiker auch im einundzwanzigsten Jahrhundert immer noch in diesem Format komponieren.
@@ -53,7 +53,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Der Sama‘i</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/samai.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Sama’i</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/samai.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Sama’i</a>
                     </div>
 
                     <p>Der Sama’i (Türkisch: "saz semaî") bezeichnete im türkischen Musiksystem ursprünglich Dreierrhythmen. Er ist eine Instrumentalform, die aus vier unterschiedlichen Khanas besteht, denen jeweils ein Taslim folgt. Die Struktur ist also K1 T K2 T K3 T K4 T. Alle Teile sind im <a href="../iqaa/samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a> gehalten. Eine Ausnahme bildet zumeist Khana 4, wo der Rhythmus gewöhnlich zu einem kurzen Muster wie <a href="../iqaa/samai_saraband.php">Iqa‘ Sama‘i Saraband</a> oder <a href="../iqaa/samai_darij.php">Iqa‘ Sama‘i Darij</a> wechselt.
@@ -145,7 +145,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/longa.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Longa</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/longa.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Longa</a>
                     </div>
 
                     <p> Die Longa (das Türkische hat das Wort vermutlich der weiblichen Form des lateinischen Wortes "longus" = lang entlehnt), ist die zweitbeliebteste ottomanische Instrumentalform. Sie ist normalerweise im kurzen, hüpfenden <a href="../iqaa/fox.php">Iqa‘ Fox</a> im Khana und <a href="../iqaa/malfuf.php">Iqa‘ Malfuf</a> im Taslim gesetzt.
@@ -205,7 +205,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Der Bashraf</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/bashraf.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Bashraf</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/bashraf.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Bashraf</a>
                     </div>
 
                     <p>Der Bashraf (Türkisch "peşrev" = das Vorangehende) ist die am wenigsten verbreitete ottomanische Instrumentalform. Sie verbleibt meist im Dunstkreis des Musikunterrichts und der Etüden. Der Bashraf besteht aus vier Khanas, jeweils gefolgt von demselben Taslim. Arabische Musiker benutzen diese Form nahezu nie.

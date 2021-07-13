@@ -37,10 +37,10 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/khana.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Khana</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/khana.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Khana</a>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/taslim.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Taslim</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/taslim.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Taslim</a>
                     </div>
 
                     <p>Tre forme di composizioni strumentali sono derivate dalla musica Turca/Ottomana e sono ancora parte della musica araba d'oggi: il Sama‘i, la Longa e il Bashraf. Il sama‘i è quello sopravvissuto più a lungo dei tre, viene infatti usato per le composizioni nella musica araba ancora nel XXI secolo.
@@ -53,7 +53,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Il Sama‘i</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/samai.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Sama‘i</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/samai.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Sama‘i</a>
                     </div>
                     <p>Il Sama‘i è una forma di composizione strumentale che consiste in 4 <em>khana</em>-s, ognuno seguito dallo stesso <em>taslim</em>. La struttura del Sama‘i è K1, T, K2, T, K3, T, K4, T. Tutte le sue sezioni sono composte sull' <a href="../iqaa/samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a>, ad eccezione del quarto khana che è solitamente composto su un breve tempo dispari su dei ritmi come l'<a href="../iqaa/samai_saraband.php">Iqa‘ Sama‘i Saraband</a> o l'<a href="../iqaa/samai_darij.php">Iqa‘ Sama‘i Darej</a>.
                     </p>
@@ -147,7 +147,7 @@ include($ROOT . 'inc/head.php');
                         <h3>La Longa</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/longa.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Longa</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/longa.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Longa</a>
                     </div>
                     
                     <p>La longa è la seconda forma musicale ottomana più popolare. È solitamente composta sul breve e saltellando <a href="../iqaa/fox.php">Iqa‘ Fox</a> per i <em>khana</em>-s, e sull' <a href="../iqaa/malfuf.php">Iqa‘ Malfuf</a> per il <em>taslim</em>.
@@ -210,7 +210,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Il Bashraf</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/Bashraf.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Bashraf</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/Bashraf.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Bashraf</a>
                     </div>
                     <p>Il bashraf è la forma strumentale ottomana meno diffusa, viene usato principalmente nel campo delle lezioni musicali e di esercizi strumentali. Il bashraf consiste in 4 <em>khana</em>-s, ognuno seguito dallo stesso <em>taslim</em>, è raramente usato nella musica araba.
                     </p>

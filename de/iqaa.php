@@ -36,7 +36,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/iqaa.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Iqa‘/Iqa‘at</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/iqaa.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Iqa‘/Iqa‘at</a>
                     </div>
 
                     <p>Arabische Musik wird über rhythmische Zyklen gespielt. Die Einheiten heißen Iqa'at (Singular: <em>Iqa'</em>). Dabei handelt es sich um Schlagmuster, die in jedem Takt wiederholt werden. Eine Komposition kann zwischen mehreren solcher Muster wechseln. Jeder Iqa‘ wird durch eine Abfolge von zwei Grundschlägen definiert: <strong>Dum</strong> (tief und ausklingend) und <strong>Tak</strong> (hell und kurz).

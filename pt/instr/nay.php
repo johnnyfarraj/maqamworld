@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/nay.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Nay</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/nay.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Nay</a>
                     </div>
 
                     <p>O Nay ("junco" em farsi) é uma flauta aberta e soprada transversalmente feita de cana. O Nay é conhecido no Oriente Próximo desde a antiguidade. Tem nove juntas e geralmente 6 orifícios na frente para os dedos tocarem e 1 orifício na parte inferior para o polegar. É tocado com as pontas dos dedos. Nays têm diferentes comprimentos, cada um deles afinado em uma altura específica e chamado pelo nome da nota produzida com o primeiro orifício aberto (Ré 4) para o Nay mais comumente utilizado; nota mais grave: Dó 3).

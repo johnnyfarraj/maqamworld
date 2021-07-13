@@ -42,11 +42,11 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/daff.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Daf</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/daff.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Daf</a>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/bendir.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Bandir</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/bendir.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Bandir</a>
                     </div>
 
                     <p>Daf è una parola generica per definire il tamburo a cornice usato nel mondo Arabo, ma può avere differenti nomi in base alla località: Mazhar in Siria e Egitto o <em>Bandir</em> in Nord Africa.

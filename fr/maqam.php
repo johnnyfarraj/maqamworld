@@ -36,7 +36,7 @@ include($ROOT . 'inc/head.php');
           <div class="clearfix"></div>
 
           <div class="text-center mt-2 mb-3">
-            <a href="#" class="pronunciation btn btn-default" data-audio="/name/maqam.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Maqam/Maqamat</a>
+            <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/maqam.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Maqam/Maqamat</a>
           </div>
 
           <p>Le Maqam arabe est un système de gammes, motifs mélodiques, possibilités de modulation, normes d'ornementation et conventions esthétiques qui forment ensemble un cadre mélodique et une tradition artistique riches. Le trajet mélodique du <em>maqam</em> (tant au niveau de la musique composée qu'improvisée) est appelé <em>sayr</em> (pronnoncé saïr) en arabe.</p>

@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qanun.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Qanoun</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/qanun.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Qanoun</a>
                     </div>
 
                     <p>Le Qanoun est le descendant de l'ancienne harpe égyptienne.

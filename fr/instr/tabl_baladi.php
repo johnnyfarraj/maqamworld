@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/tabl_baladi.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Tabl baladi</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/tabl_baladi.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Tabl baladi</a>
                     </div>
 
                     <p> Le Tabl Baladi est un grand tambour villageois fait d'un cadre de bois avec des peaux lourdes sur les deux côtés. Il est attaché à l'épaule du musicien avec une ceinture et est joué à l'aide de deux bâtons: le bâton épais est pour les sons dum, joués avec la main dominante tandis que le bâton mince est pour les sons tak joués avec l'autre main.

@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/katim.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Katèm</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/katim.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Katèm</a>
                     </div>
 
                     <p> Il Katem (dal verbo <em>katama</em>, silenziare o smorzare) è un pesante tamburo a cornice con un suono soffocato. Il katim è generalmente tenuto stretto tra le ginocchia dei musicisti e viene suonato con le mani invece che con le dita. La maggior parte dei katim di oggi hanno pelli in plastica e sono accordabili. Il ruolo principale del katim è quello di supportare gli altri strumenti nella sezione ritmica accentuando i suoni base "<em>dum</em>" e "<em>tak</em>" con più abbellimenti.

@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/katim.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Katem</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/katim.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Katem</a>
                     </div>
                     
                     <p>O Katim (do verbo "katama", silenciar ou abafar) é um tambor de armação pesado de som abafado. O Katim é geralmente segurado entre os joelhos do instrumentista e é para ser tocado com as mãos e não com os dedos. A maioria dos <em>Katem</em>-s de hoje tem pele de plástico e afinação ajustável. O papel principal do <em>Katem</em> é dar apoio a outros instrumentos na seção rítmica, acentuando os sons básicos do <strong>dum</strong> e <strong>tak</strong>strong> com muita ornamentação.

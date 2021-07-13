@@ -42,10 +42,10 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/sagat.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Sagat (Sajat)</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/sagat.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Sagat (Sajat)</a>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/tura.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Toura</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/tura.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Toura</a>
                     </div>
 
                     <p>Les Sagats (appelées <em>Sajat</em> à l'extérieur de l'Égypte) sont des cymbales en laiton tenues par les doigts qui ont un diamètre de 3,5 à 5 centimètres (des cymbales pouvant être jusqu'à deux fois plus larges existent aussi et sont appelées <em>Toura</em>). Elles sont portées sur le pouce et le troisième doigt de chaque main à l'aide de bandes élastiques.

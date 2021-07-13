@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/riqq.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Riqq</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/riqq.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Riqq</a>
                     </div>
                     
                     <p>O Riqq é um pequeno tambor de armação com pratos. O aro é geralmente feito de madeira (existem alguns modelos de alumínio) e tem de 9 a 10 polegadas (entre 23 e 25 cm) de diâmetro. É tradicionalmente coberto com couro de peixe, embora os riqq-s modernos utilizem plástico (Mylar). Os címbalos dão ao riqq seu som distinto. Eles são feitos de latão (cerca de 0,8 mm a 0,9 mm de espessura) e vêm em 5 (às vezes 6) grupos de quatro.

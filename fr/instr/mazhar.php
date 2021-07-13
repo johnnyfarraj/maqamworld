@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mazhar.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Mazhar</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/mazhar.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Mazhar</a>
                     </div>
 
                     <p> Le Mazhar égyptien est un tambour sur cadre très lourd avec de larges cymbales. Il est fait pour marteler lourdement dans une section rythmique forte et diverse telle que celle utilisée lors des Zaffas (processions de mariage) dans laquelle le <a href = "../iqaa/zaffa.php">Iqa‘ Zaffa</a> est utilisé.

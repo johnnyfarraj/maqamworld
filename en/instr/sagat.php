@@ -42,10 +42,10 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/sagat.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Sagat (Sajat)</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/sagat.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Sagat (Sajat)</a>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/tura.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Tura</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/tura.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Tura</a>
                     </div>
 
                     <p>Sagat (called <em>Sajat</em> outside Egypt) are brass finger cymbals around 1&#189; to 2 inches in diameter (larger cymbals of up to twice that diameter exist and are called <em>Tura</em>). They are worn on the thumb and the 3<sup>rd</sup> finger of each hand using stretchy bands. Sagat are sometimes called by their Turkish name "zills".</p>

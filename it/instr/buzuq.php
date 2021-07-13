@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/buzuq.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Buzuq</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/buzuq.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Buzuq</a>
                     </div>
 
                     <p>Il buzuq è uno strumento a corda della famiglia degli <a href="oud.php">Oud</a> con un piccolo corpo e un lungo manico avente tasti. È simile, nella forma, al bouzouki, strumento greco, e al saz, strumento turco. Il buzuq è originariamente uno strumento popolare del mediterraneo orientale (Palestina, Giordania, Libano e Siria) e viene spesso suonato da solo. Viene comunque inserito nella lista degli altri strumenti tradizionali in quanto è stato usato nella musica pop araba nel corso del XX secolo. Da allora è stato usato in molte registrazione e concerti diventando parte del complesso musicale arabo.

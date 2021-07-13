@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Der Muwashah</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/muwashah.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Muwashah</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/muwashah.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Muwashah</a>
                     </div>
                     <p>Der Muwashah (Plural: Muwashahat) ist eine komplexe Vokalform, die auf klassischen arabischen Gedichten aus Andalusien basiert. Daher werden Muwashahat manchmal als andalusisch eingestuft, obwohl die zugehörigen Melodien aus dem Gebiet von Syrien bis Ägypten stammen und erst in den vergangenen ein, zwei Jahrhunderten geschrieben wurden.
                     </p>
@@ -104,7 +104,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Der Qadd</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qadd.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache der Qadd</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/qadd.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache der Qadd</a>
                     </div>
                     <p>Der Qadd (Plural: Qudud) ist ein leichtes und einfaches traditionelles Lied, das vor allem in Aleppo zur Blüte kam. Qudud werden gewöhnlich am Ende eines Wasla vorgetragen. Voran gehen schwerere Stücke wie Adwar, Qasa'id oder Muwashat. Qadd-Texte sind im umgangssprachlichen aleppischen, manchmal auch ägyptischen Dialekt gehalten. Sie sind sehr eingängig und leicht zu merken.
                     </p>
@@ -129,7 +129,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Der Dawr</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/dawr.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache der Dawr</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/dawr.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache der Dawr</a>
                     </div>
                     <p>Der Dawr (Plural: Adwar) ist eine ägyptische komponierte Vokalform, die am Ende des neunzehnten Jahrhunderts florierte und bis in die Dreißigerjahre des zwanzigsten Jahrhunderts sehr beliebt war. Der Dawr ist eine komplexe Komposition, die anspruchsvoll in der Aufführungspraxis auch und gerade für den Sänger ist. Er war lange das Zentrum der Wasla. Die Texte sind ausschließlich in umgangssprachlichen ägyptischen Arabisch gehalten.
                     </p>
@@ -188,7 +188,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Die Taqtuqa</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/taqtuqa.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Taqtuqa</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/taqtuqa.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Taqtuqa</a>
                     </div>
                     <p>Die Taqtuqa (Plural: Taqatiq) ist das arabische Standardlied. Es hat eine Länge von drei bis vier Minuten. Strophe und Refrain wechseln sich mehrfach ab. Taqatiq benutzen gewöhnlich einfache <a href="../iqaa.php">iqa‘at</a> wie <a href="../iqaa/maqsum.php">Iqa‘ Maqsum</a> und haben leicht zugängliche Texte und eine Melodie, die man sich leicht merken und mitsingen kann.
                     </p>
@@ -261,7 +261,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Die Ughniya (Liebeslied)</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/ughniya.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Ughniya</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/ughniya.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Ughniya</a>
                     </div>
                     <p>Die Ughniya (Plural: Aghani) ist ein langes Liebeslied, das sich im der Mitte des zwanzigsten Jahrhunderts entwickelt hat. Sie kann bis zu einer Stunde dauern, wenn sie live gespielt wird, und hat ein langes Intro (siehe <a href="instr_comp.php#muqaddima">Muqaddima</a>) sowie verschiedene Teile mit ausführlichen Maqam-Modulationen. Die Ughniya wird gewöhnlich mit großem Orchester vorgetragen, die Megastars wie Umm Kulthum, Abdel Halim Hafez und Warda begleiten.
                     </p>
@@ -286,7 +286,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Die Qasida (komponiert)</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qasida.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Qasida</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/qasida.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Qasida</a>
                     </div>
                     <p>Die Qasida (Plural: Qasa'id) nutzt als Text ein Gedicht in einem Metrum in klassischem Arabisch. Die Qasida wird gewöhnlich von einem Sänger vorgetragen, der von einem Ensemble unterstützt wird. Sie ist meist lang und kunstvoll, damit der Sänger sein Können herausstellen kann.
                     </p>
@@ -371,7 +371,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Die Wasla</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/wasla.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Wasla</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/wasla.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Wasla</a>
                     </div>
                     <p>Die Wasla (Plural: Waslat) ist eine Form, die andere Formen beinhaltet, die nacheinander als eine Einheit aufgeführt werden, gewöhnlich stehen sie im selben <a href="../maqam.php">Maqam</a>. Eine kurze Wasla dauert fünf bis zehn Minuten, längere etwa eine Stunde. Die Stücke innerhalb der Wasla sind so geordnet, dass sie langsam anfangen und erst einmal den Maqam vorstellen. Dies geschieht meist instrumental. Dann kommen die komplexen Stücke, die den Musikern viel Können abverlangen. Die Wasla endet meist mit einem einfachen und kurzen Stück. Der Spannungsbogen geht also von einfach über komplex zu einfach zurück.
                     </p>

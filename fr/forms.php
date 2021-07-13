@@ -36,7 +36,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qalab.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Qalab/Qawaleb</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/qalab.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Qalab/Qawaleb</a>
                     </div>
 
                     <p>La plupart des musiques traditionnelles et classiques arabes, qu'elles soient composées ou improvisées, suivent un ensemble de formes appelé <em>qawaleb</em> en arabe (<em>qalab</em> au singulier; au sens littéral: un moule ou un contenant d'une certaine forme). Les qawaleb sont des patrons guidant le compositeur ou l'improvisateur et sont utilisés tant pour la musique vocale qu'instrumentale. Les qawaleb donnent au musicien un cadre familier pour travailler et confortent l'auditeur dans ses anticipations.

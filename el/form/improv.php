@@ -44,7 +44,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Τα Λαγιάλι</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/layali.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Λαγιάλι</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/layali.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Λαγιάλι</a>
                     </div>
                     <p>
                         Τα Λαγιάλι είναι ένας σόλο φωνητικός αυτοσχεδιασμός πάνω στην φράση “Για λέιλ Για Αΐν”, (Ω Νύχτα, Ω Μάτι), όπου “Λαγιάλι” είναι ο πληθυντικός της λέξης “Λέιλ” στα Αραβικά. Αυτή είναι μία φράση κατά παράδοση που δεν χρησιμοποιείται με την κυριολεκτική της σημασία πια, αλλά έχει γίνει περισσότερο ως φωνητικό γέμισμα και όχημα για φωνητικά διανθίσματα.
@@ -111,7 +111,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Το Μαουάλ</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mawwal.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Μαουάλ</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/mawwal.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Μαουάλ</a>
                     </div>
                     <p>
                          Το Μαουάλ (πλ. Μαουαουίλ) είναι ένας σόλο φωνητικός αυτοσχεδιασμός πάνω σε Αραβικό ποίημα στην καθομιλουμένη. Για παράδειγμα, το ποίημα θα μπορούσε να είναι στην Αιγυπτιακή, Λιβανική, Συριακή ή Ιρακινή διάλεκτο. Όπως και με άλλες φωνητικές αυτοσχεδιαστικές φόρμες, το Μαουάλ είναι ένα όχημα παρουσίασης της πορείας/ανάπτυξης του μακάμ, όπως επίσης και της ομορφιάς της φωνής του τραγουδιστή και της τεχνικής του στα διανθίσματα.
@@ -178,7 +178,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Η Αυτοσχεδιαστική Κασίντα</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qasida.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Κασίντα</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/qasida.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Κασίντα</a>
                     </div>
                     <p>
                         Η Κασίντα (πλ. <em>Κασάεντ</em>) είναι ένα έμμετρο ποίημα σε κλασσικά Αραβικά. Μπορεί να χρησιμοποιηθεί σε φόρμα σύνθεσης (βλέπε Κασίντα Σύνθεσης) ή, στην προκειμένη την περίπτωση, σε αυτοσχεδιαστική Κασίντα. Η εν λόγω φόρμα είναι πανομοιότυπη με το Μαουάλ στον τρόπο που περιλαμβάνει την ανάπτυξη του μακάμ, και τις ικανότητες και τέχνη του τραγουδιστή.
@@ -224,7 +224,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Το Τακσίμ</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/taqsim.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Τακσίμ</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/taqsim.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Τακσίμ</a>
                     </div>
                     <p> 
                         Το Τακσίμ (πλ.<em>Τακασίμ</em>) είναι αυτοσχεδιασμός σε όργανο καθοδηγούμενος από πλάνο βασισμένο στην παράδοση το οποίο ακολουθεί από πολύ κοντά την <em>πορεία/ανάπτυξη</em> ενός μακάμ (συμπεριλαμβάνοντας τονισμό, φρασεολογία και μετατροπία). Το Τακσίμ επίσης παρουσιάζει την ομορφιά του οργάνου, τις δυνατότητες του στα διανθίσματα, και τις ικανότητες, τεχνική και προσωπικό ύφος του οργανοπαίχτη.

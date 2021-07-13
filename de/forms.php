@@ -36,7 +36,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qalab.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Qalib/Qawalib</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/qalab.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Qalib/Qawalib</a>
                     </div>
 
                     <p>Die meiste traditionelle und klassische arabische Musik, ob nun komponiert oder improvisiert, folgt festen Regeln. Diese heißen <em>Qawalib</em> im Arabischen (Singular: <em>Qalib</em>), was Model oder Form bedeutet. Qawalib sind Muster, die den Komponisten und den Improvisierenden leiten. Sie finden sowohl in der vokalen wie in der instrumentalen Musik Verwendung. Qawalib stecken einen Rahmen ab, in dem sich der Musiker bewegen kann, und erzeugen eine Gefühl der Vertrautheit und Erwartung in den Hörern.

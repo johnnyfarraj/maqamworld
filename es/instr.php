@@ -36,13 +36,13 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/takht.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Takht</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/takht.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Takht</a>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/sahb.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Sahb</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/sahb.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Sahb</a>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/naqr.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Naqr</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/naqr.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Naqr</a>
                     </div>
 
                     <p id="takht">

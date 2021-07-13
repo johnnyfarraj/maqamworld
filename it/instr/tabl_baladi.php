@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/tabl_baladi.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Tabl baladi</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/tabl_baladi.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Tabl baladi</a>
                     </div>
 
                     <p>

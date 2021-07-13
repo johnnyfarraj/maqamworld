@@ -36,7 +36,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/rast.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Rast</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/rast.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Rast</a>
                     </div>
 
                     <p>Die Maqam-Rast-Familie besteht aus Maqamat, die mit <a href="../jins/rast.php">Jins Rast</a> beginnen.</p>

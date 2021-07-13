@@ -37,10 +37,10 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/kirdan.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Kirdan</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/kirdan.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Kirdan</a>
                     </div>
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/sazkar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Sazkar</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/sazkar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Sazkar</a>
                     </div>
 
                      <div class="notation" id="notation1">

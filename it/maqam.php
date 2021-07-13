@@ -36,7 +36,7 @@ include($ROOT . 'inc/head.php');
           <div class="clearfix"></div>
 
           <div class="text-center mt-2 mb-3">
-            <a href="#" class="pronunciation btn btn-default" data-audio="/name/maqam.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Maqam/Maqamat</a>
+            <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/maqam.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Maqam/Maqamat</a>
           </div>
 
           <p>Il Maqam Arabo (plurale <em>maqamat</em>) è un sistema di scale, frasi melodiche abituali, possibilità di modulazione, norme di abbellimento e convenzioni estetiche che insieme formano una ricca struttura melodica e una tradizione artistica. Il svolgimento della melodia del <em>maqam</em> (sia nella musica composta che improvvisata) con questa struttura è chiamata <sayr>sayr</sayr> in Arabo.</p>

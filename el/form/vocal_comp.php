@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Το Μουάσαχ</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/muwashah.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Μουάσαχ</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/muwashah.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Μουάσαχ</a>
                     </div>
                     <p>
                         Το Μουάσαχ (πλ. <em>Μουασαχάτ</em>) είναι μία σύνθετη φωνητική φόρμα βασισμένη στην κλασσική Αραβική ποίηση από την Ανδαλουσία (συνεπώς τα μουασαχάτ μερικές φορές αναγνωρίζονται ως Ανδαλουσιακά ακόμα κι αν οι μελωδίες των συνθέσεών τους είναι πάντα από την Συρία μέχρι την Αίγυπτο, και χρονολογούνται μονάχα από τον τελευταίο ή προτελευταίο αιώνα).
@@ -113,7 +113,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Το Καντ</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qadd.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Καντ</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/qadd.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Καντ</a>
                     </div>
                     <p>
                         Το Καντ (πλ. <em>Κουντούτ</em>) είναι ένα ελαφρύ και απλό παραδοσιακό τραγούδι που ευδοκίμησε στο Χαλέπι, Συρία. Τα Κουντούτ συνήθως ερμηνεύονται στο τέλος μίας Ουάσλα, μετά από πιο βαριά κομμάτια όπως τα Αντουάρ (εν.Ντάουρ), Κασάιεντ ή Μουασαχάτ. Τα λόγια των Κουντούτ είναι σε δημώδη Αραβική διάλεκτο από το Χαλέπι  (ή κάποιες φορές στα Αιγπτιακά) και είναι πολύ προσβάσιμα, απλά και εύκολομνημόνευτα.
@@ -141,7 +141,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Το Ντάουρ</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/dawr.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Ντάουρ</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/dawr.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Ντάουρ</a>
                     </div>
                     <p>
                         Το Ντάουρ (πληθ. <em>Αντουάρ</em>) είναι μία Αιγυπτιακή φωνητική φόρμα σύνθεσης που άνθισε γύρω στις αρχές του 19ου αιώνα και συνέχισε μέχρι την δεκαετία του’30. Το Ντάουρ είναι περίπλοκο στην σύνθεση και ερμηνεία, και απαιτητικό στο τραγούδι, και ήταν το κέντρο μίας <a href="#wasla">Ουάσλα</a> (ενότητας τραγουδιών) για πολύ καιρό. Οι στίχοι του Ντάουρ είναι πάντα σε καθομιλουμένα Αιγυπτιακά.
@@ -206,7 +206,7 @@ include($ROOT . 'inc/head.php');
                         <h3>TΗ Τακτούκα</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/taqtuqa.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά της Τακτούκα</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/taqtuqa.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά της Τακτούκα</a>
                     </div>
                     <p> 
                         Η Τακτούκα (πλ. Τακατίκ) είναι το μέσο 3-4 λεπτών Αραβικό τραγούδι με πολλαπλές στροφές και ένα επαναλαμβανόμενο χοριακό (ρεφραίν). Τα Τακατίκ συνήθως χρησιμοποιούν απλούς <a href="../iqaa.php">ρυθμούς</a> όπως <a href="../iqaa/maqsum.php">Ικά Μακσούμ</a> και έχουν προσβάσιμους στίχους και μελωδία που είναι απλή προς μνημόνευση και για να τραγουδιστεί.
@@ -282,7 +282,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Η Ουγνία (Μακρόσυρτο Τραγούδι)</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/ughniya.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά της Ουγνία</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/ughniya.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά της Ουγνία</a>
                     </div>
                     <p>
                         Η Ουγνία (πλ. <em>αγάνι</em>) είναι ένα μακρόσυρτο ταγούδι το οποίο αναπτύχθηκε προς τα μέσα του 20ου αιώνα. Η Ουγνία μπορεί να κρατήσει μέχρι  και μία ώρα σε μία ζωντανή εκτέλεση και έχει μεγάλη εισαγωγή (βλέπε <a href="instr_comp.php#muqaddima">Η μουκάντιμα</a>) όπως επίσης και πολλαπλά μέρη με πλήρεις μετατροπίες μακαμιών. Η Ουγνία συνήθως  ερμηνεύεται με μεγάλη ορχήστρα και συμπεριλαμβάνει μεγάλους αστέρες του τραγουδιού όπως Ουμ Κουλθούμ, Αμπντέλ Χαλίμ Χάφεζ και Ουάρντα.
@@ -308,7 +308,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Η Κασίντα (ως σύνθεση)</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qasida.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά της Κασίντα</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/qasida.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά της Κασίντα</a>
                     </div>
                     <p> 
                         Η Κασίντα (πλ. <em>Κασάϊεντ</em>) είναι ένα έμμετρο ποίημα σε κλασσική Αραβική γλώσσα, και στην εκδοχή σύνθεσης χρησιμοποιεί αυτό το ποίημα ως στίχους της. Η Κασίντα ερμηνεύεται συνήθως από έναν σόλο τραγουδιστή συνοδευόμενο από ένα μουσικό σύνολο, και τείνει να είναι μακρύ και περίτεχνο με σκοπό να προβάλλει τον τραγουδιστή.
@@ -396,7 +396,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Η Ουάσλα</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/wasla.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά της Ουάσλα</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/wasla.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά της Ουάσλα</a>
                     </div>
                     <p> Η Ουάσλα (πλ. ουασλάτ) είναι μία φόρμα που περιέχει άλλες φόρμες οι οποίες παίζονται διαδοχικά ως μία ενότητα, συνήθως στο ίδιο μακάμ. Μία σύντομη Ουάσλα μπορεί να διαρκέσει 5-10 λεπτά, καθώς μία μακρύτερη Ουάσλα μπορεί να προσεγγίσει την μία ώρα. Τα κομμάτια μέσα στην Ουάσλα είναι τοποθετημένα έτσι ώστε να αρχίζει αργά καθορίζοντας το μακάμ (συχνά με ορχηστρικά κομμάτια) και εν συνεχεία  προβάλει το περίπλοκο και απαιτητηικό φωνητικό κομμάτι. Η Ουάσλα στο τέλος ολοκληρώνεται με απλά και σύντομα κομμάτια, δημιουργώντας συνολικά ένα τόξο ανάπτυξης δυναμικών με το απόγειο τους να βρίσκεται στην μέση.
                     </p>

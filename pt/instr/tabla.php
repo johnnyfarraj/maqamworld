@@ -42,10 +42,10 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/tabla.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Tabla</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/tabla.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Tabla</a>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/dirbakki.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Dirbakki</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/dirbakki.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Dirbakki</a>
                     </div>
 
                     <p>A Tabla (também chamada de "Dirbakki" nos dialetos levantinos ou "Darbuka" nos países ocidentais) é um tambor em forma de cálice com uma pele fixada em um dos lados.

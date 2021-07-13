@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mazhar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Mazhar</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/mazhar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Mazhar</a>
                     </div>
                     
                     <p> The Egyptian Mazhar is a very heavy frame drum with large cymbals. It is designed for heavy pounding in a loud and diverse rhythm section, such as the one used in a <em>Zaffa</em> (wedding procession), where <a href = "../iqaa/zaffa.php">Iqa‘ Zaffa</a> is featured.

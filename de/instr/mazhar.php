@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mazhar.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache der Mazhar</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/mazhar.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache der Mazhar</a>
                     </div>
 
                     <p> Das ägyptische Mazhar ist eine sehr schwere Rahmentrommel mit großen Zimbeln. Es ist gedacht für laute Schläge in einer lauten Rhythmusgruppe, etwa bei einer Zaffa (Hochzeitsprozession), wo <a href = "../iqaa/zaffa.php">Iqa‘ Zaffa</a> benutzt wird.

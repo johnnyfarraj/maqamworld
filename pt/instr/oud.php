@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/oud.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Oud</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/oud.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Oud</a>
                     </div>
 
                     <p>O Oud (também grafado 'Ud) é um dos instrumentos mais populares da música árabe. Seu nome significa "uma tira fina de madeira" em árabe, e isso se refere às tiras de madeira usadas para fazer seu corpo em forma de pêra. O braço do oud é curto em comparação ao corpo e não tem trastes. Isso permite que o oud atinja uma afinação excelente e o torna ideal para executar os <a href="../maqam.php">maqamat</a> árabes.

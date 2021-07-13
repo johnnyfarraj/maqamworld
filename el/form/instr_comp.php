@@ -44,7 +44,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Η Μακτούα</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/maqtua.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά της Μακτούα</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/maqtua.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά της Μακτούα</a>
                     </div>
                     <p>
                         Η Μακτούα (κυριολεκτικά σημαίνει ένα κομμάτι) είναι γενικά μία οργανική σύνθεση. Λέγεται επίσης Μααζούφα (ερμηνευμένη σε ένα όργανο σε αντίθεση με το τραγούδι). Η φόρμα της Μακτούα είναι ειδικά δημοφιλής στην μουσικό είδος του <em>Ρακς Σάρκι</em>-ανατολικός χορός (χορός της κοιλιάς).
@@ -123,7 +123,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Η Μουκάντιμα</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/muqaddima.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά της Μουκάντιμα</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/muqaddima.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά της Μουκάντιμα</a>
                     </div>
                     <p>
                         Η Μουκάντιμα σημαίνει κυριολεκτικά ‘‘εισαγωγή”. Αυτή η φόρμα έγινε δημοφιλής προς τα μέσα του 20ού αιώνα καθώς οι συνθέτες πρόσθεταν μεγάλες εισαγωγές στην νέα δημοφιλή φόρμα <a href="../form/vocal_comp.php#ughniya">Ουγνία</a> (φόρμα μεγάλου σε διάρκεια τραγουδιού). Ανεπτυγμένες <a href="../form/instr_comp.php#muqaddima">Μουκάντιμα</a> μερικές φορές διαρκούσαν πάνω από 5 λεπτά και συμπεριλάμβαναν πολλαπλά μέρη όπως μέρη σόλων και μετατροπίες Μακάμ.
@@ -185,7 +185,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Το Ντουλάμπ</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/dulab.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Ντουλάμπ</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/dulab.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Ντουλάμπ</a>
                     </div>
                     <p> 
                         Το Ντουλάμπ είναι μία πολύ σύντομη σύνθεση η οποία περιλαμβάνει και εισαγάγει ένα μακάμ. Η ονομασία του σημαίνει ”τροχός” στα Αραβικά επειδή η ίδια μελωδία επαναλαμβάνεται πολλές φορές. Το Ντουλάμπ θα μπορούσε να στέκεται ανεξάρτητο ως κομμάτι το οποίο προυπάρχει ενός <a href="improv.php">αυτοσχεδιασμού</a>, ή θα μπορούσε να υπηρετήσει ως μία εισαγωγή σε ένα Ντάουρ (κύκλο).
@@ -230,7 +230,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Η Ταχμίλα</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/tahmila.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά της Ταχμίλα</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/tahmila.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά της Ταχμίλα</a>
                     </div>
                     <p>
                         Η Ταχμίλα είναι ένα οργανικό κομμάτι που συνδυάζει ένα επαναλαμβανόμενο ρεφραίν με στροφές που είναι εν μέρει σύνθεση και εν μέρει αυτοσχεδιασμός. Η Ταχμίλα συνήθως παίζεται από μικρό σύνολο Ταχτ (παραδοσιακή μικρή ορχήστρα) όπου κάθε οργανοπαίχτης παίρνει σειρά παίζοντας την εκάστοτε στροφή και αυτοσχεδιάζει, και το ρεφραίν παίζεται από όλη την ορχήστρα.
@@ -275,7 +275,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Το Ντάριτζ</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/darij.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Ντάριτζ</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/darij.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Ντάριτζ</a>
                     </div>
                     <p>
                         Η φόρμα Ντάριτζ (επίσημα λέγεται <em>Σαμάι Ντάριτζ</em>) είναι μία απλή οργανική σύνθεση ονομαζόμενη <a href="../iqaa/samai_darij.php">Ικά Σαμάι Ντάριτζ</a> (3/4). Όπως στις <a href="ottoman.php">Φόρμες Οθωμανικής Ορχηστρικής μουσικής</a>, η σύνθεση Ντάριτζ στηρίζεται σε ένα κύριο Μακάμ από το οποίο παίρνει το όνομά του, ακολουθούμενο από το όνομα του συνθέτη.

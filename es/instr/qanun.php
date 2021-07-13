@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qanun.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Qanun</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/qanun.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Qanun</a>
                     </div>
 
                     <!-- TODO El Qanun’s origins are traced back to ancient Greece and Pythagoras or the Egyptian harp. It takes its name from the ancient Greek word ‘κανών’, which means “rule”. Also, it appears in Byzantium with the name “psaltirion”. 

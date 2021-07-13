@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/kamanja.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Kamanja</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/kamanja.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Kamanja</a>
                     </div>
 
                     <p>Die Violine (die im Arabischen <em>Kamanja</em> oder <em>Kaman</em> heißt) kam Ende des neunzehnten Jahrhunderts ins arabische Musikensemble und ersetzte diverse indigene Fiedelvarianten wie die Kamanja, <em>Rababa</em> und <em>Jowza</em>. Man kann argumentieren, dass die Violine das offensichtlichste Beispiel für ein arabisierte Musikinstrument ist. Wahr ist aber auch, dass sie schon lange in der arabischen Musik heimisch ist. Sie hat ihre eigene Stimmung, Spieltechnik und Ornamentierungsstilistik. Die arabische Violine ist inzwischen so wichtig für den arabischen Sound wie die <a href="oud.php">Oud</a> und das <a href="qanun.php">Kanun</a>.

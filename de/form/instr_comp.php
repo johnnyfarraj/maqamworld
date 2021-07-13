@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Die Maqtu‘a</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/maqtua.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Maqtu‘a</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/maqtua.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Maqtu‘a</a>
                     </div>
                     <p> Die Maqtu'a (wörtlich Stück oder Teil) ist eine allgemeine Instrumentalkomposition. Sie wird auch Ma'zufa genannt. Das bedeutet auf einem Instrument gespielt (im Gegensatz zu gesungen). Die Ma'zufa ist besonders beim <em>Raqs Sharqi</em> (Bauchtanzmusik) beliebt.
                     </p>
@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Die Muqadimma</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/muqaddima.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Muqaddima</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/muqaddima.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Muqaddima</a>
                     </div>
                     <p> Muqadimma bedeutet Einführung, Intro. Diese Form würde modern in der Mitte des zwanzigsten Jahrhunderts, als Komponisten der damals neu aufkommenden <a href="vocal_comp.php#ughniya">Ughnia</a> (langes Lied) ein ebenfalls langes Intro voranzustellen begannen. Kunstvolle Muqadimmas dauerten damals schon einmal fünf Minuten und bestanden aus mehreren Teilen, Maqammodulationen und Instrumentalsolos.
                     </p>
@@ -157,7 +157,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Der Dulab</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/dulab.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Dulab</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/dulab.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Dulab</a>
                     </div>
                     <p>Der Dulab ist eine kurze Instrumentalform, der einen <a href="../maqam.php">Maqam</a> vorstellt. Der Name bedeutet "Rad" auf Arabisch, weil die Melodie x-fach wiederholt wird. Die Türken führen das Wort auf das Verb "dolamak" zurück, was einwickeln, umhüllen bedeutet und in Form des "dolap" den Schrank meint. Der Dulab kann auch für sich stehen und einer <a href="improv.php">Improvisation</a> vorangehen oder einem <a href="vocal_comp.php#dawr">Dawr</a> vorangehen.
                     </p>
@@ -198,7 +198,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Die Tahmila</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/tahmila.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Tahmila</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/tahmila.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Tahmila</a>
                     </div>
                     <p> Die Tahmila ist ein Instrumentalstück, das einen wiederkehrenden Refrain mit Strophen kombiniert, die teils komponiert, teils improvisiert sind. Die Tahmila wird gewöhnlich von einem kleinen Ensemble namens Takht gespielt, wobei die Spieler abwechselnd Strophe und Improvisation spielen und die Refrains vom gesamten Ensemble gespielt werden.
                     </p>
@@ -240,7 +240,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/darij.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Darij</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/darij.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Darij</a>
                     </div>
 
                     <p>

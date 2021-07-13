@@ -37,10 +37,10 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/khana.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Khana</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/khana.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Khana</a>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/taslim.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Taslim</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/taslim.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Taslim</a>
                     </div>
 
                     <p>
@@ -54,7 +54,7 @@ include($ROOT . 'inc/head.php');
                         <h3>El Sama‘i</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/samai.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Sama‘i</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/samai.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Sama‘i</a>
                     </div>
                     <p> 
                         El Sama’i es una forma compuesta instrumental que consiste en cuatro <em>khana</em>, cada una seguida por la misma <em>taslim</em>. La estructura de un Sama’i es K1, T, K2, T, K3, T, K4, T. Todas las secciones son compuestas en el <a href="../iqaa/samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a>, salvo el cuarto khana lo cual normalmente está compuesta de un ciclo rítmico y corto como <a href="../iqaa/samai_saraband.php">Iqa‘ Sama‘i Saraband</a> o <a href="../iqaa/samai_darij.php">Iqa‘ Sama‘i Darij</a>.
@@ -150,7 +150,7 @@ include($ROOT . 'inc/head.php');
                         <h3>La Longa</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/longa.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Longa</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/longa.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Longa</a>
                     </div>
                     <p> 
                         La Longa es la forma que es la segunda más popular de las formas instrumentales del periodo otomano. Normalmente está compuesta en la corta y salta forma <a href="../iqaa/fox.php">Iqa‘ Fox</a> para los <em>khana</em> y <a href="../iqaa/malfuf.php">Iqa‘ Malfuf</a> para el <em>taslim</em>.
@@ -213,7 +213,7 @@ include($ROOT . 'inc/head.php');
                         <h3>El Bashraf</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/bashraf.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Bashraf</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/bashraf.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Bashraf</a>
                     </div>
                     <p>
                         El Bashraf es la forma menos común de las formas instrumentales de los otomanos y se queda típicamente en el área de lecciones de música y los ejercicios instrumentales. El Bashraf consiste en cuatro <em>khana</em>, cada una seguida por el mismo <em>taslim</em>, y es poco común usado de los músicos árabes. 

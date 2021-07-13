@@ -36,7 +36,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mukhalif_sharqi.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Moukhalef Charqi</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/mukhalif_sharqi.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Moukhalef Charqi</a>
                     </div>
                     <div class="notation" id="notation1">
                         <img src="/note/jins/mukhalif_sharqi.png" class="img-fluid" usemap="#notemap">

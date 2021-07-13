@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/katim.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Katim</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/katim.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Katim</a>
                     </div>
                     
                     <p> The Katim (from the verb "katama", to mute or to muffle) is a heavy frame drum with a dull sound. The <em>Katim</em> is usually squeezed between the player's knees and is meant to be played with the hands as opposed to the fingers. Most <em>Katim</em>-s today have a plastic head and are tunable. The <em>Katim</em>'s main role is to support other instruments in the rhythm section by accenting the <em>dum</em> and <em>tak</em> basic sounds with much ornamentation.</p>

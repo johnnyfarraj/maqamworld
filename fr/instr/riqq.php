@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/riqq.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Riqq</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/riqq.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Riqq</a>
                     </div>
 
                     <p>Le Riqq est un petit tambour sur cadre à cymbales tenu à la main. Le cadre est en général fait de bois (certains modèles en aluminium existent aussi) et a un diamètre de 23 à 26 centimètres. La peau est traditionnellement de poisson; les riqqs modernes utilisent plutôt du plastique (mylar). Les cymbales donnent au riqq son son distinctif. Elles sont faites de laiton (à peu près 0.8 à 0.9 millimètres d'épaisseur) et viennent en 5 (ou 6) groupes de quatre.

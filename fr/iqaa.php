@@ -36,7 +36,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/iqaa.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Iqa‘/Iqa‘at</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/iqaa.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Iqa‘/Iqa‘at</a>
                     </div>
 
                     <p>La musique arabe est composée sur des cycles rythmiques appelés <em>iqa‘at</em> (<em>iqa‘</em> au singulier) qui sont des patterns rythmiques qui se répètent à chaque mesure. Une composition peut alterner entre plusieurs <em>iqa‘at</em>. Chaque <em>iqa‘</em> est défini en utilisant une mesure prototypique et les deux sons de base: <em>doum</em> (bas et soutenu) et <em>tak</em> (haut et sec).</p>

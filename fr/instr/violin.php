@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/kamanja.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Kamanja</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/kamanja.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Kamanja</a>
                     </div>
 
                     <p>Le violon (appelé <em>kamanja</em> ou <em>kamane</em> en arabe) a été incorporé à l'ensemble arabe autour de la fin du 19<sup>ième</sup> siècle et a remplacé les variétés locales d'instruments à cordes frottées tels que la <em>kamanja</em>, la <em>rababa</em>, et la <em>jowza</em>. Même si l'on peut argumenter que le violon est l'exemple le plus notoire d'un instrument qui a été arabisé, il a depuis longtemps été naturalisé et a acquis un accordage, une technique de jeu, et un style ornemental, particuliers. Le son du violon arabe est aussi essentiel à la musique arabe que celui du <a href="oud.php">oud</a> et du <a href="qanun.php">qanoun</a>.

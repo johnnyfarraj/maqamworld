@@ -44,7 +44,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Los Layali</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/layali.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Layali</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/layali.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Layali</a>
                     </div>
                     
                     <p>
@@ -109,7 +109,7 @@ include($ROOT . 'inc/head.php');
                         <h3>The Mawwal</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mawwal.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Mawwal</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/mawwal.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Mawwal</a>
                     </div>
                     
                     <p>
@@ -174,7 +174,7 @@ include($ROOT . 'inc/head.php');
                         <h3>La Qasida Improvisada</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qasida.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Qasida</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/qasida.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Qasida</a>
                     </div>
                     
                     <p> 
@@ -219,7 +219,7 @@ include($ROOT . 'inc/head.php');
                         <h3>El Taqsim</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/taqsim.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Taqsim</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/taqsim.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Taqsim</a>
                     </div>
                     
                     <p>

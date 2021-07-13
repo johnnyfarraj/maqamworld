@@ -37,13 +37,13 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/takht.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Takht</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/takht.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Takht</a>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/sahb.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Sahb</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/sahb.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Sahb</a>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/naqr.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Naqr</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/naqr.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Naqr</a>
                     </div>
 
                     <p id="takht">Il tradizionale complesso Arabo o <em>takht</em> consiste in quattro strumenti melodici principali: l'<a href="instr/oud.php">oud</a>, il <a href="instr/nay.php">nay</a>, il <a href="instr/qanun.php">qanun</a> e il <a href="instr/violin.php">violino</a> uniti a uno strumento percussivo: il <a href="instr/riqq.php">riqq</a>. Spesso il riqq può essere integrato o sostituito con la <a href="instr/tabla.php">tabla</a> o il <a href="instr/daff.php">daff</a> (tamburo a cornice), e agli strumenti melodici si può aggiungere il <a href="instr/buzuq.php">buzuq</a>.</p>

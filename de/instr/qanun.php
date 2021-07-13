@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qanun.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Kanun</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/qanun.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Kanun</a>
                     </div>
 
                     <p> Das Kanun, im Kontext arabischer Musik oft auch Qanun geschrieben (das grammatikalische Geschlecht ist im Arabischen das Maskulinum), ist ein Nachkomme der alten ägyptischen Harfe. Es spielt in der arabischen Musik seit dem zehnten Jahrhundert eine wesentliche Rolle. Das Wort <em>qanun</em> bedeutet auf Arabisch Gesetz oder Regelwerk. Im Deutschen lebt es im Wort Kanon weiter. Diese Bezeichnung wurde dem Instrument vermutlich gegeben, weil das Kanun die Stimmhöhe und damit die Stimmregel für die Instrumentalisten und Sänger festsetzt.

@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Die Layali</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/layali.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Layali</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/layali.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Layali</a>
                     </div>
                     <p>
                     Die Layali-Form ist eine Soloimprovisation über die Phrase "Ya Layl Ya 'Ayn" (O Nacht, o Auge), wobei Layali der Plural des arabischen Wortes "layl" ist. Diese traditionelle Phrase ist nicht mehr mit ihrem Sinngehalt verbunden, sondern dient als vokales Füllmaterial und als Material für vokale Ornamentierung.
@@ -104,7 +104,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Der Mawwal</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mawwal.mp3"><i class="fa fa-fw fa-volume-up"></i>  Aussprache von Mawwal</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/mawwal.mp3"><i class="fa fa-fw fa-volume-up"></i>  Aussprache von Mawwal</a>
                     </div>
                     <p> Der Mawwal (Plural: Mawawil) ist eine Solo-Vokalimprovisation über ein umgangssprachlicher Gedicht. Das Gedicht kann beispielsweise in einem ägyptischen, libanesischen, syrischen oder irakischen Dialekt sein. Wie auch bei anderen Vokalimprovisationen geht es hier darum, den Sayr des Maqam darzustellen und natürlich die schöne Stimme und die Verzierungstechnik des Sängers.
                     </p>
@@ -163,7 +163,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Die improvisierte Qasida</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qasida.mp3"><i class="fa fa-fw fa-volume-up"></i>Aussprache von Qasida</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/qasida.mp3"><i class="fa fa-fw fa-volume-up"></i>Aussprache von Qasida</a>
                     </div>
                     <p> Die Qasida (Plural: Qasa'id) ist ein Gedicht in einem Metrum in klassischem Arabisch. Es kann in einer komponierten Form benutzt werden (siehe komponierte Qasida) oder in einer improvisierten Form. Die improvisierte Qasida hat mit der Mawwal gemeinsam, wie sie den Sayr des Maqam, die Stimme des Sängers und seine Verzierungstechnik vorstellt.
                     </p>
@@ -204,7 +204,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Der Taqsim</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/taqsim.mp3"><i class="fa fa-fw fa-volume-up"></i>  Aussprache von Taqsim</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/taqsim.mp3"><i class="fa fa-fw fa-volume-up"></i>  Aussprache von Taqsim</a>
                     </div>
                     <p> Der Taqsim (Plural: Taqasim) ist eine Instrumentalimprovisation, das von traditionellen Vorgaben bestimmt wird. Er folgt dem Sayr des Maqam sehr genau, auch was die Intonation, die Phrasierung und die Modulation angeht. Der Taqsim demonstriert auch die Schönheit des Instruments, seine Verzierungsmöglichkeiten sowie die Fähigkeiten und die Persönlichkeit des Instrumentalisten.
                     </p>

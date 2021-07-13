@@ -39,16 +39,16 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/hijazkar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Hijazkar</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/hijazkar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Hijazkar</a>
                     </div>
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/shadd_araban.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Shadd ‘Araban</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/shadd_araban.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Shadd ‘Araban</a>
                     </div>
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/shahnaz.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Shahnaz</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/shahnaz.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Shahnaz</a>
                     </div>
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/suzidil.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Suzidil</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/suzidil.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Suzidil</a>
                     </div>
 
                     <div class="notation" id="notation1">

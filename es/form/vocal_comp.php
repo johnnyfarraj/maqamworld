@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <h3>The Muwashshah</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/muwashah.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Muwashshah</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/muwashah.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Muwashshah</a>
                     </div>
                     <p>
                     	El Muwashah (el plural <em>Muwashahat</em>) es una forma vocal compleja basada de los poemas de la edad clásica árabe de Andalucía (por lo tanto son algunas veces calificadas como andaluces aunque las melodías son de verdad de Siria hasta Egípto y solo tienen uno o dos siglos de edad).</p>
@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                         <h3>El Qadd</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qadd.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Qadd</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/qadd.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Qadd</a>
                     </div>
                     <p>
                         El Qadd (plural <em>qudud</em>) es una canción tradicional ligera y simple que floreció en Alepo, Siria. Qudud son normalmente realizados al fin de un wasla, después de piezas más pesadas como adwar, qasa’id o muwashahat. Las letras del qudud están en los dialectos coloquiales de Alepo (algunas veces en el egipciano) y son muy accesibles, sencillos y fáciles de memorizar.
@@ -134,7 +134,7 @@ include($ROOT . 'inc/head.php');
                         <h3>El Dawr</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/dawr.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Dawr</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/dawr.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Dawr</a>
                     </div>
                     <p> 
                         El Dawr (el plural <em>Adwar</em>) es una forma compuesta vocálica de Egípto que floreció al principio del siglo XIX y que continúa hasta los años 30. Es complejo para componer y desempeñar y muy duro para cantar, y fue el centro de <a href="#wasla">wasla</a> durante un periodo largo. La letra está siempre en el egipciano coloquial.
@@ -198,7 +198,7 @@ include($ROOT . 'inc/head.php');
                         <h3>La Taqtuqa</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/taqtuqa.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Taqtuqa</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/taqtuqa.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Taqtuqa</a>
                     </div>
                     <p> 
                         La Taqtuqa (plural <em>Taqatiq</em>) es una canción árabe estándar de 3-4 minutos con múltiples versos y un coro repetitivo. Taqatiq normalmente usa <a href="../iqaa.php">iqa‘at</a> simple como <a href="../iqaa/maqsum.php">Iqa‘ Maqsum</a> y tiene letras accesibles y una melodía que es fácil para memorizar y cantar a la vez.
@@ -274,7 +274,7 @@ include($ROOT . 'inc/head.php');
                         <h3>La Ughniya (Larga Canción)</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/ughniya.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Ughniya</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/ughniya.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Ughniya</a>
                     </div>
                     <p>
                         La Ughniya (plural <em>aghani</em>) es una larga canción que crece hacia mediados del siglo XX. Puede durar hasta una hora en una configuración en vivo y que tiene una larga introducción (ver <a href="instr_comp.php#muqaddima">La Muqaddima</a>) tanto como las múltiples secciones con todas las modulaciones del <a href="../maqam.php">maqam</a>. Normalmente se realiza con una gran orquesta y que tiene los cantantes de estrellas como Umm Kulthum, Abdel Halim Hafez y Warda. 
@@ -300,7 +300,7 @@ include($ROOT . 'inc/head.php');
                         <h3>La Qasida (Compuesta )</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/qasida.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Qasida</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/qasida.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Qasida</a>
                     </div>
                     <p> 
                         La Qasida (el plural <em>Qasa'id</em>) es un poema métrico en el árabe clásico, y la forma compuesta usa ese poema como su letra. Normalmente se realiza de un cantante solamente acompañado de un conjunto y es muy largo y elaborado para iluminar el cantante. 
@@ -389,7 +389,7 @@ include($ROOT . 'inc/head.php');
                         <h3>La Wasla</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/wasla.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Wasla</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/wasla.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Wasla</a>
                     </div>
                     <p> 
                         La Wasla (el plural <em>waslat</em>) es una forma que cabe otras formas que son realizadas consecutivamente como unidad singular, normalmente en el mismo <a href="../maqam.php">maqam</a>. Una corta puede durar 5-10 minutos, mientras que una larga pueda durar una hora. Los pedazos adentro son ordenados a tal manera que empiezan lento y le establecen el maqam (a menudo con los pedazos del instrumento) luego que presente la compleja y difícil canción vocal. Finalmente, termina con pedazos simples y cortos, creciendo un arco que tiene la cima en el medio.

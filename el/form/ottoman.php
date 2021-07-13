@@ -37,10 +37,10 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/khana.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά της Χάνα</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/khana.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά της Χάνα</a>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/taslim.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Τασλίμ</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/taslim.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Τασλίμ</a>
                     </div>
 
                     <p>
@@ -54,7 +54,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Το Σαμάι</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/samai.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Σαμάι</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/samai.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Σαμάι</a>
                     </div>
                     <p>
                         Το Σαμάι είναι μία φόρμα οργανικής σύνθεσης αποτελούμενη από τέσσερις <em>Χάνα</em>, κάθε μία ακολουθούμενη από το ίδιο θέμα του <em>Τασλίμ</em>. Τα μορφή ενός Σαμάι είναι Χ1, Τ, Χ2, Τ, Χ3, Τ, Χ4, Τ. Όλα τα μέρη γράφονται σε ρυθμό <a href="../iqaa/samai_thaqil.php">Ικά Σαμάι Θακχίλ</a>, εκτός την 4η Χάνα που είναι συνήθως γραμμένη σε ένα μικρό μονού αριθμού ρυθμικό κύκλο όπως <a href="../iqaa/samai_saraband.php">Ικά Σαμάι Σαραμπάντ</a> ή <a href="../iqaa/samai_darij.php">Ικά Σαμάι Ντάριτζ</a>.
@@ -152,7 +152,7 @@ include($ROOT . 'inc/head.php');
                         <h3>H Λόνγκα</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/longa.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά της Λόνγκα</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/longa.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά της Λόνγκα</a>
                     </div>
                     
                     <p>
@@ -218,7 +218,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Το Μπάσραφ</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/Bachraf.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Μπάσραφ</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/Bachraf.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Μπάσραφ</a>
                     </div>
                     <p> 
                         Το Μπάσραφ είναι η λιγότερη διαδεδομένη Οθωμανική ορχηστρική φόρμα, και παραμένει κυρίως στον χώρο των μουσικών σπουδών και ασκήσεων οργανικής μουσικής. Το Μπάσραφ αποτελείται από 4 <em>Χάνα</em>, κάθε μία ακολουθούμενη από το ίδιο θέμα του <em>Τασλίμ</em>, και σπάνια υπάρχουν συνθέσεις τέτοιου είδους  από Άραβες συνθέτες.

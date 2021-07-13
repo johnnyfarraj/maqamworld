@@ -36,7 +36,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/nikriz.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Nikriz</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/nikriz.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Nikriz</a>
                     </div>
 
                     <p>La Familia Maqam Nikriz esta hecha de <em>maqamat</em> que comienzan con <a href="../jins/nikriz.php">Jins Nikriz</a>.</p>

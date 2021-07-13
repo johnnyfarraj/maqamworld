@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/katim.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Katim</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/katim.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Katim</a>
                     </div>
 
                     <p> Der Katim (vom Verb “katama”, dämpfen, stumm machen) ist eine schwere Rahmentrommel mit einem dumpfen Klang. Er wird gewöhnlich zwischen die Knie geklemmt und mit den Händen gespielt, nicht mit den Fingern. Die meisten Katims haben heutzutage ein stimmbares Plastikfell. Aufgabe des Katims ist es die Dums und Taks der Rhythmusgruppe zu verstärken.

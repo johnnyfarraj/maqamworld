@@ -38,7 +38,7 @@ include($ROOT . 'inc/head.php');
           <div class="clearfix"></div>
 
           <div class="text-center mt-2 mb-3">
-            <a href="#" class="pronunciation btn btn-default" data-audio="/name/maqam.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Μακάμ/Μακαμάτ</a>
+            <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/maqam.mp3"><i class="fa fa-fw fa-volume-up"></i> Προφορά του Μακάμ/Μακαμάτ</a>
           </div>
 
           <p>

@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                         <h3>La Maqtu‘a</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/maqtua.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Maqtu‘a</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/maqtua.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Maqtu‘a</a>
                     </div>
                     <p>The Maqtu‘a (letteralmente "un pezzo") è generalmente una composizione strumentale. È anche chiamata <em>ma‘zufa</em> (suonato su uno strumento, opposto di cantato). La forma maqtu‘a è molto popolare nel <em>Raqs Sharqi</em> (danza del ventre).
                     </p>
@@ -117,7 +117,7 @@ include($ROOT . 'inc/head.php');
                         <h3>The Muqaddima</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/muqaddima.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Muqaddima</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/muqaddima.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Muqaddima</a>
                     </div>
                     <p>Il Muqaddima letteralmente significa "introduzione". Questa forma divenne popolare verso la metà del XX secolo quando i compositori aggiunsero delle lunghe introduzioni alla forma popolare  <a href="vocal_comp.php#ughniya">Ughnia</a> (canzone lunga). I muqaddima-s elaborati a volte durano più di 5 minuti e hanno diverse sezioni, diverse modulazioni di <a href="../maqam.php">maqam</a> e soli strumentali.
                     </p>
@@ -178,7 +178,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Il Dulab</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/dulab.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Dulab</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/dulab.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Dulab</a>
                     </div>
                     <p>Il dulab è una composizione molto corta che serve per introdurre un <a href="../maqam.php">maqam</a>. Il suo nome significa ruota in arabo in quanto la stessa melodia viene ripetuta più volte. Il dulab può essere sia un pezzo a se stante che precede un'<a href="improv.php">improvvisazione</a> che un introduzione del <a href="vocal_comp.php#dawr">Dawr</a>.
                     </p>
@@ -221,7 +221,7 @@ include($ROOT . 'inc/head.php');
                         <h3>La Tahmila</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/tahmila.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Tahmila</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/tahmila.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Tahmila</a>
                     </div>
                     <p>La Tahmila è un brano strumentale che unisce un ritornello ripetuto con una strofa in parte composta e in parte improvvisata. La Tahmila è solitamente suonata da un piccolo <em>takht</em> (un piccolo gruppo tradizionale) dove tutti i musicisti a turno suonano la strofa e improvvisano, mentre il ritornello viene suonato da tutto il gruppo.
                     </p>
@@ -264,7 +264,7 @@ include($ROOT . 'inc/head.php');
                         <h3>Il Darej</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/darij.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Darej</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/darij.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronuncia di Darej</a>
                     </div>
                     <p>La forma Darej (formalmente chiamata Sama‘i Darij) è una composizione strumentale semplice chiamata così per  l'<a href="../iqaa/samai_darij.php">Iqa‘ Sama‘i Darej (3/4)</a>, che viene utilizzato in questa forma. Come le <a href="ottoman.php">forme strumentali ottomane</a>, il darej è legato a un principale <a href="../maqam.php">maqam</a> da cui prende il nome, seguito dal nome del compositore.
                     </p>

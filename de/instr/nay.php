@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/nay.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Nay</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/nay.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Nay</a>
                     </div>
 
                     <p>Die Nay (Farsi für “Schilfrohr”; im türkischen Kontext überwiegend Ney geschrieben; Geschlecht im Arabischen Maskulinum) ist eine Schilf-Flöte mit offenem Ende, das zum Spielen schräg angesetzt wird. Die Nay ist im Nahen Osten seit der Antike bekannt. Sie ist neunknotig und hat gewöhnlich sechs Löcher vorne und ein Loch hinten für den Daumen. Sie wird im Wesentlichen nicht mit den Fingerkuppen, sondern mit den Fingerinnenseiten gespielt. Nays kommen je nach Stimmung in verschiedenen Längen. Sie werden benannt nach dem Griff, der entsteht, wenn alle Löcher bis auf das unterste geschlossen sind. Die gebräuchlichste Nay ist D4 und hat als tiefsten Ton ein C4.

@@ -36,7 +36,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/mudawwar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Mudawwar</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/mudawwar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Mudawwar</a>
                     </div>
 
                     <p>Iqa‘ Mudawwar is a popular <em>iqa‘</em> in the <a href="../form/vocal_comp.php#muwashah">Muwashah</a> repertoire. The word "mudawwar" in Arabic means round/circular.</p>

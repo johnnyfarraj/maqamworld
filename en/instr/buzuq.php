@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/buzuq.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Buzuq</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/buzuq.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciation of Buzuq</a>
                     </div>
 
                     <p> The Buzuq is a string instrument in the <a href="oud.php">oud</a> family with a smaller body and a longer, fretted neck. It is closer in shape to the Greek <em>Bouzouki</em> and the Turkish <em>Saz</em>. The Buzuq is originally a folk instrument from the Eastern Mediterranean (Palestine, Jordan, Lebanon and Syria) that's usually played solo. But it is listed along with the other traditional instruments because it crossed over to mainstream pop Arabic music toward the middle of the 20<sup>th</sup> century. Since then it has been featured in many recordings and live performances as became part of the Arabic ensemble.

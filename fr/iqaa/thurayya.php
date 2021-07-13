@@ -36,11 +36,11 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/thurayya.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Thourayya</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/thurayya.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Thourayya</a>
                     </div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/aqsaq_turki.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Aqsaq Tourki</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/aqsaq_turki.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Aqsaq Tourki</a>
                     </div>
 
                     <div class="notation">

@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/oud.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Oud</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/oud.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Oud</a>
                     </div>
 
                     <p>Die Oud (bisweilen auch ‘Ud geschrieben; das grammatikalische Geschlecht im Arabischen ist maskulin) ist eines der populärsten Instrumente in der arabischen Musik. Der Name bedeutet “kleiner Holzstreifen” auf Arabisch. Dies bezieht sich auf die Holzstreifen, die benutzt werden, um den birnenförmige Korpus des Instruments herzustellen. Der Hals des Instruments ist im Verhältnis zum Korpus ziemlich kurz. Er hat keine Bünde. Dies erlaubt dem Musiker, eine exakte Intonation zu erreichen, und macht das Instrument ideal für das Spiel arabischer <a href="../maqam.php">Maqamat</a>.

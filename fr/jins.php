@@ -36,7 +36,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/jins.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Jins/Ajnas</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/jins.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de Jins/Ajnas</a>
                     </div>
 
                     <p>Le <em>Jins</em> (<em>Ajnas</em> au pluriel) sont des fragments de gamme de 3, 4 ou 5 notes. Le Jins est l'unité mélodique de base en musique arabe dans le sens qu'un <a href="maqam.php">maqam</a> est une route entre plusieurs <em>ajnas</em>. Chaque <em>jins</em> est défini par ses intervalles (qui ne changent pas quand il y a transposition) qui lui donnent son caractère distinct et reconnaissable.

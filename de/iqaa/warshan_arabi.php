@@ -35,7 +35,7 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/warshan_arabi.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Warshan ‘Arabi</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/warshan_arabi.mp3"><i class="fa fa-fw fa-volume-up"></i> Aussprache von Warshan ‘Arabi</a>
                     </div>
 
                     <div class="notation">

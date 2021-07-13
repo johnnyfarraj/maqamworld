@@ -42,10 +42,10 @@ include($ROOT . 'inc/head.php');
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/sagat.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Sagat (Sajat)</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/sagat.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Sagat (Sajat)</a>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/name/tura.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Tura</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/tura.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Tura</a>
                     </div>
 
                     <p>Sagat (pronuncia-se <em>Sajat</em> fora do Egito) são címbalos de latão com cerca de 1&#189; a 2 polegadas (entre 4 e 5 cm) de diâmetro (existem címbalos maiores de até duas vezes esse diâmetro; estes são chamados de <em>Tura</em>). Eles são presos no polegar e no terceiro dedo de cada mão usando faixas elásticas. Sagat são às vezes chamadas pelo nome turco de "zills".
