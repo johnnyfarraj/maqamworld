@@ -81,6 +81,19 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
                     
+                    <div class="track " data-song="/audio/iqaa/thurayya/qalat_3alamal_rida.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1" >
+                                <div class="info">
+                                    <b>Muwashah Qalat ‘Alama al-Rida</b>
+                                    <span>Sahar</span>
+                                    <span>Music by Sheikh Ali al-Darwish</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+                    
                     <div class="track demo-track" data-song="/demo/iqaa/tabla/thurayya.mp3">
                         <div class="radio">
                             <label>
