@@ -37,6 +37,14 @@ include($ROOT . 'inc/head.php');
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i>دليل الاجناس</a>
                     <div class="clearfix"></div>
 
+                    <h5>يأتي جنس العجم على شكلين:</h5>
+                    
+                    <h5>الشكل الاول (<strong>ذو الدرجات الخمس</strong>) هو الشكل الاكثر استعمالاً, وهو الجنس الاول (جنس الاصل) في <a href="../maqam/ajam.php">مقام العجم</a> و<a href="../maqam/shawq_afza.php">مقام شوق افزا</a>.
+                        <br>
+                        يقع قرار جنس العجم الخماسي في هذا السلّم النموذجي على علامة الدو وغمّازه على علامة الصول.
+                    </h5>
+                    <br>
+                    
                     <!-- Copy this too, just change the image SRC -->
                     <div class="notation" id="notation1">
                         <img src="/note/jins/ajam.png" class="img-fluid" usemap="#notemap">
@@ -56,21 +64,41 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="590,62,12" href="#" alt="لا" class="playNote" data-frequency="440" data-parent="#notation1">
 					</map>
 
-                    <h5>جنس العجم هو جنس الأصل في
-					<a href="../maqam/f_ajam.php">عائلة مقام العجم</a>،
-                        حجمه ٥ درجات. يقع قراره في هذا السلّم النموذجي على علامة الدو وغمّازه على علامة الصول.
- 					 </h5><h5>
-					وجنس العجم هو الجنس الاول في مقامات
-					<a href="../maqam/ajam.php">العجم</a>
-                    و<a href="../maqam/shawq_afza.php">شوق افزا</a>.
+                    <br>
+                    <h5>اما الشكل الثاني من جنس العجم فهو <strong>ذو ثلاث درجات</strong> وغالباً ما يستعمل في منزلة الجنس الثانوي, مثلا على الدرجة السادسة من سلم <a href="../maqam/Bayati.php">مقام البياتي</a>, <a href="../maqam/Saba.php">مقام الصبا</a> او <a href="../maqam/Kurd.php">مقام الكرد</a>.
+                        وهذا الشكل الثلاثي لجنس العجم موروث من <a href="../maqam/ajam_ushayran.php">مقام عجم عشيران</a> وسلمه النموذجي مدون ادناه على درجة السي بيمول.
                     </h5>
-		          <br>
+                    <br>
+                    
+                    <div class="notation" id="notation2">
+                        <img src="/note/jins/ajam-3-note.png" class="img-fluid" usemap="#notemap2">
+                        <div class="shape"></div>
+                        <p class="clicknotes_ar">إضغط على العلامة الموسيقية بالفأرة حتى تسمع نغمتها.</p>
+                    </div>
+
+                    <!-- Copy this bit -->
+                    <map name="notemap2">
+					  <area shape="circle" coords="37,69,12"  href="#" alt="صول" class="playNote" data-frequency="391.11" data-parent="#notation2">
+					  <area shape="circle" coords="114,60,12" href="#" alt="لا" class="playNote" data-frequency="440" data-parent="#notation2">
+					  <area shape="circle" coords="196,53,14" href="#" alt="سي♭" class="playNote" data-frequency="463.54" data-parent="#notation2">
+					  <area shape="circle" coords="270,45,13" href="#" alt="دو" class="playNote" data-frequency="521.48" data-parent="#notation2">
+					  <area shape="circle" coords="347,37,14" href="#" alt="ري" class="playNote" data-frequency="586.66" data-parent="#notation2">
+					  <area shape="circle" coords="420,29,12" href="#" alt="مي♭" class="playNote" data-frequency="616.50" data-parent="#notation2">
+					  <area shape="circle" coords="496,21,12" href="#" alt="فا" class="playNote" data-frequency="695.31" data-parent="#notation2">
+					</map>
 
                     <div class="player-area">
                         <audio id="player" controls>
                             <source src="/audio/jins/ajam/aghadan_alqak.mp3" type="audio/mp3">
                         </audio>
                     </div>
+
+                    <br>
+                    <div class="heading jins text-center">
+                        <h3>امثلة على الشكل الخماسي لجنس العجم</h3>
+                    </div>
+                    <div class="clearfix"></div>
+                    <br>
 
                     <div class="track" data-song="/audio/jins/ajam/aghadan_alqak.mp3">
                         <div class="radio">
@@ -94,7 +122,7 @@ include($ROOT . 'inc/head.php');
                                     <b>اغنية البواب (١٩٩٤)</b>
                                     <span>فيروز (لبنان)</span>
                                     <span>الحان فيلمون وهبي (لبنان)</span>
-		<span>كلمات جوزيف حرب (لبنان)</span>
+		                            <span>كلمات جوزيف حرب (لبنان)</span>
                                 </div>
                             </label>
                         </div>
@@ -152,10 +180,56 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-	<!--
-                    <a href="http://maqamlessons.com" class="btn btn-primary read-more" target="_blank"><b>Read More</b>Read more about جنس عجم on MaqamLessons.com</a>
-	-->
+                    <br>
+                    <div class="heading jins text-center">
+                        <h3>امثلة على الشكل الثلاثي لجنس العجم</h3>
+                    </div>
+                    <div class="clearfix"></div>
+                    <br>
 
+                    <div class="track" data-song="/audio/jins/ajam-3note/ba3id-3annak.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>اغنية بعيد عنّك (١٩٦٥)</b>
+                                    <span>ام كلثوم</span>
+                                    <span>الحان بليغ حمدي (مصر)</span>
+                                    <span>كلمات مأمون الشناوي (مصر)</span>
+                                    <span>جنس العجم الثلاثي هنا يقع على الدرجة الثالثة من سلم <a href="../maqam/kurd.php">مقام البياتي</a></span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="track" data-song="/audio/jins/ajam-3note/habba-fou2.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>اغنية حبة فوق وحبة تحت</b>
+                                    <span>غناء احمد عدوية (مصر)</span>
+                                    <span>الحان : محمد المسيري</span>
+                                    <span>جنس العجم الثلاثي هنا يقع على الدرجة الثالثة من سلم <a href="../maqam/saba.php">مقام الصبا</a></span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="track" data-song="/audio/jins/ajam-3note/ahu-dalli-sar.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>اغنية اهو ده اللي صار</b>
+                                    <span>ناي برغوثي (فلسطين)</span>
+                                    <span>الحان الشيخ سيد درويش (مصر)</span>
+                                    <span>جنس العجم الثلاثي هنا يقع على الدرجة الثالثة من سلم <a href="../maqam/kurd.php">مقام الكرد</a></span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+                    
                 </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
