@@ -199,7 +199,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Habba Fouq w Habba Taht</b>
                                     <span>Ahmad Adaweya</span>
-                                    <span>Music by Mohamed el-Mesery</span><!--  الحان : محمد المسيري -->
+                                    <span>Music by Mohamed el-Mesery</span>
                                     <span>3-note Jins ‘Ajam on the 6<sup>th</sup> degree of <a href="../maqam/saba.php">Maqam Saba</a></span>
                                 </div>
                             </label>
