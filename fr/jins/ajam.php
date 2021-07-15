@@ -40,7 +40,12 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/ajam.mp3"><i class="fa fa-fw fa-volume-up"></i> Prononciation de ‘Ajam</a>
                     </div>
 
-                    <!-- Copy this too, just change the image SRC -->
+                    <p>Le Jins ‘Ajam existe en deux versions:
+                    </p>
+                    
+                    <p>La première version est de <strong>5 notes</strong>. Elle est la plus commune et occupe le premier jins du <a href="../maqam/ajam.php">Maqam ‘Ajam</a> et du <a href="../maqam/shawq_afza.php">Maqam Chaouq Afza</a>. La version à 5-notes est notée ci-dessous avec sa tonique sur Do et son <em>ghammaz</em> sur Sol.
+                    </p>
+
                     <div class="notation" id="notation1">
                         <img src="/note/jins/ajam.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
@@ -59,14 +64,37 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="590,62,12" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
 					</map>
 
-                    <p>Le Jins 'Ajam est un <em>jins</em> de 5 notes. Il est noté ici avec sa tonique sur Do et son <em>ghammaz</em> sur Sol. Le Jins 'Ajam est le premier jins du <a href="../maqam/ajam.php">Maqam ‘Ajam</a> et du <a href="../maqam/shawq_afza.php">Maqam Chaouq Afza</a>.
+                    <p>La seconde version est de <strong>3 notes</strong>, et existe comme <em>jins</em> secondaire, par example sur le 6<sup>ème</sup> degré du <a href="../maqam/Bayati.php">Maqam Bayati</a>, du <a href="../maqam/Saba.php">Maqam Saba</a> ou du <a href="../maqam/Kurd.php">Maqam Kurd</a>. Cette version à 3 notes est dérivée du <a href="../maqam/ajam_ushayran.php">Maqam ‘Ajam ‘Ouchayrane</a>. Elle est est notée ci-dessous avec sa tonique sur Si&#x266d;.
                     </p>
+
+                    <div class="notation" id="notation2">
+                        <img src="/note/jins/ajam-3-note.png" class="img-fluid" usemap="#notemap2">
+                        <div class="shape"></div>
+                        <p class="clicknotes">Clickez et appuyez sur chaque note à l'aide de la souris pour l'entendre jouer.</p>
+                    </div>
+
+                    <map name="notemap2">
+					  <area shape="circle" coords="37,69,12"  href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation2">
+					  <area shape="circle" coords="114,60,12" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation2">
+					  <area shape="circle" coords="196,53,14" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation2">
+					  <area shape="circle" coords="270,45,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation2">
+					  <area shape="circle" coords="347,37,14" href="#" alt="Ré" class="playNote" data-frequency="586.66" data-parent="#notation2">
+					  <area shape="circle" coords="420,29,12" href="#" alt="Mi♭" class="playNote" data-frequency="616.50" data-parent="#notation2">
+					  <area shape="circle" coords="496,21,12" href="#" alt="Fa" class="playNote" data-frequency="695.31" data-parent="#notation2">
+					</map>
 
                     <div class="player-area">
                         <audio id="player" controls>
                             <source src="/audio/jins/ajam/aghadan_alqak.mp3" type="audio/mp3">
                         </audio>
                     </div>
+
+                    <br>
+                    <div class="heading jins text-center">
+                        <h3>Examples de la version Jins ‘Ajam à 5 notes</h3>
+                    </div>
+                    <div class="clearfix"></div>
+                    <br>
 
                     <div class="track" data-song="/audio/jins/ajam/aghadan_alqak.mp3">
                         <div class="radio">
@@ -139,12 +167,61 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Til‘it Ya Mahla Nourha</b>
                                     <span>Mouhammad Abdel Karim</span>
-                                    <span>Musique de Sayed Darwich</span>
+                                    <span>Musique de Sayyed Darwich</span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
+                    <br>
+                    <div class="heading jins text-center">
+                        <h3>Examples de la version Jins ‘Ajam à 3 notes</h3>
+                    </div>
+                    <div class="clearfix"></div>
+                    <br>
+
+                    <div class="track" data-song="/audio/jins/ajam-3note/ba3id-3annak.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Ba‘id ‘Annak (1965)</b>
+                                    <span>Oum Koulthoum (Égypte)</span>
+                                    <span>Musique de Baligh Hamdi</span>
+                                    <span>Jins ‘Ajam à 3 notes sur le 6<sup>ème</sup> degré du <a href="../maqam/kurd.php">Maqam Bayati</a></span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="track" data-song="/audio/jins/ajam-3note/habba-fou2.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Habba Fouq wi Habba Taht</b>
+                                    <span>Ahmad Adaweya</span>
+                                    <span>Musique de Mouhammad el-Mesery</span>
+                                    <span>Jins ‘Ajam à 3 notes sur le 6<sup>ème</sup> degré du <a href="../maqam/saba.php">Maqam Saba</a></span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="track" data-song="/audio/jins/ajam-3note/ahu-dalli-sar.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Ahou Da-lli Sar</b>
+                                    <span>Nay Barghouthi</span>
+                                    <span>Musique by Sayyed Darwich</span>
+                                    <span>Jins ‘Ajam à 3 notes sur le 6<sup>ème</sup> degré du <a href="../maqam/kurd.php">Maqam Kurd</a></span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+                    
                 </div>
                 <div class="col-sm-12">
                     <?php include($ROOT . 'inc/768x90.php'); ?>
