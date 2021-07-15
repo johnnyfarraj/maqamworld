@@ -185,7 +185,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ba‘id ‘Annak (1965)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Music by Muhammad Abdel Wahab (Egypt)</span>
+                                    <span>Music by Baligh Hamdi (Egypt)</span>
                                     <span>3-note Jins ‘Ajam on the 6<sup>th</sup> degree of <a href="../maqam/kurd.php">Maqam Bayati</a></span>
                                 </div>
                             </label>
