@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="forms-page">
 
     <?php
-      $page = "en/form/ottoman.php";
+      $page = "es/form/ottoman.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/samai.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Sama‘i</a>
                     </div>
                     <p> 
-                        El Sama’i es una forma compuesta instrumental que consiste en cuatro <em>khana</em>, cada una seguida por la misma <em>taslim</em>. La estructura de un Sama’i es K1, T, K2, T, K3, T, K4, T. Todas las secciones son compuestas en el <a href="../iqaa/samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a>, salvo el cuarto khana lo cual normalmente está compuesta de un ciclo rítmico y corto como <a href="../iqaa/samai_saraband.php">Iqa‘ Sama‘i Saraband</a> o <a href="../iqaa/samai_darij.php">Iqa‘ Sama‘i Darij</a>.
+                        El Sama’i es una forma compuesta instrumental que consiste en cuatro <em>khana</em>, cada una seguida por el mismo <em>taslim</em>. La estructura de un Sama’i es K1, T, K2, T, K3, T, K4, T. Todas las secciones son compuestas en el <a href="../iqaa/samai_thaqil.php">Iqa‘ Sama‘i Thaqil</a>, salvo el cuarto khana lo cual normalmente está compuesta de un ciclo rítmico y corto como <a href="../iqaa/samai_saraband.php">Iqa‘ Sama‘i Saraband</a> o <a href="../iqaa/samai_darij.php">Iqa‘ Sama‘i Darij</a>.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=5s1KylUC9_Q">

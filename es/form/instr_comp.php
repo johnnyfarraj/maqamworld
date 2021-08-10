@@ -15,7 +15,7 @@ include($ROOT . 'inc/head.php');
   <body class="forms-page">
 
     <?php
-      $page = "en/form/instr_comp.php";
+      $page = "es/form/instr_comp.php";
       include($ROOT . 'inc/menu.php');
     ?>
 
