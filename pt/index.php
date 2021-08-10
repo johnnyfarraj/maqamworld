@@ -87,7 +87,7 @@ include($ROOT . 'inc/head.php');
                                     <h5 class="card-title">Rítmos</h5>
                                     <p class="card-text">Aprenda sobre o ciclo rítmico árabe chamado Iqa’, que é composto pelos sons primitivos <em>dum</em> eand <em>tak</em>.
                                     </p>
-                                    <a href="/pt/iqaa.php" class="btn btn-primary">Iqa‘<i class="fa fa-fw fa-angle-right"></i></a>
+                                    <a href="/pt/iqaa.php" class="btn btn-primary">Rítmos<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="card-body">
                                     <h5 class="card-title">Formas</h5>
                                     <p class="card-text">Aprenda sobre as formas da música árabe, chamadas de Qawalib, usadas tanto na música vocal como na música instrumental, compostas e improvisadas.</p>
-                                    <a href="/pt/forms.php" class="btn btn-primary">Forms<i class="fa fa-fw fa-angle-right"></i></a>
+                                    <a href="/pt/forms.php" class="btn btn-primary">Formas<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -108,7 +108,7 @@ include($ROOT . 'inc/head.php');
                                     <h5 class="card-title">Instrumentos</h5>
                                     <p class="card-text">Aprenda sobre os instrumentos árabes tradicionais, melódicos e de percussão, assim como os instrumentos ocidentais que foram “arabizados”.
                                     </p>
-                                    <a href="/pt/instr.php" class="btn btn-primary">Instruments<i class="fa fa-fw fa-angle-right"></i></a>
+                                    <a href="/pt/instr.php" class="btn btn-primary">Instrumentos<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
