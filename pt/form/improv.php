@@ -30,23 +30,27 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Formas Improvisadas</h1>
-                        <h3>The Taqsim, Layali, Mawwal and Qasida</h3>
+                        <h3>O Taqsim, as Layali, o Mawwal e a Qasida</h3>
                     </div>
 
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Formas</a>
                     <div class="clearfix"></div>
 
-                    <p>Improvised forms are the most immediate vehicle for a <em>mutrib</em> (singer) or an instrumentalist to connect with their audience while exploring and working with a <a href="../maqam.php">maqam</a>'s <em>sayr</em>. </p>
+                    <p>
+                        Formas improvisadas são o veículo mais imediato para que um <em>mutrib</em> (cantor) ou um instrumentista se conectem com sua audiência enquanto exploram e trabalham com um sayr de um <a href="../maqam.php">maqam</a>.
+                    </p>
 
                     <div id="layali" class="heading jins text-center full-width">
-                        <h3>The Layali</h3>
+                        <h3>As Layali</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/layali.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Layali</a>
                     </div>
-                    <p> The Layali form is a vocal solo improvisation on the phrase "Ya Layl Ya ‘Ayn" (O Night, O Eye), where "layali" is the Arabic plural of the word "layl". This is a traditional phrase that is not used for its literal meaning any more, but has become more of a vocal filler and a vehicle for vocal ornamentations. </p>
                     <p>
-                        Layali can stand alone but more commonly they are used as a prelude for the next vocal form (e.g. Mawwal, Qasida, or even a <a href="vocal_comp.php">composed vocal form</a>). In that case they serve as a warm up, and help the singer get immersed in the <a href="../maqam.php">maqam</a>.
+                        A forma Layali é uma improvisação vocal solo da frase "<strong>Ya Layl Ya ‘Ayn</strong>" (Oh Noite, Oh Olho), onde "layali" é o plural Árabe da palavra "<em>layl</em>". Essa é uma frase tradicional que não é mais usada pelo seu sentido literal, mas se tornou mais um preenchimento vocal e um veículo para ornamentações vocais.
+                    </p>
+                    <p>
+                        As Layali podem ser executadas sozinhas, porém são geralmente utilizadas como prelúdio para a próxima forma vocal (por exemplo, Mawwal, Qasida, ou até uma <a href="vocal_comp.php">forma vocal composta</a>. Nesse caso eles funcionam como um aquecimento, e ajudam o cantor a imergir no <a href="../maqam.php">maqam</a>.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=wOlB3-EiweY">
@@ -56,10 +60,11 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/wOlB3-EiweY/hqdefault.jpg">
                                     </div>
-                                </div>
-                             <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Dawr Kadni el-Hawa</b>
-                                    <span>Marie Jubran's recording of <a href="vocal_comp.php#dawr">Dawr</a> <strong>Kadni el-Hawa</strong> (music by Muhammad ‘Uthman) starts with a <a href="../instr/qanun.php">qanun</a> taqsim followed by layali in <a href="../maqam/nahawand.php">Maqam Nahawand</a>.</span>
+                                    <span>A gravação de Marie Jubran do <a href="vocal_comp.php#dawr">Dawr</a> Kadni el-Hawa (música por Muhammad ‘Uthman) começa com um taqsim qanun(link) seguido por layali em <a href="../maqam/nahawand.php">Maqam Nahawand</a>.
+                                </span>
                                 </div>
                             </label>
                         </div>
@@ -72,10 +77,11 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/D0DQxDwgDw8/hqdefault.jpg">
                                     </div>
-                                </div>
-                             <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Taqtuqa Leh Ya Banafseg</b>
-                                    <span>Saleh Abdel Hayy's recording of <strong>Taqtuqa Leh Ya Banafseg</strong> (music by Riyad al-Sunbati) is a long <a href="vocal_comp.php#wasla">Wasla</a> that starts with an <a href="../instr/oud.php">oud</a> Taqsim, a <a href="ottoman.php/samai">Sama‘i</a>, a <a href="../instr/qanun.php">qanun</a> Taqsim, a recap of the Sama‘i's <em>taslim</em>, then a <em>Layali</em>, all in <a href="../maqam/rast.php">Maqam Rast</a>.</span>
+                                    <span>A gravação de Saleh Abdel Hayy de <strong>Taqtuqa Leh Ya Banafseg</strong> (música por Riyad al-Sunbati) é uma canção <a href="vocal_comp.php#wasla">Wasla</a> que começa com um Taqsim <a href="../instr/oud.php">oud</a>, um <a href="ottoman.php/samai">Sama‘i</a>, um Taqsim <a href="../instr/qanun.php">qanun</a>, uma recapitulação do <em>taslim</em> do Sama‘i, depois <em>Layali</em>, tudo em <a href="../maqam/rast.php">Maqam Rast</a>.
+                                    </span>
                                 </div>
                             </label>
                         </div>
@@ -88,24 +94,27 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/TE7Y7bzgbns/hqdefault.jpg">
                                     </div>
-                                </div>
-                             <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Muhammad Khayri - Layali</b>
-                                    <span>Aleppan singer Muhammad Khayri starts his <a href="vocal_comp.php#wasla">Wasla</a> in <a href="../maqam/rast.php">Maqam Rast</a> with a Layali before proceeding to an <a href="#qasida">improvised Qasida</a>, then some <a href="vocal_comp.php#qadd">Qudud</a>.</span>
+                                    <span>O cantor Muhammad Khayri, natural de Alepo, começa sua <a href="vocal_comp.php#wasla">Wasla</a> em <a href="../maqam/rast.php">Maqam Rast</a> com Layali antes de proceder a uma <a href="#qasida">Qasida improvisada</a>, depois um pouco de <a href="vocal_comp.php#qadd">Qudud</a>.
+                                </span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
                     <div id="mawwal" class="heading jins text-center full-width">
-                        <h3>The Mawwal</h3>
+                        <h3>O Mawwal</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/mawwal.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Mawwal</a>
                     </div>
-                    <p> The Mawwal (plural <em>Mawawil</em>) is a solo vocal improvisation on a colloquial Arabic poem. For example, the poem could be in the Egyptian, Lebanese, Syrian or Iraqi dialects. As with other vocal improvisational forms, the mawwal is a vehicle for showcasing the <a href="../maqam.php">maqam</a>'s <em>sayr</em>, as well as the singer's beautiful voice and ornamentation technique.
+                    <p> 
+                        O Mawwal (plural <em>Mawawil</em>) é uma improvisação solo vocal sobre um poema Árabe coloquial. Por exemplo, o poema pode estar nos dialetos Egípcio, Libanês, Sírio or Iraquiano. Como com outras formas vocais improvisadas, o mawwal é um veículo para demonstrar o sayr do <a href="../maqam.php">maqam</a>, bem como a técnica de ornamentação e a bela voz do cantor.
                     </p>
-                    <p> One important type of mawwal is the "Baghdadi Mawwal", also called <em>Sab‘awi</em> (from <em>sab‘a</em>, seven) because it comprises 7 lines that rhyme as A, A, A, B, B, B, A. The Baghdadi Mawwal is very popular in the Aleppan repertoire, alonside the <a href="vocal_comp.php#muwashah">Muwashahat</a> and <a href="vocal_comp.php#qadd">Qudud</a> forms.
+                    <p> 
+                        Um tipo importante de mawwal é o “Baghdadi Mawwal”, também chamado de <em>Sab‘awi</em> (de <em>sab‘a</em>, sete) porque consiste em 7 linhas com rimas A, A, A, B, B, B, A. O Baghdadi Mawwal é muito popular no repertório de Alepo, junto com as formas <a href="vocal_comp.php#muwashah">Muwashahat</a> e <a href="vocal_comp.php#qadd">Qudud</a>.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=zX7gJKlDDyY">
@@ -115,10 +124,11 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/zX7gJKlDDyY/hqdefault.jpg">
                                     </div>
-                                </div>
-                             <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Sadduk ‘Anni el-‘Ida</b>
-                                    <span>Aleppan singer Muhammad Khayri starts his <a href="vocal_comp.php#wasla">Wasla</a> in <a href="../maqam/bayati.php">Maqam Bayati</a> with a <a href="ottoman.php/samai">Sama‘i</a>, followed by <strong>Mawwal Sadduk ‘Anni el-‘Ida</strong></span>
+                                    <span>O cantor Muhammad Khayri, natural de Alepo, começa sua <a href="vocal_comp.php#wasla">Wasla</a> em <a href="../maqam/bayati.php">Maqam Bayati</a> com um <a href="ottoman.php/samai">Sama‘i</a>, seguida por <strong>Mawwal Sadduk ‘Anni el-‘Ida</strong>.
+                                </span>
                                 </div>
                             </label>
                         </div>
@@ -131,10 +141,11 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/8MMxY_CIi_I/hqdefault.jpg">
                                     </div>
-                                </div>
-                             <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Ashki Li Min el-Hawa</b>
-                                    <span><strong>Mawwal Ashki Li Min el-Hawa</strong> in <a href="../maqam/kurd.php">Maqam Kurd</a>, by Muhammad Abdel Wahab (1931).</span>
+                                    <span><strong>Mawwal Ashki Li Min el-Hawa</strong> em <a href="../maqam/kurd.php">Maqam Kurd</a>, por Muhammad Abdel Wahab (1931).
+                                </span>
                                 </div>
                             </label>
                         </div>
@@ -147,22 +158,23 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/2iMNi2qeA7w/hqdefault.jpg">
                                     </div>
-                                </div>
-                             <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Min Youm Firgak</b>
-                                    <span><strong>Mawwal Baghdadi Min Youm Firgak</strong> by Sabah Fakhri.</span>
+                                    <span><strong>Mawwal Baghdadi Min Youm Firgak</strong> por Sabah Fakhri.
+                                </span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
                     <div id="qasida" class="heading jins text-center full-width">
-                        <h3>The Improvised Qasida</h3>
+                        <h3>A Qasida Improvisada</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/qasida.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Qasida</a>
                     </div>
-                    <p> The Qasida (plural <em>Qasa'id</em>) is a metered poem in classical Arabic. It can be used in a composed form (see the <a href="vocal_comp.php#qasida">composed qasida</a>) or, in this case, used in an improvised form.  The improvised <em>qasida</em> is identical to a Mawwal in how it features a <a href="../maqam.php">maqam</a>'s <em>sayr</em>, and the singer's skills and artistry.
+                    <p> A Qasida (plural <em>Qasa'id</em>) é um poema metrado em Árabe clássico. Pode ser usada numa forma composta (veja a <a href="vocal_comp.php#qasida">qasida composta</a>) ou, nesse caso, usada numa forma improvisada. A qasida improvisada é idêntica a um Mawwal em como ela utiliza o <em>sayr</em> de um <a href="../maqam.php">maqam</a> e as habilidades artísticas e maestria do cantor.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=GJPYRZwdbhw">
@@ -172,10 +184,11 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/GJPYRZwdbhw/hqdefault.jpg">
                                     </div>
-                                </div>
-                             <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Ya Man Yara Admu‘i</b>
-                                    <span>Muhammad Khayri's Qasida <strong>Ya Man Yara Admu‘i</strong> in <a href="../maqam/rast.php">Maqam Rast</a>.</span>
+                                    <span>Qasida <strong>Ya Man Yara Admu‘i</strong> de Muhammad Khayri em <a href="../maqam/rast.php">Maqam Rast</a>.
+                                </span>
                                 </div>
                             </label>
                         </div>
@@ -188,26 +201,30 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/U0OWUGYqjZo/hqdefault.jpg">
                                     </div>
-                                </div>
-                             <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Qul Lil-Maliha</b>
-                                <span>Sabah Fakhri's signature Qasida <strong>Qul Lil-Maliha</strong> in <a href="../maqam/huzam.php">Maqam Huzam</a>.</span>
+                                <span>A famosa Qasida <strong>Qul Lil-Maliha</strong> de Sabah Fakhri, em <a href="../maqam/huzam.php">Maqam Huzam</a>.
+                                </span>
                                 </div>
                             </label>
                         </div>
                     </div>
 
                     <div id="taqsim" class="heading jins text-center full-width">
-                        <h3>The Taqsim</h3>
+                        <h3>O Taqsim</h3>
                     </div>
                     <div class="text-center mt-2 mb-3 mobile-left">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/taqsim.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Taqsim</a>
                     </div>
-                    <p> The Taqsim (plural <em>Taqasim</em>) is an instrumental improvisation guided by a traditional framework that very closely follows a <a href="../maqam.php">maqam</a>'s <em>sayr</em> (including intonation, phrasing and modulation). The <em>taqsim</em> also showcases the beauty of the instrument, its ornamentation possibilities, and the performer's skills, technique and personal voice.
+                    <p> 
+                        O Taqsim (plural <em>Taqasim</em>) é uma improvisação instrumental guiada por uma estrutura tradicional que segue de perto o sayr de um <a href="../maqam.php">maqam</a> (incluindo entonação, fraseado e modulação). O <em>taqsim</em> também demonstra a beleza do instrumento, suas possibilidades de ornamentação, e a habilidade, técnica e voz pessoal do instrumentista.
                     </p>
-                    <p> The <em>taqsim</em> must follow a narrative arc and consist of sections separated by mini cadences and brief pauses. The <em>taqsim</em> can be a stand-alone piece, or it could be embedded in a song or a <a href="vocal_comp.php#wasla">wasla</a>.
+                    <p> 
+                        O <em>taqsim</em> precisa seguir um arco narrativo e consiste em seções separadas por mini cadências e pausas breves. O taqsim pode ser uma peça por si só, ou pode estar incluída numa canção ou <a href="vocal_comp.php#wasla">wasla</a>.
                     </p>
-                    <p> The most popular and widespread <em>taqsim</em> instrument is the <a href="../instr/oud.php">oud</a>, along with the <a href="../instr/violin.php">violin</a>, <a href="../instr/nay.php">nay</a> and <a href="../instr/qanun.php">qanun</a>. Arabized instruments like the <a href="../instr/accordion.php">accordion</a> can also be used for a <em>taqsim</em>.
+                    <p> 
+                        O instrumento de <em>taqsim</em> mais popular e disseminado é o <a href="../instr/oud.php">oud</a>, junto com o <a href="../instr/violin.php">violino</a> o <a href="../instr/nay.php">nay</a> e o <a href="../instr/qanun.php">qanun</a>. Instrumentos arabizados como o <a href="../instr/accordion.php">acordeão</a> também podem ser usados para <em>taqsim</em>.
                     </p>
 
                     <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=-Atnx8aRrIg">
@@ -217,10 +234,11 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/-Atnx8aRrIg/hqdefault.jpg">
                                     </div>
-                                </div>
-                             <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>‘Aboud Abdel ‘Al</b>
-                                    <span><a href="../instr/violin.php">Violin</a> <a href="../form/improv.php#taqsim">Taqsim</a> in <a href="../maqam/bayati.php">Maqam Bayati</a> by Aboud Abdel ‘Al, preceded by <a href="../ottoman.php#samai">Sama‘i</a> Bayati Ibrahim al-‘Aryan</span>
+                                    <span>Taqsim de <a href="../instr/violin.php">Violino</a> em <a href="../maqam/bayati.php">Maqam Bayati</a> por Aboud Abdel ‘Al, precedido pelo <a href="../ottoman.php#samai">Sama‘i</a> Bayati Ibrahim al-‘Aryan.
+                                </span>
                                 </div>
                             </label>
                         </div>
@@ -233,10 +251,11 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/7iB4JFYArFg/hqdefault.jpg">
                                     </div>
-                                </div>
-                             <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>‘Amer ‘Ammuri</b>
-                                    <span><a href="../form/improv.php#taqsim">Taqsim</a> Oud by ‘Amer ‘Ammuri (Syria) in <a href="../maqam/huzam.php">Maqam Huzam</a> during a concert by Sabah Fakhri.</span>
+                                    <span>Taqsim Oud por ‘Amer ‘Ammuri (Síria) em <a href="../maqam/huzam.php">Maqam Huzam</a> durante concerto por Sabah Fakhri.
+                                </span>
                                 </div>
                             </label>
                         </div>

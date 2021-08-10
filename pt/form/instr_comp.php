@@ -56,8 +56,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/9sxZVdKGe48/hqdefault.jpg">
                                     </div>
-                                </div>
-                             <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Zikrayati (1944)</b>
                                     <span>Composição instrumental <strong>Zikrayati</strong> (1944) de Muhammad al-Qasabji, em <a href="../maqam/nahawand.php">Maqam Nahawand</a>, gravado pela National Arabic Orchestra (USA).
                                  </span>
@@ -73,8 +73,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/DwXurHF47j8/hqdefault.jpg">
                                     </div>
-                                </div>
-                             <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>‘Aziza (1955)</b>
                                     <span>Composição instrumental ‘Aziza, de Muhammad Abdel Wahab (Do filme <strong>‘Aziza</strong>, de 1955)
                                  </span>
@@ -90,8 +90,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/NtkG3weZkwc/hqdefault.jpg">
                                     </div>
-                                </div>
-                             <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Tuta (1942)</b>
                                     <span>Composição instrumental Tuta, de Farid al-Atrash (do filme <strong>Ahlam el-Shabab</strong>).
                                  </span>
@@ -107,8 +107,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/jvdTH_mEcGk/hqdefault.jpg">
                                     </div>
-                                </div>
-                             <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Layali Zaman</b>
                                     <span>Composição instrumental Layali Zaman, do violinista egípcio ‘Abdu Dagher.
                                  </span>
@@ -134,8 +134,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/ul4z6sLnXYY/hqdefault.jpg">
                                     </div>
-                                </div>
-                             <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Alf Leila w Leila (1969)</b>
                                     <span>A introdução para a canção longa <strong>Alf Leila w Leila</strong> (1969), de Umm Kulthum, composta por Baligh Hamdi.
                                  </span>
@@ -151,8 +151,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/g1o5EdK2meI/hqdefault.jpg">
                                     </div>
-                                </div>
-                             <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Qari'at al-Fingan (1976)</b>
                                     <span>Abdel Halim</span>
                                     <span>A introdução para a canção longa <strong>Qari'at al-Fingan</strong> (1976) de Abdel Halim Hafez, composta por Muhammad al-Mugi.
@@ -169,8 +169,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/ii0_uVzQ_44/hqdefault.jpg">
                                     </div>
-                                </div>
-                             <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Fi Youm w Leila (1978)</b>
                                     <span>A introdução para a canção longa <strong>Fi Youm w Leila</strong> (1978) de Warda, composta por Muhammad Abdel Wahab.
                                  </span>
@@ -195,8 +195,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/n60D-Mnodms/hqdefault.jpg">
                                     </div>
-                                </div>
-                             <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Dulab Kurd</b>
                                     <span>Uma Wasla de Sabah's Fakhri em <a href="../maqam/hijazkar_kurd.php">Maqam Hijazkar Kurd</a> que abre com um tradicional Dulab Kurd.
                                  </span>
@@ -212,8 +212,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/zxAYZFI1zio/hqdefault.jpg">
                                     </div>
-                                </div>
-                             <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Dawr Inta Fahim</b>
                                     <span>A <a href="vocal_comp.php#dawr">Dawr</a> <strong>Inta Fahim</strong> de Zakariyya Ahmad abre com uma única repetição de um Dulab em <a href="../maqam/huzam.php">Maqam Rahat al-Arwah</a>.
                                  </span>
@@ -238,8 +238,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/bmtF02i7Oh8/hqdefault.jpg">
                                     </div>
-                                </div>
-                             <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Tahmila Suznak</b>
                                     <span>A Tahmila <a href="../maqam/suznak.php">Suznak</a> (a Tahmila mais conhecida), gravada com Ahmad al-Hifnawi no <a href="../instr/violin.php">violino</a>, George Michel no <a href="../instr/oud.php">oud</a>, Mahmud ‘Effat no <a href="../instr/nay.php">nay</a>, e Hasan Anwar no <a href="../instr/riqq.php">riqq</a>.
                                  </span>
@@ -255,8 +255,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/9ZTIzWZrmW4/hqdefault.jpg">
                                     </div>
-                                </div>
-                             <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Tahmila Saba</b>
                                     <span>Violinista Sírio Sami al-Shawwa gravou muitas <em>tahmila</em>-s, entre as quais encontra-se esta Tahmila em <a href="../maqam/saba.php">Maqam Saba</a>.
                                  </span>
@@ -285,8 +285,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/n49RxJwqBT4/hqdefault.jpg">
                                     </div>
-                                </div>
-                             <div class="info">
+                                </div><!--
+                             --><div class="info">
                                 <b>Darij Bayati</b>
                                     <span>O <em>darij</em> mais conhecido é aquele composto pelo violinista Sírio Sami al-Shawwa em <a href="../maqam/bayati.php">Maqam Bayati</a>.
                                  </span>
@@ -302,8 +302,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/rK-9pOupq6I/hqdefault.jpg">
                                     </div>
-                                </div>
-                             <div class="info">
+                                </div><!--
+                             --><div class="info">
                                 <b>Darij Hijaz</b>
                                     <span>Composição <em>darij</em> muito conhecida em <a href="../maqam/hijaz.php">Maqam Hijaz</a> (por um compositor desconhecido) gravado pelo violinista sírio Sami al-Shawwa em 1924.
                                 </span>

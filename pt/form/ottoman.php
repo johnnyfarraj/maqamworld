@@ -67,8 +67,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/5s1KylUC9_Q/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Sama‘i Bayati - Ibrahim al-‘Aryan</b>
                                     <span>Sama‘i em <a href="../maqam/bayati.php">Maqam Bayati</a> por Ibrahim al-‘Aryan (Egito), gravada pela Tunisian Radio Orchestra.
                                  </span>
@@ -84,8 +84,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/uNncmnhL05k/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Sama‘i Hijazkar Kurd - Rawhi al-Khammash</b>
                                     <span></span>
                                     <span>Sama‘i em <a href="../maqam/hijazkar_kurd.php">Maqam Hijazkar Kurd</a> por Rohi al-Khammash (Palestina/Iraque), apresentando <a href="../iqaa/jurjina.php">Iqa‘ Jurjina</a> na 4<sup>a</sup> khana.
@@ -102,8 +102,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/IQkQoZcC0jk/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Sama‘i Kurd - ‘Abdu Dagher</b>
                                     <span></span>
                                     <span>Sama‘i em <a href="../maqam/kurd.php">Maqam Kurd</a> por ‘Abdu Dagher (Egito), que apresenta uma longa <a href="instr_comp.php#muqaddima">muqaddima</a> (introdução composta).
@@ -120,8 +120,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/_OZo-QBb6jY/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Sama‘i Rast - George Michel</b>
                                     <span>Sama‘i em <a href="../maqam/rast.php">Maqam Rast</a> por George Michel (Egito), gravada pela Tunisian Radio Orchestra.
                                  </span>
@@ -137,8 +137,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/opETYjZGZtM/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Sama‘i Nawa Athar - Jamil ‘Uways</b>
                                     <span>Sama‘i em <a href="../maqam/nawa_athar.php">Maqam Nawa Athar</a> por Jamil ‘Uways (Síria).
                                  </span>
@@ -165,8 +165,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/JnTGci4VSXo/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Longa Farahfaza - Riyad al-Sunbati</b>
                                     <span>Longa em <a href="../maqam/nahawand.php">Maqam Farahfaza</a> por Riyad al-Sunbati (Egito), gravado pelo Simon Shaheen Ensemble.
                                  </span>
@@ -182,8 +182,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/7aVU7mPkCTs/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Longa ‘Ajam - ‘Abdu Daghir</b>
                                     <span>Longa em <a href="../maqam/ajam.php">Maqam ‘Ajam</a> por ‘Abdu Daghir (Egito), gravado por seu conjunto.
                                  </span>
@@ -199,8 +199,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/oa5fAO1YXSY/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Longa Nahawand - Dr. Alfred Gamil</b>
                                     <span>Longa em <a href="../maqam/nahawand.php">Maqam Nahawand</a> por Dr. Alfred Gamil (Egito), gravado por seu conjunto.
                                  </span>
@@ -229,8 +229,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/NmNMjWyhiyE/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Bashraf Farahfaza</b>
                                     <span>Bashraf em <a href="../maqam/nahawand.php">Maqam Farahfaza</a> por Ismail Hakki Bey (Otomano), gravado pelo conjunto Simon Shaheen.
                                  </span>
@@ -246,8 +246,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/aZY8TuOB68w/hqdefault.jpg">
                                     </div>
-                                </div>
-                             <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Bashraf Kara Batak Sikah (1929)</b>
                                     <span>Bashraf Kara Batak em <a href="../maqam/sikah.php">Maqam Sikah</a>, gravado em 1929 por Sami al-Shawwa (Síria) no <a href="../instr/violin.php">violino</a> e Muhammad al-Qasabgi (Egito) no <a href="../instr/oud.php">oud</a>.
                                  </span>
