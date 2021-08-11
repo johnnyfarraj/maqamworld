@@ -64,8 +64,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/dpSa2SEnFh8/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Hossam Ramzi</b>
                                     <span>O veterano derbakista egípcio Hossam Ramzy fala sobre o instrumento em uma entrevista na Analogue to Digital Music Expo de 2013
                                     </span>
@@ -81,8 +81,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/KmnkOfE6G58/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Sa‘id al-Artist</b>
                                     <span>O mestre egípcio da tabla e professor Sa'id al-Artist com seu conjunto de percussão
                                     </span>

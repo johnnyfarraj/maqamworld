@@ -57,8 +57,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/3v9u-h4Vr5A/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Abdallah Chahine</b>
                                     <span>O pianista libanês Abdallah Chahine toca um Taqsim Piano em <a href="../maqam/saba.php">Maqam Saba</a> seguido da canção <strong>Batit ‘Uyuni</strong> em seu álbum "<strong>Angham Min al-Sharq</strong>".
                                     </span>
@@ -74,8 +74,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/rbzYUIPPk90/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Ziad Rahbani</b>
                                     <span>O pianista libanês Ziad Rahbani toca piano árabe em sua canção <strong>Shu Hal-Iyyam</strong> do seu álbum <strong>Ana Mush Kafer</strong>, 1985.
                                     </span>
@@ -91,8 +91,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/BGsD1eZ-PVQ/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>W'Qamh</b>
                                     <span><strong>W'Qamh</strong>, composição instrumental de Ziad Rahbani em <a href="../maqam/hijaz.php">Maqam Hijaz</a>, utiliza o piano árabe em um arranjo de jazz fusion. Do álbum de Fairouz <strong>Mish Kayin Hayk Tkun</strong>, 1987.
                                     </span>

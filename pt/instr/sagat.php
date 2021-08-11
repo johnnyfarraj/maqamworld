@@ -61,8 +61,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/UpG__9CAiVE/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Karim Nagi</b>
                                     <span>O percussionista Karim Nagi (Egito/EUA) toca um Sagat solo</span>
                                 </div>

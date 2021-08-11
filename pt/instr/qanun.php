@@ -61,8 +61,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/fZPY3or3D-Y/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Muhammad Abdu Saleh</b>
                                     <span>Instrumentista de Umm Kulthum por décadas, Muhammad Abdu Saleh (Egito) em um medley de suas canções mais conhecidas</span>
                                 </div>
@@ -77,8 +77,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/IUMC6-OHp1I/hqdefault.jpg">
                                     </div>
-                                </div>
-                             <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Muhammad ‘Abdu Saleh</b>
                                     <span>Muhammad ‘Abdu Saleh (Egito) em um Taqsim no Qanun no <a href="../maqam/saba.php">Maqam Saba</a></span>
                                 </div>
@@ -93,8 +93,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/QqLcPLu6PXc/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Abdel Fattah Mansi</b>
                                     <span>Abdel Fattah Mansi (Egito) toca a canção <strong>Ana Fi-ntizarak</strong> (1943, música de Zakariya Ahmad), de Umm Kulthum</span>
                                 </div>
@@ -109,8 +109,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/DJnoomttU9Y/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Abdel Halim Nuwayra</b>
                                     <span>Abdel Halim Nuwayra (Egito), diretor musical do Arabic Music Ensemble, toca um Taqsim no Qanun no <a href="../maqam/bayati.php">Maqam Bayati</a>
                                     </span>
@@ -126,8 +126,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/GS9v3r3WDro/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Abraham Salman</b>
                                     <span>Abraham Salman (Iraque) em um Taqsim no Qanun no <a href="../maqam/rast.php">Maqam Rast</a>, do seu CD <strong>Saltanah</strong> (1998)</span>
                                 </div>

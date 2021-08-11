@@ -58,8 +58,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/JhOs_1SodTA/hqdefault.jpg">
                                     </div>
-                                </div>
-                             <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Sayyed Salem</b>
                                     <span>Sayyed Salem (Egito), um membro de longa data da Umm Kulthum Orchestra (Egito) em um solo de Nay durante a canção <strong>Ba‘id ‘Annak</strong> (1965, composição de Baligh Hamdi)
                                  </span>
@@ -75,8 +75,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/D2oBZADKIS4/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Mahmud ‘Effat</b>
                                     <span>O instrumentista e professor veterano Mahmud ‘Effat (Egito), um membro de longa data da Orquestra Diamante em um Taqsim no Nay em <a href="../maqam/saba.php">Maqam Saba</a></span>
                                 </div>
@@ -91,8 +91,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/5OflJML1yF8/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Reda Bdeir</b>
                                     <span>Reda Bdeir (Egito) toca a canção Kulli Da Kan Leh (1954, composição de Muhammad Abdel Wahab)</span>
                                 </div>
@@ -107,8 +107,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/CozVcLFpOeM/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Michael Ibrahim</b>
                                     <span>Michael Ibrahim (Síria), diretor da National Arab Orchestra (EUA) em um Taqsim no Nay em <a href="../maqam/saba.php">Maqam Saba</a> durante uma apresentação ao vivo da NAO
                                     </span>

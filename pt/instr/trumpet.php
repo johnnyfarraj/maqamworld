@@ -57,8 +57,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/RqII6j4Hj_k/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Sami al-Babli</b>
                                     <span>Uma rara gravação em vídeo do pioneiro do trompete árabe Sami al-Babli (Egito) fazendo um Taqsim em <a href="../maqam/nahawand.php">Maqam Nahawand</a> com Abdo Dagher.
                                     </span>
@@ -74,8 +74,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/XVX7LaYvmnw/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Sami al-Babli</b>
                                     <span>Outra rara gravação de vídeo de Sami al-Babli fazendo um Taqsim em <a href="../maqam/saba.php">Maqam Saba</a> durante a introdução de uma música do cantor de <em>Sha‘bi</em> Ahmed Adaweyya. Al-Babli participava regularmente do ensemble de Adaweyya.
                                     </span>
@@ -91,8 +91,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/OqV03upmhu0/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Amir Elsaffar</b>
                                     <span>O instrumentista iraquiano-americano Amir Elsaffar, que toca Trompete e <em>Santur</em>, em uma gravação da National Public Radio (NPR) Music Field Recording tocando uma de suas composições que mesclam elementos do sistema árabe Maqam e do Jazz.
                                     </span>
@@ -108,8 +108,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/DUa_srT-uL8/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Ibrahim Maalouf</b>
                                     <span>O trompetista libanês-francês Ibrahim Maalouf toca um cover da canção <strong>Alf Leila w Leila</strong>, de Umm Kulthum (1969, música de Baligh Hamdi) em um arranjo de jazz que dá espaço para escalas árabes Maqam.
                                     </span>

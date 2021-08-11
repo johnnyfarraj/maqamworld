@@ -61,8 +61,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/Ptd3R51Qj-s/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Hassan Anwar</b>
                                     <span>O instrumentista Hassan Anwar (o <em>dabet al-iqa‘</em> oficial da Diamond Orchestra no Egito) alterna solos com o org na canção <strong>Qari'at al-Fingan</strong> (1976, música de Muhammad al-Mugi), de Abdel Halim Hafez.
                                     </span>
@@ -78,8 +78,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/BdNS93A3Itg/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Muhammad al-‘Arabi</b>
                                     <span>O instrumentista egípcio Muhammad al-‘Arabi toca um Riqq Solo (em um riqq com pele de plástico) em que explora diversos <a href="../iqaa.php">iqa‘at</a>.
                                     </span>
@@ -95,8 +95,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/on7vkhzPXPM/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Adel Shams el-Din</b>
                                     <span>O percussionista egípcio Adel Shams el-Din toca um Riqq Solo em um riqq com pele de peixe, explorando diversos iqa‘at (gravado em 2005 no Institut du Monde Arabe, em Paris).
                                     </span>
@@ -112,8 +112,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/ga3CAHh2JmM/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Mustafa Bayyumi</b>
                                     <span>O percussionista egípcio Mustafa Bayyumi toca um Riqq Solo (em um riqq com pele de plástico) em que explora diversos iqa‘at.
                                     </span>

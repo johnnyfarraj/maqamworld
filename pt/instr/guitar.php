@@ -51,8 +51,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/b9s1GvFSa68/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Omar Khorshid</b>
                                     <span>O pioneiro da guitarra elétrica árabe Omar Khorshid toca a canção <strong>Aghadan Alqaka</strong>de Umm Kulthum (1971, composição de Muhammad Abdel Wahab).
                                     </span>
@@ -68,8 +68,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/dyCtzKJ9SCY/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Entrevista com Omar Khorshid</b>
                                     <span>Entrevista com Omar Khorshid sobre sua experiência tocando guitarra elétrica com a Orquestra de Umm Kulthum.
                                     </span>

@@ -63,8 +63,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/dDrVYyoMi-4/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Muhammad al-Qasabgi</b>
                                     <span>O virtuoso do oud e compositor egípcio Muhammad al-Qasabgi tocando alguns Taqasim em <a href="../maqam/rast.php">Maqam Rast</a>. (Gravado no Arabic Music Conservatory, Cairo, 1955)</span>
                                 </div>
@@ -79,8 +79,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/zGoY5QYLnYs/hqdefault.jpg">
                                     </div>
-                                </div>
-                             <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Farid al-Atrash</b>
                                     <span>O virtuoso sírio do oud Farid al-Atrash (também conhecido como o "Rei do Oud") interpretando um famoso Oud <a href="../form/improv.php#taqsim">Taqsim</a> em <a href="../maqam/bayati.php">Maqam Bayati</a> introduzindo sua composição <strong>al-Rabi‘</strong> (1949)
                                     </span>
@@ -96,8 +96,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/OCmheJ929fo/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Simon Shaheen</b>
                                     <span>O alaudista palestino Simon Shaheen toca em <a href="../maqam/hijaz.php">Maqam Hijaz</a>, gravado no Metropolitan Museum de Nova York em 1987
                                     </span>
@@ -113,8 +113,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/Jf3WeItCpXA/hqdefault.jpg">
                                     </div>
-                                </div>
-                             <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>George Michel</b>
                                     <span>O alaudista egípcio George Michel toca um <a href="../form/improv.php#taqsim">Taqsim</a> Oud em <a href="../maqam/nahawand.php">Maqam Nahawand</a></span>
                                 </div>
@@ -129,8 +129,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/7iB4JFYArFg/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>‘Amer ‘Ammouri</b>
                                     <span>O alaudista sírio ‘Amer ‘Ammouri toca um <a href="../form/improv.php#taqsim">Taqsim</a> Oud em <a href="../maqam/bayati.php">Maqam Bayati</a>, junto à orquestra de Sabah Fakhri (gravado na Cairo Opera House)
                                     </span>

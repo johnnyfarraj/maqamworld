@@ -62,8 +62,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/3YMxXobcrc8/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Aw‘idak</b>
                                     <span>A National Arab Orchestra(EUA) apresenta a música <strong>Aw‘idak</strong> de Su'ad Muhammad, em um arranjo que inclui o teclado oriental e a guitarra elétrica ao lado de instrumentos árabes tradicionais.
                                     </span>
@@ -79,8 +79,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/e0aPuIpOAoc/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Shamstep by 47Soul</b>
                                     <span>O grupo pan-palestino 47Soul acrescentaram um toque interessante ao uso tradicional do Teclado Oriental, usando efeitos sonoros para criar um novo gênero de techno-dabke, como em sua canção de sucesso <strong>Shamstep</strong>.
                                     </span>

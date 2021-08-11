@@ -55,8 +55,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/RGcnL3QG6DE/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Zaffa (festa de casamento)</b>
                                     <span>Uma Zaffa (festa de casamento) egípcia com um grande grupo de percussionistas usando uma combinação de Mazhar-s, <a href="katim.php">Katem</a>-s e <a href="tabla.php">Tabla</a>-s egípcios, todos feitos com peles sintéticas.
                                     </span>

@@ -65,8 +65,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/FFViUJriwXE/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Conjunto de Hassan al-Haffar</b>
                                     <span>O daff é utilizado no conjunto do <em>munshid</em> (cantor Islâmico) de Aleppo Hassan al-Haffar, em um concerto gravado ao vivo em Paris.
                                     </span>
@@ -82,8 +82,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/Ya_3rWXI1is/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Duqqu el-Mazahir</b>
                                     <span><strong>Duqqu el-Mazahir</strong> ("Toquem os Tambores", 1952), canção nupcial de Farid al-Atrash, inclui tambores de armação usados em uma celebração de casamento.</span>
                                 </div>

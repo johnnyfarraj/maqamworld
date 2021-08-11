@@ -51,8 +51,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/Ptd3R51Qj-s/hqdefault.jpg">
                                     </div>
-                                </div>
-                             <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Magdi el-Husseini</b>
                                     <span>A canção <strong>Qari'at al-Fingan</strong> de Abdel Halim Hafez (1976, mcomposição de Muhammad al-Mugi) com os instrumentistas egípcios de órgão elétrico Magdi el-Husseini e Hani Mehanna (ambos integrantes da Orquestra Diamante).
                                     </span>
@@ -68,8 +68,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/dgXdCUH8nxY/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Entrevista com Magdi el-Husseini</b>
                                     <span>Entrevista com Magdi el-Husseini sobre sua experiência em conhecer o cantor Abdel Halim Hafez e se apresentar em sua orquestra.
                                     </span>
@@ -85,8 +85,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/G92v98oBCHA/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Entrevista com Hani Mehanna</b>
                                     <span>Entrevista com Hani Mehanna sobre sua experiência em conhecer o compositor Muhammad Abdel Wahab e a cantora Umm Kulthum e interpretar a música Leilet Hobb com a orquestra dela.
                                     </span>

@@ -54,8 +54,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/n_2qIVjgboM/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Hawil Tiftikirni (1973)</b>
                                     <span>A canção <strong>Hawil Tiftikirni</strong>, de Abdel Halim Hafez (1973, música de Baligh Hamdi), abre com o Org árabe, a guitarra elétrica e, em seguida, um solo de saxofone de Samir Surour.
                                     </span>
@@ -71,8 +71,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/tNskrvpodqA/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Fat el-Ma‘ad (1967)</b>
                                     <span>A canção <strong>Fat el-Ma‘ad</strong>, de Umm Kulthum (1967, música de Baligh Hamdi), inclui em seu arranjo Faruq Salama no acordeão árabe, Abdel Fattah Khayri na guitarra elétrica e Samir Surour no saxofone.
                                     </span>

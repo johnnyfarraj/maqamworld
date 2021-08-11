@@ -61,8 +61,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/_ZWvLygSqkY/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Sami al-Shawwa</b>
                                     <span>Um dos pioneiros do violino árabe no início do século XX, o violinista sírio Sami al-Shawwa (também conhecido como o Príncipe do Violino) tocando um <a href="../form/improv.php#taqsim">Taqsim</a> em <a href="../maqam/hijazkar.php">Maqam Hijazkar</a>
                                     </span>
@@ -78,8 +78,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/bmtF02i7Oh8/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Ahmad al-Hifnawi</b>
                                     <span>O violinista egípcio Ahmad al-Hifnawi (que tocou primeiro violino na orquestra Umm Kulthum) tocando a tradicional composição instrumental <strong>Tahmila Rast (Suznak)</strong>, que inclui muitas improvisações. O conjunto também conta com George Michel no Oud, Mahmud ‘Effat no Nay e Hassan Anwar no Riqq.
                                     </span>
@@ -112,8 +112,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/IQkQoZcC0jk/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>‘Abdu Daghir</b>
                                     <span>O violinista egípcio 'Abdu Daghir e seu conjunto tocando sua composição instrumental Sama‘i <a href="../maqam/kurd.php">Maqam Kurd</a>, incluindo solos de violino e de qanun.
                                     </span>
@@ -129,8 +129,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/2jVRlAbqscg/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Simon Shaheen</b>
                                     <span>O violinista palestino Simon Shaheen tocando um <a href="../form/improv.php#taqsim">Taqsim</a> em <a href="../maqam/rast.php">Maqam Rast</a> sobre o <a href="../iqaa/rumba.php">Iqa‘ Rumba</a>, terminando com a segunda metade da composição instrumental de Riyad al-Sunbati <a href="../maqam/nahawand.php">Farahfaza</a>
                                     </span>

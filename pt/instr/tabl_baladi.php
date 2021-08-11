@@ -58,8 +58,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/D6Ex5WiW6vc/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Tabl Baladi com Mizmar</b>
                                     <span>O músico armênio-libanês Setrak Sarkissian dá o ritmo para a cantora Samira Tawfiq em sua canção <strong>‘al-‘Ein Mulayyitein</strong>, acompanhada por um Riqq e um Tabl Baladi. Gravado na televisão libanesa com o violinista Rafik Hobeika regendo a orquestra.
                                     </span>

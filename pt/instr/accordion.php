@@ -70,8 +70,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/WLQD2L5TiTM/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Entrevista com Faruq Salama</b>
                                     <span>Entrevista com Faruq Salama sobre sua experiência tocando o acordeão árabe na orquestra de Umm Kulthum.
                                     </span>
@@ -87,8 +87,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/1nUqK5wLiME/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Fifi ‘Abdou</b>
                                     <span>Um clipe de dança com a bailarina egípcia Fifi ‘Abdou que inicia com um acordeão árabe.
                                     </span>
@@ -104,8 +104,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/oANW6M63pRE/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Ahmed ‘Adaweya</b>
                                     <span>De Ahmed ‘Adaweya, a canção <strong>Ya Hilu il-Malamih</strong> (no gênero egípcio <em>Sha‘bi</em>) acompanhado por uma bailarina.
                                     </span>
@@ -121,8 +121,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/7f5a9BhGios/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Elias Lammam</b>
                                     <span>A National Arab Orchestra (EUA) executa <strong>Kahramana</strong>, composição instrumental de Farid al-Atrash, em um arranjo em que o acordeão árabe figura ao lado de instrumentos árabes tradicionais.
                                     </span>

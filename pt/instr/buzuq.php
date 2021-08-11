@@ -58,8 +58,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/isAhZyRcA0M/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Muhyiddin Ba‘yun</b>
                                     <span>O instrumentista e cantor libanês Muhyiddin Ba‘yun toca um Taqsim no Buzuq no <a href="../maqam/bayati.php">Maqam Bayati</a>
                                     </span>
@@ -75,8 +75,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/IhiVXmTMihk/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Muhammad Abdel Karim</b>
                                     <span>O músico sírio Muhammad Abdel Karim (conhecido como “O Príncipe do Buzuq”) toca um Taqsim no Buzuq. Abdel Karim nos deixou muitas gravações, e seu estilo era doce e meditativo.
                                     </span>
@@ -92,8 +92,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/TpNCZQguy9k/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Matar Muhammad</b>
                                     <span>O virtuoso libanês Matar Muhammad toca um Taqsim no Buzuq em um concerto ao vivo. Os taqasim de Muhammad elevaram o buzuq ao mesmo nível de qualquer um dos outros instrumentos tradicionais árabes por sua complexidade, técnica, ornamentação, modulações de maqam e duração.
                                     </span>
@@ -126,8 +126,8 @@ include($ROOT . 'inc/head.php');
                                     <div class="thumb">
                                         <img src="https://img.youtube.com/vi/dPdFIgFkkog/hqdefault.jpg">
                                     </div>
-                                </div>
-                                <div class="info">
+                                </div><!--
+                             --><div class="info">
                                     <b>Marhabtayn</b>
                                     <span>A diva libanesa Sabah em sua canção <strong>Marhabtayn</strong> (gravada ao vivo no Kuwait) com um buzuq em sua orquestra (regida pelo violinista Abbud Abdel ‘Al).</span>
                                 </div>
