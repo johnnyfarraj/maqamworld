@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Haloummou Li</b>
+                                    <b>Taloumouni Wa Lam Tarthou Li Hali</b>
                                     <span>Hassan al-Haffar (Syrie)</span>
                                 </div>
                             </label>

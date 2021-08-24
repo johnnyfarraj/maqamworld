@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>انشودة هلمّوا لي</b>
+                                    <b>تلوموني ولم ترثوا لحالي</b>
                                     <span>المنشد الحلبي حسن الحفّار</span>
                                 </div>
                             </label>

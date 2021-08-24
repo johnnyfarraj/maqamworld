@@ -72,7 +72,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>HΧαλούμου Λι</b>
+                                    <b>Ταλουμούνι ουα λαμ τάρθου λι χάλι</b>
                                     <span>Χάσαν αλ-Χαφάρ</span>
                                 </div>
                             </label>
