@@ -113,6 +113,20 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/maqam/nawa_athar/ruba3iyyat.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>اغنية رباعيات الخيام (١٩٥٠) </b>
+                                    <span>امّ كلثوم</span>
+                                    <span>كلمات أحمد رامي (مصر)</span>
+                                    <span>الحان رياض السنباطي (مصر)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                     <div class="track" data-song="/audio/maqam/nawa_athar/adhkuru_al_hubba.mp3">
                         <div class="radio">
                             <label>

@@ -111,6 +111,19 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/maqam/nawa_athar/ruba3iyyat.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Ruba‘iyyat al-Khayam (1950)</b>
+                                    <span>Umm Kulthum</span>
+                                    <span>Música de Riyad al-Sunbati</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+                    
                     <div class="track" data-song="/audio/maqam/nawa_athar/adhkuru_al_hubba.mp3">
                         <div class="radio">
                             <label>
