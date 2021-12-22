@@ -29,14 +29,14 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Nawa Athar</h1>
-                        <h3>Un miembro de la <a href="f_nikriz.php">Familia Maqam Nikriz</a></h3>
+                        <h1>O Maqam Nawa Athar</h1>
+                        <h3>Um membro da <a href="f_nikriz.php">Família do Maqam Nikriz</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/nawa_athar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Nawa Athar</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/nawa_athar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Nawa Athar</a>
                     </div>
 
 
@@ -44,16 +44,16 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/nawa_athar.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Haz clic en cada nota y mantenga presionado para oírla.</p>
+                        <p class="clicknotes">Clique nas notas e mantenha pressionado o mouse para ouvi-las tocar.</p>
                     </div>
 
                     <map name="notemap">
 					  <area shape="circle" coords="60,136,13" href="#" alt="Do" class="playNote" data-frequency=" 260.74" data-parent="#notation1"><!-- tonic -->
-					  <area shape="circle" coords="136,128,13" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="136,128,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
 					  <area shape="circle" coords="213,120,13" href="#" alt="Mi♭" class="playNote" data-frequency="315" data-parent="#notation1"><!-- Nikriz 3rd -->
 					  <area shape="circle" coords="291,112,13" href="#" alt="Fa♯" class="playNote" data-frequency="375" data-parent="#notation1"><!-- Nikriz 4th -->
 					  <area shape="circle" coords="368,104,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="445,94,13" href="#" alt="La♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- Hijaz 2 tuned up from 420 -->
+					  <area shape="circle" coords="445,94,13" href="#" alt="Lá♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- Hijaz 2 tuned up from 420 -->
 					  <area shape="circle" coords="522,86,13" href="#" alt="Si♮" class="playNote" data-frequency="492" data-parent="#notation1"><!-- Hijaz 3 tuned down from 495 -->
 					  <area shape="circle" coords="599,78,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1"><!-- octave -->
                       <!-- Links -->
@@ -65,7 +65,7 @@ include($ROOT . 'inc/head.php');
                         Maqam Nawa Athar es otro <em>maqam</em> popular en la familia Nikriz. Su escala comienza con la raíz <a href="../jins/nikriz.php">Jins Nikriz</a> en la tónica, seguida de <a href="../jins/hijazkar.php">Jins Hijazkar</a> centrada en el quinto grado.
                     </p>
 
-                    <p>Explora otros maqamat en la <a href="f_nikriz.php">Familia Maqam Nikriz</a>.</p>
+                    <p>Explore outros maqamat na <a href="f_nikriz.php">Família do Maqam Nikriz</a>.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -92,7 +92,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" checked>
                                 <div class="info">
                                     <b>Gamil Gamal (1952)</b>
-                                    <span>Voz y música por Farid al-Atrash</span>
+                                    <span>Voz e música por Farid al-Atrash</span>
                                 </div>
                             </label>
                         </div>
@@ -130,7 +130,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Adhkuru al-Hubba</b>
-                                    <span>Orquesta Abdel Halim Noueira</span>
+                                    <span>Orquestra Abdel Halim Noueira</span>
                                     <span>Música de Dawud Husni</span>
                                 </div>
                             </label>

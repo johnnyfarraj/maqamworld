@@ -29,30 +29,30 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam ‘Ajam ‘Ushayran</h1>
-                        <h3>Un miembro de la <a href="f_ajam.php">Familia Maqam ‘Ajam</a></h3>
+                        <h1>O Maqam ‘Ajam ‘Ushayran</h1>
+                        <h3>Um membro da <a href="f_ajam.php">Família do Maqam ‘Ajam</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/ajam_ushayran.mp3"><i class="fa fa-fw fa-volume-up"></i>Pronunciación de ‘Ajam ‘Ushayran</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/ajam_ushayran.mp3"><i class="fa fa-fw fa-volume-up"></i>Pronúncia de ‘Ajam ‘Ushayran</a>
                     </div>
 
                       <div class="notation" id="notation1">
                         <img src="/note/maqam/ajam_ushayran.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Haz clic en cada nota y mantenga presionado para oírla.</p>
+                        <p class="clicknotes">Clique nas notas e mantenha pressionado o mouse para ouvi-las tocar.</p>
                     </div>
 
                     <map name="notemap">
                       <area shape="circle" coords="66,85,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
-                      <area shape="circle" coords="144,93,13" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
+                      <area shape="circle" coords="144,93,13" href="#" alt="Lá" class="playNote" data-frequency="440" data-parent="#notation1">
                       <area shape="circle" coords="221,101,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
                       <area shape="circle" coords="298,109,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
                       <area shape="circle" coords="376,118,13" href="#" alt="Mi♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
-                      <area shape="circle" coords="453,126,13" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
+                      <area shape="circle" coords="453,126,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
                       <area shape="circle" coords="530,134,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
                       <area shape="circle" coords="608,142,13" href="#" alt="Si♭" class="playNote" data-frequency="231.77" data-parent="#notation1">
                       <!-- Links -->
@@ -62,13 +62,13 @@ include($ROOT . 'inc/head.php');
 		          </map>
 
                     <p>
-                        Maqam ‘Ajam ‘Ushayran es una versión arcaica de <a href="ajam.php">Maqam ‘Ajam</a> con un <em>sayr</em> diferente, y también tiene un énfasis tonal completamente diferente. En lugar de tonificar su quinto grado de escala (para comenzar los próximos jins), en lugar de eso tonifica sus grados de tercero y sexto.
+                        O Maqam ‘Ajam‘ Ushayran é uma versão arcaica do <a href="ajam.php">Maqam ‘Ajam</a> com um <em>sayr</em> diferente, e também tem uma ênfase tonal completamente diferente. Em vez de tonificar seu 5º grau da escala (para iniciar o próximo jins), ele toniciza seu 3º e 6º graus da escala.
                     </p>
                     <p>
-                        La escala de Maqam 'Ajam' Ushayran comienza con la raíz <a href="../jins/ajam.php">Jins ‘Ajam</a> en la tónica, seguida de <a href="../jins/kurd.php">Jins Kurd</a> en el 3er grado y luego en <a href="../jins/nahawand.php">Jins Nahawand</a> a partir del 6º grado.
+                        A escala Maqam ‘Ajam‘ Ushayran começa com o Jins inicial <a href="../jins/ajam.php">‘Ajam</a> na tônica, seguido pelo Jins Kurd no 3º grau, em seguida, <a href="../jins/nahawand.php">Jins Nahawand</a> começando no 6º grau.
                     </p>
                     
-                    <p>Explora otros maqamat en la <a href="f_ajam.php">Familia Maqam ‘Ajam</a>.</p>
+                    <p>Explore outros maqamat na <a href="f_ajam.php">Família do Maqam ‘Ajam</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

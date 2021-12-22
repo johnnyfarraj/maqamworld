@@ -120,7 +120,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Laha Badru-t-Tim</b>
-                                    <span>Voz por Sheikh Mahmud Subh</span>
+                                    <span>Vocais de Sheikh Mahmud Subh</span>
                                 </div>
                             </label>
                         </div>

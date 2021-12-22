@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Hizz Ya Hubb</b>
-                                    <span>Voz por Ahmad Adaweya</span>
+                                    <span>Vocais de Ahmad Adaweya</span>
                                     <span>Música de Hassan Abu el-Su‘ud</span>
                                 </div>
                             </label>
@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Salametha Ummu Hasan</b>
-                                    <span>Voz por Ahmad Adaweya</span>
+                                    <span>Vocais de Ahmad Adaweya</span>
                                     <span>Música de Faruq Salama</span>
                                 </div>
                             </label>

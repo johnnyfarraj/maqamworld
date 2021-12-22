@@ -29,45 +29,45 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Hijazkar</h1>
-                        <h1>Maqam Shadd ‘Araban</h1>
-                        <h1>Maqam Suzidil</h1>
-                        <h1>Maqam Shahnaz</h1>
-                        <h3>Un miembro de la <a href="f_hijaz.php">Familia Maqam Hijaz</a></h3>
+                        <h1>O Maqam Hijazkar</h1>
+                        <h1>O Maqam Shadd ‘Araban</h1>
+                        <h1>O Maqam Suzidil</h1>
+                        <h1>O Maqam Shahnaz</h1>
+                        <h3>Um membro da <a href="f_hijaz.php">Família do Maqam Hijaz</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/hijazkar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Hijazkar</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/hijazkar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Hijazkar</a>
                     </div>
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/shadd_araban.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Shadd ‘Araban</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/shadd_araban.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Shadd ‘Araban</a>
                     </div>
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/shahnaz.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Shahnaz</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/shahnaz.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Shahnaz</a>
                     </div>
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/suzidil.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Suzidil</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/suzidil.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Suzidil</a>
                     </div>
 
                     <div class="notation" id="notation1">
                         <img src="/note/maqam/hijazkar.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Haz clic en cada nota y mantenga presionado para oírla.</p>
+                        <p class="clicknotes">Clique nas notas e mantenha pressionado o mouse para ouvi-las tocar.</p>
                     </div>
 
                     <map name="notemap">
                       <area shape="circle" coords="78,63,13" href="#" alt="Mi♮" class="playNote" data-frequency="656" data-parent="#notation1"><!-- Hijaz 3 tune down from 660 -->
-                      <area shape="circle" coords="155,71,13" href="#" alt="Re♭" class="playNote" data-frequency="554" data-parent="#notation1"><!-- Hijaz 2 tuned up from 548 -->
+                      <area shape="circle" coords="155,71,13" href="#" alt="Ré♭" class="playNote" data-frequency="554" data-parent="#notation1"><!-- Hijaz 2 tuned up from 548 -->
                       <area shape="circle" coords="233,79,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1"><!-- Hijazkar tonic -->
                       <area shape="circle" coords="309,87,13" href="#" alt="Si♮" class="playNote" data-frequency="493.33" data-parent="#notation1"><!-- vartiable -->
-                      <area shape="circle" coords="386,95,13" href="#" alt="La♭" class="playNote" data-frequency="420" data-parent="#notation1">
+                      <area shape="circle" coords="386,95,13" href="#" alt="Lá♭" class="playNote" data-frequency="420" data-parent="#notation1">
                       <area shape="circle" coords="465,103,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
                       <area shape="circle" coords="542,111,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
                       <area shape="circle" coords="618,120,13" href="#" alt="Mi♮" class="playNote" data-frequency="328" data-parent="#notation1"><!-- Hijaz 3 tune down from 330 -->
-                      <area shape="circle" coords="696,128,13" href="#" alt="Re♭" class="playNote" data-frequency="277" data-parent="#notation1"><!-- Hijaz 2 tune up from 274 -->
+                      <area shape="circle" coords="696,128,13" href="#" alt="Ré♭" class="playNote" data-frequency="277" data-parent="#notation1"><!-- Hijaz 2 tune up from 274 -->
                       <area shape="circle" coords="774,136,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
                        <!-- Links -->
                       <area shape="rect" coords="165,3,320,30" href="../jins/hijazkar.php" class="mapLink" data-parent="#notation1">
@@ -76,19 +76,19 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        Maqam Hijazkar es la variante más común de <a href="hijaz.php">Maqam Hijaz</a>. Su escala comienza con la raíz <a href="../jins/hijaz.php">Jins Hijaz</a> en la tónica, seguida de <a href="../jins/nikriz.php">Jins Nikriz</a> en el cuarto grado y luego <a href="../jins/hijazkar.php">Jins Hijazkar</a> en la octava.
+                        O Maqam Hijazkar é a variante mais comum do <a href="hijaz.php">Maqam Hijaz</a>. Sua escala começa com o Jins inicial <a href="../jins/hijaz.php">Hijaz</a> na tônica, seguido pelo <a href="../jins/nikriz.php">Jins Nikriz</a> no 4º grau, e então o <a href="../jins/hijazkar.php">Jins Hijazkar</a> na oitava.
                     </p>
 					<p>
-                        Por razones históricas, 3 de las transposiciones de este <em>maqam</em> tienen nombres diferentes (y solían tener un <em>sayr</em> diferente hace mucho tiempo):
+                        Por razões históricas, três transposições diferentes deste <em>maqam</em> têm diferentes nomes (e costumavam ter um <em>sayr</em> diferente há muito tempo):
 					</p>
                     
 					<p>
-					<li><strong>Maqam Shadd ‘Araban</strong> (Hijazkar en baja <strong>Sol</strong>)</li>
-					<li><strong>Maqam Suzidil</strong> (Hijazkar en baja <strong>La</strong>)</li>
-					<li><strong>Maqam Shahnaz</strong> (Hijazkar en <strong>Re</strong>)</li>
+					<li><strong>Maqam Shadd ‘Araban</strong> (Hijazkar no <strong>Sol</strong> grave)</li>
+					<li><strong>Maqam Suzidil</strong> (Hijazkar no <strong>Lá</strong> grave)</li>
+					<li><strong>Maqam Shahnaz</strong> (Hijazkar no <strong>Ré</strong>)</li>
 					</p>
 
-                    <p>Explora otros maqamat en la <a href="f_hijaz.php">Familia Maqam Hijaz</a>.</p>
+                    <p>Explore outros maqamat na <a href="f_hijaz.php">Família do Maqam Hijaz</a>.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -115,7 +115,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr Yama-nta Wahishni</b>
-                                    <span>Orquesta Abdel Halim Noueira</span>
+                                    <span>Orquestra Abdel Halim Noueira</span>
                                     <span>Música de Muhammad ‘Uthman</span>
                                 </div>
                             </label>
@@ -179,7 +179,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim de Qanun en Maqam Hijaz</b>
+                                    <b>Taqsim Qanun no Maqam Hijaz</b>
                                     <span>Conjunto Sabri al-Mudallal</span>
                                     <span><img src="/img/cd.png"> Songs from Aleppo</span>
                                 </div>
@@ -194,7 +194,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dulab Hijazkar</b>
                                     <span>Conjunto Sabah Fakhri</span>
-                                    <span>Nagham Al-Ams Vol. 04 Hijazkar</span>
+                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 04 Hijazkar</span>
                                 </div>
                             </label>
                         </div>

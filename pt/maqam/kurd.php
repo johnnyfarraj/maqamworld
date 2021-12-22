@@ -29,14 +29,14 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Kurd</h1>
-                        <h3>El principal <em>maqam</em> en la <a href="f_kurd.php">Familia Maqam Kurd</a></h3>
+                        <h1>O Maqam Kurd</h1>
+                        <h3>O maqam principal da Família do <a href="f_kurd.php">Família do Maqam Kurd</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/kurd.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Kurd</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/kurd.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Kurd</a>
                     </div>
 
 
@@ -44,17 +44,17 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/kurd.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Haz clic en cada nota y mantenga presionado para oírla.</p>
+                        <p class="clicknotes">Clique nas notas e mantenha pressionado o mouse para ouvi-las tocar.</p>
                     </div>
                      <map name="notemap">
-					  <area shape="circle" coords="63,129,13" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="63,129,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
 					  <area shape="circle" coords="141,121,13" href="#" alt="Mi♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
 					  <area shape="circle" coords="218,112,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
 					  <area shape="circle" coords="296,104,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="373,96,13" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
+					  <area shape="circle" coords="373,96,13" href="#" alt="Lá" class="playNote" data-frequency="440" data-parent="#notation1">
 					  <area shape="circle" coords="450,88,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					  <area shape="circle" coords="528,80,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
-					  <area shape="circle" coords="605,72,13" href="#" alt="Re" class="playNote" data-frequency="586.66" data-parent="#notation1">
+					  <area shape="circle" coords="605,72,13" href="#" alt="Ré" class="playNote" data-frequency="586.66" data-parent="#notation1">
                        <!-- Links -->
                       <area shape="rect" coords="112,8,230,35" href="../jins/kurd.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="364,7,545,35" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
@@ -65,7 +65,7 @@ include($ROOT . 'inc/head.php');
                         Maqam Kurd es el principal <em>maqam</em> en la Familia Kurd. Su escala comienza con la raíz <a href="../jins/kurd.php">Jins Kurd</a> en la tónica, seguida de <a href="../jins/nahawand.php">Jins Nahawand</a> en el cuarto grado.
                     </p>
 
-                    <p>Explora otros maqamat en la <a href="f_kurd.php">Familia Maqam Kurd</a>.</p>
+                    <p>Explore outros maqamat na <a href="f_kurd.php">Família do Maqam Kurd</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

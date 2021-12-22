@@ -57,7 +57,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Hayyar al-Afkar</b>
-                                    <span>Orquesta Abdel Halim Noueira</span>
+                                    <span>Orquestra Abdel Halim Noueira</span>
                                     <span>Música de Muhammad ‘Uthman</span>
                                 </div>
                             </label>
@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Hibbi Malik al-Milah</b>
-                                    <span>Orquesta Abdel Halim Noueira</span>
+                                    <span>Orquestra Abdel Halim Noueira</span>
                                 </div>
                             </label>
                         </div>
@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Isqini al-Rah</b>
-                                    <span>Orquesta Abdel Halim Noueira</span>
+                                    <span>Orquestra Abdel Halim Noueira</span>
                                     <span>Música de Muhammad ‘Uthman</span>
                                 </div>
                             </label>
@@ -107,7 +107,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Qum Bina Ya Nur ‘Ayni</b>
-                                    <span>Orquesta Abdel Halim Noueira</span>
+                                    <span>Orquestra Abdel Halim Noueira</span>
                                 </div>
                             </label>
                         </div>

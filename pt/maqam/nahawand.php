@@ -29,38 +29,38 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Nahawand</h1>
-                        <h3>El principal <em>maqam</em> en la <a href="f_nahawand.php">Familia Maqam Nahawand</a></h3>
+                        <h1>O Maqam Nahawand</h1>
+                        <h3>O maqam principal da Família do <a href="f_nahawand.php">Família do Maqam Nahawand</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/nahawand.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Nahawand</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/nahawand.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Nahawand</a>
                     </div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/farahfaza.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Farahfaza</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/farahfaza.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Farahfaza</a>
                     </div>
 
                      <div class="notation" id="notation1">
                         <img src="/note/maqam/nahawand.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Haz clic en cada nota y mantenga presionado para oírla.</p>
+                        <p class="clicknotes">Clique nas notas e mantenha pressionado o mouse para ouvi-las tocar.</p>
                     </div>
 
                     <map name="notemap">
 					  <area shape="circle" coords="67,137,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
-					  <area shape="circle" coords="144,129,13" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="144,129,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
 					  <area shape="circle" coords="221,121,13" href="#" alt="Mi♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
 					  <area shape="circle" coords="298,113,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
 					  <area shape="circle" coords="376,105,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="453,97,13" href="#" alt="La♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- Hijaz 2 tuned up from 420 -->
+					  <area shape="circle" coords="453,97,13" href="#" alt="Lá♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- Hijaz 2 tuned up from 420 -->
 					  <area shape="circle" coords="530,89,13" href="#" alt="Si♮" class="playNote" data-frequency="492" data-parent="#notation1"><!-- Hijaz 3 tuned down from 495 -->
 					  <area shape="circle" coords="608,80,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
                       <area shape="circle" coords="685,88,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
-                      <area shape="circle" coords="761,96,13" href="#" alt="La♭" class="playNote" data-frequency="420" data-parent="#notation1"><!-- unchanged -->
+                      <area shape="circle" coords="761,96,13" href="#" alt="Lá♭" class="playNote" data-frequency="420" data-parent="#notation1"><!-- unchanged -->
                       <area shape="circle" coords="839,105,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
                       <!-- Links -->
                       <area shape="rect" coords="135,11,308,39" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
@@ -74,7 +74,7 @@ include($ROOT . 'inc/head.php');
                     
                     <p><strong>Maqam Farahfaza</strong> es Maqam Nahawand transpuesto a la tónica de Sol.</p>
 
-                    <p>Explora otros maqamat en la <a href="f_nahawand.php">Familia Maqam Nahawand</a>.</p>
+                    <p>Explore outros maqamat na <a href="f_nahawand.php">Família do Maqam Nahawand</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -165,7 +165,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Nahawand</b>
-                                    <span>Orquesta Abdel Halim Noueira</span>
+                                    <span>Orquestra Abdel Halim Noueira</span>
                                     <span>Música de Safar ‘Ali</span>
                                 </div>
                             </label>
@@ -204,7 +204,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Longa Nahawand</b>
-                                    <span>Orquesta Abdel Halim Noueira</span>
+                                    <span>Orquestra Abdel Halim Noueira</span>
                                     <span>Música de Yorgo Baganos</span>
                                 </div>
                             </label>

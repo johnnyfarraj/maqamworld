@@ -29,18 +29,18 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Nairuz</h1>
-                        <h1>Maqam Yakah</h1>
-                        <h3>Un miembro de la <a href="f_rast.php">Familia Maqam Rast</a></h3>
+                        <h1>O Maqam Nairuz</h1>
+                        <h1>O Maqam Yakah</h1>
+                        <h3>Um membro da <a href="f_rast.php">Família do Maqam Rast</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/nairuz.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Nairuz</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/nairuz.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Nairuz</a>
                     </div>
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/yakah.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Yakah</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/yakah.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Yakah</a>
                     </div>
 
 
@@ -48,16 +48,16 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/nairuz.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Haz clic en cada nota y mantenga presionado para oírla.</p>
+                        <p class="clicknotes">Clique nas notas e mantenha pressionado o mouse para ouvi-las tocar.</p>
                     </div>
 
                     <map name="notemap">
 					  <area shape="circle" coords="74,135,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
-					  <area shape="circle" coords="150,126,13" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="150,126,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
 					  <area shape="circle" coords="228,118,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
 					  <area shape="circle" coords="305,110,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
 					  <area shape="circle" coords="383,102,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="459,93,13" href="#" alt="La<i class='icon-halfflat'></i>" class="playNote" data-frequency="426.67" data-parent="#notation1"><!-- Bayat 2nd, tuned up from A4♭=420 -->
+					  <area shape="circle" coords="459,93,13" href="#" alt="Lá<i class='icon-halfflat'></i>" class="playNote" data-frequency="426.67" data-parent="#notation1"><!-- Bayat 2nd, tuned up from A4♭=420 -->
 					  <area shape="circle" coords="537,85,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					  <area shape="circle" coords="615,77,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
                       <!-- Links -->
@@ -76,7 +76,7 @@ include($ROOT . 'inc/head.php');
                         <strong>Maqam Yakah</strong> es una versión arcaica de Maqam Nairuz, basada en la nota Sol3 en la escala arcaica de 24 tonos árabe (llamada <strong>Yakah</strong>) en lugar de la nota Do4.
                     </p>
 
-                    <p>Explora otros maqamat en la <a href="f_rast.php">Familia Maqam Rast</a>.</p>
+                    <p>Explore outros maqamat na <a href="f_rast.php">Família do Maqam Rast</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

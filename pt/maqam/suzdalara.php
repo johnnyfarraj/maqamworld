@@ -29,14 +29,14 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Suzdalara</h1>
-                        <h3>Un miembro de la <a href="f_rast.php">Familia Maqam Rast</a></h3>
+                        <h1>O Maqam Suzdalara</h1>
+                        <h3>Um membro da <a href="f_rast.php">Família do Maqam Rast</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/suzdalara.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Suzdalara</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/suzdalara.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Suzdalara</a>
                     </div>
 
 
@@ -44,17 +44,17 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/suzdalara.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Haz clic en cada nota y mantenga presionado para oírla.</p>
+                        <p class="clicknotes">Clique nas notas e mantenha pressionado o mouse para ouvi-las tocar.</p>
                     </div>
 
                     <map name="notemap">
 					  <area shape="circle" coords="57,75,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
 					  <area shape="circle" coords="134,83,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
-					  <area shape="circle" coords="211,91,13" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
+					  <area shape="circle" coords="211,91,13" href="#" alt="Lá" class="playNote" data-frequency="440" data-parent="#notation1">
 					  <area shape="circle" coords="289,99,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
 					  <area shape="circle" coords="366,107,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
 					  <area shape="circle" coords="444,116,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
-					  <area shape="circle" coords="521,123,13" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="521,123,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
 					  <area shape="circle" coords="598,133,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
                       <!-- Links -->
                       <area shape="rect" coords="79,7,257,35" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
@@ -65,7 +65,7 @@ include($ROOT . 'inc/head.php');
                         Maqam Suzdalara es bastante arcaico y casi inexistente como un maqam independiente, aunque su sayr es obligatorio en casi todas las actuaciones y canciones en cada rama de <a href="rast.php">Maqam Rast</a>: el <a href="../jins/nahawand.php">Jins Nahawand</a> en el quinto grado de Maqam Rast es un dispositivo de transición universal desde otras Modulaciones, señalando el retorno a la raíz <a href="../jins/rast.php">Jins Rast</a> sobre la tónica.
                     </p>
 
-                    <p>Explora otros maqamat en la <a href="f_rast.php">Familia Maqam Rast</a>.</p>
+                    <p>Explore outros maqamat na <a href="f_rast.php">Família do Maqam Rast</a>.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>

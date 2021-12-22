@@ -83,7 +83,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Jalla Man Bil Husni Sawwar</b>
-                                    <span>Orquesta Abdel Halim Noueira</span>
+                                    <span>Orquestra Abdel Halim Noueira</span>
                                     <span>Música de Kamel al-Khula‘i</span>
                                 </div>
                             </label>

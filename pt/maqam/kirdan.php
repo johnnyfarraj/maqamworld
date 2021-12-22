@@ -29,36 +29,36 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Kirdan</h1>
-                        <h1>Maqam Sazkar</h1>
-                        <h3>Un miembro de la <a href="f_rast.php">Familia Maqam Rast</a></h3>
+                        <h1>O Maqam Kirdan</h1>
+                        <h1>O Maqam Sazkar</h1>
+                        <h3>Um membro da <a href="f_rast.php">Família do Maqam Rast</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/kirdan.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Kirdan</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/kirdan.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Kirdan</a>
                     </div>
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/sazkar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Sazkar</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/sazkar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Sazkar</a>
                     </div>
 
                      <div class="notation" id="notation1">
                         <img src="../note/maqam/kirdan.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Haz clic en cada nota y mantenga presionado para oírla.</p>
+                        <p class="clicknotes">Clique nas notas e mantenha pressionado o mouse para ouvi-las tocar.</p>
                     </div>
 
                     <map name="notemap">
                       <area shape="circle" coords="75,81,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1"><!--tonic-->
                       <area shape="circle" coords="148,89,13" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!--var-->
-                      <area shape="circle" coords="225,97,13" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
+                      <area shape="circle" coords="225,97,13" href="#" alt="Lá" class="playNote" data-frequency="440" data-parent="#notation1">
                       <area shape="circle" coords="304,105,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
                       <area shape="circle" coords="381,113,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
                       <area shape="circle" coords="458,123,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
-                      <area shape="circle" coords="537,131,13" href="#" alt="Re♯" class="playNote" data-frequency="310" data-parent="#notation1"><!-- var sikah leading tone-->
-                      <area shape="circle" coords="589,131,13" href="#" alt="Re♮" class="playNote" data-frequency="293.33" data-parent="#notation1">
+                      <area shape="circle" coords="537,131,13" href="#" alt="Ré♯" class="playNote" data-frequency="310" data-parent="#notation1"><!-- var sikah leading tone-->
+                      <area shape="circle" coords="589,131,13" href="#" alt="Ré♮" class="playNote" data-frequency="293.33" data-parent="#notation1">
                       <area shape="circle" coords="640,139,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
                        <!-- Links -->
                       <area shape="rect" coords="95,6,274,38" href="../jins/upper_rast.php" class="mapLink" data-parent="#notation1">
@@ -73,7 +73,7 @@ include($ROOT . 'inc/head.php');
                         <strong>Maqam Sazkar</strong> es casi idéntico a Maqam Kirdan, excepto por la prominencia del segundo grado elevado que se produce en algunos pasajes melódicos, lo que resulta en <a href="../jins/sazkar.php">Jins Sazkar</a> en la tónica.
                     </p>
 
-                    <p>Explora otros maqamat en la <a href="f_rast.php">Familia Maqam Rast</a>.</p>
+                    <p>Explore outros maqamat na <a href="f_rast.php">Família do Maqam Rast</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -87,7 +87,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Sihtu Wajdan</b>
-                                    <span>Coro de la Universidad Kaslik (Líbano)</span>
+                                    <span>Coral da Universidad Kaslik (Líbano)</span>
                                     <span>Música de Sayed Darwish</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>

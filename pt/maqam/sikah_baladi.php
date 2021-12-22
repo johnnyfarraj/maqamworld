@@ -29,14 +29,14 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Sikah Baladi</h1>
+                        <h1>O Maqam Sikah Baladi</h1>
                         <h3>(no es miembro de una familia maqam)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/sikah_baladi.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Sikah Baladi</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/sikah_baladi.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Sikah Baladi</a>
                     </div>
 
 
@@ -44,17 +44,17 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/sikah_baladi.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Haz clic en cada nota y mantenga presionado para oírla.</p>
+                        <p class="clicknotes">Clique nas notas e mantenha pressionado o mouse para ouvi-las tocar.</p>
                     </div>
 
                     <map name="notemap">
 					  <area shape="circle" coords="69,90,13" href="#" alt="Do↓" class="playNote" data-frequency="xxx" data-parent="#notation1">
 					  <area shape="circle" coords="149,98,13" href="#" alt="Si<i class='icon-halfflat'></i>↑" class="playNote" data-frequency="xxx" data-parent="#notation1">
-					  <area shape="circle" coords="227,106,13" href="#" alt="La<i class='icon-halfflat'></i>↓" class="playNote" data-frequency="xxx" data-parent="#notation1">
+					  <area shape="circle" coords="227,106,13" href="#" alt="Lá<i class='icon-halfflat'></i>↓" class="playNote" data-frequency="xxx" data-parent="#notation1">
 					  <area shape="circle" coords="302,114,13" href="#" alt="Sol" class="playNote" data-frequency="xxx" data-parent="#notation1">
 					  <area shape="circle" coords="381,122,13" href="#" alt="Fa<i class='icon-halfsharp'></i>↑" class="playNote" data-frequency="xxxx" data-parent="#notation1">
 					  <area shape="circle" coords="462,131,13" href="#" alt="Mi<i class='icon-halfflat'></i>↓" class="playNote" data-frequency="xxx" data-parent="#notation1">
-					  <area shape="circle" coords="533,139,13" href="#" alt="Re" class="playNote" data-frequency="xxx" data-parent="#notation1">
+					  <area shape="circle" coords="533,139,13" href="#" alt="Ré" class="playNote" data-frequency="xxx" data-parent="#notation1">
 					  <area shape="circle" coords="605,147,13" href="#" alt="Do♯" class="playNote" data-frequency="xxx" data-parent="#notation1">
                       <area shape="circle" coords="672,147,13" href="#" alt="Do↓" class="playNote" data-frequency="xxx" data-parent="#notation1">
 					  <area shape="circle" coords="737,155,13" href="#" alt="Si<i class='icon-halfflat'></i>↑" class="playNote" data-frequency="xxx" data-parent="#notation1">
@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Sahirtu Minhu al-Layali (1935)</b>
-                                    <span>Voz y música por Muhammad Abdel Wahab</span>
+                                    <span>Voz e música por Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -148,7 +148,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Kulli Da Kan Leh (1954)</b>
-                                    <span>Voz y música por Muhammad Abdel Wahab</span>
+                                    <span>Voz e música por Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -160,7 +160,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>el-Habib el-Majhul(1972)</b>
-                                    <span>Voz y música por Muhammad Abdel Wahab</span>
+                                    <span>Voz e música por Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>

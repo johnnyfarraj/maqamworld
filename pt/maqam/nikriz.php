@@ -29,14 +29,14 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Nikriz</h1>
-                        <h3>El principal <em>maqam</em> en la <a href="f_nikriz.php">Familia Maqam Nikriz</a></h3>
+                        <h1>O Maqam Nikriz</h1>
+                        <h3>O maqam principal da Família do <a href="f_nikriz.php">Família do Maqam Nikriz</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/nikriz.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Nikriz</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/nikriz.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Nikriz</a>
                     </div>
 
 
@@ -44,18 +44,18 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/nikriz.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Haz clic en cada nota y mantenga presionado para oírla.</p>
+                        <p class="clicknotes">Clique nas notas e mantenha pressionado o mouse para ouvi-las tocar.</p>
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="53,68,13" href="#" alt="Re" class="playNote" data-frequency="586.66" data-parent="#notation1">
+					  <area shape="circle" coords="53,68,13" href="#" alt="Ré" class="playNote" data-frequency="586.66" data-parent="#notation1">
 					  <area shape="circle" coords="130,77,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
 					  <area shape="circle" coords="209,84,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
-					  <area shape="circle" coords="285,93,13" href="#" alt="La♮" class="playNote" data-frequency="440" data-parent="#notation1">
+					  <area shape="circle" coords="285,93,13" href="#" alt="Lá♮" class="playNote" data-frequency="440" data-parent="#notation1">
 					  <area shape="circle" coords="364,101,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
 					  <area shape="circle" coords="440,110,13" href="#" alt="Fa♯" class="playNote" data-frequency="375" data-parent="#notation1"><!-- Nikriz 4th -->
 					  <area shape="circle" coords="517,118,13" href="#" alt="Mi♭" class="playNote" data-frequency="315" data-parent="#notation1"><!-- Nikriz 3rd -->
-					  <area shape="circle" coords="594,125,13" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="594,125,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
                       <area shape="circle" coords="672,134,13" href="#" alt="Do" class="playNote" data-frequency=" 260.74" data-parent="#notation1"><!-- tonic -->
                       <!-- Links -->
                       <area shape="rect" coords="130,6,305,34" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
@@ -66,7 +66,7 @@ include($ROOT . 'inc/head.php');
                         Maqam Nikriz es el principal <em>maqam</em> en la Familia Nikriz. Su escala comienza con la raíz <a href="../jins/nikriz.php">Jins Nikriz</a> en la tónica, seguida de <a href="../jins/nahawand.php">Jins Nahawand</a> en el quinto grado.
                     </p>
 
-                    <p>Explora otros maqamat en la <a href="f_nikriz.php">Familia Maqam Nikriz</a>.</p>
+                    <p>Explore outros maqamat na <a href="f_nikriz.php">Família do Maqam Nikriz</a>.</p>
                 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -106,7 +106,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr el-Alb Yama Intazar (1931)</b>
-                                    <span>Voz y música por Muhammad Abdel Wahab</span>
+                                    <span>Voz e música por Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -118,7 +118,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Saga al-Laylu (1939)</b>
-                                    <span>Voz y música por Muhammad Abdel Wahab</span>
+                                    <span>Voz e música por Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>

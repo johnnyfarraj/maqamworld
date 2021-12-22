@@ -249,7 +249,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Bashraf Kara Batak Sikah (1929)</b>
-                                    <span>Bashraf Kara Batak em <a href="../maqam/sikah.php">Maqam Sikah</a>, gravado em 1929 por Sami al-Shawwa (Síria) no <a href="../instr/violin.php">violino</a> e Muhammad al-Qasabgi (Egito) no <a href="../instr/oud.php">oud</a>.
+                                    <span>Bashraf Kara Batak em <a href="../maqam/sikah.php">Maqam Sikah</a>, gravado em 1929 por Sami al-Shawwa (Síria) no <a href="../instr/violin.php">violino</a> e Muhammad al-Qasabgi no <a href="../instr/oud.php">oud</a>.
                                  </span>
                                 </div>
                             </label>

@@ -29,14 +29,14 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Athar Kurd</h1>
-                        <h3>Un miembro de la <a href="f_nikriz.php">Familia Maqam Nikriz</a></h3>
+                        <h1>O Maqam Athar Kurd</h1>
+                        <h3>Um membro da <a href="f_nikriz.php">Família do Maqam Nikriz</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/athar_kurd.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Athar Kurd</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/athar_kurd.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Athar Kurd</a>
                     </div>
 
 
@@ -44,16 +44,16 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/athar_kurd.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Haz clic en cada nota y mantenga presionado para oírla.</p>
+                        <p class="clicknotes">Clique nas notas e mantenha pressionado o mouse para ouvi-las tocar.</p>
                     </div>
 
                     <map name="notemap">
                       <area shape="circle" coords="63,131,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
-                      <area shape="circle" coords="141,123,13" href="#" alt="Re♭" class="playNote" data-frequency="274" data-parent="#notation1">
+                      <area shape="circle" coords="141,123,13" href="#" alt="Ré♭" class="playNote" data-frequency="274" data-parent="#notation1">
                       <area shape="circle" coords="218,115,13" href="#" alt="Mi♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
                       <area shape="circle" coords="296,107,13" href="#" alt="Fa♯" class="playNote" data-frequency="375" data-parent="#notation1">
                       <area shape="circle" coords="373,99,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
-                      <area shape="circle" coords="450,91,13" href="#" alt="La♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- Hijaz 2 tuned up from 420 -->
+                      <area shape="circle" coords="450,91,13" href="#" alt="Lá♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- Hijaz 2 tuned up from 420 -->
                       <area shape="circle" coords="528,83,13" href="#" alt="Si♮" class="playNote" data-frequency="492" data-parent="#notation1"><!-- Hijaz 3 tuned down from 495 -->
                       <area shape="circle" coords="605,75,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
                        <!-- Links -->
@@ -62,13 +62,13 @@ include($ROOT . 'inc/head.php');
 	               </map>
 
                     <p>
-                        Maqam Athar Kurd es un <em>maqam</em> muy poco usado que parece ser un desarrollo del siglo XX. Su escala comienza con <a href="../jins/athar_kurd.php">Athar Kurd</a> en la tónica seguido de <a href="../jins/hijazkar.php">Jins Hijazkar</a> centrado en el quinto grado.
+                        O Maqam Athar Kurd é um maqam muito raro que parece ser um desenvolvimento do século XX. Sua escala começa com <a href="../jins/athar_kurd.php">Jins Athar Kurd</a> na tônica seguido por <a href="../jins/hijazkar.php">Jins Hijazkar</a> centrado em torno do 5º grau.
 		            </p>
                     <p>
-                        La escala de Maqam Athar Kurd es un híbrido entre <a href="nawa_athar.php">Maqam Nawa Athar</a> y <a href="kurd.php">Maqam Kurd</a>, de ahí su nombre.
+                        A escala Maqam Athar Kurd é um híbrido entre o <a href="nawa_athar.php">Maqam Nawa Athar</a> e o <a href="kurd.php">Maqam Kurd</a>, daí o nome.
 		            </p>
                     
-                    <p>Explora otros maqamat en la <a href="f_nikriz.php">Familia Maqam Nikriz</a>.</p>
+                    <p>Explore outros maqamat na <a href="f_nikriz.php">Família do Maqam Nikriz</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -108,7 +108,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Ya Fagr Nurak Hall wi Ban (c.1952)</b>
-                                    <span>Voz por Baligh Hamdi</span>
+                                    <span>Vocais de Baligh Hamdi</span>
                                     <span>Música de Yusef Shawqi</span>
                                 </div>
                             </label>
@@ -160,7 +160,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim de Oud en Maqam Athar Kurd</b>
+                                    <b>Taqsim de Oud no Maqam Athar Kurd</b>
                                     <span>Muhammad Qadri Dalal</span>
                                     <span><img src="/img/cd.png"> Maqamat Insolites</span>
                                 </div>

@@ -29,30 +29,30 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Shawq Afza</h1>
-                        <h3>Un miembro de la <a href="f_ajam.php">Familia Maqam ‘Ajam</a></h3>
+                        <h1>O Maqam Shawq Afza</h1>
+                        <h3>Um membro da <a href="f_ajam.php">Família do Maqam ‘Ajam</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/shawq_afza.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Shawq Afza</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/shawq_afza.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Shawq Afza</a>
                     </div>
 
                     <div class="notation" id="notation1">
                         <img src="/note/maqam/shawq_afza.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Haz clic en cada nota y mantenga presionado para oírla.</p>
+                        <p class="clicknotes">Clique nas notas e mantenha pressionado o mouse para ouvi-las tocar.</p>
                     </div>
 
                     <map name="notemap">
 					  <area shape="circle" coords="57,134,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
-					  <area shape="circle" coords="133,126,13" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="133,126,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
 					  <area shape="circle" coords="210,118,13" href="#" alt="Mi" class="playNote" data-frequency="328" data-parent="#notation1"><!-- Ajam 3rd, tuned down from 330-->
 					  <area shape="circle" coords="289,110,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
 					  <area shape="circle" coords="366,102,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1"><!-- Hijaz tonic -->
-					  <area shape="circle" coords="442,93,13" href="#" alt="La♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- Hijaz 2 tuned up from 420 -->
+					  <area shape="circle" coords="442,93,13" href="#" alt="Lá♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- Hijaz 2 tuned up from 420 -->
 					  <area shape="circle" coords="519,85,13" href="#" alt="Si♮" class="playNote" data-frequency="492" data-parent="#notation1"><!-- Hijaz 3 tuned down from 495 -->
 					  <area shape="circle" coords="597,77,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
                       <!-- Links -->
@@ -64,7 +64,7 @@ include($ROOT . 'inc/head.php');
                         Maqam Shawq Afza es la variante más común de<a href="ajam.php">Maqam ‘Ajam</a>. Su escala comienza con la raíz de <a href="../jins/ajam.php">Jins ‘Ajam</a> en la tónica, mientras que <a href="../jins/hijaz.php">Jins Hijaz</a> en el quinto grado es su característica distintiva, así como una frecuente modulación de <a href="../jins/saba_dalanshin.php">Jins Saba Dalanshin</a> en los grados tercero / quinto.
                     </p>
 
-                    <p>Explora otros maqamat en la <a href="f_ajam.php">Familia Maqam ‘Ajam</a>.</p>
+                    <p>Explore outros maqamat na <a href="f_ajam.php">Família do Maqam ‘Ajam</a>.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>

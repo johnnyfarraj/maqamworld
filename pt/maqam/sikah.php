@@ -29,14 +29,14 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Sikah</h1>
-                        <h3>El principal <em>maqam</em> en la <a href="f_sikah.php">Familia Maqam Sikah</a></h3>
+                        <h1>O Maqam Sikah</h1>
+                        <h3>O maqam principal da Família do <a href="f_sikah.php">Família do Maqam Sikah</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/sikah.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Sikah</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/sikah.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Sikah</a>
                     </div>
 
 
@@ -44,17 +44,17 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/maqam/sikah.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Haz clic en cada nota y mantenga presionado para oírla.</p>
+                        <p class="clicknotes">Clique nas notas e mantenha pressionado o mouse para ouvi-las tocar.</p>
                     </div>
 
                     <map name="notemap">
 					  <area shape="circle" coords="83,127,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="322" data-parent="#notation1"><!--variable 318~324-->
 					  <area shape="circle" coords="159,118,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
 					  <area shape="circle" coords="237,110,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="314,102,13" href="#" alt="La♮" class="playNote" data-frequency="440" data-parent="#notation1">
+					  <area shape="circle" coords="314,102,13" href="#" alt="Lá♮" class="playNote" data-frequency="440" data-parent="#notation1">
 					  <area shape="circle" coords="391,94,13" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!--var-->
 					  <area shape="circle" coords="470,85,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1"><!--tonic-->
-					  <area shape="circle" coords="546,77,13" href="#" alt="Re" class="playNote" data-frequency="586.66" data-parent="#notation1">
+					  <area shape="circle" coords="546,77,13" href="#" alt="Ré" class="playNote" data-frequency="586.66" data-parent="#notation1">
 					  <area shape="circle" coords="623,69,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="644" data-parent="#notation1"><!--octave, variable -->
                       <!-- Links -->
                       <area shape="rect" coords="95,14,218,43" href="../jins/sikah.php" class="mapLink" data-parent="#notation1">
@@ -66,7 +66,7 @@ include($ROOT . 'inc/head.php');
                         Maqam Sikah es un miembro poco común de la familia Sikah. Su escala comienza con la raíz <a href="../jins/sikah.php">Jins Sikah</a> en la tónica, seguida de <a href="../jins/upper_rast.php">Jins Rast Alto</a> en el 3er grado (con su tónica en el 6º grado) y luego <a href="../jins/rast.php">Jins Rast</a> en el 6º grado (que es un <em>ghammaz</em> secundario).
                     </p>
                     
-                    <p>Explora otros maqamat en la <a href="f_sikah.php">Familia Maqam Sikah</a>.</p>
+                    <p>Explore outros maqamat na <a href="f_sikah.php">Família do Maqam Sikah</a>.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -80,7 +80,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Jadaka al-Ghaithu</b>
-                                    <span>Voz y música por Wajdi al-‘Aqili</span>
+                                    <span>Voz e música por Wajdi al-‘Aqili</span>
                                 </div>
                             </label>
                         </div>

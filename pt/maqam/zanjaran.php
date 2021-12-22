@@ -29,14 +29,14 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Zanjaran</h1>
-                        <h3>Un miembro de la <a href="f_hijaz.php">Familia Maqam Hijaz</a></h3>
+                        <h1>O Maqam Zanjaran</h1>
+                        <h3>Um membro da <a href="f_hijaz.php">Família do Maqam Hijaz</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/zanjaran.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Zanjaran</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/zanjaran.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Zanjaran</a>
                     </div>
 
 
@@ -44,17 +44,17 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/zanjaran.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Haz clic en cada nota y mantenga presionado para oírla.</p>
+                        <p class="clicknotes">Clique nas notas e mantenha pressionado o mouse para ouvi-las tocar.</p>
                     </div>
 
                     <map name="notemap">
                       <area shape="circle" coords="49,81,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
                       <area shape="circle" coords="126,89,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
-                      <area shape="circle" coords="202,97,13" href="#" alt="La♮" class="playNote" data-frequency="440" data-parent="#notation1"><!-- Ajam 3rd, tune down from 440 -->
+                      <area shape="circle" coords="202,97,13" href="#" alt="Lá♮" class="playNote" data-frequency="440" data-parent="#notation1"><!-- Ajam 3rd, tune down from 440 -->
                       <area shape="circle" coords="280,105,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
                       <area shape="circle" coords="358,114,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
                       <area shape="circle" coords="434,122,13" href="#" alt="Mi♮" class="playNote" data-frequency="328" data-parent="#notation1"><!-- Hijaz 3 tune down from 330 -->
-                      <area shape="circle" coords="512,130,13" href="#" alt="Re♭" class="playNote" data-frequency="277" data-parent="#notation1"><!-- Hijaz 2 tune up from 274 -->
+                      <area shape="circle" coords="512,130,13" href="#" alt="Ré♭" class="playNote" data-frequency="277" data-parent="#notation1"><!-- Hijaz 2 tune up from 274 -->
                       <area shape="circle" coords="590,139,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
                       <!-- Links -->
                       <area shape="rect" coords="135,9,263,40" href="../jins/ajam.php" class="mapLink" data-parent="#notation1">
@@ -65,7 +65,7 @@ include($ROOT . 'inc/head.php');
                         Maqam Zanjaran es una variante de <a href="hijaz.php">Maqam Hijaz</a> con <a href="../jins/ajam.php">Jins ‘Ajam</a> como segundo <em>jins</em> (en el cuarto grado) y la raíz <a href="../jins/hijaz.php">Jins Hijaz</a> en la tónica.
                     </p>
 
-                    <p>Explora otros maqamat en la <a href="f_hijaz.php">Familia Maqam Hijaz</a>.</p>
+                    <p>Explore outros maqamat na <a href="f_hijaz.php">Família do Maqam Hijaz</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -105,7 +105,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mawwal Amana Ya Leil (1931)</b>
-                                    <span>Voz y música por Muhammad Abdel Wahab</span>
+                                    <span>Voz e música por Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -130,7 +130,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Fi Shar‘i Min</b>
-                                    <span>Voz y música por Sayyed Darwish</span>
+                                    <span>Voz e música por Sayyed Darwish</span>
                                 </div>
                             </label>
                         </div>

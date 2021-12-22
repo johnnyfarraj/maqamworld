@@ -29,14 +29,14 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Rast</h1>
-                        <h3>El principal <em>maqam</em> en la <a href="f_rast.php">Familia Maqam Rast</a></h3>
+                        <h1>O Maqam Rast</h1>
+                        <h3>O maqam principal da Família do <a href="f_rast.php">Família do Maqam Rast</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/rast.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Rast</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/rast.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Rast</a>
                     </div>
 
 
@@ -44,20 +44,20 @@ include($ROOT . 'inc/head.php');
                         <img src="../note/maqam/rast.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Haz clic en cada nota y mantenga presionado para oírla.</p>
+                        <p class="clicknotes">Clique nas notas e mantenha pressionado o mouse para ouvi-las tocar.</p>
                     </div>
 
                     <map name="notemap">
 					  <area shape="circle" coords="65,137,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1"><!--tonic-->
-					  <area shape="circle" coords="141,129,13" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="141,129,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
 					  <area shape="circle" coords="218,121,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable-->
 					  <area shape="circle" coords="295,113,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
 					  <area shape="circle" coords="373,104,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="449,96,13" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
+					  <area shape="circle" coords="449,96,13" href="#" alt="Lá" class="playNote" data-frequency="440" data-parent="#notation1">
 					  <area shape="circle" coords="528,88,13" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!--var-->
 					  <area shape="circle" coords="605,80,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1"><!--tonic-->
 				      <area shape="circle" coords="682,88,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
-					  <area shape="circle" coords="758,96,13" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
+					  <area shape="circle" coords="758,96,13" href="#" alt="Lá" class="playNote" data-frequency="440" data-parent="#notation1">
 					  <area shape="circle" coords="836,104,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
                       <!-- Links -->
                       <area shape="rect" coords="160,6,273,37" href="../jins/rast.php" class="mapLink" data-parent="#notation1">
@@ -71,7 +71,7 @@ include($ROOT . 'inc/head.php');
                         Su escala comienza con la raíz <a href="../jins/rast.php">Jins Rast</a> en la tónica, seguida en el quinto grado por <a href="../jins/upper_rast.php">Jins Rast Alto</a> (con su tónica en el octavo grado) o <a href="../jins/nahawand.php">Jins Nahawand</a>.
                     </p>
 
-                    <p>Explora otros maqamat en la <a href="f_rast.php">Familia Maqam Rast</a>.</p>
+                    <p>Explore outros maqamat na <a href="f_rast.php">Família do Maqam Rast</a>.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -111,7 +111,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Ya ‘Udhayb al-Marshaf</b>
-                                    <span>Coro de la Universidad Kaslik (Líbano)</span>
+                                    <span>Coral da Universidad Kaslik (Líbano)</span>
                                     <span>Música de Sayed Darwish</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>

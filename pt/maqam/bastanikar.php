@@ -29,34 +29,34 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Bastanikar</h1>
-                        <h3>Un miembro de la <a href="f_sikah.php">Familia Maqam Sikah</a></h3>
+                        <h1>O Maqam Bastanikar</h1>
+                        <h3>Um membro da <a href="f_sikah.php">Família do Maqam Sikah</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/bastanikar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Bastanikar</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/bastanikar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Bastanikar</a>
                     </div>
 
                       <div class="notation" id="notation1">
                         <img src="/note/maqam/bastanikar.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Haz clic en cada nota y mantenga presionado para oírla.</p>
+                        <p class="clicknotes">Clique nas notas e mantenha pressionado o mouse para ouvi-las tocar.</p>
                     </div>
 
                     <map name="notemap">
 					  <area shape="circle" coords="85,147,13" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="243" data-parent="#notation1"><!-- variable -->
 					  <area shape="circle" coords="162,139,13" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
-					  <area shape="circle" coords="239,131,13" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="239,131,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
 					  <area shape="circle" coords="316,123,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable 318~324-->
 					  <area shape="circle" coords="394,114,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
 					  <area shape="circle" coords="470,106,13" href="#" alt="Sol♭" class="playNote" data-frequency="368" data-parent="#notation1"><!-- Hijaz 2- tuned up from 365.32 -->
-					  <area shape="circle" coords="548,98,13" href="#" alt="La♮" class="playNote" data-frequency="437" data-parent="#notation1"><!-- hijaz 3 tuned down from 440-->
+					  <area shape="circle" coords="548,98,13" href="#" alt="Lá♮" class="playNote" data-frequency="437" data-parent="#notation1"><!-- hijaz 3 tuned down from 440-->
 					  <area shape="circle" coords="625,90,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					  <area shape="circle" coords="702,82,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
-					  <area shape="circle" coords="781,74,13" href="#" alt="Re♭" class="playNote" data-frequency="548" data-parent="#notation1">
+					  <area shape="circle" coords="781,74,13" href="#" alt="Ré♭" class="playNote" data-frequency="548" data-parent="#notation1">
 					  <area shape="circle" coords="857,65,13" href="#" alt="Mi♮" class="playNote" data-frequency="660" data-parent="#notation1">
 					  <area shape="circle" coords="934,57,13" href="#" alt="Fa" class="playNote" data-frequency="695.3" data-parent="#notation1">
                        <!-- Links -->
@@ -67,10 +67,10 @@ include($ROOT . 'inc/head.php');
                     </map>
 
                     <p>
-                        Maqam Bastanikar es efectivamente <a href="../jins/sikah.php">Jins Sikah</a> seguido por <a href="saba.php">Maqam Saba</a>. Su escala comienza con la raíz <a href="../jins/sikah.php">Jins Sikah</a> en la tónica, luego <a href="../jins/saba.php">Jins Saba</a> en el tercer grado, una <a href="../jins/hijaz.php">Jins Hijaz</a> superpuesta en el quinto grado, y finalmente <a href="../jins/nikriz.php">Jins Nikriz</a> en la octava.
+                        O Maqam Bastanikar é basicamente o <a href="../jins/sikah.php">Jins Sikah</a> seguido pelo <a href="saba.php">Maqam Saba</a>. Sua escala começa com o Jins inicial <a href="../jins/sikah.php">Sikah</a> na tônica, depois <a href="../jins/saba.php">Jins Saba</a> no 3º grau, <a href="../jins/hijaz.php">Jins Hijaz</a> sobreposto no 5º grau e, finalmente, <a href="../jins/nikriz.php">Jins Nikriz</a> na oitava superior.
                     </p>
 
-                    <p>Explora otros maqamat en la <a href="f_sikah.php">Familia Maqam Sikah</a>.</p>
+                    <p>Explore outros maqamat na <a href="f_sikah.php">Família do Maqam Sikah</a>.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -123,8 +123,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Anshidi Ya Saba</b>
-                                    <span>Orquesta Nacional Árabe de Palestina</span>
-                                    <span>Director Ramzi Abu Radwan</span>
+                                    <span>Orquestra Nacional Árabe Palestina</span>
+                                    <span>Diretor: Ramzi Abu Radwan</span>
                                     <span>Música de Yehiya al-Sa‘udi</span>
                                 </div>
                             </label>
@@ -138,7 +138,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Aqbala al-Subhu Yughanni</b>
                                     <span>Conjunto Ornina (Siria)</span>
-                                    <span>Conductor Muhammad Qadri Dalal</span>
+                                    <span>Regente: Muhammad Qadri Dalal</span>
                                     <span>Música de Bakri al-Kurdi</span>
                                 </div>
                             </label>
@@ -152,7 +152,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Nara al-‘Iqda</b>
                                     <span>Ensemble Ornina (Siria)</span>
-                                    <span>Conductor Dr. Muhammad Qadri Dalal</span>
+                                    <span>Regente: Dr. Muhammad Qadri Dalal</span>
                                 </div>
                             </label>
                         </div>
@@ -164,7 +164,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Nuzhatu al-Arwahi Badri</b>
-                                    <span>(artista desconocido)</span>
+                                    <span>(músicos desconhecidos)</span>
                                 </div>
                             </label>
                         </div>
@@ -175,7 +175,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim de Oud en Maqam Bastanikar</b>
+                                    <b>Taqsim de Oud no Maqam Bastanikar</b>
                                     <span>Muhammad Qadri Dalal</span>
                                     <span><img src="/img/cd.png"> Maqamat Insolites</span>
                                 </div>

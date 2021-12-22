@@ -97,7 +97,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Wasla de Hasan al-Haffar</b>
-                                    <span>Gravação de Hasan al-Haffar de uma Wasla Muwashahat em <a href="../maqam/nahawand.php">Maqam Nahawand</a>, composta por ‘Umar al-Batsh.</span>
+                                    <span>Gravação de Hasan al-Haffar de uma Wasla Muwashahat em <a href="../maqam/nahawand.php">Maqam Nahawand</a>, composta por Omar al-Batsh.</span>
                                 </div>
                             </label>
                         </div>

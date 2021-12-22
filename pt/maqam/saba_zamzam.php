@@ -29,33 +29,33 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Saba Zamzam</h1>
+                        <h1>O Maqam Saba Zamzam</h1>
                         <h3>(no es miembro de una familia maqam)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/saba_zamzam.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Saba Zamzam</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/saba_zamzam.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Saba Zamzam</a>
                     </div>
 
                       <div class="notation" id="notation1">
                         <img src="/note/maqam/saba_zamzam.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Haz clic en cada nota y mantenga presionado para oírla.</p>
+                        <p class="clicknotes">Clique nas notas e mantenha pressionado o mouse para ouvi-las tocar.</p>
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="59,131,13" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1"><!--tonic-->
+					  <area shape="circle" coords="59,131,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1"><!--tonic-->
 					  <area shape="circle" coords="132,123,13" href="#" alt="Mi♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
 					  <area shape="circle" coords="209,114,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1"><!-- Hijaz tonic -->
 					  <area shape="circle" coords="288,107,13" href="#" alt="Sol♭" class="playNote" data-frequency="368" data-parent="#notation1"><!-- Hijaz 2nd tuned up from 365.32 -->
-					  <area shape="circle" coords="367,98,13" href="#" alt="La♮" class="playNote" data-frequency="437" data-parent="#notation1"><!-- Hijaz 3rd tuned down from 440-->
+					  <area shape="circle" coords="367,98,13" href="#" alt="Lá♮" class="playNote" data-frequency="437" data-parent="#notation1"><!-- Hijaz 3rd tuned down from 440-->
 					  <area shape="circle" coords="447,90,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					  <area shape="circle" coords="523,82,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
-					  <area shape="circle" coords="602,74,13" href="#" alt="Re♭" class="playNote" data-frequency="548" data-parent="#notation1">
-				      <area shape="circle" coords="653,74,13" href="#" alt="Re♮" class="playNote" data-frequency="586.66" data-parent="#notation1"><!-- Nikriz 3rd -->
+					  <area shape="circle" coords="602,74,13" href="#" alt="Ré♭" class="playNote" data-frequency="548" data-parent="#notation1">
+				      <area shape="circle" coords="653,74,13" href="#" alt="Ré♮" class="playNote" data-frequency="586.66" data-parent="#notation1"><!-- Nikriz 3rd -->
 					  <area shape="circle" coords="705,65,13" href="#" alt="Mi♮" class="playNote" data-frequency="660" data-parent="#notation1"><!-- Nikriz 4th -->
 					  <area shape="circle" coords="781,57,13" href="#" alt="Fa" class="playNote" data-frequency="695.31" data-parent="#notation1">
                       <!-- Links -->

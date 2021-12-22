@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Habbeit Gamalak</b>
                                     <span>Leila Murad</span>
-                                    <span>Música de Muhammad al-Qasabgi (Egito)</span>
+                                    <span>Música de Muhammad al-Qasabgi</span>
                                 </div>
                             </label>
                         </div>

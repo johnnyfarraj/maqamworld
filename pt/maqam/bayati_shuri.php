@@ -29,32 +29,32 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Bayati Shuri</h1>
-                        <h3>Un miembro de la <a href="f_bayati.php">Familia Maqam Bayati</a></h3>
+                        <h1>O Maqam Bayati Shuri</h1>
+                        <h3>Um membro da <a href="f_bayati.php">Família do Maqam Bayati</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/bayati_shuri.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Bayati Shuri</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/bayati_shuri.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Bayati Shuri</a>
                     </div>
 
                       <div class="notation" id="notation1">
                         <img src="/note/maqam/bayati_shuri.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Haz clic en cada nota y mantenga presionado para oírla.</p>
+                        <p class="clicknotes">Clique nas notas e mantenha pressionado o mouse para ouvi-las tocar.</p>
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="45,129,13" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="45,129,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
 					  <area shape="circle" coords="123,121,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!-- variable -->
 					  <area shape="circle" coords="199,113,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
 					  <area shape="circle" coords="278,105,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="354,96,13" href="#" alt="La♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- Hijaz 2 tuned up from 420 -->
+					  <area shape="circle" coords="354,96,13" href="#" alt="Lá♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- Hijaz 2 tuned up from 420 -->
 					  <area shape="circle" coords="431,88,13" href="#" alt="Si♮" class="playNote" data-frequency="492" data-parent="#notation1"><!-- Hijaz 3 tuned down from 495 -->
 					  <area shape="circle" coords="510,80,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
-					  <area shape="circle" coords="588,72,13" href="#" alt="Re" class="playNote" data-frequency="586.66" data-parent="#notation1">
+					  <area shape="circle" coords="588,72,13" href="#" alt="Ré" class="playNote" data-frequency="586.66" data-parent="#notation1">
                        <!-- Links -->
                       <area shape="rect" coords="96,11,226,40" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="336,11,455,40" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
@@ -62,13 +62,13 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        Maqam Bayati Shuri es una variación de <a href="bayati.php">Maqam Bayati</a> con un quinto grado bajado. Comienza con la raíz <a href="../jins/bayati.php">Jins Bayati</a> en la tónica seguida por <a href="../jins/hijaz.php">Jins Hijaz</a> en 4º grado.
+                        O Maqam Bayati Shuri é uma variação do <a href="bayati.php">Maqam Bayati</a> com um 5º grau abaixado. Começa com o Jins inicial <a href="../jins/bayati.php">Bayati</a> na tônica, seguido por <a href="../jins/hijaz.php">Jins Hijaz</a> no 4º grau.
                     </p>
                     <p>
-                        Es un <em>maqam</em> muy popular por derecho propio, especialmente en las <a href="../form/vocal_comp.php">composiciones vocales</a> de Muwashahat y Adwar.
+                        É um <em>maqam</em> muito popular por si só, especialmente nas <a href="../form/vocal_comp.php">composições vocais</a> Muwashahat e Adwar.
                     </p>
                     
-                    <p>Explora otros maqamat en la <a href="f_bayati.php">Familia Maqam Bayati</a>.</p>
+                    <p>Explore outros maqamat na <a href="f_bayati.php">Família do Maqam Bayati</a>.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Sama‘i Bayati Shuri</b>
-                                    <span>Nagham al-Ams Vol. 2 (Bayati Shuri)</span>
+                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 2 (Bayati Shuri)</span>
                                 </div>
                             </label>
                         </div>
@@ -93,8 +93,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim de Violin en Maqam Bayati Shuri</b>
-                                    <span>Nagham al-Ams Vol. 2 (Bayati Shuri)</span>
+                                    <b>Taqsim no Violino no Maqam Bayati Shuri</b>
+                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 2 (Bayati Shuri)</span>
                                 </div>
                             </label>
                         </div>
@@ -108,7 +108,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Muwashah Hibbi Da‘ani Lil-Wisal</b>
                                     <span>Sabah Fakhri</span>
                                     <span>Música de Sayed Darwish</span>
-                                    <span>Nagham al-Ams Vol. 2 (Bayati Shuri)</span>
+                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 2 (Bayati Shuri)</span>
                                 </div>
                             </label>
                         </div>
@@ -121,7 +121,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Talaffata al-Dhabiyu</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Nagham al-Ams Vol. 2 (Bayati Shuri)</span>
+                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 2 (Bayati Shuri)</span>
                                 </div>
                             </label>
                         </div>
@@ -133,7 +133,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Dawr Daya‘ti Mustaqbal Hayati</b>
-                                    <span>Música y Voz por Sayed Darwish</span>
+                                    <span>Música y Voz de Sayed Darwish</span>
                                 </div>
                             </label>
                         </div>
@@ -146,6 +146,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Qadd Ah Ya Hilu</b>
                                     <span>Nay Barghouti</span>
+                                    <span>(sírio tradicional)</span>
                                 </div>
                             </label>
                         </div>
@@ -158,6 +159,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Qadd Habibi Ghab</b>
                                     <span>Muhammad Khayri</span>
+                                    <span>(sírio tradicional)</span>
                                 </div>
                             </label>
                         </div>
@@ -170,7 +172,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Taqsim de Qanun en Maqam Bayati Shuri</b>
                                     <span>Marie Jubran</span>
-                                    <span>Wasla en Maqam Bayati Shuri</span>
+                                    <span>Wasla em Maqam Bayati Shuri</span>
                                 </div>
                             </label>
                         </div>

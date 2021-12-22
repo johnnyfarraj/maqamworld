@@ -29,14 +29,14 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Maqam Hijaz</h1>
-                        <h3>El principal <em>maqam</em> en la <a href="f_hijaz.php">Familia Maqam Hijaz</a></h3>
+                        <h1>O Maqam Hijaz</h1>
+                        <h3>O maqam principal da Família do <a href="f_hijaz.php">Família do Maqam Hijaz</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/hijaz.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronunciación de Hijaz</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/hijaz.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Hijaz</a>
                     </div>
 
 
@@ -44,23 +44,23 @@ include($ROOT . 'inc/head.php');
                         <img src="/note/maqam/hijaz.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
                         <a class="linkArea"></a>
-                        <p class="clicknotes">Haz clic en cada nota y mantenga presionado para oírla.</p>
+                        <p class="clicknotes">Clique nas notas e mantenha pressionado o mouse para ouvi-las tocar.</p>
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="59,128,13" href="#" alt="Re" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="59,128,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
 					  <area shape="circle" coords="137,120,13" href="#" alt="Mi♭" class="playNote" data-frequency="315" data-parent="#notation1"><!-- Hijaz 2 -->
 					  <area shape="circle" coords="214,112,13" href="#" alt="Fa♯" class="playNote" data-frequency="375" data-parent="#notation1"><!-- Hijaz 3 -->
 					  <area shape="circle" coords="292,104,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="369,95,13" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
+					  <area shape="circle" coords="369,95,13" href="#" alt="Lá" class="playNote" data-frequency="440" data-parent="#notation1">
 					  <area shape="circle" coords="445,88,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					  <area shape="circle" coords="524,78,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
-					  <area shape="circle" coords="601,70,13" href="#" alt="Re" class="playNote" data-frequency="586.66" data-parent="#notation1">
+					  <area shape="circle" coords="601,70,13" href="#" alt="Ré" class="playNote" data-frequency="586.66" data-parent="#notation1">
 				      <area shape="circle" coords="677,104,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="754,95,13" href="#" alt="La" class="playNote" data-frequency="440" data-parent="#notation1">
+					  <area shape="circle" coords="754,95,13" href="#" alt="Lá" class="playNote" data-frequency="440" data-parent="#notation1">
 					  <area shape="circle" coords="833,87,13" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!--var-->
                       <area shape="circle" coords="909,78,13" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
-                      <area shape="circle" coords="987,70,13" href="#" alt="Re" class="playNote" data-frequency="586.66" data-parent="#notation1">
+                      <area shape="circle" coords="987,70,13" href="#" alt="Ré" class="playNote" data-frequency="586.66" data-parent="#notation1">
                        <!-- Links -->
                       <area shape="rect" coords="118,5,236,36" href="../jins/hijaz.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="354,5,530,36" href="../jins/nahawand.php" class="mapLink" data-parent="#notation1">
@@ -68,10 +68,10 @@ include($ROOT . 'inc/head.php');
 				     </map>
 
                     <p>
-                       Maqam Hijaz es el principal <em>maqam</em> en la familia Hijaz. Su escala comienza con la raíz <a href="../jins/hijaz.php">Jins Hijaz</a> en la tónica seguida de <a href="../jins/nahawand.php">Jins Nahawand</a> o <a href="../jins/rast.php">Jins Rast</a> en 4º grado.
+                       O Maqam Hijaz é o maqam principal da família Hijaz. Sua escala começa com o Jins inicial <a href="../jins/hijaz.php">Hijaz</a> na tônica, seguido pelo <a href="../jins/nahawand.php">Jins Nahawand</a> ou pelo <a href="../jins/rast.php">Jins Rast</a> no 4º grau.
                     </p>
 
-                    <p>Explora otros maqamat en la <a href="f_hijaz.php">Familia Maqam Hijaz</a>.</p>
+                    <p>Explore outros maqamat na <a href="f_hijaz.php">Família do Maqam Hijaz</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -98,7 +98,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Badri Adir</b>
-                                    <span>Coro de la Universidad Kaslik (Líbano)</span>
+                                    <span>Coral da Universidad Kaslik (Líbano)</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>
                             </label>
@@ -111,7 +111,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Mudnaka Gafahu Marqaduhu (1938)</b>
-                                    <span>Voz y música por Muhammad Abdel Wahab</span>
+                                    <span>Voz e música por Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
@@ -123,7 +123,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Hibbina (1975)</b>
-                                    <span>Voz y música por Farid al-Atrash</span>
+                                    <span>Voz e música por Farid al-Atrash</span>
                                 </div>
                             </label>
                         </div>
@@ -135,8 +135,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Foug el-Nakhal</b>
-                                    <span>Munir y Omar Bashir</span>
-                                    <span>(tradicional de Iraq)</span>
+                                    <span>Munir e Omar Bashir</span>
+                                    <span>(tradicional do Iraque)</span>
                                 </div>
                             </label>
                         </div>
@@ -162,7 +162,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Qadduka al-Mayas</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Nagham al-Ams Vol. 14 Hijaz</span>
+                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 14 Hijaz</span>
                                 </div>
                             </label>
                         </div>
@@ -188,7 +188,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dulab y Taqsim de Nay en Maqam Hijaz</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>Nagham al-Ams Vol. 14 Hijaz</span>
+                                    <span><img src="/img/cd.png"> Nagham al-Ams Vol. 14 Hijaz</span>
                                 </div>
                             </label>
                         </div>
