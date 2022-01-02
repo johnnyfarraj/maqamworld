@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
 	               </map>
 
                     <p>
-                        Maqam 'Irak es un miembro poco común de la <a href="f_sikah.php">familia Sikah</a>, aunque es más común como modulación en el nombre de <a href="huzam.php">Maqam Huzam</a>. Su escala comienza con la raíz <a href="../jins/sikah.php">Jins Sikah</a> en la tónica de Si<i class="icon-halfflat"></i>, seguida por <a href="../jins/bayati.php">Jins Bayati</a> en el 3er grado y luego en <a href="../jins/rast.php">Jins Rast</a> en el 6º grado.
+                        O Maqam ‘Iraq é um raro membro da <a href="f_sikah.php">Familia Sikah</a>, mas é mais comum enquanto modulação no sayr do <a href="huzam.php">Maqam Huzam</a>. Sua escala começa com o Jins inicial <a href="../jins/sikah.php">Sikah</a> na tônica Si<i class="icon-halfflat"></i>, seguido pelo <a href="../jins/bayati.php">Jins Bayati</a> no 3º grau, e então pelo <a href="../jins/rast.php">Jins Rast</a> no 6º grau.
                     </p>
                     <p>Explore outros maqamat na <a href="f_sikah.php">Família do Maqam Sikah</a>.</p>
 
@@ -91,8 +91,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Jalla Man Ansha Jamalak</b>
-                                    <span>Conjunto Ornina (Siria)</span>
-                                    <span>Regente: Muhammad Qadri Dalal</span>
+                                    <span>Conjunto Ornina (Síria)</span>
+                                    <span>Regente: Dr. Muhammad Qadri Dalal</span>
                                 </div>
                             </label>
                         </div>

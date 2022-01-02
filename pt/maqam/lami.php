@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>O Maqam Lami</h1>
-                        <h3>(no es miembro de una familia maqam)</h3>
+                        <h3>(não pertence a nenhuma família de maqamat)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <div class="clearfix"></div>
@@ -60,9 +60,9 @@ include($ROOT . 'inc/head.php');
 				     </map>
 
                     <p>
-                        Maqam Lami es un <em>maqam</em> poco usado en el Medio Oriente y fue tomado del repertorio iraquí. Su escala comienza con <a href="../jins/lami.php">Jins Lami</a> en la tónica, seguido por <a href="../jins/kurd.php">Jins Kurd</a> en 4to grado.
+                        O Maqam Lami é um <em>maqam</em> raro no Oriente Médio, e foi emprestado do repertório iraquiano. Sua escala começa com o <a href="../jins/lami.php">Jins Lami</a> na tônica, seguido pelo <a href="../jins/kurd.php">Jins Kurd</a> no 4º grau.
                     </p>
-                    <p>Maqam Lami no es miembro de una familia maqam.</p>
+                    <p>Maqam Lami não pertence a nenhuma família de maqamat.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -76,7 +76,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>el-Bortoqal (1938)</b>
-                                    <span>Vocais de Ra'isa ‘Afifi y Muhammad Abdel Wahab</span>
+                                    <span>Vocais de Ra'isa ‘Afifi e Muhammad Abdel Wahab</span>
                                     <span>Música de Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
@@ -90,7 +90,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Tislam Idein Elli-shtara (c. 1960)</b>
                                     <span>Vocais de Muhammad Abdel Muttalib</span>
-                                    <span>Música de Mahmud Kamel (Egipto)</span>
+                                    <span>Música de Mahmud Kamel (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -141,7 +141,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Gulli Ya Hilu</b>
                                     <span>Nazem al-Ghazali</span>
-                                    <span>(Tradicional de Iraq)</span>
+                                    <span>(Tradicional do Iraque)</span>
                                 </div>
                             </label>
                         </div>

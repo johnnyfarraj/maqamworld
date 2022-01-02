@@ -98,7 +98,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Badri Adir</b>
-                                    <span>Coral da Universidad Kaslik (Líbano)</span>
+                                    <span>Coral da Universidade Kaslik (Líbano)</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>
                             </label>
@@ -186,7 +186,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dulab y Taqsim de Nay en Maqam Hijaz</b>
+                                    <b>Dulab e Taqsim de Nay en Maqam Hijaz</b>
                                     <span>Sabah Fakhri</span>
                                     <span><img src="/img/cd.png"> Nagham al-Ams Vol. 14 Hijaz</span>
                                 </div>

@@ -62,7 +62,7 @@ include($ROOT . 'inc/head.php');
 				     </map>
 
                     <p>
-                        Maqam Kurd es el principal <em>maqam</em> en la Familia Kurd. Su escala comienza con la raíz <a href="../jins/kurd.php">Jins Kurd</a> en la tónica, seguida de <a href="../jins/nahawand.php">Jins Nahawand</a> en el cuarto grado.
+                        O Maqam Kurd é o principal maqam da família Kurd. Sua escala começa com o Jins inicial <a href="../jins/kurd.php">Kurd</a> na tônica, seguido pelo <a href="../jins/nahawand.php">Jins Nahawand</a> no 4º grau.
                     </p>
 
                     <p>Explore outros maqamat na <a href="f_kurd.php">Família do Maqam Kurd</a>.</p>
@@ -159,7 +159,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sanatein</b>
-                                    <span>Leila Mourad</span>
+                                    <span>Leila Murad</span>
                                     <span>Música de Ra'uf Dhihni</span>
                                 </div>
                             </label>

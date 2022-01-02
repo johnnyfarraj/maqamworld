@@ -144,7 +144,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Sama‘i Nawa Athar</b>
                                     <span>El conjunto sirio de Homs</span>
-                                    <span>Música de Jamil ‘Uways (Siria)</span>
+                                    <span>Música de Jamil ‘Uways (Síria)</span>
                                 </div>
                             </label>
                         </div>

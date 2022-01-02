@@ -139,7 +139,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Imlali al-Aqdaha Sirfan</b>
                                     <span>Sabah Fakhri</span>
-                                    <span>(Tradicional de Siria)</span>
+                                    <span>(Tradicional de Síria)</span>
                                 </div>
                             </label>
                         </div>

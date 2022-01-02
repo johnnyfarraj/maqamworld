@@ -67,10 +67,10 @@ include($ROOT . 'inc/head.php');
                     </map>
 
                     <p>
-                        Maqam Huzam es, por mucho, el <em>maqam</em> más común en la familia Sikah, y comienza en Mi<i class="icon-halfflat"></i>. Su escala comienza con la raíz <a href="../jins/sikah.php">Jins Sikah</a> en la tónica, seguida de <a href="../jins/hijaz.php">Jins Hijaz</a> en 4º grado y luego en <a href="../jins/rast.php">Jins Rast</a> en 6º grado.
+                        O Maqam Huzam é certamente o <em>maqam</em> mais comum na família Sikah, e começa no Mi<i class="icon-halfflat"></i>. Sua escala começa com o Jins inicial <a href="../jins/sikah.php">Sikah</a> na tônica, seguido pelo <a href="../jins/hijaz.php">Jins Hijaz</a> no 3º grau e então o <a href="../jins/rast.php">Jins Rast</a> no 6º grau.
                     </p>
                     <p>
-                        La transposición de Maqam Huzam a Si<i class="icon-halfflat"></i> tiene su propio nombre: <strong>Maqam Rahat al-Arwah</strong>. Ambos maqamat tienen exactamente el mismo <em>sayr</em>.
+                        A transposição do Maqam Huzam para Si<i class="icon-halfflat"></i> tem um nome próprio: <strong>Maqam Rahat al-Arwah</strong>. Ambos os maqamat têm exatamente o mesmo <em>sayr</em>.
                     </p>
 
                     <p>Explore outros maqamat na <a href="f_sikah.php">Família do Maqam Sikah</a>.</p>
@@ -88,7 +88,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Ya Ghusna Naqa</b>
                                     <span>(Maqam Huzam)</span>
-                                    <span>Firqat al-Musiqa al-Arabiya (Egipto)</span>
+                                    <span>Firqat al-Musiqa al-Arabiya (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -102,7 +102,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Muwashah Ayuha al-Saqi</b>
                                     <span>Sabah Fakhri</span>
                                     <span>Música de Majdi al-‘Aqili</span>
-                                    <span>Nagham Al Ams Vol. 13 Huzam</span>
+                                    <span>Nagham Al Ams Vol. 13 (Maqam Huzam)</span>
                                 </div>
                             </label>
                         </div>
@@ -136,7 +136,7 @@ include($ROOT . 'inc/head.php');
 
                     <!-- Start Rahat al-Arwah section -->
                     <div class="heading jins text-center">
-                        <h3>Ejemplos en Maqam Rahat al-Arwah</h3>
+                        <h3>Exemplos do Maqam Rahat al-Arwah</h3>
                     </div>
                     <div class="clearfix"></div>
 
@@ -173,7 +173,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dawr Inta Fahim</b>
                                     <span>(Maqam Rahat al-Arwah)</span>
-                                    <span>Música y Vocais de Zakariya Ahmad</span>
+                                    <span>Música e Vocais de Zakariya Ahmad</span>
                                 </div>
                             </label>
                         </div>

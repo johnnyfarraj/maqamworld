@@ -62,7 +62,7 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        Maqam Zanjaran es una variante de <a href="hijaz.php">Maqam Hijaz</a> con <a href="../jins/ajam.php">Jins ‘Ajam</a> como segundo <em>jins</em> (en el cuarto grado) y la raíz <a href="../jins/hijaz.php">Jins Hijaz</a> en la tónica.
+                        Maqam Zanjaran es una variante de <a href="hijaz.php">Maqam Hijaz</a> con <a href="../jins/ajam.php">Jins ‘Ajam</a> como segundo <em>jins</em> (en el cuarto grado) e la raíz <a href="../jins/hijaz.php">Jins Hijaz</a> en la tónica.
                     </p>
 
                     <p>Explore outros maqamat na <a href="f_hijaz.php">Família do Maqam Hijaz</a>.</p>

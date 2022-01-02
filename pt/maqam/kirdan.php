@@ -67,10 +67,10 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        Maqam Kirdan es una versión de <a href="rast.php">Maqam Rast</a> cuyo <em>sayr</em> comienza en la octava y finalmente desciende a la tónica. Su escala comienza en la parte inferior con la raíz <a href="../jins/rast.php">Jins Rast</a> en la tónica, seguida de <a href="../jins/upper_rast.php">Jins Rast Alto</a> en el quinto grado (con su tónica en el 8º grado).
+                        O Maqam Kirdan é uma versão do <a href="rast.php">Maqam Rast</a> em que o sayr começa na oitava e por fim desce para a tônica. Sua escala começa na parte inferior com o Jins inicial <a href="../jins/rast.php">Rast</a> na tônica, seguido pelo <a href="../jins/upper_rast.php">Jins Superior Rast</a> no 5º grau (com sua tônica acima no 8º grau).
                     </p>
                     <p>
-                        <strong>Maqam Sazkar</strong> es casi idéntico a Maqam Kirdan, excepto por la prominencia del segundo grado elevado que se produce en algunos pasajes melódicos, lo que resulta en <a href="../jins/sazkar.php">Jins Sazkar</a> en la tónica.
+                        O <strong>Maqam Sazkar</strong> é quase idêntico ao Maqam Kirdan, exceto pela proeminência do 2º grau aumentado que acontece em algumas passagens melódicas, que resultam no <a href="../jins/sazkar.php">Jins Sazkar</a> na tônica.
                     </p>
 
                     <p>Explore outros maqamat na <a href="f_rast.php">Família do Maqam Rast</a>.</p>
@@ -87,7 +87,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Sihtu Wajdan</b>
-                                    <span>Coral da Universidad Kaslik (Líbano)</span>
+                                    <span>Coral da Universidade Kaslik (Líbano)</span>
                                     <span>Música de Sayed Darwish</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>

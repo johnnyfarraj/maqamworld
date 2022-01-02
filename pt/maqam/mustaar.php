@@ -39,8 +39,6 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/mustaar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Musta‘ar</a>
                     </div>
 
-                   
-                    
                      <div class="notation" id="notation1">
                         <img src="/note/maqam/mustaar.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
@@ -64,9 +62,8 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        Maqam Musta’ar es extremadamente raro como un <em>maqam</em> independiente, pero más común como jins, o como una <em>sayr</em> parcial dentro de <a href="huzam.php">Maqam Huzam</a> y <a href="sikah.php">Maqam Sikah</a>. Su escala comienza con <a href="../jins/mustaar.php">Jins Musta‘ar</a> en la tónica, seguido de <a href="../jins/nahawand.php">Jins Nahawand</a> en el tercer grado, y <a href="../jins/rast.php">Jins Rast</a> en el sexto grado.
+                        O Maqam Musta‘ar é extremamente raro enquanto <em>maqam</em> independente, mas mais comum como um jins, ou como um <em>sayr</em> parcial dentro do <a href="huzam.php">Maqam Huzam</a> e do <a href="sikah.php">Maqam Sikah</a>. Sua escala começa com o <a href="../jins/mustaar.php">Jins Musta‘ar</a> na tônica, seguido pelo <a href="../jins/nahawand.php">Jins Nahawand</a> no 3º grau, e pelo <a href="../jins/rast.php">Jins Rast</a> no 6º grau.
                     </p>
-
                     <p>Explore outros maqamat na <a href="f_sikah.php">Família do Maqam Sikah</a>.</p>
 
                     <div class="player-area">
@@ -81,7 +78,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Aktiblak Gawabat</b>
-                                    <span>Leila Mourad</span>
+                                    <span>Leila Murad</span>
                                     <span>Música de Muhammad al-Mugi</span>
                                 </div>
                             </label>

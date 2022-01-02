@@ -111,7 +111,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Ya ‘Udhayb al-Marshaf</b>
-                                    <span>Coral da Universidad Kaslik (Líbano)</span>
+                                    <span>Coral da Universidade Kaslik (Líbano)</span>
                                     <span>Música de Sayed Darwish</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>
@@ -187,7 +187,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Sama‘i Rast George Michel (Egipto)</b>
+                                    <b>Sama‘i Rast George Michel (Egito)</b>
                                     <span>Conjunto Al-Kindi</span>
                                     <span><img src="/img/cd.png"> The Aleppian Music Room Vol. 2 (Rast)</span>
                                 </div>

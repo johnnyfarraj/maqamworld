@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                         Maqam Nairuz comienza con la raíz <a href="../jins/rast.php">Jins Rast</a> en el tónico, seguido de <a href="../jins/bayati.php">Jins Bayati</a> en el quinto grado.
                     </p>
                     <p>
-                        Maqam Nairuz es bastante raro por sí mismo, pero es prominente <em>sayr</em> dentro de <a href="suznak.php">Maqam Suznak</a>/<a href="rast.php">Maqam Rast</a>, debido a la afinidad entre <a href="../jins/bayati.php">Jins Bayati</a> y <a href="../jins/hijaz.php">Jins Hijaz</a> en el quinto grado.
+                        Maqam Nairuz es bastante raro por sí mismo, pero es prominente <em>sayr</em> dentro de <a href="suznak.php">Maqam Suznak</a>/<a href="rast.php">Maqam Rast</a>, debido a la afinidad entre <a href="../jins/bayati.php">Jins Bayati</a> e <a href="../jins/hijaz.php">Jins Hijaz</a> en el quinto grado.
                     </p>
                     
                     <p>
@@ -90,7 +90,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Ya Hilalan</b>
-                                    <span>Firqat al-Musiqa al-Arabiya (Egipto)</span>
+                                    <span>Firqat al-Musiqa al-Arabiya (Egito)</span>
                                 </div>
                             </label>
                         </div>

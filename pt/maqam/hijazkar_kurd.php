@@ -65,7 +65,7 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        Maqam Hijazkar Kurd es una versión arcaica de <a href="kurd.php">Maqam Kurd</a> con <a href="../jins/hijazkar.php">Jins Hijazkar</a> en la octava. Su escala comienza con la raíz <a href="../jins/kurd.php">Jins Kurd</a> en la tónica seguida por <a href="../jins/nahawand.php">Jins Nahawand</a> en el cuarto grado.
+                        O Maqam Hijazkar Kurd é uma versão arcaica do <a href="kurd.php">Maqam Kurd</a> com o <a href="../jins/hijazkar.php">Jins Hijazkar</a> na oitava. Sua escala começa com o Jins inicial <a href="../jins/kurd.php">Kurd</a> na tônica, seguido pelo <a href="../jins/nahawand.php">Jins Nahawand</a> no 4º grau.
                     </p>
 
                     <p>Explore outros maqamat na <a href="f_kurd.php">Família do Maqam Kurd</a>.</p>
@@ -82,7 +82,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
                                     <b>Muwashah Tif Ya Durri</b>
-                                    <span>Coral da Universidad Kaslik (Líbano)</span>
+                                    <span>Coral da Universidade Kaslik (Líbano)</span>
                                     <span>Música de Sayed Darwish/Omar al-Batsh</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>
@@ -96,7 +96,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Hibbi Zurni Ma Tayassar</b>
-                                    <span>Coral da Universidad Kaslik (Líbano)</span>
+                                    <span>Coral da Universidade Kaslik (Líbano)</span>
                                     <span>Música de Darwish al-Hariri</span>
                                     <span><img src="/img/cd.png"> Orientalia: Muwashah and Song series</span>
                                 </div>

@@ -64,7 +64,7 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        Maqam Husayni no es muy común como un <em>maqam</em> independiente en la tradición árabe, aunque su <em>sayr</em> (que enfatiza el grado de la quinta escala como una nota de tensión que se resuelve hasta el cuarto grado) es obligatoria dentro de <a href="bayati.php">Maqam Bayati</a>. En la música popular de la región más amplia, esta es en realidad la variante más común de Bayati, cuya escala comienza con la raíz <a href="../jins/bayati.php">Jins Bayati</a> en la tónica.
+                        O Maqam Husayni não é muito comum enquanto <em>maqam</em> independente na tradição árabe, apesar de seu <em>sayr</em> (com ênfase no 5º grau enquanto nota de tensão, resolvendo-se no 4º grau) ser obrigatório dentro do <a href="bayati.php">Maqam Bayati</a>. Na música folclórica da região mais ampla, esta é na verdade a variante mais comum do Bayati, com sua escala começando com o Jins inicial <a href="../jins/bayati.php">Bayati</a> na tônica.
                     </p>
                     <p>Explore outros maqamat na <a href="f_bayati.php">Família do Maqam Bayati</a>.</p>
 
@@ -118,7 +118,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Nura Nura (1953)</b>
-                                    <span>Música y Vocais de Farid al-Atrash</span>
+                                    <span>Música e Vocais de Farid al-Atrash</span>
                                 </div>
                             </label>
                         </div>
@@ -130,7 +130,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Bayati Ibrahim al-‘Aryan (Khana 2)</b>
-                                    <span>Conjunto Salah ‘Arram (Egipto)</span>
+                                    <span>Conjunto Salah ‘Arram (Egito)</span>
                                 </div>
                             </label>
                         </div>

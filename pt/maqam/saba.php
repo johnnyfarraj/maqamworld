@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>O Maqam Saba</h1>
-                        <h3>(no es miembro de una familia maqam)</h3>
+                        <h3>(não pertence a nenhuma família de maqamat)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <div class="clearfix"></div>
@@ -68,10 +68,10 @@ include($ROOT . 'inc/head.php');
 
 					</map>
                     <p>
-                        Maqam Saba es un <em>maqam</em> muy popular y común en el repertorio árabe. Su escala comienza con <a href="../jins/saba.php">Jins Saba</a> en la tónica, superpuesta por <a href="../jins/hijaz.php">Jins Hijaz</a> en el 3er grado, seguida de <a href="../jins/ajam.php">Jins ‘Ajam</a> o <a href="../jins/nikriz.php">Jins Nikriz</a> en el 6º grado.
+                        Maqam Saba es un <em>maqam</em> muy popular e común en el repertorio árabe. Su escala comienza con <a href="../jins/saba.php">Jins Saba</a> en la tónica, superpuesta por <a href="../jins/hijaz.php">Jins Hijaz</a> en el 3er grado, seguida de <a href="../jins/ajam.php">Jins ‘Ajam</a> o <a href="../jins/nikriz.php">Jins Nikriz</a> en el 6º grado.
                     </p>
 
-                    <p>Maqam Saba no es miembro de una familia maqam.</p>
+                    <p>Maqam Saba não pertence a nenhuma família de maqamat.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -84,7 +84,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dulab, Taqsim de Nay y Layai en Maqam Saba</b>
+                                    <b>Dulab, Taqsim de Nay e Layai en Maqam Saba</b>
                                     <span>Sabri al-Mudallal</span>
                                 </div>
                             </label>

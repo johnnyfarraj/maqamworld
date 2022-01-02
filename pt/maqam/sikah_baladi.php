@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>O Maqam Sikah Baladi</h1>
-                        <h3>(no es miembro de una familia maqam)</h3>
+                        <h3>(não pertence a nenhuma família de maqamat)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <div class="clearfix"></div>
@@ -67,10 +67,10 @@ include($ROOT . 'inc/head.php');
                       </map>
 
                     <p>
-                        Maqam Sikah Baladi es posiblemente el <em>maqam</em> árabe más desafiante. Su escala (y <em>sayr</em>) es una especie de híbrido entre una transposición de <a href="huzam.php">Maqam Huzam</a> a una nota ordinaria que no es de Sikah, y <a href="hijazkar.php">Maqam Hijazkar</a>: los intervalos no son exactamente iguales a ninguno de los dos, pero suena un poco a ambos. Ninguno de sus intervalos coincide con una entonación justa o igual, lo que hace imposible reproducir en otra cosa que no sea la voz y los <a href="../instr.php">instrumentos árabes tradicionales</a>.
+                        Maqam Sikah Baladi es posiblemente el <em>maqam</em> árabe más desafiante. Su escala (y <em>sayr</em>) es una especie de híbrido entre una transposición de <a href="huzam.php">Maqam Huzam</a> a una nota ordinaria que no es de Sikah, e <a href="hijazkar.php">Maqam Hijazkar</a>: los intervalos no son exactamente iguales a ninguno de los dos, pero suena un poco a ambos. Ninguno de sus intervalos coincide con una entonación justa o igual, lo que hace imposible reproducir en otra cosa que no sea la voz e los <a href="../instr.php">instrumentos árabes tradicionales</a>.
                     </p>
                     
-                    <p>Maqam Sikah Baladi no es miembro de una familia maqam.</p>
+                    <p>Maqam Sikah Baladi não pertence a nenhuma família de maqamat.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>

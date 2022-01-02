@@ -62,7 +62,7 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        Maqam Mahur comienza con la raíz <a href="../jins/rast.php">Jins Rast</a> en el tónico, seguido de <a href="../jins/upper_ajam.php">Jins ‘Ajam Alto</a> en el quinto grado (con su tónico en el octavo grado).
+                        O Maqam Mahur começa com o Jins inicial <a href="../jins/rast.php">Rast</a> na tônica, seguido pelo <a href="../jins/upper_ajam.php">Jins Superior ‘Ajam</a> no 5º grau (com sua tônica acima no 8º grau).
                     </p>
 
                     <p>Explore outros maqamat na <a href="f_rast.php">Família do Maqam Rast</a>.</p>
@@ -78,7 +78,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Hayar al-Afkar Badri</b>
+                                    <b>Muwashah Hayyar al-Afkar Badri</b>
                                     <span>Sheikh Sayed al-Safti</span>
                                 </div>
                             </label>

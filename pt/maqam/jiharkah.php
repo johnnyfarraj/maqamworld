@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>O Maqam Jiharkah</h1>
-                        <h3>(no es miembro de una familia maqam)</h3>
+                        <h3>(não pertence a nenhuma família de maqamat)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <div class="clearfix"></div>
@@ -63,10 +63,10 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        Maqam Jiharkah es un <em>maqam</em> que suena algo raro dado que que comienza con <a href="../jins/jiharkah.php">Jins Jiharkah</a> en el tónico, luego en el <a href="../jins/upper_rast.php">Jins Rast Alto</a> en el 5º grado (con su tónica en el 8º grado).
+                        O Maqam Jiharkah é um <em>maqam</em> relativamente raro que começa com o <a href="../jins/jiharkah.php">Jins Jiharkah</a> na tônica, seguido pelo <a href="../jins/upper_rast.php">Jins Superior Rast</a> no 5º grau (com sua tônica acima no 8º grau).
                     </p>
                     
-                    <p>Maqam Jiharkah no es miembro de una familia maqam.</p>
+                    <p>Maqam Jiharkah não pertence a nenhuma família de maqamat.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
