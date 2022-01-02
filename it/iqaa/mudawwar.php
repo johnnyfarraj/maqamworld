@@ -64,7 +64,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Muwashah Adhkuru al-Hubba</b>
+                                    <b>Muwashah Adhkuru al-Hibba</b>
                                     <span>L'orchestra Abdel Halim Nouera</span>
                                     <span>Musica di Dawud Husni</span>
                                 </div>

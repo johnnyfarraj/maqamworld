@@ -66,7 +66,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Mouachah Adhkourou al-Houbba</b>
+                                    <b>Mouachah Adhkourou al-Hibba</b>
                                     <span>Ensemble Abdel Halim Nouéra (Égypte)</span>
                                     <span>Musique de Daoud Housni</span>
                                 </div>

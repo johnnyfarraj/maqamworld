@@ -158,7 +158,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Lah Tilaw‘ini (1938)</b>
+                                    <b>Leh Tilaw‘ini (1938)</b>
                                     <span>Oum Koulthoum (Égypte)</span>
                                     <span>Musique de Mouhammad al-Qasabgi</span>
                                 </div>

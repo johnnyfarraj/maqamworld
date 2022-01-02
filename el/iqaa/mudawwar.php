@@ -66,7 +66,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1" >
                                 <div class="info">
-                                    <b>Μουάσαχ Άδκουρου αλ-Χούμπα</b>
+                                    <b>Μουάσαχ Άδκουρου αλ-Χίμπα</b>
                                     <span>Μουσικό Σύνολο Αμπντέλ Χαλίμ Νουέϊρα</span>
                                     <span>Μουσική Νταούντ Χόσνι</span>
                                 </div>

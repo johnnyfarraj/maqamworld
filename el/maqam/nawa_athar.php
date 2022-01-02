@@ -130,7 +130,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Μουάσαχ Άδκουρου αλ-Χούμπα</b>
+                                    <b>Μουάσαχ Άδκουρου αλ-Χίμπα</b>
                                     <span>Μουσικό Σύνολο Αμπντέλ Χαλίμ Νουέϊρα</span>
                                     <span>Μουσική Νταούντ Χόσνι</span>
                                 </div>
@@ -158,7 +158,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Ντουλάμπ Νάουα Άθαρ</b>
                                     <span>Τζορτζ Άμπιαντ</span>
-                                    <span><img src="/img/cd.png"> Impovisations Orientales</span>
+                                    <span><img src="/img/cd.png"> Improvisations Orientales</span>
                                 </div>
                             </label>
                         </div>
