@@ -39,7 +39,6 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/zanjaran.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Zanjaran</a>
                     </div>
 
-
                      <div class="notation" id="notation1">
                         <img src="/note/maqam/zanjaran.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
@@ -62,7 +61,7 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        Maqam Zanjaran es una variante de <a href="hijaz.php">Maqam Hijaz</a> con <a href="../jins/ajam.php">Jins ‘Ajam</a> como segundo <em>jins</em> (en el cuarto grado) e la raíz <a href="../jins/hijaz.php">Jins Hijaz</a> en la tónica.
+                        O Maqam Zanjaran é uma variante do <a href="hijaz.php">Maqam Hijaz</a>, com <a href="../jins/ajam.php">Jins ‘Ajam</a> como segundo Jins (no 4º  grau) e o Jins inicial <a href="../jins/hijaz.php">Hijaz</a> na tônica.
                     </p>
 
                     <p>Explore outros maqamat na <a href="f_hijaz.php">Família do Maqam Hijaz</a>.</p>
@@ -168,7 +167,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim de Qanun en Maqam Zanjaran</b>
+                                    <b>Taqsim de Qanun em Maqam Zanjaran</b>
                                     <span>Abraham Salman</span>
                                     <span><img src="/img/cd.png"> Saltanah</span>
                                 </div>
@@ -181,7 +180,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim de Buzuq en Maqam Zanjaran</b>
+                                    <b>Taqsim de Buzuq em Maqam Zanjaran</b>
                                     <span>Muhammad Abdel Karim</span>
                                 </div>
                             </label>

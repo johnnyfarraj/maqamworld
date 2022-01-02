@@ -39,8 +39,6 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/saba.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Saba</a>
                     </div>
 
-
-
                       <div class="notation" id="notation1">
                         <img src="/note/maqam/saba.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
@@ -68,10 +66,10 @@ include($ROOT . 'inc/head.php');
 
 					</map>
                     <p>
-                        Maqam Saba es un <em>maqam</em> muy popular e común en el repertorio árabe. Su escala comienza con <a href="../jins/saba.php">Jins Saba</a> en la tónica, superpuesta por <a href="../jins/hijaz.php">Jins Hijaz</a> en el 3er grado, seguida de <a href="../jins/ajam.php">Jins ‘Ajam</a> o <a href="../jins/nikriz.php">Jins Nikriz</a> en el 6º grado.
+                        O Maqam Saba é um <em>maqam</em> muito popular e comum no repertório árabe. Sua escala começa com o <a href="../jins/saba.php">Jins Saba</a> na tônica, sobreposto pelo <a href="../jins/hijaz.php">Jins Hijaz</a> no 3º grau, seguido ou pelo <a href="../jins/ajam.php">Jins ‘Ajam</a> ou pelo <a href="../jins/nikriz.php">Jins Nikriz</a> no 6º grau.
                     </p>
 
-                    <p>Maqam Saba não pertence a nenhuma família de maqamat.</p>
+                    <p>O Maqam Saba não pertence a nenhuma família de maqamat.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -84,7 +82,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dulab, Taqsim de Nay e Layai en Maqam Saba</b>
+                                    <b>Dulab, Taqsim Nay e Layai Saba</b>
                                     <span>Sabri al-Mudallal</span>
                                 </div>
                             </label>

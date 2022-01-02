@@ -186,7 +186,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Dulab e Taqsim de Nay en Maqam Hijaz</b>
+                                    <b>Dulab e Taqsim de Nay em Maqam Hijaz</b>
                                     <span>Sabah Fakhri</span>
                                     <span><img src="/img/cd.png"> Nagham al-Ams Vol. 14 Hijaz</span>
                                 </div>

@@ -69,10 +69,10 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        Maqam Nahawand es el principal <em>maqam</em> en la Familia Nahawand. Su escala comienza con la raíz <a href="../jins/nahawand.php">Jins Nahawand</a> en la tónica, seguida de <a href="../jins/hijaz.php">Jins Hijaz</a> o <a href="../jins/kurd.php">Jins Kurd</a> en el quinto grado.
+                        O Maqam Nahawand é o principal <em>maqam</em> da família Nahawand. Sua escala começa com o Jins inicial <a href="../jins/nahawand.php">Nahawand</a> na tônica, seguido ou pelo <a href="../jins/hijaz.php">Jins Hijaz</a> ou pelo or <a href="../jins/kurd.php">Jins Kurd</a> no 5º grau.
                     </p>
                     
-                    <p><strong>Maqam Farahfaza</strong> es Maqam Nahawand transpuesto a la tónica de Sol.</p>
+                    <p>O <strong>Maqam Farahfaza</strong> é o Maqam Nahawand transposto para a tônica em Sol.</p>
 
                     <p>Explore outros maqamat na <a href="f_nahawand.php">Família do Maqam Nahawand</a>.</p>
 

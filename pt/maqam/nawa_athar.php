@@ -62,7 +62,7 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        Maqam Nawa Athar es otro <em>maqam</em> popular en la familia Nikriz. Su escala comienza con la raíz <a href="../jins/nikriz.php">Jins Nikriz</a> en la tónica, seguida de <a href="../jins/hijazkar.php">Jins Hijazkar</a> centrada en el quinto grado.
+                        O Maqam Nawa Athar é outro <em>maqam</em> popular da família Nikriz. Sua escala começa com o Jins inicial <a href="../jins/nikriz.php">Nikriz</a> na tônica, seguido pelo <a href="../jins/hijazkar.php">Jins Hijazkar</a> centrado no 5º grau.
                     </p>
 
                     <p>Explore outros maqamat na <a href="f_nikriz.php">Família do Maqam Nikriz</a>.</p>
@@ -129,7 +129,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Muwashah Adhkuru al-Hubba</b>
+                                    <b>Muwashah Adhkuru al-Hibba</b>
                                     <span>Orquestra Abdel Halim Noueira</span>
                                     <span>Música de Dawud Husni</span>
                                 </div>
@@ -143,7 +143,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Sama‘i Nawa Athar</b>
-                                    <span>El conjunto sirio de Homs</span>
+                                    <span>Conjunto Sírio de Homs</span>
                                     <span>Música de Jamil ‘Uways (Síria)</span>
                                 </div>
                             </label>
@@ -157,7 +157,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Dulab Nawa Athar</b>
                                     <span>George Abyad</span>
-                                    <span><img src="/img/cd.png"> Impovisations Orientales</span>
+                                    <span><img src="/img/cd.png"> Improvisations Orientales</span>
                                 </div>
                             </label>
                         </div>

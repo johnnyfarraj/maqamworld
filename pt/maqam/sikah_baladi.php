@@ -39,7 +39,6 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/sikah_baladi.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Sikah Baladi</a>
                     </div>
 
-
                      <div class="notation" id="notation1">
                         <img src="/note/maqam/sikah_baladi.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
@@ -67,10 +66,10 @@ include($ROOT . 'inc/head.php');
                       </map>
 
                     <p>
-                        Maqam Sikah Baladi es posiblemente el <em>maqam</em> árabe más desafiante. Su escala (y <em>sayr</em>) es una especie de híbrido entre una transposición de <a href="huzam.php">Maqam Huzam</a> a una nota ordinaria que no es de Sikah, e <a href="hijazkar.php">Maqam Hijazkar</a>: los intervalos no son exactamente iguales a ninguno de los dos, pero suena un poco a ambos. Ninguno de sus intervalos coincide con una entonación justa o igual, lo que hace imposible reproducir en otra cosa que no sea la voz e los <a href="../instr.php">instrumentos árabes tradicionales</a>.
+                        O Maqam Sikah Baladi é possivelmente o <em>maqam</em> árabe mais desafiador. Sua escala (e <em>sayr</em>) são híbridos de uma transposição do <a href="huzam.php">Maqam Huzam</a> para uma nota ordinária, que não é do Sikah, e do <a href="hijazkar.php">Maqam Hijazkar</a> – os intervalos também não são os mesmos de nenhum dos dois maqamat, mas ele soa um pouco como ambos. Nenhum destes intervalos coincide com entonações justas ou temperadas, o que torna impossível de reproduzi-los em quaisquer instrumentos além da voz e dos <a href="../instr.php">instrumentos árabes tradicionais</a>.
                     </p>
                     
-                    <p>Maqam Sikah Baladi não pertence a nenhuma família de maqamat.</p>
+                    <p>O Maqam Sikah Baladi não pertence a nenhuma família de maqamat.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
@@ -172,7 +171,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Taqsim Buzuq</b>
-                                    <span>Matar Muhammad (Lebanon)</span>
+                                    <span>Matar Muhammad (Líbano)</span>
                                 </div>
                             </label>
                         </div>
@@ -183,8 +182,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim de Qanun</b>
-                                    <span>Abraham Salman (Irak)</span>
+                                    <b>Taqsim Qanun</b>
+                                    <span>Abraham Salman (Iraque)</span>
                                     <span><img src="/img/cd.png"> Saltanah</span>
                                 </div>
                             </label>

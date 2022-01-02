@@ -188,7 +188,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim de Oud en Maqam Sikah</b>
+                                    <b>Taqsim de Oud em Maqam Sikah</b>
                                     <span>Riyad al-Sunbati</span>
                                     <span><img src="/img/cd.png"> Taqaseem Oud</span>
                                 </div>

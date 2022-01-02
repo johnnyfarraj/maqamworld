@@ -39,7 +39,6 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/suzdalara.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Suzdalara</a>
                     </div>
 
-
                      <div class="notation" id="notation1">
                         <img src="/note/maqam/suzdalara.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
@@ -62,7 +61,7 @@ include($ROOT . 'inc/head.php');
                     </map>
 
                     <p>
-                        Maqam Suzdalara es bastante arcaico e casi inexistente como un maqam independiente, aunque su sayr es obligatorio en casi todas las actuaciones e canciones en cada rama de <a href="rast.php">Maqam Rast</a>: el <a href="../jins/nahawand.php">Jins Nahawand</a> en el quinto grado de Maqam Rast es un dispositivo de transición universal desde otras Modulaciones, señalando el retorno a la raíz <a href="../jins/rast.php">Jins Rast</a> sobre la tónica.
+                        O Maqam Suzdalara é bastante arcaico e quase inexistente como um maqam independente, apesar de seu sayr ser obrigatório em em quase todas as performances and canções em cada ramo do <a href="rast.php">Maqam Rast</a>: o <a href="../jins/nahawand.php">Jins Nahawand</a> no 5º grau do Maqam Rast é um dispositivo universal de transição a partir de outras modulações, sinalizando o retorno para o Jins inicial <a href="../jins/rast.php">Rast</a> na tônica.
                     </p>
 
                     <p>Explore outros maqamat na <a href="f_rast.php">Família do Maqam Rast</a>.</p>
@@ -80,7 +79,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Yana Yana (1969)</b>
                                     <span>Sabah</span>
-                                    <span>Música de Baligh Hamdi</span>
+                                    <span>Música por Baligh Hamdi</span>
                                 </div>
                             </label>
                         </div>

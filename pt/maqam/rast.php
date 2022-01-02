@@ -39,7 +39,6 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/rast.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Rast</a>
                     </div>
 
-
                      <div class="notation" id="notation1">
                         <img src="../note/maqam/rast.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
@@ -66,9 +65,10 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        Maqam Rast es el principal <em>maqam</em> en la Familia Rast y, por mucho, uno de los maqamat más populares en el repertorio árabe.</p>
+                        O Maqam Rast é o principal <em>maqam</em> da família Rast, e de longe um dos maqamat mais populares e comuns no repertório árabe.
+                    </p>
                     <p>
-                        Su escala comienza con la raíz <a href="../jins/rast.php">Jins Rast</a> en la tónica, seguida en el quinto grado por <a href="../jins/upper_rast.php">Jins Rast Alto</a> (con su tónica en el octavo grado) o <a href="../jins/nahawand.php">Jins Nahawand</a>.
+                        Sua escala começa com o Jins inicial <a href="../jins/rast.php">Rast</a> na tônica, seguido no 5º grau ou pelo <a href="../jins/upper_rast.php">Jins Superior Rast</a> (com sua tônica no 8º grau) ou pelo <a href="../jins/nahawand.php">Jins Nahawand</a>.
                     </p>
 
                     <p>Explore outros maqamat na <a href="f_rast.php">Família do Maqam Rast</a>.</p>
@@ -161,7 +161,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Lah Tilaw‘ini (1938)</b>
+                                    <b>Leh Tilaw‘ini (1938)</b>
                                     <span>Umm Kulthum</span>
                                     <span>Música de Muhammad al-Qasabgi</span>
                                 </div>

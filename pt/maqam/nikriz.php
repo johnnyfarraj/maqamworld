@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        Maqam Nikriz es el principal <em>maqam</em> en la Familia Nikriz. Su escala comienza con la raíz <a href="../jins/nikriz.php">Jins Nikriz</a> en la tónica, seguida de <a href="../jins/nahawand.php">Jins Nahawand</a> en el quinto grado.
+                        O Maqam Nikriz é o principal <em>maqam</em> da família Nikriz. Sua escala começa com o Jins inicial <a href="../jins/nikriz.php">Nikriz</a> na tônica, seguido pelo <a href="../jins/nahawand.php">Jins Nahawand</a> no 5º grau.
                     </p>
 
                     <p>Explore outros maqamat na <a href="f_nikriz.php">Família do Maqam Nikriz</a>.</p>

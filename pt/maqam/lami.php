@@ -62,7 +62,8 @@ include($ROOT . 'inc/head.php');
                     <p>
                         O Maqam Lami é um <em>maqam</em> raro no Oriente Médio, e foi emprestado do repertório iraquiano. Sua escala começa com o <a href="../jins/lami.php">Jins Lami</a> na tônica, seguido pelo <a href="../jins/kurd.php">Jins Kurd</a> no 4º grau.
                     </p>
-                    <p>Maqam Lami não pertence a nenhuma família de maqamat.</p>
+                    
+                    <p>O Maqam Lami não pertence a nenhuma família de maqamat.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>

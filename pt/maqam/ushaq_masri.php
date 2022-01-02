@@ -39,8 +39,6 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/ushaq_masri.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de ‘Ushaq Masri</a>
                     </div>
 
-
-
                      <div class="notation" id="notation1">
                         <img src="/note/maqam/ushaq_masri.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
@@ -63,7 +61,7 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        Maqam 'Ushaq Masri es una variación de <a href="nahawand.php">Maqam Nahawand</a> con <a href="../jins/bayati.php">Jins Bayati</a> en el quinto grado, por encima de la raíz <a href="../jins/nahawand.php">Jins Nahawand</a> en el primer grado.
+                        O Maqam ‘Ushaq Masri é uma variação do <a href="nahawand.php">Maqam Nahawand</a> com o <a href="../jins/bayati.php">Jins Bayati</a> no 5º grau, acima do Jins inicial <a href="../jins/nahawand.php">Nahawand</a> no 1º grau.
                     </p>
 
                     <p>Explore outros maqamat na <a href="f_nahawand.php">Família do Maqam Nahawand</a>.</p>

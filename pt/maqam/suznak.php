@@ -62,7 +62,7 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        Maqam Suznak es la modulación más popular de <a href="rast.php">Maqam Rast</a>, donde la modulación a <a href="../jins/hjaz.php">Jins Hijaz</a> en el quinto grado de escala es prácticamente obligatoria en cualquier taqsim o mawwal a partir de la raíz <a href="jns/rast.php">Jins Rast</a>.
+                        O Maqam Suznak é a modulação mais popular do <a href="rast.php">Maqam Rast</a>, em que a modulação para o <a href="../jins/hjaz.php">Jins Hijaz</a> no 5º grau é praticamente obrigatória em qualquer taqsim ou mawwal que comece no Jins inicial <a href="jns/rast.php">Rast</a>.
                     </p>
 
                     <p>Explore outros maqamat na <a href="f_rast.php">Família do Maqam Rast</a>.</p>
@@ -129,8 +129,8 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim de Qanun en Maqam Suznak</b>
-                                    <span>Abraham Salman (Irak)</span>
+                                    <b>Taqsim de Qanun em Maqam Suznak</b>
+                                    <span>Abraham Salman (Iraque)</span>
                                     <span><img src="/img/cd.png"> Saltanah</span>
                                 </div>
                             </label>

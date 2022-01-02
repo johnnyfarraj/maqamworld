@@ -61,7 +61,7 @@ include($ROOT . 'inc/head.php');
 					</map>
                     
                     <p>
-                        Maqam Shawq Afza es la variante más común de<a href="ajam.php">Maqam ‘Ajam</a>. Su escala comienza con la raíz de <a href="../jins/ajam.php">Jins ‘Ajam</a> en la tónica, mientras que <a href="../jins/hijaz.php">Jins Hijaz</a> en el quinto grado es su característica distintiva, así como una frecuente modulación de <a href="../jins/saba_dalanshin.php">Jins Saba Dalanshin</a> en los grados tercero / quinto.
+                        O Maqam Shawq Afza é a variação mais comum do <a href="ajam.php">Maqam ‘Ajam</a>. Sua escala começa com o Jins inicial <a href="../jins/ajam.php">‘Ajam</a> na tônica, enquanto o <a href="../jins/hijaz.php">Jins Hijaz</a> no 5º grau é sua característica especial, assim como a frequente modulação com o <a href="../jins/saba_dalanshin.php">Jins Saba Dalanshin</a> no 3º e no 5º grau.
                     </p>
 
                     <p>Explore outros maqamat na <a href="f_ajam.php">Família do Maqam ‘Ajam</a>.</p>

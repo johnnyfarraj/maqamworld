@@ -66,10 +66,10 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        Maqam Saba es un <em>maqam</em> poco usado en el repertorio árabe. Su escala comienza con v en la tónica, superpuesta por <a href="../jins/hijaz.php">Jins Hijaz</a> en el 3er grado, seguida de <a href="../jins/ajam.php">Jins ‘Ajam</a> o <a href="../jins/nikriz.php">Jins Nikriz</a> en el 6º grado.
+                        O Maqam Saba Zamzam é um <em>maqam</em> raro no repertório árabe. Sua escala começa com o Jins Saba Zamzam na tônica, sobreposto pelo <a href="../jins/hijaz.php">Jins Hijaz</a> no 3º grau, seguido ou pelo <a href="../jins/ajam.php">Jins ‘Ajam</a> ou pelo <a href="../jins/nikriz.php">Jins Nikriz</a> no 6º grau.
                     </p>
                     
-                    <p>Maqam Saba Zamzam não pertence a nenhuma família de maqamat.</p>
+                    <p>O Maqam Saba Zamzam não pertence a nenhuma família de maqamat.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>

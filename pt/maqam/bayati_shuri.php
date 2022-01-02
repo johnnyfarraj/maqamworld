@@ -170,7 +170,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim de Qanun en Maqam Bayati Shuri</b>
+                                    <b>Taqsim de Qanun em Maqam Bayati Shuri</b>
                                     <span>Marie Jubran</span>
                                     <span>Wasla em Maqam Bayati Shuri</span>
                                 </div>

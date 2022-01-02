@@ -62,7 +62,7 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        Maqam Nahawand Murassa’ es básicamente <a href="nahawand.php">Maqam Nahawand</a> con un grado de 5ta escala más bajo. Su escala comienza con <a href="../jins/nahawand_murassaa.php">Jins Nahawand Murassa‘</a> en la tónica, superpuesta por <a href="../jins/hijaz.php">Jins Hijaz</a> en el cuarto grado.
+                        O Maqam Nahawand Murassa‘ é basicamente o <a href="nahawand.php">Maqam Nahawand</a> com o 5º grau diminuto. Sua escala começa com o <a href="../jins/nahawand_murassaa.php">Jins Nahawand Murassa‘</a> na tônica, sobreposto pelo <a href="../jins/hijaz.php">Jins Hijaz</a> no 4º grau.
                     </p>
 
                     <p>Explore outros maqamat na <a href="f_nahawand.php">Família do Maqam Nahawand</a>.</p>

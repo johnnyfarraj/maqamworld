@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Muwashah Ukhfi el-Hawa (2019)</b>
-                                    <span>Firqat al-Turath al-Musiqi al-Arabi (Lebanon)</span>
+                                    <span>Firqat al-Turath al-Musiqi al-Arabi (Líbano)</span>
                                     <span>Música de Dr. Hayaf Yassine</span>
                                     <span>Poema de 'Umar Ibn al-Fared</span>
                                 </div>

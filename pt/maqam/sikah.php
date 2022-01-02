@@ -39,7 +39,6 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/sikah.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Sikah</a>
                     </div>
 
-
                      <div class="notation" id="notation1">
                         <img src="../note/maqam/sikah.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
@@ -63,7 +62,7 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        Maqam Sikah es un miembro poco común de la familia Sikah. Su escala comienza con la raíz <a href="../jins/sikah.php">Jins Sikah</a> en la tónica, seguida de <a href="../jins/upper_rast.php">Jins Rast Alto</a> en el 3er grado (con su tónica en el 6º grado) e luego <a href="../jins/rast.php">Jins Rast</a> en el 6º grado (que es un <em>ghammaz</em> secundario).
+                        O Maqam Sikah é um membro raro da família Sikah. Sua escala começa com o Jins inicial <a href="../jins/sikah.php">Sikah</a> na tônica, seguido pelo <a href="../jins/upper_rast.php">Jins Superior Rast</a> no 3º grau (com sua tônica no 6º grau), e então o <a href="../jins/rast.php">Jins Rast</a> no 6º grau, que é um ponto de modulação (<em>ghammaz</em>) secundário.
                     </p>
                     
                     <p>Explore outros maqamat na <a href="f_sikah.php">Família do Maqam Sikah</a>.</p>

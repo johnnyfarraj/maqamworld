@@ -66,7 +66,7 @@ include($ROOT . 'inc/head.php');
                         O Maqam Jiharkah é um <em>maqam</em> relativamente raro que começa com o <a href="../jins/jiharkah.php">Jins Jiharkah</a> na tônica, seguido pelo <a href="../jins/upper_rast.php">Jins Superior Rast</a> no 5º grau (com sua tônica acima no 8º grau).
                     </p>
                     
-                    <p>Maqam Jiharkah não pertence a nenhuma família de maqamat.</p>
+                    <p>O Maqam Jiharkah não pertence a nenhuma família de maqamat.</p>
                     
                     <div class="player-area">
                         <audio id="player" controls>
