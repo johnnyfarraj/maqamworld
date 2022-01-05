@@ -74,7 +74,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Habibi Yis‘id Awqatu (1943)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Musica di Zakariyya Ahmad</span>
+                                    <span>Musica di Zakariya Ahmad</span>
                                 </div>
                             </label>
                         </div>

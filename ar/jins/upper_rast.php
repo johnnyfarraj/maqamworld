@@ -110,20 +110,6 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/jins/upper_rast/hann_el_hadid.mp3">
-                        <div class="radio">
-                            <label>
-                                <input type="radio" name="song" value="1">
-                                <div class="info">
-                                    <b>اغنية حنّ الحديد (١٩٧٤)</b>
-                                    <span>غناء جوزيف صقر (لبنان)</span>
-                                    <span>الحان زياد الرحباني (لبنان)</span>
-                                    <span>من مسرحية "نزل السرور" الغنائية</span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-
                     <div class="track" data-song="/audio/jins/upper_rast/aruh_li_min.mp3">
                         <div class="radio">
                             <label>
@@ -133,6 +119,34 @@ include($ROOT . 'inc/head.php');
                                     <span>ام كلثوم</span>
                                     <span>كلمات عبد المنعم السباعي </span>
                                     <span>الحان رياض السنباطي (مصر)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="track" data-song="/audio/jins/upper_rast/el-awwila-fil-gharam.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>اغنية الاولة في الغرام (١٩٤٤)</b>
+                                    <span>امّ كلثوم</span>
+                                    <span>الحان الشيخ زكريا احمد (مصر)</span>
+                                    <span>كلمات بيرم التونسي (مصر)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="track" data-song="/audio/jins/upper_rast/hann_el_hadid.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>اغنية حنّ الحديد (١٩٧٤)</b>
+                                    <span>غناء جوزيف صقر (لبنان)</span>
+                                    <span>الحان زياد الرحباني (لبنان)</span>
+                                    <span>من مسرحية "نزل السرور" الغنائية</span>
                                 </div>
                             </label>
                         </div>

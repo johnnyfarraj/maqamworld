@@ -146,7 +146,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Dawr Inta Fahim</b>
-                                    <span>Su‘ad Muhammads Aufnahme von Dawr Inta Fahim, komponiert von Zakariyya Ahmad</span>
+                                    <span>Su‘ad Muhammads Aufnahme von Dawr Inta Fahim, komponiert von Zakariya Ahmad</span>
                                 </div>
                             </label>
                         </div>

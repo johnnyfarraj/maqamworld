@@ -105,7 +105,7 @@ Stufe und <a href="../jins/rast.php">Jins Rast</a> auf der sechsten Stufe.
                                 <div class="info">
                                     <b>el-Ward Gamil (1947)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Musik von Zakariyya Ahmad</span>
+                                    <span>Musik von Zakariya Ahmad</span>
                                 </div>
                             </label>
                         </div>

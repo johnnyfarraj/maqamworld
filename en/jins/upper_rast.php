@@ -103,6 +103,32 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/jins/upper_rast/aruh_li_min.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Aruh Li Min (1958)</b>
+                                    <span>Umm Kulthum</span>
+                                    <span>Music by Riyad al-Sunbati</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="track" data-song="/audio/jins/upper_rast/el-awwila-fil-gharam.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>El-Awwila Fil-Gharam (1944)</b>
+                                    <span>Umm Kulthum</span>
+                                    <span>Music by Zakariya Ahmad (Egypt)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                     <div class="track" data-song="/audio/jins/upper_rast/hann_el_hadid.mp3">
                         <div class="radio">
                             <label>
@@ -112,19 +138,6 @@ include($ROOT . 'inc/head.php');
                                     <span>Joseph Saqr</span>
                                     <span>Music by Ziad Rahbani</span>
                                     <span>From the musical Nazl el-Surur</span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-
-                    <div class="track" data-song="/audio/jins/upper_rast/aruh_li_min.mp3">
-                        <div class="radio">
-                            <label>
-                                <input type="radio" name="song" value="1">
-                                <div class="info">
-                                    <b>Aruh Li Min (1958)</b>
-                                    <span>Umm Kulthum</span>
-                                    <span>Music by Riyad al-Sunbati</span>
                                 </div>
                             </label>
                         </div>

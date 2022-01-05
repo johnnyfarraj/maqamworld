@@ -188,7 +188,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Dawr Inta Fahim</b>
-                                    <span>Zakariyya Ahmads Inta Fahim beginnt mit einer einzigen Dulab-Wiederholung im Maqam Rahat al-Arwah (Huzam).</span>
+                                    <span>Zakariya Ahmads Inta Fahim beginnt mit einer einzigen Dulab-Wiederholung im Maqam Rahat al-Arwah (Huzam).</span>
                                 </div>
                             </label>
                         </div>

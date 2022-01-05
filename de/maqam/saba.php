@@ -108,7 +108,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Huwwa Sahih il-Hawa Ghallab (1960)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Musik von Zakariyya Ahmad</span>
+                                    <span>Musik von Zakariya Ahmad</span>
                                 </div>
                             </label>
                         </div>

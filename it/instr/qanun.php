@@ -101,7 +101,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Abdel Fattah Mansi</b>
-                                    <span>Abdel Fattah Mansi (Egitto) suona una canzone di Umm Kuklthum, <strong>Ana Fi-ntizarak</strong> (1943, musica di Zakariyya Ahmad).
+                                    <span>Abdel Fattah Mansi (Egitto) suona una canzone di Umm Kuklthum, <strong>Ana Fi-ntizarak</strong> (1943, musica di Zakariya Ahmad).
                                     </span>
                                 </div>
                             </label>

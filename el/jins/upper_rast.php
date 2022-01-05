@@ -53,8 +53,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="297,58,13" href="#" alt="Σι4<i class='icon-halfflat'></i>" class="playNote" data-frequency="482" data-parent="#notation1"><!--var-->
 					  <area shape="circle" coords="378,50,14" href="#" alt="Ντο5" class="playNote" data-frequency="521.48" data-parent="#notation1"><!--tonic-->
 					  <area shape="circle" coords="448,42,12" href="#" alt="Ρε5" class="playNote" data-frequency="586.66" data-parent="#notation1">
-					 
-					  </map>
+                    </map>
 
                     <p>
                         To Τζινς Άνω Ραστ είναι μία 4χορδη εκδοχή του <a href="rast.php">Τζινς Ραστ</a>, με το ασυνήθιστο χαρακτηριστικό (κοινό με το <a href="upper_ajam.php">Τζινς Άνω Άτζαμ</a>) το ότι η τονική του είναι η τελευταία βαθμίδα στην διαδοχή αντί να είναι η πρώτη. Στην παρούσα καταγραφή του έχει την νότα γαμάζ στον φθόγγο Σολ και την τονική στον φθόγγο Ντο. To Τζινς Άνω Ραστ είναι το δεύτερο Τζινς στo <a href="../maqam/rast.php">Μακάμ Ραστ</a> και επίσης λαμβάνει χώρο στην 5η βαθμίδα του <a href="../maqam/jiharkah.php">Μακάμ Τζιχάρκα</a>.
@@ -105,6 +104,32 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/jins/upper_rast/aruh_li_min.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Αρούχ Λι Μιν (1958)</b>
+                                    <span>Ουμ Κουλθούμ</span>
+                                    <span>Μουσική Ριάντ αλ-Σουνμπάτι</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="track" data-song="/audio/jins/upper_rast/el-awwila-fil-gharam.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Ελ-Αουίλα Φιλ-Γαράμ (1944)</b>
+                                    <span>Ουμ Κουλθούμ</span>
+                                    <span>Μουσική Ζακαρία Άχμαντ</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                     <div class="track" data-song="/audio/jins/upper_rast/hann_el_hadid.mp3">
                         <div class="radio">
                             <label>
@@ -114,19 +139,6 @@ include($ROOT . 'inc/head.php');
                                     <span>Ζοζέφ Σακρ</span>
                                     <span>Μουσική Ζιάντ Ραχμπάνι</span>
                                     <span>Από το Μιούζικαλ <strong>Ναζλ ελ-Σουρούρ</strong></span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-
-                    <div class="track" data-song="/audio/jins/upper_rast/aruh_li_min.mp3">
-                        <div class="radio">
-                            <label>
-                                <input type="radio" name="song" value="1">
-                                <div class="info">
-                                    <b>Αρούχ Λι Μιν (1958)</b>
-                                    <span>Ουμ Κουλθούμ</span>
-                                    <span>Μουσική Ριάντ αλ-Σουνμπάτι</span>
                                 </div>
                             </label>
                         </div>

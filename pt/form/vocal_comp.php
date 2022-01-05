@@ -152,7 +152,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Dawr Inta Fahim</b>
-                                    <span>Su‘ad Muhammad (Líbano) fazendo um cover de <strong>Dawr Inta Fahim</strong> em <a href="../maqam/huzam.php">Maqam Huzam</a>, composto por Zakariyya Ahmad.
+                                    <span>Su‘ad Muhammad (Líbano) fazendo um cover de <strong>Dawr Inta Fahim</strong> em <a href="../maqam/huzam.php">Maqam Huzam</a>, composto por Zakariya Ahmad.
                                  </span>
                                 </div>
                             </label>

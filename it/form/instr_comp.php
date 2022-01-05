@@ -210,7 +210,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Dawr Inta Fahem</b>
-                                    <span>Dawr <strong>Inta Fahem</strong> di Zakariyya Ahmad che inizia con una singola ripetizione di un dulab su <a href="../maqam/huzam.php">Maqam Rahat al-Arwah</a>.
+                                    <span>Dawr <strong>Inta Fahem</strong> di Zakariya Ahmad che inizia con una singola ripetizione di un dulab su <a href="../maqam/huzam.php">Maqam Rahat al-Arwah</a>.
                                     </span>
                                 </div>
                             </label>

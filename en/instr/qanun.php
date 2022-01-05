@@ -99,7 +99,7 @@ include($ROOT . 'inc/head.php');
                                 </div><!--
                              --><div class="info">
                                     <b>Abdel Fattah Mansi</b>
-                                    <span>Abdel Fattah Mansi (Egypt) plays Umm Kuklthum's song <strong>Ana Fi-ntizarak</strong> (1943, music by Zakariyya Ahmad)</span>
+                                    <span>Abdel Fattah Mansi (Egypt) plays Umm Kuklthum's song <strong>Ana Fi-ntizarak</strong> (1943, music by Zakariya Ahmad)</span>
                                 </div>
                             </label>
                         </div>
