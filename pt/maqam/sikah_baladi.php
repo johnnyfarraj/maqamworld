@@ -57,8 +57,8 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="605,147,13" href="#" alt="Do♯" class="playNote" data-frequency="xxx" data-parent="#notation1">
                       <area shape="circle" coords="672,147,13" href="#" alt="Do↓" class="playNote" data-frequency="xxx" data-parent="#notation1">
 					  <area shape="circle" coords="737,155,13" href="#" alt="Si<i class='icon-halfflat'></i>↑" class="playNote" data-frequency="xxx" data-parent="#notation1">
-					  <area shape="circle" coords="817,164,13" href="#" alt="A3<i class='icon-halfflat'></i>↓" class="playNote" data-frequency="xxx" data-parent="#notation1">
-					  <area shape="circle" coords="893,173,13" href="#" alt="G3" class="playNote" data-frequency="xxx" data-parent="#notation1">
+					  <area shape="circle" coords="817,164,13" href="#" alt="Lá<i class='icon-halfflat'></i>↓" class="playNote" data-frequency="xxx" data-parent="#notation1">
+					  <area shape="circle" coords="893,173,13" href="#" alt="Sol" class="playNote" data-frequency="xxx" data-parent="#notation1">
                       <!-- Links -->
                       <area shape="rect" coords="174,8,374,38" href="../jins/sikah_baladi.php" class="mapLink" data-parent="#notation1">
                       <area shape="rect" coords="675,16,874,46" href="../jins/sikah_baladi.php" class="mapLink" data-parent="#notation1">

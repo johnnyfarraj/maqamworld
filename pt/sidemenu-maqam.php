@@ -13,7 +13,7 @@
     <li><a href="/pt/maqam/hijaz.php">Hijaz</a></li>
     <li><a href="/pt/maqam/hijazkar.php">Hijazkar</a></li>
     <li><a href="/pt/maqam/hijazkar_kurd.php">Hijazkar Kurd</a></li>
-    <li><a href="/pt/maqam/husayni.php">Husayni</a></li>
+    <li><a href="/pt/maqam/husayni.php">Hussayni</a></li>
     <li><a href="/pt/maqam/huzam.php">Huzam</a></li>
     <li><a href="/pt/maqam/iraq.php">‘Iraq</a></li>
     <li><a href="/pt/maqam/jiharkah.php">Jiharkah</a></li>

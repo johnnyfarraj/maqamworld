@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "O Qanoun";
-$page_description = "O Qanoun";
+$page_title = "O Qanun";
+$page_description = "O Qanun";
 $page_keywords = "arabic, music, istruments, arab world, middle east, oud, 'ud, qanun, nay, buzuq, arabic violin";
 $page_language = "pt";
 
@@ -29,7 +29,7 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>O Qanoun</h1>
+                        <h1>O Qanun</h1>
                         <h3>Uma Cítara de Cordas Pinçadas</h3>
                     </div>
 
@@ -37,12 +37,12 @@ include($ROOT . 'inc/head.php');
                     <div class="clearfix"></div>
 
                     <div class="image-with-caption">
-                        <img src="/instr/qanun.jpg" alt="O Qanoun">
+                        <img src="/instr/qanun.jpg" alt="O Qanun">
                         <span>Qanun sírio fabricado por Bashir Bij. &copy; MaqamWorld</span>
                     </div>
 
                     <div class="text-center mt-2 mb-3 mobile-left">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/qanun.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Qanoun</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/qanun.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Qanun</a>
                     </div>
 
                     <!-- TODO The qanun’s origins are traced back to ancient Greece and Pythagoras or the Egyptian harp. It takes its name from the ancient Greek word ‘κανών’, which means “rule”. Also, it appears in Byzantium with the name “psaltirion”. 

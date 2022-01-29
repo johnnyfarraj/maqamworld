@@ -23,16 +23,16 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Jins Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Jins</a>
                     <?php include('../sidemenu-jins.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
                         <h1>Jins Musta‘ar</h1>
-                        <h3>A variation of <a href="sikah.php">Jins Sikah</a> with a raised 2<sup>nd</sup></h3>
+                        <h3>Uma variação do <a href="sikah.php">Jins Sikah</a> com uma segunda elevada</h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Jins Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Jins</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -42,19 +42,19 @@ include($ROOT . 'inc/head.php');
                      <div class="notation" id="notation1">
                         <img src="/note/jins/mustaar.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
+                        <p class="clicknotes">Clique nas notas e segure usando o mouse para ouví-las.</p>
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="66,91,12" href="#" alt="D4♯" class="playNote" data-frequency="308.25" data-parent="#notation1">
-					  <area shape="circle" coords="147,84,14" href="#" alt="E4<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable 318~324-->
-					  <area shape="circle" coords="233,76,13" href="#" alt="F4♯" class="playNote" data-frequency="375" data-parent="#notation1">
-					  <area shape="circle" coords="307,68,14" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="383,59,13" href="#" alt="A4♮" class="playNote" data-frequency="440" data-parent="#notation1">
-					  <area shape="circle" coords="449,52,13" href="#" alt="B4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
-
+					  <area shape="circle" coords="66,91,12" href="#" alt="Ré♯" class="playNote" data-frequency="308.25" data-parent="#notation1">
+					  <area shape="circle" coords="147,84,14" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable 318~324-->
+					  <area shape="circle" coords="233,76,13" href="#" alt="Fa♯" class="playNote" data-frequency="375" data-parent="#notation1">
+					  <area shape="circle" coords="307,68,14" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+					  <area shape="circle" coords="383,59,13" href="#" alt="Lá♮" class="playNote" data-frequency="440" data-parent="#notation1">
+					  <area shape="circle" coords="449,52,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					</map>
-                    <p>Jins Musta‘ar is a 3-note <em>jins</em>. It is notated here with its tonic on E<i class="icon-halfflat"></i> and its <em>ghammaz</em> on G. Jins Musta‘ar is the first <em>jins</em> in <a href="../maqam/mustaar.php">Maqam Musta‘ar</a>.
+
+                    <p>Jins Musta‘ar é um <em>jins</em> de 3 notas. Está representado aqui com sua tônica em Mi<i class="icon-halfflat"></i> e seu <em>ghammaz</em> em Sol. Jins Musta‘ar é o primeiro <em>jins</em> do <a href="../maqam/mustaar.php">Maqam Musta‘ar</a>.
                     </p>
 
                     <div class="player-area">
@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Raqq il-Habib (1944)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Música de Muhammad al-Qasabgi</span>
+                                    <span>Música de Muhammad al-Qasabgi (Egypt)</span>
                                 </div>
                             </label>
                         </div>
@@ -145,7 +145,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b><a href="../form/improv.php#taqsim">Taqsim</a> Oud in Maqam Sikah</b>
+                                    <b><a href="../form/improv.php#taqsim">Taqsim</a> Oud em Maqam Sikah</b>
                                     <span>Riyad al-Sunbati</span>
                                     <span><img src="/img/cd.png"> Taqaseem</span>
                                 </div>
@@ -158,7 +158,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Taqsim Qanoun in Maqam Sikah</b>
+                                    <b>Taqsim Qanun em Maqam Sikah</b>
                                     <span>‘Imad Mulki</span>
                                     <span>Conjunto Al-Turath</span>
                                     <span><img src="/img/cd.png"> Gardens of Jasmin - Maqam Huzam</span>

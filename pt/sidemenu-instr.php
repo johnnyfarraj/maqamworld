@@ -11,7 +11,7 @@
     <li><a href="/pt/instr/org.php">O Órgão Árabe</a></li>
     <li><a href="/pt/instr/oud.php">O Oud (‘Ud)</a></li>
     <li><a href="/pt/instr/piano.php">O Piano Árabe</a></li>
-    <li><a href="/pt/instr/qanun.php">O Qanoun</a></li>
+    <li><a href="/pt/instr/qanun.php">O Qanun</a></li>
     <li><a href="/pt/instr/riqq.php">O Riqq</a></li>
     <li><a href="/pt/instr/sagat.php">As Sagat</a></li>
     <li><a href="/pt/instr/saxophone.php">O Saxofone</a></li>

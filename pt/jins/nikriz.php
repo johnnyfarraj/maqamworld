@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Jins Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Jins</a>
                     <?php include('../sidemenu-jins.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -32,7 +32,7 @@ include($ROOT . 'inc/head.php');
                         <h1>Jins Nikriz</h1>
                         <h3>Root jins of the <a href="../maqam/f_nikriz.php">Maqam Nikriz Family</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Jins Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Jins</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -43,20 +43,20 @@ include($ROOT . 'inc/head.php');
                      <div class="notation" id="notation1">
                         <img src="/note/jins/nikriz.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
+                        <p class="clicknotes">Clique nas notas e segure usando o mouse para ouví-las.</p>
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="60,116,12" href="#" alt="A3♭" class="playNote" data-frequency="209" data-parent="#notation1"><!--fine tuned up from 205.5-->
-					  <area shape="circle" coords="138,107,12" href="#" alt="B3♮" class="playNote" data-frequency="247.5" data-parent="#notation1">
-					  <area shape="circle" coords="220,100,14" href="#" alt="C4" class="playNote" data-frequency="260.74" data-parent="#notation1">
-					  <area shape="circle" coords="295,91,13" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1">
-					  <area shape="circle" coords="373,83,13" href="#" alt="E4♭" class="playNote" data-frequency="315" data-parent="#notation1">
-					  <area shape="circle" coords="450,74,13" href="#" alt="F4♯" class="playNote" data-frequency="375" data-parent="#notation1">
-					  <area shape="circle" coords="528,66,14" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					   <area shape="circle" coords="601,58,12" href="#" alt="A4♭" class="playNote" data-frequency="414" data-parent="#notation1"><!-- fine tuned up from 411-->
-					  <area shape="circle" coords="640,58,12" href="#" alt="A4♮" class="playNote" data-frequency="440" data-parent="#notation1">
-					  <area shape="circle" coords="678,50,12" href="#" alt="B4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
+					  <area shape="circle" coords="60,116,12" href="#" alt="Lá♭" class="playNote" data-frequency="209" data-parent="#notation1"><!--fine tuned up from 205.5-->
+					  <area shape="circle" coords="138,107,12" href="#" alt="Si♮" class="playNote" data-frequency="247.5" data-parent="#notation1">
+					  <area shape="circle" coords="220,100,14" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
+					  <area shape="circle" coords="295,91,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="373,83,13" href="#" alt="Mi♭" class="playNote" data-frequency="315" data-parent="#notation1">
+					  <area shape="circle" coords="450,74,13" href="#" alt="Fa♯" class="playNote" data-frequency="375" data-parent="#notation1">
+					  <area shape="circle" coords="528,66,14" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+					   <area shape="circle" coords="601,58,12" href="#" alt="Lá♭" class="playNote" data-frequency="414" data-parent="#notation1"><!-- fine tuned up from 411-->
+					  <area shape="circle" coords="640,58,12" href="#" alt="Lá♮" class="playNote" data-frequency="440" data-parent="#notation1">
+					  <area shape="circle" coords="678,50,12" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 
 					</map>
                     <p>Jins Nikriz is a 5-note <em>jins</em>. It is notated here with its tonic on C and its <em>ghammaz</em> on G. Jins Nikriz is the first <em>jins</em> in <a href="../maqam/nikriz.php">Maqam Nikriz</a> and <a href="../maqam/nawa_athar.php">Maqam Nawa Athar</a>.

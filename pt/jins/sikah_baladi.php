@@ -23,16 +23,16 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Jins Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Jins</a>
                     <?php include('../sidemenu-jins.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
                     
                     <div class="heading jins text-center">
-                        <h1>Jins Sikah Baladi <span class="badge badge-custom">New</span></h1>
+                        <h1>Jins Sikah Baladi <span class="badge badge-custom">Novo</span></h1>
                         <h3>(undefined size)</h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Jins Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Jins</a>
                     <div class="clearfix"></div>
                     
                     <div class="text-center mt-2 mb-3">
@@ -43,16 +43,16 @@ include($ROOT . 'inc/head.php');
                      <div class="notation" id="notation1">
                         <img src="/note/jins/sikah_baladi.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
+                        <p class="clicknotes">Clique nas notas e segure usando o mouse para ouví-las.</p>
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="85,93,13" href="#" alt="E4<i class='icon-halfflat'></i>↓" class="playNote" data-frequency="315" data-parent="#notation1"><!-- variable -->
-					  <area shape="circle" coords="163,85,13" href="#" alt="F4<i class='icon-halfsharp'></i>↑" class="playNote" data-frequency="364" data-parent="#notation1"><!-- variable -->
-					  <area shape="circle" coords="243,77,14" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="318,67,13" href="#" alt="A4<i class='icon-halfflat'></i>↓" class="playNote" data-frequency="425" data-parent="#notation1"><!-- variable -->
-					  <area shape="circle" coords="395,60,13" href="#" alt="B4<i class='icon-halfflat'></i>↑" class="playNote" data-frequency="485" data-parent="#notation1"><!-- variable -->
-					  <area shape="circle" coords="473,51,13" href="#" alt="C5↓" class="playNote" data-frequency="515" data-parent="#notation1"><!-- variable -->
+					  <area shape="circle" coords="85,93,13" href="#" alt="Mi<i class='icon-halfflat'></i>↓" class="playNote" data-frequency="315" data-parent="#notation1"><!-- variable -->
+					  <area shape="circle" coords="163,85,13" href="#" alt="Fa<i class='icon-halfsharp'></i>↑" class="playNote" data-frequency="364" data-parent="#notation1"><!-- variable -->
+					  <area shape="circle" coords="243,77,14" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+					  <area shape="circle" coords="318,67,13" href="#" alt="Lá<i class='icon-halfflat'></i>↓" class="playNote" data-frequency="425" data-parent="#notation1"><!-- variable -->
+					  <area shape="circle" coords="395,60,13" href="#" alt="Si<i class='icon-halfflat'></i>↑" class="playNote" data-frequency="485" data-parent="#notation1"><!-- variable -->
+					  <area shape="circle" coords="473,51,13" href="#" alt="Do↓" class="playNote" data-frequency="515" data-parent="#notation1"><!-- variable -->
 					 
 					  
 				     

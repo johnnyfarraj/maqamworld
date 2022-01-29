@@ -23,16 +23,16 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Jins Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Jins</a>
                     <?php include('../sidemenu-jins.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
                         <h1>Jins Sikah</h1>
-                        <h3>Root jins of the <a href="../maqam/f_sikah.php">Maqam Sikah Family</a></h3>
+                        <h3>Jins inicial da <a href="../maqam/f_sikah.php">Família de Maqam Sikah</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Jins Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Jins</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -43,21 +43,22 @@ include($ROOT . 'inc/head.php');
                      <div class="notation" id="notation1">
                         <img src="/note/jins/sikah.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
+                        <p class="clicknotes">Clique nas notas e segure usando o mouse para ouví-las.</p>
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="37,97,12" href="#" alt="C4" class="playNote" data-frequency="260.74" data-parent="#notation1">
-					  <area shape="circle" coords="96,89,12" href="#" alt="D4♮" class="playNote" data-frequency="293.33" data-parent="#notation1">
-					  <area shape="circle" coords="134,89,12" href="#" alt="D4♯" class="playNote" data-frequency="310" data-parent="#notation1"><!-- leading tone -->
-					  <area shape="circle" coords="198,81,14" href="#" alt="E4<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable 318~324-->
-					  <area shape="circle" coords="273,72,13" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1">
-					  <area shape="circle" coords="351,65,14" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="425,56,12" href="#" alt="A4♭" class="playNote" data-frequency="422" data-parent="#notation1"><!-- fine tuned up from 411-->
+					  <area shape="circle" coords="37,97,12" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
+					  <area shape="circle" coords="96,89,12" href="#" alt="Ré♮" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="134,89,12" href="#" alt="Ré♯" class="playNote" data-frequency="310" data-parent="#notation1"><!-- leading tone -->
+					  <area shape="circle" coords="198,81,14" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!--variable 318~324-->
+					  <area shape="circle" coords="273,72,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
+					  <area shape="circle" coords="351,65,14" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+					  <area shape="circle" coords="425,56,12" href="#" alt="Lá♭" class="playNote" data-frequency="422" data-parent="#notation1"><!-- fine tuned up from 411-->
+                    </map>
 
-
-					</map>
-                    <p>Jins Sikah is a 3-note jins. It is notated here with its tonic on E<i class='icon-halfflat'></i> and its <em>ghammaz</em> on G. Jins Sikah is the first jins in <a href="../maqam/sikah.php">Maqam Sikah</a>, <a href="../maqam/huzam.php">Maqam Huzam</a>, <a href="../maqam/iraq.php">Maqam ‘Iraq</a>, and <a href="../maqam/bastanikar.php">Maqam Bastanikar</a>.</p>
+                    <p>
+                        Jins Sikah é um jins de 3 notas. Está representado aqui com sua tônica em Mi<i class='icon-halfflat'></i> e seu <em>ghammaz</em> em Sol. Jins Sikah é o primeiro jins em <a href="../maqam/sikah.php">Maqam Sikah</a>, <a href="../maqam/huzam.php">Maqam Huzam</a>, <a href="../maqam/iraq.php">Maqam ‘Iraq</a>, e <a href="../maqam/bastanikar.php">Maqam Bastanikar</a>.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -72,7 +73,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>il-Ward Gamil (1946)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Música de Zakariya Ahmad (Egito)</span>
+                                    <span>Música por Zakariyya Ahmad (Egito)</span>
                                 </div>
                             </label>
                         </div>
@@ -85,7 +86,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Hayhat Yabu al-Zuluf</b>
                                     <span>Sabah</span>
-                                    <span>(Lebanese Folklore)</span>
+                                    <span>(Folclore Libanês)</span>
                                 </div>
                             </label>
                         </div>

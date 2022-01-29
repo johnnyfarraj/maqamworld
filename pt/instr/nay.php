@@ -120,7 +120,7 @@ include($ROOT . 'inc/head.php');
                     <p>Explore outros instrumentos tradicionais:</p>
                     <ul>
                         <li><a href="oud.php">O Oud</a></li>
-                        <li><a href="qanun.php">O Qanoun</a></li>
+                        <li><a href="qanun.php">O Qanun</a></li>
                         <li><a href="violin.php">O Violino Árabe</a></li>
                         <li><a href="buzuq.php">O Buzuq</a></li>
                    </ul>

@@ -23,7 +23,7 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Jins Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Jins</a>
                     <?php include('../sidemenu-jins.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
@@ -32,7 +32,7 @@ include($ROOT . 'inc/head.php');
                         <h1>Jins Nahawand Murassa‘</h1>
                         <h3>A variation of <a href="nahawand.php">Jins Nahawand</a> with a lowered 5<sup>th</sup></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Jins Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Jins</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -43,17 +43,17 @@ include($ROOT . 'inc/head.php');
                      <div class="notation" id="notation1">
                         <img src="/note/jins/nahawand_murassaa.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
+                        <p class="clicknotes">Clique nas notas e segure usando o mouse para ouví-las.</p>
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="55,110,12" href="#" alt="B3♮" class="playNote" data-frequency="247.5" data-parent="#notation1">
-					  <area shape="circle" coords="126,102,14" href="#" alt="C4" class="playNote" data-frequency="260.74" data-parent="#notation1">
-					  <area shape="circle" coords="202,94,13" href="#" alt="D4" class="playNote" data-frequency="293.33"  data-parent="#notation1">
-					  <area shape="circle" coords="280,86,13" href="#" alt="E4♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
-					  <area shape="circle" coords="357,78,13" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1"><!-Hijaz 1st-->
-					  <area shape="circle" coords="434,70,13" href="#" alt="G4♭" class="playNote" data-frequency="373.33" data-parent="#notation1"><!--variable-->
-					  <area shape="circle" coords="509,62,12" href="#" alt="A4♮" class="playNote" data-frequency="444" data-parent="#notation1"><!--var-->
+					  <area shape="circle" coords="55,110,12" href="#" alt="Si♮" class="playNote" data-frequency="247.5" data-parent="#notation1">
+					  <area shape="circle" coords="126,102,14" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
+					  <area shape="circle" coords="202,94,13" href="#" alt="Ré" class="playNote" data-frequency="293.33"  data-parent="#notation1">
+					  <area shape="circle" coords="280,86,13" href="#" alt="Mi♭" class="playNote" data-frequency="308.25" data-parent="#notation1">
+					  <area shape="circle" coords="357,78,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1"><!-Hijaz 1st-->
+					  <area shape="circle" coords="434,70,13" href="#" alt="Sol♭" class="playNote" data-frequency="373.33" data-parent="#notation1"><!--variable-->
+					  <area shape="circle" coords="509,62,12" href="#" alt="Lá♮" class="playNote" data-frequency="444" data-parent="#notation1"><!--var-->
 
 					</map>
                     <p>Jins Nahawand Murassa‘ has no <em>ghammaz</em>, and therefore no defined size. It is notated here with its tonic on C. Jins Nahawand Murassa‘ is the first <em>jins</em> in <a href="../maqam/nahawand_murassaa.php">Maqam Nahawand Murassa‘</a>.

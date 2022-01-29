@@ -23,16 +23,16 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Jins Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Jins</a>
                     <?php include('../sidemenu-jins.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>Jins ‘Ajam Murassa‘ <span class="badge badge-custom">New</span></h1>
+                        <h1>Jins ‘Ajam Murassa‘ <span class="badge badge-custom">Novo</span></h1>
                         <h3>A variation of <a href="ajam.php">Jins ‘Ajam</a> with a raised 4<sup>th</sup></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Jins Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Jins</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -42,17 +42,17 @@ include($ROOT . 'inc/head.php');
                     <div class="notation" id="notation1">
                         <img src="/note/jins/ajam_murassaa.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
+                        <p class="clicknotes">Clique nas notas e segure usando o mouse para ouví-las.</p>
                     </div>
 
                     <map name="notemap">
-					  <area shape="circle" coords="53,86,12" href="#" alt="E4" class="playNote" data-frequency="330" data-parent="#notation1">
-					  <area shape="circle" coords="136,78,14" href="#" alt="F4" class="playNote" data-frequency="347.65"  data-parent="#notation1">
-					  <area shape="circle" coords="211,69,13" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="289,61,13" href="#" alt="A4" class="playNote" data-frequency="440" data-parent="#notation1"><!-- TODO should that be lowered a bit to match 'Ajam's 3rd? -->
-					  <area shape="circle" coords="365,53,13" href="#" alt="B4♮" class="playNote" data-frequency="495" data-parent="#notation1">
-					  <area shape="circle" coords="444,45,14" href="#" alt="C5" class="playNote" data-frequency="521.5" data-parent="#notation1">
-					  <area shape="circle" coords="518,37,12" href="#" alt="D5" class="playNote" data-frequency="586.66" data-parent="#notation1">
+					  <area shape="circle" coords="53,86,12" href="#" alt="Mi" class="playNote" data-frequency="330" data-parent="#notation1">
+					  <area shape="circle" coords="136,78,14" href="#" alt="Fa" class="playNote" data-frequency="347.65"  data-parent="#notation1">
+					  <area shape="circle" coords="211,69,13" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+					  <area shape="circle" coords="289,61,13" href="#" alt="Lá" class="playNote" data-frequency="440" data-parent="#notation1"><!-- TODO should that be lowered a bit to match 'Ajam's 3rd? -->
+					  <area shape="circle" coords="365,53,13" href="#" alt="Si♮" class="playNote" data-frequency="495" data-parent="#notation1">
+					  <area shape="circle" coords="444,45,14" href="#" alt="Do" class="playNote" data-frequency="521.5" data-parent="#notation1">
+					  <area shape="circle" coords="518,37,12" href="#" alt="Ré" class="playNote" data-frequency="586.66" data-parent="#notation1">
 					</map>
 
                     <p>Jins ‘Ajam Murassa‘ is a 5-note jins. It is notated here with its tonic on F and its <em>ghammaz</em> on C. Jins ‘Ajam Murassa‘ is not part of any maqam scale and usually occurs as a modulation from <a href="ajam.php">Jins ‘Ajam</a>.</p>
@@ -130,7 +130,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b><a href="../form/improv.php#taqsim">Taqsim</a> Qanoun in Maqam 'Ajam</b>
+                                    <b><a href="../form/improv.php#taqsim">Taqsim</a> Qanun in Maqam 'Ajam</b>
                                     <span>Abdu Daghir</span>
                                     <span><img src="/img/cd.png"> Al-Gibali</span>
                                 </div>

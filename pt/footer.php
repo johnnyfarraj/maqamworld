@@ -7,7 +7,7 @@
                 <br>Todos os direitos reservados.
                 <br>Conteúdo e design: <a href="https://www.amazon.com/Johnny-Farraj/e/B07SD841D2" target="_blank">Johnny Farraj</a>
                 <br>Desenvolvimento e código: <a href="http://filiptodorov.com" target="_blank">Filip Todorov</a>
-                <br>Versão em Português: <a href="http://youtube.com" target="_blank">Rebeca Bayeh</a>, <a href="http://youtube.com" target="_blank">Vinícius Gomez</a>, <a href="http://youtube.com" target="_blank">Natália Trigo</a>.
+                <br>Versão em Português: <a href="https://www.almanack.com.br/rebeca-bayeh" target="_blank">Rebeca Bayeh</a>, <a href="http://youtube.com" target="_blank">Vinícius Gomez</a>, <a href="http://youtube.com" target="_blank">Natália Trigo</a>.
                 </p>
                 <!--
                 <ul class="socials">

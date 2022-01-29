@@ -23,31 +23,36 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Jins Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Jins</a>
                     <?php include('sidemenu-jins.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading text-center jins">
                         <h1>The Jins</h1>
-                        <h3>A scale fragment of 3, 4, or 5 notes that a Maqam is built from</h3>
+                        <h3>Um fragmento de escala de 3, 4 ou 5 notas, a partir do qual um Maqam é construído</h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Jins Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Jins</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
                         <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/jins.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Jins/Ajnas</a>
                     </div>
 
-                    <p>The Jins (plural Ajnas) is a <a href="maqam.php">maqam</a> scale fragment of 3, 4 or 5 notes. The <em>jins</em> is the basic melodic unit in Arabic music, as a <a href="maqam.php">maqam</a> is really a pathway among many ajnas. Each <em>jins</em> is defined by its intervals, which don’t change when it is transposed and give it its distinct and recognizable character.</p>
+                    <p>O Jins (plural Ajnas) é um fragmento de escala de <a href="maqam.php">maqam</a> de 3, 4 ou 5 notas. O <em>jins</em> é a unidade melódica na música Árabe, já que um <a href="maqam.php">maqam</a> na verdade é um caminho por entre vários <em>ajnas</em>. Cada <em>jins</em> é definido por seus intervalos, que não mudam quando é transposto e dá a ele um caráter distinto e reconhecível.
+                    </p>
 
-                    <p>The <em>tonic</em> of a <em>jins</em> is the note of principal melodic emphasis, the note that the melody returns to for resolution. This is usually the first note in the <em>jins</em> scale. The <em>leading tone</em> is the note immediately below the tonic of a <em>jins</em>. The <em>ghammaz</em> is the most important note of melodic emphasis (besides the tonic), as well as the most common starting point of a new <em>jins</em> (changing to a new <em>jins</em> or <a href="maqam.php">maqam</a> is called modulation).</p>
+                    <p>A <em>tônica</em> de um <em>jins</em> é a nota de ênfase melódica principal, a nota para qual a melodia retorna para sua resolução. Geralmente é a primeira nota na escala do jins. A sensível (check ES version) é a nota imediatamente abaixo da tônica de um <em>jins</em>. O <em>ghammaz</em> é a nota mais importante de ênfase melódica (além da tônica), além de ser o mais comum ponto de início de um novo <em>jins</em> (a mudança para um novo <em>jins</em> ou <a href="maqam.php">maqam</a> é chamada de modulação).
+                    </p>
 
-                    <p>The size of a <em>jins</em> is the number of notes between the tonic and the <em>ghammaz</em>. These notes are called the <em>jins</em>’ <em>basic scale</em> (or simply scale). Outside the basic scale (on either side) are notes that are part and parcel of the <em>jins</em>’ melodic vocabulary. These notes are called the <em>jins</em> baggage. The basic scale plus the <em>jins</em> baggage make up the <em>jins</em>’ <em>extended scale</em>. </p>
+                    <p>O tamanho de um j<em>jins</em>ins é o número de notas entre a tônica e o ghammaz. Essas notas são chamadas de escala básica do <em>jins</em> (ou, simplesmente, escala). Fora da escala básica (de qualquer lado) estão notas que são parte fundamental do vocabulário melódico do <em>jins</em>. Essas notas são chamadas de bagagem do jins. A escala básica mais a bagagem do jins formam a escala estendida do <em>jins</em>.
+                    </p>
+                    
+                    <p>Cada jins apresenta a escala básica escrita usando notas grandes, com a tônica e o ghammaz como semibreves. As notas da bagagem do jins são mostradas em um tamanho menor, e às vezes um <em>jins</em> inclui múltiplas opções para algumas notas na bagagem do <em>jins</em>.
+                    </p>
 
-                    <p>Each <em>jins</em> shows the basic scale notated using large notes, with the tonic and <em>ghammaz</em> as whole notes. The <em>jins</em> baggage notes are shown in smaller size, and sometimes a <em>jins</em> includes multiple options for some notes in the <em>jins</em> baggage.</p>
-
-                    <p>You can start exploring ajnas using the Jins Index (sorted alphabetically) or using the table below (grouped by size):</p>
+                    <p>Você pode começar explorando ajnas usando o Índice de Jins (ordenados alfabeticamente) ou usando a tabela abaixo (agrupados por tamanho):</p>
+                    
                     <div class="page-list-area">
                         <div class="row">
                             <div class="col-sm-3">
@@ -67,8 +72,8 @@ include($ROOT . 'inc/head.php');
                                    <li><a href="jins/hijaz_murassaa.php">Jins Hijaz Murassa‘</a></li>
                                    <li><a href="jins/kurd.php">Jins Kurd</a></li>
                                    <li><a href="jins/lami.php">Jins Lami</a></li>
-                                   <li><a href="jins/upper_ajam.php">Jins Upper ‘Ajam</a></li>
-                                   <li><a href="jins/upper_rast.php">Jins Upper Rast</a></li>
+                                   <li><a href="jins/upper_ajam.php">Jins ‘Ajam Superior</a></li>
+                                   <li><a href="jins/upper_rast.php">Jins Rast Superior</a></li>
                                 </ul>
                             </div>
                             <div class="col-sm-3">

@@ -41,7 +41,7 @@ include($ROOT . 'inc/head.php');
                         <span>O teclado oriental Ketron Vega</span>
                     </div>
 
-                    <p>O Teclado Oriental é o sucessor do <a href="org.php">org</a> e foi introduzido no mercado no final do século XX. Sua principal vantagem era sua capacidade de imitar sons de vários instrumentos tradicionais árabes por sampleamento e, dessa forma, o músico poderia invocar um <em>Mijwiz</em>, um <a href="qanun.php">Qanoun</a> ou mesmo um <a href="saxophone.php">Saxofone</a> com o toque de um botão.
+                    <p>O Teclado Oriental é o sucessor do <a href="org.php">org</a> e foi introduzido no mercado no final do século XX. Sua principal vantagem era sua capacidade de imitar sons de vários instrumentos tradicionais árabes por sampleamento e, dessa forma, o músico poderia invocar um <em>Mijwiz</em>, um <a href="qanun.php">Qanun</a> ou mesmo um <a href="saxophone.php">Saxofone</a> com o toque de um botão.
                     </p>
                     
                     <p>A maioria das empresas de sintetizadores (como Roland, Yamaha, GEM, Kawai, Korg e Ketron) fabrica modelos de teclado oriental e inclui um gerador de ritmo eletrônico integrado onde o músico pode complementar sua melodia / acordes com <a href="../iqaa.php">iqa‘at</a> pré-gravados de Instrumentos de percussão árabes sampleados. Isso torna o Teclado Oriental um instrumento muito poderoso e versátil, e essencial na música árabe pop e na música para dança.

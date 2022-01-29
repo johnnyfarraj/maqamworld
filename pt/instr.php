@@ -70,7 +70,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="card-body">
                                     <h5 class="card-title">Instrumentos Tradicionais</h5>
                                     <p class="card-text"><a href="instr/oud.php">O Oud</a></p>
-                                    <p class="card-text"><a href="instr/qanun.php">O Qanoun</a></p>
+                                    <p class="card-text"><a href="instr/qanun.php">O Qanun</a></p>
                                     <p class="card-text"><a href="instr/nay.php">O Nay</a></p>
                                     <p class="card-text"><a href="instr/violin.php">O Violino Árabe</a></p>
                                     <p class="card-text"><a href="instr/buzuq.php">O Buzuq</a></p>

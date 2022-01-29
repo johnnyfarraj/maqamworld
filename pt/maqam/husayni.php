@@ -4,8 +4,8 @@
 include('../../inc/config.php');
 
 /* SEO settings for this page */
-$page_title = "Maqam Husayni";
-$page_description = "Maqam Husayni";
+$page_title = "Maqam Hussayni";
+$page_description = "Maqam Hussayni";
 $page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "pt";
 
@@ -29,14 +29,14 @@ include($ROOT . 'inc/head.php');
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
-                        <h1>O Maqam Husayni</h1>
+                        <h1>O Maqam Hussayni</h1>
                         <h3>Um membro da <a href="f_bayati.php">Família do Maqam Bayati</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de los Maqamat</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
-                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/husayni.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Husayni</a>
+                        <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/husayni.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Hussayni</a>
                     </div>
 
                      <div class="notation" id="notation1">
@@ -57,14 +57,14 @@ include($ROOT . 'inc/head.php');
                       <area shape="circle" coords="551,121,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!-- Bayati RE 2nd, variable -->
                       <area shape="circle" coords="630,129,13" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
                        <!-- Links -->
-		              <!-- Husayni is not a Jins, it's a special case (documented in IAM)
+		              <!-- Hussayni is not a Jins, it's a special case (documented in IAM)
                         <area shape="rect" coords="116,8,304,39" href="../jins/husayni.php" class="mapLink" data-parent="#notation1">
 		              -->
                       <area shape="rect" coords="450,8,580,39" href="../jins/bayati.php" class="mapLink" data-parent="#notation1">
 					</map>
 
                     <p>
-                        O Maqam Husayni não é muito comum enquanto <em>maqam</em> independente na tradição árabe, apesar de seu <em>sayr</em> (com ênfase no 5º grau enquanto nota de tensão, resolvendo-se no 4º grau) ser obrigatório dentro do <a href="bayati.php">Maqam Bayati</a>. Na música folclórica da região mais ampla, esta é na verdade a variante mais comum do Bayati, com sua escala começando com o Jins inicial <a href="../jins/bayati.php">Bayati</a> na tônica.
+                        O Maqam Hussayni não é muito comum enquanto <em>maqam</em> independente na tradição árabe, apesar de seu <em>sayr</em> (com ênfase no 5º grau enquanto nota de tensão, resolvendo-se no 4º grau) ser obrigatório dentro do <a href="bayati.php">Maqam Bayati</a>. Na música folclórica da região mais ampla, esta é na verdade a variante mais comum do Bayati, com sua escala começando com o Jins inicial <a href="../jins/bayati.php">Bayati</a> na tônica.
                     </p>
                     <p>Explore outros maqamat na <a href="f_bayati.php">Família do Maqam Bayati</a>.</p>
 

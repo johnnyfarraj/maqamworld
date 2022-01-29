@@ -23,16 +23,16 @@ include($ROOT . 'inc/head.php');
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Jins Index</a>
+                    <a href="#" class="show-side-menu d-none d-md-block btn btn-primary above-list"><i class="fa fa-fw fa-bars"></i> Índice de Jins</a>
                     <?php include('../sidemenu-jins.php'); ?>
                 </div>
                 <div class="col-md-9 col-sm-9">
 
                     <div class="heading jins text-center">
                         <h1>Jins Bayati</h1>
-                        <h3>Root jins of the <a href="../maqam/f_bayati.php">Maqam Bayati Family</a></h3>
+                        <h3>jins inicial da <a href="../maqam/f_bayati.php">Família de Maqam Bayati</a></h3>
                     </div>
-                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Jins Index</a>
+                    <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Jins</a>
                     <div class="clearfix"></div>
 
                     <div class="text-center mt-2 mb-3">
@@ -42,22 +42,23 @@ include($ROOT . 'inc/head.php');
                     <div class="notation" id="notation1">
                         <img src="/note/jins/bayati.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Click the notes and hold using the mouse to hear them play.</p>
+                        <p class="clicknotes">Clique nas notas e segure usando o mouse para ouví-las.</p>
                     </div>
 
                     <!-- Copy this bit -->
                     <map name="notemap">
-					  <area shape="circle" coords="71,105,12" href="#" alt="B3<i class='icon-halfflat'></i>" class="playNote" data-frequency="243" data-parent="#notation1"><!-- variable -->
-					  <area shape="circle" coords="151,96,12" href="#" alt="C4" class="playNote" data-frequency="260.74" data-parent="#notation1">
-					  <area shape="circle" coords="235,88,14" href="#" alt="D4" class="playNote" data-frequency="293.33" data-parent="#notation1">
-					  <area shape="circle" coords="311,79,13" href="#" alt="E4<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!-- variable -->
-					  <area shape="circle" coords="392,71,13" href="#" alt="F4" class="playNote" data-frequency="347.65" data-parent="#notation1">
-					  <area shape="circle" coords="472,63,14" href="#" alt="G4" class="playNote" data-frequency="391.11" data-parent="#notation1">
-					  <area shape="circle" coords="547,53,12" href="#" alt="A4" class="playNote" data-frequency="440" data-parent="#notation1">
-					  <area shape="circle" coords="626,45,12" href="#" alt="B4♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
+					  <area shape="circle" coords="71,105,12" href="#" alt="Si<i class='icon-halfflat'></i>" class="playNote" data-frequency="243" data-parent="#notation1"><!-- variable -->
+					  <area shape="circle" coords="151,96,12" href="#" alt="Do" class="playNote" data-frequency="260.74" data-parent="#notation1">
+					  <area shape="circle" coords="235,88,14" href="#" alt="Ré" class="playNote" data-frequency="293.33" data-parent="#notation1">
+					  <area shape="circle" coords="311,79,13" href="#" alt="Mi<i class='icon-halfflat'></i>" class="playNote" data-frequency="320" data-parent="#notation1"><!-- variable -->
+					  <area shape="circle" coords="392,71,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
+					  <area shape="circle" coords="472,63,14" href="#" alt="Sol" class="playNote" data-frequency="391.11" data-parent="#notation1">
+					  <area shape="circle" coords="547,53,12" href="#" alt="Lá" class="playNote" data-frequency="440" data-parent="#notation1">
+					  <area shape="circle" coords="626,45,12" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					</map>
 
-                    <p>Jins Bayati is a 4-note <em>jins</em>. It is notated here with its tonic on D and its <em>ghammaz</em> on G. Jins Bayati is the first <em>jins</em> in <a href="../maqam/bayati.php">Maqam Bayati</a>.
+                    <p>
+                        Jins Bayati é um <em>jins</em> de 4 notas. Está representado aqui com sua tônica em Ré e seu <em>ghammaz</em> em Sol. É o primeiro jins no <a href="../maqam/bayati.php">Maqam Bayati</a>.
                     </p>
 
                     <div class="player-area">
@@ -113,7 +114,7 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>el-Ward Gamil (1946)</b>
                                     <span>Umm Kulthum</span>
-                                    <span>Música de Zakariya Ahmad (Egito)</span>
+                                    <span>Música por Zakariyya Ahmad (Egito)</span>
                                 </div>
                             </label>
                         </div>
