@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Jins Athar Kurd</h1>
-                        <h3>A combination of <a href="kurd.php">Jins Kurd</a> and <a href="nikriz.php">Jins Nikriz</a></h3>
+                        <h3>Uma combinação de <a href="kurd.php">Jins Kurd</a> e <a href="nikriz.php">Jins Nikriz</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Jins</a>
                     <div class="clearfix"></div>
@@ -56,7 +56,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="599,61,12" href="#" alt="Lá♭" class="playNote" data-frequency="423" data-parent="#notation1"><!-- variable: Hijaz 2nd -->
 					</map>
 
-                    <p>Jins Athar Kurd is a 5-note <em>jins</em>. It is notated here with its tonic on C and its <em>ghammaz</em> on G. Jins Athar Kurd is the first <em>jins</em> in <a href="../maqam/athar_kurd.php">Maqam Athar Kurd</a>.
+                    <p>Jins Athar Kurd é um ji<em>jins</em>ns de 5-notas. Está escrito aqui com sua tônica em Do e seu ghammaz em Sol. Jins Athar Kurd é o primeiro <em>jins</em> no <a href="../maqam/athar_kurd.php">Maqam Athar Kurd</a>.
                     </p>
 
                     <div class="player-area">

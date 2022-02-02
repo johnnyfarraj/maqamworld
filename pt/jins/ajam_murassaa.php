@@ -30,8 +30,9 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Jins ‘Ajam Murassa‘ <span class="badge badge-custom">Novo</span></h1>
-                        <h3>A variation of <a href="ajam.php">Jins ‘Ajam</a> with a raised 4<sup>th</sup></h3>
+                        <h3>Uma variação do <a href="ajam.php">Jins ‘Ajam</a> com uma 4<sup>a</sup> elevada</h3>
                     </div>
+                    
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Jins</a>
                     <div class="clearfix"></div>
 
@@ -55,7 +56,7 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="518,37,12" href="#" alt="Ré" class="playNote" data-frequency="586.66" data-parent="#notation1">
 					</map>
 
-                    <p>Jins ‘Ajam Murassa‘ is a 5-note jins. It is notated here with its tonic on F and its <em>ghammaz</em> on C. Jins ‘Ajam Murassa‘ is not part of any maqam scale and usually occurs as a modulation from <a href="ajam.php">Jins ‘Ajam</a>.</p>
+                    <p>Jins ‘Ajam Murassa‘ é um jins de 5 notas. Está escrito aqui com sua tônica em Fa e seu ghammaz em Do. Jins ‘Ajam Murassa‘ não é parte de nenhuma escala de maqam e geralmente ocorre como uma modulação do <a href="ajam.php">Jins ‘Ajam</a>.</p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -194,8 +195,8 @@ include($ROOT . 'inc/head.php');
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
                                     <b>Layali Zaman</b>
-                                    <span>Instrumental composition by ‘Abdu Dagher</span>
-                                    <span>Recorded with his ensemble at the Cairo Opera House.</span>
+                                    <span>Composição instrumental por ‘Abdu Dagher</span>
+                                    <span>Gravado com seu conjunto na Cairo Opera House</span>
                                 </div>
                             </label>
                         </div>

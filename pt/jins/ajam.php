@@ -63,7 +63,7 @@ include($ROOT . 'inc/head.php');
 					</map>
 
                     <p>
-                        A <strong>versão de 3 notas</strong> do Jins ‘Ajam ocorre principalmente quando é usada como um <em>jins</em> secundário, por exemplo no 6º grau da escala do <a href="../maqam/Bayati.php">Maqam Bayati</a>, do <a href="../maqam/Saba.php">Maqam Saba</a> ou do <a href="../maqam/Kurd.php">Maqam Kurd</a>. Essa versão é derivada do <a href="../maqam/ajam_ushayran.php">Maqam ‘Ajam ‘Ushayran</a>. Está representado aqui com a tônica em B&#x266d;.
+                        A <strong>versão de 3 notas</strong> do Jins ‘Ajam ocorre principalmente quando é usada como um <em>jins</em> secundário, por exemplo no 6<sup>o</sup> grau da escala do <a href="../maqam/Bayati.php">Maqam Bayati</a>, do <a href="../maqam/Saba.php">Maqam Saba</a> ou do <a href="../maqam/Kurd.php">Maqam Kurd</a>. Essa versão é derivada do <a href="../maqam/ajam_ushayran.php">Maqam ‘Ajam ‘Ushayran</a>. Está representado aqui com a tônica em Si&#x266d;.
                     </p>
 
                     <div class="notation" id="notation2">
@@ -91,7 +91,7 @@ include($ROOT . 'inc/head.php');
 
                     <br>
                     <div class="heading jins text-center">
-                        <h3>Jins ‘Ajam 5-note version examples</h3>
+                        <h3>Exemplos da versão de 5 notas do Jins ‘Ajam</h3>
                     </div>
                     <div class="clearfix"></div>
                     <br>
@@ -175,7 +175,7 @@ include($ROOT . 'inc/head.php');
 
                     <br>
                     <div class="heading jins text-center">
-                        <h3>Jins ‘Ajam 3-note version examples</h3>
+                        <h3>Exemplos da versão de 3 notas do Jins ‘Ajam</h3>
                     </div>
                     <div class="clearfix"></div>
                     <br>
@@ -188,7 +188,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Ba‘id ‘Annak (1965)</b>
                                     <span>Umm Kulthum</span>
                                     <span>Música de Muhammad Abdel Wahab (Egito)</span>
-                                    <span>3-note Jins ‘Ajam on the 6<sup>th</sup> degree of <a href="../maqam/kurd.php">Maqam Bayati</a></span>
+                                    <span>o Jins ‘Ajam de 3 notas ocorre no sexto grau do <a href="../maqam/kurd.php">Maqam Bayati</a></span>
                                 </div>
                             </label>
                         </div>
@@ -202,7 +202,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Habba Fouq w Habba Taht</b>
                                     <span>Ahmad Adaweya</span>
                                     <span>Música de Mohamed el-Mesery</span>
-                                    <span>3-note Jins ‘Ajam on the 6<sup>th</sup> degree of <a href="../maqam/saba.php">Maqam Saba</a></span>
+                                    <span>o Jins ‘Ajam de 3 notas ocorre no sexto grau do <a href="../maqam/saba.php">Maqam Saba</a></span>
                                 </div>
                             </label>
                         </div>
@@ -216,7 +216,7 @@ include($ROOT . 'inc/head.php');
                                     <b>Ahu Da-lli Sar</b>
                                     <span>Nay Barghouthi</span>
                                     <span>Música de Sayed Darwish</span>
-                                    <span>3-note Jins ‘Ajam on the 6<sup>th</sup> degree of <a href="../maqam/kurd.php">Maqam Kurd</a></span>
+                                    <span>o Jins ‘Ajam de 3 notas ocorre no sexto grau do <a href="../maqam/kurd.php">Maqam Kurd</a></span>
                                 </div>
                             </label>
                         </div>
