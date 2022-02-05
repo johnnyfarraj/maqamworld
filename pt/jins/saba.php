@@ -6,7 +6,8 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Jins Saba";
 $page_description = "Jins Saba";
-$page_keywords = "arabic, music, arab, world, maqam, jins, ‘ajam, ajam, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
+tone, tetrachord, modal, middle east";
 $page_language = "pt";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +31,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Jins Saba</h1>
-                        <h3>(ambiguous size)</h3>
+                        <h3>(tamanho ambíguo)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Jins</a>
                     <div class="clearfix"></div>
@@ -42,7 +43,7 @@ include($ROOT . 'inc/head.php');
                      <div class="notation" id="notation1">
                         <img src="/note/jins/saba.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Clique nas notas e segure usando o mouse para ouví-las.</p>
+                        <p class="clicknotes">Clique nas notas e segure usando o mouse para ouví-las tocar.</p>
                     </div>
 
                     <map name="notemap">
@@ -55,7 +56,9 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="532,53,13" href="#" alt="Lá♮" class="playNote" data-frequency="437" data-parent="#notation1"><!-- Hijaz 3rd tuned down from 440-->
 					  <area shape="circle" coords="609,45,13" href="#" alt="Si♭" class="playNote" data-frequency="463.54" data-parent="#notation1">
 					</map>
-                    <p>Jins Saba has an ambiguous size. It is notated here with its tonic on D and two <em>ghammaz</em> possibilities: the 3<sup>rd</sup> degree (notated on F) or the 6<sup>th</sup> degree (notated on Si&#x266d;). Jins Saba is the first jins in <a href="../maqam/saba.php">Maqam Saba</a>.
+                    
+                    <p>
+                        Jins Saba possui um tamanho ambíguo. Está escrito aqui com sua tônica em Ré e duas possibilidades de <em>ghammaz</em>: o 3<sup>o</sup> grau (escrito em Fa) ou o 6<sup>o</sup> grau (escrito em Si&#x266d;). O Jins Saba é o primeiro jins no <a href="../maqam/saba.php">Maqam Saba</a>.
                     </p>
 
                     <div class="player-area">

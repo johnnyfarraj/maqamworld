@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Jins ‘Ajam";
 $page_description = "Jins ‘Ajam";
-$page_keywords = "arabic, music, arab, world, maqam, jins, ‘ajam, ajam, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "pt";
 
 include($ROOT . 'inc/head.php');
@@ -48,7 +48,7 @@ include($ROOT . 'inc/head.php');
                     <div class="notation" id="notation1">
                         <img src="/note/jins/ajam.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Clique nas notas e segure usando o mouse para ouví-las.</p>
+                        <p class="clicknotes">Clique nas notas e segure usando o mouse para ouví-las tocar.</p>
                     </div>
 
                     <map name="notemap">
@@ -69,7 +69,7 @@ include($ROOT . 'inc/head.php');
                     <div class="notation" id="notation2">
                         <img src="/note/jins/ajam-3-note.png" class="img-fluid" usemap="#notemap2">
                         <div class="shape"></div>
-                        <p class="clicknotes">Clique nas notas e segure usando o mouse para ouví-las.</p>
+                        <p class="clicknotes">Clique nas notas e segure usando o mouse para ouví-las tocar.</p>
                     </div>
 
                     <!-- Copy this bit -->

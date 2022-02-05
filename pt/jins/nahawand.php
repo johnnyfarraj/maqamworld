@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Jins Nahawand";
 $page_description = "Jins Nahawand";
-$page_keywords = "arabic, music, arab, world, maqam, jins, ‘ajam, ajam, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "pt";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Jins Nahawand</h1>
-                        <h3>Root jins of the <a href="../maqam/f_nahawand.php">Maqam Nahawand Family</a></h3>
+                        <h3>Jins inicial da <a href="../maqam/f_nahawand.php">Família do Maqam Nahawand</a></h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Jins</a>
                     <div class="clearfix"></div>
@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                      <div class="notation" id="notation1">
                         <img src="/note/jins/nahawand.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Clique nas notas e segure usando o mouse para ouví-las.</p>
+                        <p class="clicknotes">Clique nas notas e segure usando o mouse para ouví-las tocar.</p>
                     </div>
 
                     <map name="notemap">
@@ -58,7 +58,7 @@ include($ROOT . 'inc/head.php');
 				      <area shape="circle" coords="611,60,12" href="#" alt="Lá♭" class="playNote" data-frequency="411" data-parent="#notation1">
 					</map>
 
-                    <p>Jins Nahawand is a 5-note <em>jins</em>. It is notated here with its tonic on C and its <em>ghammaz</em> on G. Jins Nahawand is the first <em>jins</em> in <a href="../maqam/nahawand.php">Maqam Nahawand</a>.
+                    <p>Jins Nahawand é um <em>jins</em> de 5 notas. Está escrito aqui com sua tônica em Do e seu <em>ghammaz</em> em Sol. Jins Nahawand é o primeiro <em>jins</em> no <a href="../maqam/nahawand.php">Maqam Nahawand</a>.
                     </p>
 
                     <div class="player-area">

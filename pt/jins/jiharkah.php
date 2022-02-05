@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Jins Jiharkah";
 $page_description = "Jins Jiharkah";
-$page_keywords = "arabic, music, arab, world, maqam, jins, ‘ajam, ajam, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "pt";
 
 include($ROOT . 'inc/head.php');
@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                     <div class="notation" id="notation1">
                         <img src="/note/jins/jiharkah.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Clique nas notas e segure usando o mouse para ouví-las.</p>
+                        <p class="clicknotes">Clique nas notas e segure usando o mouse para ouví-las tocar.</p>
                     </div>
 
                     <map name="notemap">
@@ -56,7 +56,8 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="496,42,14" href="#" alt="Do" class="playNote" data-frequency="521.48" data-parent="#notation1">
 
 					</map>
-                    <p>Jins Jiharkah is a 5-note <em>jins</em>. It is notated here with its tonic on F and its <em>ghammaz</em> on C. The 3<sup>rd</sup> and 4<sup>th</sup> degrees are usually played lower than notated. Jins Jiharkah is the first <em>jins</em> in <a href="../maqam/jiharkah.php">Maqam Jiharkah</a>.</p>
+                    <p>Jins Jiharkah é um <em>jins</em> de 5 notas. Está escrito aqui com sua tônica em Fa e seu <em>ghammaz</em> em Do. O 3<sup>o</sup> e o 4<sup>o</sup> grau são geralmente tocados mais abaixo do que está anotado. Jins Jiharkah é o primeiro <em>jins</em> no <a href="../maqam/jiharkah.php">Maqam Jiharkah</a>.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>

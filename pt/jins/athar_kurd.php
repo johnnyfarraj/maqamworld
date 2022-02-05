@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Jins Athar Kurd";
 $page_description = "Jins Athar Kurd";
-$page_keywords = "arabic, music, arab, world, maqam, jins, athar kurd, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "pt";
 
 include($ROOT . 'inc/head.php');
@@ -42,7 +42,7 @@ include($ROOT . 'inc/head.php');
                     <div class="notation" id="notation1">
                         <img src="/note/jins/athar_kurd.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Clique nas notas e segure usando o mouse para ouví-las.</p>
+                        <p class="clicknotes">Clique nas notas e segure usando o mouse para ouví-las tocar.</p>
                     </div>
 
                     <map name="notemap">

@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Jins Saba Dalanshin";
 $page_description = "Jins Saba Dalanshin";
-$page_keywords = "arabic, music, arab, world, maqam, jins, ‘ajam, ajam, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "pt";
 
 include($ROOT . 'inc/head.php');
@@ -30,8 +30,9 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Jins Saba Dalanshin <span class="badge badge-custom">Novo</span></h1>
-                        <h3>A special version of <a href="saba.php">Jins Saba</a> with its tonic on the 3<sup>rd</sup> degree</h3>
+                        <h3>Uma versão especial do <a href="saba.php">Jins Saba</a> com sua tônica no 3<sup>o</sup> grau</h3>
                     </div>
+                    
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Jins</a>
                     <div class="clearfix"></div>
 
@@ -42,7 +43,7 @@ include($ROOT . 'inc/head.php');
                      <div class="notation" id="notation1">
                         <img src="/note/jins/saba_dalanshin.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Clique nas notas e segure usando o mouse para ouví-las.</p>
+                        <p class="clicknotes">Clique nas notas e segure usando o mouse para ouví-las tocar.</p>
                     </div>
 
                     <map name="notemap">
@@ -54,11 +55,14 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="355,38,13" href="#" alt="Ré♭" class="playNote" data-frequency="560  " data-parent="#notation1"><!--Hijaz 2-->
 					  <area shape="circle" coords="432,29,13" href="#" alt="Mi♮" class="playNote" data-frequency="660" data-parent="#notation1"><!--Hijaz 3-->
 					  <area shape="circle" coords="509,21,13" href="#" alt="Fa" class="playNote" data-frequency="695.3" data-parent="#notation1">
-
 					</map>
-                    <p>Jins Saba Dalanshin is a special case of <a href="saba.php">Jins Saba</a> which has no <em>ghammaz</em>, and therefore no defined size. Its melody is centered around its tonic, notated here on C. The intervals above the tonic are more or less identical to <a href="hijaz.php">Jins Hijaz</a>. The note that is 2 degrees below the tonic (in this case A) is a secondary tonic.</p>
 
-                    <p>Jins Saba Dalanshin occurs on the octave of <a href="../maqam/rast.php">Maqam Rast</a>, which in this case becomes known as <a href="../maqam/dalanshin.php">Maqam Dalanshin</a>. It also occurs on the 5<sup>th</sup> degree of <a href="../maqam/shawq_afza.php">Maqam Shawq Afza</a>.</p>
+                    <p>
+                        O Jins Saba Dalanshin é um caso especial do <a href="saba.php">Jins Saba</a> que não possui <em>ghammaz</em>, e portanto não tem tamanho definido. Sua melodia está centrada ao redor de sua tônica, aqui escrita em Do. Os intervalos acima da tônica são mais ou menos idênticos ao <a href="hijaz.php">Jins Hijaz</a>. A nota que está 2 graus abaixo da tônica (neste caso, A) é a tônica secundária.
+                    </p>
+                    <p>
+                        O Jins Saba Dalanshin ocorre na oitava do <a href="../maqam/rast.php">Maqam Rast</a>, que neste caso passa a ser chamado <a href="../maqam/dalanshin.php">Maqam Dalanshin</a>. Também ocorre no 5<sup>o</sup> grau do <a href="../maqam/shawq_afza.php">Maqam Shawq Afza</a>.
+                    </p>
 
                     <div class="player-area">
                         <audio id="player" controls>
@@ -109,7 +113,7 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Qanun Taqsim (from Layali Rast)</b>
+                                    <b>Qanun Taqsim (do Layali Rast)</b>
                                     <span>‘Abbas al-Bleidi</span>
                                 </div>
                             </label>

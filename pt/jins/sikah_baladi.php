@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Jins Sikah Baladi";
 $page_description = "Jins Sikah Baladi";
-$page_keywords = "arabic, music, arab, world, maqam, jins, ‘ajam, ajam, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "pt";
 
 include($ROOT . 'inc/head.php');
@@ -30,8 +30,9 @@ include($ROOT . 'inc/head.php');
                     
                     <div class="heading jins text-center">
                         <h1>Jins Sikah Baladi <span class="badge badge-custom">Novo</span></h1>
-                        <h3>(undefined size)</h3>
+                        <h3>(tamanho indefinido)</h3>
                     </div>
+                    
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Jins</a>
                     <div class="clearfix"></div>
                     
@@ -39,11 +40,10 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/sikah_baladi.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Sikah Baladi</a>
                     </div>
                     
-                    
                      <div class="notation" id="notation1">
                         <img src="/note/jins/sikah_baladi.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Clique nas notas e segure usando o mouse para ouví-las.</p>
+                        <p class="clicknotes">Clique nas notas e segure usando o mouse para ouví-las tocar.</p>
                     </div>
 
                     <map name="notemap">
@@ -53,11 +53,11 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="318,67,13" href="#" alt="Lá<i class='icon-halfflat'></i>↓" class="playNote" data-frequency="425" data-parent="#notation1"><!-- variable -->
 					  <area shape="circle" coords="395,60,13" href="#" alt="Si<i class='icon-halfflat'></i>↑" class="playNote" data-frequency="485" data-parent="#notation1"><!-- variable -->
 					  <area shape="circle" coords="473,51,13" href="#" alt="Do↓" class="playNote" data-frequency="515" data-parent="#notation1"><!-- variable -->
-					 
-					  
-				     
 					</map>
-                    <p>Jins Sikah Baladi has no <em>ghammaz</em>, and therefore no defined size. Its melody is centered around its tonic, notated here on G. Jins Sikah Baladi is very difficult to accurately notate; instead its intervals and intonation are best learned by ear. Jins Sikah Baladi occurs on the octave of <a href="../maqam/sikah_baladi.php">Maqam Sikah Baladi</a>.</p>
+
+                    <p>
+                        O Jins Sikah Baladi não possui <em>ghammaz</em>, e portanto não tem tamanho definido. Sua melodia está centrada ao redor de sua tônica, aqui escrita em Sol. O Jins Sikah Baladi é muito difícil de escrever corretamente; ao invés disso, é melhor aprender seus intervalos e entonação de ouvido. O Jins Sikah Baladi ocorre na oitava do <a href="../maqam/sikah_baladi.php">Maqam Sikah Baladi</a>.
+                    </p>
                     
                     <div class="player-area">
                         <audio id="player" controls>

@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Jins Nahawand Murassa‘";
 $page_description = "Jins Nahawand Murassa‘";
-$page_keywords = "arabic, music, arab, world, maqam, jins, nahawand murassa‘, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "pt";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Jins Nahawand Murassa‘</h1>
-                        <h3>A variation of <a href="nahawand.php">Jins Nahawand</a> with a lowered 5<sup>th</sup></h3>
+                        <h3>Uma variação do <a href="nahawand.php">Jins Nahawand</a> com uma 5<sup>a</sup> rebaixada</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Jins</a>
                     <div class="clearfix"></div>
@@ -39,11 +39,10 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/nahawand_murassaa.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Nahawand Murassa‘</a>
                     </div>
 
-
                      <div class="notation" id="notation1">
                         <img src="/note/jins/nahawand_murassaa.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Clique nas notas e segure usando o mouse para ouví-las.</p>
+                        <p class="clicknotes">Clique nas notas e segure usando o mouse para ouví-las tocar.</p>
                     </div>
 
                     <map name="notemap">
@@ -54,9 +53,10 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="357,78,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1"><!-Hijaz 1st-->
 					  <area shape="circle" coords="434,70,13" href="#" alt="Sol♭" class="playNote" data-frequency="373.33" data-parent="#notation1"><!--variable-->
 					  <area shape="circle" coords="509,62,12" href="#" alt="Lá♮" class="playNote" data-frequency="444" data-parent="#notation1"><!--var-->
-
 					</map>
-                    <p>Jins Nahawand Murassa‘ has no <em>ghammaz</em>, and therefore no defined size. It is notated here with its tonic on C. Jins Nahawand Murassa‘ is the first <em>jins</em> in <a href="../maqam/nahawand_murassaa.php">Maqam Nahawand Murassa‘</a>.
+
+                    <p>
+                        O Jins Nahawand Murassa‘ não possui <em>ghammaz</em>, e portanto não tem tamanho definido. Está escrito aqui com sua tônica em C. O Jins Nahawand Murassa‘ é o primeiro <em>jins</em> no <a href="../maqam/nahawand_murassaa.php">Maqam Nahawand Murassa‘</a>.
                     </p>
 
                     <div class="player-area">

@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Jins Hijazkar";
 $page_description = "Jins Hijazkar";
-$page_keywords = "arabic, music, arab, world, maqam, jins, hijazkar, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "pt";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Jins Hijazkar <span class="badge badge-custom">Novo</span></h1>
-                        <h3>(undefined size)</h3>
+                        <h3>(tamanho indefinido)</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Jins</a>
                     <div class="clearfix"></div>
@@ -43,7 +43,7 @@ include($ROOT . 'inc/head.php');
                     <div class="notation" id="notation1">
                         <img src="/note/jins/hijazkar.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Clique nas notas e segure usando o mouse para ouví-las.</p>
+                        <p class="clicknotes">Clique nas notas e segure usando o mouse para ouví-las tocar.</p>
                     </div>
 
                     <map name="notemap">
@@ -53,9 +53,10 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="303,42,13" href="#" alt="Ré♭" class="playNote" data-frequency="554" data-parent="#notation1"><!-- Hijaz 2 tuned up from 548 -->
 					  <area shape="circle" coords="380,35,13" href="#" alt="Mi♮" class="playNote" data-frequency="656" data-parent="#notation1"><!-- Hijaz 3 tuned down from 660 -->
 					  <area shape="circle" coords="457,26,13" href="#" alt="Fa" class="playNote" data-frequency="695.3" data-parent="#notation1">
-
 					</map>
-                    <p>Jins Hijazkar has no <em>ghammaz</em>, and therefore no defined size. Its melody is centered around its tonic, notated here on C. Jins Hijazkar occurs on the octave of <a href="../maqam/hijazkar.php">Maqam Hijazkar</a>.
+
+                    <p>
+                        Jins Hijazkar não possui <em>ghammaz</em>, e portanto não tem um tamanho definido. Sua melodia se centra ao redor de sua tônica, aqui escrita como em Do. Jins Hijazkar ocorre na oitava do <a href="../maqam/hijazkar.php">Maqam Hijazkar</a>.
                     </p>
 
                     <div class="player-area">

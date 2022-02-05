@@ -6,7 +6,7 @@ include('../../inc/config.php');
 /* SEO settings for this page */
 $page_title = "Jins Sazkar";
 $page_description = "Jins Sazkar";
-$page_keywords = "arabic, music, arab, world, maqam, jins, ‘ajam, ajam, oud, qanun, nay, quarter tone, tetrachord, modal, middle east";
+$page_keywords = "sistema modal, música árabe tradicional, árabe, maqam, jins, iqaa, ritmo, formas, instrumentos";
 $page_language = "pt";
 
 include($ROOT . 'inc/head.php');
@@ -30,7 +30,7 @@ include($ROOT . 'inc/head.php');
 
                     <div class="heading jins text-center">
                         <h1>Jins Sazkar</h1>
-                        <h3>A variation of <a href="rast.php">Jins Rast</a> with a raised 2<sp>nd</sp></h3>
+                        <h3>Uma variação do <a href="rast.php">Jins Rast</a> com uma 2<sup>a</sup> aumentada</h3>
                     </div>
                     <a href="#" class="show-side-menu d-block d-md-none btn btn-primary"><i class="fa fa-fw fa-bars"></i> Índice de Jins</a>
                     <div class="clearfix"></div>
@@ -39,11 +39,10 @@ include($ROOT . 'inc/head.php');
                         <a href="#" class="pronunciation btn btn-default" data-audio="/audio/name/sazkar.mp3"><i class="fa fa-fw fa-volume-up"></i> Pronúncia de Sazkar</a>
                     </div>
 
-
                      <div class="notation" id="notation1">
                         <img src="/note/jins/sazkar.png" class="img-fluid" usemap="#notemap">
                         <div class="shape"></div>
-                        <p class="clicknotes">Clique nas notas e segure usando o mouse para ouví-las.</p>
+                        <p class="clicknotes">Clique nas notas e segure usando o mouse para ouví-las tocar.</p>
                     </div>
 
                     <map name="notemap">
@@ -54,10 +53,9 @@ include($ROOT . 'inc/head.php');
 					  <area shape="circle" coords="368,73,13" href="#" alt="Fa" class="playNote" data-frequency="347.65" data-parent="#notation1">
 					  <area shape="circle" coords="447,65,14" href="#" alt="Sol " class="playNote" data-frequency="391.11" data-parent="#notation1">
 					  <area shape="circle" coords="519,57,12" href="#" alt="Lá♮" class="playNote" data-frequency="440" data-parent="#notation1">
-
 					</map>
 
-                    <p>Jins Sazkar is a 5-note jins. It is notated here with its tonic on C and its <em>ghammaz</em> on G. Jins Sazkar is the first jins in <a href="../maqam/kirdan.php">Maqam Sazkar</a>.
+                    <p>Jins Sazkar é um jins de 5 notas. Está escrito aqui com sua tônica em Do e seu <em>ghammaz</em> em Sol. Jins Sazkar é o primeiro jins no <a href="../maqam/kirdan.php">Maqam Sazkar</a>.
                     </p>
 
                     <div class="player-area">
