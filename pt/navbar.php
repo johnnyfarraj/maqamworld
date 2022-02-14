@@ -17,7 +17,7 @@
 			<a class="nav-link" href="/pt/maqam.php">Maqam</a>
 		</li>
 		<li class="nav-item <?php if($page == "pt/iqaa.php") { echo "active"; } ?>">
-			<a class="nav-link" href="/pt/iqaa.php">Rítmos</a>
+			<a class="nav-link" href="/pt/iqaa.php">Ritmos</a>
 		</li>
 		<li class="nav-item <?php if($page == "pt/book.php") { echo "active"; } ?>">
 			<a class="nav-link" href="/pt/book.php">Publicações</a>

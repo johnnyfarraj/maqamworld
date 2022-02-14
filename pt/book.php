@@ -39,7 +39,7 @@ include($ROOT . 'inc/head.php');
                     </p>
                     
                     <p style="margin-bottom:40px;">
-                    Você pode encomendar uma cópia pela <a href="https://www.amazon.com/Inside-Arabic-Music-Performance-Century/dp/0190658363/ref=sr_1_1" target="_blank">Amazon.com</a> (link does not work) ou diretamente com a <a href="https://global.oup.com/academic/product/inside-arabic-music-9780190658366" target="_blank">Oxford University Press</a>.
+                    Você pode encomendar uma cópia pela <a href="https://www.amazon.com/Inside-Arabic-Music-Performance-Century/dp/0190658363/ref=sr_1_1" target="_blank">Amazon.com</a> ou diretamente com a <a href="https://global.oup.com/academic/product/inside-arabic-music-9780190658366" target="_blank">Oxford University Press</a>.
                     </p>
                     
                     <div class="row">

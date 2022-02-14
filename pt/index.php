@@ -84,10 +84,10 @@ include($ROOT . 'inc/head.php');
                             <div class="card">
                                 <img class="card-img-top" src="/img/nahat_round.png" alt="The Arabic Oud">
                                 <div class="card-body">
-                                    <h5 class="card-title">Rítmos</h5>
+                                    <h5 class="card-title">Ritmos</h5>
                                     <p class="card-text">Aprenda sobre o ciclo rítmico árabe chamado Iqa’, que é composto pelos sons primitivos <em>dum</em> eand <em>tak</em>.
                                     </p>
-                                    <a href="/pt/iqaa.php" class="btn btn-primary">Rítmos<i class="fa fa-fw fa-angle-right"></i></a>
+                                    <a href="/pt/iqaa.php" class="btn btn-primary">Ritmos<i class="fa fa-fw fa-angle-right"></i></a>
                                 </div>
                             </div>
                         </div>
