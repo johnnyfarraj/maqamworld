@@ -167,9 +167,9 @@ include($ROOT . 'inc/head.php');
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>‘Aziza (1955)</b>
+                                    <b>Bint el-Balad (1951)</b>
                                     <span>Instrumental Composition</span>
-                                    <span>Music by Muhammad Abdel Wahab (from the movie <strong>‘Aziza</strong>)</span>
+                                    <span>Muhammad Abdel Wahab</span>
                                 </div>
                             </label>
                         </div>
