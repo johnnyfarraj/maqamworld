@@ -167,15 +167,14 @@ include($ROOT . 'inc/head.php');
                     </div>
                     <div class="clearfix"></div>
 
-                    <div class="track" data-song="/audio/iqaa/ciftetelli_4_4/aziza.mp3">
+                    <div class="track" data-song="/audio/iqaa/ciftetelli_4_4/bint_il_balad.mp3">
                         <div class="radio">
                             <label>
                                 <input type="radio" name="song" value="1">
                                 <div class="info">
-                                    <b>Αζίζα (1955)</b>
+                                    <b>Μπιντ ελ-Μπάλαντ (1951)</b>
                                     <span>Οργανική Σύνθεση</span>
-                                    <span>Μουσική Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
-                                    <span>(από την ταινία <strong>Αζίζα</strong>)</span>
+                                    <span>Μοχάμαντ Αμπντέλ Ουαχάμπ</span>
                                 </div>
                             </label>
                         </div>
