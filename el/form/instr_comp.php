@@ -50,12 +50,12 @@ include($ROOT . 'inc/head.php');
                         Η Μακτούα (κυριολεκτικά σημαίνει ένα κομμάτι) είναι γενικά μία οργανική σύνθεση. Λέγεται επίσης Μααζούφα (ερμηνευμένη σε ένα όργανο σε αντίθεση με το τραγούδι). Η φόρμα της Μακτούα είναι ειδικά δημοφιλής στην μουσικό είδος του <em>Ρακς Σάρκι</em>-ανατολικός χορός (χορός της κοιλιάς).
                     </p>
 
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=9sxZVdKGe48">
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=yJecVVGVGIw">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/9sxZVdKGe48/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/yJecVVGVGIw/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">
@@ -236,12 +236,12 @@ include($ROOT . 'inc/head.php');
                         Η Ταχμίλα είναι ένα οργανικό κομμάτι που συνδυάζει ένα επαναλαμβανόμενο ρεφραίν με στροφές που είναι εν μέρει σύνθεση και εν μέρει αυτοσχεδιασμός. Η Ταχμίλα συνήθως παίζεται από μικρό σύνολο Ταχτ (παραδοσιακή μικρή ορχήστρα) όπου κάθε οργανοπαίχτης παίρνει σειρά παίζοντας την εκάστοτε στροφή και αυτοσχεδιάζει, και το ρεφραίν παίζεται από όλη την ορχήστρα.
                     </p>
 
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=bmtF02i7Oh8">
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=bIUyrjpePhs">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/bmtF02i7Oh8/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/bIUyrjpePhs/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">

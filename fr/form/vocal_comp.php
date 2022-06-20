@@ -319,12 +319,12 @@ include($ROOT . 'inc/head.php');
                     <p> Le monologue est une forme de chanson composée inspirée de l'aria de la musique d'Opéra. Cette forme était populaire autour du milieu du 20<sup>ième</sup> siècle. Le monologue est interprété par un chanteur et un ensemble qui l'accompagne et n'a aucune section qui se répète, ce qui implique que de nouvelles phrases et mélodies sont ajoutées constamment du début à la fin du monologue.
                     </p>
 
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=t-easvB208E">
+                    <div class="youtube-track" data-youtube="https://youtu.be/6jcinn0no78">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/t-easvB208E/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/6jcinn0no78/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">
@@ -357,12 +357,12 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=amjqJ_MGg0A">
+                    <div class="youtube-track" data-youtube="https://youtu.be/nNltgC-HmYc">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/amjqJ_MGg0A/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/nNltgC-HmYc/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">
@@ -399,12 +399,12 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=AdAuadp8tq4">
+                    <div class="youtube-track" data-youtube="https://youtu.be/-yxs4ccMB8M">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/AdAuadp8tq4/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/-yxs4ccMB8M/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">

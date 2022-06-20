@@ -47,12 +47,12 @@ include($ROOT . 'inc/head.php');
                     <p> La Maqtoua ('pièce', au sens littéral) est une composition instrumentale. Elle est aussi appelée <em>ma'zoufa</em> (pièce jouée sur un instrument au lieu d'être chantée). La forme <em>maqtoua</em> est très populaire dans la musique <em>Raqs Charqi</em> (danse du ventre).
                     </p>
 
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=9sxZVdKGe48">
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=yJecVVGVGIw">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/9sxZVdKGe48/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/yJecVVGVGIw/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">
@@ -226,12 +226,12 @@ include($ROOT . 'inc/head.php');
                     <p>La Tahmila est une pièce instrumentale qui combine un refrain répété avec des phrases qui sont en partie composées et en partie improvisées. La tahmila est généralement jouée par un petit <em>takht</em> (le petit ensemble traditionnel), et chaque musicien joue à son tour la phrase, improvise, et le refrain est joué par l'ensemble au complet.
                     </p>
 
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=bmtF02i7Oh8">
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=bIUyrjpePhs">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/bmtF02i7Oh8/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/bIUyrjpePhs/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">

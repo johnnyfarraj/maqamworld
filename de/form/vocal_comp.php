@@ -313,12 +313,12 @@ include($ROOT . 'inc/head.php');
                     <p>Der Monolog ist ein durchkomponiertes Lied, das sich an die Arientradition der Oper anlehnt. Er war besonders in der Mitte des zwanzigsten Jahrhunderts beliebt. Der Monolog wird von einem Sänger aufgeführt, der von einem Orchester unterstützt wird. Dort gibt es keine Wiederholung von Teilen. Also werden immer neue Teile aneinandergehängt.
                     </p>
 
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=t-easvB208E">
+                    <div class="youtube-track" data-youtube="https://youtu.be/6jcinn0no78">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/t-easvB208E/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/6jcinn0no78/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">
@@ -351,12 +351,12 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=amjqJ_MGg0A">
+                    <div class="youtube-track" data-youtube="https://youtu.be/nNltgC-HmYc">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/amjqJ_MGg0A/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/nNltgC-HmYc/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">
@@ -392,12 +392,12 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=AdAuadp8tq4">
+                    <div class="youtube-track" data-youtube="https://youtu.be/-yxs4ccMB8M">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/AdAuadp8tq4/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/-yxs4ccMB8M/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">

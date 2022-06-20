@@ -49,12 +49,12 @@ include($ROOT . 'inc/head.php');
                     <h5>المقطوعة هي تأليف آلي صرف، وتُدعى أحيانا بالمعزوفة. وهي شائعة كثيراً في موسيقى الرقص الشرقي.</h5>
                     <br>
                     
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=9sxZVdKGe48">
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=yJecVVGVGIw">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/9sxZVdKGe48/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/yJecVVGVGIw/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">
@@ -207,12 +207,12 @@ include($ROOT . 'inc/head.php');
                     </h5>
                     <br>
                     
-                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=bmtF02i7Oh8">
+                    <div class="youtube-track" data-youtube="https://www.youtube.com/watch?v=bIUyrjpePhs">
                         <div class="radio">
                             <label>
                                 <div class="thumb-area">
                                     <div class="thumb">
-                                        <img src="https://img.youtube.com/vi/bmtF02i7Oh8/hqdefault.jpg">
+                                        <img src="https://img.youtube.com/vi/bIUyrjpePhs/hqdefault.jpg">
                                     </div>
                                 </div><!--
                              --><div class="info">
