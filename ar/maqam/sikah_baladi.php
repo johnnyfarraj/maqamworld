@@ -91,6 +91,42 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/maqam/sikah_baladi/kulli_da_kan_leh.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>اغنية كل ده كان ليه (١٩٥٤)</b>
+                                    <span>غناء والحان محمد عبد الوهاب (مصر)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="track" data-song="/audio/maqam/sikah_baladi/el_habib_el_maghul.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>اغنية الحبيب المجهول (١٩٧٢)</b>
+                                    <span>غناء والحان محمد عبد الوهاب (مصر)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="track" data-song="/audio/maqam/sikah_baladi/al_karnak.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>اغنية الكرنك (١٩٤١)</b>
+                                    <span>غناء والحان محمد عبد الوهاب (مصر)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                    <div class="track" data-song="/audio/maqam/sikah_baladi/shams_el_asil.mp3">
                         <div class="radio">
                             <label>
@@ -138,30 +174,6 @@ include($ROOT . 'inc/head.php');
                                     <b>اغنية اروح لمين (١٩٥٨)</b>
                                     <span>ام كلثوم</span>
                                     <span>الحان رياض السنباطي (مصر)</span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-
-                    <div class="track" data-song="/audio/maqam/sikah_baladi/kulli_da_kan_leh.mp3">
-                        <div class="radio">
-                            <label>
-                                <input type="radio" name="song" value="1">
-                                <div class="info">
-                                    <b>اغنية كل ده كان ليه (١٩٥٤)</b>
-                                    <span>غناء والحان محمد عبد الوهاب (مصر)</span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-
-                    <div class="track" data-song="/audio/maqam/sikah_baladi/el_habib_el_maghul.mp3">
-                        <div class="radio">
-                            <label>
-                                <input type="radio" name="song" value="1">
-                                <div class="info">
-                                    <b>اغنية الحبيب المجهول (١٩٧٢)</b>
-                                    <span>غناء والحان محمد عبد الوهاب (مصر)</span>
                                 </div>
                             </label>
                         </div>

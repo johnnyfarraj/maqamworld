@@ -95,6 +95,42 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track" data-song="/audio/maqam/sikah_baladi/kulli_da_kan_leh.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>Kulli Da Kan Leh (1954)</b>
+                                    <span>Vocals and Music by Muhammad Abdel Wahab (Egypt)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="track" data-song="/audio/maqam/sikah_baladi/el_habib_el_maghul.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>el-Habib el-Majhul(1972)</b>
+                                    <span>Vocals and Music by Muhammad Abdel Wahab (Egypt)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="track" data-song="/audio/maqam/sikah_baladi/al_karnak.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1">
+                                <div class="info">
+                                    <b>al-Karnak (1941)</b>
+                                    <span>Vocals and Music by Muhammad Abdel Wahab (Egypt)</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                     <div class="track" data-song="/audio/maqam/sikah_baladi/shams_el_asil.mp3">
                         <div class="radio">
                             <label>
@@ -142,30 +178,6 @@ include($ROOT . 'inc/head.php');
                                     <b>Aruh Li Min (1958)</b>
                                     <span>Umm Kulthum</span>
                                     <span>Music by Riyad al-Sunbati</span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-
-                    <div class="track" data-song="/audio/maqam/sikah_baladi/kulli_da_kan_leh.mp3">
-                        <div class="radio">
-                            <label>
-                                <input type="radio" name="song" value="1">
-                                <div class="info">
-                                    <b>Kulli Da Kan Leh (1954)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab (Egypt)</span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-
-                    <div class="track" data-song="/audio/maqam/sikah_baladi/el_habib_el_maghul.mp3">
-                        <div class="radio">
-                            <label>
-                                <input type="radio" name="song" value="1">
-                                <div class="info">
-                                    <b>el-Habib el-Majhul(1972)</b>
-                                    <span>Vocals and Music by Muhammad Abdel Wahab (Egypt)</span>
                                 </div>
                             </label>
                         </div>
