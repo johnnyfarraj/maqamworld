@@ -65,6 +65,19 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
+                    <div class="track " data-song="/audio/iqaa/mukhammas/hadhi_al-manazel.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1" >
+                                <div class="info">
+                                    <b>Mouachah Hadhihi al-Manazel</b>
+                                    <span>Sabah Fakhri (Syrie)</span>
+                                    <span>Musique de Omar al-Batch</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                     <div class="track" data-song="/audio/iqaa/mukhammas/wajhak_mushriq.mp3">
                         <div class="radio">
                             <label>

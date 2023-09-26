@@ -57,12 +57,25 @@ include($ROOT . 'inc/head.php');
                                 <div class="info">
                                     <b>Muwashah Badri Adir Kas al-Tila</b>
                                     <span>Orientalia</span>
-                                    <span>Musik von by Muhammad ‘Uthman</span>
+                                    <span>Musik von Muhammad ‘Uthman</span>
                                 </div>
                             </label>
                         </div>
                     </div>
                     
+                    <div class="track " data-song="/audio/iqaa/mukhammas/hadhi_al-manazel.mp3">
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="song" value="1" >
+                                <div class="info">
+                                    <b>Muwashah Hadhihi al-Manazel</b>
+                                    <span>Sabah Fakhri und sein Ensemble</span>
+                                    <span>Musik von ‘Umar al-Batsh</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+
                     <div class="track" data-song="/audio/iqaa/mukhammas/wajhak_mushriq.mp3">
                         <div class="radio">
                             <label>
