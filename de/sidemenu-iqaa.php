@@ -28,6 +28,7 @@
     <li><a href="/de/iqaa/mukhammas.php">Mukhammas 16/4</a></li>
     <li><a href="/de/iqaa/murabbaa.php">Murabba‘ 13/4</a></li>
     <li><a href="/de/iqaa/nawari.php">Nawari 4/4</a></li>
+    <li><a href="/de/iqaa/nawakht_hindi.php">Nawakht Hindi 16/4</a></li>
     <li><a href="/de/iqaa/katakufti.php">Katakufti 8/8</a></li>
     <li><a href="/de/iqaa/rumba.php">Rumba 4/4</a></li>
     <li><a href="/de/iqaa/saidi.php">Sa‘idi 4/4</a></li>
