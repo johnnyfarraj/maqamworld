@@ -100,6 +100,7 @@ include($ROOT . 'inc/head.php');
                                     <li><a href="iqaa/dharafat.php">Dharafat 13/8</a></li>
                                     <li><a href="iqaa/murabbaa.php">Murabba‘ 13/4</a></li>
                                     <li><a href="iqaa/muhajjar.php">Muhajjar 14/4</a></li>
+                                    <li><a href="iqaa/nawakht_hindi.php">Nawakht Hindi 16/4</a></li>
                                     <li><a href="iqaa/mukhammas.php">Mukhammas 16/4</a></li>
                                     <li><a href="iqaa/khosh_rang.php">Khosh Rang 17/8</a></li>
                                     <li><a href="iqaa/awfar.php">Awfar Masri 19/4</a></li>

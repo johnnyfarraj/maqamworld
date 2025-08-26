@@ -35,6 +35,7 @@
     <li><a href="/ar/iqaa/maqsum.php">مقسوم ٤/٤</a></li>
     <li><a href="/ar/iqaa/malfuf.php">ملفوف ٢/٤</a></li>
     <li><a href="/ar/iqaa/nawakht.php">نواخت ٧/٤</a></li>
+    <li><a href="/ar/iqaa/nawakht_hindi.php">نواخت هندي ١٦/٤</a></li>
     <li><a href="/ar/iqaa/nawari.php">نَوَري ٤/٤</a></li>
     <li><a href="/ar/iqaa/hachaa.php">هجع ٤/٤</a></li>
     <li><a href="/ar/iqaa/wahda.php">واحدة ٤/٤</a></li>

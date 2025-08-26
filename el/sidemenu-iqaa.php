@@ -23,6 +23,7 @@
     <li><a href="/el/iqaa/bambi.php">Μπάμμπι 8/4</a></li>
     <li><a href="/el/iqaa/nawari.php">Νάουαρι 4/4</a></li>
     <li><a href="/el/iqaa/nawakht.php">Ναουάχτ 7/4</a></li>
+    <li><a href="/el/iqaa/nawakht_hindi.php">Ναουάχτ Χίντι 16/4</a></li>
     <li><a href="/el/iqaa/dawr_hindi.php">Ντάουρ Χίντι 7/8</a></li>
     <li><a href="/el/iqaa/warshan_arabi.php">Ουαρσάν Άραμπι 32/4</a></li>
     <li><a href="/el/iqaa/wahda.php">Ουάχντα 4/4</a></li>

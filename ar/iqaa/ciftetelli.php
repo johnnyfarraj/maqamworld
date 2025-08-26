@@ -128,19 +128,6 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/ciftetelli_8_4/tile3li_el_biki.mp3">
-                        <div class="radio">
-                            <label>
-                                <input type="radio" name="song" value="1">
-                                <div class="info">
-                                    <b>اغنية طلع لي البكي</b>
-                                    <span>غناء فيروز (لبنان)</span>
-                                    <span>الحان فيلمون وهبي (لبنان)</span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-
                     <!-- Need some kind of divider here to start the Form 2  examples -->
                     <br>
                     <div class="heading jins text-center">
