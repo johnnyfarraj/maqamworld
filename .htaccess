@@ -1,2 +1,12 @@
 RewriteEngine on
-ErrorDocument 404   /underconstruction.php
+ErrorDocument 404 /underconstruction.php
+
+# Begin EnforceSSL maqamworld.online
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^(www.)?maqamworld.online$
+RewriteCond %{HTTPS} !=on
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L]
+</IfModule>
+# End EnforceSSL
+
