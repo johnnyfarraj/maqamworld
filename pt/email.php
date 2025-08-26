@@ -10,7 +10,7 @@ if(isset($firstname) && $firstname != "" && isset($lastname) && $lastname != "" 
     
     /* PHP MAIl FUNCTION */
     $to      = 'johnnyfarraj@gmail.com';
-    $subject = 'New Message from MaqamWorld';
+    $subject = 'New Message from MaqamWorld (Portuguese)';
     $message = 'Hello,<br><br>You have a new message from MaqamWorld:<br><br>Name: '.$firstname.' '.$lastname.'<br>Email: '.$email.'<br>Message: '.$ms;
     $headers = 'From: no-reply@maqamworld.com' . "\r\n" .
     'Reply-To: johnnyfarraj@gmail.com' . "\r\n" .
