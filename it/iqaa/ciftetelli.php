@@ -127,19 +127,6 @@ include($ROOT . 'inc/head.php');
                         </div>
                     </div>
 
-                    <div class="track" data-song="/audio/iqaa/ciftetelli_8_4/tile3li_el_biki.mp3">
-                        <div class="radio">
-                            <label>
-                                <input type="radio" name="song" value="1">
-                                <div class="info">
-                                    <b>Tile‘ Li el-Biki</b>
-                                    <span>Fairouz</span>
-                                    <span>Musica di Philemon Wehbe</span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-
                     <!-- Need some kind of divider here -->
                     <br>
                     <div class="heading jins text-center">
